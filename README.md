@@ -1,6 +1,24 @@
 # AirwaveDB Streams
 
-Open collection of internet radio stream endpoints linked to stable station IDs from [`AirwaveDB/database`](https://github.com/AirwaveDB/database).
+Canonical stream data for the AirwaveDB internet radio directory.
+
+This repository stores playable stream endpoints linked to stable station IDs from [`AirwaveDB/database`](https://github.com/AirwaveDB/database). Applications should normally consume [`AirwaveDB/api`](https://github.com/AirwaveDB/api) instead of reading the CSV files directly.
+
+## API
+
+Public JSON data is available from:
+
+```text
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1
+```
+
+Examples:
+
+```text
+/streams.json
+/countries/jp.json
+/countries/us.json
+```
 
 ## Data
 
