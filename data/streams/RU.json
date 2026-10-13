@@ -14174,6 +14174,25 @@
     "lastCheckedAt": "2026-10-12T12:13:09Z"
   },
   {
+    "id": "aws_575516ec69f9f136c505",
+    "stationId": "awb_ef1c5d685b29120581b6",
+    "name": "RadCap - Post Grunge",
+    "country": "RU",
+    "url": "http://79.111.119.111:9073/;",
+    "codec": "aac+",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4eb36136-697b-4339-b07d-0f4981c4b784"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T22:23:52Z"
+  },
+  {
     "id": "aws_97919aed1af7bf028442",
     "stationId": "awb_74aa6e72ed09b92ef267",
     "name": "RadCap - Post Hardcore",
@@ -15526,6 +15545,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:28:02Z"
+  },
+  {
+    "id": "aws_c028de02bf1f2b90178f",
+    "stationId": "awb_177d5d3e54edef4ab82d",
+    "name": "Radio Caprice - Abstract Hip-hop",
+    "country": "RU",
+    "url": "http://79.111.14.76:9093/;stream/1",
+    "codec": "aac+",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6cc8ec34-404e-11e9-aa55-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T22:05:53Z"
   },
   {
     "id": "aws_eafd48fe657747a6e748",
@@ -29173,10 +29211,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "ada42595-f042-4c27-9279-5994503ecc81"
+      "ada42595-f042-4c27-9279-5994503ecc81",
+      "c1cd395e-bd66-48f8-b8fa-edd23866b9db"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T15:56:46Z"
+    "lastCheckedAt": "2026-10-12T20:46:48Z"
   },
   {
     "id": "aws_701b4f06039d47a13f49",
@@ -38137,6 +38176,26 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:51:37Z"
+  },
+  {
+    "id": "aws_07056b381bc6d0d84c58",
+    "stationId": "awb_e377f8f54ea9ff5f4dfe",
+    "name": "Монтекарло Санкт Петербург",
+    "country": "RU",
+    "url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo-spb/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 100,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3dc4bd34-633f-4269-a6bd-a917c080e2df",
+      "941b527d-b8de-4ccf-ab50-8a7d25e11b27"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T22:05:53Z"
   },
   {
     "id": "aws_4f5c90a95d1227279a75",
