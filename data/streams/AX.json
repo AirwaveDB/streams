@@ -1,0 +1,40 @@
+[
+  {
+    "id": "aws_9e22760e49123d22bb53",
+    "stationId": "awb_b06d8d84b0d4474c2630",
+    "name": "Ålands Radio",
+    "country": "AX",
+    "url": "https://stream.alandsradio.ax/stream.ogg",
+    "codec": "ogg",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a940d9eb-b262-4d06-917b-457a03e0e140"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T10:29:53Z"
+  },
+  {
+    "id": "aws_40d3cbd0894da54ba1ab",
+    "stationId": "awb_11e0218d29dd21e5d111",
+    "name": "EXA FM: Popmusik på engelska och spanska",
+    "country": "AX",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "codec": "aac+",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d7a3eb69-9212-4b9d-98d7-ac5bdfe105da"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T17:07:41Z"
+  }
+]

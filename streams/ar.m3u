@@ -485,7 +485,7 @@ http://server1.veemesoft.com.ar:6340/;
 http://fmcarilo.ddns.net:8000/;
 #EXTINF:-1 station-id="awb_1e5737c3aa835525ac7f" stream-id="aws_c4c27455c15e7a59db43" codec="aac+" bitrate="32",FM Carolina 102.9
 http://server1.veemesoft.com.ar:26629/;
-#EXTINF:-1 station-id="awb_df8f7d44b03b7571e07c" stream-id="aws_d3d7e184e42ec6b788eb" codec="aac+" bitrate="96",FM CENTENARIO 99.3
+#EXTINF:-1 station-id="awb_df8f7d44b03b7571e07c" stream-id="aws_d3d7e184e42ec6b788eb" codec="aac+" bitrate="104",FM CENTENARIO 99.3
 https://streaming.radiosenlinea.com.ar/9694/stream
 #EXTINF:-1 station-id="awb_81b22d260136519c0947" stream-id="aws_70b99f564f0ea46660f9" codec="mp3" bitrate="128",FM Centro 100.7
 https://tolkien.republicahosting.net:2378/live
@@ -781,7 +781,7 @@ https://https.nvradios.com/radio/9396//radio.mp3
 https://streamer.fmfutura.com.ar/vivo.mp3
 #EXTINF:-1 station-id="awb_64f7a710266e2964c69f" stream-id="aws_8e7297eea042100cb935" codec="aac" bitrate="148",FutuRÖck
 https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8
-#EXTINF:-1 station-id="awb_fd19e96a186262ad398a" stream-id="aws_c9dc3042fdcf53777a67" codec="aac" bitrate="148",FutuRock
+#EXTINF:-1 station-id="awb_fd19e96a186262ad398a" stream-id="aws_c9dc3042fdcf53777a67" codec="aac" bitrate="150",FutuRock
 https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8
 #EXTINF:-1 station-id="awb_b6b92110a2d575c756c5" stream-id="aws_e056b067fffb6d1209fe" codec="unknown" bitrate="0",Futurock FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio/5942a3a05fa68cca2efb4264/5d9d019112cbbb45d6a50960/chunks.m3u8
@@ -817,8 +817,8 @@ https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
 https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
 #EXTINF:-1 station-id="awb_ba2687ead463cbfcb848" stream-id="aws_5aa90abbc1aa24ce37f1" codec="aac+" bitrate="96",Horizonte Radio 95.3
 https://streaming01.shockmedia.com.ar/8440/stream/;
-#EXTINF:-1 station-id="awb_d2d2aa94c84617c393f0" stream-id="aws_a33030ad08b04631624e" codec="aac" bitrate="128",Horizonte Radio Córdoba
-https://stream-179.surfernetwork.com/uotnxsvqdjnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3RueHN2cWRqbnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtqT1h5MElJVHZLNXRFSThfRVBXNUEiLCJpYXQiOjE3OTA4NjEzMzcsImV4cCI6MTc5MDg2MTM5N30.kdO92K2-XoCfKuHREVIJOG1s8FmtI1Xv8oZEE5unYxU
+#EXTINF:-1 station-id="awb_d2d2aa94c84617c393f0" stream-id="aws_0df9b1a96aa412fe4e93" codec="aac" bitrate="128",Horizonte Radio Córdoba
+https://stream-179.surfernetwork.com/uotnxsvqdjnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3RueHN2cWRqbnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBUYURjTzc4U0lpWm5mbXItbGlXT1EiLCJpYXQiOjE3OTE4Mzc3ODQsImV4cCI6MTc5MTgzNzg0NH0.htnT4RqsRtmwQ4YbB8Lr1aof_R5QP3KzUDMPDHndzhs
 #EXTINF:-1 station-id="awb_0e0444bd46b24b63bb60" stream-id="aws_70d1ff31d5d87ecf0ab8" codec="mp3" bitrate="128",in.radio
 https://stream-177.surfernetwork.com/n1f4vputgqbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMWY0dnB1dGdxYnV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9NYjQxSkY2VE51cWU5bGdOcjQzQkEiLCJpYXQiOjE3OTE3OTUwMDYsImV4cCI6MTc5MTc5NTA2Nn0.DuNrQ5i8XkbxtHPRtEDvXSeot-8ULgvSvs72w-tYwsc
 #EXTINF:-1 station-id="awb_5c0187bfbfd990387496" stream-id="aws_b1fabafd69ea1ae95bd2" codec="mp3" bitrate="128",Infobae FM 97.1
@@ -1661,6 +1661,8 @@ https://server.streamcasthd.com/8022/stream
 http://sonic.cloudstreaming.eu:9992/;
 #EXTINF:-1 station-id="awb_8e17b72b8443099c0c9e" stream-id="aws_017cbacc431983153ec8" codec="aac+" bitrate="32",Radio Impacto Realicó 91.1
 https://streaming01.shockmedia.com.ar:10829/stream?icy=http
+#EXTINF:-1 station-id="awb_0511159530ca89bbbafd" stream-id="aws_e45be42001cd7640e314" codec="mp3" bitrate="128",radio indecente
+http://indecentes.duckdns.org:8000/live
 #EXTINF:-1 station-id="awb_91b1672ac55e7ce1beee" stream-id="aws_4b2187eb281a1416f48d" codec="aac+" bitrate="32",Radio Infinita Mendoza 98.5 FM
 https://cdn.instream.audio/:8225/stream
 #EXTINF:-1 station-id="awb_88d2658426f022d21a7d" stream-id="aws_6f94117fe10ec7c801c0" codec="aac" bitrate="64",Radio Infinity Classic

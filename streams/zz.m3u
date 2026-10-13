@@ -543,7 +543,7 @@ http://railaudio2.railroadradio.net:7182/
 http://naxidigital-boem128.streaming.rs:8160/
 #EXTINF:-1 station-id="awb_58a5de95f5a17f6eb992" stream-id="aws_1d0fade99c474c10859a" codec="mp3" bitrate="256",bonn.fm
 http://131.220.107.145:8000/live_high
-#EXTINF:-1 station-id="awb_36c8388f8ae9c6134292" stream-id="aws_a0c9c373ee3046500d30" codec="mp3" bitrate="128",Break Pirates
+#EXTINF:-1 station-id="awb_36c8388f8ae9c6134292" stream-id="aws_a0c9c373ee3046500d30" codec="mp3" bitrate="192",Break Pirates
 http://bpstream.hostco.de:3000/
 #EXTINF:-1 station-id="awb_996ab4895bab8ee3ec03" stream-id="aws_b1da021541a034d9c502" codec="aac+" bitrate="64",Bright.FM Kids
 http://str1.hollanddata.eu:8020/stream
@@ -563,8 +563,8 @@ http://stream.dar.fm/102665
 https://onlineradiobox.com/json/br/cabobranco/play?platform=web
 #EXTINF:-1 station-id="awb_25404e38d938582c0a3a" stream-id="aws_ecafda39c348eedd2679" codec="mp3" bitrate="128",Cadena Dial
 http://25603.live.streamtheworld.com:3690/CADENADIAL_SC
-#EXTINF:-1 station-id="awb_3d88cc4471bc5b27d9d6" stream-id="aws_9ce1ff1a7082fca6aab7" codec="aac" bitrate="96",Café Romántico
-https://panel.retrolandigital.com:8110/listen
+#EXTINF:-1 station-id="awb_3d88cc4471bc5b27d9d6" stream-id="aws_8efeaf7ae1b19567ee1c" codec="aac" bitrate="96",Café Romántico
+https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen
 #EXTINF:-1 station-id="awb_69120896c24dcdc13180" stream-id="aws_81da09a089345d51b810" codec="mp3" bitrate="128",Calm Radio Lullaby
 http://streams.calmradio.com:19728/stream/1/
 #EXTINF:-1 station-id="awb_d6c6b8b337c40e5d7d20" stream-id="aws_64b8ae9d29c9405e2ca5" codec="mp3" bitrate="128",Cambridge 105
@@ -1171,8 +1171,8 @@ https://us3new.listen2myradio.com:2199/listen.php?port=8117&type=s2&mount=/1?ver
 http://mr-stream.mediaconnect.hu/4736/mr1.mp3
 #EXTINF:-1 station-id="awb_c74ac30b09ffe74349ec" stream-id="aws_c2f7597286f15b84327a" codec="unknown" bitrate="128",KRAL POP
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u
-#EXTINF:-1 station-id="awb_15763b1259884067f472" stream-id="aws_9768cb1ab33e64e29a26" codec="mp3" bitrate="128",Kreuzberg Radio
-http://kreuzbergradio.stream.laut.fm/kreuzberg_radio?t302=2026-10-01_12-01-22&uuid=117763ed-7b94-2108-c078-bafe4bfbbbfe
+#EXTINF:-1 station-id="awb_15763b1259884067f472" stream-id="aws_55666e46022b17633c69" codec="mp3" bitrate="128",Kreuzberg Radio
+http://kreuzbergradio.stream.laut.fm/kreuzberg_radio?uuid=00be95d0-78e5-3b77-7ea0-18f05774ba8c&t302=2026-10-12_22-53-43
 #EXTINF:-1 station-id="awb_bb34905460253ef9f0fe" stream-id="aws_577d8a044e704b81547e" codec="mp3" bitrate="128",Kriola
 http://stream.laut.fm/kriola
 #EXTINF:-1 station-id="awb_3be3abc64cadd2da5ce1" stream-id="aws_dc10159fbe04349fb295" codec="mp3" bitrate="128",Kronehit
@@ -1497,6 +1497,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3?d
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3?dist=tunein
 #EXTINF:-1 station-id="awb_0ce78fb049bc5a677bdc" stream-id="aws_d7243fb7b84f8ae8644f" codec="mp3" bitrate="128",Radio 31 2000s
 http://2000er.stream.laut.fm/2000er?t302=2018-03-11_09-46-13&uuid=4aedf967-8bec-4e7f-9eff-f44434694924
+#EXTINF:-1 station-id="awb_1e511a9342c490ea5bb6" stream-id="aws_96d99c45e9095bb04aca" codec="mp3" bitrate="128",Radio 404
+http://www.radioking.com/play/radio404
 #EXTINF:-1 station-id="awb_2426ed19669f90320e09" stream-id="aws_5938f6f4dbe43db87587" codec="aac+" bitrate="96",Radio 538
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac
 #EXTINF:-1 station-id="awb_c3dd268f4619fe3a16ce" stream-id="aws_2ba19b1f7409958f52d5" codec="mp3" bitrate="0",Radio 66

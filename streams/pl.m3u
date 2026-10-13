@@ -535,7 +535,7 @@ http://stream2.nadaje.com:11140/rdc
 http://stream4.nadaje.com:11986/prs
 #EXTINF:-1 station-id="awb_53de1849cd101e269411" stream-id="aws_c9ec286be6a09c26d898" codec="unknown" bitrate="0",Polskie Radio Trójka
 https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist_w476233979.m3u8
-#EXTINF:-1 station-id="awb_0b1accfcb755680412ba" stream-id="aws_2d4d8a856b2cc5473ede" codec="" bitrate="0",Polskie Radio: Dwójka (2)
+#EXTINF:-1 station-id="awb_0b1accfcb755680412ba" stream-id="aws_2d4d8a856b2cc5473ede" codec="aac" bitrate="322",Polskie Radio: Dwójka (2)
 https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:-1 station-id="awb_625b43f11dcc6367c391" stream-id="aws_9e8e9b6ecd5c2bbe38a1" codec="mp3" bitrate="192",PR KIEROWCÓW
 http://stream3.polskieradio.pl:8918/;
@@ -1513,8 +1513,8 @@ http://31.192.216.8/BRAVO
 http://31.192.216.8/BRAVOF
 #EXTINF:-1 station-id="awb_1ba12ef82fcbf5e67dd6" stream-id="aws_49048903f4a3f56907d5" codec="aac+" bitrate="64",RMF Chillout
 http://31.192.216.8/CHILLOUT
-#EXTINF:-1 station-id="awb_1ba12ef82fcbf5e67dd6" stream-id="aws_09214f3f5e142a2c7ed5" codec="mp3" bitrate="128",RMF Chillout
-https://rs103-krk-cyfronet.rmfstream.pl/rmf_chillout
+#EXTINF:-1 station-id="awb_1ba12ef82fcbf5e67dd6" stream-id="aws_ab5f92d7e79d34b78292" codec="mp3" bitrate="128",RMF Chillout
+https://rs202-krk.rmfstream.pl/rmf_chillout
 #EXTINF:-1 station-id="awb_8e1a252aadef85c547d2" stream-id="aws_b6555cb6f32e495b6749" codec="aac+" bitrate="64",RMF Chillout + FAKTY
 http://31.192.216.8/CHILLOUTF
 #EXTINF:-1 station-id="awb_57da0bf3eb29440ef82d" stream-id="aws_e15549b5906d4a890c3c" codec="aac+" bitrate="64",RMF Chopin + FAKTY
@@ -1653,8 +1653,8 @@ http://217.74.72.10/rmf_piosenka_filmowa
 https://rs203-krk.rmfstream.pl/rmf_piosenka_filmowa
 #EXTINF:-1 station-id="awb_e8fae5dd35aa7daa5e01" stream-id="aws_cc46e2710ec43d25da5f" codec="aac+" bitrate="64",RMF Piosenka literacka
 http://31.192.216.7/PIOSENKALITERACKA
-#EXTINF:-1 station-id="awb_e8fae5dd35aa7daa5e01" stream-id="aws_c0a58827a0954518681d" codec="mp3" bitrate="128",RMF Piosenka literacka
-https://rs101-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka
+#EXTINF:-1 station-id="awb_e8fae5dd35aa7daa5e01" stream-id="aws_c305c14fc4c6ccaf3f50" codec="mp3" bitrate="128",RMF Piosenka literacka
+https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka
 #EXTINF:-1 station-id="awb_c38e5db16bce8b2888cb" stream-id="aws_2b643ee12d6d95ecb539" codec="aac+" bitrate="64",RMF Piosenka literacka + FAKTY
 http://31.192.216.7/PIOSENKALITERACKAF
 #EXTINF:-1 station-id="awb_d671bf98aed4551cf4f4" stream-id="aws_3e77d68c95af6e82081b" codec="mp3" bitrate="128",RMF Pobudka

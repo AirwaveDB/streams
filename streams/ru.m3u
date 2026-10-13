@@ -409,7 +409,7 @@ https://radio.retrolan.party:8000/radio.mp3
 https://stream.pcradio.ru/Vintazh_kafe-med
 #EXTINF:-1 station-id="awb_6e9e0cdce6e0974171d1" stream-id="aws_e9a4eed87ef1ee83cdac" codec="aac" bitrate="0",Coffee Jazz
 https://tower.hayva.ru/f7lwc-96
-#EXTINF:-1 station-id="awb_37cb403422c3b245a702" stream-id="aws_afaeb32643e553a1ae29" codec="" bitrate="0",Coffee Wave
+#EXTINF:-1 station-id="awb_37cb403422c3b245a702" stream-id="aws_afaeb32643e553a1ae29" codec="aac" bitrate="192",Coffee Wave
 https://coffee-wave.ru:8000/aac
 #EXTINF:-1 station-id="awb_c274d957390cdf8ac07a" stream-id="aws_fd317aa71bdeeec8307d" codec="aac" bitrate="0",Coma @ omFM
 https://radio.omfm.ru/listen/coma/coma.aac
@@ -1171,7 +1171,7 @@ https://r.moychay.ru/radio.m3u8
 https://moygid.online/fi/radio.mp3
 #EXTINF:-1 station-id="awb_0f78286c4d7348d02f2d" stream-id="aws_205af1289c812df1c1a5" codec="mp3" bitrate="128",MOYGID TV — audio guide radio (moygid.online/en)
 https://moygid.online/en/radio.mp3
-#EXTINF:-1 station-id="awb_be780da0300ea453fc32" stream-id="aws_f0624b08e683ffff22ad" codec="mp3" bitrate="320",Much FM Eurodance
+#EXTINF:-1 station-id="awb_be780da0300ea453fc32" stream-id="aws_f0624b08e683ffff22ad" codec="mp3" bitrate="128",Much FM Eurodance
 http://myradio24.org/7552
 #EXTINF:-1 station-id="awb_1ce4a6ccd4328f81252b" stream-id="aws_d1cec4431741cc756adb" codec="mp3" bitrate="128",Murka FM
 https://murka.amgradio.ru/MurkaFM
@@ -2691,8 +2691,8 @@ http://solfm.ru:8000/online128
 https://evcast.mediacp.eu:1965/stream
 #EXTINF:-1 station-id="awb_1efb4b60aafd46490247" stream-id="aws_08fbdaeaf8d8797d697d" codec="mp3" bitrate="128",Radio Sputnik Mundo Latam
 https://icecast-rian.cdnvideo.ru/voicespa
-#EXTINF:-1 station-id="awb_0535ac472f5a0af2965e" stream-id="aws_c3b2d5c7316e0a8d4b16" codec="mp3" bitrate="0",Radio Sputnik Volgograd 105.1FM
-https://online.sputnikfm.ru/sputnik_mp3
+#EXTINF:-1 station-id="awb_0535ac472f5a0af2965e" stream-id="aws_5bd342fd4bbedd7bcd27" codec="mp3" bitrate="0",Radio Sputnik Volgograd 105.1FM
+https://stream2.sputnikfm.ru/sputnik_mp3
 #EXTINF:-1 station-id="awb_db35533823b040bc1253" stream-id="aws_610b8d747d7bc2ed54ae" codec="aac+" bitrate="96",Radio Svetigora
 http://159.69.117.253:8879/;
 #EXTINF:-1 station-id="awb_4aa0e175cf5fe40bd1f4" stream-id="aws_968abe09e3948a6344a5" codec="mp3" bitrate="0",Radio Tourist
@@ -3579,8 +3579,8 @@ https://jecarchive.ru/radio.mp3
 http://listen7.myradio24.com/76923
 #EXTINF:-1 station-id="awb_d6bf8b75e31c9590b71d" stream-id="aws_63cba9625bbda858554f" codec="mp3" bitrate="256",диполь
 https://icecast-sibinformburo.cdnvideo.ru/dipolfm
-#EXTINF:-1 station-id="awb_a915839c977dfa3b21d9" stream-id="aws_fdf31c732179671b291d" codec="mp3" bitrate="128",Дискач 90s Мегахит ДНР
-http://radio90s.stream.laut.fm/radio90s?t302=2026-10-01_16-21-12&uuid=64dfa3a2-8647-3092-f951-9a793843f948
+#EXTINF:-1 station-id="awb_a915839c977dfa3b21d9" stream-id="aws_7540b25ee94f99fc0193" codec="mp3" bitrate="128",Дискач 90s Мегахит ДНР
+http://radio90s.stream.laut.fm/radio90s?uuid=12e8ee95-9df6-9527-ef56-57df4d92146c&t302=2026-10-12_23-16-04
 #EXTINF:-1 station-id="awb_40bdd2aa49b1ba817c5b" stream-id="aws_23c147d256b28845aa7f" codec="mp3" bitrate="256",Диско-радио SOVA
 https://evcast.mediacp.eu:1965/stream
 #EXTINF:-1 station-id="awb_927fc3678a6e8ffb4cde" stream-id="aws_3b5941a570d91abf6d59" codec="mp3" bitrate="256",Диско-радио SOVA
@@ -4993,7 +4993,7 @@ http://air.volna.top/Retro
 https://retro.volna.top/Retro
 #EXTINF:-1 station-id="awb_0f165b879fb2af9c6cca" stream-id="aws_4c657453fc9bed3714bf" codec="mp3" bitrate="128",РЕТРО ХИТ - RETRO HIT
 http://retro.volna.top/Retro
-#EXTINF:-1 station-id="awb_1f1de424076f54ab5c5d" stream-id="aws_836cbb801c7c5f5f91fd" codec="aac" bitrate="0",Ретроклуб Инструментал
+#EXTINF:-1 station-id="awb_1f1de424076f54ab5c5d" stream-id="aws_836cbb801c7c5f5f91fd" codec="mp3" bitrate="0",Ретроклуб Инструментал
 https://retroclub.hostingradio.ru/retroclubdbl224.aacp
 #EXTINF:-1 station-id="awb_25b74a9e7923e191c774" stream-id="aws_87d8455aba6f7bce62ea" codec="aac" bitrate="0",Ретроклуб Радио 60-х
 https://retroclub.hostingradio.ru/retroclubdbl128.aacp

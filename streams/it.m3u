@@ -131,7 +131,7 @@ https://stream.laut.fm/cafe-roma-lounge
 https://rci.canaleitalia.tv:8005/;
 #EXTINF:-1 station-id="awb_bbabea02d161d6bf076f" stream-id="aws_77fb8fa7f4654c26f64c" codec="mp3" bitrate="192",Cantus Radioweb Brunetti
 http://167.235.202.221/listen/cantus_radioweb_brunetti_/radio.mp3
-#EXTINF:-1 station-id="awb_bbabea02d161d6bf076f" stream-id="aws_36005aa7b863976aad2d" codec="" bitrate="0",Cantus Radioweb Brunetti
+#EXTINF:-1 station-id="awb_bbabea02d161d6bf076f" stream-id="aws_36005aa7b863976aad2d" codec="mp3" bitrate="192",Cantus Radioweb Brunetti
 https://radio.riccardobrunetti.it/listen/cantus_radioweb_brunetti_/radio.mp3
 #EXTINF:-1 station-id="awb_8364c2b5a5944d560a84" stream-id="aws_b274d5e1e2f1ed84cbff" codec="mp3" bitrate="320",Canzoni Napoletane
 https://streaming.radiomargherita.com/stream/canzoninapoletane
@@ -463,8 +463,6 @@ http://nr7.newradio.it:9361/;
 https://dreamsiteradiocp3.com/proxy/radioscintilla?mp=/
 #EXTINF:-1 station-id="awb_1cc281406c60c144c4bd" stream-id="aws_4b66ed2cde2291632a29" codec="mp3" bitrate="128",Il Camillofono
 https://radio.celodex.com/stream/camillofono.mp3
-#EXTINF:-1 station-id="awb_faf37ae783cbe50f74bb" stream-id="aws_4c781e51ccbf92276af0" codec="" bitrate="0",il regno della tigrotta
-https://ilregnodellatigrotta.eu/radio.php
 #EXTINF:-1 station-id="awb_01a2edf605545fc5a7ab" stream-id="aws_53c110b20f68da0cb14c" codec="mp3" bitrate="128",Il Regno della Tigrotta - Radio Web
 https://host10.onlineradyotv.net/8022/stream
 #EXTINF:-1 station-id="awb_829c4f8779373f483136" stream-id="aws_75c530b03c11f2abafc7" codec="mp3" bitrate="128",Indaco
@@ -1139,8 +1137,8 @@ http://str04.fluidstream.net/bergamo.mp3
 https://stream.tmwradio.com/bianconera.aac
 #EXTINF:-1 station-id="awb_ace5431f24d7f3ad64e2" stream-id="aws_18364853de5e2142dbc2" codec="aac+" bitrate="64",Radio Bianconera
 https://stream.tmwradio.com/bianconera.aac?FLID=1
-#EXTINF:-1 station-id="awb_e0e6e5ce1baa4d2d8d50" stream-id="aws_c4d6c685b2a73eb4cf2d" codec="ogg" bitrate="0",Radio Bias
-https://admin.biasradio.com/listen/bias_radio/flac
+#EXTINF:-1 station-id="awb_e0e6e5ce1baa4d2d8d50" stream-id="aws_c8947544839df984b211" codec="aac" bitrate="96",Radio Bias
+https://admin.biasradio.com/listen/bias_radio/mobile
 #EXTINF:-1 station-id="awb_ce6c3dae0f28f286e799" stream-id="aws_827c916bc0b53c198e52" codec="mp3" bitrate="128",Radio Biberon
 http://nl1.streamingpulse.com:7022/stream
 #EXTINF:-1 station-id="awb_8e202fbeb9c80de89dc6" stream-id="aws_c77769cc200246fc3fc9" codec="aac+" bitrate="64",Radio Birikina
@@ -3031,7 +3029,7 @@ https://rtr99.fluidstream.eu/rtr99_happy.aac
 https://radio.celodex.com/stream/ruggine.mp3
 #EXTINF:-1 station-id="awb_6d4fc1f8efc318ac5d52" stream-id="aws_8bd2c6f2c7d125f1e948" codec="mp3" bitrate="128",Running Radio
 http://edge.radiomontecarlo.net/rmcweb021
-#EXTINF:-1 station-id="awb_01262ae6d33122f3a43b" stream-id="aws_35a13876b4e753663f6d" codec="" bitrate="0",Runtime Radio
+#EXTINF:-1 station-id="awb_01262ae6d33122f3a43b" stream-id="aws_35a13876b4e753663f6d" codec="mp3" bitrate="0",Runtime Radio
 https://player.runtimeradio.com/listen/runtime_la_radio_geek/radio.mp3
 #EXTINF:-1 station-id="awb_982495400bfff13f17f3" stream-id="aws_4c8cd30ec14b017406b2" codec="mp3" bitrate="128",Rv 1 Superhit
 https://rv1-superhit.stream.laut.fm/rv1-superhit
