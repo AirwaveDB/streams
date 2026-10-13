@@ -12,6 +12,8 @@ This repository stores playable stream endpoints linked to stable station IDs fr
 
 ## Stream schema
 
+The canonical machine-readable schema is [`schema/stream.schema.json`](schema/stream.schema.json), using JSON Schema 2020-12.
+
 ```json
 {
   "id": "aws_ff0d260f65138a051d9e",
