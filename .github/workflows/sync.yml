@@ -35,7 +35,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Build stream dataset
+      - name: Build stream dataset from database mappings
         run: node scripts/sync.mjs
         env:
           ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
