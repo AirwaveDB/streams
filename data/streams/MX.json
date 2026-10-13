@@ -400,25 +400,6 @@
     "lastCheckedAt": "2026-10-11T21:56:34Z"
   },
   {
-    "id": "aws_e99a5227dad39e25927f",
-    "stationId": "awb_9359ec9139ddfe95c6cf",
-    "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-    "country": "MX",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T09:31:22Z"
-  },
-  {
     "id": "aws_a22c1b7760a1e10e3861",
     "stationId": "awb_da98882e1fea6d20c6f0",
     "name": "+Azteka Radio (Río Verde) - Online - www.aztekaradio.com - Río Verde, San Luis Potosí",
@@ -12454,6 +12435,26 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:22:12Z"
+  },
+  {
+    "id": "aws_e99a5227dad39e25927f",
+    "stationId": "awb_9359ec9139ddfe95c6cf",
+    "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+    "country": "MX",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+    "codec": "aac+",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+      "a7a10889-e3af-4085-b800-1868e8cc8085"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T09:31:22Z"
   },
   {
     "id": "aws_d18982f86eabffa39a34",
