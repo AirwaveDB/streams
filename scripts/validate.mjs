@@ -10,42 +10,18 @@ const PLAYLISTS = join(ROOT, 'streams');
 const STREAM_ID = /^aws_[0-9a-f]{20}$/;
 const STATION_ID = /^awb_[0-9a-f]{20}$/;
 const COUNTRY = /^[A-Z]{2}$/;
-const HEADERS = ['id','station_id','name','country','url','codec','bitrate','protocol','hls','sources','source_ids','last_check_ok','last_checked_at'];
 const errors = [];
 
 function fail(message) {
   if (errors.length < 200) errors.push(message);
 }
 
-function parseCsv(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (quoted) {
-      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (c === '"') quoted = false;
-      else field += c;
-    } else if (c === '"') quoted = true;
-    else if (c === ',') { row.push(field); field = ''; }
-    else if (c === '\n') { row.push(field.replace(/\r$/, '')); rows.push(row); row = []; field = ''; }
-    else field += c;
-  }
-  if (field || row.length) { row.push(field); rows.push(row); }
-  if (!rows.length) return { headers: [], rows: [] };
-  const headers = rows.shift();
-  return {
-    headers,
-    rows: rows.filter((r) => r.some(Boolean)).map((r) => Object.fromEntries(headers.map((h, i) => [h, r[i] ?? '']))),
-  };
-}
-
-async function csvFile(path) {
-  return parseCsv(await readFile(path, 'utf8'));
+async function json(path) {
+  return JSON.parse(await readFile(path, 'utf8'));
 }
 
 async function main() {
-  const files = (await readdir(STREAM_DATA)).filter((name) => /^[A-Z]{2}\.csv$/.test(name)).sort();
+  const files = (await readdir(STREAM_DATA)).filter((name) => /^[A-Z]{2}\.json$/.test(name)).sort();
   if (!files.length) fail('data/streams: no country files found');
 
   const ids = new Set();
@@ -54,24 +30,25 @@ async function main() {
 
   for (const file of files) {
     const code = file.slice(0, 2);
-    const parsed = await csvFile(join(STREAM_DATA, file));
-    if (parsed.headers.join(',') !== HEADERS.join(',')) fail(`${file}: unexpected header`);
-    countryCounts.set(code, parsed.rows.length);
+    const rows = await json(join(STREAM_DATA, file));
+    if (!Array.isArray(rows)) { fail(`${file}: expected JSON array`); continue; }
+    countryCounts.set(code, rows.length);
 
-    for (let i = 0; i < parsed.rows.length; i++) {
-      const row = parsed.rows[i];
-      const where = `${file}:${i + 2}`;
+    for (let i = 0; i < rows.length; i++) {
+      const row = rows[i];
+      const where = `${file}[${i}]`;
       streamCount++;
       if (!STREAM_ID.test(row.id)) fail(`${where}: invalid stream id ${row.id}`);
       if (ids.has(row.id)) fail(`${where}: duplicate stream id ${row.id}`);
       ids.add(row.id);
-      if (!STATION_ID.test(row.station_id)) fail(`${where}: invalid station id ${row.station_id}`);
+      if (!STATION_ID.test(row.stationId)) fail(`${where}: invalid station id ${row.stationId}`);
       if (row.country !== code || !COUNTRY.test(row.country)) fail(`${where}: country does not match filename`);
       if (!row.name) fail(`${where}: empty station name`);
-      if (!/^\d+(?:\.\d+)?$/.test(row.bitrate) || Number(row.bitrate) < 0) fail(`${where}: invalid bitrate`);
-      if (!['true', 'false'].includes(row.hls)) fail(`${where}: invalid hls flag`);
-      if (!['true', 'false'].includes(row.last_check_ok)) fail(`${where}: invalid last_check_ok flag`);
-      if (!row.sources || !row.source_ids) fail(`${where}: missing provenance`);
+      if (!Number.isFinite(row.bitrate) || row.bitrate < 0) fail(`${where}: invalid bitrate`);
+      if (typeof row.hls !== 'boolean') fail(`${where}: hls must be boolean`);
+      if (typeof row.lastCheckOk !== 'boolean') fail(`${where}: lastCheckOk must be boolean`);
+      if (!Array.isArray(row.sources) || !row.sources.length) fail(`${where}: missing sources`);
+      if (!Array.isArray(row.sourceIds) || !row.sourceIds.length) fail(`${where}: missing sourceIds`);
       try {
         const url = new URL(row.url);
         if (!['http:', 'https:'].includes(url.protocol)) fail(`${where}: unsupported URL protocol`);
@@ -84,19 +61,19 @@ async function main() {
     try {
       const playlist = await readFile(join(PLAYLISTS, `${code.toLowerCase()}.m3u`), 'utf8');
       const entries = playlist.split('\n').filter((line) => line.startsWith('#EXTINF:')).length;
-      if (entries !== parsed.rows.length) fail(`${code}: playlist entry count ${entries} != ${parsed.rows.length}`);
+      if (entries !== rows.length) fail(`${code}: playlist entry count ${entries} != ${rows.length}`);
     } catch {
       fail(`${code}: missing country playlist`);
     }
   }
 
-  const index = JSON.parse(await readFile(join(DATA, 'index.json'), 'utf8'));
-  if (Number(index.stream_count) !== streamCount) fail(`index.json: stream_count ${index.stream_count} != ${streamCount}`);
+  const index = await json(join(DATA, 'index.json'));
+  if (Number(index.streamCount) !== streamCount) fail(`index.json: streamCount ${index.streamCount} != ${streamCount}`);
   if (index.countries?.length !== countryCounts.size) fail(`index.json: country count ${index.countries?.length} != ${countryCounts.size}`);
   for (const item of index.countries || []) {
     const actual = countryCounts.get(item.code);
     if (actual === undefined) fail(`index.json: missing country file for ${item.code}`);
-    else if (actual !== Number(item.stream_count)) fail(`index.json: count mismatch for ${item.code}: ${item.stream_count} != ${actual}`);
+    else if (actual !== Number(item.streamCount)) fail(`index.json: count mismatch for ${item.code}: ${item.streamCount} != ${actual}`);
   }
 
   if (errors.length) {
