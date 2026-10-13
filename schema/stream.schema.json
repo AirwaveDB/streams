@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/AirwaveDB/streams/blob/main/schema/stream.schema.json",
+  "title": "AirwaveDB Stream",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "stationId",
+    "name",
+    "country",
+    "url",
+    "codec",
+    "bitrate",
+    "protocol",
+    "hls",
+    "sources",
+    "sourceIds",
+    "lastCheckOk",
+    "lastCheckedAt"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^aws_[0-9a-f]{20}$"
+    },
+    "stationId": {
+      "type": "string",
+      "pattern": "^awb_[0-9a-f]{20}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "url": {
+      "type": "string",
+      "minLength": 1
+    },
+    "codec": {
+      "type": ["string", "null"]
+    },
+    "bitrate": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "protocol": {
+      "enum": ["http", "https"]
+    },
+    "hls": {
+      "type": "boolean"
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "sourceIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "lastCheckOk": {
+      "type": "boolean"
+    },
+    "lastCheckedAt": {
+      "type": ["string", "null"]
+    }
+  }
+}
