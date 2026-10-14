@@ -8,7 +8,7 @@ This repository stores playable stream endpoints linked to stable station IDs fr
 
 - `data/streams/<CC>.json` — stream metadata split by ISO 3166-1 alpha-2 country code
 - `streams/<cc>.m3u` — country playlists
-- `data/index.json` — stream counts, source database snapshot, quality counters, and country index
+- `data/index.json` — stream counts, source database snapshot, identity strategy, quality counters, and country index
 
 ## Stream schema
 
@@ -33,6 +33,8 @@ The canonical machine-readable schema is [`schema/stream.schema.json`](schema/st
 ```
 
 `sources` and `sourceIds` are provenance sets. They record which upstream datasets and upstream identifiers contributed to the endpoint; their array positions are not a source-to-ID mapping contract.
+
+Stream IDs are stabilized from upstream provenance and the previous canonical snapshot. A broadcaster can rotate or sign its playback URL without forcing a new AirwaveDB stream ID when the upstream stream identity is still known. If a previously merged endpoint later splits into multiple endpoints, one branch keeps the old ID and the others receive new deterministic IDs so IDs remain unique.
 
 An endpoint listed here is not hosted or proxied by AirwaveDB. Availability can change at any time.
 
