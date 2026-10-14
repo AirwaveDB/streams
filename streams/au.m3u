@@ -1983,8 +1983,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT.mp3
 #EXTINF:-1 station-id="awb_ce85844ded0d2894a365" stream-id="aws_5b09e915547ab9e1c1ff" codec="mp3" bitrate="128",Hobart FM
 https://radio12.shoutcast.net.au:8032/;
-#EXTINF:-1 station-id="awb_adf214c4858dcb735a05" stream-id="aws_849c7a7945d55f1668b4" codec="" bitrate="0",Hope 103.2
-https://hope1032.com.au/player/hope1032/
 #EXTINF:-1 station-id="awb_f9e87449cb6295d3c260" stream-id="aws_a75b2bcd4a9cef6bb8ad" codec="mp3" bitrate="128",Hot 100 - Darwin - 100.1 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
 #EXTINF:-1 station-id="awb_18bb3409576f52f20901" stream-id="aws_03de2f2c9a238bb8960c" codec="aac+" bitrate="64",Hot 100 - Darwin - 100.1 FM (AAC)
@@ -2631,7 +2629,7 @@ http://abm21.com.au:8000/CONTAINER10
 http://stream.outbackradio.com.au:7230/;
 #EXTINF:-1 station-id="awb_0b0fc7ec038a8a8ceb30" stream-id="aws_26ae71215403a096219f" codec="mp3" bitrate="64",PARADISE FM101.9 Ballina
 https://stream2.cnmns.net/paradisefm-mp3
-#EXTINF:-1 station-id="awb_4e619b086c122b131cc7" stream-id="aws_4114f11b92866faffd07" codec="" bitrate="0",PBA-FM
+#EXTINF:-1 station-id="awb_4e619b086c122b131cc7" stream-id="aws_4114f11b92866faffd07" codec="aac+" bitrate="128",PBA-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5PBAAAC.aac
 #EXTINF:-1 station-id="awb_237d42c762983219b6be" stream-id="aws_1b61cb12e796826f00f5" codec="aac+" bitrate="192",PBS 106.7FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.aac
@@ -2935,6 +2933,8 @@ http://stream.zeno.fm/28geuebxafhvv
 http://stream.zeno.fm/wure6q3q008uv
 #EXTINF:-1 station-id="awb_049f760a7f8831ee06ac" stream-id="aws_3509b8874d9cf33daa2a" codec="mp3" bitrate="128",sa rock radio
 https://sarock.radioca.st/stream
+#EXTINF:-1 station-id="awb_f0cb7d0fe917d9bae2e9" stream-id="aws_51a6e311e4140b7a5546" codec="aac" bitrate="130",SAFM - Adelaide
+https://sa47.scastream.com.au/live/5ssa_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4521cdf8396303994ec9" stream-id="aws_72443618f4fa5c66f326" codec="mp3" bitrate="128",Samadhi HiFI
 https://studio19.radiolize.com/radio/8030/radio.mp3
 #EXTINF:-1 station-id="awb_910dc627fc1e5da423e6" stream-id="aws_dc524ad7a3c2f0b4b0da" codec="mp3" bitrate="128",Savage Hits (MP3)

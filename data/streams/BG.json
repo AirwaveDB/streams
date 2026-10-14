@@ -410,7 +410,6 @@
     ],
     "sourceIds": [
       "40ccc5e3-d30a-44f7-990f-c6b72feac5e6",
-      "96163d8b-0601-11e8-ae97-52543be04c81",
       "BG:bg-estrada"
     ],
     "lastCheckOk": true,
@@ -565,7 +564,6 @@
     ],
     "sourceIds": [
       "231b256b-06b1-44c6-abe4-cc6b136ec706",
-      "3a3b1465-6a6f-4289-901c-bd5890cb8370",
       "BG:bnr-horizont"
     ],
     "lastCheckOk": true,
@@ -1201,8 +1199,7 @@
     ],
     "sourceIds": [
       "4cd7c5b3-4b5e-41aa-a93e-cdfd46e71a1d",
-      "BG:easy-radio-bg",
-      "eeab63e3-9d8c-4b8e-8139-44412206400a"
+      "BG:easy-radio-bg"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:31:00Z"
@@ -1744,8 +1741,7 @@
     ],
     "sourceIds": [
       "736c9d38-8947-4d73-b5d8-347c592654fc",
-      "BG:extreme-deep-house-radio",
-      "b91475c1-688e-4f74-958b-d6865626970b"
+      "BG:extreme-deep-house-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:13:20Z"
@@ -1804,8 +1800,7 @@
     ],
     "sourceIds": [
       "8fc1369b-c2fa-4cba-8563-548110540b12",
-      "BG:folk-mix",
-      "e1ad62d7-44ef-4cb6-aa9f-fded04e06477"
+      "BG:folk-mix"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:22:29Z"
@@ -2535,8 +2530,7 @@
     ],
     "sourceIds": [
       "BG:metro-dance-radio",
-      "b3a8e73b-f079-4f5f-adc3-3f75d219a3a5",
-      "e22716d5-e746-4434-aafb-d1d4efa5c208"
+      "b3a8e73b-f079-4f5f-adc3-3f75d219a3a5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:26:11Z"
@@ -2847,6 +2841,25 @@
     "lastCheckedAt": "2026-10-12T18:39:27Z"
   },
   {
+    "id": "aws_5d83d0cf5255fa0b4280",
+    "stationId": "awb_753afc670ee6d134c9cb",
+    "name": "MHT Radio Petrich",
+    "country": "BG",
+    "url": "https://mht.hopto.org:8444/stream/1",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dc699a1f-9d20-4993-b42d-70d28e444a87"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
     "id": "aws_14fa92a1406137729588",
     "stationId": "awb_4ef67daba4457862f376",
     "name": "Mixx",
@@ -2982,9 +2995,7 @@
     ],
     "sourceIds": [
       "41b7e7f7-9542-4393-9b81-ce99000f62b4",
-      "652b1a93-eb0f-41d9-b030-a9215a73b21f",
-      "BG:note-fm",
-      "f716da14-3b8b-4d87-a680-6f40dba97f65"
+      "BG:note-fm"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:21:10Z"
@@ -4748,7 +4759,6 @@
     ],
     "sourceIds": [
       "77017883-8042-45a8-89ef-78b7d3d1ade0",
-      "7b4d8065-273d-4120-be34-23c0f4e57076",
       "BG:radio-ruse"
     ],
     "lastCheckOk": true,
@@ -5291,10 +5301,7 @@
     ],
     "sourceIds": [
       "0cd0d5e4-41b6-485e-ad39-15250aaa18e1",
-      "5d319be0-1be8-49e7-8300-b07065b4c2be",
-      "BG:radioplay-cafe",
-      "d583dee6-92ce-4bbd-9ef5-5d020ce892d8",
-      "d89f7a54-c6fa-4e60-a7ff-f787a4749576"
+      "BG:radioplay-cafe"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:02:55Z"
@@ -6847,11 +6854,7 @@
     ],
     "sourceIds": [
       "020ffe98-a5dc-4b6e-9913-864ab12a2f58",
-      "0ce7577f-df66-440f-aeb5-c6ee2988208b",
-      "1f3efc9f-8eff-49bf-a589-809a7d722368",
-      "3e71f3bc-b950-4b32-8e56-ada2ce0da600",
-      "e88b436e-b28c-4e49-b554-e31609f68e5d",
-      "f55f78a8-43e3-4b82-be4a-ad3e022ada65"
+      "1f3efc9f-8eff-49bf-a589-809a7d722368"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:22:06Z"
@@ -7009,5 +7012,233 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:42:40Z"
+  },
+  {
+    "id": "aws_21294edd7d8fc640b672",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �����",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3f675794-db36-455c-9976-ad332e529071"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T02:46:14Z"
+  },
+  {
+    "id": "aws_1c477b34fa1e5979f2de",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �����",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bb0ec624-7e9a-4a2a-bed0-e744ac2c4c25"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T12:23:56Z"
+  },
+  {
+    "id": "aws_18f68173373dd7db117b",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �����",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "31b00ae5-cb3f-4b05-855d-5034f0af5af2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-11T21:37:12Z"
+  },
+  {
+    "id": "aws_d265f68ada343550bcee",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� ������",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "27162a0c-5171-43d0-b13e-dde5b123cb38"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T03:10:47Z"
+  },
+  {
+    "id": "aws_3a1b81ffee843b5ea0a1",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �������",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "eebf99ef-f8a9-48cf-8772-4c28f4fdd22a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-11T23:43:52Z"
+  },
+  {
+    "id": "aws_55b43d00f155cf46f26f",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� ��������",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "08a488cf-9301-4ab4-9161-35d757d28e09"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T00:15:11Z"
+  },
+  {
+    "id": "aws_73c08221f2c66f032878",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �����������",
+    "country": "BG",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 41,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "06c0897c-572b-46a4-b227-b66f2fb11cfa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T08:12:29Z"
+  },
+  {
+    "id": "aws_a3b683dc333cc541f4ee",
+    "stationId": "awb_ceac03347026f81dacb7",
+    "name": "��� ��������",
+    "country": "BG",
+    "url": "https://play.global.audio/testbhi.aac",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4c0b539e-a32c-4e0c-b56a-de79254626b6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T06:53:34Z"
+  },
+  {
+    "id": "aws_cca744a6ae572e8ed1b3",
+    "stationId": "awb_5c6e044cf5198de61ad4",
+    "name": "����� ������ �������",
+    "country": "BG",
+    "url": "http://195.34.121.140:8002/high",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b5328a10-602d-4811-827b-243ef8343c7c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T20:18:22Z"
+  },
+  {
+    "id": "aws_75b8a6f3a6705a356dee",
+    "stationId": "awb_ad49a1c2df465f4401b9",
+    "name": "����� ����������� ����",
+    "country": "BG",
+    "url": "http://radio.mitropolia-sofia.org:8610/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b44f4fe-ba82-4c06-a6ec-5847ef4da937"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T12:17:00Z"
+  },
+  {
+    "id": "aws_6475079292e6db7d4c2a",
+    "stationId": "awb_fa56185e91e767bde96d",
+    "name": "������ �������",
+    "country": "BG",
+    "url": "https://play-radio0.jump.bg:7146/;stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "897c3fc5-fcba-417f-b981-b49cbabaa2af"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T04:57:00Z"
+  },
+  {
+    "id": "aws_a9de16bcd80b00f8b5e9",
+    "stationId": "awb_61541d4e9efef6b95f8c",
+    "name": "�������� ����� �������",
+    "country": "BG",
+    "url": "http://stream.radioextra-bg.net:8000/razgrad",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7c555751-1cd2-46b3-94e4-2678966b8251"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-12T11:07:51Z"
   }
 ]

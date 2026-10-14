@@ -2435,8 +2435,7 @@
     ],
     "sourceIds": [
       "58b21904-5153-439e-b615-5be7c946587a",
-      "f9589065-62c7-4c6f-b28a-e3ee1735c9ca",
-      "fca33042-53cc-4e38-ab4f-08265da49ae0"
+      "f9589065-62c7-4c6f-b28a-e3ee1735c9ca"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:16:48Z"
@@ -2823,9 +2822,7 @@
     ],
     "sourceIds": [
       "0604da7e-85bb-469a-b5af-46db194998c6",
-      "a7b69985-01a2-48e3-83d0-5a5eaca6f764",
-      "e9b91e7d-4f78-444e-8b56-5397cd16d52f",
-      "e9f9154f-eede-4e4a-846e-6aee49260eb4"
+      "e9b91e7d-4f78-444e-8b56-5397cd16d52f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:22:06Z"
@@ -3378,6 +3375,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T03:03:59Z"
+  },
+  {
+    "id": "aws_b5067350bede21fa041b",
+    "stationId": "awb_2d89e02fab5c42ad0ad7",
+    "name": "cristal boyacá 98.3 fm",
+    "country": "CO",
+    "url": "https://impactodigitalcol.com/8020/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_75b62406e184c2cfc2e8",
@@ -5568,8 +5584,8 @@
     "name": "La Carrangoza 90.6 FM",
     "country": "CO",
     "url": "https://lacarrangozafm.com/escuchar",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -5579,7 +5595,7 @@
       "acf5ec8a-5d50-4a77-8cbc-d29b726dad21"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_129d249df8a44d92d145",
@@ -8272,10 +8288,7 @@
     ],
     "sourceIds": [
       "190fdaae-d871-48d3-81c3-17aa887cd0d9",
-      "630a785c-fd55-41d5-b244-0c2b13e6cea2",
-      "9a84edd7-0744-435c-a220-28aa57dde475",
-      "CO:musical-stereo",
-      "e8f4047c-bb1a-4be7-b96f-8e222130c81d"
+      "CO:musical-stereo"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -8315,8 +8328,7 @@
     ],
     "sourceIds": [
       "CO:nevermore-radio-nevermore-network",
-      "baccaeaf-4cfa-4e52-bd01-031c617263ec",
-      "d2a83065-4b07-4c1c-bc0c-75f7c29cfbe1"
+      "baccaeaf-4cfa-4e52-bd01-031c617263ec"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T16:25:22Z"
@@ -8532,7 +8544,7 @@
     "codec": "unknown",
     "bitrate": 146,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser",
       "verified-radio-streams"
@@ -11359,8 +11371,6 @@
     ],
     "sourceIds": [
       "021bfbad-9a32-4f50-8c97-c0464ba4d723",
-      "59ed1948-3a05-4607-892b-880c44df0aba",
-      "5fff59b2-7371-488e-9988-8f62e9345cc2",
       "8bcdd9f3-6556-413a-af4b-d008e19d1586"
     ],
     "lastCheckOk": true,
@@ -11867,8 +11877,7 @@
     ],
     "sourceIds": [
       "CO:su-presencia-radio",
-      "a4727bfb-7c59-4555-a5a5-25075c166028",
-      "d4780e22-7a70-11ea-8a3b-52543be04c81"
+      "a4727bfb-7c59-4555-a5a5-25075c166028"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T01:40:52Z"
@@ -12586,7 +12595,7 @@
     "codec": "unknown",
     "bitrate": 146,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],

@@ -4250,8 +4250,7 @@
     ],
     "sourceIds": [
       "72e22acc-7f8f-4da6-a11a-496cd7ea2acb",
-      "CL:radio-7-tazas-de-molina-fm",
-      "e980b858-8ecb-4896-9954-06c656ce4ded"
+      "CL:radio-7-tazas-de-molina-fm"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:01:02Z"
@@ -4444,8 +4443,7 @@
     ],
     "sourceIds": [
       "9c4129b7-6376-4baf-8fe9-66ad49dd7474",
-      "CL:radio-amiga-fm-100-7",
-      "ee88bf83-2c85-4568-9ec9-8fdc59d63c21"
+      "CL:radio-amiga-fm-100-7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:06:48Z"
@@ -5068,8 +5066,7 @@
     ],
     "sourceIds": [
       "4561ae13-4d54-4925-9342-d902c60c1c74",
-      "CL:radio-caramelo-san-vicente",
-      "ff454d36-e4ea-4905-8beb-5c69b35af4b4"
+      "CL:radio-caramelo-san-vicente"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T00:14:18Z"
@@ -6165,8 +6162,7 @@
     ],
     "sourceIds": [
       "98014013-e76f-4156-aaf8-d994a6134039",
-      "CL:radio-edelweiss",
-      "c814bc71-e223-42ba-a3e7-b0aece90d6c2"
+      "CL:radio-edelweiss"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:07:32Z"
@@ -7075,7 +7071,6 @@
     ],
     "sourceIds": [
       "07f1f49f-3cb1-47f0-b55d-3b326e67a8ed",
-      "54514e7f-718a-4866-bde6-66b2f9839891",
       "CL:radio-kambio"
     ],
     "lastCheckOk": true,
@@ -8444,6 +8439,25 @@
     "lastCheckedAt": "2026-10-12T12:23:08Z"
   },
   {
+    "id": "aws_432d3eb3a8b59ddbcfb6",
+    "stationId": "awb_57f9db05a98cc576052a",
+    "name": "Radio Punto Siete Osorno Chile",
+    "country": "CL",
+    "url": "https://redirector.dps.live/p7osorno/mp3/icecast.audio",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "68bdd539-63ae-4d46-aeab-f669a444d339"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
     "id": "aws_536a1cc42f522c8e0f38",
     "stationId": "awb_b4659a611908c2744795",
     "name": "Radio Putupur",
@@ -8634,7 +8648,6 @@
     ],
     "sourceIds": [
       "4d389715-c36a-43c5-b22f-68ef8e2dc6c9",
-      "7373ab5f-0d96-45ce-8cc0-0abd2edbb16b",
       "CL:radio-rtl-curico"
     ],
     "lastCheckOk": true,
@@ -9669,8 +9682,7 @@
     ],
     "sourceIds": [
       "CL:radiorara",
-      "b7290d05-36ea-44d6-acda-fc4856d24367",
-      "c4292112-294f-4d09-b57d-97bdc135d5c5"
+      "b7290d05-36ea-44d6-acda-fc4856d24367"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:30:05Z"
@@ -9881,7 +9893,6 @@
     ],
     "sourceIds": [
       "565ff6bc-7cc5-4197-a56b-f13c20bd6664",
-      "66f6a917-1d69-4aeb-9255-1af543755fd9",
       "CL:retro-radio-80-90"
     ],
     "lastCheckOk": true,
@@ -9964,6 +9975,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:45:08Z"
+  },
+  {
+    "id": "aws_4f6549c7ed6e5146daa7",
+    "stationId": "awb_575774bcdabb86e149af",
+    "name": "Ritmo Urbano CL",
+    "country": "CL",
+    "url": "https://stream3.mcvhost.com/ritmourbano25/",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "435e09b5-85b9-4bbd-8cd9-16c805adbbb8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_e09d3a2a428b25fc271b",
@@ -10495,7 +10525,6 @@
     ],
     "sourceIds": [
       "2b957d50-4a98-4f70-a9e4-5860ddb6dc68",
-      "6e3cf16f-c5bb-45e5-9226-65bb33f0c9e7",
       "CL:super45-fm"
     ],
     "lastCheckOk": true,

@@ -545,8 +545,7 @@
     ],
     "sourceIds": [
       "2b69e691-a6a0-48b4-ad1c-76413b9f8507",
-      "PY:radio-arasuncion",
-      "a1015afb-7399-47b7-8787-0a0dd5ce2c23"
+      "PY:radio-arasuncion"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:26:53Z"
@@ -1023,7 +1022,7 @@
     "codec": "aac",
     "bitrate": 33,
     "protocol": "http",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],

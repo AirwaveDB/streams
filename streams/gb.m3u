@@ -483,6 +483,14 @@ http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_r
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
 #EXTINF:-1 station-id="awb_95b83e2f9ceb5e233853" stream-id="aws_a5738467127ef28cf934" codec="aac" bitrate="339",BBC Radio 5 Live (UK-HLS-Akamai)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8
+#EXTINF:-1 station-id="awb_4b312b344c426aaf65f8" stream-id="aws_db3e7989f70904bec806" codec="aac" bitrate="135",BBC Radio 5 Live (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8
+#EXTINF:-1 station-id="awb_963a01033105c28f45fc" stream-id="aws_9d69fcd43f7af44d774f" codec="aac" bitrate="135",BBC Radio 5 Sports Extra (UK only)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 station-id="awb_d7848c3eeca8b2c67603" stream-id="aws_84e28859cf4d9fd34d2d" codec="aac" bitrate="135",BBC Radio 5 Sports Extra 2 (UK only)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_2.m3u8
+#EXTINF:-1 station-id="awb_4a2d6934df1aca9d9e85" stream-id="aws_af34160fc5420a92db18" codec="aac" bitrate="135",BBC Radio 5 Sports Extra 3 (UK only)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8
 #EXTINF:-1 station-id="awb_cb343dce128107335463" stream-id="aws_63c7117c249511e8ef2c" codec="unknown" bitrate="0",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:-1 station-id="awb_cb343dce128107335463" stream-id="aws_a08076f635340597396d" codec="unknown" bitrate="0",BBC Radio 6 Music
@@ -3555,6 +3563,8 @@ https://s8.voscast.com/cdn/?k=67bc3c671fb0f&m=;stream1740389514983/1
 https://uksoutha.streaming.broadcast.radio:29690/skylab-radio-limited
 #EXTINF:-1 station-id="awb_2dcffc20f9a75a425218" stream-id="aws_6bbf9bfdb3181a4d43af" codec="mp3" bitrate="128",Skyline Radio - Wolverhampton (MP3)
 http://stream.zeno.fm/gppe0uht9c0uv
+#EXTINF:-1 station-id="awb_bbf09ae4422b671490c6" stream-id="aws_a4f9820c991f52a78b46" codec="" bitrate="0",Slack City
+https://www.slackcity.org.uk/
 #EXTINF:-1 station-id="awb_a214a6e265bcb788db17" stream-id="aws_794f0e47b8603a879194" codec="mp3" bitrate="128",SlaveFM
 http://slavefm.duckdns.org/radio
 #EXTINF:-1 station-id="awb_8c5a544cfc790b8376fc" stream-id="aws_5c66c4535bd0a05b3a3a" codec="mp3" bitrate="128",SLAY Radio
@@ -3757,6 +3767,8 @@ http://s6.citrus3.com:8526/stream
 https://stream.stuallan.com/stream1
 #EXTINF:-1 station-id="awb_f38ead2d0637626f798f" stream-id="aws_76e300df4ca79d26e604" codec="mp3" bitrate="128",Stu Allan Radio
 https://stream.stuallan.com/stream1
+#EXTINF:-1 station-id="awb_cec133aaaa7ded2fe04f" stream-id="aws_e96542813a9cbfb25682" codec="" bitrate="0",STV Rad!o
+http://www.radiofeeds.net/playlists/sharptemp.pls?station=stv_central-aac
 #EXTINF:-1 station-id="awb_46d72ce65014a5e7327d" stream-id="aws_f047445c31e9e496da71" codec="mp3" bitrate="192",Sub.fm
 http://subfm.radioca.st/Sub.FM
 #EXTINF:-1 station-id="awb_84d450cf8e7f066f0a8a" stream-id="aws_9aa9218284098067f862" codec="mp3" bitrate="320",Subcity Radio

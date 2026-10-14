@@ -15,7 +15,6 @@
     ],
     "sourceIds": [
       "4d88b122-6b5c-45ee-964a-01800b76f9bf",
-      "5b875634-78cf-429f-acd3-43f2e3e6cab2",
       "BR:quran"
     ],
     "lastCheckOk": true,
@@ -906,25 +905,6 @@
     "lastCheckedAt": "2026-10-12T12:44:13Z"
   },
   {
-    "id": "aws_e7624428f9d3683c2f22",
-    "stationId": "awb_308addaf932fe16838b9",
-    "name": "98FM BH",
-    "country": "BR",
-    "url": "https://9554.brasilstream.com.br/stream?1736286819232",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b4539993-71f9-4cd9-9ed8-5d1b7d9342e9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T12:22:29Z"
-  },
-  {
     "id": "aws_4da92341f40abde8fb1d",
     "stationId": "awb_247b813c822af25f4be8",
     "name": "98FM BH",
@@ -938,10 +918,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "686f4b44-b40e-45da-9142-b712f2511302"
+      "686f4b44-b40e-45da-9142-b712f2511302",
+      "b4539993-71f9-4cd9-9ed8-5d1b7d9342e9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T20:55:37Z"
+    "lastCheckedAt": "2026-10-12T12:22:29Z"
   },
   {
     "id": "aws_64599adeab45ab4bdd89",
@@ -2407,8 +2388,7 @@
     ],
     "sourceIds": [
       "7ada8a81-5ae1-418c-8f18-51d2f38d86a4",
-      "BR:bossa-jazz-brasil",
-      "b499e09d-301f-4519-9ca1-628474d7bf20"
+      "BR:bossa-jazz-brasil"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:09:48Z"
@@ -3451,8 +3431,7 @@
     ],
     "sourceIds": [
       "07b05c0b-a80b-4654-8e60-a6f8128a613d",
-      "0cec73fd-1690-42ad-9269-0c2d6b390820",
-      "26075833-3f0f-4763-a03e-6ada55e1ab39"
+      "0cec73fd-1690-42ad-9269-0c2d6b390820"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:24:45Z"
@@ -5985,7 +5964,6 @@
     ],
     "sourceIds": [
       "0b3ea1b5-5231-42d8-8604-698481cf7716",
-      "561d36aa-3dd2-48a4-8ef2-337b71ce2395",
       "BR:hunter-fm-master"
     ],
     "lastCheckOk": true,
@@ -6338,8 +6316,7 @@
     ],
     "sourceIds": [
       "982497ba-0b80-4597-9ea0-f9789ea6d5ef",
-      "BR:instrumentales",
-      "ac7f60d4-3c41-4479-b6ad-d33e23d1470b"
+      "BR:instrumentales"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:05:03Z"
@@ -8398,8 +8375,7 @@
     ],
     "sourceIds": [
       "85f353b9-864f-4226-82e9-b178d5c493ca",
-      "946f5071-1993-47bc-9ef5-b24d84ad292e",
-      "ba0fb815-7ffb-465d-9f11-dc4ab7cd8fc2"
+      "946f5071-1993-47bc-9ef5-b24d84ad292e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:54:47Z"
@@ -12305,8 +12281,7 @@
     ],
     "sourceIds": [
       "65258b9a-a1b7-44eb-a99f-a2a1a9e9d22b",
-      "6ff76a37-f778-452f-ad2c-ddf799d9c5f7",
-      "f97813f8-749a-4ab0-8a85-02ceed5734ed"
+      "6ff76a37-f778-452f-ad2c-ddf799d9c5f7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:22:27Z"
@@ -12954,8 +12929,7 @@
     ],
     "sourceIds": [
       "570cc99a-9159-4d91-9a8f-96ddb5b30797",
-      "BR:radio-antena-1-94-7-fm",
-      "fff5ab33-fd9e-45e6-b6b2-7ddc268d5fa4"
+      "BR:radio-antena-1-94-7-fm"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:22:12Z"
@@ -13936,8 +13910,7 @@
     ],
     "sourceIds": [
       "3c1d95a5-b477-11e8-afe1-52543be04c81",
-      "6351eff4-0594-48a8-b480-5136e4a95881",
-      "7c218c39-32be-453b-b4c7-7bc1f5303d0a"
+      "6351eff4-0594-48a8-b480-5136e4a95881"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:32:29Z"
@@ -14194,6 +14167,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:58:53Z"
+  },
+  {
+    "id": "aws_1c8f10f2eb5e73d9cd98",
+    "stationId": "awb_442d5a4d88e1024ede80",
+    "name": "Rádio caiçara",
+    "country": "BR",
+    "url": "https://cast4.audiostream.com.br:2654/mp3",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "26ae7032-1659-4cea-ae09-0a30606a276e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_ee608624659d8508c039",
@@ -14496,8 +14488,7 @@
     ],
     "sourceIds": [
       "08c8f693-71c7-4d98-92c8-9856a8d6b67d",
-      "2d632e1b-346b-43f7-9acf-fae672c7c6e1",
-      "d5aa8e67-5c70-4d4e-a013-d0fe5128a196"
+      "2d632e1b-346b-43f7-9acf-fae672c7c6e1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:15:44Z"
@@ -14826,8 +14817,7 @@
     ],
     "sourceIds": [
       "06da0d92-28c2-11e9-a80b-52543be04c81",
-      "BR:radio-cidade-rio-de-janeiro-102-9-fm-zyd462",
-      "c9083bcc-87a2-4703-b0c0-d73d74f3e2a8"
+      "BR:radio-cidade-rio-de-janeiro-102-9-fm-zyd462"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:09:43Z"
@@ -15175,6 +15165,25 @@
     "lastCheckedAt": "2026-10-12T15:22:56Z"
   },
   {
+    "id": "aws_a0f7c5c6802c47f9d4f5",
+    "stationId": "awb_c04fd27653cf8b943ce3",
+    "name": "Rádio Cisma Gaudéria",
+    "country": "BR",
+    "url": "https://player-ssl.painelstream.net:8394/live?1791939878154",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7d885bb-025e-49b2-b20a-63d6f37e445e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_5264c16b32b56c3f6048",
     "stationId": "awb_c9cf7eb62b65b75c5500",
     "name": "Rádio Clássica",
@@ -15189,7 +15198,6 @@
     ],
     "sourceIds": [
       "097a6470-fa11-4480-b777-bd453ed82b8f",
-      "1bd6615c-aa0e-46ab-8a84-ea898eadc79e",
       "7c198f98-6f06-49ea-b84e-b5bf0ff72a5b"
     ],
     "lastCheckOk": true,
@@ -15497,8 +15505,7 @@
     ],
     "sourceIds": [
       "7af712d3-5d31-4fd3-9bcf-1957fe892ecd",
-      "971fd611-7552-4ef2-8cf9-302d73e9e1ab",
-      "f074f268-1d13-42d7-8f75-23ec723dee73"
+      "971fd611-7552-4ef2-8cf9-302d73e9e1ab"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T09:17:21Z"
@@ -15939,7 +15946,6 @@
     ],
     "sourceIds": [
       "47dc77f7-b8b6-421a-aa54-95f10a07c3ed",
-      "ccb316a9-c480-4d86-9800-0e0609b46b85",
       "f1b4a5bc-14f7-4694-a48a-8cf1e101e8c8"
     ],
     "lastCheckOk": true,
@@ -16288,8 +16294,7 @@
     ],
     "sourceIds": [
       "3db82f80-c06e-486d-b69f-e80ff5dc8965",
-      "3dbbf4d5-48b3-449d-b751-7d6802e97b9c",
-      "6531caf5-ab54-4045-9767-9d977b95830f"
+      "3dbbf4d5-48b3-449d-b751-7d6802e97b9c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:05:56Z"
@@ -16542,8 +16547,7 @@
     ],
     "sourceIds": [
       "3988649c-6c74-4177-b55b-c33e470de7cd",
-      "4238be95-2bab-41ee-8e2d-70e7ccb001de",
-      "a8c654ae-ef89-4f82-9684-e79a7da51cdf"
+      "4238be95-2bab-41ee-8e2d-70e7ccb001de"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:06:18Z"
@@ -16720,6 +16724,25 @@
     "lastCheckedAt": "2026-10-12T00:38:00Z"
   },
   {
+    "id": "aws_9bdfe8a02db026589f80",
+    "stationId": "awb_64804a20467603a1a4a1",
+    "name": "Rádio Fábrica de Gaiteiros",
+    "country": "BR",
+    "url": "https://servidor28-1.brlogic.com:8540/live",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "be7c6ab1-5092-45dd-a088-0232c7dc30da"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_b035badf3d8611cc04aa",
     "stationId": "awb_ee8a7216d86e86f4373c",
     "name": "Radio Facopp",
@@ -16869,8 +16892,7 @@
     ],
     "sourceIds": [
       "46caf738-9e39-4882-8102-93c31d2c0585",
-      "75171a08-0b7e-4aea-a15a-b761c41b5ae2",
-      "e4bb67e1-925b-4fea-aedb-79ebe0f2f403"
+      "75171a08-0b7e-4aea-a15a-b761c41b5ae2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:06:58Z"
@@ -17104,6 +17126,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:09:48Z"
+  },
+  {
+    "id": "aws_5e6d8c95dd22a9ec002a",
+    "stationId": "awb_6897b0df347a8592aeba",
+    "name": "Rádio Gaudéria",
+    "country": "BR",
+    "url": "https://hts01.brascast.com:12036/stream?1791940594702",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0ca4d1f7-c92c-4537-a7db-b3b578d18bec"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_4738ff0ec0bbabb08c3f",
@@ -18160,8 +18201,7 @@
     ],
     "sourceIds": [
       "BR:radio-itatiaia-95-7-fm",
-      "e5844d74-ce83-4e37-9b01-006b07c649e0",
-      "f66f08c3-1616-4dd6-a54f-75aa29aa8249"
+      "e5844d74-ce83-4e37-9b01-006b07c649e0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:05:31Z"
@@ -18820,8 +18860,7 @@
     ],
     "sourceIds": [
       "075016c7-5a59-4198-81cb-d3bdb875993e",
-      "111a813e-dba1-4a1c-abf3-46d7974daf21",
-      "d53c4cc9-1fbc-4df0-8455-1b274abb5670"
+      "111a813e-dba1-4a1c-abf3-46d7974daf21"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:18:01Z"
@@ -19594,8 +19633,7 @@
     ],
     "sourceIds": [
       "33629782-ab5b-4654-8012-3e80311b79ab",
-      "4404b2f3-c18b-411a-9c74-90cf1e9465e7",
-      "52e046ee-fdef-467e-932d-a4404d5a800b"
+      "4404b2f3-c18b-411a-9c74-90cf1e9465e7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:52:06Z"
@@ -20791,7 +20829,6 @@
     ],
     "sourceIds": [
       "625a8b32-54e2-4458-b06d-a14157aa57f7",
-      "8a600121-77ef-465a-a348-b814f056ed9e",
       "BR:radio-nova-instrumental"
     ],
     "lastCheckOk": true,
@@ -22482,8 +22519,6 @@
     ],
     "sourceIds": [
       "0560dc71-3149-4948-a5d5-2afeaae09a04",
-      "5dcbb03d-423a-4f97-8af5-b95981094c69",
-      "9f599662-8816-425a-8fd5-425153b93a4c",
       "BR:radio-saudade-fm-99-7"
     ],
     "lastCheckOk": true,
@@ -22734,9 +22769,7 @@
     ],
     "sourceIds": [
       "36de98f9-00ae-451d-9c55-7fd25b6e3ec2",
-      "653b4b2a-399e-4ab6-9fbb-864503d23a2b",
-      "BR:radio-sertaneja",
-      "bb6ba0d5-294b-46e2-ba53-822d26655b8d"
+      "BR:radio-sertaneja"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:02:53Z"
@@ -22968,8 +23001,7 @@
     ],
     "sourceIds": [
       "2e51f45c-b9d2-4ade-8603-d9592750d505",
-      "54dcac6e-fd71-42e2-9705-4f455c0bdf43",
-      "f4a005b8-b99d-4234-bc06-0d7aa166e941"
+      "54dcac6e-fd71-42e2-9705-4f455c0bdf43"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:26:12Z"
@@ -23164,7 +23196,6 @@
     ],
     "sourceIds": [
       "6132375d-dccc-40d2-8c53-6f4522d500ce",
-      "a63f0d6b-59a2-458e-8ea2-0301b712f14c",
       "b6b7acab-2417-4dd3-84d7-dbdb622bed66"
     ],
     "lastCheckOk": true,
@@ -23667,7 +23698,6 @@
     ],
     "sourceIds": [
       "6da066a5-eddf-4640-8bfb-25070c52858d",
-      "9cc39d6a-ee85-4b81-95bf-92b6141670c8",
       "BR:radio-transamerica-100-1-fm"
     ],
     "lastCheckOk": true,

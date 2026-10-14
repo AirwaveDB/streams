@@ -1778,8 +1778,6 @@
     ],
     "sourceIds": [
       "0b0538d7-3a3f-40a1-a4f5-6de534b5298c",
-      "149c48ae-ab14-40b6-8fd7-6f26635bec90",
-      "89c307c8-626a-4af8-aae1-c332b6492f3a",
       "CZ:fed-s-trap-radio"
     ],
     "lastCheckOk": true,
@@ -1996,7 +1994,6 @@
     ],
     "sourceIds": [
       "120f9ba0-c55a-498a-ae36-58b5c27ac2af",
-      "28bf6c75-4377-4488-a898-c44ee1152803",
       "CZ:funkstar-radio"
     ],
     "lastCheckOk": true,
@@ -2858,7 +2855,6 @@
     ],
     "sourceIds": [
       "4300fc98-119d-417d-b9d7-f06578d68240",
-      "86ade1ec-0b06-4ede-97a1-04ab18299265",
       "CZ:netro-life-radio-100-8-fm"
     ],
     "lastCheckOk": true,
@@ -2994,9 +2990,7 @@
     ],
     "sourceIds": [
       "4e9b0f36-3b10-4e00-baa0-ab2e18322dbe",
-      "4ee5a87d-e445-4ce2-8cad-da534e8be10b",
-      "CZ:phonk-nation-radio",
-      "bb37369b-28e3-4134-b816-06dc6070baed"
+      "CZ:phonk-nation-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:24:38Z"
@@ -3961,7 +3955,6 @@
     ],
     "sourceIds": [
       "09583181-fc2c-4e96-b432-55bbeacd040b",
-      "511c1130-53b9-478c-8ec7-29d36f7e90aa",
       "CZ:radio-fonlord"
     ],
     "lastCheckOk": true,
@@ -4296,7 +4289,6 @@
     ],
     "sourceIds": [
       "3f81a106-2835-4766-aa3b-b7f361f3d23e",
-      "73a33d2a-12a7-43e5-b96b-aeaa05b7a3b9",
       "CZ:radio-mb"
     ],
     "lastCheckOk": true,
@@ -5351,8 +5343,8 @@
     "name": "Slymacks Radio",
     "country": "CZ",
     "url": "https://stream.slymacks.com/",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -5362,7 +5354,7 @@
       "d9b2425b-7ab7-4c91-b20c-2af7a11a726d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_1bcb0f1c4980e5386b0b",

@@ -170,7 +170,6 @@
     ],
     "sourceIds": [
       "1adf1539-e647-44c3-85d8-b437b768fb8c",
-      "38930961-d11a-451b-b8ee-cdadce9057ba",
       "d57fca45-a811-48f9-b672-7047ac984b91"
     ],
     "lastCheckOk": true,
@@ -253,8 +252,7 @@
     ],
     "sourceIds": [
       "37d1f4fb-0812-432d-af30-e91ca28ae05c",
-      "JP:big-b-radio-jpop",
-      "ce46492b-3512-48e5-bf12-e992df4b4906"
+      "JP:big-b-radio-jpop"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T16:27:36Z"
@@ -275,9 +273,7 @@
     ],
     "sourceIds": [
       "30b09043-9b67-43d7-b9c6-b4401e5cb636",
-      "90cbb60b-5a04-4e3a-aa30-5dc9307070e7",
-      "JP:box-japan-city-pop",
-      "c839f388-2f52-4ad3-9824-bc49bfa9c189"
+      "JP:box-japan-city-pop"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:07:15Z"
@@ -882,7 +878,6 @@
     ],
     "sourceIds": [
       "200ca311-c613-4d51-9c84-7eac9631b2ae",
-      "51f0066d-6de7-40b5-83a0-f264727f30a4",
       "JP:j-rock-powerplay-asia-dream-radio"
     ],
     "lastCheckOk": true,
@@ -1200,8 +1195,7 @@
     ],
     "sourceIds": [
       "JP:listen-moe-jpop-vorbis",
-      "ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba",
-      "e4e4d123-0616-11ea-afd6-52543be04c81"
+      "ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:04:18Z"
@@ -1695,7 +1689,7 @@
     "codec": "aac",
     "bitrate": 70,
     "protocol": "http",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],
@@ -1916,7 +1910,6 @@
     ],
     "sourceIds": [
       "0d926201-13b3-4e14-9348-68b7666be53d",
-      "7b85cb6b-ebb8-11e8-a471-52543be04c81",
       "JP:r-a-dio"
     ],
     "lastCheckOk": true,
@@ -2290,7 +2283,7 @@
     "codec": "aac",
     "bitrate": 1449,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],
@@ -2309,7 +2302,7 @@
     "codec": "aac",
     "bitrate": 1321,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser",
       "verified-radio-streams"

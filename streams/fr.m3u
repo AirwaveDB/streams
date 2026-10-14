@@ -617,6 +617,10 @@ http://91.224.148.160:8000/canalsud-live
 http://stream.levillage.org/canalb
 #EXTINF:-1 station-id="awb_c7b68aa781a18b97f6b1" stream-id="aws_45dbdd93ff6d8d140a02" codec="mp3" bitrate="192",CanalBreizh
 http://cast.canalbreizh.bzh/canalbreizh-hd-mp3
+#EXTINF:-1 station-id="awb_7f734551e4ca025d9846" stream-id="aws_6cfcaf188ed4fe567a41" codec="ogg" bitrate="0",canardwc webradio
+https://cast.sw-servers.net/vorbis
+#EXTINF:-1 station-id="awb_1b6fa003a5f26c053efd" stream-id="aws_afd37438d3fc4a3deae5" codec="mp3" bitrate="320",canardwc webradio (MP3)
+https://cast.sw-servers.net/mp3
 #EXTINF:-1 station-id="awb_796211cce3fe563636fb" stream-id="aws_6686b30d25b9bac332fd" codec="mp3" bitrate="0",Cannes Radio
 http://stream.rcs.revma.com/2ykc70sauwzuv.mp3
 #EXTINF:-1 station-id="awb_18449f2d77938e409232" stream-id="aws_d58d523d0b26e86ce314" codec="aac" bitrate="0",Cannes Radio Lounge
@@ -1293,7 +1297,7 @@ https://str0.creacast.com/fgl
 http://str0.creacast.com/fgl
 #EXTINF:-1 station-id="awb_3e8455bd34ae84ab6936" stream-id="aws_e06a3f8090c0325983f6" codec="aac" bitrate="192",Fip
 http://icecast.radiofrance.fr/fip-hifi.aac
-#EXTINF:-1 station-id="awb_d2181cb74090a72eb7f1" stream-id="aws_3a456e7e13905bd03451" codec="aac" bitrate="192",Fip
+#EXTINF:-1 station-id="awb_31f6b9c5492374858e6a" stream-id="aws_49619f430936967280ae" codec="aac" bitrate="192",Fip
 http://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1 station-id="awb_cd0f5f5cbd43035ebc15" stream-id="aws_61b0dc5ed15ee1ed19fa" codec="aac" bitrate="192",FIP
 http://icecast.radiofrance.fr/fip-hifi.aac
@@ -1301,7 +1305,7 @@ http://icecast.radiofrance.fr/fip-hifi.aac
 https://direct.fipradio.fr/live/fip-hifi.aac
 #EXTINF:-1 station-id="awb_31f6b9c5492374858e6a" stream-id="aws_e440188cb190d837ae97" codec="aac" bitrate="192",FIP
 https://icecast.radiofrance.fr/fip-hifi.aac
-#EXTINF:-1 station-id="awb_d2181cb74090a72eb7f1" stream-id="aws_91f0667522cb76cba11f" codec="aac" bitrate="192",Fip
+#EXTINF:-1 station-id="awb_31f6b9c5492374858e6a" stream-id="aws_6b969a98eff9071dedc3" codec="aac" bitrate="192",Fip
 https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192
 #EXTINF:-1 station-id="awb_3e8455bd34ae84ab6936" stream-id="aws_e338f653779e8c274bfc" codec="unknown" bitrate="0",FIP
 https://stream.radiofrance.fr/fip/fip_hifi.m3u8
@@ -1621,11 +1625,9 @@ https://icecast.radiofrance.fr/franceculture-hifi.aac
 http://direct.franceinfo.fr/live/franceinfo-midfi.aac
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_e62aed29dfc3446f21aa" codec="mp3" bitrate="128",France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-#EXTINF:-1 station-id="awb_9457d42c47e4001d088d" stream-id="aws_97cf8f1f18173f901b38" codec="aac" bitrate="192",France Info
+#EXTINF:-1 station-id="awb_7e4cdd77244e0cf3faa2" stream-id="aws_7f2c52144540be7ca5e8" codec="aac" bitrate="192",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_95f372ffd26322f9d75f" codec="aac" bitrate="192",France Info
-http://icecast.radiofrance.fr/franceinfo-hifi.aac
-#EXTINF:-1 station-id="awb_7e4cdd77244e0cf3faa2" stream-id="aws_7f2c52144540be7ca5e8" codec="aac" bitrate="192",FRANCE INFO
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 station-id="awb_1dc8ef586f413c40f241" stream-id="aws_febbd41e3c988fe73553" codec="unknown" bitrate="0",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
@@ -2590,6 +2592,10 @@ https://listen.radioking.com/radio/480/stream/1844
 #EXTINF:-1 station-id="awb_61d1516c4010eb37ea3d" stream-id="aws_3bc66665d532464cf80d" codec="unknown" bitrate="466",KTO Radio
 https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8
 #EXTINF:-1 station-id="awb_5b4cdd4643e42cf05962" stream-id="aws_84d01bf858d2ab8b9944" codec="ogg" bitrate="320",L'Eko
+https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg
+#EXTINF:-1 station-id="awb_0d2a64a73086385cff7e" stream-id="aws_03668c197cbd619c13c0" codec="mp3" bitrate="128",L'Eko des garrigues
+https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3
+#EXTINF:-1 station-id="awb_0d2a64a73086385cff7e" stream-id="aws_dc879bcad8a44a192a45" codec="ogg" bitrate="320",L'Eko des garrigues
 https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg
 #EXTINF:-1 station-id="awb_aefd8da16f1faf844c56" stream-id="aws_24d0bee0fdadbf7138a6" codec="aac" bitrate="191",La 1ère musique
 http://outremer.ice.infomaniak.ch/outremer-192.aac?aw_0_1st.rpfr=1
@@ -4387,6 +4393,8 @@ http://manager7.streamradio.fr:2930/stream
 http://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3
 #EXTINF:-1 station-id="awb_019c276c349a70adc4bd" stream-id="aws_1bb65b9ef7c3497b268f" codec="mp3" bitrate="320",Radio En Construction
 http://str0.creacast.com/rec
+#EXTINF:-1 station-id="awb_e74b7473605770c58d53" stream-id="aws_618d8f5cb00b2746b99a" codec="" bitrate="0",Radio Entre 2 Mers
+https://remradio.ice.infomaniak.ch/remradio-aac-128.aac
 #EXTINF:-1 station-id="awb_d8967e1c71838ec5b852" stream-id="aws_35e458685335950a0973" codec="mp3" bitrate="128",Radio Escapades
 http://stream.radios-arra.fr:8000/radioescapades
 #EXTINF:-1 station-id="awb_78d8496b68f36b0220e8" stream-id="aws_2691d0d4d92536f22a7f" codec="aac+" bitrate="64",Radio Espace
@@ -4919,6 +4927,8 @@ http://str0.creacast.com/radio_vinci_autoroutes_3
 http://str0.creacast.com/radio_vinci_autoroutes_3
 #EXTINF:-1 station-id="awb_2e4c37813377f683419f" stream-id="aws_a14187879600eb54cd12" codec="mp3" bitrate="128",Radio VINCI Autoroutes Ouest Centre
 https://sc.creacast.com/rva-cofiroute-1
+#EXTINF:-1 station-id="awb_be1451c86d5da07c8951" stream-id="aws_8d7fa82cbce31ea88900" codec="" bitrate="0",Radio Wa3 (راديو وع)
+https://stream.wa3.live/wa3.mp3
 #EXTINF:-1 station-id="awb_df2039d64d8d300a1562" stream-id="aws_57c0bc3e7e0a6a692c1f" codec="mp3" bitrate="128",Radio Welsass
 http://welsass.fr/play
 #EXTINF:-1 station-id="awb_ec1fc65b5811e289582c" stream-id="aws_4047fc093b9b616bf265" codec="mp3" bitrate="128",Radio YAN

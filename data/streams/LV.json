@@ -135,8 +135,7 @@
     ],
     "sourceIds": [
       "LV:ehr",
-      "ae5eebee-fea8-4311-a507-e7c45f4730be",
-      "c7b1113e-531d-464a-af21-e25d5c6a28c9"
+      "ae5eebee-fea8-4311-a507-e7c45f4730be"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:30:46Z"
@@ -750,7 +749,6 @@
     ],
     "sourceIds": [
       "013f4bdf-a7dc-4bc9-bdb8-d220d99d654c",
-      "70ddadaf-6c68-4faf-8f2f-32c0e711647c",
       "LV:latvijas-kristigais-radio"
     ],
     "lastCheckOk": true,
@@ -1063,8 +1061,7 @@
     ],
     "sourceIds": [
       "31d2f37d-facc-4a52-ac63-ceb1b0866abe",
-      "LV:njoyradio",
-      "ebe13afc-9ede-4596-a313-e8db4b2b0f16"
+      "LV:njoyradio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:26:06Z"
@@ -1614,30 +1611,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "LV:relax",
-      "bde3792c-747b-4e43-b1a2-2f0d08774395"
+      "34ddf01b-82a3-44a4-9e52-0bcc3bf28791",
+      "LV:relax"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T03:37:43Z"
-  },
-  {
-    "id": "aws_ee5ea39b4e0a35d95a4a",
-    "stationId": "awb_072be697f32978ef6fdd",
-    "name": "Relax",
-    "country": "LV",
-    "url": "https://live.relaxfm.lv/02",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "34ddf01b-82a3-44a4-9e52-0bcc3bf28791"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T21:23:24Z"
   },
   {
     "id": "aws_9d8af5ea6af10985e0f8",
@@ -1756,49 +1734,10 @@
     ],
     "sourceIds": [
       "2cf8533f-0233-42df-bb21-d8369d32883a",
-      "3bf92492-e4e9-4eca-9355-2fa997c6c908",
       "LV:skonto"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T22:23:51Z"
-  },
-  {
-    "id": "aws_d9b41b58a53285ef9503",
-    "stationId": "awb_47d94ec88ecfc0bb058b",
-    "name": "Skonto",
-    "country": "LV",
-    "url": "https://stream.radioskonto.lv:8443/stereo",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "843ab309-e1fa-4542-af6d-36b8c14494d5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:04:18Z"
-  },
-  {
-    "id": "aws_3034fa4c2511509af2d7",
-    "stationId": "awb_60e3336525f644b0d7a9",
-    "name": "Skonto Plus",
-    "country": "LV",
-    "url": "https://stream.radioskontoplus.lv:8443/st128",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8dcbd860-5165-4cfa-b947-9a7b6c5dbf7a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T21:21:07Z"
   },
   {
     "id": "aws_41f1352b8165400f7620",
@@ -1916,29 +1855,10 @@
     ],
     "sourceIds": [
       "4a5e51cf-5e2b-4442-97dd-045235384d87",
-      "c87b38d0-7e79-4e28-a343-e40b6b46c103"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T20:26:34Z"
-  },
-  {
-    "id": "aws_bd231b6c166ed03f0e2e",
-    "stationId": "awb_d42a4426bb2d7f54430f",
-    "name": "SWH",
-    "country": "LV",
-    "url": "http://80.232.162.149:8000/swh96mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
       "91f445bc-2ce6-4b8d-b6c8-801696911a8c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T09:06:22Z"
+    "lastCheckedAt": "2026-10-12T20:26:34Z"
   },
   {
     "id": "aws_afc647f260f775ac492f",
@@ -1974,7 +1894,6 @@
     ],
     "sourceIds": [
       "03a299c6-db3e-48fd-aace-a3a8c69f39bd",
-      "6dbc64d2-b00c-4fe0-ab4f-6fe936aa4569",
       "fb523525-d522-4216-922c-4b39c2826f64"
     ],
     "lastCheckOk": true,
@@ -2055,7 +1974,6 @@
     ],
     "sourceIds": [
       "18b8f6c5-60c9-4944-9469-0ea7a3e2b858",
-      "9a22e57f-7b7c-4e10-84db-e9b46479a8d6",
       "LV:top-radio"
     ],
     "lastCheckOk": true,

@@ -213,8 +213,7 @@
     ],
     "sourceIds": [
       "59e32ce5-1f43-4062-b244-efea57ba40cf",
-      "MA:atlantic-radio",
-      "abcb85c5-c02b-4952-8858-310bb93e9b28"
+      "MA:atlantic-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:52:35Z"
@@ -254,8 +253,7 @@
     ],
     "sourceIds": [
       "MA:aziz-mustaphi",
-      "a182e5ba-a840-40bf-9e51-01bef3ad9e24",
-      "f2c7caa3-758b-4571-bdda-3f96bea62f13"
+      "a182e5ba-a840-40bf-9e51-01bef3ad9e24"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:17:11Z"
@@ -328,7 +326,7 @@
     "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],
@@ -396,6 +394,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:44:24Z"
+  },
+  {
+    "id": "aws_3dd6465dff20ed7f4eed",
+    "stationId": "awb_e774de8809b14d8bcd92",
+    "name": "Kabana Rooftop Marrakech",
+    "country": "MA",
+    "url": "https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "79ed8ddf-5e4d-4f4b-92e9-51dfbf899241"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_2ee082c76199181f381b",

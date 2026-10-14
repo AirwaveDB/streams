@@ -585,7 +585,7 @@ https://dfm-disco.hostingradio.ru/disco96.aacp
 https://dfm-kpop.hostingradio.ru/kpop96.aacp
 #EXTINF:-1 station-id="awb_9527041a329637ed27a8" stream-id="aws_a52a32e199290308f643" codec="aac+" bitrate="96",DFM MARTIN GARRIX
 https://dfm-garrix.hostingradio.ru/garrix96.aacp
-#EXTINF:-1 station-id="awb_772f239667cf26e0a716" stream-id="aws_8511450075a72aca7c07" codec="" bitrate="0",DFM PIONEER
+#EXTINF:-1 station-id="awb_772f239667cf26e0a716" stream-id="aws_8511450075a72aca7c07" codec="aac" bitrate="100",DFM PIONEER
 https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8
 #EXTINF:-1 station-id="awb_d08bf5bd8d50355e3bdc" stream-id="aws_6d35c8ff0c37d378f3bc" codec="aac+" bitrate="96",DFM POP GOLD 1990s
 https://dfm-popgold90.hostingradio.ru/popgold9096.aacp
@@ -670,8 +670,6 @@ http://dorognoe.hostingradio.ru:8000/radio
 #EXTINF:-1 station-id="awb_aadc0acddc49317e16a0" stream-id="aws_8a78c0189b8c46e538f4" codec="mp3" bitrate="0",Dorozhnoe Radio
 https://dorognoe.hostingradio.ru/dorognoe
 #EXTINF:-1 station-id="awb_cd4aed1c63c01b864fd9" stream-id="aws_2738722e26aae19b5830" codec="aac+" bitrate="320",Downtempo
-http://79.120.77.11:8000/downtempo
-#EXTINF:-1 station-id="awb_db0169944e360552c917" stream-id="aws_888abe1a22bb2540bbae" codec="aac+" bitrate="320",Downtempo
 http://79.120.77.11:8000/downtempo
 #EXTINF:-1 station-id="awb_e6f21f16e723fb50cbdf" stream-id="aws_8e3bae1fa1604072fc83" codec="mp3" bitrate="192",Drakkar
 https://radio.kamchatkalive.ru:8103/dance
@@ -841,18 +839,12 @@ https://audio.gtaradio.net/4/afro_beat
 https://stream.gtfinstrumental.com/stream
 #EXTINF:-1 station-id="awb_83704a68536b38b6471c" stream-id="aws_d9b70ccf176278695d93" codec="aac" bitrate="0",Guf
 https://stream.pcradio.ru/Guf-hi
-#EXTINF:-1 station-id="awb_57342a7dd2690efe0125" stream-id="aws_6c56d8b1fb2a5512b0c3" codec="aac+" bitrate="320",Guitar Jazz
-http://79.120.77.11:8000/guitarjazz
 #EXTINF:-1 station-id="awb_1448b2e3165e1a1c37cc" stream-id="aws_22baaeac7f1cfc20f151" codec="aac+" bitrate="320",Guitar Jazz
 http://79.120.77.11:8000/guitarjazz
-#EXTINF:-1 station-id="awb_c927dbee3088927c23cd" stream-id="aws_949a274fc6a3b00b1475" codec="aac+" bitrate="320",Hard Rock
-http://79.120.77.11:8000/hardrock
 #EXTINF:-1 station-id="awb_27165cd6f03a1306da17" stream-id="aws_7184f26bec3598c16722" codec="aac+" bitrate="320",Hard Rock
 http://79.120.77.11:8000/hardrock
 #EXTINF:-1 station-id="awb_a5b04c8d2ecc542bb47d" stream-id="aws_bdb6307918c71a69faf1" codec="mp3" bitrate="256",Heart FM Barnaul
 https://radio.gtrk22.ru/heartfm
-#EXTINF:-1 station-id="awb_ada765e41e1fc404b72a" stream-id="aws_8b7156a5f8f45535500f" codec="aac+" bitrate="320",Heavy Blues
-http://79.120.77.11:8000/heavyblues
 #EXTINF:-1 station-id="awb_811b91c2fd67413d9ad7" stream-id="aws_a3eb05091754e335a677" codec="aac+" bitrate="320",Heavy Blues
 http://79.120.77.11:8000/heavyblues
 #EXTINF:-1 station-id="awb_593fe350d1d8e6e7474e" stream-id="aws_9ca48a841c5b7626e4c6" codec="mp3" bitrate="320",Heavy Music Atmospheric Radio
@@ -2855,6 +2847,8 @@ http://air4.amgradio.ru/RemixFM
 https://replaynewsru.ice.infomaniak.ch/replaynewsru-128.mp3
 #EXTINF:-1 station-id="awb_409a43b707d97cc1267f" stream-id="aws_c4a9b54684bb3c501adb" codec="mp3" bitrate="0",RES: Rewind
 https://cst.res.ad/rw320
+#EXTINF:-1 station-id="awb_409a43b707d97cc1267f" stream-id="aws_2633e5874a681582e460" codec="mp3" bitrate="0",RES: REWIND
+https://res.lirz.ru/listen/rewind/radio.mp3
 #EXTINF:-1 station-id="awb_ff0d685bcd4999018d7f" stream-id="aws_59ce139172e9e70dc232" codec="mp3" bitrate="0",retro
 https://retro.hostingradio.ru:8043/retro256.mp3
 #EXTINF:-1 station-id="awb_6154d56a63969dade24c" stream-id="aws_4a0bbda596e48b6232a7" codec="mp3" bitrate="0",Retro FM
@@ -2868,8 +2862,6 @@ http://79.111.119.111:8000/riddimdubstep
 #EXTINF:-1 station-id="awb_fe41c6cfc599d6dc7f99" stream-id="aws_673e4aa1773f65c8b1bb" codec="aac" bitrate="0",Road Radio 91.2
 http://stream1.hostingradio.ru:8010/15_aac_96
 #EXTINF:-1 station-id="awb_1976b2e6974109eb2e4c" stream-id="aws_8339ebd25e4ab30b965d" codec="aac+" bitrate="320",Rock
-http://79.120.77.11:8000/rock
-#EXTINF:-1 station-id="awb_43fbd0856c5c9b9d2c02" stream-id="aws_111f6d36930f445f3f76" codec="aac+" bitrate="320",Rock
 http://79.120.77.11:8000/rock
 #EXTINF:-1 station-id="awb_7c5a4c40220232fe9113" stream-id="aws_28cb604875097cba0e88" codec="aac" bitrate="64",Rock Arsenal (Екатеринбург)
 https://online.rockarsenal.ru/rockarsenal_aacplus
@@ -3144,8 +3136,6 @@ https://listen6.myradio24.com/61733
 #EXTINF:-1 station-id="awb_12f0ab2b006f074eeb6f" stream-id="aws_54e2a7235fc9b9afb91f" codec="mp3" bitrate="320",TatarRadiosi 100.5 FM
 https://tatarradio.hostingradio.ru/tatarradio320.mp3
 #EXTINF:-1 station-id="awb_821f27e771ee20e409f7" stream-id="aws_fd4781afb0c5345c5edb" codec="aac+" bitrate="320",Techno
-http://79.120.77.11:8000/techno
-#EXTINF:-1 station-id="awb_fddebdc326dcb8c983cc" stream-id="aws_1bf344e7d13f5b8e32f3" codec="aac+" bitrate="320",Techno
 http://79.120.77.11:8000/techno
 #EXTINF:-1 station-id="awb_789ec1cead32b1369813" stream-id="aws_b587a548e045dd0c5dbd" codec="aac+" bitrate="320",Techno Trance Techtrance
 http://213.141.131.10:8000/techtrance
@@ -5065,9 +5055,7 @@ https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8
 https://radio.promedia.ru/rr-simf
 #EXTINF:-1 station-id="awb_37f285b28fb0471cffed" stream-id="aws_abf22fc1a9605370f24d" codec="mp3" bitrate="0",Русское Радио
 https://rusradio.hostingradio.ru/rusradio128.mp3
-#EXTINF:-1 station-id="awb_7b157007f66661ba1135" stream-id="aws_fb8dc38dae4f543889f5" codec="aac" bitrate="0",РУССКОЕ РАДИО
-https://rusradio.hostingradio.ru/rusradio96.aacp
-#EXTINF:-1 station-id="awb_37f285b28fb0471cffed" stream-id="aws_7e3da34929076c80c869" codec="aac" bitrate="0",Русское Радио
+#EXTINF:-1 station-id="awb_37f285b28fb0471cffed" stream-id="aws_7e3da34929076c80c869" codec="aac" bitrate="0",РУССКОЕ РАДИО
 https://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 station-id="awb_5b76e3b292eb57b7930f" stream-id="aws_612115f5ef8c3b14ae99" codec="aac" bitrate="0",Русское Радио
 https://rusradio.hostingradio.ru/rusradio96.aacp

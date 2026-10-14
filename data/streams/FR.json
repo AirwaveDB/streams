@@ -620,7 +620,6 @@
     ],
     "sourceIds": [
       "4e6bedbe-11c3-4c5b-8bf5-24c6acafbe25",
-      "9ed1d3b7-a394-4a28-a5da-617b59f04b54",
       "FR:generations-r-b"
     ],
     "lastCheckOk": true,
@@ -852,8 +851,7 @@
     ],
     "sourceIds": [
       "147107aa-3657-4cd3-a9d7-8f111475d6bd",
-      "3630ef0a-4cab-480d-8ee4-d09a85edad5b",
-      "f483860a-901b-4ad1-b1eb-a2bc058e935f"
+      "3630ef0a-4cab-480d-8ee4-d09a85edad5b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:19:36Z"
@@ -1556,7 +1554,7 @@
     "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],
@@ -1619,14 +1617,7 @@
     ],
     "sourceIds": [
       "1b17acc3-5a92-4967-87f7-82025a858af1",
-      "3476e46f-69b1-424c-9f06-99ed40cb5933",
-      "3ba2123c-afce-4744-b0b3-2a717159dbae",
-      "3d7a18df-9882-4cff-9e73-bd5c72263e90",
-      "98a8ce0d-2ff7-42d7-9f88-5bcef7046063",
-      "99659ca4-2f52-49e4-bf99-58c0dd356086",
-      "b6c39c4c-4a98-4a90-8653-b94418112333",
-      "bb2c7a6c-20b6-4f6a-8934-0155888cd88a",
-      "c1f6d1f7-15f4-4373-ae9a-594782df6352"
+      "3ba2123c-afce-4744-b0b3-2a717159dbae"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:00:33Z"
@@ -1760,15 +1751,7 @@
     ],
     "sourceIds": [
       "2decba6a-5a6f-4908-9854-6f64dde03b0e",
-      "3026c7a0-ecf9-4108-b149-ba2b0423bdf9",
-      "3af331a7-3fb5-4055-9a16-dd347a2f57ee",
-      "471c34a6-48ca-44cd-8aa2-2aa31dde3390",
-      "4831b509-1925-4c21-9457-84f6f5a0032b",
-      "6fd35d59-0c5b-4cba-aac6-d943872a5644",
-      "9240b9fd-5a96-4aba-9404-01af5fb7ac0e",
-      "d65cde57-c93c-4ae9-bac8-7cfc895601f7",
-      "dfcb0b9b-824b-4634-bfb9-2a79902f8a78",
-      "fd24da45-a85b-49e2-b8da-56ea1dfee39b"
+      "3af331a7-3fb5-4055-9a16-dd347a2f57ee"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T22:05:53Z"
@@ -4271,8 +4254,7 @@
     ],
     "sourceIds": [
       "ce8649f2-7888-413c-99e2-36afd8c0d5bc",
-      "d170cc0e-1aa4-4254-bbcd-d7a951f82fbd",
-      "e272be3d-3f23-4846-9475-888ae5489a43"
+      "d170cc0e-1aa4-4254-bbcd-d7a951f82fbd"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:42:38Z"
@@ -5287,10 +5269,7 @@
     ],
     "sourceIds": [
       "23e52f16-8bba-4f2a-baec-8e9c008b7a72",
-      "3feec214-0ae7-42ad-9af5-87624c73ebca",
-      "54b348d1-b457-4bc1-b0b8-e60d440c567e",
-      "80ad071f-af2e-42f3-8c7e-0b546a125696",
-      "92fa0da6-0897-408e-bda2-e1e36cbaeddb"
+      "3feec214-0ae7-42ad-9af5-87624c73ebca"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:46:48Z"
@@ -5961,6 +5940,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T07:35:34Z"
+  },
+  {
+    "id": "aws_6cfcaf188ed4fe567a41",
+    "stationId": "awb_7f734551e4ca025d9846",
+    "name": "canardwc webradio",
+    "country": "FR",
+    "url": "https://cast.sw-servers.net/vorbis",
+    "codec": "ogg",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fe130409-f2ab-45a3-902c-56e115900e64"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
+    "id": "aws_afd37438d3fc4a3deae5",
+    "stationId": "awb_1b6fa003a5f26c053efd",
+    "name": "canardwc webradio (MP3)",
+    "country": "FR",
+    "url": "https://cast.sw-servers.net/mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aa7f39fa-edab-4ecc-bb39-28d45c483f25"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_6686b30d25b9bac332fd",
@@ -10419,7 +10436,6 @@
     ],
     "sourceIds": [
       "9b412b14-6820-4942-ae2a-ee7610f100e7",
-      "c4de91e4-1d7a-487b-9def-54e3750f5214",
       "dc589856-0400-4583-a786-0b81d9b2d57d"
     ],
     "lastCheckOk": true,
@@ -10440,17 +10456,7 @@
     ],
     "sourceIds": [
       "003d5bbc-8bc5-4ee2-8a36-57879df8708e",
-      "1e31a16f-0427-44d3-9a1b-3feaa04b660b",
-      "25855f44-3618-4a12-976c-c8fd2c401b02",
-      "2985c206-e504-4a8f-aa6e-2dcb17596ce8",
-      "44ba5a09-bf1c-4c29-9efe-ce1035480e1a",
-      "59068abd-dfe7-4707-bd73-2445203c7aff",
-      "96075bbc-0601-11e8-ae97-52543be04c81",
-      "a6418836-bf5b-425b-8a60-30a945ebd574",
-      "cb51d18c-b3c4-4c5b-8627-2288b249d8e2",
-      "e78908aa-e5e9-426c-9ca1-ef7c4bc73fda",
-      "f385c656-5135-45d4-9ea8-b73289cf5f20",
-      "f3b90da0-99e8-4fdc-b531-7e4bcd4536e1"
+      "1e31a16f-0427-44d3-9a1b-3feaa04b660b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:21:44Z"
@@ -12521,8 +12527,8 @@
     "lastCheckedAt": "2026-10-12T10:39:56Z"
   },
   {
-    "id": "aws_3a456e7e13905bd03451",
-    "stationId": "awb_d2181cb74090a72eb7f1",
+    "id": "aws_49619f430936967280ae",
+    "stationId": "awb_31f6b9c5492374858e6a",
     "name": "Fip",
     "country": "FR",
     "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
@@ -12598,8 +12604,8 @@
     "lastCheckedAt": "2026-10-12T17:44:28Z"
   },
   {
-    "id": "aws_91f0667522cb76cba11f",
-    "stationId": "awb_d2181cb74090a72eb7f1",
+    "id": "aws_6b969a98eff9071dedc3",
+    "stationId": "awb_31f6b9c5492374858e6a",
     "name": "Fip",
     "country": "FR",
     "url": "https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192",
@@ -13629,7 +13635,6 @@
     ],
     "sourceIds": [
       "3a6c5454-a001-4800-ae33-813b1227789e",
-      "76b129aa-45cc-46cf-b6b2-1fde08a2c8f9",
       "FR:fip-pop"
     ],
     "lastCheckOk": true,
@@ -14053,8 +14058,7 @@
     ],
     "sourceIds": [
       "FR:fm-80-funky-music",
-      "e1d428c9-6896-4b27-ae75-e00e69e0ca7d",
-      "f872bfc4-b09a-405f-9c7f-d535adba238e"
+      "e1d428c9-6896-4b27-ae75-e00e69e0ca7d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:06:49Z"
@@ -14418,8 +14422,7 @@
     ],
     "sourceIds": [
       "3526f94b-d456-4370-96a1-8bdfc6f27090",
-      "4112af28-5d3a-4b3c-b867-01cab457ed79",
-      "d6b6dff3-e040-489b-a179-0c70dfb099eb"
+      "4112af28-5d3a-4b3c-b867-01cab457ed79"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:27:20Z"
@@ -14477,9 +14480,7 @@
     ],
     "sourceIds": [
       "0555b35e-d8c7-4f92-bc7d-44bbd92ff054",
-      "9612fc35-0601-11e8-ae97-52543be04c81",
-      "9bb680bc-0476-434a-a3ef-d3d630912ed9",
-      "a0831ef4-dca7-43f8-8bb0-61b9a6e5d599"
+      "9612fc35-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T07:45:46Z"
@@ -15431,8 +15432,7 @@
     ],
     "sourceIds": [
       "0679b093-a1fa-409e-9912-922657f6a8fb",
-      "6a1440b2-e6f0-11e9-a96c-52543be04c81",
-      "b1b6dac2-e41d-4d6f-b942-67230bf16eee"
+      "6a1440b2-e6f0-11e9-a96c-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:12:28Z"
@@ -15472,9 +15472,7 @@
     ],
     "sourceIds": [
       "10652211-3b97-411b-ab87-128be29356ac",
-      "2d1cb9b5-0b7e-4d09-80a4-787140c3c015",
-      "5515db8e-8d5e-4f11-a923-f41fef8b7032",
-      "cf8bbd60-3f86-45e0-b0a3-0b30d4214a41"
+      "2d1cb9b5-0b7e-4d09-80a4-787140c3c015"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:18:22Z"
@@ -15666,15 +15664,14 @@
     ],
     "sourceIds": [
       "1cfb151d-a341-11e9-a787-52543be04c81",
-      "9aa4b420-52a9-4a05-ba24-16843801ccf0",
       "e158f1af-a4cd-4990-85d0-0e4bee122478"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:22:06Z"
   },
   {
-    "id": "aws_97cf8f1f18173f901b38",
-    "stationId": "awb_9457d42c47e4001d088d",
+    "id": "aws_7f2c52144540be7ca5e8",
+    "stationId": "awb_7e4cdd77244e0cf3faa2",
     "name": "France Info",
     "country": "FR",
     "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
@@ -15686,6 +15683,7 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "66f5501d-184c-4f0b-be12-809b9bfe4054",
       "717fc5d5-fe02-462c-8d41-64c4c6895d98"
     ],
     "lastCheckOk": true,
@@ -15706,33 +15704,10 @@
     ],
     "sourceIds": [
       "003baf55-9ac9-4352-bceb-375ee4203133",
-      "22c0d602-ed7a-4347-9056-40c22faff480",
-      "31074f8a-e6f4-11e9-a96c-52543be04c81",
-      "9df3c7af-26d1-4100-8bad-9cb2432ecdf4",
-      "b726b3cb-4d82-488d-bd7c-bd98d6306785",
-      "ba19a7c3-9d5a-46cf-89a4-00c27a0cfcab"
+      "22c0d602-ed7a-4347-9056-40c22faff480"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:28:39Z"
-  },
-  {
-    "id": "aws_7f2c52144540be7ca5e8",
-    "stationId": "awb_7e4cdd77244e0cf3faa2",
-    "name": "FRANCE INFO",
-    "country": "FR",
-    "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66f5501d-184c-4f0b-be12-809b9bfe4054"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T21:49:47Z"
   },
   {
     "id": "aws_febbd41e3c988fe73553",
@@ -16001,10 +15976,7 @@
     ],
     "sourceIds": [
       "13b9c89c-8ceb-4899-ae9f-7e246f0b4ec8",
-      "21c167ad-ef09-4753-bee7-20ecb5ba97ac",
-      "8281d611-2d9f-440b-a7d2-242fefa62aa4",
-      "92c74333-ebb6-4246-b025-522a376637a9",
-      "d41cd653-89f0-4ca9-b849-70ce516e8a99"
+      "92c74333-ebb6-4246-b025-522a376637a9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:19:49Z"
@@ -16273,8 +16245,7 @@
     ],
     "sourceIds": [
       "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-      "33f93e78-ea93-4a36-a725-a8458c66d819",
-      "8a499272-c9d6-4114-9e8e-52053818d8ab"
+      "33f93e78-ea93-4a36-a725-a8458c66d819"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -24671,8 +24642,6 @@
     ],
     "sourceIds": [
       "5c4268c0-f786-4214-8337-0d433302a661",
-      "6ed4bd97-6bfc-4848-a8f0-de48fd53e450",
-      "7e827d56-4ae8-41f3-b95c-8eb0ef1bba46",
       "be897a10-2a15-4929-9396-427295bbeaf1"
     ],
     "lastCheckOk": true,
@@ -24983,6 +24952,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T21:38:48Z"
+  },
+  {
+    "id": "aws_03668c197cbd619c13c0",
+    "stationId": "awb_0d2a64a73086385cff7e",
+    "name": "L'Eko des garrigues",
+    "country": "FR",
+    "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ff1cef81-1331-45a8-a541-556381021ccc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
+    "id": "aws_dc879bcad8a44a192a45",
+    "stationId": "awb_0d2a64a73086385cff7e",
+    "name": "L'Eko des garrigues",
+    "country": "FR",
+    "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg",
+    "codec": "ogg",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "855901b2-eba6-44aa-a986-1a6843bbd66d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
   },
   {
     "id": "aws_24d0bee0fdadbf7138a6",
@@ -25344,9 +25351,7 @@
     ],
     "sourceIds": [
       "079ecad4-3bd0-41e6-a3ba-ac805fdb187e",
-      "7bbc8472-fa0e-4fd5-aa69-5186e95e42d4",
-      "96064f55-0601-11e8-ae97-52543be04c81",
-      "f00e322f-b2d5-4d0e-be80-7d0ea1caf2ea"
+      "96064f55-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T16:47:45Z"
@@ -25366,8 +25371,7 @@
     ],
     "sourceIds": [
       "4ee83bba-a0b3-45f8-b28d-8e73f17ea0d7",
-      "a728b02a-bbc4-4ac7-84cc-98d7440c655b",
-      "fdf2c143-3f67-4982-9622-f8f6dd27c2b6"
+      "a728b02a-bbc4-4ac7-84cc-98d7440c655b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:15:48Z"
@@ -25653,8 +25657,7 @@
     ],
     "sourceIds": [
       "4e1134f7-6344-4478-9d9c-7f8d35f14f86",
-      "6b1d0ed8-d9b7-402f-9178-d6165e081d44",
-      "78ddcbd5-f329-4f3a-8099-018f0362ee91"
+      "6b1d0ed8-d9b7-402f-9178-d6165e081d44"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:52:43Z"
@@ -26241,8 +26244,7 @@
     ],
     "sourceIds": [
       "04136062-baf3-478d-a7eb-7b334536b0cb",
-      "FR:le-grigri",
-      "d8104a4f-865d-438a-92c1-2ac2442459cf"
+      "FR:le-grigri"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:49:32Z"
@@ -26281,8 +26283,7 @@
     ],
     "sourceIds": [
       "54289b36-ddc8-41f7-a880-a6299df0891b",
-      "79722e21-326a-4de1-8062-246f00c03ed9",
-      "cadf336a-9b63-410c-8d85-5515744492e2"
+      "79722e21-326a-4de1-8062-246f00c03ed9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:37:12Z"
@@ -26379,8 +26380,7 @@
     ],
     "sourceIds": [
       "8dfec44a-f1f9-4e73-807e-2ab9e4bfb414",
-      "FR:le-poste-parisien",
-      "a7ea616a-d933-4e4e-bfa0-d609505f65f8"
+      "FR:le-poste-parisien"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:09:53Z"
@@ -26783,62 +26783,7 @@
     ],
     "sourceIds": [
       "18698453-4965-4082-8264-e5bfe278dfe5",
-      "1a625327-8951-48f0-ad43-32b25857bf09",
-      "1a955e3e-6c84-4411-8cd6-3a451d809ae6",
-      "1c05ec9b-43e8-4ceb-bfcf-7301fc4f1a92",
-      "1ce1f3ea-6032-455b-8992-2eafc3bf4998",
-      "1dc6e8f5-b2f0-438c-9bd1-c6ec0172d870",
-      "1f0b5c0e-2209-4400-bd89-066f8d7b376e",
-      "20535b22-1718-4035-be24-67ae3ffb0dab",
-      "2867151b-83e5-4c94-843d-f85f04e8311b",
-      "2eb8bd27-852e-4253-9eef-f28f181a65e4",
-      "31b896fd-3169-44be-beeb-8689f9ebfaa8",
-      "31c6838b-2a7b-4b6b-91c6-cf43a21353e2",
-      "33270cf5-de70-46a6-a18f-ded39109c989",
-      "3a51a9b2-c556-45d7-aea0-6f1ef196da78",
-      "3d7d3677-2dee-4f3a-9c14-af87340b61e7",
-      "4361120e-30af-4776-b064-1da0aaf9369e",
-      "49383ca6-4e1d-4b5b-a7a8-b2f88a83b998",
-      "535cc6fa-868d-4a73-ac13-f8c80c9d27ee",
-      "5782ce4b-b0d1-4052-a49e-250330778e6c",
-      "57977633-3db0-4c16-8e4c-b5374f29bfdf",
-      "58a1526e-b858-4f17-8cbe-34ce2b6ed277",
-      "5ee89928-032d-43d6-bdfb-b4248fc8242a",
-      "685bae4f-d6cd-4b8b-97b9-fc3a6c5c1d6e",
-      "71fe681e-03d6-4dad-8aef-68758e10c4e5",
-      "7392fd43-6711-4ede-9e86-54a1b7da6afa",
-      "762a7813-38a0-4534-b994-2733e58651b3",
-      "778b2753-e379-4c1c-8dbe-cf32c08aa031",
-      "77ce62da-3666-4107-b796-bfc319d7b4d0",
-      "79a24c73-02e0-494a-af00-63f4d72970d5",
-      "7cb85de9-5e27-4e15-837b-ce11a34acac2",
-      "7e4ab14e-ec6d-410c-a858-082678226c02",
-      "803fa9d0-5a0f-4c34-b1ca-d72b398f6dc5",
-      "8ca679ba-84b8-4475-88a1-e1e39546a153",
-      "8ded60f3-cad3-4d74-8832-6a362cc29c66",
-      "949e0c98-cee6-4eb6-8aa7-3c5d25808e33",
-      "9aea40b6-6ba5-4e1a-a1cc-c5cb16d8e2ce",
-      "a32a3df0-625a-423d-bb13-4259e2398261",
-      "b046bfec-80be-4c70-96f9-34096bdc2322",
-      "b1e8b8cc-0c47-42a6-84aa-29a6e9102ed8",
-      "b629ec70-2eee-42db-8dcc-5903c8958a74",
-      "be5561e5-f6d8-420d-bdec-6744c739e5bf",
-      "c16323e3-f75f-4de3-a22f-5858bbf3c870",
-      "c2345194-a45e-4798-a4af-5411f1ddcdb5",
-      "c7929331-5628-42b8-bc62-c31cb5e938a8",
-      "cbe414d8-dca3-4771-8529-b53d7e383629",
-      "cf0454db-a6cd-4597-b59c-bea845a4ba07",
-      "d9b62391-dea6-4053-9cb4-054cbfd381d8",
-      "da21a4f2-d42d-4621-9e0b-a1d7358a366b",
-      "da8347ae-7e76-4f12-90f8-7c5fa7c2d0fd",
-      "dc676daf-17a9-46d7-8e22-92036372bb4e",
-      "dce0421e-231c-4842-8f7e-62a64475c4cb",
-      "dd7160a4-d00f-4915-b49c-e9895f06ce34",
-      "e4fcab44-1efc-473f-9efe-441c76feb01c",
-      "e86dbf95-2153-4d00-a1dc-f21f37005747",
-      "edfe6f23-0eb3-4145-aa99-05e172539385",
-      "ee58bf07-839f-4d31-8292-ffc94da679d3",
-      "f13968f3-ac87-4889-9fe5-1b719454b713"
+      "a32a3df0-625a-423d-bb13-4259e2398261"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:08:34Z"
@@ -26858,9 +26803,7 @@
     ],
     "sourceIds": [
       "5b338f08-ef86-4fca-9fdc-4a0213b02526",
-      "5fa76039-383b-463e-8fa6-6ee0a57c4dfc",
-      "803e4192-58ca-4fef-b1d5-a9a834ce9759",
-      "c5542aaa-0887-40fb-b6c7-e77fea1b898a"
+      "5fa76039-383b-463e-8fa6-6ee0a57c4dfc"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:58:53Z"
@@ -28086,7 +28029,6 @@
     ],
     "sourceIds": [
       "9f7aa1d6-7c67-481b-8478-de64f22b7adb",
-      "ab52c8a0-9e9d-46a3-86b3-ebb0ea110a30",
       "bf3f013a-11c7-4beb-b9ba-b9ce00a2428d"
     ],
     "lastCheckOk": true,
@@ -28127,8 +28069,7 @@
     ],
     "sourceIds": [
       "766f2be3-676f-40af-80e7-eab16f0da225",
-      "FR:made-in-80",
-      "f55cae84-f65b-4ad4-9da6-d2e4c79b66db"
+      "FR:made-in-80"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:54:47Z"
@@ -29702,8 +29643,7 @@
     ],
     "sourceIds": [
       "7490d211-e91b-49bd-91a5-7042dcb68e96",
-      "896f8f39-5361-4e49-9216-28e7efb2cd72",
-      "d266dca3-e9dc-4764-921e-8d26a9d8b309"
+      "896f8f39-5361-4e49-9216-28e7efb2cd72"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:29:02Z"
@@ -32703,8 +32643,7 @@
     ],
     "sourceIds": [
       "08549db1-69bd-4194-a20b-37227e10c809",
-      "FR:nova-soul",
-      "dfdab2ba-91a5-45f7-8114-41db2d18e853"
+      "FR:nova-soul"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:28:58Z"
@@ -37549,8 +37488,7 @@
     ],
     "sourceIds": [
       "958c558d-6b13-4829-92ff-49233f56de97",
-      "FR:oui-fm",
-      "f3882c40-588c-4159-b231-a9d0f8986333"
+      "FR:oui-fm"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:18:27Z"
@@ -37689,8 +37627,7 @@
     ],
     "sourceIds": [
       "689824b5-1dd7-464d-a913-8c363337a883",
-      "FR:oui-fm-classic-rock",
-      "ec5e0eb3-57e8-449f-b92b-7b0d133f4215"
+      "FR:oui-fm-classic-rock"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:03:44Z"
@@ -38424,9 +38361,7 @@
     ],
     "sourceIds": [
       "0d204d56-9823-427f-b0fd-df04163397ad",
-      "99b7ac90-358d-4bcf-93d2-5e4760b5a311",
-      "a1870123-c4f0-4987-8d57-1fb477210f9f",
-      "e690118a-30a2-494f-81e4-ca69c3d133e2"
+      "a1870123-c4f0-4987-8d57-1fb477210f9f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:17:34Z"
@@ -38484,20 +38419,7 @@
     ],
     "sourceIds": [
       "27dc67a9-dd18-416e-afa7-9a4d0bb528a7",
-      "284e96b3-c8f3-4574-ad25-7223079faf7a",
-      "28a20d7c-4235-4b93-9ef1-d0f270205362",
-      "5828f6e8-6f1a-43aa-a82d-b37601b6770c",
-      "7208f06f-0207-4673-973b-e2a6a9825244",
-      "7641f49f-1f61-4db6-bd30-99f9043cb3f5",
-      "85e8243d-3b30-4c30-a566-34d64f1df585",
-      "8f178496-04e4-46f6-a3c0-7b46bd63ad7e",
-      "9f09f197-74cb-4b0c-b530-bb2e6be340ad",
-      "b932e7fb-4748-43bb-b317-dc4d93f9e03a",
-      "bcf09e59-5f86-46a2-b624-c4670ccccd98",
-      "e1ca8bfe-6ba2-4c55-9c0c-c6a28b9bfef3",
-      "efc3c48a-9747-4228-8edd-68ef10c839ab",
-      "f0e01b8e-bea4-4c33-af3a-68e555da5c5d",
-      "f1b80ec7-7b9b-4231-ba1a-bb04d583af9f"
+      "efc3c48a-9747-4228-8edd-68ef10c839ab"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:55:39Z"
@@ -38555,14 +38477,7 @@
     ],
     "sourceIds": [
       "248df8ee-d514-42bf-870d-f654b8e167b6",
-      "585a4ddc-4c7b-478d-b054-db4b64dfd5f7",
-      "7ce10c95-df99-4e8b-bc8c-ba9c6ef6d13d",
-      "8c48f267-006d-40fd-b022-f42d01fb6cef",
-      "aa10e246-ad83-4ec6-8c05-d40ee7cd381e",
-      "aa73971d-8f0f-42ca-b9bd-74cd81e6e470",
-      "cc5ec428-a099-4ce1-b0f5-6ff07b277873",
-      "cdb76daa-5383-4075-a33f-c8e8459998e7",
-      "f7860001-8031-4cc9-b108-09041e7415f3"
+      "585a4ddc-4c7b-478d-b054-db4b64dfd5f7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:16:48Z"
@@ -38601,20 +38516,6 @@
     ],
     "sourceIds": [
       "041d166a-a7da-41cc-b931-f9d03cfc985a",
-      "08c426d1-c4c1-4124-a3c5-7a455ffa5ad3",
-      "0f64d18e-ad53-4e72-9d97-8116d63b8147",
-      "21d3c1c4-f8aa-42f7-b50c-91c7aef69396",
-      "262d2c9e-c249-45e8-8cb8-2e1d9c960852",
-      "3153cf57-fc72-4743-93a8-0ee710faa8eb",
-      "459d106a-5361-4d3d-a3b8-716f460b532f",
-      "71bc5417-f4d8-49fe-a605-09255859b34d",
-      "918ed9f0-9569-4b3d-b7a2-bdd092a16d6b",
-      "a80fa26a-6270-450b-9931-ae4d5110cabd",
-      "bf8e19d3-ddf1-4fdf-8a81-7c40a852d473",
-      "c107095e-2239-4d7b-8fb2-a43142a178fd",
-      "cd990127-b51e-4175-b598-def862e7bb22",
-      "e6bc1071-baae-4cc9-a344-a937dfde8f97",
-      "f2c9af5f-2128-49e5-bd64-a7e87140edc3",
       "f9dad5bd-f27f-4283-8fa4-43436b0792e1"
     ],
     "lastCheckOk": true,
@@ -40298,8 +40199,7 @@
     ],
     "sourceIds": [
       "524c0b0a-7d04-4aa7-a776-2d585e961bcb",
-      "7a7e2de0-199e-4f28-8e39-d27bfd46cfb0",
-      "d9278129-e902-451c-ad71-ec5c63c7bb6a"
+      "7a7e2de0-199e-4f28-8e39-d27bfd46cfb0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:17:00Z"
@@ -40913,9 +40813,7 @@
     ],
     "sourceIds": [
       "34f13bf6-5a77-4d18-a302-81e0c59c8bb0",
-      "9612ef7e-0601-11e8-ae97-52543be04c81",
-      "e23b4571-d497-402b-84c4-f4677ead0bc2",
-      "f4e50286-2646-4b39-8e4b-e6d92cdcb1a9"
+      "9612ef7e-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:22:00Z"
@@ -41089,9 +40987,7 @@
     ],
     "sourceIds": [
       "0cfd4973-7608-46c5-9337-64fefc80949a",
-      "4f599346-3680-4eee-ab53-ad93facb9fef",
-      "FR:radio-broussaille",
-      "e2463686-5185-44b5-bc98-1fb63a929600"
+      "FR:radio-broussaille"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:24:38Z"
@@ -41131,9 +41027,7 @@
     ],
     "sourceIds": [
       "FR:radio-brume",
-      "af43998d-ff18-4bd0-b075-8574545a9509",
-      "c8faca9e-f509-4b53-a5dd-42268a65020f",
-      "f7499921-9b12-425c-afdb-df96abd91529"
+      "af43998d-ff18-4bd0-b075-8574545a9509"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:01:02Z"
@@ -41556,8 +41450,7 @@
     ],
     "sourceIds": [
       "5c781485-ee91-47bc-aa2d-bbe66024ff52",
-      "75718db0-6f3e-4cf8-9ead-2d670554357f",
-      "d2b47f3c-ef68-4949-9f61-7eed459221d2"
+      "75718db0-6f3e-4cf8-9ead-2d670554357f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:50:26Z"
@@ -41769,7 +41662,6 @@
     ],
     "sourceIds": [
       "47357ec6-f935-44df-89c3-65fb44013733",
-      "497b3d49-c727-4abf-baac-0b7a2dcc2a41",
       "FR:radio-collection"
     ],
     "lastCheckOk": true,
@@ -41982,7 +41874,6 @@
     ],
     "sourceIds": [
       "06c5506c-c532-4913-a928-b7935c3d6a68",
-      "aeee1931-d6a2-4ac5-9212-dec8fb4bb4c0",
       "b84a0128-72de-455a-82ca-bbc8d13e4bac"
     ],
     "lastCheckOk": true,
@@ -42579,6 +42470,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:51:37Z"
+  },
+  {
+    "id": "aws_618d8f5cb00b2746b99a",
+    "stationId": "awb_e74b7473605770c58d53",
+    "name": "Radio Entre 2 Mers",
+    "country": "FR",
+    "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "534581ba-206d-4ed8-b64f-2197e7bb7d53"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_35e458685335950a0973",
@@ -43851,8 +43761,7 @@
     ],
     "sourceIds": [
       "4dd9b489-199e-409d-9c38-b4a618a5d25b",
-      "b059d547-87ad-4e42-b62d-28d9f7a81c6c",
-      "d8fccecf-f682-4d9a-b57d-2c22ce9f7f1e"
+      "b059d547-87ad-4e42-b62d-28d9f7a81c6c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:22:29Z"
@@ -44063,8 +43972,7 @@
     ],
     "sourceIds": [
       "2e4c0f8a-ac41-48c2-918c-7f878e989a69",
-      "FR:radio-italopower",
-      "bce2e737-431e-4780-881c-4591143487df"
+      "FR:radio-italopower"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:12:42Z"
@@ -44409,7 +44317,6 @@
     ],
     "sourceIds": [
       "80405cc1-ce77-482a-bf81-6ef1f7e4476d",
-      "8628fd54-b133-4807-b13c-f2e37a9cbdb5",
       "f5244214-cab6-4672-8ee6-c9a4c9730255"
     ],
     "lastCheckOk": true,
@@ -44679,7 +44586,6 @@
     ],
     "sourceIds": [
       "1742f2e9-ae7e-4197-8acb-969b0775b2dd",
-      "9e219cbd-9bd0-4950-997d-f17bd8fbe793",
       "FR:radio-metal"
     ],
     "lastCheckOk": true,
@@ -45218,7 +45124,6 @@
     ],
     "sourceIds": [
       "121cc91e-1f4d-41d5-b7f3-5d09c688fc2f",
-      "8a728f88-35f3-4ebf-95bb-46730999bc8a",
       "963fb390-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -45240,10 +45145,7 @@
     ],
     "sourceIds": [
       "2e76e323-8116-45a9-bd9d-649ede261b93",
-      "797a1245-f5b0-4a8c-a450-2d74c3defa6e",
-      "FR:radio-nova",
-      "cbeb2834-6ad7-4d68-b898-37f9b82c6976",
-      "f132b6db-9d2f-4fc6-a495-174140e43d18"
+      "FR:radio-nova"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:59:59Z"
@@ -46165,8 +46067,7 @@
     ],
     "sourceIds": [
       "4dc41329-dfdb-47df-8904-2f9894c3c6c4",
-      "61188e85-4d06-4e00-9964-38a7b4a055e9",
-      "f4b954a0-4118-4e99-be84-9177c67c6cbf"
+      "61188e85-4d06-4e00-9964-38a7b4a055e9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:04:06Z"
@@ -47679,6 +47580,25 @@
     "lastCheckedAt": "2026-10-12T12:05:35Z"
   },
   {
+    "id": "aws_8d7fa82cbce31ea88900",
+    "stationId": "awb_be1451c86d5da07c8951",
+    "name": "Radio Wa3 (راديو وع)",
+    "country": "FR",
+    "url": "https://stream.wa3.live/wa3.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_57c0bc3e7e0a6a692c1f",
     "stationId": "awb_df2039d64d8d300a1562",
     "name": "Radio Welsass",
@@ -48251,16 +48171,7 @@
     ],
     "sourceIds": [
       "3468014e-2ef7-40f7-91f9-2c15b67e03af",
-      "364b4dff-1159-4555-81f2-5902b9fc48f3",
-      "432aeb6d-5259-476e-b428-233aaff136fd",
-      "48cdf6ab-ba72-4833-b9c3-e947866c47ea",
-      "6c356cc4-e529-4950-8210-b85e9fd7a084",
-      "75536498-f2f1-4ac5-b634-1e2f9064094c",
-      "7a932736-95ce-4b12-9830-171e58770cbe",
-      "8add13b5-b780-4cd9-bb3b-bd458d1abfd2",
-      "9fb3f478-f648-4a84-9003-c6a56b8da739",
-      "b906b47f-08fc-45d4-b80f-faaaeddd984b",
-      "c646c0f8-8687-4cec-9f19-6af821277b16"
+      "75536498-f2f1-4ac5-b634-1e2f9064094c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:46:48Z"
@@ -50831,12 +50742,6 @@
     ],
     "sourceIds": [
       "1ec64647-e749-4a8f-aaa8-e4f875663696",
-      "5f47d57a-3055-4e67-9b8a-6f2fd325c619",
-      "68b98f96-d026-4b6a-a0df-e6e93180f637",
-      "716275cd-20cc-431e-9f77-f29015872e74",
-      "7fa67239-3d4a-49db-826d-820233794d71",
-      "cf8f7a95-f418-4981-9483-c0cefe5ce67d",
-      "dd282103-63c3-4d7e-891a-77108aff3955",
       "eba86b77-9a19-440e-886b-f28110d6ba2a"
     ],
     "lastCheckOk": true,
@@ -51011,10 +50916,7 @@
     ],
     "sourceIds": [
       "34da85a1-c038-4832-945c-4840a6d87ff1",
-      "5ca80935-80fb-498e-9333-3202e81feffc",
-      "5ee72e5a-0c25-4efc-8e3f-072d3b92fdae",
-      "b1b48722-cf72-4ce0-9b36-34cd43275a0a",
-      "c9491ceb-fb01-4f08-ac6a-0ee227599512"
+      "b1b48722-cf72-4ce0-9b36-34cd43275a0a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:31:27Z"
@@ -51034,22 +50936,7 @@
     ],
     "sourceIds": [
       "00c85d0c-90f9-4757-b9ca-33784be57b0a",
-      "016148ba-9f11-4944-8178-539897e0d25f",
-      "076b64e6-cfd0-4196-a2fd-67a7c1eb0940",
-      "0cab0850-8310-4602-b4a0-690444fc097d",
-      "1000eace-3e7c-408c-86c5-83a3695bb7ce",
-      "157b75fb-fee4-44e1-bbf7-c25da3393dac",
-      "4103cf60-35b3-42a5-abcd-8321842d2ce5",
-      "468efdfe-f666-4e58-8a98-27aee9c1c34b",
-      "572c5b0f-dd88-4408-83c2-72c96839366c",
-      "5a52d016-77e3-45a6-bf89-07923b55c931",
-      "691c05b8-53be-4e97-9836-bf32c8672a8b",
-      "728715fc-f2e7-402b-a573-0a162ed4380c",
-      "7823c300-f593-4a83-a04b-f93c6bbf1598",
-      "96cfb14e-0582-47e2-abb7-fba8793a5a5d",
-      "a31fd37a-7b05-46db-973a-6fb33b912080",
-      "dd93ec27-1d55-4441-b2c0-5a4976fdb218",
-      "f28150c1-400b-41c2-8954-2634f467c029"
+      "157b75fb-fee4-44e1-bbf7-c25da3393dac"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:26:58Z"
@@ -51069,11 +50956,7 @@
     ],
     "sourceIds": [
       "4596dd68-778c-46fa-bd35-f7cb2882425e",
-      "69d99789-91fb-4ae9-b55e-2818f0376790",
-      "a27e000a-3dd8-4d76-862e-71ae6d20299e",
-      "a472047a-a999-4fb1-8886-d49eee758b82",
-      "ba3eb400-005d-48c7-ac69-ed0eda480d4e",
-      "c7f00409-347e-4ad8-a34f-c94cf76987a4"
+      "a27e000a-3dd8-4d76-862e-71ae6d20299e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:41:31Z"
@@ -51722,8 +51605,7 @@
     ],
     "sourceIds": [
       "25109c36-ae8b-4ea2-ba0e-fa9a1e6fa727",
-      "5f8c23d9-ec55-4f69-b4eb-7c9c5a86cd83",
-      "b66738ad-8596-4673-ba33-79a209bf8ad7"
+      "5f8c23d9-ec55-4f69-b4eb-7c9c5a86cd83"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:16:48Z"
@@ -52323,8 +52205,7 @@
     ],
     "sourceIds": [
       "0353169f-1d78-41b1-8d0d-3dc01330b4bc",
-      "7eaa0ce9-71f5-499c-bfaf-e4e583e7c20a",
-      "c04bc62d-4485-4bad-81d5-8b78d3a945d0"
+      "7eaa0ce9-71f5-499c-bfaf-e4e583e7c20a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:11:40Z"
@@ -52441,7 +52322,6 @@
     ],
     "sourceIds": [
       "28e7d620-6d9f-4e33-ad11-e6daf50bf312",
-      "aeebf700-2b80-4a95-a4e5-4b7f9f9ac921",
       "b28591b2-9fe1-4292-b869-3276063accc9"
     ],
     "lastCheckOk": true,
@@ -52595,9 +52475,7 @@
     ],
     "sourceIds": [
       "4b9ad366-b368-4930-99e6-ceaa8c859b86",
-      "752870f1-e05f-4682-8d27-750d67b616ec",
-      "b4ef5a64-3ee7-4e29-9aa0-c938acae12f7",
-      "efa634ab-4b40-4054-9607-dd2e80dbf23c"
+      "752870f1-e05f-4682-8d27-750d67b616ec"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:22:00Z"
@@ -52773,9 +52651,7 @@
     ],
     "sourceIds": [
       "35d11974-36fc-4cf8-990b-4e65a2ce1ed5",
-      "859ec680-93f3-4b6a-a7f8-4524e6df36b2",
-      "FR:sun-classique",
-      "f96eab9d-ed11-43f7-b8fc-22298b38df9b"
+      "FR:sun-classique"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T22:23:52Z"
@@ -52853,8 +52729,7 @@
     ],
     "sourceIds": [
       "561c69c8-7b8c-46d1-be67-fcf32b0d6107",
-      "FR:sun-hip-hop",
-      "b1ae0b64-d7df-494b-93ab-29a845acee2c"
+      "FR:sun-hip-hop"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:17:34Z"
@@ -52894,8 +52769,7 @@
     ],
     "sourceIds": [
       "FR:sun-jazz",
-      "b4f0bb6e-8ecd-465f-b86f-5bb622de353f",
-      "d41453f7-4808-4a96-8507-3eab5e90e20f"
+      "b4f0bb6e-8ecd-465f-b86f-5bb622de353f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:07:41Z"
@@ -53032,7 +52906,6 @@
     ],
     "sourceIds": [
       "286a3681-d1b4-4e49-abe8-68c540d70408",
-      "7f212f95-07d1-4e0c-98f6-4b9b71d82ee6",
       "FR:sun-rock"
     ],
     "lastCheckOk": true,
@@ -53054,8 +52927,7 @@
     ],
     "sourceIds": [
       "912497fa-8532-491f-8987-95c45720a7be",
-      "FR:sun-soul-funk",
-      "e5df2775-8ae3-4c76-a5e5-c7c3d5c50eda"
+      "FR:sun-soul-funk"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T09:20:08Z"
@@ -53629,7 +53501,6 @@
     ],
     "sourceIds": [
       "0ee364aa-bc35-4cc8-98a7-5d9e87327223",
-      "114e380a-196c-4527-8788-11255cd7b502",
       "529c11ea-4d44-4c08-a25b-f6810b93f807"
     ],
     "lastCheckOk": true,
@@ -53688,19 +53559,7 @@
     ],
     "sourceIds": [
       "0a156e8a-4835-402d-916d-db484dabd78a",
-      "3cba8fb9-34fb-47be-83e0-35c820ca7266",
-      "3d267695-620e-4a1d-99c5-b20788101b2c",
-      "3e07dacc-7844-4486-a2a3-11bea5dbf2cb",
-      "48e6abf4-17b8-4660-b3a8-fd2180658097",
-      "7199c83c-4dcd-4758-8735-c277fea0c93d",
-      "8da1660b-c1b3-498a-ba0a-74ac99e59889",
-      "99774dec-bd95-4433-95a6-e6b4ffd147d1",
-      "a98f2b91-c20f-488a-99f7-e0df3b8104b8",
-      "b78b8981-f99b-43ca-bea5-13eb6dbaa156",
-      "b9cfe264-3117-478f-80c6-2df8c4eacc7d",
-      "c4830151-74d4-421d-808d-5f64b5527903",
-      "ca3e17b6-e6c8-424b-9928-be7cf345827c",
-      "cd430c6d-e372-47e8-8b2f-f18c42271306"
+      "99774dec-bd95-4433-95a6-e6b4ffd147d1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:46:38Z"
@@ -54583,8 +54442,7 @@
     ],
     "sourceIds": [
       "76352c92-4370-4fb0-8f9e-115262886721",
-      "7f15bff8-9374-47ba-9c51-1c9e82c1622f",
-      "c7f62bb8-f2d2-4f85-8534-e6c2d5be3dc2"
+      "7f15bff8-9374-47ba-9c51-1c9e82c1622f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:41:42Z"

@@ -1615,7 +1615,6 @@
     ],
     "sourceIds": [
       "1408a44f-4c34-49ac-a746-80715c2fea54",
-      "7c098d89-e8f6-4d2d-bf04-608da498bf2f",
       "GB:45-radio"
     ],
     "lastCheckOk": true,
@@ -2527,7 +2526,6 @@
     ],
     "sourceIds": [
       "6b196a52-1468-48fe-948b-476fe90b6f54",
-      "b4ec1804-02cc-40fd-95f9-31ebb4c53d2b",
       "de5ea11d-189d-4717-95a4-d0efa15cfe6c"
     ],
     "lastCheckOk": true,
@@ -2909,8 +2907,6 @@
     ],
     "sourceIds": [
       "440ad224-f74a-471b-8ae8-893ba1888477",
-      "4834a71f-5ffd-47bc-ab7c-0ed7635e15fe",
-      "54ab8f7e-23fb-47ce-a13f-39f0d48f792f",
       "fb441035-d115-444b-b57c-2a97adb6e681"
     ],
     "lastCheckOk": true,
@@ -3961,8 +3957,7 @@
     ],
     "sourceIds": [
       "59813592-9a30-4e5c-bfc6-665724728582",
-      "b71664b3-93b3-4d6a-8c56-8b4c25482790",
-      "be2f9e99-7b30-4a19-a9a9-702a802bba08"
+      "b71664b3-93b3-4d6a-8c56-8b4c25482790"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:23:50Z"
@@ -4652,6 +4647,82 @@
     "lastCheckedAt": "2026-10-12T12:17:00Z"
   },
   {
+    "id": "aws_db3e7989f70904bec806",
+    "stationId": "awb_4b312b344c426aaf65f8",
+    "name": "BBC Radio 5 Live (UK)",
+    "country": "GB",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8",
+    "codec": "aac",
+    "bitrate": 135,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
+    "id": "aws_9d69fcd43f7af44d774f",
+    "stationId": "awb_963a01033105c28f45fc",
+    "name": "BBC Radio 5 Sports Extra (UK only)",
+    "country": "GB",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8",
+    "codec": "aac",
+    "bitrate": 135,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e3740a99-2ce3-413f-b6d4-074620d4243b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
+    "id": "aws_84e28859cf4d9fd34d2d",
+    "stationId": "awb_d7848c3eeca8b2c67603",
+    "name": "BBC Radio 5 Sports Extra 2 (UK only)",
+    "country": "GB",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_2.m3u8",
+    "codec": "aac",
+    "bitrate": 135,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "578283ad-ddd8-4027-984e-c35b8ffa8270"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
+    "id": "aws_af34160fc5420a92db18",
+    "stationId": "awb_4a2d6934df1aca9d9e85",
+    "name": "BBC Radio 5 Sports Extra 3 (UK only)",
+    "country": "GB",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8",
+    "codec": "aac",
+    "bitrate": 135,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "80c172b6-4d4a-405d-8342-6427a373bca4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-13T22:04:58Z"
+  },
+  {
     "id": "aws_63c7117c249511e8ef2c",
     "stationId": "awb_cb343dce128107335463",
     "name": "BBC Radio 6 Music",
@@ -5238,7 +5309,6 @@
     ],
     "sourceIds": [
       "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-      "a6d18be5-282c-42ea-90f5-40320466399a",
       "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
     ],
     "lastCheckOk": true,
@@ -5849,8 +5919,7 @@
     ],
     "sourceIds": [
       "217ca367-a70b-4bcd-8eff-0a5e0e040335",
-      "562cd738-5663-4e28-8d07-85ea21d4d9c2",
-      "8bd37d9e-05fc-4a81-b5a0-adc1cf5814c4"
+      "562cd738-5663-4e28-8d07-85ea21d4d9c2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:00:39Z"
@@ -7674,8 +7743,7 @@
     ],
     "sourceIds": [
       "0bf68865-449b-4190-a11c-597a4a47c0e9",
-      "18ec8db2-d958-4a58-97a6-a553bb10056e",
-      "bad26932-4797-4e54-b11a-a2069ae066d5"
+      "18ec8db2-d958-4a58-97a6-a553bb10056e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:43:52Z"
@@ -8847,8 +8915,7 @@
     ],
     "sourceIds": [
       "GB:capital-dance",
-      "bee4aa5e-e55c-499d-9bbd-75ad1b9c76b9",
-      "df3607fb-311d-43b1-bd0c-98d91a4f2df4"
+      "bee4aa5e-e55c-499d-9bbd-75ad1b9c76b9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:13:28Z"
@@ -9613,9 +9680,7 @@
     ],
     "sourceIds": [
       "5dea3883-5193-44a2-95af-6295796a91df",
-      "af8a6cfc-d779-483b-b568-1847f7dad4b7",
-      "bd6c69a2-7d98-43cb-b431-d9264c043b00",
-      "d8d92353-2ecd-4463-a9c7-205abc8746db"
+      "bd6c69a2-7d98-43cb-b431-d9264c043b00"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:27:00Z"
@@ -9885,8 +9950,7 @@
     ],
     "sourceIds": [
       "0b80a32f-3779-42c1-a71f-39175d76c8f2",
-      "GB:chocolate-radio-com",
-      "a3331a6c-03cd-40b8-aa12-26e99ecdc10b"
+      "GB:chocolate-radio-com"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:28:19Z"
@@ -10296,7 +10360,6 @@
     ],
     "sourceIds": [
       "22a579ef-2346-4185-a8be-3419326d34b2",
-      "96063f25-0601-11e8-ae97-52543be04c81",
       "a7bc90ad-bec7-4a57-b235-e21644d33047"
     ],
     "lastCheckOk": true,
@@ -11914,8 +11977,7 @@
     ],
     "sourceIds": [
       "86cbd3d9-dfce-4c62-830a-c92fe552d476",
-      "GB:davide-of-mimic",
-      "d91f43f1-c0b3-4fd8-b4b5-888ec1cdacb5"
+      "GB:davide-of-mimic"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T09:26:59Z"
@@ -22353,8 +22415,7 @@
     ],
     "sourceIds": [
       "73490696-3343-4fa2-8045-b8d11e3bb0fb",
-      "aaad1ee5-08a2-4d15-8efb-1c69b4daa761",
-      "f976018d-6397-4606-b0d0-957fd69a18ac"
+      "aaad1ee5-08a2-4d15-8efb-1c69b4daa761"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:51:37Z"
@@ -22736,7 +22797,6 @@
     ],
     "sourceIds": [
       "88321903-6939-11e9-af37-52543be04c81",
-      "b32ed7d7-bf63-4487-9118-70ffb20fae59",
       "d46d928b-c83b-4c7f-83fc-d6688c961882"
     ],
     "lastCheckOk": true,
@@ -24892,7 +24952,6 @@
     ],
     "sourceIds": [
       "02c43a08-c2fe-4b6e-b00e-445945d1fbd3",
-      "c34661c9-2f2a-443a-b6f0-6242d9118343",
       "de7cd49a-98a3-4d07-9b49-aabce53edefb"
     ],
     "lastCheckOk": true,
@@ -27109,8 +27168,7 @@
     ],
     "sourceIds": [
       "7a42739e-4e9f-4e1b-a939-c58d618a7db3",
-      "c058d821-47b2-4ef4-9ff9-f435a9ca1c21",
-      "e55150cf-f6bd-44ea-9f66-0a00dc88c8f0"
+      "c058d821-47b2-4ef4-9ff9-f435a9ca1c21"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:40:16Z"
@@ -28063,7 +28121,7 @@
     "codec": "aac",
     "bitrate": 52,
     "protocol": "https",
-    "hls": false,
+    "hls": true,
     "sources": [
       "radio-browser"
     ],
@@ -28469,7 +28527,6 @@
     ],
     "sourceIds": [
       "e5561c6c-379f-4422-9815-00a86611c363",
-      "e9465363-e12d-41fd-a68b-b50cbc19ee03",
       "fff6515d-ed00-41a6-9ff6-ba631eefb13a"
     ],
     "lastCheckOk": true,
@@ -28566,7 +28623,6 @@
     ],
     "sourceIds": [
       "48724bbc-eee5-4784-8419-674981071f24",
-      "505164d1-e17c-4e85-baff-38056f92fe62",
       "75f1872d-0cd7-4248-960e-eb76592b866b"
     ],
     "lastCheckOk": true,
@@ -29066,9 +29122,7 @@
     ],
     "sourceIds": [
       "0312cdac-7f97-4322-9bff-b79f865d1959",
-      "GB:radio-central-24",
-      "bd24e3d2-3e2e-47c4-b0a2-73e551728f4c",
-      "d1762707-7919-45ca-bf5e-73067049053c"
+      "GB:radio-central-24"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T01:35:52Z"
@@ -29567,8 +29621,7 @@
     ],
     "sourceIds": [
       "51b68e7f-9d38-4abb-ae54-694145f16b78",
-      "9894afea-8272-4be6-bc85-845913d54753",
-      "aa10732c-779d-4c06-8413-1c5b7c71b32d"
+      "9894afea-8272-4be6-bc85-845913d54753"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:09:44Z"
@@ -31820,8 +31873,7 @@
     ],
     "sourceIds": [
       "36a14570-8c0d-4011-8d79-215dcf5abf8b",
-      "GB:ram-fm-80s-hit-radio",
-      "fbcbb2c1-8507-41b9-b01d-06a230a43745"
+      "GB:ram-fm-80s-hit-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:38:18Z"
@@ -34143,6 +34195,25 @@
     "lastCheckedAt": "2026-10-12T10:24:28Z"
   },
   {
+    "id": "aws_a4f9820c991f52a78b46",
+    "stationId": "awb_bbf09ae4422b671490c6",
+    "name": "Slack City",
+    "country": "GB",
+    "url": "https://www.slackcity.org.uk/",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "71ec3918-b00f-4b24-9f86-a5fb094c2f6e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_794f0e47b8603a879194",
     "stationId": "awb_a214a6e265bcb788db17",
     "name": "SlaveFM",
@@ -35140,11 +35211,7 @@
     ],
     "sourceIds": [
       "79a3cd9e-6205-40c4-aefe-8369bdd4649a",
-      "bbaa0c03-9574-4c6c-bc6f-92aeab40f916",
-      "c4e0793b-43ba-4384-9263-99392a221434",
-      "cc4e871f-e6b9-4fbd-8090-a9fc05a2a268",
-      "f4577c39-50a3-4c11-94f6-c1c08f6a7855",
-      "fe876afb-23f6-4af1-88da-72f288177a97"
+      "c4e0793b-43ba-4384-9263-99392a221434"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:24:19Z"
@@ -35319,9 +35386,7 @@
     ],
     "sourceIds": [
       "4109e374-c310-4690-8455-c36e717a6e20",
-      "6b92af91-7a1d-443c-a382-22d6dc21d0b4",
-      "a933e805-8c3b-4842-b41f-05617340f68e",
-      "afd40da6-32bf-4249-9629-57dd5906a35c"
+      "a933e805-8c3b-4842-b41f-05617340f68e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -36029,9 +36094,7 @@
     ],
     "sourceIds": [
       "54bfae8d-7136-4e48-bd4e-660b3c96a042",
-      "5ed6b080-b967-4202-8bb5-96b4557aee5d",
-      "GB:street-sounds-radio",
-      "b5b62117-297c-48f6-8eb0-de2e510f8374"
+      "GB:street-sounds-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:03:44Z"
@@ -36092,6 +36155,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:58:53Z"
+  },
+  {
+    "id": "aws_e96542813a9cbfb25682",
+    "stationId": "awb_cec133aaaa7ded2fe04f",
+    "name": "STV Rad!o",
+    "country": "GB",
+    "url": "http://www.radiofeeds.net/playlists/sharptemp.pls?station=stv_central-aac",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "598fa833-670d-45bb-8546-a507c4302fbf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_f047445c31e9e496da71",
@@ -36395,8 +36477,7 @@
     ],
     "sourceIds": [
       "16c1f981-289e-4b47-af2c-2c3356fd519d",
-      "4bb8a5b0-ea88-4b3d-8c44-b99d3d8e5d9e",
-      "81001fc1-72fd-483c-91f7-8475bdc8bbc4"
+      "4bb8a5b0-ea88-4b3d-8c44-b99d3d8e5d9e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T21:05:03Z"
@@ -37664,7 +37745,6 @@
     ],
     "sourceIds": [
       "2f9a7d6c-1e4d-4511-9943-347ad136e98d",
-      "94e61c2c-a6fb-4ff0-8b3d-1041a3e8e42e",
       "GB:the-voice-of-doom"
     ],
     "lastCheckOk": true,
@@ -38155,8 +38235,7 @@
     ],
     "sourceIds": [
       "6cb06d85-3079-4f36-84f2-8eb8f3d1e97c",
-      "GB:totalrock-radio",
-      "ee843b89-e69d-4a64-bb8f-0ed8da7a558a"
+      "GB:totalrock-radio"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:25:06Z"
@@ -40325,7 +40404,6 @@
     ],
     "sourceIds": [
       "124c45d7-57a9-46ed-8b93-83b306992126",
-      "4b39f668-0225-400e-8ea4-0e3accbda347",
       "GB:xl-uk-radio"
     ],
     "lastCheckOk": true,
