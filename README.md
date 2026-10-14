@@ -8,7 +8,7 @@ This repository stores playable stream endpoints linked to stable station IDs fr
 
 - `data/streams/<CC>.json` — stream metadata split by ISO 3166-1 alpha-2 country code
 - `streams/<cc>.m3u` — country playlists
-- `data/index.json` — stream counts and country index
+- `data/index.json` — stream counts, source database snapshot, quality counters, and country index
 
 ## Stream schema
 
@@ -31,6 +31,8 @@ The canonical machine-readable schema is [`schema/stream.schema.json`](schema/st
   "lastCheckedAt": "2026-10-13T00:00:00Z"
 }
 ```
+
+`sources` and `sourceIds` are provenance sets. They record which upstream datasets and upstream identifiers contributed to the endpoint; their array positions are not a source-to-ID mapping contract.
 
 An endpoint listed here is not hosted or proxied by AirwaveDB. Availability can change at any time.
 
@@ -65,7 +67,7 @@ The automated import currently uses Radio Browser and verified-radio-streams. So
 
 ## Updates
 
-Streams are rebuilt automatically after the database update window. A large unexpected reduction is rejected instead of replacing a healthy snapshot with incomplete upstream data.
+Streams are rebuilt automatically after the database update window. `data/index.json` records the exact `databaseGeneratedAt` snapshot used by the build so downstream API builds can reject mismatched database/stream generations. A large unexpected reduction is rejected instead of replacing a healthy snapshot with incomplete upstream data.
 
 ## License
 
