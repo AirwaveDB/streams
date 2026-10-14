@@ -1005,6 +1005,8 @@ http://cgm-stream.noip.me:8000/mpd
 http://cgm-stream.noip.me:8000/mpd
 #EXTINF:-1 station-id="awb_9f3ec2eab7b3dd9465ce" stream-id="aws_9b88e0b954f094589c21" codec="mp3" bitrate="0",Channel 4
 http://onj2.andrelouis.com:8000/channel4
+#EXTINF:-1 station-id="awb_d6bf3d0e532275f44806" stream-id="aws_daf7bd9b596e2e9ea626" codec="" bitrate="0",Channel 5
+http://onj2.andrelouis.com:8000/channel5
 #EXTINF:-1 station-id="awb_35d7f80364b024dfcdcb" stream-id="aws_75211d650975d6125efb" codec="mp3" bitrate="128",Channel Radio
 http://stream1.hippynet.co.uk/stream/channelradio
 #EXTINF:-1 station-id="awb_ecbae4bdbde4ebe3e0d1" stream-id="aws_69a9df1821627b31c6b6" codec="mp3" bitrate="192",Chant With Namasphere 108
@@ -2075,6 +2077,8 @@ http://onj2.andrelouis.com:8000/itv
 https://streamz.anytek.co.uk/proxy/justeighties/J80s
 #EXTINF:-1 station-id="awb_2572d714d9aa7ae26532" stream-id="aws_d664777529a7c474733e" codec="mp3" bitrate="96",JAM Radio
 http://stream.zeno.fm/n958khk73hhvv
+#EXTINF:-1 station-id="awb_61ac29e8173401104bfa" stream-id="aws_b4e10b6483b9ecb4b158" codec="" bitrate="0",JAM Radio UK
+https://stream.jamradio.uk/live
 #EXTINF:-1 station-id="awb_5c183b5c9619f514f6e8" stream-id="aws_19bc19a2bf974faa4692" codec="mp3" bitrate="192",Jambo! Radio
 https://stream3.themediasite.co.uk:8130/stream
 #EXTINF:-1 station-id="awb_25e8a736a8cadf047f2c" stream-id="aws_cedff2d811d1955308a3" codec="ogg" bitrate="0",Jamie Radio

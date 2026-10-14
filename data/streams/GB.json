@@ -9647,6 +9647,25 @@
     "lastCheckedAt": "2026-10-12T01:45:36Z"
   },
   {
+    "id": "aws_daf7bd9b596e2e9ea626",
+    "stationId": "awb_d6bf3d0e532275f44806",
+    "name": "Channel 5",
+    "country": "GB",
+    "url": "http://onj2.andrelouis.com:8000/channel5",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6890a465-27e3-414e-9e88-89483c90ddf3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_75211d650975d6125efb",
     "stationId": "awb_35d7f80364b024dfcdcb",
     "name": "Channel Radio",
@@ -19944,6 +19963,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:10:48Z"
+  },
+  {
+    "id": "aws_b4e10b6483b9ecb4b158",
+    "stationId": "awb_61ac29e8173401104bfa",
+    "name": "JAM Radio UK",
+    "country": "GB",
+    "url": "https://stream.jamradio.uk/live",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_19bc19a2bf974faa4692",
