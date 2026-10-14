@@ -216,8 +216,8 @@ function mergeStreams(rows) {
     for (let i = 0; i < old.sources.length; i++) provenance.set(`${old.sources[i]}\0${old.sourceIds[i]}`, [old.sources[i], old.sourceIds[i]]);
     for (let i = 0; i < row.sources.length; i++) provenance.set(`${row.sources[i]}\0${row.sourceIds[i]}`, [row.sources[i], row.sourceIds[i]]);
     const pairs = [...provenance.values()].sort((a, b) => a[0].localeCompare(b[0]) || a[1].localeCompare(b[1]));
-    old.sources = pairs.map(([source]) => source);
-    old.sourceIds = pairs.map(([, sourceId]) => sourceId);
+    old.sources = [...new Set(pairs.map(([source]) => source))].sort();
+    old.sourceIds = [...new Set(pairs.map(([, sourceId]) => sourceId))].sort();
 
     if (!old.codec && row.codec) old.codec = row.codec;
     if (row.bitrate > old.bitrate) old.bitrate = row.bitrate;
