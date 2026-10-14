@@ -35,20 +35,50 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: '22'
+      - name: Preserve previous stream IDs
+        run: |
+          mkdir -p "$RUNNER_TEMP/airwavedb-previous-streams"
+          cp -a data/streams/. "$RUNNER_TEMP/airwavedb-previous-streams/"
       - name: Build stream dataset from database mappings
         run: node scripts/sync.mjs
         env:
           ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
+      - name: Stabilize stream IDs
+        run: node scripts/stabilize-ids.mjs
+        env:
+          PREVIOUS_STREAM_DIR: ${{ runner.temp }}/airwavedb-previous-streams
       - name: Validate stream dataset
         run: node scripts/validate.mjs
       - name: Commit changes
+        env:
+          ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
+          PREVIOUS_STREAM_DIR: ${{ runner.temp }}/airwavedb-previous-streams
         run: |
           if [ -z "$(git status --porcelain -- data streams)" ]; then
             echo "No stream changes"
             exit 0
           fi
+
           git config user.name "airwavedb-bot"
           git config user.email "airwavedb-bot@users.noreply.github.com"
+
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo "main advanced while building; rebuilding on the latest commit"
+            git reset --hard origin/main
+            rm -rf "$PREVIOUS_STREAM_DIR"
+            mkdir -p "$PREVIOUS_STREAM_DIR"
+            cp -a data/streams/. "$PREVIOUS_STREAM_DIR/"
+            node scripts/sync.mjs
+            node scripts/stabilize-ids.mjs
+            node scripts/validate.mjs
+          fi
+
+          if [ -z "$(git status --porcelain -- data streams)" ]; then
+            echo "No stream changes after rebuild"
+            exit 0
+          fi
+
           git add data streams
           git commit -m "chore(data): sync stream directory"
           git push
