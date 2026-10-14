@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:51:09.314Z",
+  "generatedAt": "2026-10-14T02:09:40.095Z",
   "schemaVersion": 1,
   "databaseGeneratedAt": "2026-10-14T01:44:10.357Z",
   "streamCount": 57409,
@@ -8,7 +8,9 @@
     "withBitrate": 48530,
     "hls": 3850,
     "sourceCheckOk": 57409,
-    "unknownCountry": 1211
+    "unknownCountry": 1211,
+    "identityReused": 57409,
+    "identityNew": 0
   },
   "countries": [
     {
@@ -983,5 +985,6 @@
       "code": "ZZ",
       "streamCount": 1211
     }
-  ]
+  ],
+  "idStrategy": "source-provenance-v1"
 }
