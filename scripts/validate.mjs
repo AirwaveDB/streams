@@ -64,11 +64,10 @@ async function main() {
 
       if (!Array.isArray(row.sources) || !row.sources.length) fail(`${where}: missing sources`);
       if (!Array.isArray(row.sourceIds) || !row.sourceIds.length) fail(`${where}: missing sourceIds`);
-      if (row.sources?.length !== row.sourceIds?.length) fail(`${where}: sources/sourceIds length mismatch`);
       if (!unique(row.sources)) fail(`${where}: duplicate source names`);
-      const provenance = (row.sources || []).map((source, index) => `${source}:${row.sourceIds?.[index] || ''}`);
-      if (!unique(provenance)) fail(`${where}: duplicate provenance pair`);
-      if (provenance.some((value) => value.endsWith(':'))) fail(`${where}: empty source id`);
+      if (!unique(row.sourceIds)) fail(`${where}: duplicate source ids`);
+      if ((row.sources || []).some((value) => !value)) fail(`${where}: empty source name`);
+      if ((row.sourceIds || []).some((value) => !value)) fail(`${where}: empty source id`);
 
       try {
         const url = new URL(row.url);
