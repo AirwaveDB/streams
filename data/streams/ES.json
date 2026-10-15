@@ -9852,6 +9852,25 @@
     "lastCheckedAt": "2026-10-12T03:51:25Z"
   },
   {
+    "id": "aws_c94339d1e7cbb37ed57a",
+    "stationId": "awb_9ebcce3667de2b8f1b9c",
+    "name": "Jarvis FM",
+    "country": "ES",
+    "url": "https://jarvisfm.es/radio",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fd760390-fd42-4fd9-9949-b55b492f1548"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_382e4c0d540e69746ff5",
     "stationId": "awb_d5697e99a0050a16dfe0",
     "name": "Jazler FM",
@@ -10061,10 +10080,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "0da4f047-089f-4331-b30a-d0babea6a71d",
       "ffe71234-db25-4cdf-8e27-d544d2a2523b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_3f1d4f64a177075ff227",
@@ -10411,6 +10431,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T20:01:26Z"
+  },
+  {
+    "id": "aws_d4115cd2b63d13a2a5bb",
+    "stationId": "awb_d2945de79cfb51db386a",
+    "name": "Kyoto FM",
+    "country": "ES",
+    "url": "https://sonic.mediatelekom.net/8272/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "393a9ef1-2ec8-4f41-8574-cc43503f3c9b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_43c2bfea6a3b6f2d49c2",
@@ -12689,10 +12728,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "98e39928-1801-414c-b6e7-dd7b58614dd6"
+      "98e39928-1801-414c-b6e7-dd7b58614dd6",
+      "ab6a1372-1364-4db8-848e-6bca16ef8523"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_1021e6271d208b2a364b",
@@ -22941,6 +22981,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:22:00Z"
+  },
+  {
+    "id": "aws_505c98f057e311a8d499",
+    "stationId": "awb_0bc50e871c92aad77e7b",
+    "name": "SAM Ibiza",
+    "country": "ES",
+    "url": "https://stream.aiir.com/a85tlgriuzyuv",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_3cf80aa1585400b73d2f",

@@ -1755,6 +1755,25 @@
     "lastCheckedAt": "2026-10-12T14:01:04Z"
   },
   {
+    "id": "aws_632324c972b1f7c5ef54",
+    "stationId": "awb_200f7c127e9a3ca61a54",
+    "name": "Ritmo Hits 91.5 FM",
+    "country": "DO",
+    "url": "https://ritmohits.net:8010/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0eb917c2-6544-4069-ba27-0c46bd9d066d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_a698592534496b69ac41",
     "stationId": "awb_4c246718b16d9ecaac07",
     "name": "Romantica 103.FM",
@@ -1774,6 +1793,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:24:28Z"
+  },
+  {
+    "id": "aws_a793b8bf9468c53e65d6",
+    "stationId": "awb_b544bd9e6881f8ccd1e9",
+    "name": "Salero Radio",
+    "country": "DO",
+    "url": "https://streaming.fastglobalserver.com:8122/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3c0760e3-3196-4191-b488-8dd3e635cb0f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_1909079ff981a7261a28",

@@ -9985,6 +9985,25 @@
     "lastCheckedAt": "2026-10-12T13:12:43Z"
   },
   {
+    "id": "aws_604ef71fb12692aa13f4",
+    "stationId": "awb_772e795f875ccb8716a5",
+    "name": "Libertas Music Radio",
+    "country": "NL",
+    "url": "https://radio.libertas.music/listen/libertas_music_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e02acb43-e955-479e-9f4a-37bc48701ea7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_e2459555a9549b1b85d7",
     "stationId": "awb_97353fbee9a5f23bb450",
     "name": "Lichtstad Radio",
@@ -11165,8 +11184,8 @@
     "name": "NLROXX Radio",
     "country": "NL",
     "url": "https://a13.asurahosting.com/listen/nlvoxx_radio/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -11176,7 +11195,7 @@
       "8a3496d2-aeee-424e-bc02-7e39992ee493"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_c57ad8d0d624004e2785",

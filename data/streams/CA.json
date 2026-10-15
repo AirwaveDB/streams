@@ -1296,6 +1296,25 @@
     "lastCheckedAt": "2026-10-12T04:45:15Z"
   },
   {
+    "id": "aws_550a17786a22a2ac26f2",
+    "stationId": "awb_5af0615def426f1e53f4",
+    "name": "99.9 Sun FM",
+    "country": "CA",
+    "url": "https://vistaradio.streamb.live/SB00397?args=web_01",
+    "codec": "aac+",
+    "bitrate": 57,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "74e9e192-f937-4c97-b412-fd6f6f287591"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_b3a8e05e95db7fb17c72",
     "stationId": "awb_99c98d0b50e77d27c0a2",
     "name": "A Dick Ted Radio",
@@ -2078,8 +2097,8 @@
     "name": "BPM 100.9 Quebec",
     "country": "CA",
     "url": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2089,7 +2108,7 @@
       "3045c96f-d6b7-428a-be3a-c8ad07dd1fdd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_e523df1a913979f9fd8e",
@@ -2116,8 +2135,8 @@
     "name": "BPM 96.5 Gatineau",
     "country": "CA",
     "url": "https://26383.live.streamtheworld.com/CFTXFMAAC.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2127,7 +2146,7 @@
       "17870a88-c273-4192-ac2d-6bbcf914e419"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_a8a1a7d3a22008c1f434",
@@ -18247,6 +18266,25 @@
     "lastCheckedAt": "2026-10-12T00:08:01Z"
   },
   {
+    "id": "aws_f0af1463f4b03eaaf78a",
+    "stationId": "awb_33684dbdc0639dd1b235",
+    "name": "Classic Hits 109 - 70s Hits!",
+    "country": "CA",
+    "url": "https://broadcast.classichits109.com/70s",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "50afa332-86b9-48df-a4c1-e7d5bf47984f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_4f9825f8935abac14f57",
     "stationId": "awb_52bbc89f66fe168103bd",
     "name": "Classic Hits 109 - Classic Rock 109",
@@ -19839,6 +19877,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:00:39Z"
+  },
+  {
+    "id": "aws_f9972a13da3bf549af33",
+    "stationId": "awb_785f2a4be228fda4e752",
+    "name": "Holy Bible 24/7",
+    "country": "CA",
+    "url": "https://167-160-184-10.sslip.io/holybible.mp3",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_b7612ff5cdbff1a22bb1",
@@ -27122,25 +27179,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T20:52:01Z"
-  },
-  {
-    "id": "aws_b90fdef01ec8f15da6b9",
-    "stationId": "awb_ff22f85e9f1c9f4d3b6d",
-    "name": "TSN 690 Montreal",
-    "country": "CA",
-    "url": "https://www.iheart.com/live/tsn-690-7450/now-playing",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4758873a-167a-43b8-a3ef-566bedb29dc4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_5849204700056ed753c4",

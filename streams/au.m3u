@@ -357,6 +357,8 @@ https://iheart.4zzz.org.au/4zzz
 http://usa7.fastcast4u.com:5868/;
 #EXTINF:-1 station-id="awb_fec8c1b54330b38d235a" stream-id="aws_a2d89716a65e3cce9f49" codec="aac" bitrate="192",5EBI 103.1 FM
 https://icecast1.myradio.click/cast2_64k.aacp
+#EXTINF:-1 station-id="awb_072179a5bdc6f5fdaf05" stream-id="aws_eecd9de1fa5f86cc3b27" codec="aac+" bitrate="64",5GTR
+https://s2.stationplaylist.com:7154/listen.aac
 #EXTINF:-1 station-id="awb_897eef31aee098457991" stream-id="aws_5d20c9daad8cb99dab91" codec="mp3" bitrate="128",5MBS
 https://stream.sigile.net/5mbs-128-mp3
 #EXTINF:-1 station-id="awb_09170b0c3079a8e97293" stream-id="aws_c8b59446da7dac9ed186" codec="mp3" bitrate="128",5MBS 99.9FM
@@ -825,6 +827,8 @@ http://abc.streamguys1.com/live/localhobart/icecast.audio
 http://s23.myradiostream.com:13240/;
 #EXTINF:-1 station-id="awb_b9b7f5007e85f0a9da61" stream-id="aws_5d5f497eb56c7d30ec21" codec="mp3" bitrate="128",Apple 98.5 FM Bacchus Marsh
 http://s23.myradiostream.com:13240/;
+#EXTINF:-1 station-id="awb_aeced7f0601d384ee0b8" stream-id="aws_97a98c4049a09b0a7966" codec="mp3" bitrate="128",Apple FM 98.5
+http://s23.myradiostream.com:13240/;stream
 #EXTINF:-1 station-id="awb_bb6539561fdd26311cfd" stream-id="aws_e12a6e41968036dfee29" codec="mp3" bitrate="128",ArtSound FM
 https://stream.artsound.fm/mp3
 #EXTINF:-1 station-id="awb_e61f8c34fb76165b5e3c" stream-id="aws_4b4fcebb08898d9cca98" codec="mp3" bitrate="128",ArtSound FM - Canberra - 92.7 FM (MP3)
@@ -1631,6 +1635,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3
 http://ic2463.c1788.fast-serv.com/stream
 #EXTINF:-1 station-id="awb_5a2e673bd6ed94c38cfb" stream-id="aws_c5c4178d8184ac03d6d5" codec="mp3" bitrate="192",Capital Community Radio 101.7FM
 http://ic2489.c1788.fast-serv.com/stream
+#EXTINF:-1 station-id="awb_f726a4d7690c124351d4" stream-id="aws_0afa5ceb95ee7c7b0a2f" codec="" bitrate="0",Casey Radio 97.7 FM - Community Radio for Melbourne's South-East
+https://28863.live.streamtheworld.com/3SERAAC.aac
 #EXTINF:-1 station-id="awb_1da87909d39bc5b8ed4a" stream-id="aws_265c4046fccf20060509" codec="mp3" bitrate="128",Cassette Disco
 https://casseta-disco.ru:6275/stream
 #EXTINF:-1 station-id="awb_5d168bee8a258dc3784d" stream-id="aws_44d6bb55dbabf8433d31" codec="mp3" bitrate="128",Ch89 Global Radio - Melbourne (MP3)
@@ -1783,6 +1789,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/2BAR.mp3
 #EXTINF:-1 station-id="awb_17001a872e62be37eaa8" stream-id="aws_6021ae3d729c959592f6" codec="aac" bitrate="130",Edge FM 102.1
 https://sa46.scastream.com.au/live/3nnn_128.stream/playlist.m3u8
+#EXTINF:-1 station-id="awb_0c99e755e55fe1e8125a" stream-id="aws_89ae2c9be08fa5fb2453" codec="aac" bitrate="64",Edge Radio 99.3
+https://streaming.alastair.tech/listen/edgeradio/live
 #EXTINF:-1 station-id="awb_6f952aad5ef545efdf9d" stream-id="aws_d4f3f898ef98f0ea9365" codec="aac+" bitrate="32",EMFM - Echuca Moama Community Radio - Echuca - 104.7 FM (AAC+)
 https://emfm-https.rezuru.com:9300/;
 #EXTINF:-1 station-id="awb_35d0dc3aed80dbda7fee" stream-id="aws_363c54fbbab44bbdac6c" codec="mp3" bitrate="192",Equinox Radio

@@ -4181,6 +4181,25 @@
     "lastCheckedAt": "2026-10-12T21:13:47Z"
   },
   {
+    "id": "aws_935e1344d7d83d8fabe0",
+    "stationId": "awb_fad20faf2ad7491c8faa",
+    "name": "Alternative FM",
+    "country": "FR",
+    "url": "https://ecmanager5.pro-fhi.net/alternativefm",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8c31a811-5b04-4737-95f6-4ab088bea7d3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_de09daef5fedfca434af",
     "stationId": "awb_815a66bec4b1f9dfee42",
     "name": "Alternative Radio",
@@ -16212,6 +16231,25 @@
     "lastCheckedAt": "2026-10-12T16:12:28Z"
   },
   {
+    "id": "aws_e0290e3a2a295e2b56c3",
+    "stationId": "awb_e7280c1281f2949961b8",
+    "name": "France Musique",
+    "country": "FR",
+    "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7b931696-e172-4d63-9343-53a713144d69"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_c4cf95c8695ca25b4f34",
     "stationId": "awb_0f23f947c5968c979b86",
     "name": "France Musique",
@@ -16288,6 +16326,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:15:37Z"
+  },
+  {
+    "id": "aws_2d6dfa9c5fc7bf6306da",
+    "stationId": "awb_e7280c1281f2949961b8",
+    "name": "France Musique",
+    "country": "FR",
+    "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -40838,6 +40895,25 @@
     "lastCheckedAt": "2026-10-12T10:35:18Z"
   },
   {
+    "id": "aws_550ea4e02c2c51a089af",
+    "stationId": "awb_fa16aa0ce10f5c10cf2c",
+    "name": "Radio Boomerang",
+    "country": "FR",
+    "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_47174eee7f0626e10293",
     "stationId": "awb_47902871a3dad6e20001",
     "name": "radio braquage",
@@ -42477,8 +42553,8 @@
     "name": "Radio Entre 2 Mers",
     "country": "FR",
     "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -42488,7 +42564,7 @@
       "534581ba-206d-4ed8-b64f-2197e7bb7d53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_35e458685335950a0973",
@@ -44263,6 +44339,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:09:57Z"
+  },
+  {
+    "id": "aws_d5b5e69fb76636cf9f81",
+    "stationId": "awb_063b0433382cf269e654",
+    "name": "Radio Laser",
+    "country": "FR",
+    "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "82018398-3e60-4792-9bd4-bc354e2526e6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_0bea7b4ac204f202e683",
@@ -47585,8 +47680,8 @@
     "name": "Radio Wa3 (راديو وع)",
     "country": "FR",
     "url": "https://stream.wa3.live/wa3.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -47596,7 +47691,7 @@
       "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_57c0bc3e7e0a6a692c1f",
@@ -50829,8 +50924,8 @@
     "name": "RPH Radio",
     "country": "FR",
     "url": "https://stream10.vestaradio.com/RPH52",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -50840,7 +50935,7 @@
       "849145bb-c8d2-4536-a44d-fe2b3259e6d3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_807ae1d76c15dfe6dc20",

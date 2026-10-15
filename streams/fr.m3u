@@ -433,6 +433,8 @@ http://broadcast.infomaniak.ch/alpes1grenoble-high.mp3
 https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3
 #EXTINF:-1 station-id="awb_41741465083c20edf2c7" stream-id="aws_4666bc388a4f8ba8562d" codec="mp3" bitrate="192",AlterNantes
 http://diffusion.lafrap.fr/alternantes.mp3
+#EXTINF:-1 station-id="awb_fad20faf2ad7491c8faa" stream-id="aws_935e1344d7d83d8fabe0" codec="mp3" bitrate="320",Alternative FM
+https://ecmanager5.pro-fhi.net/alternativefm
 #EXTINF:-1 station-id="awb_815a66bec4b1f9dfee42" stream-id="aws_de09daef5fedfca434af" codec="mp3" bitrate="128",Alternative Radio
 https://www.radioking.com/play/alternative-radio-1
 #EXTINF:-1 station-id="awb_b41cdab01243921e58c8" stream-id="aws_f7030d7d6406f7384329" codec="mp3" bitrate="320",Alternative Radio HD
@@ -1681,6 +1683,8 @@ http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance
 #EXTINF:-1 station-id="awb_a246251cc95dc674e4bf" stream-id="aws_7ebcc560c04580da1865" codec="mp3" bitrate="128",France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
+#EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_e0290e3a2a295e2b56c3" codec="" bitrate="0",France Musique
+http://directfrancemusique.fr/live.francemusique-midfi.mp3
 #EXTINF:-1 station-id="awb_0f23f947c5968c979b86" stream-id="aws_c4cf95c8695ca25b4f34" codec="aac" bitrate="192",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_b91ebb9f0798e1f3173c" codec="aac" bitrate="192",France Musique
@@ -1689,6 +1693,8 @@ http://icecast.radiofrance.fr/francemusique-hifi.aac
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_6ca3ff3facd481be5ef1" codec="aac" bitrate="192",France musique
 https://icecast.radiofrance.fr/francemusique-hifi.aac?id=radiofrance
+#EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_2d6dfa9c5fc7bf6306da" codec="" bitrate="0",France Musique
+https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_c55ec6a9702cdd9ec2fb" codec="aac" bitrate="107",France Musique
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8
 #EXTINF:-1 station-id="awb_0f23f947c5968c979b86" stream-id="aws_9f15535a2dae93149053" codec="aac" bitrate="107",France Musique
@@ -4223,6 +4229,8 @@ https://stream.radios.bzh/hls/boa/aac_hifi.m3u8
 http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:-1 station-id="awb_78a01789cf88a2664743" stream-id="aws_283e9b8026551e3697ea" codec="mp3" bitrate="192",Radio Boom Boom
 https://listen.radioboomboom.com/listen/rbb/radio.mp3
+#EXTINF:-1 station-id="awb_fa16aa0ce10f5c10cf2c" stream-id="aws_550ea4e02c2c51a089af" codec="mp3" bitrate="192",Radio Boomerang
+https://stream.radioboomerang.com:8970/streamboomerang
 #EXTINF:-1 station-id="awb_47902871a3dad6e20001" stream-id="aws_47174eee7f0626e10293" codec="mp3" bitrate="0",radio braquage
 https://radio.braquage.fun/listen/radio_braquage/stream
 #EXTINF:-1 station-id="awb_89761b71b18866ed9359" stream-id="aws_09f02bc879c8bee1ec2d" codec="mp3" bitrate="192",Radio Brassens
@@ -4393,7 +4401,7 @@ http://manager7.streamradio.fr:2930/stream
 http://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3
 #EXTINF:-1 station-id="awb_019c276c349a70adc4bd" stream-id="aws_1bb65b9ef7c3497b268f" codec="mp3" bitrate="320",Radio En Construction
 http://str0.creacast.com/rec
-#EXTINF:-1 station-id="awb_e74b7473605770c58d53" stream-id="aws_618d8f5cb00b2746b99a" codec="" bitrate="0",Radio Entre 2 Mers
+#EXTINF:-1 station-id="awb_e74b7473605770c58d53" stream-id="aws_618d8f5cb00b2746b99a" codec="aac" bitrate="128",Radio Entre 2 Mers
 https://remradio.ice.infomaniak.ch/remradio-aac-128.aac
 #EXTINF:-1 station-id="awb_d8967e1c71838ec5b852" stream-id="aws_35e458685335950a0973" codec="mp3" bitrate="128",Radio Escapades
 http://stream.radios-arra.fr:8000/radioescapades
@@ -4581,6 +4589,8 @@ https://direct.lapurdi.net/radio-lapurdi
 http://stream.radiolarzac.org:8000/radiolarzac
 #EXTINF:-1 station-id="awb_dc9e303757687b995c02" stream-id="aws_87f23ffb7257080b3cfc" codec="unknown" bitrate="320",Radio Larzac
 https://stream.radiolarzac.org/hls/master.m3u8
+#EXTINF:-1 station-id="awb_063b0433382cf269e654" stream-id="aws_d5b5e69fb76636cf9f81" codec="mp3" bitrate="256",Radio Laser
+https://stream.radios.bzh/listen/radiolaser/radio.mp3
 #EXTINF:-1 station-id="awb_ea27433ef0d255e80f27" stream-id="aws_0bea7b4ac204f202e683" codec="mp3" bitrate="192",Radio Late Night Dream
 http://91.121.59.45:8412/stream
 #EXTINF:-1 station-id="awb_e6261098a5baa3ea7774" stream-id="aws_fe3c7d21d425187d90fe" codec="mp3" bitrate="128",Radio lenga d'Oc
@@ -4927,7 +4937,7 @@ http://str0.creacast.com/radio_vinci_autoroutes_3
 http://str0.creacast.com/radio_vinci_autoroutes_3
 #EXTINF:-1 station-id="awb_2e4c37813377f683419f" stream-id="aws_a14187879600eb54cd12" codec="mp3" bitrate="128",Radio VINCI Autoroutes Ouest Centre
 https://sc.creacast.com/rva-cofiroute-1
-#EXTINF:-1 station-id="awb_be1451c86d5da07c8951" stream-id="aws_8d7fa82cbce31ea88900" codec="" bitrate="0",Radio Wa3 (راديو وع)
+#EXTINF:-1 station-id="awb_be1451c86d5da07c8951" stream-id="aws_8d7fa82cbce31ea88900" codec="mp3" bitrate="128",Radio Wa3 (راديو وع)
 https://stream.wa3.live/wa3.mp3
 #EXTINF:-1 station-id="awb_df2039d64d8d300a1562" stream-id="aws_57c0bc3e7e0a6a692c1f" codec="mp3" bitrate="128",Radio Welsass
 http://welsass.fr/play
@@ -5265,7 +5275,7 @@ https://l.rootslegacy.fr/;
 https://n.rootslegacy.fr/stream/1/
 #EXTINF:-1 station-id="awb_a7f5a822e2f5584ab924" stream-id="aws_8b89e0422f274cd7a437" codec="mp3" bitrate="0",Royaume Indépendant du MARSANARYAS
 https://www.marsanaryas.com/radio/live/
-#EXTINF:-1 station-id="awb_d0fb26636b1903885539" stream-id="aws_beef020a0081ac922cd0" codec="" bitrate="0",RPH Radio
+#EXTINF:-1 station-id="awb_d0fb26636b1903885539" stream-id="aws_beef020a0081ac922cd0" codec="mp3" bitrate="192",RPH Radio
 https://stream10.vestaradio.com/RPH52
 #EXTINF:-1 station-id="awb_7c7827dae352cba8b5e0" stream-id="aws_807ae1d76c15dfe6dc20" codec="mp3" bitrate="140",RSB (Radio Sainte Baume)
 http://radiosaintebaume.ice.infomaniak.ch/radiosaintebaume-128.mp3

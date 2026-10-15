@@ -9652,7 +9652,7 @@
     "name": "Channel 5",
     "country": "GB",
     "url": "http://onj2.andrelouis.com:8000/channel5",
-    "codec": null,
+    "codec": "mp3",
     "bitrate": 0,
     "protocol": "http",
     "hls": false,
@@ -9663,7 +9663,7 @@
       "6890a465-27e3-414e-9e88-89483c90ddf3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_75211d650975d6125efb",
@@ -19970,8 +19970,8 @@
     "name": "JAM Radio UK",
     "country": "GB",
     "url": "https://stream.jamradio.uk/live",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -19981,7 +19981,7 @@
       "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_19bc19a2bf974faa4692",
@@ -21807,6 +21807,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:39:56Z"
+  },
+  {
+    "id": "aws_7d404b1196a3a3c49730",
+    "stationId": "awb_2339cdaa6fa5f3322286",
+    "name": "LIFEFM.TV",
+    "country": "GB",
+    "url": "https://streamer.radio.co/s1ed160262/listen",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e936956c-fc26-4566-ae61-dce98c8524c9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_f390f6e7f29332a90c13",
@@ -32051,6 +32070,25 @@
     "lastCheckedAt": "2026-10-12T13:05:33Z"
   },
   {
+    "id": "aws_a9e7663dede389c43139",
+    "stationId": "awb_e1c682dad897b57ca73c",
+    "name": "Real Rock Radio",
+    "country": "GB",
+    "url": "https://eu10.fastcast4u.com/rrr1",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "da7d7480-3616-4ba6-bf43-e086deb71d1a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T00:17:25Z"
+  },
+  {
     "id": "aws_9e24d4c690505e6b9664",
     "stationId": "awb_675412a24c03ffbea5a8",
     "name": "Real roots radio",
@@ -32647,6 +32685,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:24:15Z"
+  },
+  {
+    "id": "aws_93b8d890e93a3c08e517",
+    "stationId": "awb_62345d01e03837f8072c",
+    "name": "RKNW Pirate Radio",
+    "country": "GB",
+    "url": "http://quasar.shoutca.st:8108/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "af927ce9-35d4-4d98-b36e-0812039bd16d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_914fd860afc3514780ad",
+    "stationId": "awb_62345d01e03837f8072c",
+    "name": "RKNW Pirate Radio",
+    "country": "GB",
+    "url": "http://quasar.shoutca.st:8108/stream.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1deb3bde-5507-4624-a780-5986312c88c3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_517b03a3d9a37d3552b9",
@@ -34231,25 +34307,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:24:28Z"
-  },
-  {
-    "id": "aws_a4f9820c991f52a78b46",
-    "stationId": "awb_bbf09ae4422b671490c6",
-    "name": "Slack City",
-    "country": "GB",
-    "url": "https://www.slackcity.org.uk/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "71ec3918-b00f-4b24-9f86-a5fb094c2f6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_794f0e47b8603a879194",
@@ -36193,25 +36250,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:58:53Z"
-  },
-  {
-    "id": "aws_e96542813a9cbfb25682",
-    "stationId": "awb_cec133aaaa7ded2fe04f",
-    "name": "STV Rad!o",
-    "country": "GB",
-    "url": "http://www.radiofeeds.net/playlists/sharptemp.pls?station=stv_central-aac",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "598fa833-670d-45bb-8546-a507c4302fbf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_f047445c31e9e496da71",

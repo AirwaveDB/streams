@@ -141,8 +141,6 @@ http://radio.saopaulo01.com.br:8050/stream
 https://srv1.braudio.com.br:7412/stream
 #EXTINF:-1 station-id="awb_3d4e69ecbe8302174a95" stream-id="aws_22e271ca57907d3fc94e" codec="aac+" bitrate="96",Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
-#EXTINF:-1 station-id="awb_bb88b3e3635cb1cdb38d" stream-id="aws_c4f13058ae66b6096496" codec="" bitrate="0",Amanda FM
-https://www.radios.com.br/aovivo/radio-amanda-1015-fm/9228
 #EXTINF:-1 station-id="awb_ac14a6174a0a0a2a0ba4" stream-id="aws_c0b33959c11eff582d36" codec="mp3" bitrate="128",Amazon Gospel
 http://directradios.net:8197/;
 #EXTINF:-1 station-id="awb_739267a9074b3254c216" stream-id="aws_2580861e28f875b4338e" codec="aac" bitrate="32",Amiga FM 101.3
@@ -441,6 +439,8 @@ https://jpradios.com.br/stream/djtroia-at-djtroia
 http://jpdofunk3.com.br:8018/stream
 #EXTINF:-1 station-id="awb_b78d5ae339e432513e8c" stream-id="aws_73a40f4aa20db6b863db" codec="aac" bitrate="64",Dumont FM
 https://8402.brasilstream.com.br/stream?origem=cadenaandroid
+#EXTINF:-1 station-id="awb_e83cec86c2b47985bfbc" stream-id="aws_50675d96a5920bd2da29" codec="aac" bitrate="96",EDBRADIO
+https://cp-1.owh.radio.br/listen/owh_s35344/radio-mp3
 #EXTINF:-1 station-id="awb_8e1e28bfbb8b66e08098" stream-id="aws_a3431354c875e56a3537" codec="mp3" bitrate="128",edmilson de jesus novais
 https://s10.maxcast.com.br:8304/live
 #EXTINF:-1 station-id="awb_23de5e10dfbeb3f7cc16" stream-id="aws_b61eb34005a6e8936c51" codec="mp3" bitrate="128",Educadora FM Bahia- 107.5 fm
@@ -457,6 +457,8 @@ https://radio.saopaulo01.com.br/9370/stream
 https://educativainatel.radioca.st/stream
 #EXTINF:-1 station-id="awb_aa220fd19c2883e6dfca" stream-id="aws_229623a33136ff2a8ab8" codec="mp3" bitrate="128",Educativa Inatel - 107,9 FM
 https://educativainatel.radioca.st/stream
+#EXTINF:-1 station-id="awb_d4f0b9881644e8719175" stream-id="aws_5513a084a73702bf043c" codec="" bitrate="0",EHB Rock
+https://ehbrock.com.br/live/
 #EXTINF:-1 station-id="awb_f1a33f07ec4090b6d654" stream-id="aws_721f96a82298058d9270" codec="aac+" bitrate="64",EldoPop FM
 http://stm10.srvstm.com:34794/stream
 #EXTINF:-1 station-id="awb_b3fac7d481be6654b85f" stream-id="aws_307e7354df016f18178c" codec="mp3" bitrate="96",Eldorado FM
@@ -609,6 +611,8 @@ https://stm1.srvif.com:7576/;
 https://srv1.braudio.com.br:7020/;
 #EXTINF:-1 station-id="awb_49086b4d0ebf439dacd3" stream-id="aws_5f3be40ca2bd51c23743" codec="aac+" bitrate="48",Guaruja FM
 https://01.megadinamica.com:7166/stream
+#EXTINF:-1 station-id="awb_3577f70efcba9f874fdd" stream-id="aws_12ed20ffd84c71fe60f3" codec="mp3" bitrate="128",Harmonia Geral
+https://server04.srvsh.com.br:8078/stream
 #EXTINF:-1 station-id="awb_180b9c8a58ebeee95ca2" stream-id="aws_1e2e161087c079bd7d5c" codec="mp3" bitrate="128",Hitmix Brasil
 https://radio.stmsrv.com:8464/stream
 #EXTINF:-1 station-id="awb_9d95eb339a3dcbf9504a" stream-id="aws_039b3f65408e2906b9db" codec="mp3" bitrate="128",Hits FM 897
@@ -1113,6 +1117,8 @@ https://8522.brasilstream.com.br/stream
 http://v3.directradios.com:8235/stream
 #EXTINF:-1 station-id="awb_da99367ad1589b7df46e" stream-id="aws_dab222e7b2552dfc3b76" codec="mp3" bitrate="64",Ouvindo a Bilbia
 http://v3.directradios.com:8235/stream
+#EXTINF:-1 station-id="awb_34e69b854364109af609" stream-id="aws_1d8bcb2f5a27674aff55" codec="" bitrate="0",OWH_S35334
+https://cp-1.owh.radio.br/listen/owh_s35334/radio-mp3
 #EXTINF:-1 station-id="awb_0498224be56a51a4d669" stream-id="aws_1a2c88764ffdc0f4f733" codec="mp3" bitrate="128",Pagode pra Valer
 https://stm15.xcast.com.br:12534/;
 #EXTINF:-1 station-id="awb_c32f8c946bd05cb495ee" stream-id="aws_cdc517486b54630a67ed" codec="mp3" bitrate="128",Pajuçara FM 103,7 Maceió
@@ -1575,7 +1581,7 @@ https://servidor33-5.brlogic.com:7078/live
 https://wms5.webradios.com.br:18904/8904
 #EXTINF:-1 station-id="awb_62ad53af1b593a60f24b" stream-id="aws_51a381f770d13ce07727" codec="mp3" bitrate="128",Radio Cidade Verde
 https://ssl1.transmissaodigital.com:20010/;
-#EXTINF:-1 station-id="awb_c04fd27653cf8b943ce3" stream-id="aws_a0f7c5c6802c47f9d4f5" codec="" bitrate="0",Rádio Cisma Gaudéria
+#EXTINF:-1 station-id="awb_c04fd27653cf8b943ce3" stream-id="aws_a0f7c5c6802c47f9d4f5" codec="mp3" bitrate="64",Rádio Cisma Gaudéria
 https://player-ssl.painelstream.net:8394/live?1791939878154
 #EXTINF:-1 station-id="awb_c9cf7eb62b65b75c5500" stream-id="aws_5264c16b32b56c3f6048" codec="aac+" bitrate="128",Rádio Clássica
 https://stm11.painelcast.com:7530/stream
@@ -1605,7 +1611,7 @@ https://stm04.virtualcast.com.br:8024/colmeiamaringa?1771884660703
 https://fm.radioaconchego.org/
 #EXTINF:-1 station-id="awb_5f174301d3d27e6688ba" stream-id="aws_d97911e350fa8e8ab81a" codec="mp3" bitrate="80",Rádio Comunitária Santa Cruz 105.9 FM
 http://paineldj.com.br:9218/stream
-#EXTINF:-1 station-id="awb_5a67593fbef64eacd75a" stream-id="aws_3da4b3094f06c32690df" codec="" bitrate="0",Radio Comunitaria Serrana FM
+#EXTINF:-1 station-id="awb_5a67593fbef64eacd75a" stream-id="aws_3da4b3094f06c32690df" codec="mp3" bitrate="128",Radio Comunitaria Serrana FM
 https://servidor32-2.brlogic.com:7008/live
 #EXTINF:-1 station-id="awb_8f20b6bc22a9405923d4" stream-id="aws_241817d0cb9b25f39a63" codec="aac+" bitrate="56",Rádio Condá
 https://stm10.virtualcast.com.br:8292/conda
@@ -1739,7 +1745,7 @@ https://8239.brasilstream.com.br/stream?origem=radios.com.br
 https://8241.brasilstream.com.br/stream
 #EXTINF:-1 station-id="awb_81e5aadcc371e4a52a5c" stream-id="aws_3c3ae167bc91c31059ec" codec="mp3" bitrate="128",Rádio Exaltação
 https://cast2.hoost.com.br:20158/live
-#EXTINF:-1 station-id="awb_64804a20467603a1a4a1" stream-id="aws_9bdfe8a02db026589f80" codec="" bitrate="0",Rádio Fábrica de Gaiteiros
+#EXTINF:-1 station-id="awb_64804a20467603a1a4a1" stream-id="aws_9bdfe8a02db026589f80" codec="mp3" bitrate="128",Rádio Fábrica de Gaiteiros
 https://servidor28-1.brlogic.com:8540/live
 #EXTINF:-1 station-id="awb_ee8a7216d86e86f4373c" stream-id="aws_b035badf3d8611cc04aa" codec="mp3" bitrate="128",Radio Facopp
 https://radio.saopaulo01.com.br/8276/stream
@@ -1781,7 +1787,7 @@ http://stream.zeno.fm/hwuwmm0dvp8uv
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
 #EXTINF:-1 station-id="awb_8b14733221ce0ffef7b1" stream-id="aws_5437816b4b64b9a43700" codec="unknown" bitrate="1000",Rádio Gaúcha 93.7 FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF:-1 station-id="awb_6897b0df347a8592aeba" stream-id="aws_5e6d8c95dd22a9ec002a" codec="" bitrate="0",Rádio Gaudéria
+#EXTINF:-1 station-id="awb_6897b0df347a8592aeba" stream-id="aws_5e6d8c95dd22a9ec002a" codec="aac" bitrate="128",Rádio Gaudéria
 https://hts01.brascast.com:12036/stream?1791940594702
 #EXTINF:-1 station-id="awb_d66a13b40948bde82e20" stream-id="aws_4738ff0ec0bbabb08c3f" codec="mp3" bitrate="128",Rádio Gaudéria das Missões
 https://s41.maxcast.com.br:8258/live?id=319843422524
@@ -2287,6 +2293,8 @@ https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
 https://stream.zeno.fm/rpudyh6mfuhvv
 #EXTINF:-1 station-id="awb_422e9f7c2059c74d30ed" stream-id="aws_acf2ee83aac694597309" codec="mp3" bitrate="0",Rádio Rede Sucesso 98.3 FM
 http://cast61.sitehosting.com.br:8446/live
+#EXTINF:-1 station-id="awb_3f2a92e9d3eef765bbf1" stream-id="aws_26e9c4a508a11ba1d42a" codec="mp3" bitrate="128",Rádio Referência Do Samba
+https://s1.tgastream.com.br:7176/stream
 #EXTINF:-1 station-id="awb_a3be77bfefb5d38706d1" stream-id="aws_a07e14753b99c62de4bc" codec="aac" bitrate="128",Radio Reggae Brasil
 https://casthttps.suaradionanet.net/13805/stream
 #EXTINF:-1 station-id="awb_b34d7659ba11617c76cd" stream-id="aws_334f978215257a3def38" codec="mp3" bitrate="128",Rádio Regional 1300 AM
@@ -2943,6 +2951,8 @@ http://servidor34.brlogic.com:8080/live?1583625685800
 https://servidor32-5.brlogic.com:8464/live?source=website
 #EXTINF:-1 station-id="awb_5a086dd76700447fdde2" stream-id="aws_1b97bb1ac5963ba8a79f" codec="mp3" bitrate="128",WEBSOUL radio
 http://ic142561.radioca.st:8136/stream
+#EXTINF:-1 station-id="awb_a48b3985f6b67a8c659f" stream-id="aws_fc35995bbf6f8c78e69e" codec="mp3" bitrate="128",wisleyschafer
+https://stream.zeno.fm/9vs3cfayczquv
 #EXTINF:-1 station-id="awb_ebecd7c94b74f0174553" stream-id="aws_9ab11b0b0475d7134e0b" codec="mp3" bitrate="192",WORLDFUNK radio
 https://streamer.radio.co/s337d3e3a2/listen
 #EXTINF:-1 station-id="awb_40a63b5e984674aa8616" stream-id="aws_299e111be19fed81333f" codec="mp3" bitrate="96",Xangri-lá FM
