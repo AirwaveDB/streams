@@ -3731,25 +3731,6 @@
     "lastCheckedAt": "2026-10-12T14:48:11Z"
   },
   {
-    "id": "aws_9e853894d62dd618d996",
-    "stationId": "awb_b3127ca955e54d750bd7",
-    "name": "105.5 - The Moon KSXM-LP",
-    "country": "US",
-    "url": "https://themoon.fm/listen-now/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e11b5248-e349-44ca-a495-049fcb182495"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_c12e65b37f932f2be444",
     "stationId": "awb_bfce095e2df3cd66de2f",
     "name": "105.5 The Bridge",
@@ -11496,7 +11477,7 @@
     "name": "93.7 The River Sacramento KYRV",
     "country": "US",
     "url": "https://stream.revma.ihrhls.com/zc4314",
-    "codec": null,
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -11507,7 +11488,7 @@
       "07c935e0-e828-4b29-889b-1f0b8837b847"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_28b291ea17c01a986d1e",
@@ -11928,6 +11909,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T05:41:26Z"
+  },
+  {
+    "id": "aws_2c12e5ded93b3bbe75f6",
+    "stationId": "awb_ef9f62bff98fb3ba0837",
+    "name": "94.3 The Point WJLK",
+    "country": "US",
+    "url": "https://live.amperwave.net/manifest/townsquare-wjlkfmaac-hlsc3.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9ce835ac-263e-4305-a64a-fc7e7fa0310c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_39da2816c3494cc10e0a",
@@ -16091,6 +16091,44 @@
     "lastCheckedAt": "2026-10-12T14:52:35Z"
   },
   {
+    "id": "aws_8042c6022ff8de2d0437",
+    "stationId": "awb_360a41d4f9d510b92792",
+    "name": "AItocha Radio - Pop & Latin (AI music)",
+    "country": "US",
+    "url": "https://stream.aitocha.com/listen/radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "658957bb-fbb6-4bda-8f1e-33747f0fae45"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_647c9ea4c9282977fc37",
+    "stationId": "awb_ffe3aea6213b5e09e7d4",
+    "name": "AItocha Rock (AI music)",
+    "country": "US",
+    "url": "https://stream.aitocha.com/listen/rock/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c22f97d4-26b6-46ac-a415-54b1bdd85f0d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_848a8e9e6f70defcc087",
     "stationId": "awb_62a57fda483ff8daba90",
     "name": "Alabama's Beautiful",
@@ -16300,6 +16338,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:42:38Z"
+  },
+  {
+    "id": "aws_b55f8ccc498e759671ba",
+    "stationId": "awb_704db77a6a2e0c9c0855",
+    "name": "All Mixed Up: Every Channel at Once | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/all-mixed-up/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "de8d332e-902d-471a-b406-ba77c88557fa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_55864a4d78feff8916ec",
@@ -19891,6 +19948,25 @@
     "lastCheckedAt": "2026-10-12T05:42:18Z"
   },
   {
+    "id": "aws_6b88e33dc71d44d16d6f",
+    "stationId": "awb_8dccaba3a230eb229700",
+    "name": "Barrie Craig, Confidential Investigator (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/barrie-craig/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "09129f4b-6151-437d-9ca7-534b5fd13ef0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_1163e9f81787b0265a83",
     "stationId": "awb_6fd356a3aafe6390eca1",
     "name": "Bassdrive",
@@ -20976,6 +21052,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T07:16:10Z"
+  },
+  {
+    "id": "aws_525cec0dcc5c575c3109",
+    "stationId": "awb_70ac196f8066c3bcdaa0",
+    "name": "BestNetRadio - The Mix",
+    "country": "US",
+    "url": "https://streaming.live365.com/a76189",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bafa96fe-9c6c-4863-a96f-6c9d212fe1b9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_efbe9c3d9a8923402cf2",
@@ -23267,6 +23362,25 @@
     "lastCheckedAt": "2026-10-12T20:22:06Z"
   },
   {
+    "id": "aws_579c03c85c5c14cc50bc",
+    "stationId": "awb_d81c4e917ed83f9ed9e7",
+    "name": "Boston Blackie (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/boston-blackie/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d67d2223-5cb6-465c-8bbd-ebb222868ec9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_dfe1d27d3dc5284da311",
     "stationId": "awb_d40d744f2eb76b020e2b",
     "name": "Boston Praise Radio & TV",
@@ -23303,6 +23417,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:33:14Z"
+  },
+  {
+    "id": "aws_173f7589d95a3df8e2f6",
+    "stationId": "awb_5d21d33baa1b71ba786a",
+    "name": "Box 13 (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/box-13/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7ca7a693-6a85-4fdd-8ee2-1ea37e2d89bb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_503d200470ab3708cb10",
@@ -23379,6 +23512,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T20:56:24Z"
+  },
+  {
+    "id": "aws_4c740b6ce8ffe120f1b0",
+    "stationId": "awb_7bb5ba2b7ae77fc2f95f",
+    "name": "Broadway Is My Beat (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/broadway-is-my-beat/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b0e9c579-3386-4a82-8389-1602de3e6c5c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_68a12a193d423ac3743d",
@@ -25382,6 +25534,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:48:56Z"
+  },
+  {
+    "id": "aws_6c611d401a64fddd3ef7",
+    "stationId": "awb_38466c65572745f5d9f7",
+    "name": "Chesterton Radio",
+    "country": "US",
+    "url": "https://rumble.com/c/c-1354603",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "56d9bed0-04ac-452e-a492-711b56fad9b1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_d82bb4307b98f8df08a0",
@@ -30152,6 +30323,25 @@
     "lastCheckedAt": "2026-10-12T18:34:52Z"
   },
   {
+    "id": "aws_ddc6114f916d49b623f5",
+    "stationId": "awb_7786869f35fb11e1fe1e",
+    "name": "DanceRadio.show",
+    "country": "US",
+    "url": "https://player.danceradio.show/listen/danceradio.show/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "46ac24bc-421b-46a6-aef2-9f8c589351cc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_01ce77847bffd58723e5",
     "stationId": "awb_008ccd68560a8e72c7f7",
     "name": "Dangerous D Radio",
@@ -32083,6 +32273,25 @@
     "lastCheckedAt": "2026-10-12T11:09:55Z"
   },
   {
+    "id": "aws_b4e9b15b978abd8a56bb",
+    "stationId": "awb_1ebc99e4af586132251f",
+    "name": "Don't Touch That Dial: Double Feature | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/dial-double-feature/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cd4e4b31-bb2a-4906-b101-463bfaa28311"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_010691d78086bd5fb2ec",
     "stationId": "awb_8cf06054fbb6761f1abb",
     "name": "DOO WOP FOREVER - CALM RADIO",
@@ -33591,44 +33800,6 @@
     "lastCheckedAt": "2026-10-12T15:21:49Z"
   },
   {
-    "id": "aws_201916882ab7bc9d1c22",
-    "stationId": "awb_385cfa82c447171622be",
-    "name": "Electric 94.9",
-    "country": "US",
-    "url": "https://player.amperwave.net/8774",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "015ef3f6-8d1a-43fe-a213-ce9f1e92f8bc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
-    "id": "aws_b8638c7af0156c432f56",
-    "stationId": "awb_385cfa82c447171622be",
-    "name": "Electric 94.9",
-    "country": "US",
-    "url": "https://www.electric949.com/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "19af7d6d-53b5-451c-86cb-065078c8304e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_3e842f016c6bdddc895c",
     "stationId": "awb_2143e0561e796283a5cd",
     "name": "Electric Forest Radio",
@@ -34141,25 +34312,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:21:12Z"
-  },
-  {
-    "id": "aws_7ddff66ec3ff486457b1",
-    "stationId": "awb_082b39a786d278a6db5b",
-    "name": "ESPN Sacramento 1320 KIFM",
-    "country": "US",
-    "url": "https://live.amperwave.net/direct/audacy-kifmamaac-imc",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b07162f4-3e18-40b8-9144-4134d3c32e12"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_d49a1203b4ad98cdc427",
@@ -37215,6 +37367,25 @@
     "lastCheckedAt": "2026-10-11T20:45:15Z"
   },
   {
+    "id": "aws_b19dd3f20001f2f52929",
+    "stationId": "awb_6f2c6705b5fe67ebb074",
+    "name": "FUNKEDUP Radio",
+    "country": "US",
+    "url": "https://cast2.my-control-panel.com/proxy/rankwell/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4e38ad9f-7c54-4b84-a372-84a4f5383e02"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
+  },
+  {
     "id": "aws_da91ebcc4f542e43f38d",
     "stationId": "awb_a09d844bcaf94b179b90",
     "name": "Funkology Radio",
@@ -39599,6 +39770,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T03:20:30Z"
+  },
+  {
+    "id": "aws_40b00b6f164577125b10",
+    "stationId": "awb_4224f4fdbb29c3d23727",
+    "name": "Gumshoe: Old-Time Radio Detectives | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/gumshoe/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bed25346-6e36-42a2-a366-3d213395163a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_591c9fda8861900526b1",
@@ -42933,6 +43123,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T20:01:58Z"
+  },
+  {
+    "id": "aws_b0d1dc2d9e2e3be59058",
+    "stationId": "awb_de9571e1508761471a33",
+    "name": "Ice House Radio",
+    "country": "US",
+    "url": "https://stream-hls.castr.net/69a87581465ed67ea8a47382/live_a543bb10351911f19e688901000c2909/tracks-a1/index.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e3a95283-ada8-4ff0-8107-5c39eb5bfc00"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_1fb3c7596b6b625cde6b",
@@ -49370,6 +49579,25 @@
     "lastCheckedAt": "2026-10-12T11:52:28Z"
   },
   {
+    "id": "aws_618305a2500d7711c51e",
+    "stationId": "awb_87b2f311ca016da466c5",
+    "name": "KCUG 100.3 \"Gospel Music Omaha\" - Omaha, Nebraska",
+    "country": "US",
+    "url": "https://ny.mysonicserver.com/9992/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7b1ee15e-f02a-4bcd-8f56-6ab70085de03"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_2e889d2e2858352ab2ee",
     "stationId": "awb_51551bf530fb7a41f72a",
     "name": "KCUR 89.3 Kansas City Public Radio",
@@ -49957,6 +50185,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:10:40Z"
+  },
+  {
+    "id": "aws_ee942af38a4913a703ae",
+    "stationId": "awb_3d7b4c63446d4518d0ae",
+    "name": "KDPP-LP 97.3 \"The Source\" Lincoln, Nebraska",
+    "country": "US",
+    "url": "https://c23.radioboss.fm:8214/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "33053a39-e313-4c57-9fbf-c8a84a417aa7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_1db2008586715f50eaa7",
@@ -50662,6 +50909,25 @@
     "lastCheckedAt": "2026-10-12T06:53:34Z"
   },
   {
+    "id": "aws_8dba1c6d9f300e1b807b",
+    "stationId": "awb_de2a62d481f433985be0",
+    "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
+    "country": "US",
+    "url": "https://streaming.live365.com/a81915",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "523bc33d-f25b-4065-8105-1737ccc5a4c0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_16f18fb35f49f765b149",
     "stationId": "awb_3b21afc7528254fd5aa8",
     "name": "KEUL 88.9 - Glacier City Radio - Girdwood, Alaska",
@@ -51249,6 +51515,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:22:33Z"
+  },
+  {
+    "id": "aws_37072ba1589270783600",
+    "stationId": "awb_237e1d19d5ab2a819e24",
+    "name": "KFI AM 640",
+    "country": "US",
+    "url": "http://stream.revma.ihrhls.com/zc177",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f980e335-0fa6-4b72-98d0-98d6df7d0159"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_e7498a42b8a87492cda6",
@@ -52887,6 +53172,25 @@
     "lastCheckedAt": "2026-10-12T03:28:52Z"
   },
   {
+    "id": "aws_3e4eda6884e32f31b92f",
+    "stationId": "awb_259f974ba8f2fa00f892",
+    "name": "KIRA 91.9 \"Independent Radio Arts\" Omaha, Nebraska",
+    "country": "US",
+    "url": "https://hls.cloudrad.io/07eda6c4/stream.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0f4fd370-2cdf-430a-8101-676534311263"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_806a2022fbd323e0b8c5",
     "stationId": "awb_f2974672736703c87e40",
     "name": "KIRN 670 AM",
@@ -53818,6 +54122,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T00:10:01Z"
+  },
+  {
+    "id": "aws_1984675e633d4361361b",
+    "stationId": "awb_f81866229891a2443c73",
+    "name": "KJTM \"98.9 & 107.9 TiM FM\" Omaha, Nebraska",
+    "country": "US",
+    "url": "http://provisioning.streamtheworld.com/pls/SP_R3055238.pls",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "43e2276f-3ccd-496b-9c87-39dcf311b28c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_8657e3c36d143ee3bf90",
@@ -56086,6 +56409,25 @@
     "lastCheckedAt": "2026-10-11T22:21:19Z"
   },
   {
+    "id": "aws_56c2f772993d8ca5d5f3",
+    "stationId": "awb_c199580ae47d50eee345",
+    "name": "KNIL-LP 95.9 \"Creighton Community Radio\" - Creighton, Nebraska",
+    "country": "US",
+    "url": "http://72.8.197.131:88/broadwave.mp3?rate=1&src=1",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bae34f6b-9c29-46c6-a1ec-9cc2078092a4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_b4efd1316ba2b03f9acf",
     "stationId": "awb_27db52d4f4f19ef3c0ba",
     "name": "KNKX",
@@ -56103,6 +56445,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T05:32:42Z"
+  },
+  {
+    "id": "aws_81c6e6cab854c8b7682b",
+    "stationId": "awb_b62d5f3e0867fc9240a6",
+    "name": "KNNA 95.7 \"The Cross\" Lincoln, Nebraska",
+    "country": "US",
+    "url": "https://ice41.securenetsystems.net/KNNALP",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cd94a25d-c605-4430-b443-4874c69bf102"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_09ae6bdb821a49615c95",
@@ -57266,6 +57627,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:30:05Z"
+  },
+  {
+    "id": "aws_b2d1330f74cc3d55c5b1",
+    "stationId": "awb_ca751d7be32089d26590",
+    "name": "KOWN \"95.7 The Boss\" Omaha, Nebraska",
+    "country": "US",
+    "url": "https://ice41.securenetsystems.net/KOWNLP",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2575b810-29b4-472d-b58e-cccfdd2ba8f1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_51343b00ce6641710e23",
@@ -60462,6 +60842,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:05:29Z"
+  },
+  {
+    "id": "aws_6e12adb22e3df069fe52",
+    "stationId": "awb_b037a02451c103305845",
+    "name": "KSWR 94.9 Las Vegas, Nevada",
+    "country": "US",
+    "url": "https://streams.radio.co/s44e55f8e6/listen",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b5c877e-0adb-4d37-a473-5ca8c697419a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_1b21673ac9e277c60085",
@@ -64139,6 +64538,25 @@
     "lastCheckedAt": "2026-10-12T10:04:26Z"
   },
   {
+    "id": "aws_983c51b7c168e0d95a6b",
+    "stationId": "awb_304753c2325f3bbb9467",
+    "name": "KXTO 1550 \"Radio Vida\" Reno, Nevada",
+    "country": "US",
+    "url": "https://shout2.brnstream.com/proxy/kxto?mp=/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "12108845-b90e-40cb-860a-e3eeb89cb7a7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_2b9dc3bc4ce53447d6a0",
     "stationId": "awb_203d3b8f5e006c3f25d3",
     "name": "KXTR-LP 100.7 \"The Planet\" Tarleton University, Stephenville, TX",
@@ -64289,6 +64707,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:01:01Z"
+  },
+  {
+    "id": "aws_a1e64049db9bdbef754c",
+    "stationId": "awb_2ef33ee9b31c5de7b191",
+    "name": "KYTF 94.7 \"Blair Radio\" - Blair, Nebraska",
+    "country": "US",
+    "url": "http://18213.live.streamtheworld.com/SAM09AAC082_SC",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d9d9b384-3e05-4625-b812-cf94e11a7f5f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_ac0df5e8122e57c672af",
@@ -65338,6 +65775,25 @@
     "lastCheckedAt": "2026-10-12T02:51:16Z"
   },
   {
+    "id": "aws_00c79cd1dab063c3f2ee",
+    "stationId": "awb_78ccdf43660b48c7900f",
+    "name": "Lac P Radio",
+    "country": "US",
+    "url": "https://s75.radiolize.com:8070/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c101a0c-e275-4eb4-a48c-29635bfad65e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_ba7e798023d424fc5018",
     "stationId": "awb_f28beb72cd5271d2a85b",
     "name": "Lafayette Q1067",
@@ -65547,6 +66003,25 @@
     "lastCheckedAt": "2026-10-12T04:04:33Z"
   },
   {
+    "id": "aws_10c5b07df5ea9fac3300",
+    "stationId": "awb_7665f7c479d0aba1dac6",
+    "name": "Laugh Track: Old-Time Radio Comedy | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/laugh-track/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a30c87c7-7c44-4e3f-b875-e2246a87e375"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_27c3b7b9837f7706d888",
     "stationId": "awb_f3e23353c4e4951aaf4a",
     "name": "Lazer 103.3",
@@ -65718,6 +66193,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:42:40Z"
+  },
+  {
+    "id": "aws_3e050ed6cda0a26ff3d3",
+    "stationId": "awb_66a6fbc1d1a593bfd099",
+    "name": "Let George Do It (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/let-george-do-it/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d4fa1531-9da5-40d9-9a10-bb1e9664d48c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_3bd9a4696cf32325f37d",
@@ -71539,6 +72033,25 @@
     "lastCheckedAt": "2026-10-12T05:13:26Z"
   },
   {
+    "id": "aws_efa76d3b64f7320c8adc",
+    "stationId": "awb_e3c0fdfe81384b6ba2eb",
+    "name": "New Jersey 101.5 WKXW",
+    "country": "US",
+    "url": "https://live.amperwave.net/manifest/townsquare-wkxwfmaac-hlsc3.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d887a5c3-46a4-4428-ab68-14319a6e6a58"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_b3a00f82a1ada3d20e0f",
     "stationId": "awb_3ba65f74a67e492d1372",
     "name": "NEW LIFE",
@@ -72682,6 +73195,25 @@
     "lastCheckedAt": "2026-10-12T18:33:14Z"
   },
   {
+    "id": "aws_8c6743f41e8d5c23147c",
+    "stationId": "awb_dfef937ea0666dabda50",
+    "name": "Nick Carter, Master Detective (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/nick-carter/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8c2c1ca6-c89f-4f18-b64d-aee782dac009"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_cebefbca77f3767bfe1d",
     "stationId": "awb_a7c85de939eac2de44c2",
     "name": "Nick the Rat Radio",
@@ -73179,6 +73711,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:57:37Z"
+  },
+  {
+    "id": "aws_81e45832268c7fb101d2",
+    "stationId": "awb_351edc9118cb265b6733",
+    "name": "North Pole Radio: Holiday Specials | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/north-pole-specials/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "70f8dee8-f063-4531-a8da-5f0af248dfc0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_31813906f137713e5569",
@@ -75148,6 +75699,25 @@
     "lastCheckedAt": "2026-10-12T14:09:48Z"
   },
   {
+    "id": "aws_a4eada84b91b0205b995",
+    "stationId": "awb_e4e768e3874941bc1203",
+    "name": "Particle FM",
+    "country": "US",
+    "url": "https://azuracast.particle.fm/radio/8000/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5ac5c721-9486-4e1e-a22d-ee1be55d8b16"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_366efb196371ebd65a47",
     "stationId": "awb_bed95391a555d69fe0d8",
     "name": "Party @ Dan's Rock Radio",
@@ -75280,6 +75850,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T07:30:31Z"
+  },
+  {
+    "id": "aws_e9ffd76a5fc955d2f25b",
+    "stationId": "awb_15a8d61ba8032171544e",
+    "name": "Pat Novak, for Hire (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/pat-novak/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "36c4b4b8-9c60-48d7-a857-717806504de1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_f4f6b993459925414424",
@@ -86950,6 +87539,25 @@
     "lastCheckedAt": "2026-10-12T01:01:25Z"
   },
   {
+    "id": "aws_6a5551377306bc26b553",
+    "stationId": "awb_97a2565a8890e25e6301",
+    "name": "Richard Diamond, Private Detective (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/richard-diamond/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2750409c-591f-4608-aaa8-fd8c3a9e41ec"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
+  },
+  {
     "id": "aws_5de80e1c808c212a3666",
     "stationId": "awb_c4eb713ecfae103d1962",
     "name": "Ride Radio",
@@ -87844,6 +88452,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T03:12:53Z"
+  },
+  {
+    "id": "aws_56e737aca35cf62425ad",
+    "stationId": "awb_dc5284382db54a41d7d0",
+    "name": "RTVradio 80s",
+    "country": "US",
+    "url": "http://rtvradio.sytes.net:8000/top",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9d208af6-45df-4ef3-a3dc-a095fab354b9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_528567795d8d945f5174",
+    "stationId": "awb_b979d05e8e810b344746",
+    "name": "RTVRadio Top1000",
+    "country": "US",
+    "url": "http://rtvradio.sytes.net:8000/top",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "45fb26b3-b670-434d-bb8b-501105290dd2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_2042a6a1d24b9de2b151",
@@ -90093,6 +90739,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T02:58:37Z"
+  },
+  {
+    "id": "aws_992d91e628f474cce4fb",
+    "stationId": "awb_4a46dbd95a1fbe7db47a",
+    "name": "Signal From Tomorrow: Sci-Fi Radio | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/signal-from-tomorrow/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e4de7e26-ec83-455e-a4d5-34ff71429f21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_f090a8828a71021deb26",
@@ -98147,6 +98812,44 @@
     "lastCheckedAt": "2026-10-12T09:24:49Z"
   },
   {
+    "id": "aws_53289805335cd48b9391",
+    "stationId": "awb_0ce031f4a432443fb4ce",
+    "name": "The Adventures of Philip Marlowe (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/philip-marlowe/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bd089c10-1777-4e01-a35e-32cf915dbed4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
+    "id": "aws_bd5df526dc033c5b1a71",
+    "stationId": "awb_d6d517395092796bd806",
+    "name": "The Adventures of Sam Spade (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/sam-spade/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7d85363-4153-4804-a438-285cd18ee33c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_39a0db4269ee717d01dc",
     "stationId": "awb_f871dfd7d6deb4562728",
     "name": "The Alway's Christmas Channel (MP3)",
@@ -99176,6 +99879,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T05:23:38Z"
+  },
+  {
+    "id": "aws_78649a9d3302ef7662e6",
+    "stationId": "awb_6f13b571d111ae7da5b2",
+    "name": "The Face Radio",
+    "country": "US",
+    "url": "https://the-face-radio.radiocult.fm/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "156839f6-9ac0-431d-bc8d-87d3b9d03d76"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
   },
   {
     "id": "aws_fc6cdf6a282114c5cc1f",
@@ -100249,6 +100971,25 @@
     "lastCheckedAt": "2026-10-12T07:14:01Z"
   },
   {
+    "id": "aws_15664f8cab2a1373792a",
+    "stationId": "awb_40b6c78e10da9672785b",
+    "name": "The Midnight Exchange: Suspense Radio | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/midnight-exchange/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3b31b05b-38e0-4a8f-966a-3eae6f6cadc4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_86c23075261885b3bd69",
     "stationId": "awb_91d5e2a8833176734f1d",
     "name": "The Mighty 990",
@@ -100418,6 +101159,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:21:12Z"
+  },
+  {
+    "id": "aws_163e9988e0aa27080ca0",
+    "stationId": "awb_073c005613d262a819eb",
+    "name": "The Night Shift: The Late Show | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/night-shift-late-show/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "27d59724-6029-4f06-b637-d5c50c300d14"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_6e24fb316185151ee60f",
@@ -102780,6 +103540,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:07:54Z"
+  },
+  {
+    "id": "aws_f39d0d2f5ad76985010c",
+    "stationId": "awb_d9f6715954b28eeb16cc",
+    "name": "Top Hits",
+    "country": "US",
+    "url": "https://cdn.onlyhitsradio.net/tophits",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2f8c02d2-87f4-47c5-b7f3-ae40c569c82f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_bb7413f21bb2a69155d9",
@@ -105792,6 +106571,25 @@
     "lastCheckedAt": "2026-10-12T15:39:25Z"
   },
   {
+    "id": "aws_2df3070c475b6052fd17",
+    "stationId": "awb_5eef63f01aa6e4597043",
+    "name": "WAIF 88.3 FM",
+    "country": "US",
+    "url": "https://ice7.securenetsystems.net/WAIF",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1a129f10-afa5-4434-97d8-82641d5fbb32"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
+  },
+  {
     "id": "aws_1d0f065ecb0d5d1d54f8",
     "stationId": "awb_18a2a613a3394118018e",
     "name": "WAIL FM 99.5",
@@ -108008,6 +108806,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T06:51:37Z"
+  },
+  {
+    "id": "aws_bcc7e2dbedf73ac14ec1",
+    "stationId": "awb_16dbba9e7b1ec0a1027d",
+    "name": "WCGD \"Energy 90.5\" Edgar, Nebraska",
+    "country": "US",
+    "url": "https://a2.asurahosting.com:7520/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "38a3142f-a0d6-45b4-9f6e-7b94be0b59a1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_5ed8cb167c0ce40239a1",
@@ -112333,8 +113150,8 @@
     "name": "WGYT 92.7 - Greer, South Carolina",
     "country": "US",
     "url": "https://582f0aabbc5ab.streamlock.net/ZZ_WGYT/wgyt.stream/playlist.m3u8",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 97,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -112344,7 +113161,7 @@
       "f5c9416b-c6f5-4321-b5d4-9035c7a4d4ea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_ec1b9236252bd8709071",
@@ -116282,8 +117099,8 @@
     "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
     "country": "US",
     "url": "https://stream.radio.co/sd3eca376a/listen",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -116293,7 +117110,7 @@
       "71bc252e-e14e-4c95-95fd-81446c4fd28f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_eb0b26aa99dd4edc613b",
@@ -117020,25 +117837,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T17:36:55Z"
-  },
-  {
-    "id": "aws_25e5415bcc95f679f98a",
-    "stationId": "awb_451d11ac1143c8068682",
-    "name": "WLVR 91.3 HD2",
-    "country": "US",
-    "url": "https://10gb1.tulix.tv/WLVR",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b3c155ab-ce28-418d-be0f-aa28932ba5b8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_8957d2aaa8b5cb62c7c0",
@@ -124161,8 +124959,8 @@
     "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
     "country": "US",
     "url": "https://kea.cdnstream.com/2054_128",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -124172,7 +124970,7 @@
       "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_6cdb52a8eef703e72b6a",
@@ -125983,6 +126781,25 @@
     "lastCheckedAt": "2026-10-12T02:02:37Z"
   },
   {
+    "id": "aws_de628001963443445194",
+    "stationId": "awb_4be6d1ce0742448820b9",
+    "name": "WUMO 94.5 - Montgomery, Alabama",
+    "country": "US",
+    "url": "http://provisioning.streamtheworld.com/pls/SP_R2129464.pls",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b9af597-7683-4756-9856-d5eb76990edf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_192585721b49fd13ae36",
     "stationId": "awb_f78da0c557c51520d2ec",
     "name": "WUNC 91.5 Chapel Hill, NC",
@@ -126963,9 +127780,9 @@
     "stationId": "awb_d3bf79ca8303944f9037",
     "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
     "country": "US",
-    "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
-    "codec": null,
-    "bitrate": 0,
+    "url": "http://18303.live.streamtheworld.com:3690/SAM04AAC609_SC",
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -126975,7 +127792,7 @@
       "05aba190-a0a2-40f3-93ca-47cd9f18f870"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_d9266d7667545b0cbb0b",
@@ -128714,8 +129531,8 @@
     "name": "WXLV - The X",
     "country": "US",
     "url": "https://securestream.casthost.net:8047/live",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -128725,7 +129542,7 @@
       "42cd8934-9544-4ed5-99f9-234a8387d68f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_f2c4e53cfaeaa6fa578f",
@@ -128828,8 +129645,8 @@
     "name": "WXPI 88.5 Williamsport, Pennsylvania",
     "country": "US",
     "url": "https://stream.wxpiradio.org:8000/live",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -128839,7 +129656,7 @@
       "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_ed384c16be8f67a7ec4f",
@@ -129305,8 +130122,8 @@
     "name": "WXZY 101.7 - Kane, Pennsylvania",
     "country": "US",
     "url": "https://ice64.securenetsystems.net/WXZY",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -129316,7 +130133,7 @@
       "3c4ebf2e-ef75-453e-8b9f-38ebfb17b442"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_23a89d9d94b78b2f4040",
@@ -131914,6 +132731,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T07:05:57Z"
+  },
+  {
+    "id": "aws_6751964557ab45af4afb",
+    "stationId": "awb_90fb948652fde9ae2c99",
+    "name": "Yours Truly, Johnny Dollar (radio) | Stupid Potato",
+    "country": "US",
+    "url": "https://stupidpotato.com/johnny-dollar/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ef0b7a8b-6d99-4d73-b2d7-1793b3e30a7f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_843aa520fdde9035446f",

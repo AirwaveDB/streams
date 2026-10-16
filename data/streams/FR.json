@@ -10941,6 +10941,25 @@
     "lastCheckedAt": "2026-10-12T18:21:28Z"
   },
   {
+    "id": "aws_3af04163e8dcbcec7f41",
+    "stationId": "awb_af2c217744a445ed103c",
+    "name": "EASY RADIO KRIBI",
+    "country": "FR",
+    "url": "https://ecmanager2.pro-fhi.net:1580/;?type=http&nocache=1792084042",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e9371b9b-99c8-4330-9088-ff1b1e1f55ff"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_a7f9f4aaf9363dc76139",
     "stationId": "awb_0981dffe048308dbf5b4",
     "name": "Echo FM",
@@ -15574,6 +15593,25 @@
     "lastCheckedAt": "2026-10-12T10:07:15Z"
   },
   {
+    "id": "aws_a47a70169d2eb0121b47",
+    "stationId": "awb_fe54bbbecddb76e94c17",
+    "name": "France Culture - hi res",
+    "country": "FR",
+    "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dbde7434-e855-4f75-87a4-2129731c3efc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_5f5327b632df2c9e06c2",
     "stationId": "awb_0bc36b12fdb0ef9e083c",
     "name": "France Culture (Bose)",
@@ -16231,25 +16269,6 @@
     "lastCheckedAt": "2026-10-12T16:12:28Z"
   },
   {
-    "id": "aws_e0290e3a2a295e2b56c3",
-    "stationId": "awb_e7280c1281f2949961b8",
-    "name": "France Musique",
-    "country": "FR",
-    "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7b931696-e172-4d63-9343-53a713144d69"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_c4cf95c8695ca25b4f34",
     "stationId": "awb_0f23f947c5968c979b86",
     "name": "France Musique",
@@ -16333,8 +16352,8 @@
     "name": "France Musique",
     "country": "FR",
     "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -16344,7 +16363,7 @@
       "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -19241,6 +19260,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:37:45Z"
+  },
+  {
+    "id": "aws_137d22353d3928791aa3",
+    "stationId": "awb_7afcc9a8dace73f64ef1",
+    "name": "Glaz | Radio",
+    "country": "FR",
+    "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "61573c6a-95dd-444d-90be-871e3b0b667d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_5f2788d4fa0aff64c24f",
@@ -42966,6 +43004,25 @@
     "lastCheckedAt": "2026-10-12T00:03:36Z"
   },
   {
+    "id": "aws_9abe4cbb977e1d130b76",
+    "stationId": "awb_068b802719b16b44a6c4",
+    "name": "Radio Fg Deep Dance",
+    "country": "FR",
+    "url": "https://radiofg.impek.com/fgd.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ea305d8-1dc1-4687-9faf-a3920518312d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_cbec7c90a086b5cfeb4d",
     "stationId": "awb_72a37b59e29112511f4e",
     "name": "Radio FG Techno",
@@ -43002,6 +43059,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:03:07Z"
+  },
+  {
+    "id": "aws_4e18a1d840f9d8f318af",
+    "stationId": "awb_1a2c63efdff90b1dfb33",
+    "name": "Radio FG Work",
+    "country": "FR",
+    "url": "https://stream.rcs.revma.com/2v1zz979n98uv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ea0f35b8-8094-4e58-9e8d-21982f2eebbe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_12a55772114454f22b03",
@@ -53309,10 +53385,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "51e7ab32-7b7b-41bd-b31b-9e81ffe0afe5",
       "5afd3c62-ae78-41ed-b4ff-e722a6813026"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T17:34:41Z"
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_6c982a0f82de7117bea6",
@@ -54960,6 +55037,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:25:09Z"
+  },
+  {
+    "id": "aws_1dd3889b07e5601c940f",
+    "stationId": "awb_6a8e6471a8b13eb2188e",
+    "name": "Vip-Radios - Dancefloor",
+    "country": "FR",
+    "url": "https://radio4.vip-radios.fm:18030/stream-128kmp3-Dancefloor",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "be004980-4786-4a4a-baf9-6cda27a4941d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_deea47ef91b09bfa058e",

@@ -1371,25 +1371,6 @@
     "lastCheckedAt": "2026-10-12T18:58:53Z"
   },
   {
-    "id": "aws_65ba353b90eaaf6878bd",
-    "stationId": "awb_3dc50f777f67a19f639c",
-    "name": "Hellgate",
-    "country": "PT",
-    "url": "https://hellgate-radio.duckdns.org/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "72dba9b4-97e9-4079-9251-e1fd0300b5e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_c47d76f14f2d67bbf91c",
     "stationId": "awb_28f7e141fe765a782faa",
     "name": "Hiper FM",
@@ -5054,6 +5035,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:46:53Z"
+  },
+  {
+    "id": "aws_036c015964db318bed3a",
+    "stationId": "awb_5eeb32054b3eca9c8b20",
+    "name": "Radio QUÂNTICA",
+    "country": "PT",
+    "url": "https://libretime.radioquantica.com/main.mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dd90d5dd-2ab8-461f-a03d-fac11006bd3c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_71f5d2723e54eb2123bb",

@@ -1635,7 +1635,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3
 http://ic2463.c1788.fast-serv.com/stream
 #EXTINF:-1 station-id="awb_5a2e673bd6ed94c38cfb" stream-id="aws_c5c4178d8184ac03d6d5" codec="mp3" bitrate="192",Capital Community Radio 101.7FM
 http://ic2489.c1788.fast-serv.com/stream
-#EXTINF:-1 station-id="awb_f726a4d7690c124351d4" stream-id="aws_0afa5ceb95ee7c7b0a2f" codec="" bitrate="0",Casey Radio 97.7 FM - Community Radio for Melbourne's South-East
+#EXTINF:-1 station-id="awb_f726a4d7690c124351d4" stream-id="aws_0afa5ceb95ee7c7b0a2f" codec="aac+" bitrate="128",Casey Radio 97.7 FM - Community Radio for Melbourne's South-East
 https://28863.live.streamtheworld.com/3SERAAC.aac
 #EXTINF:-1 station-id="awb_1da87909d39bc5b8ed4a" stream-id="aws_265c4046fccf20060509" codec="mp3" bitrate="128",Cassette Disco
 https://casseta-disco.ru:6275/stream
@@ -1991,6 +1991,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT.mp3
 #EXTINF:-1 station-id="awb_ce85844ded0d2894a365" stream-id="aws_5b09e915547ab9e1c1ff" codec="mp3" bitrate="128",Hobart FM
 https://radio12.shoutcast.net.au:8032/;
+#EXTINF:-1 station-id="awb_72a0a73adfcb488e4452" stream-id="aws_97e245bd1913385219df" codec="mp3" bitrate="256",Hope St Radio
+https://hope-st-radeio.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_f9e87449cb6295d3c260" stream-id="aws_a75b2bcd4a9cef6bb8ad" codec="mp3" bitrate="128",Hot 100 - Darwin - 100.1 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
 #EXTINF:-1 station-id="awb_18bb3409576f52f20901" stream-id="aws_03de2f2c9a238bb8960c" codec="aac+" bitrate="64",Hot 100 - Darwin - 100.1 FM (AAC)

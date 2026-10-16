@@ -25232,6 +25232,25 @@
     "lastCheckedAt": "2026-10-12T19:28:58Z"
   },
   {
+    "id": "aws_04e2527ccab67a0805d5",
+    "stationId": "awb_db7154c9a46b0e67ac1f",
+    "name": "charivari live",
+    "country": "DE",
+    "url": "https://live.stream.charivari.de/955charivari-webradio?aggregator=charivari_de_link",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bea87249-01bc-4142-b8aa-3b4bc391c4bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
+  },
+  {
     "id": "aws_8bb92f11d2747cf594fa",
     "stationId": "awb_765d45c8328cc552a578",
     "name": "Charivari München - Lounge Music",
@@ -32356,6 +32375,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T18:41:33Z"
+  },
+  {
+    "id": "aws_df1e587da0f431d30cb0",
+    "stationId": "awb_e190fb2acaad421c11f4",
+    "name": "Eichsfeld-welle",
+    "country": "DE",
+    "url": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "83dd8961-3c26-4edf-87ed-3cf8e907cf3a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_80cbe71453aa2501a228",
@@ -50134,7 +50172,7 @@
     "name": "Kiel FM",
     "country": "DE",
     "url": "https://radio.oksh.de/kielfm.mp3",
-    "codec": null,
+    "codec": "mp3",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -50145,7 +50183,7 @@
       "feb24e11-3602-4102-8563-f3cbc2ca7111"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_165d06dfba3a5002a36c",
@@ -70060,6 +70098,25 @@
     "lastCheckedAt": "2026-10-12T13:06:19Z"
   },
   {
+    "id": "aws_d9b2e8d919dfaeeb04c2",
+    "stationId": "awb_aa834c6d6279204b2263",
+    "name": "Radio 4U",
+    "country": "DE",
+    "url": "https://stream.laut.fm/radio-4-u",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7654dead-5813-4cfb-92d0-c1302176bb7f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_3dfc20f13e0521e96ca9",
     "stationId": "awb_3d3a8b8c90ba55d4dffc",
     "name": "Radio 7",
@@ -70154,6 +70211,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T15:19:36Z"
+  },
+  {
+    "id": "aws_76d5e5416be2b40ace59",
+    "stationId": "awb_ea155d07c6c09ea455a7",
+    "name": "Radio 7 Dance Party",
+    "country": "DE",
+    "url": "https://radio7.streamabc.net/87-danceparty-mp3-192-7041831",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "77e50893-69ba-400a-8693-4f1fdbb0376d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_920e8b42db59ba6de428",
@@ -72618,6 +72694,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T16:43:25Z"
+  },
+  {
+    "id": "aws_9bc7d6fee0a67763bd18",
+    "stationId": "awb_722f0ff1586b12b1f7df",
+    "name": "Radio Bob Rockabilly",
+    "country": "DE",
+    "url": "https://streams.radiobob.de/bob-rockabilly/mp3-192/streams.radiobob.de/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bd656b4c-4c06-4871-bbf3-c55ca7ed51f8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:18Z"
   },
   {
     "id": "aws_01092e327115d27b64de",
@@ -75671,8 +75766,8 @@
     "name": "Radio Deck 1",
     "country": "DE",
     "url": "https://rde1.de/320",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -75682,7 +75777,7 @@
       "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_3766ef101f67198ffb97",
@@ -75690,8 +75785,8 @@
     "name": "Radio Deck 1 Hamburg",
     "country": "DE",
     "url": "https://rde1.de/192",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -75701,7 +75796,7 @@
       "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_1904e4641c527264e8fc",
@@ -92278,6 +92373,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:10:26Z"
+  },
+  {
+    "id": "aws_03c8e88736b5905b7dac",
+    "stationId": "awb_402f640f66f6e63699ce",
+    "name": "RHB1",
+    "country": "DE",
+    "url": "https://stream.laut.fm/radioherzblut",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "901887b0-69c4-48b6-bf87-6f9802f92e8f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_9c447164e28f170c51f6",
@@ -112316,8 +112430,8 @@
     "name": "Радио Для Взрослых",
     "country": "DE",
     "url": "https://listen6.myradio24.com/alex542888",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -112327,7 +112441,7 @@
       "a7cfd884-c6c7-4f6b-9590-184febeb3180"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_91ad7490b5e3c375021d",

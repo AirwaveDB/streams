@@ -65,6 +65,8 @@ https://corus.leanstream.co/CISNFM?args=web_01&startTime=1692203406
 http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false
 #EXTINF:-1 station-id="awb_2d033a8e417269d3985e" stream-id="aws_bb7370e11997801964b1" codec="aac+" bitrate="47",106.1 CHEZ
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1 station-id="awb_9d05ebf98d123a790600" stream-id="aws_c8855aef2b9e12051d86" codec="aac+" bitrate="127",107.3 The Edge - Calgary's Alternative
+https://corus.leanstream.co/CFGQFM
 #EXTINF:-1 station-id="awb_6168d9fbaaf93600394f" stream-id="aws_ba736345144d5828e171" codec="aac+" bitrate="57",107.5 Dave FM
 http://live.leanstream.co/CJDVFM
 #EXTINF:-1 station-id="awb_3f13ca063fed422c63c7" stream-id="aws_4ff30b023fa3a65f2f6e" codec="mp3" bitrate="96",107.5 Kool FM
@@ -121,6 +123,8 @@ https://ais-sa1.streamon.fm/7263_64k.mp3
 https://stream.zeno.fm/97qzdqafuqzuv
 #EXTINF:-1 station-id="awb_8a1cfb85bcd7718e6bed" stream-id="aws_f40b831e102ebb634bb0" codec="aac+" bitrate="57",96.5 'The Ranch' Olds, AB
 https://vistaradio.streamb.live/SB00385
+#EXTINF:-1 station-id="awb_abf79dc9a62d999fbfbe" stream-id="aws_39428e6e28729c81bb3d" codec="aac+" bitrate="40",97.7 htz-fm
+https://29318.live.streamtheworld.com/CHTZFMAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=909a491d-9ba0-49d0-f692-b63f1c429553
 #EXTINF:-1 station-id="awb_d3b195406707fa3cc9c9" stream-id="aws_e416eebf537cd5a788a9" codec="aac+" bitrate="96",98.5 CKWR Real Community Radio
 https://stream2.statsradio.com:8150/stream
 #EXTINF:-1 station-id="awb_2c8d2a9e7d0a7b9ad4eb" stream-id="aws_112c30d256a2ecc86fb3" codec="unknown" bitrate="0",98.5 FM Montreal
@@ -771,6 +775,8 @@ http://mbsradio.leanstream.co/CHLQFM-MP3
 http://mbsradio.leanstream.co/CHLQFM-MP3
 #EXTINF:-1 station-id="awb_5e74de7832238732590d" stream-id="aws_3e1d2b7ac8f4b196fd80" codec="aac" bitrate="198",CHLW-FM 'The Bear 93.1' Barriere, BC
 https://barriere.streamb.live/SB00250
+#EXTINF:-1 station-id="awb_775f72a58be3b2a3d090" stream-id="aws_fd6847987e6d6ff4ef0f" codec="" bitrate="0",CHLY 101.7 FM - Nanaimo, Vancouver Island
+https://stream.statsradio.com:8146/stream
 #EXTINF:-1 station-id="awb_9baf34eef89ba9f6a543" stream-id="aws_329cd67077d693c536b2" codec="mp3" bitrate="192",CHMA 106.9 FM Sackville, NB
 https://securestreams6.autopo.st:2111/
 #EXTINF:-1 station-id="awb_9baf34eef89ba9f6a543" stream-id="aws_fe6f2d6c64d58319f9c1" codec="mp3" bitrate="192",CHMA 106.9 FM Sackville, NB
@@ -1901,7 +1907,7 @@ http://streaming.live365.com/a43564
 http://streams.calmradio.com:30228/
 #EXTINF:-1 station-id="awb_d7712312b418d2751e42" stream-id="aws_9e46be8be44405ac811f" codec="mp3" bitrate="128",Classic 1220 AM CFAJ
 https://s19.myradiostream.com/19156/listen.mp3
-#EXTINF:-1 station-id="awb_33684dbdc0639dd1b235" stream-id="aws_f0af1463f4b03eaaf78a" codec="" bitrate="0",Classic Hits 109 - 70s Hits!
+#EXTINF:-1 station-id="awb_33684dbdc0639dd1b235" stream-id="aws_f0af1463f4b03eaaf78a" codec="mp3" bitrate="128",Classic Hits 109 - 70s Hits!
 https://broadcast.classichits109.com/70s
 #EXTINF:-1 station-id="awb_52bbc89f66fe168103bd" stream-id="aws_4f9825f8935abac14f57" codec="mp3" bitrate="128",Classic Hits 109 - Classic Rock 109
 http://listen.classicrock109.com:10042/;

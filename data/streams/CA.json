@@ -659,6 +659,25 @@
     "lastCheckedAt": "2026-10-12T09:31:22Z"
   },
   {
+    "id": "aws_c8855aef2b9e12051d86",
+    "stationId": "awb_9d05ebf98d123a790600",
+    "name": "107.3 The Edge - Calgary's Alternative",
+    "country": "CA",
+    "url": "https://corus.leanstream.co/CFGQFM",
+    "codec": "aac+",
+    "bitrate": 127,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2e95e2c6-e820-4094-a03e-6b29bf29cbad"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_ba736345144d5828e171",
     "stationId": "awb_6168d9fbaaf93600394f",
     "name": "107.5 Dave FM",
@@ -1199,6 +1218,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T00:12:13Z"
+  },
+  {
+    "id": "aws_39428e6e28729c81bb3d",
+    "stationId": "awb_abf79dc9a62d999fbfbe",
+    "name": "97.7 htz-fm",
+    "country": "CA",
+    "url": "https://29318.live.streamtheworld.com/CHTZFMAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=909a491d-9ba0-49d0-f692-b63f1c429553",
+    "codec": "aac+",
+    "bitrate": 40,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bda22565-d086-4b85-a39f-d5239385cf02"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_e416eebf537cd5a788a9",
@@ -7433,6 +7471,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T21:37:12Z"
+  },
+  {
+    "id": "aws_fd6847987e6d6ff4ef0f",
+    "stationId": "awb_775f72a58be3b2a3d090",
+    "name": "CHLY 101.7 FM - Nanaimo, Vancouver Island",
+    "country": "CA",
+    "url": "https://stream.statsradio.com:8146/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "26eece3b-b84a-4cd0-b44c-5a24265dd702"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_329cd67077d693c536b2",
@@ -18271,8 +18328,8 @@
     "name": "Classic Hits 109 - 70s Hits!",
     "country": "CA",
     "url": "https://broadcast.classichits109.com/70s",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -18282,7 +18339,7 @@
       "50afa332-86b9-48df-a4c1-e7d5bf47984f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_4f9825f8935abac14f57",

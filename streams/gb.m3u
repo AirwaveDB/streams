@@ -1723,6 +1723,8 @@ http://s2.voscast.com:9576/1/stream
 https://gains.reviveradio.net/proxy/greenradio?mp=/stream
 #EXTINF:-1 station-id="awb_49f132cfb0d1a9fce266" stream-id="aws_dd665e5914fc81086bd1" codec="mp3" bitrate="128",Grey Clay Radio
 http://fra-pioneer08.dedicateware.com:2240/stream
+#EXTINF:-1 station-id="awb_ec34b8d31dbaa6cc59f3" stream-id="aws_d7c91f845f6ce871e779" codec="mp3" bitrate="192",Groove FM
+https://groovefm.uk/listen/groove_fm/radio.mp3
 #EXTINF:-1 station-id="awb_dec8904a12a2598df110" stream-id="aws_92b4ca485eb46ddab86e" codec="mp3" bitrate="128",Groove Genie Radio
 https://groove-genie.co.uk/listen/groove_genie_radio/radio.mp3
 #EXTINF:-1 station-id="awb_746da4fb90d80f636ed7" stream-id="aws_721753c7d6d3743c9f1c" codec="aac" bitrate="128",GTFM (Cynon Valley)
@@ -3405,10 +3407,8 @@ https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1 station-id="awb_765b768d0b49ec9d6b59" stream-id="aws_b8d473c5b8a76df639c8" codec="aac+" bitrate="96",Riverside Radio
 https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream
-#EXTINF:-1 station-id="awb_62345d01e03837f8072c" stream-id="aws_93b8d890e93a3c08e517" codec="" bitrate="0",RKNW Pirate Radio
+#EXTINF:-1 station-id="awb_62345d01e03837f8072c" stream-id="aws_93b8d890e93a3c08e517" codec="mp3" bitrate="128",RKNW Pirate Radio
 http://quasar.shoutca.st:8108/stream
-#EXTINF:-1 station-id="awb_62345d01e03837f8072c" stream-id="aws_914fd860afc3514780ad" codec="" bitrate="0",RKNW Pirate Radio
-http://quasar.shoutca.st:8108/stream.mp3
 #EXTINF:-1 station-id="awb_da3a7bb7609c78b724ea" stream-id="aws_517b03a3d9a37d3552b9" codec="aac" bitrate="0",RNIB Connect
 https://n16a-eu.rcs.revma.com/yv4znr4xcg0uv?rj-ttl=5&rj-tok=AAABnl5wXO0Aet0lz4-9zVe5wQ
 #EXTINF:-1 station-id="awb_77272900798842e34b79" stream-id="aws_856495191811827bcc89" codec="mp3" bitrate="0",Roch Valley Radio
@@ -4095,6 +4095,8 @@ http://icecast.maxxwave.co.uk/vannyradio
 https://s2.radio.co/s6fb3318ac/listen
 #EXTINF:-1 station-id="awb_a2df2b0f0abdd083e9f1" stream-id="aws_6c4b83056ce13ea4fcdb" codec="mp3" bitrate="128",Vectis Radio
 http://stream.gointernet.co.uk:8004/live
+#EXTINF:-1 station-id="awb_dc0b3a93437ff86f13a0" stream-id="aws_d33edf5dc9a692d03c14" codec="mp3" bitrate="128",Venture 995 fm
+https://c20.radioboss.fm:8383/stream?_ic2=1792075891550
 #EXTINF:-1 station-id="awb_481ae86a0fd81e6f43c3" stream-id="aws_b7945b9b1f9013390b7f" codec="mp3" bitrate="128",Venture Radio
 https://streamz.anytek.co.uk/proxy/tracla00
 #EXTINF:-1 station-id="awb_d9e7900190ea37e44929" stream-id="aws_c3cb2a1187d1e5fdc239" codec="mp3" bitrate="64",Venture Radio - Pumpkin FM

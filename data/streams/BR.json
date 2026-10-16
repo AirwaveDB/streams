@@ -4414,25 +4414,6 @@
     "lastCheckedAt": "2026-10-12T03:12:53Z"
   },
   {
-    "id": "aws_5513a084a73702bf043c",
-    "stationId": "awb_d4f0b9881644e8719175",
-    "name": "EHB Rock",
-    "country": "BR",
-    "url": "https://ehbrock.com.br/live/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af05cc2f-f4cd-4524-9b40-15352705945e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_721f96a82298058d9270",
     "stationId": "awb_f1a33f07ec4090b6d654",
     "name": "EldoPop FM",
@@ -10791,25 +10772,6 @@
     "lastCheckedAt": "2026-10-12T17:44:28Z"
   },
   {
-    "id": "aws_1d8bcb2f5a27674aff55",
-    "stationId": "awb_34e69b854364109af609",
-    "name": "OWH_S35334",
-    "country": "BR",
-    "url": "https://cp-1.owh.radio.br/listen/owh_s35334/radio-mp3",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f52a54e-9796-42b1-b4a5-79b389677bae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_1a2c88764ffdc0f4f733",
     "stationId": "awb_0498224be56a51a4d669",
     "name": "Pagode pra Valer",
@@ -16893,6 +16855,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T05:24:28Z"
+  },
+  {
+    "id": "aws_1d8bcb2f5a27674aff55",
+    "stationId": "awb_34e69b854364109af609",
+    "name": "Rádio Flash Prime",
+    "country": "BR",
+    "url": "https://cp-1.owh.radio.br/listen/owh_s35334/radio-mp3",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9f52a54e-9796-42b1-b4a5-79b389677bae"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_02ffbe12334cdb7bf1ae",

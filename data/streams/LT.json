@@ -61,6 +61,101 @@
     "lastCheckedAt": "2026-10-12T10:14:21Z"
   },
   {
+    "id": "aws_c7693c42eb4b7ea096b0",
+    "stationId": "awb_967e8fa7bef77d6e4b77",
+    "name": "BEVEIK RADIJAS",
+    "country": "LT",
+    "url": "https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "32951730-60a5-41c2-ad77-96f1c4167b5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_3642fc46bcfa1bce6a67",
+    "stationId": "awb_24d292dc00864b1d6bee",
+    "name": "Christmas Radio",
+    "country": "LT",
+    "url": "https://stream.zeno.fm/xevy5qiypbqvv",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "46b49b2d-d36a-4704-b462-f063dac7fe75"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_106f723a314905823eb1",
+    "stationId": "awb_1f38ce988ad3f1123d79",
+    "name": "COOL RADIO",
+    "country": "LT",
+    "url": "https://c34.radioboss.fm:9058/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3ab136cd-2298-42ec-b9f4-18167718ec8e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_3b0bab7b3adfb4c96ca1",
+    "stationId": "awb_53c8fe5ccdd72603047a",
+    "name": "Criminal Tribe",
+    "country": "LT",
+    "url": "https://live.leproradio.com/criminal.ogg",
+    "codec": "ogg",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ca2f44c2-a48e-465f-a555-e6bab9ed4c24"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_bd931c25ad1110fd0525",
+    "stationId": "awb_f709daaa4b9d0a260029",
+    "name": "Draugystės radijas",
+    "country": "LT",
+    "url": "http://213.226.189.174:8000/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bd2ce58d-da96-443a-94d2-1b1451102f21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_056290452c13f1118c6d",
     "stationId": "awb_eb5c9e928b273102e65c",
     "name": "Easy FM",
@@ -265,6 +360,44 @@
     "lastCheckedAt": "2026-10-12T19:20:12Z"
   },
   {
+    "id": "aws_515e057c4d7a3bf38395",
+    "stationId": "awb_cf872ae3f29be2745d96",
+    "name": "Haze Pub Radio",
+    "country": "LT",
+    "url": "https://live.leproradio.com/rocks.ogg",
+    "codec": "ogg",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d469d86b-e0a7-45ac-aa94-6be76329ab82"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_0a09f6695af29136a11a",
+    "stationId": "awb_2ac0bb7aeedb1471d9d1",
+    "name": "Jazz FM",
+    "country": "LT",
+    "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 89,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5f413f81-6d51-4dfd-841f-9e50eedd248d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_d60cf17e0a9ffdd31930",
     "stationId": "awb_cefe5d69dc8309e02b0e",
     "name": "Kapsai",
@@ -379,6 +512,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T13:47:37Z"
+  },
+  {
+    "id": "aws_1ebc7aec7e615ced27e6",
+    "stationId": "awb_3b9df165b3445861d93d",
+    "name": "Life Chill Music",
+    "country": "LT",
+    "url": "https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e1dbda3b-a3e9-4342-96e6-f9add105fb6f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_db928fe90130b0dccc0c",
@@ -656,6 +808,25 @@
     "lastCheckedAt": "2026-10-12T04:24:05Z"
   },
   {
+    "id": "aws_6c171a1ed9cdcd92aa4d",
+    "stationId": "awb_f761418b510b7e15c0ce",
+    "name": "Mantra Radio",
+    "country": "LT",
+    "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "74b5fceb-7023-4c47-b1f9-4ef15a17f398"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_6730e51278e7f679a4e1",
     "stationId": "awb_ab9a233a08814e7910bd",
     "name": "Marijos radijas",
@@ -712,6 +883,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:09:17Z"
+  },
+  {
+    "id": "aws_e0a9b51e74ab4654cb11",
+    "stationId": "awb_3953764be7533b8aac08",
+    "name": "Monsters FM",
+    "country": "LT",
+    "url": "https://stream.zeno.fm/cwnt2qyr2zhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "66d03809-4c18-4c01-b1df-ca2d499effde"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_958770c5deb40f3c6a46",
@@ -792,6 +982,25 @@
     "lastCheckedAt": "2026-10-12T14:48:11Z"
   },
   {
+    "id": "aws_01afb2113e76376cb47d",
+    "stationId": "awb_9607d20334c09b18bac9",
+    "name": "Patejago Radijas",
+    "country": "LT",
+    "url": "https://radio.patejago.lt/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "14f48e52-335d-488a-9e8c-e872a7edd026"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_8a2deab42f850ac26d89",
     "stationId": "awb_1fa9cf64a7dae1f470f5",
     "name": "Play Radio",
@@ -830,6 +1039,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T08:14:43Z"
+  },
+  {
+    "id": "aws_171cc414e68d430b0b81",
+    "stationId": "awb_2a0a208c619f84dd4ebf",
+    "name": "PMR.lt",
+    "country": "LT",
+    "url": "https://stream.pmr.lt/pmr.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "caa33a39-080b-4997-9a32-b5189e1391b7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_18fa2ef5f7d15f63ca29",
@@ -1047,6 +1275,25 @@
     "lastCheckedAt": "2026-10-12T08:38:19Z"
   },
   {
+    "id": "aws_46764aa74cf9450db1b6",
+    "stationId": "awb_3ddf82ad07bafbea6d83",
+    "name": "Radijo Klubas",
+    "country": "LT",
+    "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9e77daff-0a92-4f5c-bb4c-c64d2aac739f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_d976b3d5f22fa3d1d28c",
     "stationId": "awb_a9a80bdbc19e11b48442",
     "name": "Radijo Musikii",
@@ -1068,6 +1315,63 @@
     "lastCheckedAt": "2026-10-12T17:46:38Z"
   },
   {
+    "id": "aws_7e964804dce84d5cc9eb",
+    "stationId": "awb_b20e138e7907d7900c6d",
+    "name": "Radijo stotis FM99",
+    "country": "LT",
+    "url": "https://securestream.casthost.net:8617/fm99",
+    "codec": "mp3",
+    "bitrate": 170,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e13f29cb-3308-45f0-800e-25b370a5fc13"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_160915ef8857dee8e47a",
+    "stationId": "awb_f0418ec6f2a427f541db",
+    "name": "Radijo Stotis Kelyje",
+    "country": "LT",
+    "url": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "547b5600-53b8-4327-ae5d-c9a40b2163c4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_cab0dd6abba2c4dae513",
+    "stationId": "awb_f0418ec6f2a427f541db",
+    "name": "Radijo Stotis Kelyje",
+    "country": "LT",
+    "url": "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a49d5aa5-cae2-474e-bdcb-cc000c2b9568"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_9268646012ce5b603c55",
     "stationId": "awb_f454d2bbf3ac9a39a0c9",
     "name": "Radijo stotis Lietus",
@@ -1087,6 +1391,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:01:04Z"
+  },
+  {
+    "id": "aws_874ee52773f6be18689b",
+    "stationId": "awb_4d6a00f9c431cbd32902",
+    "name": "Radijo stotis M-1",
+    "country": "LT",
+    "url": "https://stream.m-1.fm/m1/aacp64",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c8bc598e-5783-4e43-9aaa-6ae4153b490d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_ca318abe809b0b4a9ac2",
+    "stationId": "awb_f935b386ccf7845f3d14",
+    "name": "Radijo stotis Radio3",
+    "country": "LT",
+    "url": "https://stream.rcs.revma.com/8cwskd80zxcwv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "abe35b9f-25c0-4aa1-85fd-34c82cad3624"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_c6a238b67f00623a1d7c",
@@ -1190,6 +1532,25 @@
     "lastCheckedAt": "2026-10-12T17:16:48Z"
   },
   {
+    "id": "aws_a47871faaf50a445112c",
+    "stationId": "awb_8765e70165f0efb7e5b1",
+    "name": "Radio Vilnius",
+    "country": "LT",
+    "url": "https://transliacija.audiomastering.lt/radiovilnius-mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f8013022-16e4-49b1-b9e4-c1563dcbd91d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_46e825b7d2afe3019e80",
     "stationId": "awb_76fdc963b7fbfc170d28",
     "name": "radio.audiomastering.lt",
@@ -1249,6 +1610,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T23:06:28Z"
+  },
+  {
+    "id": "aws_c5bbccdb7ee50ce8d6d6",
+    "stationId": "awb_e7e74686cfb0bb28d3eb",
+    "name": "RADIOR ENERGY",
+    "country": "LT",
+    "url": "https://klausyk.radijas.lt/listen/energy/live",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "46e7396c-cdfd-4890-adc8-5497ad6b25d1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_12395e046d78c27bd8b5",
+    "stationId": "awb_3f912881f09ee18fcbe8",
+    "name": "Relax FM",
+    "country": "LT",
+    "url": "https://stream4.radijas.lt/relaxfm",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1bfb11ef-ff8d-4059-a604-21b3d47703d2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_e5c6614c3d0cb8218d07",
@@ -1644,6 +2043,25 @@
     "lastCheckedAt": "2026-10-12T07:30:31Z"
   },
   {
+    "id": "aws_bd2c6970c300de4f88ce",
+    "stationId": "awb_184aed0da2f31a6e8565",
+    "name": "Upso Radijas",
+    "country": "LT",
+    "url": "https://klausyk.upsoradijas.lt/upsas_320",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5e52cd96-968f-4b50-a515-00ace92a0bee"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
+  },
+  {
     "id": "aws_626b9ce70580853eb2b9",
     "stationId": "awb_ecbde22490d13648a9db",
     "name": "Utenos Radijas",
@@ -1842,6 +2260,25 @@
     "lastCheckedAt": "2026-10-11T21:37:12Z"
   },
   {
+    "id": "aws_9a8a6189102f9455ddab",
+    "stationId": "awb_92760e38f73048ab061e",
+    "name": "zzz-rock-zzz",
+    "country": "LT",
+    "url": "https://play.radioking.io/zzz-rock-zzz",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b3fc8944-1a27-46ec-a446-ca960d88a13a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
     "id": "aws_54374c0033c3d3bcfe74",
     "stationId": "awb_3a3d194abc29b73c51dc",
     "name": "Радио RDTK",
@@ -1861,6 +2298,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:56:38Z"
+  },
+  {
+    "id": "aws_1ad6b1dad539b0381e5e",
+    "stationId": "awb_475670a5c594744b5d6f",
+    "name": "Радио Лента",
+    "country": "LT",
+    "url": "https://stream1.unknownclient.com/radio-lenta.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "00f8e948-44c2-43e6-af1b-b9a66ef5bcdf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_f75bdec83104850a6cf2",

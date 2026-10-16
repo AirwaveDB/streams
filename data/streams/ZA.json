@@ -2730,8 +2730,8 @@
     "name": "Radio Daspoort",
     "country": "ZA",
     "url": "https://c32.radioboss.fm:8899/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2741,7 +2741,7 @@
       "567e2590-44ca-4c67-a530-416e21a84280"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:12Z"
   },
   {
     "id": "aws_e2c7a3beabb655055c96",
@@ -3899,6 +3899,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T12:40:24Z"
+  },
+  {
+    "id": "aws_4475d383f2b2d977f4eb",
+    "stationId": "awb_4ea918809efde9c5c71f",
+    "name": "Worcester FM1",
+    "country": "ZA",
+    "url": "https://zas1.ndx.co.za:9917/stream",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9a1a816a-45ba-4621-bd4f-5603f387b389"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_3a41244a7368fe9506eb",

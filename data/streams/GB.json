@@ -16552,6 +16552,25 @@
     "lastCheckedAt": "2026-10-12T03:33:14Z"
   },
   {
+    "id": "aws_d7c91f845f6ce871e779",
+    "stationId": "awb_ec34b8d31dbaa6cc59f3",
+    "name": "Groove FM",
+    "country": "GB",
+    "url": "https://groovefm.uk/listen/groove_fm/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fae03b86-d61f-4803-a96b-1108d5b922a8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_92b4ca485eb46ddab86e",
     "stationId": "awb_dec8904a12a2598df110",
     "name": "Groove Genie Radio",
@@ -32692,8 +32711,8 @@
     "name": "RKNW Pirate Radio",
     "country": "GB",
     "url": "http://quasar.shoutca.st:8108/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -32703,26 +32722,7 @@
       "af927ce9-35d4-4d98-b36e-0812039bd16d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
-    "id": "aws_914fd860afc3514780ad",
-    "stationId": "awb_62345d01e03837f8072c",
-    "name": "RKNW Pirate Radio",
-    "country": "GB",
-    "url": "http://quasar.shoutca.st:8108/stream.mp3",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1deb3bde-5507-4624-a780-5986312c88c3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_517b03a3d9a37d3552b9",
@@ -39311,6 +39311,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T10:04:27Z"
+  },
+  {
+    "id": "aws_d33edf5dc9a692d03c14",
+    "stationId": "awb_dc0b3a93437ff86f13a0",
+    "name": "Venture 995 fm",
+    "country": "GB",
+    "url": "https://c20.radioboss.fm:8383/stream?_ic2=1792075891550",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "51f84050-e3f2-4af0-af17-19a213303284"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_b7945b9b1f9013390b7f",

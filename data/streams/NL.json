@@ -2729,6 +2729,25 @@
     "lastCheckedAt": "2026-10-12T06:59:01Z"
   },
   {
+    "id": "aws_f2d221f656031b01eeab",
+    "stationId": "awb_4d5298b953cbdee68e85",
+    "name": "Classic Replay Radio",
+    "country": "NL",
+    "url": "http://135.181.165.48:8019/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:19Z"
+  },
+  {
     "id": "aws_96b4f6d5bc88a1a93731",
     "stationId": "awb_b07051b8f6f74b5d569a",
     "name": "Classicnl",
@@ -9000,6 +9019,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T19:08:31Z"
+  },
+  {
+    "id": "aws_4b0ac45b9663f231b2df",
+    "stationId": "awb_a62e7a6ac9fb1301619d",
+    "name": "Kaas FM",
+    "country": "NL",
+    "url": "https://kaas-fm.radiocult.fm/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9793e740-8c38-4bcb-998d-5baf96edced3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_e24a4dcd2c8b68a529b7",
@@ -22752,6 +22790,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T00:22:57Z"
+  },
+  {
+    "id": "aws_691e9ba44c47c96dff25",
+    "stationId": "awb_77411abb2909524f1431",
+    "name": "The Mood Swing Station",
+    "country": "NL",
+    "url": "https://a12.asurahosting.com/listen/the_mood_swing_station/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a472120e-740c-4d81-88c2-5576da8b6597"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_ad247c90c5931acfc316",

@@ -1133,6 +1133,8 @@ https://stream10.vestaradio.com/DYNAMICRADIODUBAI
 https://radio.dzfishradio.com/listen/dzfishradio/radio.mp3
 #EXTINF:-1 station-id="awb_73d3865c8ca176ad29a1" stream-id="aws_ba8167d4ad0f2448d45f" codec="aac+" bitrate="64",E-KWALITY RADIO
 https://www.radioking.com/play/e-kwality-radio/478513
+#EXTINF:-1 station-id="awb_af2c217744a445ed103c" stream-id="aws_3af04163e8dcbcec7f41" codec="mp3" bitrate="320",EASY RADIO KRIBI
+https://ecmanager2.pro-fhi.net:1580/;?type=http&nocache=1792084042
 #EXTINF:-1 station-id="awb_0981dffe048308dbf5b4" stream-id="aws_a7f9f4aaf9363dc76139" codec="mp3" bitrate="128",Echo FM
 https://radio5.pro-fhi.net/flux-ghergigw/stream
 #EXTINF:-1 station-id="awb_dee589a9b7e11f58e927" stream-id="aws_dc56477c4bb9da5c0f42" codec="mp3" bitrate="128",ECLIPSE
@@ -1615,6 +1617,8 @@ https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
 #EXTINF:-1 station-id="awb_4a60230a406acdaed040" stream-id="aws_bf5dc0ad95fed130b057" codec="aac" bitrate="192",France Culture - banana
 http://icecast.radiofrance.fr/franceculture-hifi.aac
+#EXTINF:-1 station-id="awb_fe54bbbecddb76e94c17" stream-id="aws_a47a70169d2eb0121b47" codec="unknown" bitrate="0",France Culture - hi res
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
 #EXTINF:-1 station-id="awb_0bc36b12fdb0ef9e083c" stream-id="aws_5f5327b632df2c9e06c2" codec="aac" bitrate="107",France Culture (Bose)
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose
 #EXTINF:-1 station-id="awb_e7f60bd9bf63ec938180" stream-id="aws_4dc18102b43e97cdcdaf" codec="aac" bitrate="107",France Culture (no pub)
@@ -1683,8 +1687,6 @@ http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance
 #EXTINF:-1 station-id="awb_a246251cc95dc674e4bf" stream-id="aws_7ebcc560c04580da1865" codec="mp3" bitrate="128",France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
-#EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_e0290e3a2a295e2b56c3" codec="" bitrate="0",France Musique
-http://directfrancemusique.fr/live.francemusique-midfi.mp3
 #EXTINF:-1 station-id="awb_0f23f947c5968c979b86" stream-id="aws_c4cf95c8695ca25b4f34" codec="aac" bitrate="192",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_b91ebb9f0798e1f3173c" codec="aac" bitrate="192",France Musique
@@ -1693,7 +1695,7 @@ http://icecast.radiofrance.fr/francemusique-hifi.aac
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_6ca3ff3facd481be5ef1" codec="aac" bitrate="192",France musique
 https://icecast.radiofrance.fr/francemusique-hifi.aac?id=radiofrance
-#EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_2d6dfa9c5fc7bf6306da" codec="" bitrate="0",France Musique
+#EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_2d6dfa9c5fc7bf6306da" codec="mp3" bitrate="128",France Musique
 https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance
 #EXTINF:-1 station-id="awb_e7280c1281f2949961b8" stream-id="aws_c55ec6a9702cdd9ec2fb" codec="aac" bitrate="107",France Musique
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8
@@ -1997,6 +1999,8 @@ http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
 http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
 #EXTINF:-1 station-id="awb_1b3c196f90af8f53d0a6" stream-id="aws_07e62132d2e48dc49b49" codec="aac+" bitrate="64",Girl Power
 https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac
+#EXTINF:-1 station-id="awb_7afcc9a8dace73f64ef1" stream-id="aws_137d22353d3928791aa3" codec="mp3" bitrate="192",Glaz | Radio
+https://www.glazradio.tech/listen/glazradio/radio.mp3
 #EXTINF:-1 station-id="awb_f5dd1a3b086ff7fc2dbf" stream-id="aws_5f2788d4fa0aff64c24f" codec="mp3" bitrate="128",Globule Radio
 https://905.ice.infomaniak.ch/905-128.mp3
 #EXTINF:-1 station-id="awb_5a3a6b7625fcf979204d" stream-id="aws_a23a8509f6eb25f967aa" codec="mp3" bitrate="128",Good Morning Poker
@@ -4445,10 +4449,14 @@ http://radiofg.impek.com/fg.mp3
 https://stream.rcs.revma.com/wknqhm4yuchvv
 #EXTINF:-1 station-id="awb_3ab7c5d87594f148039e" stream-id="aws_44af66dda5ee56349dcf" codec="mp3" bitrate="0",Radio FG at work
 http://stream.rcs.revma.com/2v1zz979n98uv
+#EXTINF:-1 station-id="awb_068b802719b16b44a6c4" stream-id="aws_9abe4cbb977e1d130b76" codec="mp3" bitrate="0",Radio Fg Deep Dance
+https://radiofg.impek.com/fgd.mp3
 #EXTINF:-1 station-id="awb_72a37b59e29112511f4e" stream-id="aws_cbec7c90a086b5cfeb4d" codec="mp3" bitrate="0",Radio FG Techno
 http://stream.rcs.revma.com/1z19ak79n98uv
 #EXTINF:-1 station-id="awb_a352ed2262e5cb118ebc" stream-id="aws_06c7f939a2fe6f388663" codec="mp3" bitrate="0",Radio FG Underground
 https://radiofg.impek.com/ufg.mp3
+#EXTINF:-1 station-id="awb_1a2c63efdff90b1dfb33" stream-id="aws_4e18a1d840f9d8f318af" codec="mp3" bitrate="0",Radio FG Work
+https://stream.rcs.revma.com/2v1zz979n98uv
 #EXTINF:-1 station-id="awb_855d62cb2e581b01de35" stream-id="aws_12a55772114454f22b03" codec="mp3" bitrate="128",Radio Fil de l'eau
 https://hosting.studioradiomedia.fr:2495/stream
 #EXTINF:-1 station-id="awb_7b128a21a86b1c293c0b" stream-id="aws_6ec906983e252835fab6" codec="mp3" bitrate="0",Radio Flash (Montpellier)
@@ -5695,6 +5703,8 @@ https://listen.radioking.com/radio/7551/stream/385141
 https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance
 #EXTINF:-1 station-id="awb_78e753584bed9875e9ad" stream-id="aws_8b9f859d43bee55c1fee" codec="mp3" bitrate="128",VIP-Radios - Buddha Beach
 https://radio4.vip-radios.fm:18054/stream-128kmp3-BuddhaBeach
+#EXTINF:-1 station-id="awb_6a8e6471a8b13eb2188e" stream-id="aws_1dd3889b07e5601c940f" codec="mp3" bitrate="128",Vip-Radios - Dancefloor
+https://radio4.vip-radios.fm:18030/stream-128kmp3-Dancefloor
 #EXTINF:-1 station-id="awb_48a488868113f6ea3728" stream-id="aws_deea47ef91b09bfa058e" codec="mp3" bitrate="128",VIP-Radios - Healing Music
 http://178.32.111.41:8039/stream-128kmp3-HealingMusic
 #EXTINF:-1 station-id="awb_a00b870f67ff1e675f6c" stream-id="aws_f4a8165a9153b8955a3c" codec="mp3" bitrate="128",VIP-Radios - Relax Zone

@@ -62,6 +62,44 @@
     "lastCheckedAt": "2026-10-12T01:58:09Z"
   },
   {
+    "id": "aws_cd069964fd6a15038e9c",
+    "stationId": "awb_708eb04cd5ce03673729",
+    "name": "BIGfm",
+    "country": "EE",
+    "url": "https://sc2.flamebox.org/bigfm-hd",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3b089bf1-8411-40a2-8516-cf6d6d576991"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_9fe4ca240e0c378e9b11",
+    "stationId": "awb_caf3c772b8bae55bcba7",
+    "name": "Chat Raadio",
+    "country": "EE",
+    "url": "https://puma.streemlion.com:1830/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "46859921-bec2-4326-a085-bb1d4728c9b3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_7d2804e61760f2e1c3c8",
     "stationId": "awb_9fcd277b3ce41af9d984",
     "name": "Duo Country",
@@ -195,6 +233,25 @@
     "lastCheckedAt": "2026-10-11T22:09:17Z"
   },
   {
+    "id": "aws_a74e39abe1473e038fca",
+    "stationId": "awb_b866d93daf90b0648c87",
+    "name": "Elmari ballaadid",
+    "country": "EE",
+    "url": "https://le306.euddn.net/deed92c5ce114c39fcfeceacb9041cd470d3f759e63474b40b0a73649a6da3fe724cc963417a4f0ff8a92bb396ccd6903b08e451b64c58c5e4bacecfb47ac8c374174b3f401472ea661e366e010527440e4d7ffe461579f938f25e5456b7045640f9c37e1044a526035d9165b60530dc0e51a4744dee4eab7a6fd6031bb764f4a9516a3216b788cb4596396b37e0f99abba38bc965213648a1525e82f05ef5d91e0f800f6e4b86529b235e009d539b3f2d34aa81268908619ae3b51f024b3e4e/EB_elmariballaadid.aac",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d797889f-bf90-4a46-bd94-82b5b53388e2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_817a5da6f66c1bf64780",
     "stationId": "awb_53ced988b64c3ab4aa55",
     "name": "Elmari Kuld",
@@ -214,6 +271,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T01:32:17Z"
+  },
+  {
+    "id": "aws_bc7a48a093bcfba311cd",
+    "stationId": "awb_e2138c2917b01f14e9cd",
+    "name": "Elmari tantsuõhtu",
+    "country": "EE",
+    "url": "https://le301.euddn.net/871d03fbe81032ff2f281444c78241bbd5fa41c858eea108d23f7c6cfa4fc5ab044d00cae6e101e57d0a5a8522cfad0b5ec1d11d60823ede4a60afec8f2b2504d4794816fbde9039ed396d883ff484605facc310af20278e0a838bf639ab35022db33a92a6f32a890921dcfa27f53a09927039c7424e396aef66781530008ccb296be2880b4f7dc14600a6344ceb0de1cdf8f44a2ab0e7b5b0603488221cf649cbc2b9d5c10500d15729872b433b09c8f4167284e3d93cde432f102c66ddfd90/elmaritantsuohtu.aac",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "387b334b-d28e-40f9-a51b-dbd9e9281711"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_efdd7c8760efba9f6ef4",
@@ -467,6 +543,45 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:31:39Z"
+  },
+  {
+    "id": "aws_9fb46d9712aff4f336c6",
+    "stationId": "awb_78322aa68e2899c327bc",
+    "name": "Hits Show Radio - EST",
+    "country": "EE",
+    "url": "https://stream.zeno.fm/dghp9excl67vv",
+    "codec": "mp3",
+    "bitrate": 112,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8292e637-6ed6-4ed3-8273-f3e3b84913bc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_e484522b2d535dcc166a",
+    "stationId": "awb_27265fc8f8c4c3a5b195",
+    "name": "Hot Fields AI Radio",
+    "country": "EE",
+    "url": "https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c1f1dc4f-83de-4489-8e55-c74692045e92",
+      "d949f80a-9a36-4b8e-b128-4fb6f3750a83"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T22:26:19Z"
   },
   {
     "id": "aws_28b83751c74c9081fa34",
@@ -846,6 +961,44 @@
     "lastCheckedAt": "2026-10-11T23:52:12Z"
   },
   {
+    "id": "aws_7435bb8964e775c3c4fa",
+    "stationId": "awb_8160daec5a5e3ecd4c70",
+    "name": "MyHits Dance",
+    "country": "EE",
+    "url": "https://le305.euddn.net/0d62a6155dcd04d4073797b3dde014bddf833ab80b327858048767316c8526c6aa19b2da621b8c6768f5d5dbae771b8a548500e97e5b2f1276757aad532061d50cd39c85a1d0c0f479567b7fc66c3b55f09d3f1bcc941a9b08f15eba2fc20d8eced50bab54daba70cbf543b2a8c381375346f77de47f19c7e9e0ef065b11b1445e29b49a104c2a26dfe41a91218dc55019d228473f9d97a9412dca62023465796ce1904870c4f5dfeec6873b814c1f6b/md_mhdance.aac",
+    "codec": "aac",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8cca3d09-a483-4709-af7e-482eb0f62b37"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_780a11ca33548c2f8470",
+    "stationId": "awb_6211069292e4487b3936",
+    "name": "MyHits Rock",
+    "country": "EE",
+    "url": "https://le302.euddn.net/917ee7f93356a9635286a8ce2890d12c9b533409623ec8f9d400f376bcfe8e4f789c2a8f52d355fd670fc6b30cb49c059fcebd6d9e385c4131648affeacd795cb3fe2425a59ca65fd0a5905d1442fc4f5ee3a4c64f96ddbf8c9f7afb2ec40fb05ed3a32b17afedad0585d0f261d8d2b5d8082d02ef6a373d22c39ed230fcae73388093097eab840de7aaff3ae6989aefad9f25c63efb6c5d32d4721ac217627cb8423e346a02b3a6422f7dd4794f50241bfff38aaaa064fb4ce8881f226406e6/MHR_myhitsrock.aac",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4ba1954b-b9a5-47c5-91e4-13439cfdfdfc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_9957bce72f61e2e82379",
     "stationId": "awb_62f16a5c453170ec27e0",
     "name": "NRJ",
@@ -865,6 +1018,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T04:36:32Z"
+  },
+  {
+    "id": "aws_637935e6bbeacd46dcbf",
+    "stationId": "awb_44d109a58b5f5097b3c0",
+    "name": "NRJ DnB",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/NRJdnb",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d12b1da7-33ca-42a3-bfd3-6d5fc7da5c21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_f5d3b25947056537d6f2",
+    "stationId": "awb_8bb925cc363c13e9ce49",
+    "name": "NRJ Estonia",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/NRJ",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cbc3d2c2-133d-4efc-97f8-875e560c9344"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_f5e4eb6da071e4b8f68b",
@@ -990,6 +1181,25 @@
     "lastCheckedAt": "2026-10-12T18:05:56Z"
   },
   {
+    "id": "aws_791e2b5ec486ebf4402f",
+    "stationId": "awb_1bb9c7848b0f7ee4819f",
+    "name": "PUNK FM",
+    "country": "EE",
+    "url": "https://sapircast.caster.fm:11309/OsZpV",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dccda812-d94d-4619-89d5-81ec9f5d75d0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_c7fa58bcda2f3303ea69",
     "stationId": "awb_4b1e3e59cb132ab316ec",
     "name": "R2 Eesti",
@@ -1085,6 +1295,101 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-11T22:33:26Z"
+  },
+  {
+    "id": "aws_0881fd00ace7eb5ff5b0",
+    "stationId": "awb_314f4e11a9f7d0e3fbbc",
+    "name": "R2Extra - AltPop",
+    "country": "EE",
+    "url": "https://live.err.ee/live/r2alt.m3u8?short=true",
+    "codec": "aac",
+    "bitrate": 82,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "67ef69d8-a798-458b-b693-75a377839fab"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_3973b7e1ecc111f30d93",
+    "stationId": "awb_cb349a8175821086a2b4",
+    "name": "R2Extra - Chill",
+    "country": "EE",
+    "url": "https://sb.err.ee/live/r2chill.m3u8?short=true",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f5debda7-7f2a-4bdc-a37f-fe260cfb60a3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_54452d5c1b232fe32f37",
+    "stationId": "awb_3440ef34aa3c30b698d3",
+    "name": "R2Extra - Rap",
+    "country": "EE",
+    "url": "http://icecast.err.ee/r2pkorge.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "50db1f55-91da-45e8-9e5c-06a7e18ba890"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_cf851ff8ecd835e5cd12",
+    "stationId": "awb_0044913a61059b8506a2",
+    "name": "R2Extra - Rock",
+    "country": "EE",
+    "url": "https://sb.err.ee/live/r2rock.m3u8",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4d391e03-b4f6-4cbd-8c9d-e1593b8c9ab3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_db8ecbf4ac671f2b8d0c",
+    "stationId": "awb_976a6f795d7db050a73d",
+    "name": "R2Extra Pop",
+    "country": "EE",
+    "url": "https://live.err.ee/live/r2pop.m3u8?short=true",
+    "codec": "aac",
+    "bitrate": 82,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c5aca242-c975-4c74-9cfa-0f027066e8c9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_e9f51dbf62d48dee47d2",
@@ -1442,6 +1747,25 @@
     "lastCheckedAt": "2026-10-12T02:32:42Z"
   },
   {
+    "id": "aws_f9eff2665d323e559f14",
+    "stationId": "awb_94b4876bcc9485a84561",
+    "name": "Raadio REMIX",
+    "country": "EE",
+    "url": "https://stream.hostbee.nl:5740/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "92804b55-2a5e-47bb-8b4e-b6d12bc620a5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_c514395fb465a178eb4b",
     "stationId": "awb_4fe9bc79d7710454c7c4",
     "name": "Raadio Tallinn",
@@ -1540,6 +1864,25 @@
     "lastCheckedAt": "2026-10-12T10:06:28Z"
   },
   {
+    "id": "aws_532a85c644a2217f532d",
+    "stationId": "awb_1d07111cc696ba149368",
+    "name": "Radio Maximum",
+    "country": "EE",
+    "url": "https://stream.radiomaximum.ee/stream",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8c877ce7-0f67-4806-960d-8805664b16bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_b77f77fa131eef807435",
     "stationId": "awb_cb2fe7a3ca6659935772",
     "name": "Radio Nostalgia",
@@ -1601,6 +1944,25 @@
     "lastCheckedAt": "2026-10-12T05:08:24Z"
   },
   {
+    "id": "aws_34acb2076b6fc4aa44fe",
+    "stationId": "awb_29d7bce4fa4dd25fa79b",
+    "name": "Rahvaraadio",
+    "country": "EE",
+    "url": "http://streamer.tt.ee:8000/rahvaraadio",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fc9112ee-bf38-4c12-b18a-96fb5a268edf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_5e3cc19c6803e1c9c06d",
     "stationId": "awb_333b4bf86c265c66af87",
     "name": "Relax cafe",
@@ -1641,6 +2003,63 @@
     "lastCheckedAt": "2026-10-12T04:00:26Z"
   },
   {
+    "id": "aws_77de57d426bc2d1be9ec",
+    "stationId": "awb_b607e7d4f1bfd4e13276",
+    "name": "Relax Instrumental",
+    "country": "EE",
+    "url": "https://stream.relaxfm.ee/instrumental",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ca62b19-44b3-405f-b455-b1de5854e098"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_f6cf39aa4f2f8027b5c4",
+    "stationId": "awb_d4a94abf8a1e6cc8a394",
+    "name": "Retro FM",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/RETRO",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a627e7d9-6152-4a0e-8533-0cc22ab80491"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_6b6dc0227cb53174616f",
+    "stationId": "awb_008ede9369cb1db5a70f",
+    "name": "Retro FM - Jõulud",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/RetroJ6ulud",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "69084a62-d6db-4ca7-bcfd-65773e56a366"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_92bc3b141820b3ce1b10",
     "stationId": "awb_3dd0aa0e06fe835ec18b",
     "name": "Retro fm disco",
@@ -1660,6 +2079,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:25:06Z"
+  },
+  {
+    "id": "aws_05ae65e86841eb6e64f9",
+    "stationId": "awb_e030b8cb2d024e5f2e32",
+    "name": "Retro FM Eestikas",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/retro2.mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "36fdf13a-63f4-48cf-8bf2-721067f607fa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
   },
   {
     "id": "aws_e2007995b7be011f9ad5",
@@ -1945,6 +2383,44 @@
     "lastCheckedAt": "2026-10-12T03:57:56Z"
   },
   {
+    "id": "aws_260abc652e4d6dbb4d32",
+    "stationId": "awb_3e7c1ebd916c9544a66b",
+    "name": "Space FM",
+    "country": "EE",
+    "url": "https://stream.spacefm.ee/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1c60a71b-13aa-4e2e-8ee6-5eb27da51993"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
+  },
+  {
+    "id": "aws_1a306efd6fc1ce2505a8",
+    "stationId": "awb_3c372eb0986b8cd73c18",
+    "name": "SSS-Radio",
+    "country": "EE",
+    "url": "https://uvn-67-97.tll01.zonevs.eu/sss-radio",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "df89e10f-97af-4a04-b1eb-c42e2511188f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_50dda357424bb5418052",
     "stationId": "awb_3df50fb0fcebe62511a1",
     "name": "Star FM",
@@ -2029,6 +2505,63 @@
     "lastCheckedAt": "2026-10-12T13:24:19Z"
   },
   {
+    "id": "aws_22e2c02deb2d2a2dcdf7",
+    "stationId": "awb_7da5f2cf3f82f8f417e3",
+    "name": "Super Ретро",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/rrretro",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4500023c-8d14-4a1e-8913-a405c58ab6ed"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_6d35d3c9810b06f42ebf",
+    "stationId": "awb_8a81ba44c7a8ffc8edd0",
+    "name": "Super Рок",
+    "country": "EE",
+    "url": "https://stream.skymedia.ee/live/rrock",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8f5a0564-651e-40cc-9740-a2e98d795d9d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_7d541f2f35ecebdc3c13",
+    "stationId": "awb_029ffb24b8f39c9bfb01",
+    "name": "Tagatuba FM",
+    "country": "EE",
+    "url": "https://mcr.streams.gr:10416/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aaa0d15b-f0c1-4128-8379-71cb34108b18"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
     "id": "aws_14285d9d326fe1e29acd",
     "stationId": "awb_749dc8b7e8d83afb5fcb",
     "name": "Taifuun FM",
@@ -2088,6 +2621,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T11:12:35Z"
+  },
+  {
+    "id": "aws_b6befe7064bb0f929cd6",
+    "stationId": "awb_813a7161b7abd6fc4a3b",
+    "name": "Tunitemusic",
+    "country": "EE",
+    "url": "https://stream.radiojar.com/6x51bmzpfy3vv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c9fbea70-22ed-4f24-952f-fe1d7f713f51"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_623a91988d0cee9b61c7",
@@ -2189,6 +2741,63 @@
     "lastCheckedAt": "2026-10-12T19:52:40Z"
   },
   {
+    "id": "aws_53cb3960187fa4d15104",
+    "stationId": "awb_ce76fe55d45d97c80005",
+    "name": "XFM Eesti",
+    "country": "EE",
+    "url": "https://sc2.treraadio.ee/xfm-tallinn",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "89b39e02-0aba-4c39-b767-984ac7db1859"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_49aa5eff5becd8de3861",
+    "stationId": "awb_2072161b26d84c74e15d",
+    "name": "XL Radio Estonia",
+    "country": "EE",
+    "url": "https://stream.rcast.net/69794",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9841da34-8bf0-4916-aa2b-81e620edc454"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T23:05:01Z"
+  },
+  {
+    "id": "aws_da4680cbc4030e0c850c",
+    "stationId": "awb_e5d33638a13c0945bfde",
+    "name": "Пирамида FM",
+    "country": "EE",
+    "url": "https://myradio24.org/93928",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2ce7678c-04cb-4821-a75d-132c8d4280c2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_8f2247eb7430b382b8f2",
     "stationId": "awb_e88dfcd5def3f23fea30",
     "name": "Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee",
@@ -2206,6 +2815,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T04:43:09Z"
+  },
+  {
+    "id": "aws_a567c8c6d13d582050f8",
+    "stationId": "awb_cd69ec2e23ff1ead6ded",
+    "name": "Радіо DrUzi",
+    "country": "EE",
+    "url": "https://druzi.fm:8443/192mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2fa88d22-f282-4f4b-8c9c-70c6937fa502"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
     "id": "aws_d2fffbbbc91fe9ca6cf7",

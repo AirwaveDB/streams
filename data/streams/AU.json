@@ -15683,8 +15683,8 @@
     "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
     "country": "AU",
     "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -15694,7 +15694,7 @@
       "3de0ed72-b752-41df-99f9-26c5d95befe1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_265c4046fccf20060509",
@@ -19091,6 +19091,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T04:57:00Z"
+  },
+  {
+    "id": "aws_97e245bd1913385219df",
+    "stationId": "awb_72a0a73adfcb488e4452",
+    "name": "Hope St Radio",
+    "country": "AU",
+    "url": "https://hope-st-radeio.radiocult.fm/stream",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7dd79327-d4fb-4f34-a914-1a8688345306"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_a75b2bcd4a9cef6bb8ad",

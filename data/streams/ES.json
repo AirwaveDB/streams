@@ -8934,6 +8934,25 @@
     "lastCheckedAt": "2026-10-12T19:31:00Z"
   },
   {
+    "id": "aws_6bf730cd9be577ab8459",
+    "stationId": "awb_2b535d09cf00580b6fbb",
+    "name": "Hot FM Dance Spain",
+    "country": "ES",
+    "url": "https://ukstream.radiohost.co.uk/listen/hot_fm_dance/radio.mp3",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2c761131-18cf-48b2-bc2e-a06d45385612"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
+  },
+  {
     "id": "aws_2020f0be3487276d46ae",
     "stationId": "awb_87db010bb1ac17ed3048",
     "name": "HOUSE Radio Spain",
@@ -11104,6 +11123,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T22:23:52Z"
+  },
+  {
+    "id": "aws_d691d569ce329522bd36",
+    "stationId": "awb_d5d74277438c2252c5fd",
+    "name": "Loca Dance",
+    "country": "ES",
+    "url": "https://s2.we4stream.com/listen/loca_dance/live",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c87754fd-97cb-4d74-b750-149b63043682"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_9f5eb5a45ff0bc20a1a2",
@@ -22988,8 +23026,8 @@
     "name": "SAM Ibiza",
     "country": "ES",
     "url": "https://stream.aiir.com/a85tlgriuzyuv",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -22999,7 +23037,7 @@
       "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
     "id": "aws_3cf80aa1585400b73d2f",

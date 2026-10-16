@@ -389,8 +389,6 @@ https://stream.revma.ihrhls.com/zc3256
 https://stream.revma.ihrhls.com/zc1993
 #EXTINF:-1 station-id="awb_0621fdff095749a87591" stream-id="aws_145c28028c0e433fda2e" codec="aac" bitrate="96",105.3 WJEN Cat Country
 https://ais-sa1.streamon.fm/7823_96k.aac
-#EXTINF:-1 station-id="awb_b3127ca955e54d750bd7" stream-id="aws_9e853894d62dd618d996" codec="" bitrate="0",105.5 - The Moon KSXM-LP
-https://themoon.fm/listen-now/
 #EXTINF:-1 station-id="awb_bfce095e2df3cd66de2f" stream-id="aws_c12e65b37f932f2be444" codec="aac+" bitrate="64",105.5 The Bridge
 https://ice6.securenetsystems.net/WCOO
 #EXTINF:-1 station-id="awb_a90cf4d88b2ddff4c5f0" stream-id="aws_02a04f1e38e719822ab3" codec="mp3" bitrate="128",105.5 The X Factor
@@ -1201,7 +1199,7 @@ https://stream.revma.ihrhls.com/zc53/hls.m3u8
 https://cast10.plugstreaming.com:2000/sslstream/famseattle
 #EXTINF:-1 station-id="awb_ef26aa6dc1002271e98a" stream-id="aws_44df220c16a3e59b07fd" codec="aac" bitrate="96",93.7 The Eagle
 https://klbbfm.streamon.fm/ais/klbbfm.aac
-#EXTINF:-1 station-id="awb_52e8d012f32fafb53884" stream-id="aws_159a4b00907228064672" codec="" bitrate="0",93.7 The River Sacramento KYRV
+#EXTINF:-1 station-id="awb_52e8d012f32fafb53884" stream-id="aws_159a4b00907228064672" codec="aac" bitrate="0",93.7 The River Sacramento KYRV
 https://stream.revma.ihrhls.com/zc4314
 #EXTINF:-1 station-id="awb_28990fda03f0ddd376bc" stream-id="aws_28b291ea17c01a986d1e" codec="aac+" bitrate="32",93.7 The Ticket
 https://ice8.securenetsystems.net/KNTK
@@ -1247,6 +1245,8 @@ http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742
 https://playerservices.streamtheworld.com/api/livestream-redirect/KILOFMAAC.aac?dist=
 #EXTINF:-1 station-id="awb_d5c1f23378fab1d2a2cf" stream-id="aws_79eec5a64e5947e6a205" codec="mp3" bitrate="64",94.3 Lite FM
 https://live.amperwave.net/direct/townsquare-wkxpfmmp3-ibc3.mp3
+#EXTINF:-1 station-id="awb_ef9f62bff98fb3ba0837" stream-id="aws_2c12e5ded93b3bbe75f6" codec="" bitrate="0",94.3 The Point WJLK
+https://live.amperwave.net/manifest/townsquare-wjlkfmaac-hlsc3.m3u8
 #EXTINF:-1 station-id="awb_2f5f31b494edb8e5346d" stream-id="aws_39da2816c3494cc10e0a" codec="aac+" bitrate="64",94.5 ESPN FM Milwaukee
 https://live.amperwave.net/manifest/goodkarma-wktifmaac-ibc2
 #EXTINF:-1 station-id="awb_b95a0679e2849daf07be" stream-id="aws_e3250e6cf73ebef82412" codec="mp3" bitrate="64",94.5 Mix FM
@@ -1683,6 +1683,10 @@ https://a7.asurahosting.com:7370/radio.mp3
 https://airwave.dogma19811981.workers.dev/stream.mp3
 #EXTINF:-1 station-id="awb_909a82531c6762f727eb" stream-id="aws_0b8d61bb770f11fe442c" codec="mp3" bitrate="0",AIRWAVE ENT LLC/PAPERSTACKZ ENT
 https://listen.nobexradio.com/station_paperstackzent?ref=radiobrowser
+#EXTINF:-1 station-id="awb_360a41d4f9d510b92792" stream-id="aws_8042c6022ff8de2d0437" codec="mp3" bitrate="192",AItocha Radio - Pop & Latin (AI music)
+https://stream.aitocha.com/listen/radio/radio.mp3
+#EXTINF:-1 station-id="awb_ffe3aea6213b5e09e7d4" stream-id="aws_647c9ea4c9282977fc37" codec="" bitrate="0",AItocha Rock (AI music)
+https://stream.aitocha.com/listen/rock/radio.mp3
 #EXTINF:-1 station-id="awb_62a57fda483ff8daba90" stream-id="aws_848a8e9e6f70defcc087" codec="mp3" bitrate="128",Alabama's Beautiful
 https://stream-02.surfernetwork.com/jxkatldtljduv
 #EXTINF:-1 station-id="awb_21e4e36beb0d98b372d4" stream-id="aws_17252f144a3c84a76f38" codec="mp3" bitrate="128",Alabama's Finest Radio
@@ -1705,6 +1709,8 @@ https://streams.radio.co/s22a35bf51/listen
 http://equinox.shoutca.st:8788/;
 #EXTINF:-1 station-id="awb_22f6fe8c55c93fe0c020" stream-id="aws_51b161be532d4feec4bc" codec="aac" bitrate="96",All Classical Portland
 https://allclassical.streamguys1.com/ac96k
+#EXTINF:-1 station-id="awb_704db77a6a2e0c9c0855" stream-id="aws_b55f8ccc498e759671ba" codec="mp3" bitrate="128",All Mixed Up: Every Channel at Once | Stupid Potato
+https://stupidpotato.com/all-mixed-up/live
 #EXTINF:-1 station-id="awb_79a148a5788892568075" stream-id="aws_55864a4d78feff8916ec" codec="mp3" bitrate="0",All Underground Hip Hop Radio
 http://stream.radiojar.com/c1912tk5rtzuv
 #EXTINF:-1 station-id="awb_42709c21cf10a3594681" stream-id="aws_0a0f4640d0af179f29f2" codec="mp3" bitrate="128",Allahu Akbar Radio
@@ -2081,6 +2087,8 @@ https://s5.radio.co/s2d5329ead/listen
 http://s1.nexuscast.com:8147/;
 #EXTINF:-1 station-id="awb_ab7769298455077ef39d" stream-id="aws_1f843add0fa7a177f912" codec="mp3" bitrate="192",Baroque Radio Art
 http://air.radioart.online/hBaroque.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317
+#EXTINF:-1 station-id="awb_8dccaba3a230eb229700" stream-id="aws_6b88e33dc71d44d16d6f" codec="mp3" bitrate="128",Barrie Craig, Confidential Investigator (radio) | Stupid Potato
+https://stupidpotato.com/barrie-craig/live
 #EXTINF:-1 station-id="awb_6fd356a3aafe6390eca1" stream-id="aws_1163e9f81787b0265a83" codec="mp3" bitrate="128",Bassdrive
 http://chi.bassdrive.co/
 #EXTINF:-1 station-id="awb_6fd356a3aafe6390eca1" stream-id="aws_4f0d0a5e43742c403083" codec="aac+" bitrate="32",Bassdrive
@@ -2195,6 +2203,8 @@ https://live.streamthe.world/80s90s-hits
 http://64.95.243.43:8002/stream
 #EXTINF:-1 station-id="awb_4c96bb2afd56b874a406" stream-id="aws_ad9852e95017c1161a55" codec="mp3" bitrate="128",BestNetRadio - 90's Alternative
 https://bigrradio.cdnstream1.com/5147_128
+#EXTINF:-1 station-id="awb_70ac196f8066c3bcdaa0" stream-id="aws_525cec0dcc5c575c3109" codec="mp3" bitrate="128",BestNetRadio - The Mix
+https://streaming.live365.com/a76189
 #EXTINF:-1 station-id="awb_7fd0acd26d1af60e4ac0" stream-id="aws_efbe9c3d9a8923402cf2" codec="mp3" bitrate="128",Beyond Ringside
 https://streamer.radio.co/s2e4a3222c/listen
 #EXTINF:-1 station-id="awb_f3bf05ef5b87b818018b" stream-id="aws_9271a22af6e9ceb32e4c" codec="mp3" bitrate="128",BFF.FM
@@ -2435,10 +2445,14 @@ http://streaming.live365.com/b26873_128mp3
 http://ais-sa2.cdnstream1.com/2365_128.mp3
 #EXTINF:-1 station-id="awb_e9abc43b3f882ebaaa03" stream-id="aws_4e372861378956a6bcdc" codec="aac+" bitrate="64",Boss Radio 66
 https://rfcm.streamguys1.com/bossradio66-mp3
+#EXTINF:-1 station-id="awb_d81c4e917ed83f9ed9e7" stream-id="aws_579c03c85c5c14cc50bc" codec="mp3" bitrate="128",Boston Blackie (radio) | Stupid Potato
+https://stupidpotato.com/boston-blackie/live
 #EXTINF:-1 station-id="awb_d40d744f2eb76b020e2b" stream-id="aws_dfe1d27d3dc5284da311" codec="mp3" bitrate="128",Boston Praise Radio & TV
 https://streamer.radio.co/s49970680a/listen
 #EXTINF:-1 station-id="awb_ec653aa0195d1d753037" stream-id="aws_b4e74482ac8dca1aa740" codec="aac+" bitrate="48",Boston, MA - The Station of the Cross
 https://hfc.streamguys1.com/wqom
+#EXTINF:-1 station-id="awb_5d21d33baa1b71ba786a" stream-id="aws_173f7589d95a3df8e2f6" codec="mp3" bitrate="128",Box 13 (radio) | Stupid Potato
+https://stupidpotato.com/box-13/live
 #EXTINF:-1 station-id="awb_486297ecbd12246f7bfc" stream-id="aws_503d200470ab3708cb10" codec="mp3" bitrate="0",Branson Christmas Radio
 https://stream.radiojar.com/22habbgmb.m4a?1703429674
 #EXTINF:-1 station-id="awb_1072b6e1ac5244df2fbc" stream-id="aws_45c0f236b7994e785a05" codec="mp3" bitrate="128",Break Pirates
@@ -2447,6 +2461,8 @@ http://bpstream.hostco.de:3000/;
 https://wrbs-hls.streamguys1.com/Shine-FM
 #EXTINF:-1 station-id="awb_89db67a6d4315a34fe24" stream-id="aws_11faa350a250ce68c9fc" codec="mp3" bitrate="128",Brm
 http://brm.radio.gclef320kbps.com:10442/
+#EXTINF:-1 station-id="awb_7bb5ba2b7ae77fc2f95f" stream-id="aws_4c740b6ce8ffe120f1b0" codec="mp3" bitrate="128",Broadway Is My Beat (radio) | Stupid Potato
+https://stupidpotato.com/broadway-is-my-beat/live
 #EXTINF:-1 station-id="awb_9729c0a907684997b14c" stream-id="aws_68a12a193d423ac3743d" codec="mp3" bitrate="128",BROKEN BEATS
 https://stream.zeno.fm/27tv6ay24d0uv
 #EXTINF:-1 station-id="awb_3f83ebebc72ac554f877" stream-id="aws_1babd8d27833b107c34b" codec="mp3" bitrate="256",Brookdale Public Radio
@@ -2657,6 +2673,8 @@ https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3
 https://s9.reliastream.com/proxy/fratel1?mp=/stream
 #EXTINF:-1 station-id="awb_5ad0352b8c4f08bd4e11" stream-id="aws_c362cfe7f3c1a344fcfb" codec="mp3" bitrate="128",Chenyifaer Radio
 https://radio.chatcyf.com/chenyifaer.mp3
+#EXTINF:-1 station-id="awb_38466c65572745f5d9f7" stream-id="aws_6c611d401a64fddd3ef7" codec="" bitrate="0",Chesterton Radio
+https://rumble.com/c/c-1354603
 #EXTINF:-1 station-id="awb_a9a46a7d7597f7753f50" stream-id="aws_d82bb4307b98f8df08a0" codec="mp3" bitrate="192",CHICAGO HOUSE
 https://stream.radio.co/sae989fe39/listen
 #EXTINF:-1 station-id="awb_460132ec7be61f186446" stream-id="aws_8fdd83c3b35e682f4746" codec="mp3" bitrate="128",Chicago Symphony Orchestra
@@ -3155,6 +3173,8 @@ http://stream.revma.ihrhls.com/zc6946/hls.m3u8
 https://dancewave.online/retrodance.flac.ogg
 #EXTINF:-1 station-id="awb_4668bce560c7b901ea98" stream-id="aws_ec9862312519688ae0b4" codec="ogg" bitrate="0",Dance Wave!
 https://dancewave.online/dance.flac.ogg
+#EXTINF:-1 station-id="awb_7786869f35fb11e1fe1e" stream-id="aws_ddc6114f916d49b623f5" codec="mp3" bitrate="192",DanceRadio.show
+https://player.danceradio.show/listen/danceradio.show/radio.mp3
 #EXTINF:-1 station-id="awb_008ccd68560a8e72c7f7" stream-id="aws_01ce77847bffd58723e5" codec="mp3" bitrate="128",Dangerous D Radio
 http://s9.voscast.com:9572/live
 #EXTINF:-1 station-id="awb_4fb73cf3c3ff476952a5" stream-id="aws_0f02830de0b86573c8ae" codec="mp3" bitrate="0",DankFM
@@ -3357,6 +3377,8 @@ https://dogglounge.com:8000/
 https://www.subsonicradio.com:8443/dole_whip.mp3
 #EXTINF:-1 station-id="awb_8a11431745cad3bf2606" stream-id="aws_1ba025ccb801d43b3228" codec="mp3" bitrate="128",Don't Touch That Dial | Stupid Potato
 https://stupidpotato.com/dont-touch-that-dial/live
+#EXTINF:-1 station-id="awb_1ebc99e4af586132251f" stream-id="aws_b4e9b15b978abd8a56bb" codec="mp3" bitrate="128",Don't Touch That Dial: Double Feature | Stupid Potato
+https://stupidpotato.com/dial-double-feature/live
 #EXTINF:-1 station-id="awb_8cf06054fbb6761f1abb" stream-id="aws_010691d78086bd5fb2ec" codec="mp3" bitrate="128",DOO WOP FOREVER - CALM RADIO
 http://streams.calmradio.com:19028/stream
 #EXTINF:-1 station-id="awb_fa4bd462cebbb73329ca" stream-id="aws_96fc7c2d86f0a39a92ff" codec="mp3" bitrate="96",Doo-Wop Radio
@@ -3515,10 +3537,6 @@ https://s2.radio.co/se796ec348/listen
 https://signalcity.tv/radio/eldergut.mp3
 #EXTINF:-1 station-id="awb_c566b38dff5988d1c629" stream-id="aws_5d66cf35a32f97e744f7" codec="aac+" bitrate="64",Electric 102.7
 https://live.amperwave.net/direct/bristolbroad-wvsrfmaac-ibc2
-#EXTINF:-1 station-id="awb_385cfa82c447171622be" stream-id="aws_201916882ab7bc9d1c22" codec="" bitrate="0",Electric 94.9
-https://player.amperwave.net/8774
-#EXTINF:-1 station-id="awb_385cfa82c447171622be" stream-id="aws_b8638c7af0156c432f56" codec="" bitrate="0",Electric 94.9
-https://www.electric949.com/
 #EXTINF:-1 station-id="awb_2143e0561e796283a5cd" stream-id="aws_3e842f016c6bdddc895c" codec="mp3" bitrate="0",Electric Forest Radio
 http://stream.radiojar.com/n0unuhsww9duv
 #EXTINF:-1 station-id="awb_51208856d62a9f2d9d05" stream-id="aws_45bcdca47c60837fe580" codec="aac+" bitrate="64",ELECTRICFM - America's Reals Dance!
@@ -3573,8 +3591,6 @@ http://live.amperwave.net/direct/espn-network-48?source=v7player
 https://ice8.securenetsystems.net/KQTM
 #EXTINF:-1 station-id="awb_8436d8e95928a040be42" stream-id="aws_a392ad8f4659c6f60ac3" codec="mp3" bitrate="64",ESPN Radio 106.3
 http://stream.abacast.net/direct/goodkarma-wuubfmmp3-ibc2?source=tunein&source=TuneIn&gdpr=0&us_privacy=1YNY
-#EXTINF:-1 station-id="awb_082b39a786d278a6db5b" stream-id="aws_7ddff66ec3ff486457b1" codec="" bitrate="0",ESPN Sacramento 1320 KIFM
-https://live.amperwave.net/direct/audacy-kifmamaac-imc
 #EXTINF:-1 station-id="awb_d618ca938841b448cda5" stream-id="aws_d49a1203b4ad98cdc427" codec="mp3" bitrate="128",Estereo Bendicion 104.9 Fm
 https://server.radiogs.net/8386/stream
 #EXTINF:-1 station-id="awb_26d6aaf45c435aec6c24" stream-id="aws_3c39963146b446ad142f" codec="mp3" bitrate="128",ESTEREO REY
@@ -3895,6 +3911,8 @@ https://streaming.live365.com/a02627?filetype=.mp3&_=1
 https://streaming.live365.com/a01484
 #EXTINF:-1 station-id="awb_ec6496e3b8a6ac14be11" stream-id="aws_9392a13e20bd1588a359" codec="mp3" bitrate="128",FUNK2DISCO
 https://stream.zeno.fm/ck78w00p97zuv
+#EXTINF:-1 station-id="awb_6f2c6705b5fe67ebb074" stream-id="aws_b19dd3f20001f2f52929" codec="mp3" bitrate="128",FUNKEDUP Radio
+https://cast2.my-control-panel.com/proxy/rankwell/stream
 #EXTINF:-1 station-id="awb_a09d844bcaf94b179b90" stream-id="aws_da91ebcc4f542e43f38d" codec="mp3" bitrate="192",Funkology Radio
 http://ais-edge37-live365-dal02.cdnstream.com/a98761
 #EXTINF:-1 station-id="awb_ece961591dad9ae85351" stream-id="aws_14181267395bfc515c84" codec="mp3" bitrate="320",FunkStation
@@ -4145,6 +4163,8 @@ http://drive.uber.radio/uber/crandressegovia/icecast.audio
 http://pureplay.cdnstream1.com/6018_64.aac
 #EXTINF:-1 station-id="awb_aeff50d38a83ed48bfae" stream-id="aws_92f0188b272289335378" codec="aac" bitrate="32",Gumbo 94.9
 https://ice42.securenetsystems.net/WGUO
+#EXTINF:-1 station-id="awb_4224f4fdbb29c3d23727" stream-id="aws_40b00b6f164577125b10" codec="mp3" bitrate="128",Gumshoe: Old-Time Radio Detectives | Stupid Potato
+https://stupidpotato.com/gumshoe/live
 #EXTINF:-1 station-id="awb_29f49344e66f5c18f8b9" stream-id="aws_591c9fda8861900526b1" codec="aac" bitrate="0",Guns N' Roses
 https://stream.pcradio.ru/guns_n_roses-hi
 #EXTINF:-1 station-id="awb_0cdc0ca4f2551c035e1e" stream-id="aws_c00e565177a1981b4690" codec="mp3" bitrate="128",Gunsmoke (radio, every episode) | Stupid Potato
@@ -4495,6 +4515,8 @@ https://usa10.fastcast4u.com:1190/;
 https://allclassical-ord.streamguys1.com/ICAN
 #EXTINF:-1 station-id="awb_6b31c8c8079186c4ed05" stream-id="aws_a50e266474909aee734d" codec="aac+" bitrate="48",iCatholicRadio
 http://hfc.streamguys1.com/wqom
+#EXTINF:-1 station-id="awb_de9571e1508761471a33" stream-id="aws_b0d1dc2d9e2e3be59058" codec="unknown" bitrate="0",Ice House Radio
+https://stream-hls.castr.net/69a87581465ed67ea8a47382/live_a543bb10351911f19e688901000c2909/tracks-a1/index.m3u8
 #EXTINF:-1 station-id="awb_1ed0120fdb5ced1ce8c7" stream-id="aws_1fb3c7596b6b625cde6b" codec="mp3" bitrate="128",ICN Radio - Italian Communications Network - New York
 https://icnradiostream.out.airtime.pro/icnradiostream_b
 #EXTINF:-1 station-id="awb_6dab0010aed0449d3b72" stream-id="aws_0cc4430c9b15c940818e" codec="aac+" bitrate="48",ICR – iCatholicRadio
@@ -5171,6 +5193,8 @@ https://stream.885fm.org/1
 http://kcss.streamguys1.com/live
 #EXTINF:-1 station-id="awb_96145046ecdfee102b18" stream-id="aws_cbda7a6df1f7479faf46" codec="mp3" bitrate="0",KCSU
 https://listen.kcsufm.com/stream?nocache=1770828530774
+#EXTINF:-1 station-id="awb_87b2f311ca016da466c5" stream-id="aws_618305a2500d7711c51e" codec="" bitrate="0",KCUG 100.3 'Gospel Music Omaha' - Omaha, Nebraska
+https://ny.mysonicserver.com/9992/stream
 #EXTINF:-1 station-id="awb_51551bf530fb7a41f72a" stream-id="aws_2e889d2e2858352ab2ee" codec="aac" bitrate="95",KCUR 89.3 Kansas City Public Radio
 https://kcur.streamguys1.com/kcur-website-icy
 #EXTINF:-1 station-id="awb_3dc2233407792ac903d7" stream-id="aws_47900cad7f025143d887" codec="mp3" bitrate="192",KCUT 102.9 Moab Rocks Community Radio - Moab, Utah
@@ -5233,6 +5257,8 @@ https://ice8.securenetsystems.net/KDLS
 http://peridot.streamguys.com:5620/kdna-mp3
 #EXTINF:-1 station-id="awb_ae2b75f119ceb75796e5" stream-id="aws_1550f09466a1f28c139c" codec="mp3" bitrate="100",KDNK 88.1 - Fork Valley Radio
 http://kdnk.streamguys1.com/live
+#EXTINF:-1 station-id="awb_3d7b4c63446d4518d0ae" stream-id="aws_ee942af38a4913a703ae" codec="" bitrate="0",KDPP-LP 97.3 'The Source' Lincoln, Nebraska
+https://c23.radioboss.fm:8214/stream
 #EXTINF:-1 station-id="awb_ca3b09836583c76ff4af" stream-id="aws_1db2008586715f50eaa7" codec="mp3" bitrate="0",KDRO AM 1490 / FM 101.3
 http://stream.radiojar.com/dad62xuc8rcwv
 #EXTINF:-1 station-id="awb_9d953f0dddfbfb824fdb" stream-id="aws_2e2e4935fcc85c806e5f" codec="aac" bitrate="48",KDRP-LP 'Sun Radio' 100.1 FM Austin, TX
@@ -5307,6 +5333,8 @@ http://radiokest.serverroom.us:6670/stream.mp3
 http://cupcake.citrus3.com:8186/stream
 #EXTINF:-1 station-id="awb_1a15f8e625d6c867d291" stream-id="aws_82e2904f4136bfe9a8c4" codec="mp3" bitrate="192",Ketch Radio
 https://cupcake.citrus3.com:8186/stream
+#EXTINF:-1 station-id="awb_de2a62d481f433985be0" stream-id="aws_8dba1c6d9f300e1b807b" codec="" bitrate="0",KEUL 106.9 'The Soul Of Sacramento' Sacramento, California
+https://streaming.live365.com/a81915
 #EXTINF:-1 station-id="awb_3b21afc7528254fd5aa8" stream-id="aws_16f18fb35f49f765b149" codec="mp3" bitrate="170",KEUL 88.9 - Glacier City Radio - Girdwood, Alaska
 https://keul.broadcasttool.stream/play
 #EXTINF:-1 station-id="awb_f24f7518b8484f8d52c0" stream-id="aws_a8705bf3fb1c3b916236" codec="mp3" bitrate="192",KEWU 89.5 FM
@@ -5368,6 +5396,8 @@ https://24.199.101.174.nip.io/live
 #EXTINF:-1 station-id="awb_10bc57d6fb02d2e74f60" stream-id="aws_18bc931a7773b93e10eb" codec="aac+" bitrate="32",KFHC 88.1 - Souixland Catholic Radio Ponca, NE
 https://ice64.securenetsystems.net/KFHC
 #EXTINF:-1 station-id="awb_eb7808ca8b9ca0048442" stream-id="aws_cefa2b098fc01009f133" codec="aac" bitrate="0",KFI
+http://stream.revma.ihrhls.com/zc177
+#EXTINF:-1 station-id="awb_237e1d19d5ab2a819e24" stream-id="aws_37072ba1589270783600" codec="" bitrate="0",KFI AM 640
 http://stream.revma.ihrhls.com/zc177
 #EXTINF:-1 station-id="awb_be3e645e72576efd50c0" stream-id="aws_e7498a42b8a87492cda6" codec="aac" bitrate="24",KFI LA
 http://stream.revma.ihrhls.com/zc177/hls.m3u8
@@ -5541,6 +5571,8 @@ https://ice23.securenetsystems.net/KINZ
 https://ice41.securenetsystems.net/KIOU
 #EXTINF:-1 station-id="awb_7b1962d19d67e2d5a310" stream-id="aws_c2d95e281b8d10b0c1fc" codec="mp3" bitrate="128",KIQI 1010 AM
 http://kiqiradio.serverroom.us:8260/;
+#EXTINF:-1 station-id="awb_259f974ba8f2fa00f892" stream-id="aws_3e4eda6884e32f31b92f" codec="" bitrate="0",KIRA 91.9 'Independent Radio Arts' Omaha, Nebraska
+https://hls.cloudrad.io/07eda6c4/stream.m3u8
 #EXTINF:-1 station-id="awb_f2974672736703c87e40" stream-id="aws_806a2022fbd323e0b8c5" codec="aac" bitrate="24",KIRN 670 AM
 https://stream.zeno.fm/0bybax2r3heuv
 #EXTINF:-1 station-id="awb_3ded2c23ed91fdb38408" stream-id="aws_02158f14ac1f0e8604f2" codec="aac+" bitrate="48",KIRO -FM
@@ -5639,6 +5671,8 @@ https://crystalout.surfernetwork.com:8001/KJMM_MP3
 http://14613.live.streamtheworld.com/KJMNFMAAC_SC
 #EXTINF:-1 station-id="awb_b96871be2ca6646bb6ed" stream-id="aws_02e66a36b479e2e8b2a9" codec="aac+" bitrate="64",KJRN 88.3 - The Journey Christian Rock Keene, TX
 http://ice42.securenetsystems.net/KJRN
+#EXTINF:-1 station-id="awb_f81866229891a2443c73" stream-id="aws_1984675e633d4361361b" codec="" bitrate="0",KJTM '98.9 & 107.9 TiM FM' Omaha, Nebraska
+http://provisioning.streamtheworld.com/pls/SP_R3055238.pls
 #EXTINF:-1 station-id="awb_a12e45198b0da11730fb" stream-id="aws_8657e3c36d143ee3bf90" codec="mp3" bitrate="192",KJV Navajo Radio
 https://www.kjvnavajo.com/stream/192
 #EXTINF:-1 station-id="awb_06edbf8bb77ce0e8c984" stream-id="aws_68f80cc0631f49bbbe76" codec="mp3" bitrate="128",KJZZ 91.5 Phoenix, AZ
@@ -5877,8 +5911,12 @@ http://14923.live.streamtheworld.com:3690/KVOXAMAAC_SC
 http://knhc-ice.streamguys1.com:8080/live
 #EXTINF:-1 station-id="awb_fb7ea080235a95d74f9d" stream-id="aws_401a8cc925c2137df4cc" codec="aac+" bitrate="64",KNHS 93.1 Lafayette, Louisiana - The Viking - Northside High School Radio
 https://ice42.securenetsystems.net:80/VIKINGS
+#EXTINF:-1 station-id="awb_c199580ae47d50eee345" stream-id="aws_56c2f772993d8ca5d5f3" codec="" bitrate="0",KNIL-LP 95.9 'Creighton Community Radio' - Creighton, Nebraska
+http://72.8.197.131:88/broadwave.mp3?rate=1&src=1
 #EXTINF:-1 station-id="awb_27db52d4f4f19ef3c0ba" stream-id="aws_b4efd1316ba2b03f9acf" codec="mp3" bitrate="128",KNKX
 https://knkx-live-a.edge.audiocdn.com/6284_128k
+#EXTINF:-1 station-id="awb_b62d5f3e0867fc9240a6" stream-id="aws_81c6e6cab854c8b7682b" codec="mp3" bitrate="64",KNNA 95.7 'The Cross' Lincoln, Nebraska
+https://ice41.securenetsystems.net/KNNALP
 #EXTINF:-1 station-id="awb_50f63fa0f667429a9f40" stream-id="aws_09ae6bdb821a49615c95" codec="aac" bitrate="192",KNNB 88.1 - Apache Radio Whiteriver, AZ
 http://streaming.radio.co/sb460c9fda/listen
 #EXTINF:-1 station-id="awb_62531fb41c62388f4e3d" stream-id="aws_f746f9f4ccdc618b1d7b" codec="mp3" bitrate="128",KNNZ 89.1 Ken's FM
@@ -6001,6 +6039,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/KOTOFM.mp3
 http://14623.live.streamtheworld.com:3690/KOTZAM_SC
 #EXTINF:-1 station-id="awb_cf7ffc38985577bf99c3" stream-id="aws_a35af1469ef030706dbc" codec="aac+" bitrate="48",KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo, Utah
 https://ais-sa1.streamon.fm/7348_48k.aac
+#EXTINF:-1 station-id="awb_ca751d7be32089d26590" stream-id="aws_b2d1330f74cc3d55c5b1" codec="aac+" bitrate="32",KOWN '95.7 The Boss' Omaha, Nebraska
+https://ice41.securenetsystems.net/KOWNLP
 #EXTINF:-1 station-id="awb_2a8be486c2c46ed4c6ea" stream-id="aws_51343b00ce6641710e23" codec="aac+" bitrate="32",KOWN-LP 95.7 The Boss
 https://ice41.securenetsystems.net/KOWNLP
 #EXTINF:-1 station-id="awb_88afd9da0842f79fb86f" stream-id="aws_15c5d7c45217f1ce0944" codec="aac+" bitrate="64",KOYY 93.7 'Y94' Fargo, ND
@@ -6337,6 +6377,8 @@ https://ksvg.streamguys1.com:80/live
 https://ice23.securenetsystems.net/KSVP
 #EXTINF:-1 station-id="awb_8969d753cd4f430c7cb5" stream-id="aws_016eca8a267ad1f83394" codec="mp3" bitrate="128",KSVR 91.7 Mount Vernon, WA
 http://peridot.streamguys.com:7620/live
+#EXTINF:-1 station-id="awb_b037a02451c103305845" stream-id="aws_6e12adb22e3df069fe52" codec="" bitrate="0",KSWR 94.9 Las Vegas, Nevada
+https://streams.radio.co/s44e55f8e6/listen
 #EXTINF:-1 station-id="awb_6ee313979e438ec2e37d" stream-id="aws_1b21673ac9e277c60085" codec="mp3" bitrate="128",KSWV
 https://crystalout.surfernetwork.com:8001/KSWV-AM_MP3
 #EXTINF:-1 station-id="awb_ba4ed2815c1150d06208" stream-id="aws_2c73faa98ebdf0cd2f30" codec="mp3" bitrate="140",KSZN-LP 101.5 FM - Radio Sunnyside – Flagstaff, Arizona
@@ -6723,6 +6765,8 @@ http://listen.xray.fm:8000/stream
 http://stream.kxsf.fm:8000/kxsf
 #EXTINF:-1 station-id="awb_68d063d872d49d76345a" stream-id="aws_51a4c50a17252f7fac32" codec="mp3" bitrate="128",KXSU
 https://c556.fastserv.com/kxsu
+#EXTINF:-1 station-id="awb_304753c2325f3bbb9467" stream-id="aws_983c51b7c168e0d95a6b" codec="" bitrate="0",KXTO 1550 'Radio Vida' Reno, Nevada
+https://shout2.brnstream.com/proxy/kxto?mp=/stream
 #EXTINF:-1 station-id="awb_203d3b8f5e006c3f25d3" stream-id="aws_2b9dc3bc4ce53447d6a0" codec="aac" bitrate="128",KXTR-LP 100.7 'The Planet' Tarleton University, Stephenville, TX
 http://kxtr.streamguys1.com/live-aac
 #EXTINF:-1 station-id="awb_772d51b9f11d49142463" stream-id="aws_ceb1583a80e6612f20a0" codec="mp3" bitrate="320",KXUA
@@ -6739,6 +6783,8 @@ https://ais-sa1.streamon.fm/7164_48k.aac
 http://19273.live.streamtheworld.com:3690/KYSEFMAAC_SC
 #EXTINF:-1 station-id="awb_3b61c372ccda0b618d58" stream-id="aws_736a1c74c71c9965bd8b" codec="aac" bitrate="24",KYSR 98.7 FM Los Angeles, CA
 http://stream.revma.ihrhls.com/zc201/hls.m3u8
+#EXTINF:-1 station-id="awb_2ef33ee9b31c5de7b191" stream-id="aws_a1e64049db9bdbef754c" codec="mp3" bitrate="128",KYTF 94.7 'Blair Radio' - Blair, Nebraska
+http://18213.live.streamtheworld.com/SAM09AAC082_SC
 #EXTINF:-1 station-id="awb_c39e914a9c1bc8274901" stream-id="aws_ac0df5e8122e57c672af" codec="mp3" bitrate="32",KYUK-AM 640 Bethel, AK
 https://18443.live.streamtheworld.com/KYUKAM_SC
 #EXTINF:-1 station-id="awb_07b1b10adf586d5a092e" stream-id="aws_38f1fe7889f480debb9a" codec="mp3" bitrate="32",KYUK-FM
@@ -6849,6 +6895,8 @@ http://kmny1360.serverroom.us:6142/;
 https://sh2.radioonlinehd.com:8050/stream
 #EXTINF:-1 station-id="awb_cf054b273dd299fa6224" stream-id="aws_04abdc60258d3ad1696d" codec="aac" bitrate="64",La Zeta 105.3 FM
 https://ice3.securenetsystems.net/WZSP
+#EXTINF:-1 station-id="awb_78ccdf43660b48c7900f" stream-id="aws_00c79cd1dab063c3f2ee" codec="" bitrate="0",Lac P Radio
+https://s75.radiolize.com:8070/radio.mp3
 #EXTINF:-1 station-id="awb_f28beb72cd5271d2a85b" stream-id="aws_ba7e798023d424fc5018" codec="aac" bitrate="64",Lafayette Q1067
 https://ice24.securenetsystems.net/WLQQ
 #EXTINF:-1 station-id="awb_777bd1280ab624d79e5a" stream-id="aws_591563af14396ab71864" codec="mp3" bitrate="192",LAist
@@ -6871,6 +6919,8 @@ https://usa17.fastcast4u.com/proxy/fiestafm?mp=%2F1
 https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream
 #EXTINF:-1 station-id="awb_aa34542129b4e44c4fe6" stream-id="aws_38a8e08a07de9796853b" codec="mp3" bitrate="192",LatinX 94.3 FM
 https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1
+#EXTINF:-1 station-id="awb_7665f7c479d0aba1dac6" stream-id="aws_10c5b07df5ea9fac3300" codec="mp3" bitrate="128",Laugh Track: Old-Time Radio Comedy | Stupid Potato
+https://stupidpotato.com/laugh-track/live
 #EXTINF:-1 station-id="awb_f3e23353c4e4951aaf4a" stream-id="aws_27c3b7b9837f7706d888" codec="aac+" bitrate="128",Lazer 103.3
 https://prod-98-91-254-92.amperwave.net/saga-kazrfmaac-ibc1?session-id=d7501f6641b53f099621c659ab6614a1
 #EXTINF:-1 station-id="awb_4bb42e4650c9e0c8c4f4" stream-id="aws_4638e577863a770462ea" codec="mp3" bitrate="128",LCCC Boom Radio
@@ -6889,6 +6939,8 @@ https://ice3.securenetsystems.net/WLML
 https://streaming.live365.com/a45657
 #EXTINF:-1 station-id="awb_9e8647f90d707384f6cf" stream-id="aws_c4ba994d9b78c8e42378" codec="mp3" bitrate="128",Les Brown Greatness Radio
 https://cast2.asurahosting.com/proxy/lesbrown/stream
+#EXTINF:-1 station-id="awb_66a6fbc1d1a593bfd099" stream-id="aws_3e050ed6cda0a26ff3d3" codec="mp3" bitrate="128",Let George Do It (radio) | Stupid Potato
+https://stupidpotato.com/let-george-do-it/live
 #EXTINF:-1 station-id="awb_970f1c264ece39d11791" stream-id="aws_3bd9a4696cf32325f37d" codec="aac+" bitrate="96",LF Radio
 https://www.rtndev.com/streams/lfradio.aac?lat=&lon=&rand=77341
 #EXTINF:-1 station-id="awb_7d617bbc21ee294a4079" stream-id="aws_ea97c2b622c1237f3478" codec="mp3" bitrate="128",Liberty News Radio
@@ -7499,6 +7551,8 @@ http://hestia.cdnstream.com/1625_192
 https://nhpr.streamguys1.com/nhpr?uuid=zelr45bk
 #EXTINF:-1 station-id="awb_d6fbe87b079af7d67d0b" stream-id="aws_9df41dc7d652870204a1" codec="aac" bitrate="256",New Hampshire Public Radio HD2 Classical
 https://nhpr.streamguys1.com/classical
+#EXTINF:-1 station-id="awb_e3c0fdfe81384b6ba2eb" stream-id="aws_efa76d3b64f7320c8adc" codec="" bitrate="0",New Jersey 101.5 WKXW
+https://live.amperwave.net/manifest/townsquare-wkxwfmaac-hlsc3.m3u8
 #EXTINF:-1 station-id="awb_3ba65f74a67e492d1372" stream-id="aws_b3a00f82a1ada3d20e0f" codec="mp3" bitrate="128",NEW LIFE
 https://hl.morzhserv.com/radio
 #EXTINF:-1 station-id="awb_4718f01cbde4378562cb" stream-id="aws_4748841c3f1921d470a8" codec="mp3" bitrate="192",New Oregon Radio
@@ -7619,6 +7673,8 @@ https://radio4.tikilive.com/stream/42110/
 https://antares.dribbcast.com/proxy/s8160/stream
 #EXTINF:-1 station-id="awb_795003baaecea7394146" stream-id="aws_a0b4c8fe5bbd1e1af7b9" codec="mp3" bitrate="128",Niche Radio 24-7 Psychedelic Rock
 https://antares.dribbcast.com/proxy/s8150/stream
+#EXTINF:-1 station-id="awb_dfef937ea0666dabda50" stream-id="aws_8c6743f41e8d5c23147c" codec="mp3" bitrate="128",Nick Carter, Master Detective (radio) | Stupid Potato
+https://stupidpotato.com/nick-carter/live
 #EXTINF:-1 station-id="awb_a7c85de939eac2de44c2" stream-id="aws_cebefbca77f3767bfe1d" codec="mp3" bitrate="96",Nick the Rat Radio
 https://s2.reliastream.com/proxy/nick1?mp=/stream
 #EXTINF:-1 station-id="awb_f3bfc26afc5663f2ba5b" stream-id="aws_23d950812673cf6f5a98" codec="mp3" bitrate="128",NightGrid FM
@@ -7671,6 +7727,8 @@ https://ais-sa2.cdnstream1.com/2383_128.mp3
 https://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:-1 station-id="awb_d02667f76d99bcc1d947" stream-id="aws_04615c49f1db1a1e6c6b" codec="mp3" bitrate="60",North Country 1320 WCVR
 http://natrix.sugarrivermedia.com:8000/wcvr
+#EXTINF:-1 station-id="awb_351edc9118cb265b6733" stream-id="aws_81e45832268c7fb101d2" codec="mp3" bitrate="128",North Pole Radio: Holiday Specials | Stupid Potato
+https://stupidpotato.com/north-pole-specials/live
 #EXTINF:-1 station-id="awb_345048c95ab00a41c3c5" stream-id="aws_31813906f137713e5569" codec="aac" bitrate="130",Northwest Public Broadcasting - Classical and News
 https://nwpb.streamguys1.com/nwprclassical-aac-128-icy
 #EXTINF:-1 station-id="awb_04a65a10474bf7d5272f" stream-id="aws_517bb49cff44ac81c561" codec="aac" bitrate="130",Northwest Public Broadcasting - News
@@ -7877,6 +7935,8 @@ https://floodsencn-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://stream.pcradio.ru/Pantera-hi
 #EXTINF:-1 station-id="awb_b2d0947545b918b03e63" stream-id="aws_b49b2c5856a107b8e4ad" codec="mp3" bitrate="128",Paradise Tunes
 https://s2.free-shoutcast.com/stream/18102
+#EXTINF:-1 station-id="awb_e4e768e3874941bc1203" stream-id="aws_a4eada84b91b0205b995" codec="mp3" bitrate="192",Particle FM
+https://azuracast.particle.fm/radio/8000/radio.mp3
 #EXTINF:-1 station-id="awb_bed95391a555d69fe0d8" stream-id="aws_366efb196371ebd65a47" codec="aac" bitrate="352",Party @ Dan's Rock Radio
 https://manager.padradio.com/hls/padradio/live.m3u8
 #EXTINF:-1 station-id="awb_9d64aa051c3b614a8893" stream-id="aws_049d30adcefc8820b13c" codec="aac+" bitrate="48",Party 101.9 Radio
@@ -7891,6 +7951,8 @@ http://192.99.8.192:3404/
 http://69.39.14.19:8001/stream1
 #EXTINF:-1 station-id="awb_a32549c6a26568ea269e" stream-id="aws_439b8565329bd8b7caba" codec="aac" bitrate="64",Passport Radio WCPA 900AM 98.5-101.7FM
 https://ice23.securenetsystems.net/WCPA
+#EXTINF:-1 station-id="awb_15a8d61ba8032171544e" stream-id="aws_e9ffd76a5fc955d2f25b" codec="mp3" bitrate="128",Pat Novak, for Hire (radio) | Stupid Potato
+https://stupidpotato.com/pat-novak/live
 #EXTINF:-1 station-id="awb_bde1ef9343f79c3701a9" stream-id="aws_f4f6b993459925414424" codec="mp3" bitrate="0",Patriot Radio Classics
 https://stream.radiojar.com/sqxkmtks1d5tv.m4a
 #EXTINF:-1 station-id="awb_8837fd3abcaf7027bebb" stream-id="aws_4fb7fbb6a5c8a63af7b9" codec="mp3" bitrate="128",PAWS FM
@@ -9113,6 +9175,8 @@ https://cast6.my-control-panel.com/proxy/rhythm98/stream
 http://stream.zenolive.com/w7qyh1bctxquv
 #EXTINF:-1 station-id="awb_5b1a94c69e2c1883caec" stream-id="aws_1c8f71e8ccf8232baff6" codec="aac" bitrate="0",Rice University Radio - Houston
 https://n08.rcs.revma.com/uevdenv2ss8uv?rj-ttl=5&rj-tok=AAABnYIlZfEA_cWkl9tGKU3h6g
+#EXTINF:-1 station-id="awb_97a2565a8890e25e6301" stream-id="aws_6a5551377306bc26b553" codec="mp3" bitrate="128",Richard Diamond, Private Detective (radio) | Stupid Potato
+https://stupidpotato.com/richard-diamond/live
 #EXTINF:-1 station-id="awb_c4eb713ecfae103d1962" stream-id="aws_5de80e1c808c212a3666" codec="mp3" bitrate="192",Ride Radio
 http://streaming.live365.com/a75084
 #EXTINF:-1 station-id="awb_1a88c459673776da86d7" stream-id="aws_ffe0883398b8f14fb5c4" codec="mp3" bitrate="128",Righteous Radio
@@ -9207,6 +9271,10 @@ https://streaming.live365.com/a73799?aw_0_1st.playerId=Live365-Widget&aw_0_1st.s
 http://stream.radioparadise.com/flacbg
 #EXTINF:-1 station-id="awb_6e5058f4f281ccfb8a22" stream-id="aws_3388a9172cf531515148" codec="aac" bitrate="128",RSE Freestyle Radio
 http://s9.citrus3.com:8054/stream
+#EXTINF:-1 station-id="awb_dc5284382db54a41d7d0" stream-id="aws_56e737aca35cf62425ad" codec="mp3" bitrate="128",RTVradio 80s
+http://rtvradio.sytes.net:8000/top
+#EXTINF:-1 station-id="awb_b979d05e8e810b344746" stream-id="aws_528567795d8d945f5174" codec="mp3" bitrate="128",RTVRadio Top1000
+http://rtvradio.sytes.net:8000/top
 #EXTINF:-1 station-id="awb_4702d6a7f34eaf4b3969" stream-id="aws_2042a6a1d24b9de2b151" codec="mp3" bitrate="128",Rugged Cross Radio
 https://stream.righteousradio.com/country-high
 #EXTINF:-1 station-id="awb_4b8fa22e9945d31669d3" stream-id="aws_bf5c2ddd0da6c25eebfd" codec="aac" bitrate="24",Rumba iHeart
@@ -9443,6 +9511,8 @@ https://signalcity.tv/pete.mp3
 https://signalcity.tv/seyra.mp3
 #EXTINF:-1 station-id="awb_5c5c419f4970ba24538c" stream-id="aws_80c14a8190f6e2e3e9c8" codec="mp3" bitrate="0",Signal City Radio
 https://signalcity.tv/radio/eldergut.mp3
+#EXTINF:-1 station-id="awb_4a46dbd95a1fbe7db47a" stream-id="aws_992d91e628f474cce4fb" codec="mp3" bitrate="128",Signal From Tomorrow: Sci-Fi Radio | Stupid Potato
+https://stupidpotato.com/signal-from-tomorrow/live
 #EXTINF:-1 station-id="awb_8f06f18d8b305d3733eb" stream-id="aws_f090a8828a71021deb26" codec="mp3" bitrate="128",SimCaster Radio
 https://radio.simcaster.net/
 #EXTINF:-1 station-id="awb_8f06f18d8b305d3733eb" stream-id="aws_953133bf8a4d9453f608" codec="mp3" bitrate="128",SimCaster Radio
@@ -10285,6 +10355,10 @@ http://radio.garden/api/ara/content/listen/ZVbxD0Wt/channel.mp3?1710596542258
 http://65.108.105.26:8516/stream
 #EXTINF:-1 station-id="awb_9c98a1e88bdbfb74da83" stream-id="aws_aca3ff5bf2886522e65a" codec="mp3" bitrate="128",The 1920s Radio Network - Primary Music Service
 http://65.108.124.70:8181/stream
+#EXTINF:-1 station-id="awb_0ce031f4a432443fb4ce" stream-id="aws_53289805335cd48b9391" codec="mp3" bitrate="128",The Adventures of Philip Marlowe (radio) | Stupid Potato
+https://stupidpotato.com/philip-marlowe/live
+#EXTINF:-1 station-id="awb_d6d517395092796bd806" stream-id="aws_bd5df526dc033c5b1a71" codec="mp3" bitrate="128",The Adventures of Sam Spade (radio) | Stupid Potato
+https://stupidpotato.com/sam-spade/live
 #EXTINF:-1 station-id="awb_f871dfd7d6deb4562728" stream-id="aws_39a0db4269ee717d01dc" codec="mp3" bitrate="128",The Alway's Christmas Channel (MP3)
 http://kea.cdnstream.com/1837_128
 #EXTINF:-1 station-id="awb_c9a2d4db071362fa5dd1" stream-id="aws_b18ad6fc703d392da441" codec="mp3" bitrate="0",The America first radio network
@@ -10393,6 +10467,8 @@ https://ice25.securenetsystems.net/KVGL
 https://ffvnet1.net:8443/krke
 #EXTINF:-1 station-id="awb_8559dcc1107df3de860c" stream-id="aws_f8b8545bad9d8f522779" codec="mp3" bitrate="128",The Elegant Sound
 https://ais-sa2.cdnstream1.com/2379_128.mp3
+#EXTINF:-1 station-id="awb_6f13b571d111ae7da5b2" stream-id="aws_78649a9d3302ef7662e6" codec="mp3" bitrate="320",The Face Radio
+https://the-face-radio.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_05bca829cd6e538c7357" stream-id="aws_fc6cdf6a282114c5cc1f" codec="mp3" bitrate="128",The Fan 97.1 WBNS-FM Sports Radio
 https://radiohio.streamguys1.com/cols/wbnsfm.mp3
 #EXTINF:-1 station-id="awb_b7c77cea922ad53f30cd" stream-id="aws_f5c2104d14bfcad360f8" codec="aac+" bitrate="192",The FIZZ Radio
@@ -10505,6 +10581,8 @@ https://stream.rcast.net/200491
 https://bms.x1023.fm/BMS
 #EXTINF:-1 station-id="awb_bb9acdc919fce21e4b65" stream-id="aws_be1757f226eaafa90396" codec="mp3" bitrate="256",The Mermaid 102.9 WZEUFM
 https://stream.wzeufm.com/stream
+#EXTINF:-1 station-id="awb_40b6c78e10da9672785b" stream-id="aws_15664f8cab2a1373792a" codec="mp3" bitrate="128",The Midnight Exchange: Suspense Radio | Stupid Potato
+https://stupidpotato.com/midnight-exchange/live
 #EXTINF:-1 station-id="awb_91d5e2a8833176734f1d" stream-id="aws_86c23075261885b3bd69" codec="aac+" bitrate="36",The Mighty 990
 https://ice24.securenetsystems.net/KWAM
 #EXTINF:-1 station-id="awb_0086b8dc0c261453cddd" stream-id="aws_6a4beac720172e559963" codec="mp3" bitrate="192",The Miller Lights Radio
@@ -10523,6 +10601,8 @@ https://stream.revma.ihrhls.com/zc7731
 https://stream.zeno.fm/tnyzlqblsbuuv
 #EXTINF:-1 station-id="awb_142b59218c801cc375c4" stream-id="aws_dd17d1b58b083cc40efa" codec="mp3" bitrate="128",The Night Shift | Stupid Potato
 https://stupidpotato.com/the-night-shift/live
+#EXTINF:-1 station-id="awb_073c005613d262a819eb" stream-id="aws_163e9988e0aa27080ca0" codec="mp3" bitrate="128",The Night Shift: The Late Show | Stupid Potato
+https://stupidpotato.com/night-shift-late-show/live
 #EXTINF:-1 station-id="awb_998c7e6a5deede7023aa" stream-id="aws_6e24fb316185151ee60f" codec="mp3" bitrate="128",The North 103.3
 https://thenorth1033.streamguys1.com/live
 #EXTINF:-1 station-id="awb_af2c5789912cfe5c0d8c" stream-id="aws_6386fdcdfe4d9c8fbd86" codec="mp3" bitrate="128",The Oasis 103.7 FM New Mexico
@@ -10771,6 +10851,8 @@ https://live.toker.fm:6060/;
 http://streaming.live365.com/a15209
 #EXTINF:-1 station-id="awb_d9f6715954b28eeb16cc" stream-id="aws_590ff26e1e97397d1a4e" codec="mp3" bitrate="128",Top Hits
 https://api.onlyhit.us/tophits
+#EXTINF:-1 station-id="awb_d9f6715954b28eeb16cc" stream-id="aws_f39d0d2f5ad76985010c" codec="mp3" bitrate="128",Top Hits
+https://cdn.onlyhitsradio.net/tophits
 #EXTINF:-1 station-id="awb_9733869e64dfa88e326b" stream-id="aws_bb7413f21bb2a69155d9" codec="mp3" bitrate="320",TopBlues
 http://us3.internet-radio.com:8342/
 #EXTINF:-1 station-id="awb_2b804b4e1bab300ac265" stream-id="aws_a39d8b0219ca61fb5559" codec="aac+" bitrate="48",Total Country
@@ -11087,6 +11169,8 @@ http://29312.live.streamtheworld.com:3690/WAERFM_SC
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAERFM.mp3
 #EXTINF:-1 station-id="awb_06193afeb543c3025765" stream-id="aws_8368beb375506b125ee9" codec="mp3" bitrate="128",WAHS 89.5 Avondale Community Radio
 https://s6.autopo.st/proxy/eomjfnwq?mp=/stream
+#EXTINF:-1 station-id="awb_5eef63f01aa6e4597043" stream-id="aws_2df3070c475b6052fd17" codec="aac+" bitrate="32",WAIF 88.3 FM
+https://ice7.securenetsystems.net/WAIF
 #EXTINF:-1 station-id="awb_18a2a613a3394118018e" stream-id="aws_1d0f065ecb0d5d1d54f8" codec="aac+" bitrate="64",WAIL FM 99.5
 http://ice42.securenetsystems.net/WAIL
 #EXTINF:-1 station-id="awb_db245a717e6b5cf9b960" stream-id="aws_2a25456d4e3dbc126fae" codec="aac" bitrate="32",WAJH 91.1 Jazz Hall Radio Birmingham, AL
@@ -11319,6 +11403,8 @@ https://streams.wcdb.fm/stream
 https://das-edge14-live365-dal02.cdnstream.com/a39711
 #EXTINF:-1 station-id="awb_436c5e78702def5075de" stream-id="aws_8d4537e0a04a3f52ab25" codec="mp3" bitrate="192",WCDI - Home Of Compound, Concentrate's and Coffee
 https://streaming.live365.com/a67895
+#EXTINF:-1 station-id="awb_16dbba9e7b1ec0a1027d" stream-id="aws_bcc7e2dbedf73ac14ec1" codec="mp3" bitrate="192",WCGD 'Energy 90.5' Edgar, Nebraska
+https://a2.asurahosting.com:7520/radio.mp3
 #EXTINF:-1 station-id="awb_94bda4a7d31a49fdce20" stream-id="aws_5ed8cb167c0ce40239a1" codec="mp3" bitrate="128",WCHC 88.1-FM
 https://s2.radio.co/sc161fe4c9/listen
 #EXTINF:-1 station-id="awb_fdd54005388b569b7517" stream-id="aws_23376a7a57323951fe96" codec="aac" bitrate="0",WCHI 95.5 FM - Chicago, IL
@@ -11773,7 +11859,7 @@ http://cpr2.streamguys.net/jazz
 http://26273.live.streamtheworld.com:3690/WGVUFM_SC
 #EXTINF:-1 station-id="awb_8ff30fc2606b393372d6" stream-id="aws_ed860d0d9eb003640c5a" codec="mp3" bitrate="128",WGXC 90.7
 http://audio.wavefarm.org:8000/wgxc.mp3
-#EXTINF:-1 station-id="awb_5fc3aa79e8732e1bae15" stream-id="aws_29d4671b26d5509242d0" codec="" bitrate="0",WGYT 92.7 - Greer, South Carolina
+#EXTINF:-1 station-id="awb_5fc3aa79e8732e1bae15" stream-id="aws_29d4671b26d5509242d0" codec="aac" bitrate="97",WGYT 92.7 - Greer, South Carolina
 https://582f0aabbc5ab.streamlock.net/ZZ_WGYT/wgyt.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_507663a56153297790e1" stream-id="aws_ec1b9236252bd8709071" codec="aac" bitrate="24",WHAM 1180
 http://stream.revma.ihrhls.com/zc1505/hls.m3u8
@@ -12187,7 +12273,7 @@ http://streaming.streema.com/listen-gen
 http://26143.live.streamtheworld.com:3690/WLAVFMAAC_SC
 #EXTINF:-1 station-id="awb_2c793164bb6458cf1676" stream-id="aws_c296a82b1bbb2059b8f7" codec="aac" bitrate="64",WLBC
 https://ice41.securenetsystems.net/WLBC
-#EXTINF:-1 station-id="awb_0ccf0fc89b58dcfa9021" stream-id="aws_d950ec0a8aa16509f77a" codec="" bitrate="0",WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio
+#EXTINF:-1 station-id="awb_0ccf0fc89b58dcfa9021" stream-id="aws_d950ec0a8aa16509f77a" codec="mp3" bitrate="128",WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio
 https://stream.radio.co/sd3eca376a/listen
 #EXTINF:-1 station-id="awb_20a45852c31460c9c028" stream-id="aws_eb0b26aa99dd4edc613b" codec="aac+" bitrate="64",WLBR (WiLBuR 99.7)
 https://ice26.securenetsystems.net/WLBR
@@ -12265,8 +12351,6 @@ https://live.amperwave.net/direct/landmark-wlvffmaac-ibc2
 http://hemnos.cdnstream.com/1426_64
 #EXTINF:-1 station-id="awb_b9ecb8c23e68dc63c66c" stream-id="aws_fd72d7494efd5cc2b4c2" codec="aac+" bitrate="128",WLVQ FM 96.3 Columbus, Ohio
 http://stream.abacast.net/direct/saga-wlvqfmaac-ibc2
-#EXTINF:-1 station-id="awb_451d11ac1143c8068682" stream-id="aws_25e5415bcc95f679f98a" codec="" bitrate="0",WLVR 91.3 HD2
-https://10gb1.tulix.tv/WLVR
 #EXTINF:-1 station-id="awb_2c600f3bc041640b9514" stream-id="aws_8957d2aaa8b5cb62c7c0" codec="aac" bitrate="64",WLVR 91.3 NPR
 https://wlvr.streamguys1.com/live-web
 #EXTINF:-1 station-id="awb_86417032c50a7328af0e" stream-id="aws_f49f42c7651080bc4397" codec="aac" bitrate="127",WLVU K-Love Nashville 97.1 FM
@@ -13015,7 +13099,7 @@ https://audio-mp3.ibiblio.org/wsoe.mp3
 https://d3byg0ij92yqk6.cloudfront.net/streamWSOU1.m3u8
 #EXTINF:-1 station-id="awb_dd73640fdd6bb152ed93" stream-id="aws_576539f193149907d517" codec="unknown" bitrate="0",WSOU 89.5FM
 https://d3byg0ij92yqk6.cloudfront.net/streamWSOU1.m3u8
-#EXTINF:-1 station-id="awb_8d54b84824d221915440" stream-id="aws_827b581d60ece3fca00c" codec="" bitrate="0",WSOV 101.7 - Millheim, Pennsylvania - 'The Sound Of The Valleys'
+#EXTINF:-1 station-id="awb_8d54b84824d221915440" stream-id="aws_827b581d60ece3fca00c" codec="mp3" bitrate="128",WSOV 101.7 - Millheim, Pennsylvania - 'The Sound Of The Valleys'
 https://kea.cdnstream.com/2054_128
 #EXTINF:-1 station-id="awb_9de40dc6d0d6b1edf22a" stream-id="aws_6cdb52a8eef703e72b6a" codec="aac+" bitrate="32",WSOY-AM 1340 & 103.3 Decatur, IL
 http://29306.live.streamtheworld.com:3690/WSOYAMAAC_SC
@@ -13207,6 +13291,8 @@ http://wumb.streamguys1.com/wumb919od
 http://wumfstreaming.umf.maine.edu:8000/wumf
 #EXTINF:-1 station-id="awb_18a6c8fce645a6f5540b" stream-id="aws_db0d42346651b39c793e" codec="mp3" bitrate="320",WUMM 91.1 FM
 http://wumm.machias.edu:8000/wumm
+#EXTINF:-1 station-id="awb_4be6d1ce0742448820b9" stream-id="aws_de628001963443445194" codec="" bitrate="0",WUMO 94.5 - Montgomery, Alabama
+http://provisioning.streamtheworld.com/pls/SP_R2129464.pls
 #EXTINF:-1 station-id="awb_f78da0c557c51520d2ec" stream-id="aws_192585721b49fd13ae36" codec="mp3" bitrate="56",WUNC 91.5 Chapel Hill, NC
 http://wunc-ice.streamguys1.com/wunc-128-mp3
 #EXTINF:-1 station-id="awb_ec1191058fbf1ed5f956" stream-id="aws_1cf541855735513d0822" codec="mp3" bitrate="56",WUNC 91.5 HD-2 Chapel Hill, NC
@@ -13309,8 +13395,8 @@ https://wvcwradio.vcu.edu:8000/wvcw
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVCYFM.mp3
 #EXTINF:-1 station-id="awb_0b4c2b276ead28f0b42d" stream-id="aws_3793b2b6970ae4d0273e" codec="mp3" bitrate="0",WVET
 http://eurekaradio.ddnsfree.com:88/broadwave.mp3?src=1&rate=1
-#EXTINF:-1 station-id="awb_d3bf79ca8303944f9037" stream-id="aws_1ab14537018467020768" codec="" bitrate="0",WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio
-http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls
+#EXTINF:-1 station-id="awb_d3bf79ca8303944f9037" stream-id="aws_1ab14537018467020768" codec="aac+" bitrate="64",WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio
+http://18303.live.streamtheworld.com:3690/SAM04AAC609_SC
 #EXTINF:-1 station-id="awb_780e8030f41d081dd53b" stream-id="aws_d9266d7667545b0cbb0b" codec="aac" bitrate="96",WVFI Radio
 https://s4.radio.co/s49f365ee3/listen
 #EXTINF:-1 station-id="awb_525d83eeff9dc954a48c" stream-id="aws_cbb85368ee8b6dc12e7d" codec="aac+" bitrate="96",WVFJ 93.3 & 102.1 The JOY FM
@@ -13493,7 +13579,7 @@ https://ice66.securenetsystems.net/WXHC2
 https://wxradio.org/IL-Peoria-WXJ71
 #EXTINF:-1 station-id="awb_772b6a0cbe8a3a1931ee" stream-id="aws_53cd9852faef164445ee" codec="mp3" bitrate="96",WXKI 100.7 'X-101 FM' Battleground, Alabama
 https://sapircast.caster.fm:12873/groIa
-#EXTINF:-1 station-id="awb_d41386613f18b139d2d9" stream-id="aws_e1e873abf094128f1d2c" codec="" bitrate="0",WXLV - The X
+#EXTINF:-1 station-id="awb_d41386613f18b139d2d9" stream-id="aws_e1e873abf094128f1d2c" codec="aac" bitrate="256",WXLV - The X
 https://securestream.casthost.net:8047/live
 #EXTINF:-1 station-id="awb_87eee9fdcea1bf623889" stream-id="aws_f2c4e53cfaeaa6fa578f" codec="aac" bitrate="32",WXLW 950 'Freedom 95' Indianapolis, IN
 http://ice24.securenetsystems.net/WFDM
@@ -13505,7 +13591,7 @@ http://listen.wxnafm.org:8000/stream
 https://a8.asurahosting.com/listen/wxou/radio.mp3
 #EXTINF:-1 station-id="awb_7b5d4799d22b355adc4a" stream-id="aws_eba7fb88ef7997c4eda9" codec="mp3" bitrate="128",WXOU - Oakland University
 https://a8.asurahosting.com:7810/radio.mp3
-#EXTINF:-1 station-id="awb_a402cfa3aef8339e36ee" stream-id="aws_e6e995cc91434a7adffe" codec="" bitrate="0",WXPI 88.5 Williamsport, Pennsylvania
+#EXTINF:-1 station-id="awb_a402cfa3aef8339e36ee" stream-id="aws_e6e995cc91434a7adffe" codec="mp3" bitrate="128",WXPI 88.5 Williamsport, Pennsylvania
 https://stream.wxpiradio.org:8000/live
 #EXTINF:-1 station-id="awb_8f80b7e1bbc847a5db03" stream-id="aws_ed384c16be8f67a7ec4f" codec="mp3" bitrate="170",WXPM 98.5 FM
 http://s21.myradiostream.com:7316/;
@@ -13555,7 +13641,7 @@ https://live.amperwave.net/direct/townsquare-wxxqfmmp3-ibc3
 https://audio-mp3.ibiblio.org/wxyc.mp3
 #EXTINF:-1 station-id="awb_4bb2d3748f67c49fa39d" stream-id="aws_f5b890ac04e3597d6c7b" codec="mp3" bitrate="128",WXYC 89.3 University of North Carolina - Chapel Hill, NC
 http://audio-mp3.ibiblio.org:8000/wxyc.mp3
-#EXTINF:-1 station-id="awb_8ed9acc8b2013f3dd30b" stream-id="aws_177fa6e88031f05c775b" codec="" bitrate="0",WXZY 101.7 - Kane, Pennsylvania
+#EXTINF:-1 station-id="awb_8ed9acc8b2013f3dd30b" stream-id="aws_177fa6e88031f05c775b" codec="aac" bitrate="96",WXZY 101.7 - Kane, Pennsylvania
 https://ice64.securenetsystems.net/WXZY
 #EXTINF:-1 station-id="awb_7557900a8a538d428e14" stream-id="aws_23a89d9d94b78b2f4040" codec="aac" bitrate="64",WYCE
 https://ice24.securenetsystems.net/WYCE
@@ -13829,6 +13915,8 @@ https://lullabies.stream.publicradio.org/lullabies.aac
 https://womenshistory.stream.publicradio.org/womenshistory.aac
 #EXTINF:-1 station-id="awb_cf3170cb9e65bf7a3533" stream-id="aws_72519bdf7799658b2bc6" codec="mp3" bitrate="128",YourClassical Women's History
 https://womenshistory.stream.publicradio.org/womenshistory.mp3
+#EXTINF:-1 station-id="awb_90fb948652fde9ae2c99" stream-id="aws_6751964557ab45af4afb" codec="mp3" bitrate="128",Yours Truly, Johnny Dollar (radio) | Stupid Potato
+https://stupidpotato.com/johnny-dollar/live
 #EXTINF:-1 station-id="awb_7e50b31fc38d766589fb" stream-id="aws_843aa520fdde9035446f" codec="mp3" bitrate="192",YRB RADIO
 https://a4.asurahosting.com:7130/radio.mp3
 #EXTINF:-1 station-id="awb_7f91d04a5acc59927d29" stream-id="aws_018932e11a8947efe974" codec="aac+" bitrate="64",Yummy Hits Radio
