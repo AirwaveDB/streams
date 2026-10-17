@@ -18,7 +18,7 @@
       "EE:abdulbasit-abdulsamad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T00:14:18Z"
+    "lastCheckedAt": "2026-10-17T00:50:12Z"
   },
   {
     "id": "aws_55f3f1636d55897e831f",
@@ -38,7 +38,7 @@
       "df8d900f-9d12-48d2-978b-9bf078f22de0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T08:17:00Z"
+    "lastCheckedAt": "2026-10-17T05:40:51Z"
   },
   {
     "id": "aws_ed3d27dc5968681bf469",
@@ -59,7 +59,7 @@
       "a2a7db6e-e625-11e8-a9cc-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T01:58:09Z"
+    "lastCheckedAt": "2026-10-17T02:12:04Z"
   },
   {
     "id": "aws_cd069964fd6a15038e9c",
@@ -67,8 +67,8 @@
     "name": "BIGfm",
     "country": "EE",
     "url": "https://sc2.flamebox.org/bigfm-hd",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -78,7 +78,7 @@
       "3b089bf1-8411-40a2-8516-cf6d6d576991"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
   },
   {
     "id": "aws_9fe4ca240e0c378e9b11",
@@ -86,8 +86,8 @@
     "name": "Chat Raadio",
     "country": "EE",
     "url": "https://puma.streemlion.com:1830/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -97,14 +97,14 @@
       "46859921-bec2-4326-a085-bb1d4728c9b3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
   },
   {
     "id": "aws_7d2804e61760f2e1c3c8",
     "stationId": "awb_9fcd277b3ce41af9d984",
     "name": "Duo Country",
     "country": "EE",
-    "url": "http://le303.euddn.net/210ec8c911c2f081ddeeab488bff25ea0714517b862ef7acb1b731a249983bedd9f5db4b9b46700962f1e717332384da3391055ec50968ccdb1af0b47a404a109fdb6a0db6cec90d85194418290234e17a547597a83f1baf6810e29942a7600cb8318dd19c800e4674cb594bc9251d333e67ed44ba8cad3d34b11229afd542766d13c89faebe833ad462814dd553135cb4d70be11eaef9fa53e05a96f8bcbdf4b140e6650744f7e0fc792d31b853473de1d7f800d43d91afdc53ae4eabda6925/dc_duocountry.aac",
+    "url": "http://le304.euddn.net/4afd345486f2ab2f00890eeccf75f9784bb13a71ed7b64ada870abb792854c1d61ed3852c7a8c9b5a33ed3e299497bab77ad29bb5a5aa1070466322c1f48295c5004408f8b0f709386f3d2abac21eee0144601f6dfe7fc0d5cba1ad254f286075a6cb6ca3348d82087b29c4fc4fe6a1537b12fad9bde859c8e9c7cf8e6b45e0cd8c92f9498288185964f114e3993e40f55e9631544e26c78dc6d8282c64816a7e5104106d15db95ee8f82e5c5882e4d461bb5325d37a15bad5482e723ee67c19/dc_duocountry.aac",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "http",
@@ -116,7 +116,7 @@
       "19233009-58fb-43cc-89cd-84ffa36d3676"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T22:09:17Z"
+    "lastCheckedAt": "2026-10-16T22:23:23Z"
   },
   {
     "id": "aws_b2e7bd64e3df9694241a",
@@ -161,7 +161,7 @@
     "stationId": "awb_923a63d81f8d49000b22",
     "name": "Duo GreatestHits (Estonia)",
     "country": "EE",
-    "url": "http://le301.euddn.net/9b489641f1c395d3f419b086e6ff5f30d638879dc1bc7b89b11224861887201969e9225dc45123af21f3a753d3d7d109e0b2d3497fd7793b54e6462690e4d17378221dd4fe99b3e5607e26d2b3fed0c6901af096fc355c26620805993bb4c733c30956dd96d935bee6680e2fcbc0620790d8eef9dede256a527941f69b33030a5e8d83909700b08aeb09d068b83b9e9c169f14079cb84fd92001135ddfcc5e89ad557ddb782a6734ed30e84a83081459/hitmix.aac",
+    "url": "http://le304.euddn.net/2efc9ec2a426043a0fba4b3b2d56556be41a6895c9d7bc87de81ceaa46fa4980435084b20a322762dbe881e078cf44d83eaf6a8e0897b1abbf672cf1af93e069cb75db1f9752641603c8912c1595341cf2eea2481efaef82f4c03af78d75a2a707260ff1edcf593c040c0717adca212934f5f129914c7be30881e833776d2a66895c104899afb4c3c7f90acfc5c7a8036fdf7e3eb0cfa446a75c0f4940fe57cfe33c95a8ecbbaffb3b02602ca782e0fd/hitmix.aac",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "http",
@@ -173,7 +173,7 @@
       "99a610a0-0126-4527-975e-9e74c981ee56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T04:45:15Z"
+    "lastCheckedAt": "2026-10-17T05:30:27Z"
   },
   {
     "id": "aws_e21d1614c01aabaa8bee",
@@ -199,7 +199,7 @@
     "stationId": "awb_7dc8e5919714cc25a35c",
     "name": "Duo Party",
     "country": "EE",
-    "url": "https://le304.euddn.net/cbad7459689a7491d1acd177c54673c5c4c100bf5b08921c6451cd11087155e260f1776ccf028e1da20c6bb3c0be8dbd4183189fa5dcb7cc0cf2b57ea0a2297944509aa9e6d8e6e3a75b3d5698b3443bc31a56c87007af4e20eb462ed3f1ecb4ee82aeb775733dede4796178220c4d480b9ddb9789f216a7da8ddb0128ac36efa9566c1f9820ebba815d6bae88b1713a77645880e019b8b544887a282888d2ba117d61804748a1a15d91ac26fca55a91/duodance.aac",
+    "url": "https://le306.euddn.net/e80d89867ce7d7da4a6b8af226caa380d25447304536030764d3e2d50ff3c7d3dc716fadf57e4234cd71d49cb37043a7f57fc14f25b00913864e1bf88491dcd451799a55c9a48669ad651228982edad1225d22a400badf387ddccf4fbe81b667d2267f04d7a0f4253688cab6e87eebe904a29896a323f545dd73e1687ac6f94dab945b35b216993b25682ad9e6d1bcad1ebfa353b58a4e8df524f06bb597a3f61a0873baba85768cb7744ab7b837a880/duodance.aac",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "https",
@@ -211,14 +211,14 @@
       "7cde649e-2976-4311-8e6a-62cdcd6edb44"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T21:56:34Z"
+    "lastCheckedAt": "2026-10-16T22:15:07Z"
   },
   {
     "id": "aws_c544e4a61fd498b9c27e",
     "stationId": "awb_670a19055ec364a7b3ae",
     "name": "Duo Rock",
     "country": "EE",
-    "url": "http://le303.euddn.net/d3de79300928e9a1a9cc7585f2804425fbe2d929e56f1f882746d9ac0c3c987c605846385e73ae23962ac3b041bbcc1857ca0700cd7f3c929d8f26ab1ee535c34891a3133d624e95d0aa5c26acd24a74c3eeb480c779507689326784eb44e4a8d6c14ace19c0cfba602417b4c84af8efd0cdd0f8e0df0867d08cb8af3456912575ee5b656007686e84722db17142664293bae8ee57390b672c97f545e0b5a708fba1c36b6507b2cafc7f1eeda7b8835b/rokk.aac",
+    "url": "http://le306.euddn.net/63cf4209b2ad8c8d5419464cbc5da384e979e6b9e00ee6e91ac7dc09aea01ec24e472f56235be5f9756aae630def96a8210190e90a7fd775c64c1e4031db428285c9e8cccb760cacfbc423114a34d6e8fed7955a0a3c397188e3683500f354d41ea5ac4ef6cd4c8819af542854346e10f3a0fbf4231ee76285e23a81048c1f197cd2dbcd391c24a191f8f23c765e12a30a5ab8eab803c27c2845e4150e245c691c772268e4b73d514e25fa30687565a8/rokk.aac",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "http",
@@ -230,7 +230,7 @@
       "499138df-1d11-4cda-ba38-d9deaa15ee8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T22:09:17Z"
+    "lastCheckedAt": "2026-10-16T22:32:35Z"
   },
   {
     "id": "aws_a74e39abe1473e038fca",
@@ -346,7 +346,7 @@
       "962039d2-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T05:08:24Z"
+    "lastCheckedAt": "2026-10-17T06:19:46Z"
   },
   {
     "id": "aws_85c1ca685e81c1564467",
@@ -462,7 +462,7 @@
       "e8e07ec2-7bd2-4d43-b9eb-83078a9e1a93"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T01:30:01Z"
+    "lastCheckedAt": "2026-10-17T03:35:12Z"
   },
   {
     "id": "aws_f749a5d5d19bba9762df",
@@ -642,7 +642,7 @@
       "bc4cbd91-545c-4b56-b8be-52f8882d0049"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T22:03:07Z"
+    "lastCheckedAt": "2026-10-16T22:24:15Z"
   },
   {
     "id": "aws_2504dd08a3466eb4124b",
@@ -661,7 +661,7 @@
       "37723443-7b1f-4001-a9ec-d37a12b63ceb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T07:07:58Z"
+    "lastCheckedAt": "2026-10-17T07:34:34Z"
   },
   {
     "id": "aws_8387266bbe91eda6e673",
@@ -722,7 +722,7 @@
       "af1616c5-56b9-49b0-b7c2-38dfb3c07a49"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T20:54:34Z"
+    "lastCheckedAt": "2026-10-16T21:22:02Z"
   },
   {
     "id": "aws_9295bd98b289243505c2",
@@ -779,7 +779,7 @@
       "639b8e0e-c798-424f-9a0a-789d10f90fa7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:30:16Z"
+    "lastCheckedAt": "2026-10-16T23:44:54Z"
   },
   {
     "id": "aws_a45c9f519f941114efe6",
@@ -800,7 +800,7 @@
       "f257abd4-9397-4110-b810-c7ca9fb8fbf7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:27:30Z"
+    "lastCheckedAt": "2026-10-17T01:02:54Z"
   },
   {
     "id": "aws_b522bfd4801cc848d785",
@@ -821,7 +821,7 @@
       "EE:klara-klassika"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:36:06Z"
+    "lastCheckedAt": "2026-10-17T00:23:27Z"
   },
   {
     "id": "aws_d684a7e0a756cc47a9a8",
@@ -939,14 +939,14 @@
       "278b3d8e-8f30-43cd-853d-a0cd7aba4894"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T03:17:38Z"
+    "lastCheckedAt": "2026-10-17T04:45:00Z"
   },
   {
     "id": "aws_4ee49ef1af531aa2ab93",
     "stationId": "awb_f4dbfb18d8cbb0cc3e06",
     "name": "MyHits",
     "country": "EE",
-    "url": "http://le305.euddn.net/54ce0ef508bb6461e12a654c4e6cfd4dcba49c1e853d235242fdc6c143b331ad210d6dc20799647e956746ca1306c1ea476686cf3640aa45f00aef219ab8e61b47575e1f61626ebe379b8504095d0f4d2ef97a2527b669077cd1af3b988aa409501245e6c359d0c03889640f781a598181855b640194b81da178292d9b1e7ee620a3f7224036e72061800de722e4f41e7b5c63d11c0d1376a8375cf4630b779a25054057d7d1951c146aa7c36168eb61/myhits.aac",
+    "url": "http://le301.euddn.net/0aab89e0d60ff8d3f6e2bbc532edbd3ad068911dc8d3d3c4cce04f8ff2f28ec24f179cefc780cbd1866b32dfc57b5ed4496935521369b663e23558ee8b5a3be651256db42b0d8ebd1344f2989d07d135a880b4830bb4a0547170287b13f824f97218425fd367cf7e50e7ceafc4080acf04a7c1e44ed2c4f4bf0aac513b5772a93552052bb1fee647a9416af42b8356f046a7cca69dbf7b485c4938a731e3e00213367c4a2d50aeb0f81781263e053687/myhits.aac",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "http",
@@ -958,7 +958,7 @@
       "e549ebd3-b019-477d-9606-5dacfd6171be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:52:12Z"
+    "lastCheckedAt": "2026-10-17T00:42:23Z"
   },
   {
     "id": "aws_7435bb8964e775c3c4fa",
@@ -1017,7 +1017,7 @@
       "a2cbad2f-eaef-4c44-9a9a-c162d7dd301d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T04:36:32Z"
+    "lastCheckedAt": "2026-10-17T06:22:45Z"
   },
   {
     "id": "aws_637935e6bbeacd46dcbf",
@@ -1097,7 +1097,7 @@
       "EE:pcr-fm-parnu-club-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T08:03:44Z"
+    "lastCheckedAt": "2026-10-17T04:38:29Z"
   },
   {
     "id": "aws_4efa5bbdc5df9d46845e",
@@ -1137,7 +1137,7 @@
       "95011223-c625-41e5-a056-02c3ca5cd251"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T05:42:18Z"
+    "lastCheckedAt": "2026-10-17T07:02:04Z"
   },
   {
     "id": "aws_bd06907bed66e8f13975",
@@ -1157,7 +1157,7 @@
       "4e167516-d0cc-4981-978f-93b0b97128ee"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T13:28:02Z"
+    "lastCheckedAt": "2026-10-17T06:25:05Z"
   },
   {
     "id": "aws_63eb024e1adc66ff3c13",
@@ -1275,7 +1275,7 @@
       "1e549790-a0fe-4b30-82fb-8a8976448cb0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:05:30Z"
+    "lastCheckedAt": "2026-10-16T23:13:24Z"
   },
   {
     "id": "aws_a1d03350c38daf1cedaf",
@@ -1294,7 +1294,7 @@
       "655edb47-5ad8-49ea-b8d2-e3fd2100f2b5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T22:33:26Z"
+    "lastCheckedAt": "2026-10-16T22:41:39Z"
   },
   {
     "id": "aws_0881fd00ace7eb5ff5b0",
@@ -1410,7 +1410,7 @@
       "EE:r2p"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T04:43:09Z"
+    "lastCheckedAt": "2026-10-17T05:19:55Z"
   },
   {
     "id": "aws_8b782eb221945a9ac266",
@@ -1429,7 +1429,7 @@
       "ea4d6e72-553d-407f-b5fe-01e60d78bd7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T02:25:58Z"
+    "lastCheckedAt": "2026-10-17T03:30:21Z"
   },
   {
     "id": "aws_dacdfb71a973a2675ebc",
@@ -1487,7 +1487,7 @@
       "dc541a57-9f64-4e15-8889-63f6c3e6485a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T08:33:54Z"
+    "lastCheckedAt": "2026-10-17T01:54:51Z"
   },
   {
     "id": "aws_8f012a2511dd3a8b8b24",
@@ -1527,7 +1527,7 @@
       "cc242589-6948-4e3c-948a-ef20195805c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T03:55:47Z"
+    "lastCheckedAt": "2026-10-17T06:09:42Z"
   },
   {
     "id": "aws_eb0510ffb54bc6ce8258",
@@ -1633,7 +1633,7 @@
     "stationId": "awb_c09cebcfc16c2e79d862",
     "name": "Raadio Kidzone",
     "country": "EE",
-    "url": "https://le304.euddn.net/4d482d5557eb774acae5764663d8ccf35f9a3501134f69056679af8fe66eb085b298e902cfdbd844a0724f0fd9bef8e4b1618e80d9c88f271965096195221f55f1f46eea7f1d05a5354754a9860910fb6fd65706aa52a09fa42bb3442d7a631251058ac1d3169306f74df5b3e4c0fc436d1bfc285b23d56781c9d136de4a994b515e0a65cb46c3e9b7bfa48e5cf524dd28d1291a83643e0f63cab3a7093a4049161a849387968b679f9bdac1e49aebec/kidzone.aac",
+    "url": "https://le305.euddn.net/6fc16c442df09e4d38c4c30fac29e469433021605b53be0bc2062128e87df31e6a336b41e3910b2af9ac174edfddb311cca3fa2e2d93419f94aa5bd7eec7d43929e82afa62bd42ef4448e8b925aa1cd6f45115b119dfc28ec6a160841b83caad7ce5121d98691036b6dea3e82fc26600b7f22da31918ef6c5a7e583445661b22d4d17cfb1bc004603655576c0d7576c308ec9c549a97e18bb0b25adc90d645dbd41dfb84ccb7b3560e5363dcc7304937/kidzone.aac",
     "codec": "aac",
     "bitrate": 160,
     "protocol": "https",
@@ -1645,7 +1645,7 @@
       "99dba6ec-5162-498b-a7f6-4f9d67a1eae2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T22:29:17Z"
+    "lastCheckedAt": "2026-10-16T22:39:36Z"
   },
   {
     "id": "aws_b2289f0c327560b11df0",
@@ -1744,7 +1744,7 @@
       "EE:raadio-relax-international"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T02:32:42Z"
+    "lastCheckedAt": "2026-10-17T03:37:09Z"
   },
   {
     "id": "aws_f9eff2665d323e559f14",
@@ -1801,7 +1801,7 @@
       "96072324-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T03:00:52Z"
+    "lastCheckedAt": "2026-10-17T05:01:33Z"
   },
   {
     "id": "aws_bf7eca83f77bfa99f1e8",
@@ -1941,7 +1941,7 @@
       "fde1bf20-db90-4691-a10f-18f91599e597"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T05:08:24Z"
+    "lastCheckedAt": "2026-10-17T05:13:24Z"
   },
   {
     "id": "aws_34acb2076b6fc4aa44fe",
@@ -1981,7 +1981,7 @@
       "EE:relax-cafe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T08:06:21Z"
+    "lastCheckedAt": "2026-10-17T05:11:17Z"
   },
   {
     "id": "aws_e40274895237c7e1da85",
@@ -2000,7 +2000,7 @@
       "3d02a973-8cde-45db-9185-07438068f548"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T04:00:26Z"
+    "lastCheckedAt": "2026-10-17T04:19:36Z"
   },
   {
     "id": "aws_77de57d426bc2d1be9ec",
@@ -2137,7 +2137,7 @@
       "dd6671b8-263a-43d8-95be-a6cb08de6b20"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T21:07:06Z"
+    "lastCheckedAt": "2026-10-16T21:29:10Z"
   },
   {
     "id": "aws_6d0b70340f6e68b5d12c",
@@ -2198,7 +2198,7 @@
       "EE:rock-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T23:48:07Z"
+    "lastCheckedAt": "2026-10-17T00:57:38Z"
   },
   {
     "id": "aws_f7b4948d9e5de1e62778",
@@ -2260,7 +2260,7 @@
       "41ace0f6-4384-4d92-a3fc-ec449a0957c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T08:03:44Z"
+    "lastCheckedAt": "2026-10-17T01:27:02Z"
   },
   {
     "id": "aws_b8be0664f21f2408b6c2",
@@ -2279,7 +2279,7 @@
       "3f930fbb-d418-459e-8923-3584620a2428"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T00:04:20Z"
+    "lastCheckedAt": "2026-10-17T00:58:31Z"
   },
   {
     "id": "aws_f42792f115e8ec94f889",
@@ -2300,7 +2300,7 @@
       "EE:sky-plus"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T20:54:34Z"
+    "lastCheckedAt": "2026-10-16T22:23:23Z"
   },
   {
     "id": "aws_e32fd35318a1bcda62a7",
@@ -2340,7 +2340,7 @@
       "EE:sky-plus-dnb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T00:24:58Z"
+    "lastCheckedAt": "2026-10-17T00:55:28Z"
   },
   {
     "id": "aws_d72a9369e01070d9a9d9",
@@ -2380,7 +2380,7 @@
       "962037d3-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T03:57:56Z"
+    "lastCheckedAt": "2026-10-17T04:31:30Z"
   },
   {
     "id": "aws_260abc652e4d6dbb4d32",
@@ -2439,7 +2439,7 @@
       "EE:star-fm-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T05:32:41Z"
+    "lastCheckedAt": "2026-10-17T05:52:39Z"
   },
   {
     "id": "aws_08b00642c8622c38de46",
@@ -2460,7 +2460,7 @@
       "EE:star-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T00:27:03Z"
+    "lastCheckedAt": "2026-10-17T02:11:25Z"
   },
   {
     "id": "aws_5c53db9789f5bd496004",
@@ -2481,7 +2481,7 @@
       "EE:star-fm-eesti"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-11T20:45:15Z"
+    "lastCheckedAt": "2026-10-16T20:54:39Z"
   },
   {
     "id": "aws_f6c6bf17da79c7fe0c4f",
@@ -2510,8 +2510,8 @@
     "name": "Super Ретро",
     "country": "EE",
     "url": "https://stream.skymedia.ee/live/rrretro",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2521,7 +2521,7 @@
       "4500023c-8d14-4a1e-8913-a405c58ab6ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
   },
   {
     "id": "aws_6d35d3c9810b06f42ebf",
@@ -2783,9 +2783,9 @@
     "stationId": "awb_e5d33638a13c0945bfde",
     "name": "Пирамида FM",
     "country": "EE",
-    "url": "https://myradio24.org/93928",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://listen9.myradio24.com/93928",
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2795,7 +2795,7 @@
       "2ce7678c-04cb-4821-a75d-132c8d4280c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
   },
   {
     "id": "aws_8f2247eb7430b382b8f2",

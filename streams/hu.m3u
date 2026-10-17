@@ -299,8 +299,6 @@ https://stream.zebradio.hu:8443/zebradio
 https://a7.asurahosting.com:8160/radio.mp3
 #EXTINF:-1 station-id="awb_473e6a0a27683b8ae6c4" stream-id="aws_182f668904cdb7f3d719" codec="mp3" bitrate="128",Korona Fm100
 http://82.141.165.6:8000/
-#EXTINF:-1 station-id="awb_4977e575d8cd92bcc5b4" stream-id="aws_e6d097dab28f1cf58596" codec="mp3" bitrate="128",KORONAfm100
-http://82.141.165.6:8000/;stream
 #EXTINF:-1 station-id="awb_fc6d93190b5721a02479" stream-id="aws_632873636278b03044e6" codec="mp3" bitrate="192",KoronaFM100
 https://www.koronafm100.hu/live.mp3
 #EXTINF:-1 station-id="awb_f53e91b975cc47c55673" stream-id="aws_b660c6de64f6d89ae5f4" codec="mp3" bitrate="192",Kossuth
@@ -535,7 +533,7 @@ http://stream.radioantritt.hu:8000/Antritt
 http://195.210.29.82:8001/bezs
 #EXTINF:-1 station-id="awb_267f0a835a1ae2ee3f3f" stream-id="aws_3892f6c767a57ea1b6e9" codec="mp3" bitrate="128",Rádió Bézs 2
 http://195.210.29.82:8002/bezs2
-#EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_073180b27a63ea45efda" codec="mp3" bitrate="128",Rádió Comedy
+#EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_073180b27a63ea45efda" codec="aac" bitrate="128",Rádió Comedy
 https://a7.asurahosting.com:8430/radio.mp3
 #EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_a37f97a20a0a196528c0" codec="mp3" bitrate="128",Rádió Comedy
 https://a7.asurahosting.com/listen/radio_comedy/radio.mp3

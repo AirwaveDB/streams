@@ -1,5 +1,24 @@
 [
   {
+    "id": "aws_c522857be2ea68c8f7c9",
+    "stationId": "awb_81b7298782d680bf6115",
+    "name": "237ONAIR",
+    "country": "CM",
+    "url": "https://radio.237onair.com/listen/237onair/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "165b9f8b-07d5-4465-848b-1229a13dcd06"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
+  },
+  {
     "id": "aws_d6454352808998ce037e",
     "stationId": "awb_82b5c364a27ad879958c",
     "name": "Abdulbasit Abdulsamad",
@@ -18,7 +37,7 @@
       "f81fe147-ab44-4762-bdf4-6ef5bf9dfead"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T02:46:14Z"
+    "lastCheckedAt": "2026-10-17T04:31:30Z"
   },
   {
     "id": "aws_ab046a87b795f468e9d5",
@@ -40,6 +59,234 @@
     "lastCheckedAt": "2026-10-12T20:22:06Z"
   },
   {
+    "id": "aws_bb5760750785c9cdc185",
+    "stationId": "awb_c0f9b1420b2877d64b5c",
+    "name": "Brightstar Studios",
+    "country": "CM",
+    "url": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4de3382b-70d1-4229-b2c1-cbd5eab6656c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_a51160c3f2df30d1184f",
+    "stationId": "awb_02db5977fdbc0ba3abb1",
+    "name": "CamerHits",
+    "country": "CM",
+    "url": "https://camerhits.com/icecast/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6e30c825-3416-49c9-bd33-d45a89fe0c61"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_a73369e34a98db814ffb",
+    "stationId": "awb_fafc87c7696e48fd1392",
+    "name": "CHRISTRADIO Yaoundé",
+    "country": "CM",
+    "url": "https://stream-285.surfernetwork.com/gtb3znv0h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndGIzem52MGgyenV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImdPQUZ1RVlwVHUyaWE5ZGc4Zk5JUVEiLCJpYXQiOjE3OTIxNDE2NDEsImV4cCI6MTc5MjE0MTcwMX0.0pwQAcksTMxhSXwf9Xjx_xYsDKU1OYol8ln_oVY7xqI",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "af01c6a1-a1a7-46cf-97ea-15883ef6d669"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_b65c3d4d4bd2d31d7479",
+    "stationId": "awb_17dfef648991e39f75bc",
+    "name": "City FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/5fvvyvybabetv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a125b303-dcd9-471e-b17e-0abd625dc310"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_969481c27ea43ba79541",
+    "stationId": "awb_3ecbe444a3aa86946950",
+    "name": "CRTV Littoral",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/jnbojyc1vdwvv",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "14f6e67f-a6bd-4829-b6d0-08550a53ec17"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T20:48:16Z"
+  },
+  {
+    "id": "aws_ff2a7901e4af7437dad3",
+    "stationId": "awb_28f352afeffb13a87122",
+    "name": "CRTV Poste National",
+    "country": "CM",
+    "url": "https://10gb1.acangroup.org:8000/postenational",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "077fa4a5-f45a-4715-af89-b9b5d358efaf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_1b8a0ce0de0bb0a9d102",
+    "stationId": "awb_b9a0d8263114e273ff4a",
+    "name": "Divine Mercy Radio and TV Service",
+    "country": "CM",
+    "url": "http://102.132.19.90:8080/DMRTVS/index.m3u8",
+    "codec": "aac",
+    "bitrate": 1360,
+    "protocol": "http",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "02a1fe7a-e34f-41e9-9708-bbeb194c2394"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_ffc0e2dd5abed131b5b2",
+    "stationId": "awb_07a2bdc1500747d0458e",
+    "name": "Dream FM",
+    "country": "CM",
+    "url": "https://stream.rcast.net/244422",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "50e84985-0372-4270-a16b-053aac9ecbbf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_4ee00a67c136c6fad9b7",
+    "stationId": "awb_f479b0e317f43f056e46",
+    "name": "EASY RADIO KRIBI",
+    "country": "CM",
+    "url": "https://stream4.vestaradio.com/EASYRADIOKRIBI",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "677b1d68-a9ef-49b2-87fe-63ce52dd3d6e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_b693018837b45d863bb9",
+    "stationId": "awb_15593a1ae091eeca326a",
+    "name": "Eternity Gospel Radio",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/ufkpkm4a1rhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a5eedf4c-9f1e-47fe-a176-325537c35365"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_73a744965a3732474fff",
+    "stationId": "awb_852634cd97c226366621",
+    "name": "Faith Radio",
+    "country": "CM",
+    "url": "https://servidor16-3.brlogic.com:7970/live",
+    "codec": "ogg",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "74504574-9fdd-4bec-9025-1a8af5df49ac"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_82bbf48ef61460f7d125",
+    "stationId": "awb_6deee65bb7d5418f30cf",
+    "name": "For You Radio",
+    "country": "CM",
+    "url": "https://rstream.az-multimedia.com:7269/stream",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ad5f9c49-3342-4b52-987c-f025543a723c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
     "id": "aws_1f3206b93fa166eb12ca",
     "stationId": "awb_f0fdbdd8f967645f9cab",
     "name": "Globe 360 Radio",
@@ -56,7 +303,178 @@
       "b6b19ec1-eae5-4bc4-8e9c-8963c167cb98"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T02:00:12Z"
+    "lastCheckedAt": "2026-10-17T02:38:21Z"
+  },
+  {
+    "id": "aws_74247acf132776e3a159",
+    "stationId": "awb_4da2d72b660cfd14a6da",
+    "name": "Glory FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/5x61r9a8azzuv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ddac2d30-3625-4c2c-ace1-d5cc3079ad34"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_c2a6f554e18688029a69",
+    "stationId": "awb_4426aab7c33897986566",
+    "name": "GO MUSIC MEDIA",
+    "country": "CM",
+    "url": "https://listen.radioking.com/radio/547376/stream/606551",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "437708ef-07a2-4d43-b4aa-c12ac2d458fb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_a514781748b6fd812397",
+    "stationId": "awb_3ed1f7d4619d0a46b495",
+    "name": "God's Love Line (GL Radio)",
+    "country": "CM",
+    "url": "https://www.radioking.com/play/gospel-jamburee",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "20f3d1ad-0577-4a1a-82e8-1e85ba898723"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
+  },
+  {
+    "id": "aws_97dbfc527237d915356a",
+    "stationId": "awb_d833bfbe206df962a118",
+    "name": "Hausafulani Radio",
+    "country": "CM",
+    "url": "https://listen.radioking.com/radio/876181/stream/946306",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0ecb9927-dd0e-4300-bce9-0b01b37630c2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_e1fb38965d6365c90965",
+    "stationId": "awb_03e89ea3fa1f33621857",
+    "name": "HOLO VIBE",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/mhkoskaqqvvtv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b5bc2b67-5a32-4805-8bb3-d05c0b824b01"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_a4247777fd76c8efe2c1",
+    "stationId": "awb_f2c5ba2a7a6d06196be2",
+    "name": "ICT University Radio (ICTU-RTV)",
+    "country": "CM",
+    "url": "https://icturadio.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "434d58d4-df9c-437c-bf88-d6d3a451ae2e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_7aec3f7273bd560aaa76",
+    "stationId": "awb_4f77b3dd2cb6d4f73a06",
+    "name": "Jambo FM",
+    "country": "CM",
+    "url": "https://kdevstream.myvnc.com/listen/jambofm/jambofm",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "09b0112f-8615-4ac5-8abd-381b6a600fd5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_d19cf664f11a758fc061",
+    "stationId": "awb_98c005ae85c2b8049adb",
+    "name": "Life FM",
+    "country": "CM",
+    "url": "https://s41.myradiostream.com:39496/listen.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1a3731ba-a3ad-4a7a-a80a-2fcf7d481679"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_19ba734a7aea783d93e4",
+    "stationId": "awb_38e6b658f862a4d1cd5c",
+    "name": "LPA Webradio",
+    "country": "CM",
+    "url": "https://listen.radioking.com/radio/820431/stream/889416",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c2a351eb-441c-4212-a064-8d64dc7ee2f4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
   },
   {
     "id": "aws_0a55111f97f18ade88dc",
@@ -78,5 +496,442 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-12T14:27:00Z"
+  },
+  {
+    "id": "aws_d46ae308636638797a19",
+    "stationId": "awb_217b953b1ff92e182d0b",
+    "name": "Peña Mundi FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/15k8hpd4fm0uv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ba559818-25e0-41fc-887e-3b4036435138"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
+  },
+  {
+    "id": "aws_c67de899b587be893737",
+    "stationId": "awb_0d1f933aa938a08b2967",
+    "name": "Protestant Voice Radio",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/ksvcx4vdulsuv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "252dd6dc-9c68-4db3-880e-85031c433c73"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_bd1c7674b6dc721098b8",
+    "stationId": "awb_787e6ce01cdc3330a64e",
+    "name": "Radio Ar-Rissala FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/brrqmyub0xhvv",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "eec60ac0-1b1b-46f2-ab07-f8dfae484840"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_1316709f769c33ff2295",
+    "stationId": "awb_09f7ddc45b772ba57d5d",
+    "name": "Radio Bafung de Babadjou",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/43q33pgvbphvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b84943a0-c878-4452-aa52-d16cd7df8dba"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_b8e1354ddd383de5d404",
+    "stationId": "awb_4c65059205ed5d956f32",
+    "name": "Radio Bonabéri FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/e7db27238nhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "42d0992c-a164-4f5f-a023-c292e4e6151c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_409fae28a6dd60cb2a53",
+    "stationId": "awb_039b84c55837ec5b5113",
+    "name": "Radio Bonne Nouvelle",
+    "country": "CM",
+    "url": "https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e7a23f81-f41a-4bee-b58c-3846d1b627a1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T20:23:11Z"
+  },
+  {
+    "id": "aws_a9a153ad84b3f5cf7e52",
+    "stationId": "awb_26a928be1f2f83795723",
+    "name": "Radio Jésus Vient",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/jsgayqgxwdstv",
+    "codec": "mp3",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ac244a96-f1a9-4afc-8e7c-df971116697d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_1df48e5638a6df750fc7",
+    "stationId": "awb_52b814e66e31122c3e3f",
+    "name": "Radio Maria Cameroun",
+    "country": "CM",
+    "url": "https://dreamsiteradiocp7.com/proxy/rmcameroon?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 80,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "84c5eac4-ae71-4fed-9772-1b0fca58b112"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_f84772b6a6c312aac7a8",
+    "stationId": "awb_b6c115c7d3b85b9c21cd",
+    "name": "Radio Mbam FM",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/h0g4eefuywzuv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d08af3f8-55ba-4116-b166-89d943a88304"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_5d6b15f3a263311ac27d",
+    "stationId": "awb_d7a0a8c0aa8630166eb5",
+    "name": "Radio Rissalatou Salam",
+    "country": "CM",
+    "url": "https://s.prc.pawacast.com/listen/radio-rissalatou-salam-96-0fm/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "04ca502e-2841-4568-a378-3df4fcbada2b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T21:19:10Z"
+  },
+  {
+    "id": "aws_46c1c44da8447c3bfc43",
+    "stationId": "awb_6393cb8f5a068ac1bfc1",
+    "name": "Radio Solution",
+    "country": "CM",
+    "url": "https://compassionglobale.org:4438/radiosync/index.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d1135b8c-5c1a-4798-8cd7-255d94131297"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
+  },
+  {
+    "id": "aws_6692c05b05c463662bbb",
+    "stationId": "awb_b7b8a351a5de328d4229",
+    "name": "Radio Veritas",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/habvtzvnqxiuv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3d426e5d-d4c0-4b71-a6c9-8292c4702984"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_451f8ca4f0f27e23e765",
+    "stationId": "awb_4abbd74b2f1e5eeb9ef2",
+    "name": "Radio Vie Nouvelle",
+    "country": "CM",
+    "url": "https://lafrequencedevie.ice.infomaniak.ch/lafrequencedevie-64.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b4e1a053-e139-4e21-b11e-ccc3b31fd87a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_88c40771700b9a42bb59",
+    "stationId": "awb_8c1cd1253d4e34c0d3ba",
+    "name": "Radio Voice of the Cross (RVC) - Koumé",
+    "country": "CM",
+    "url": "https://www.radioking.com/play/radio-voice-of-the-cross-rvc",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d7cd05c6-bd63-43b6-92b2-55effeacbe6e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_7ead117d23ee4d5f8202",
+    "stationId": "awb_aeeaa3ea157c460b29ab",
+    "name": "Radio Voice of the Cross (RVC) - Yaounde",
+    "country": "CM",
+    "url": "https://play.radioking.io/rvc-yaounde1",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "81851a92-59bc-4797-b89f-53d7c185f18b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_4685f5af4362751fbac8",
+    "stationId": "awb_9f74a7c0fc85460d7115",
+    "name": "ROOTS RADIO",
+    "country": "CM",
+    "url": "https://ecmanager2.pro-fhi.net:1515/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aa22f9de-317a-4bd5-9eed-0109c23144d6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_302f31a85618098dbaf6",
+    "stationId": "awb_0c6773e4ab66c4db7d89",
+    "name": "Rush FM 104.5",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/8ggdk1wbtc9uv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "433018fd-bbb5-458b-becf-c9ab40dcd84c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:02Z"
+  },
+  {
+    "id": "aws_fd90d39fa8f9a635271c",
+    "stationId": "awb_6d78869a98e436896abf",
+    "name": "RYF Radio",
+    "country": "CM",
+    "url": "https://listen.radioking.com/radio/445556/stream/500072",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5fde5119-282b-455a-b9ca-62f0e23f285b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_baf46b046cb53cd6e47c",
+    "stationId": "awb_51d3659968b0d8d4b1a6",
+    "name": "Season Radio",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/rvilzsnnjdutv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b97ec788-e3ac-4889-8fe7-8514ab336cce"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_dada37ed77fe0255c727",
+    "stationId": "awb_f8693448d9c994775ec8",
+    "name": "Sky FM Nguti",
+    "country": "CM",
+    "url": "https://streams.radio.co/s87e0ba465/listen",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c8b8cd4-0b04-442b-8fe5-dda559a31903"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_f8c02bf7c1c3e03944d2",
+    "stationId": "awb_5b25f19ed9d903b0d491",
+    "name": "Suellaba FM 105",
+    "country": "CM",
+    "url": "https://10gb1.acangroup.org:8000/suellaba-fm",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "20cd420b-3af1-451a-9d79-5c0c3ae13f67"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
+  },
+  {
+    "id": "aws_2aa591d9c2e5f813a27b",
+    "stationId": "awb_441de158dfb9d6551214",
+    "name": "Teste lolo",
+    "country": "CM",
+    "url": "https://stream.zeno.fm/rtsgsmf34k0uv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e8700fed-0d84-4bde-a81c-dbaba40ac9c4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T10:22:01Z"
+  },
+  {
+    "id": "aws_6f6222bcfd6270045608",
+    "stationId": "awb_8e2b402fe81655ca909f",
+    "name": "Truth FM 93.2",
+    "country": "CM",
+    "url": "http://s32.myradiostream.com:18066/listen.mp3",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e67946b2-3025-4877-9d5d-07a2249d4e46"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-16T09:08:58Z"
   }
 ]

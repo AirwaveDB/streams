@@ -119,7 +119,7 @@ https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5
 https://stream.oradio.no/oradio_hq
 #EXTINF:-1 station-id="awb_e76365dcd6c1e537dae6" stream-id="aws_5dbb1265118d9176d03e" codec="aac" bitrate="192",P10 Country (AAC HQ)
 https://p10.p4groupaudio.com/P10_AH
-#EXTINF:-1 station-id="awb_c811992d8c1bde8d02be" stream-id="aws_2a8842b9b413d58bbb89" codec="aac" bitrate="191",P11 Dance (AAC HQ)
+#EXTINF:-1 station-id="awb_c811992d8c1bde8d02be" stream-id="aws_2a8842b9b413d58bbb89" codec="aac" bitrate="192",P11 Dance (AAC HQ)
 https://p11.p4groupaudio.com/P11_AH
 #EXTINF:-1 station-id="awb_2626d6778c94ac7452b4" stream-id="aws_aec19a37fb2a15b662fa" codec="mp3" bitrate="128",P11 Dance (MP3 128k)
 https://p11.p4groupaudio.com/P11_MM
@@ -173,6 +173,8 @@ https://audio.radioaalesund.no/aalesund_mq
 https://stream.bardufoss.no/radiobardufoss192
 #EXTINF:-1 station-id="awb_9306a9f87ca92450f220" stream-id="aws_5c273d0d2cb0ae9a47a2" codec="mp3" bitrate="192",Radiø Bø
 https://nettradio.radiobo.com/radiobo-high
+#EXTINF:-1 station-id="awb_970422cdd510b43263ed" stream-id="aws_0ea4ebd6e5dd509da478" codec="mp3" bitrate="192",Radio DSF - Finnmark
+https://lyd.radiodsf.no/dsf_hq
 #EXTINF:-1 station-id="awb_df6f73ddd8fc56197c45" stream-id="aws_9be6c65655a4ed4f51b4" codec="ogg" bitrate="320",Radio Haugaland
 http://radioip.no:443/flac
 #EXTINF:-1 station-id="awb_0cd89b30f916b81ec83f" stream-id="aws_0eac7aae8525ac357ee5" codec="mp3" bitrate="96",Radio Haugaland 96

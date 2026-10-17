@@ -19,8 +19,8 @@ http://mp3.magic-radio.net/320
 https://radio.sk8ter.org:8443/stream
 #EXTINF:-1 station-id="awb_a0c59a72532cf03e1d02" stream-id="aws_5e9646af8be4de8f53cb" codec="mp3" bitrate="192",*Duuu
 https://duuu.out.airtime.pro/duuu_a
-#EXTINF:-1 station-id="awb_d1b575dcc304d3c9472b" stream-id="aws_42c38ba5371e493d4bf9" codec="mp3" bitrate="192",/mlpfm/
-https://dash.mlp.radio:8020/radio.mp3
+#EXTINF:-1 station-id="awb_d1b575dcc304d3c9472b" stream-id="aws_42c38ba5371e493d4bf9" codec="ogg" bitrate="96",/mlpfm/
+https://dash.mlp.radio:8020/radio.opus
 #EXTINF:-1 station-id="awb_b80127709adcc289fe5f" stream-id="aws_b01e553fc2b31f426a11" codec="mp3" bitrate="128",#1 Splash Jazz
 https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:-1 station-id="awb_41e48918b23945a02508" stream-id="aws_f4a1cb6c8e82d38515b6" codec="mp3" bitrate="64",#BMJ_Radio
@@ -502,7 +502,7 @@ https://listen.radioking.com/radio/299368/stream/356549
 #EXTINF:-1 station-id="awb_e1bca793ed3eadf5d17b" stream-id="aws_a8a64560897f3137c521" codec="mp3" bitrate="128",behary laul sirder
 https://servidor15.brlogic.com:7292/live
 #EXTINF:-1 station-id="awb_0e00e3e1c1dd40764bc2" stream-id="aws_09b12d389ca135edd82d" codec="aac+" bitrate="64",Beur FM
-http://beurfm.ice.infomaniak.ch/beurfm-high.aac
+http://broadcast.infomaniak.ch/beurfm-high.aac
 #EXTINF:-1 station-id="awb_0e00e3e1c1dd40764bc2" stream-id="aws_f7855f5e392dc4e7b684" codec="mp3" bitrate="128",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 station-id="awb_b3643d7a31d49ee75e0f" stream-id="aws_f4b81ed077b3337b14be" codec="mp3" bitrate="128",BFM Avec RMC
@@ -526,7 +526,7 @@ http://relay1.bide-et-musique.com:9100/
 #EXTINF:-1 station-id="awb_66cc13260547b476e1b7" stream-id="aws_b71d339323c53bfd9295" codec="mp3" bitrate="128",Bien Etre Animal
 https://bienetreanimal.ice.infomaniak.ch/bienetreanimal-128.mp3
 #EXTINF:-1 station-id="awb_29dc4bede998e0a924b6" stream-id="aws_ef84711d8edc6098852c" codec="ogg" bitrate="1500",BIG BANG RADIO
-https://audio-edge-hy4wy.blr.d.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+https://audio-edge-5r6yd.cdg.o.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
 #EXTINF:-1 station-id="awb_758989aa540a8a32ffd0" stream-id="aws_765bd640e922de62cbe3" codec="mp3" bitrate="256",Big Cactus Classic Rock
 http://radio12.pro-fhi.net/radio/9134/stream.mp3
 #EXTINF:-1 station-id="awb_15aa33f85e7cca39d013" stream-id="aws_63ba8213a476c5888ff5" codec="mp3" bitrate="192",Bissakou Web Radio
@@ -1249,7 +1249,7 @@ https://europe2.lmn.fm/europe2.mp3?aw_0_1st.playerid=lgrdnwsRadioFM
 https://europe2.lmn.fm/vr-wr1.mp3?aw_0_1st.playerid=lagardereappVirgin
 #EXTINF:-1 station-id="awb_54b185a99f4b22e23aa1" stream-id="aws_2bf038d44625b8d4f1bc" codec="mp3" bitrate="128",Europe 2 Nouvelle Scène
 https://europe2.lmn.fm/vr-wr8.mp3?aw_0_1st.playerid=lagardereappVirgin
-#EXTINF:-1 station-id="awb_d4f8d56d11166f996d70" stream-id="aws_f425c40e27a9476cc570" codec="aac" bitrate="127",Europe 2 Pays de la Loire
+#EXTINF:-1 station-id="awb_d4f8d56d11166f996d70" stream-id="aws_f425c40e27a9476cc570" codec="aac" bitrate="128",Europe 2 Pays de la Loire
 https://europe2.lmn.fm/europe2-44000/playlist.m3u8
 #EXTINF:-1 station-id="awb_363550e0d4b8185a234c" stream-id="aws_8a4047ebdaf4bb117508" codec="aac" bitrate="128",Europe 2 Radio Officiel
 https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2
@@ -2369,6 +2369,8 @@ http://icecast.radiofrance.fr/fb100pour100annees80-hifi.aac
 https://icecast.radiofrance.fr/fbchansonfrancaise-hifi.aac
 #EXTINF:-1 station-id="awb_46dbbdd689c64f2e52c8" stream-id="aws_6241b32c7b5c77731f7e" codec="aac" bitrate="192",ICI 100% Chansons françaises
 https://icecast.radiofrance.fr/fbchansonfrancaise-hifi.aac
+#EXTINF:-1 station-id="awb_78d4a99546495d2c6254" stream-id="aws_33481bb60f683cd5213b" codec="aac" bitrate="192",ICI 80
+http://icecast.radiofrance.fr/fb100pour100annees80-hifi.aac
 #EXTINF:-1 station-id="awb_d5cc819d017ca1ef3543" stream-id="aws_761cb3ad9d4eaaf7b3d8" codec="mp3" bitrate="128",ici Armorique
 https://icecast.radiofrance.fr/fbarmorique-midfi.mp3
 #EXTINF:-1 station-id="awb_dfd6e62197485ac34433" stream-id="aws_c13dfde50fa170385477" codec="aac" bitrate="107",ICI Breizh Izel
@@ -2941,6 +2943,8 @@ https://mp3.magic-radio.net/
 https://mp3.magic-radio.net/prox192
 #EXTINF:-1 station-id="awb_91315a84e4b650403547" stream-id="aws_55340c087238e8615c84" codec="ogg" bitrate="1500",Magic Radio flac
 http://mp3.magic-radio.net/flac
+#EXTINF:-1 station-id="awb_03cf7567ae51c4dab15d" stream-id="aws_10ef0eea3e3948d47500" codec="mp3" bitrate="192",Magnum 80
+http://ice.creacast.com/magnum-80s
 #EXTINF:-1 station-id="awb_cd5f4b1c19ddfcf62ba8" stream-id="aws_ad81d9aae943c074cccd" codec="mp3" bitrate="128",Magnum Haute Vosges
 http://ice.creacast.com/magnum-hautes-vosges
 #EXTINF:-1 station-id="awb_770711b7329bdcb616a4" stream-id="aws_601a131d37dae7dd370e" codec="mp3" bitrate="192",Magnum La Radio
@@ -3068,7 +3072,7 @@ https://radio.montana-funk.fr/listen/montana_funk/radio.mp3
 #EXTINF:-1 station-id="awb_e5abca5850b58512f65b" stream-id="aws_5c2bbd9af859753b1784" codec="mp3" bitrate="128",Monte Carlo Doualiya
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:-1 station-id="awb_369bd5b0f42e062e0922" stream-id="aws_c7b17514e2e7b5f211e8" codec="aac+" bitrate="64",Morow
-http://stream.ca.morow.com:8080/morow_med.aacp
+http://stream.fr.morow.com:8080/morow_med.aacp
 #EXTINF:-1 station-id="awb_6122dd6243bb496619a2" stream-id="aws_b7ac0c04d339727079d3" codec="aac+" bitrate="64",MOROW [AAC+ 64k]
 http://stream.fr.morow.com:8080/morow_med.aacp
 #EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_402fdd5559b5e79eaa09" codec="aac+" bitrate="128",Morow Prog Rock Radio
@@ -3377,7 +3381,7 @@ http://nova-vnt.ice.infomaniak.ch/nova-vnt-256.aac
 http://nova-dance.ice.infomaniak.ch/nova-dance-256.aac
 #EXTINF:-1 station-id="awb_6a6fb93e5621dbe481e6" stream-id="aws_bf9e5e6f372437175e60" codec="mp3" bitrate="128",Nova Danse
 https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
-#EXTINF:-1 station-id="awb_833914dc1b5ead402790" stream-id="aws_7f950d168ce92e7445cf" codec="aac" bitrate="256",Nova Hip-Hop
+#EXTINF:-1 station-id="awb_833914dc1b5ead402790" stream-id="aws_7f950d168ce92e7445cf" codec="aac" bitrate="255",Nova Hip-Hop
 http://nova-odn.ice.infomaniak.ch/nova-odn-256.aac
 #EXTINF:-1 station-id="awb_947a4ef4b60eb1b75507" stream-id="aws_c02af2342a83f0077506" codec="aac" bitrate="256",Nova HipHop
 https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac
@@ -3493,8 +3497,6 @@ https://streaming.nrjaudio.fm/ouhm2bapu6pb
 https://streaming.nrjaudio.fm/oumrck8fnozc
 #EXTINF:-1 station-id="awb_ced7a3cdabad204191bf" stream-id="aws_b2008f583b4387df6dad" codec="mp3" bitrate="128",NRJ Club Hits
 https://streaming.nrjaudio.fm/ou8vm6gk7oiu
-#EXTINF:-1 station-id="awb_ef6a1c6c215f9b73782d" stream-id="aws_52232092699364949286" codec="mp3" bitrate="128",NRJ Club Hits RNB
-https://streaming.nrjaudio.fm/ouoxk87nfibk
 #EXTINF:-1 station-id="awb_a6de62c43fccf3aa54d0" stream-id="aws_797ab9b901e538eb3729" codec="mp3" bitrate="128",NRJ Clubbin
 https://streaming.nrjaudio.fm/ou8onegk7oiu
 #EXTINF:-1 station-id="awb_f1a37186332b7e02ce79" stream-id="aws_41e22b3951ab2760c9cb" codec="aac+" bitrate="64",NRJ Colmar
@@ -3799,8 +3801,6 @@ https://streaming.nrjaudio.fm/outd4t6ubafg
 https://streaming.nrjaudio.fm/ouotrj7nfibk
 #EXTINF:-1 station-id="awb_91ce3ce60e29bf78b5c8" stream-id="aws_475805fcbb34b8365831" codec="mp3" bitrate="128",NRJ Summer Classics
 https://streaming.nrjaudio.fm/ougf5frb92oc
-#EXTINF:-1 station-id="awb_0f0e7384250c4f70f572" stream-id="aws_75672d932642ec264fc5" codec="mp3" bitrate="128",NRJ Summer Festivals
-https://streaming.nrjaudio.fm/ougfanrb92oc
 #EXTINF:-1 station-id="awb_3f12066b9a11c94b79b9" stream-id="aws_3eccc913910c7243e861" codec="mp3" bitrate="128",NRJ Summer Hits 2026
 https://streaming.nrjaudio.fm/ougfztrb92oc
 #EXTINF:-1 station-id="awb_66d449ee8860df86bf04" stream-id="aws_bbb3ae0d9da9e438adf9" codec="mp3" bitrate="128",NRJ Sunset
@@ -4029,6 +4029,32 @@ http://stream.pleinair.net:8000/dr_jura.mp3
 http://stream.pleinair.net:8000/dr_oyonnax.mp3
 #EXTINF:-1 station-id="awb_66c6ad519f7c19e8090c" stream-id="aws_62cf097c05dd6e8f1fab" codec="mp3" bitrate="192",Plein Air Pontarlier
 http://stream.pleinair.net:8000/dr_pontarlier.mp3
+#EXTINF:-1 station-id="awb_fa218ee2ee1a00daf388" stream-id="aws_1f4d67453f669b7aba18" codec="aac" bitrate="64",PlixSend Auvergne Rhône-Alpes
+https://plixsend.eu/listen/arh/stream
+#EXTINF:-1 station-id="awb_4447f5acaa65e187adaa" stream-id="aws_a994828760a64821865b" codec="aac" bitrate="64",PlixSend Bourgogne Franche-Comté
+https://plixsend.eu/listen/bfc/stream
+#EXTINF:-1 station-id="awb_0aca27cf97fa0fdaea9f" stream-id="aws_069f41e17779d6796486" codec="aac" bitrate="64",PlixSend Bretagne
+https://plixsend.eu/listen/bretagne/stream
+#EXTINF:-1 station-id="awb_2140370603f7ea19d5a5" stream-id="aws_36d18ec11071fbc327f7" codec="aac" bitrate="64",PlixSend Centre Val de Loire
+https://plixsend.eu/listen/cdvl/stream
+#EXTINF:-1 station-id="awb_9c863fdf831f434e78f5" stream-id="aws_21eeb6c10ea4a771869d" codec="aac" bitrate="64",PlixSend France
+https://plixsend.eu/listen/fr/stream
+#EXTINF:-1 station-id="awb_cfa45f241812a9228cbd" stream-id="aws_33fc35a1a6defabd7596" codec="aac" bitrate="64",PlixSend Hauts-de-France
+https://plixsend.eu/listen/hdf/stream
+#EXTINF:-1 station-id="awb_a5b9f5a081d44fb50db1" stream-id="aws_d9a4d18eb3a6dee8dfa2" codec="aac" bitrate="64",PlixSend Île-de-France
+https://plixsend.eu/listen/idf/stream
+#EXTINF:-1 station-id="awb_508eb714e40e17d7021c" stream-id="aws_ac7f6338a24995d71de9" codec="aac" bitrate="320",PlixSend Montargis
+https://plixsend.eu/listen/montargis/stream
+#EXTINF:-1 station-id="awb_769081bc3ee54c9d0d28" stream-id="aws_3a4ed6f447e54185f5f5" codec="aac" bitrate="96",PlixSend New Talents
+https://plixsend.eu/listen/new_talents/stream
+#EXTINF:-1 station-id="awb_d5edcf483ad600c8f264" stream-id="aws_11f96e1570fef1205fe3" codec="aac" bitrate="64",PlixSend Nouvelle-Aquitaine
+https://plixsend.eu/listen/n_a/stream
+#EXTINF:-1 station-id="awb_a8620b9bc988fa4ad599" stream-id="aws_ee14d7ef7c7646361c68" codec="aac" bitrate="64",PlixSend Occitanie
+https://plixsend.eu/listen/occitanie/stream
+#EXTINF:-1 station-id="awb_280789ef3837a038b049" stream-id="aws_653a9a8e509a9b5c2231" codec="aac" bitrate="64",PlixSend Pays de la Loire
+https://plixsend.eu/listen/pdll/stream
+#EXTINF:-1 station-id="awb_91926c55bb7a6dc8a469" stream-id="aws_b3791d5020d0423e9320" codec="aac" bitrate="64",PlixSend Provence-Alpes-Côte d'Azur
+https://plixsend.eu/listen/paca/stream
 #EXTINF:-1 station-id="awb_748c2428f9977d5e098e" stream-id="aws_d6e4e8ed4b8014be93b3" codec="mp3" bitrate="256",Plum fm
 https://stream.radios.bzh/listen/plumfm/radio.mp3
 #EXTINF:-1 station-id="awb_d9efd9f4c934ea8df643" stream-id="aws_2e230ccf0963f46223c7" codec="mp3" bitrate="192",plusfm
@@ -4135,8 +4161,6 @@ https://direct.rdautan.fr/stream.mp3
 https://direct.rdautan.fr/streamgaillac.mp3
 #EXTINF:-1 station-id="awb_6470a43b6db59060a982" stream-id="aws_c310fd5577a4baf114fd" codec="mp3" bitrate="128",R.I.L FM
 http://91.121.29.128:8068/;
-#EXTINF:-1 station-id="awb_dfb747aed13b7a832372" stream-id="aws_46e08f62137407eda0d2" codec="aac+" bitrate="192",RABI015-FM
-http://rabi015-fm.fr:8000/rabi015-fm
 #EXTINF:-1 station-id="awb_ffccebb0115352c89093" stream-id="aws_ab91a2fa8d2eafe00331" codec="mp3" bitrate="128",Radio 17bis
 http://listen.radioking.com/radio/444/stream/1754
 #EXTINF:-1 station-id="awb_7344caed5f5e8d778941" stream-id="aws_63fffc494888492ca18a" codec="mp3" bitrate="192",Radio 4
@@ -4603,6 +4627,8 @@ https://stream.radios.bzh/listen/radiolaser/radio.mp3
 http://91.121.59.45:8412/stream
 #EXTINF:-1 station-id="awb_e6261098a5baa3ea7774" stream-id="aws_fe3c7d21d425187d90fe" codec="mp3" bitrate="128",Radio lenga d'Oc
 https://stream-ssl.radios-arra.fr:8443/rlo
+#EXTINF:-1 station-id="awb_fea5bab6d1a4c6d2bc60" stream-id="aws_556b3f61c490b26064f8" codec="mp3" bitrate="128",Ràdio Lengadòc
+https://stream-ssl.radios-arra.fr:8443/lengadocnarbonne
 #EXTINF:-1 station-id="awb_dce87426997668420585" stream-id="aws_f24a0da2304187b7aca3" codec="mp3" bitrate="256",radio libertaire
 http://media.radio-libertaire.org:8080/radiolib.mp3
 #EXTINF:-1 station-id="awb_a9e0286be6b1b7ac7aa8" stream-id="aws_8426350797e6eb73b758" codec="mp3" bitrate="256",Radio Libertaire - Fédération Anarchiste
@@ -4721,6 +4747,8 @@ http://radioone.ice.infomaniak.ch/radioone-96.mp3
 http://radioorca.com/stream
 #EXTINF:-1 station-id="awb_c2a6642a38a8f0c1ed8c" stream-id="aws_5eb9ca6afb50645360fa" codec="mp3" bitrate="0",Radio Orient
 https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3
+#EXTINF:-1 station-id="awb_ca7d95c6acef332a5024" stream-id="aws_bf7730ad4a02ad786482" codec="mp3" bitrate="128",Radio PAC
+http://serveur3.wanastream.com:18200/
 #EXTINF:-1 station-id="awb_f9ffecb3bf8c41e0d0b8" stream-id="aws_2aeb62387cf571f14571" codec="mp3" bitrate="128",Ràdio País
 https://stunnel2.cyber-streaming.com:9272/stream
 #EXTINF:-1 station-id="awb_a6af6be077621b84bb99" stream-id="aws_b7c6ad30d80b7f5a0b32" codec="mp3" bitrate="128",Radio Paradis
@@ -4813,8 +4841,8 @@ https://stunnel2.cyber-streaming.com:9142/;stream.mp3
 http://str0.creacast.com/radio_saint_nabor
 #EXTINF:-1 station-id="awb_bab6cdfefbdf95e6c4b2" stream-id="aws_357d847c95f27bbf1eaa" codec="mp3" bitrate="320",Radio Salam
 https://manager11.streamradio.fr:2835//stream
-#EXTINF:-1 station-id="awb_d9847ea2a83c2c2bc45e" stream-id="aws_da8c2014480666a80f70" codec="ogg" bitrate="0",Radio salut c'est cool
-http://radio.casse-tete.solutions/salut-radio.ogg
+#EXTINF:-1 station-id="awb_d9847ea2a83c2c2bc45e" stream-id="aws_da8c2014480666a80f70" codec="aac" bitrate="192",Radio salut c'est cool
+http://radio.casse-tete.solutions/salut-radio-192.aac
 #EXTINF:-1 station-id="awb_6f08d799b34dfce3a113" stream-id="aws_01e051c4ad7a4749c8e3" codec="mp3" bitrate="170",Radio Sans Pub
 http://live1.jupinfo.fr:8000/play
 #EXTINF:-1 station-id="awb_c733a82e81a8720c8756" stream-id="aws_0eb8c584ebe0cb839556" codec="mp3" bitrate="128",Radio Santa Milonga - Tango de Soie
@@ -4861,6 +4889,8 @@ https://listen.radioking.com/radio/22937/stream/63601
 https://stream.zeno.fm/nesckintyb8uv
 #EXTINF:-1 station-id="awb_9ad1cdbd6d2cb6182aad" stream-id="aws_aff6ad3ac325ed73a7e7" codec="mp3" bitrate="320",RADIO SOFA
 https://radio.radio-sofa.com/listen/radio_sofa/radio.mp3
+#EXTINF:-1 station-id="awb_cf0377fbd16a06a443fe" stream-id="aws_63ada4edbf9cdf066642" codec="mp3" bitrate="96",Radio Sommières
+https://stream-ssl.radios-arra.fr:8443/sommieres
 #EXTINF:-1 station-id="awb_a73eac75656838932984" stream-id="aws_a2c9fd86e91696d5918a" codec="mp3" bitrate="128",Radio Souvenir
 http://radio12.pro-fhi.net/live/RadioSouvenir.com
 #EXTINF:-1 station-id="awb_e18cdb2d7f7182393fba" stream-id="aws_6e6c1b17b02c42dc0e8a" codec="mp3" bitrate="128",Radio Star Est
@@ -5285,6 +5315,8 @@ https://n.rootslegacy.fr/stream/1/
 https://www.marsanaryas.com/radio/live/
 #EXTINF:-1 station-id="awb_d0fb26636b1903885539" stream-id="aws_beef020a0081ac922cd0" codec="mp3" bitrate="192",RPH Radio
 https://stream10.vestaradio.com/RPH52
+#EXTINF:-1 station-id="awb_086498fe485650f85b47" stream-id="aws_1367a08e03b31a010277" codec="mp3" bitrate="128",RPL Radio 99.0 Lille
+https://listen.radioking.com/radio/2966/stream/9128
 #EXTINF:-1 station-id="awb_7c7827dae352cba8b5e0" stream-id="aws_807ae1d76c15dfe6dc20" codec="mp3" bitrate="140",RSB (Radio Sainte Baume)
 http://radiosaintebaume.ice.infomaniak.ch/radiosaintebaume-128.mp3
 #EXTINF:-1 station-id="awb_b3633529134964d66aac" stream-id="aws_e2f2bc882e5b1975a42a" codec="mp3" bitrate="128",RSTLSS
@@ -5409,8 +5441,6 @@ https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64a
 https://icecast.skyrock.net/s/plm_aac_128k?tvr_name=apistreamfm
 #EXTINF:-1 station-id="awb_0861bc682aea3440fa08" stream-id="aws_e0a7e63399904538b84b" codec="mp3" bitrate="0",Slow English FM
 https://slowenglish.fm/live.mp3
-#EXTINF:-1 station-id="awb_072329b6526f8c8dca7a" stream-id="aws_7f31e3a68f08fab1c432" codec="mp3" bitrate="320",Slow Radio
-https://play.radioking.io/slow-radio/601307
 #EXTINF:-1 station-id="awb_50c2588a9afa202b9b83" stream-id="aws_f49f81dc08f54ce42d57" codec="mp3" bitrate="192",Slowly Radio
 https://stream.slowlyradio.com/
 #EXTINF:-1 station-id="awb_e5e0e3216229ed94e376" stream-id="aws_5773fd64425bb2d78b9b" codec="mp3" bitrate="0",SLY Radio
@@ -5783,6 +5813,8 @@ http://voltageclub.ice.infomaniak.ch/voltageclub-128.mp3
 http://voltagelounge.ice.infomaniak.ch/voltagelounge-128.mp3
 #EXTINF:-1 station-id="awb_6774ec8a36bf6f1f27e9" stream-id="aws_ef9b023bc39a310a95dd" codec="mp3" bitrate="128",Voltage Love
 http://voltagelove.ice.infomaniak.ch/voltagelove-128.mp3
+#EXTINF:-1 station-id="awb_c7ac9312716e8a22b8ce" stream-id="aws_2d883c7d6e7f3ff91855" codec="mp3" bitrate="128",Voltige Radio
+https://listen.radioking.com/radio/184318/stream/226369
 #EXTINF:-1 station-id="awb_149339d521ec7bbad641" stream-id="aws_f1c31fab80b43d7c713d" codec="mp3" bitrate="0",VorteX | Radio
 https://az11.yesstreaming.net:8530/radio.mp3
 #EXTINF:-1 station-id="awb_7de1e00d87cf3b504229" stream-id="aws_a67f2672994fd122aeff" codec="mp3" bitrate="128",Vosges FM Bruyères
@@ -5799,8 +5831,6 @@ https://s34.myradiostream.com/:12340/listen.mp3
 https://s34.myradiostream.com/12340/listen.mp3
 #EXTINF:-1 station-id="awb_ddb43e3a48a6cd5bff7d" stream-id="aws_96864641adf9d5074e53" codec="mp3" bitrate="128",WAXS la voix de l'eau
 https://play.radioking.io/waxs
-#EXTINF:-1 station-id="awb_cf4f9fa5a3927e009717" stream-id="aws_56c1c63bf111914ba042" codec="mp3" bitrate="128",WINCOR Headquarters Radio
-https://wincorhq.hd.free.fr/radio-stream/hiphop.mp3?_=1790583037258
 #EXTINF:-1 station-id="awb_b301ba62a1fe1a29d776" stream-id="aws_b2640969d442b55cd104" codec="mp3" bitrate="128",Wit FM
 http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
 #EXTINF:-1 station-id="awb_b301ba62a1fe1a29d776" stream-id="aws_9643c9b1255dfdd728a2" codec="mp3" bitrate="128",Wit FM

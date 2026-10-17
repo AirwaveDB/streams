@@ -39,7 +39,7 @@ https://radio.host.com.py:7181/
 https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio
 #EXTINF:-1 station-id="awb_82653b4b45c1dabd0c6f" stream-id="aws_2f1dc6f311046476e10d" codec="mp3" bitrate="128",Radio 1000 AM
 https://1000noticias.live:8000/radio.mp3
-#EXTINF:-1 station-id="awb_2c6eee14bd5e204f69c8" stream-id="aws_5f67e0b36bda8f55f659" codec="mp3" bitrate="32",Radio ABC Cardinal 730 AM
+#EXTINF:-1 station-id="awb_2c6eee14bd5e204f69c8" stream-id="aws_5f67e0b36bda8f55f659" codec="mp3" bitrate="128",Radio ABC Cardinal 730 AM
 http://sc.abc.com.py:8000/stream
 #EXTINF:-1 station-id="awb_622f8a08d6192b7b0437" stream-id="aws_d3b41095bed09c3fa0a6" codec="mp3" bitrate="64",Radio ABC Cardinal 730 AM (Asunción)
 https://media.streambrothers.com:8342/stream
@@ -59,7 +59,7 @@ https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
 https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_492d9aac86835746295c" stream-id="aws_ec342b7739cb945e5653" codec="aac" bitrate="48",Radio Aspen Paraguay
 https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557
-#EXTINF:-1 station-id="awb_804fee8902edacebbdfe" stream-id="aws_51326337d9ddfa81118a" codec="aac+" bitrate="80",RADIO CAAPUCU FM 91.7
+#EXTINF:-1 station-id="awb_804fee8902edacebbdfe" stream-id="aws_51326337d9ddfa81118a" codec="aac+" bitrate="112",RADIO CAAPUCU FM 91.7
 http://radio.host.com.py:9452/;
 #EXTINF:-1 station-id="awb_a6cd0d7d4192e87ce285" stream-id="aws_bffb3de2702badcf647b" codec="unknown" bitrate="0",Radio Canal 100.1 FM
 https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8
@@ -103,8 +103,6 @@ http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8
 http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf
 #EXTINF:-1 station-id="awb_3acefcfe7108b5d3c8af" stream-id="aws_f52ad5f946b1ce7c931d" codec="mp3" bitrate="128",Radio Pop 93.3 FM
 http://rps1.radiopop.com.py:8000/stream
-#EXTINF:-1 station-id="awb_8a4697fbee2a3d3f51a3" stream-id="aws_f4ce84fb38c4d2fb6255" codec="aac" bitrate="33",Radio RQP 94.3 FM
-http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u
 #EXTINF:-1 station-id="awb_697e7604d0751e4f7a66" stream-id="aws_6c5d20efbd778e3fef98" codec="aac" bitrate="28",Radio Sagrados Online
 http://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_0cde2230eea63605451c" stream-id="aws_9964e2183d5302b60de3" codec="aac" bitrate="32",Radio Tapiracuai 88.7 FM

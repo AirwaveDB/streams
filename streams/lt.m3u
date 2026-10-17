@@ -7,7 +7,7 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 http://radio.audiomastering.lt:8000/hq
 #EXTINF:-1 station-id="awb_967e8fa7bef77d6e4b77" stream-id="aws_c7693c42eb4b7ea096b0" codec="mp3" bitrate="192",BEVEIK RADIJAS
 https://halo.streamerr.co/listen/beveikradijas/radio.mp3
-#EXTINF:-1 station-id="awb_24d292dc00864b1d6bee" stream-id="aws_3642fc46bcfa1bce6a67" codec="" bitrate="0",Christmas Radio
+#EXTINF:-1 station-id="awb_24d292dc00864b1d6bee" stream-id="aws_3642fc46bcfa1bce6a67" codec="mp3" bitrate="128",Christmas Radio
 https://stream.zeno.fm/xevy5qiypbqvv
 #EXTINF:-1 station-id="awb_1f38ce988ad3f1123d79" stream-id="aws_106f723a314905823eb1" codec="mp3" bitrate="320",COOL RADIO
 https://c34.radioboss.fm:9058/stream
@@ -63,8 +63,6 @@ https://stream-live.lrt.lt/radijas/master.m3u8
 https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9
 #EXTINF:-1 station-id="awb_c95efb670016f710a5e0" stream-id="aws_e3fa822cf00c483fdcf9" codec="mp3" bitrate="320",m-1
 http://radio.m-1.fm/lietus/MP3320
-#EXTINF:-1 station-id="awb_d9e3eb04620b0b25b63e" stream-id="aws_143c3510c18e63ca8c56" codec="mp3" bitrate="192",M-1 [AAC]
-http://stream.m-1.fm/M-1aacp
 #EXTINF:-1 station-id="awb_ac7409604f0249f91c59" stream-id="aws_7011ca1b168493ec474a" codec="aac" bitrate="256",M-1 Dance
 https://radio.m-1.fm/m-1dance/aac
 #EXTINF:-1 station-id="awb_a0d45f9bc8f36fec6912" stream-id="aws_06cb5b4cca9f9f1a9ae3" codec="mp3" bitrate="192",M-1 Plius
@@ -141,7 +139,7 @@ https://solid55.streamupsolutions.com/proxy/opcubjpd/stream
 https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream
 #EXTINF:-1 station-id="awb_f454d2bbf3ac9a39a0c9" stream-id="aws_9268646012ce5b603c55" codec="mp3" bitrate="192",Radijo stotis Lietus
 https://radio.m-1.fm/LIETUS
-#EXTINF:-1 station-id="awb_4d6a00f9c431cbd32902" stream-id="aws_874ee52773f6be18689b" codec="" bitrate="0",Radijo stotis M-1
+#EXTINF:-1 station-id="awb_4d6a00f9c431cbd32902" stream-id="aws_874ee52773f6be18689b" codec="aac+" bitrate="192",Radijo stotis M-1
 https://stream.m-1.fm/m1/aacp64
 #EXTINF:-1 station-id="awb_f935b386ccf7845f3d14" stream-id="aws_ca318abe809b0b4a9ac2" codec="mp3" bitrate="0",Radijo stotis Radio3
 https://stream.rcs.revma.com/8cwskd80zxcwv
@@ -163,7 +161,7 @@ https://transliacija.audiomastering.lt/pure
 https://stream2.rc.lt/rc128.mp3
 #EXTINF:-1 station-id="awb_f9560db977cb2f6dbf0e" stream-id="aws_72b026d3be479e6b8c98" codec="mp3" bitrate="128",Radiocentras
 https://stream2.rockfm.lt/crf128.mp3
-#EXTINF:-1 station-id="awb_e7e74686cfb0bb28d3eb" stream-id="aws_c5bbccdb7ee50ce8d6d6" codec="" bitrate="0",RADIOR ENERGY
+#EXTINF:-1 station-id="awb_e7e74686cfb0bb28d3eb" stream-id="aws_c5bbccdb7ee50ce8d6d6" codec="mp3" bitrate="192",RADIOR ENERGY
 https://klausyk.radijas.lt/listen/energy/live
 #EXTINF:-1 station-id="awb_3f912881f09ee18fcbe8" stream-id="aws_12395e046d78c27bd8b5" codec="mp3" bitrate="128",Relax FM
 https://stream4.radijas.lt/relaxfm

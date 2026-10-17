@@ -101,7 +101,7 @@ https://live-bauerie.sharp-stream.com/98
 https://stream.audioxi.com/98
 #EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_5a1ba89f683a3865afaf" codec="aac" bitrate="128",Dublin's FM104
 https://onic.dublin.live.stream.broadcasting.news/stream-fm104
-#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_61ed660359f6df34c3a2" codec="aac" bitrate="128",Dublin's FM104
+#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_61ed660359f6df34c3a2" codec="aac" bitrate="127",Dublin's FM104
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:-1 station-id="awb_7d2a9e5478984038ab39" stream-id="aws_6611638c0f4dfb7a7465" codec="aac" bitrate="127",Dublin's Q102
 https://onic.dublin.live.stream.broadcasting.news/stream-q102
@@ -183,7 +183,7 @@ https://live.onic.ie/stream-live95
 https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
 #EXTINF:-1 station-id="awb_07bed20c42ce6d1dfe39" stream-id="aws_774e27b689bbb81aa22d" codec="mp3" bitrate="128",LiveIreland
 http://lynx.prostreaming.net:8058/;
-#EXTINF:-1 station-id="awb_dae7f7dd694c1c54625f" stream-id="aws_1f8b8ce6ada994191d6d" codec="aac" bitrate="127",LMFM
+#EXTINF:-1 station-id="awb_dae7f7dd694c1c54625f" stream-id="aws_1f8b8ce6ada994191d6d" codec="aac" bitrate="128",LMFM
 https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
 #EXTINF:-1 station-id="awb_06c5eec511ee3456dfd4" stream-id="aws_2b5e11df791fdfe5815b" codec="aac" bitrate="127",LMFM Country
 http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438
@@ -283,6 +283,8 @@ https://stream.playfmdublin.com/radio192.mp3
 https://www.powerfm.org:8443/powerfm.mp3
 #EXTINF:-1 station-id="awb_843ab8cbcd57d52881b1" stream-id="aws_5a8194a6b4d91436ec75" codec="ogg" bitrate="0",PowerFM Dublin 320Kbps Ogg/Vorbis
 https://www.powerfm.org:8443/powerfm.ogg
+#EXTINF:-1 station-id="awb_70f57123a456d88015f9" stream-id="aws_b7d296ba21352600bad5" codec="mp3" bitrate="192",Psybient Sunset on MixLive.net
+https://free.rcast.net/64142
 #EXTINF:-1 station-id="awb_186e4c3fab70e837d62e" stream-id="aws_437dfff5ab1864d27467" codec="aac" bitrate="127",Q102
 https://wg.cdn.tibus.net/q102MP3128
 #EXTINF:-1 station-id="awb_e47b086df2f2ddec41ea" stream-id="aws_f4f84beae09ad1080600" codec="mp3" bitrate="128",RabbitHole Radio
@@ -391,7 +393,7 @@ https://edge3.audioxi.com/T80
 https://live-bauerie.sharp-stream.com/T80
 #EXTINF:-1 station-id="awb_9cabb848fb4c2d23a66a" stream-id="aws_d61f0cdc6b941923df60" codec="mp3" bitrate="128",Today FM 90s
 https://live-bauerie.sharp-stream.com/T90
-#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="63",TodayFm
+#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="64",TodayFm
 https://edge.audioxi.com/TDAAC
 #EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_39de9e22d9c2b72f96e6" codec="mp3" bitrate="128",TodayFm
 https://pri.gocaster.net/td

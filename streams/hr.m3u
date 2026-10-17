@@ -87,7 +87,7 @@ http://radio-stream.cmc.com.hr:8020/autodj
 http://radio-stream.cmc.com.hr:8090/autodj
 #EXTINF:-1 station-id="awb_b4e9b1266234e57bc07c" stream-id="aws_53f724e25d33663bf117" codec="mp3" bitrate="192",CMC Lagano
 http://radio-stream.cmc.com.hr:8030/autodj
-#EXTINF:-1 station-id="awb_168cff519ef418c3abd9" stream-id="aws_05947ece2d9830e0313b" codec="mp3" bitrate="0",CMC Radio
+#EXTINF:-1 station-id="awb_168cff519ef418c3abd9" stream-id="aws_05947ece2d9830e0313b" codec="mp3" bitrate="192",CMC Radio
 https://radio-stream.cmc.com.hr:9011/live
 #EXTINF:-1 station-id="awb_61286903f3ec093af5df" stream-id="aws_ec8a67de7805a69b9f1c" codec="mp3" bitrate="192",CMC Rock
 http://radio-stream.cmc.com.hr:8060/autodj
@@ -166,7 +166,7 @@ http://stream.hkr.hr:8000/hkr.mp3
 #EXTINF:-1 station-id="awb_ddd0db45609401a8a24e" stream-id="aws_28ce341a493004ce692c" codec="aac+" bitrate="64",HRT Drugi program
 https://25453.live.streamtheworld.com/PROGRAM2AAC.aac
 #EXTINF:-1 station-id="awb_72ef08533675b7be32e4" stream-id="aws_e0dda999beedf69b66cd" codec="aac+" bitrate="64",HRT Glas Hrvatske
-http://23543.live.streamtheworld.com/VOICEOFCROATIAAAC_SC
+http://29341.live.streamtheworld.com:3690/VOICEOFCROATIAAAC_SC
 #EXTINF:-1 station-id="awb_08480c4746b73b37b033" stream-id="aws_9f09bba1aef88d028155" codec="aac+" bitrate="64",HRT HR 1 - Prvi program
 http://25603.live.streamtheworld.com:3690/PROGRAM1AAC_SC
 #EXTINF:-1 station-id="awb_08480c4746b73b37b033" stream-id="aws_fdb3f859dd28fb57e95b" codec="mp3" bitrate="64",HRT HR 1 - Prvi program
@@ -186,7 +186,7 @@ http://25553.live.streamtheworld.com:3690/KNINAAC_SC
 #EXTINF:-1 station-id="awb_d0cc79ff9f567f1c9a86" stream-id="aws_6bbb969fd1c9232d8783" codec="aac+" bitrate="64",HRT Radio Osijek
 http://23613.live.streamtheworld.com/OSIJEKAAC_SC
 #EXTINF:-1 station-id="awb_b44295dc3f925cb6f4db" stream-id="aws_520dc4f7bac3bfee1fd2" codec="aac+" bitrate="64",HRT Radio Pula
-http://25693.live.streamtheworld.com/PULAAAC_SC
+http://25703.live.streamtheworld.com:3690/PULAAAC_SC
 #EXTINF:-1 station-id="awb_3088683e319c28d1f19e" stream-id="aws_6c6cff8d79269544f45e" codec="aac+" bitrate="64",HRT Radio Rijeka
 http://25643.live.streamtheworld.com:3690/RIJEKAAAC_SC
 #EXTINF:-1 station-id="awb_5755b023cb5e5f97e99d" stream-id="aws_01955b14e8a949abe306" codec="aac+" bitrate="64",HRT Radio Sljeme
@@ -202,13 +202,13 @@ https://stream.hkr.hr/hkr.mp3
 #EXTINF:-1 station-id="awb_00339c9f2c4f6654ce90" stream-id="aws_4691b9fbe56e1bb87114" codec="mp3" bitrate="128",Hrvatski katolicki radio
 https://stream.hkr.hr/hkr.mp3
 #EXTINF:-1 station-id="awb_14e290f35ce5dd5be75e" stream-id="aws_5de751476a60cf17db64" codec="mp3" bitrate="128",Hrvatski radio - Klasik
-http://22653.live.streamtheworld.com/HR_CLASSICS_SC
+http://27783.live.streamtheworld.com:3690/HR_CLASSICS_SC
 #EXTINF:-1 station-id="awb_9c00be13bf602eec653a" stream-id="aws_7297699c99b3d2785cfb" codec="aac+" bitrate="128",Hrvatski radio - Klasik (HRT)
-http://28933.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC
+http://28513.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC
 #EXTINF:-1 station-id="awb_d73a24d089c8ade19c37" stream-id="aws_b110ee2324b3b2d14241" codec="mp3" bitrate="128",Hrvatski radio - Pop glazba
-http://22653.live.streamtheworld.com:3690/HR_POP_SC
+http://29339.live.streamtheworld.com/HR_POP_SC
 #EXTINF:-1 station-id="awb_025ef04087547c3379c1" stream-id="aws_8075fce344a8130313aa" codec="mp3" bitrate="128",Hrvatski radio - Rock
-http://23623.live.streamtheworld.com/HR_ROCK_SC
+http://23623.live.streamtheworld.com:3690/HR_ROCK_SC
 #EXTINF:-1 station-id="awb_0d892ae3cc85403d2bc0" stream-id="aws_269b4aedfb58306c2468" codec="mp3" bitrate="128",Hrvatski Radio Čakovec d.o.o. Stream
 http://live.radio-cakovec.hr:7020/stream
 #EXTINF:-1 station-id="awb_d406a5efadba918a2688" stream-id="aws_73625c466e4abb89253d" codec="mp3" bitrate="128",Hrvatski radio Karlovac

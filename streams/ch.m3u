@@ -261,9 +261,7 @@ https://icecast.correctiv.net/sacharow
 https://listen.radioking.com/radio/453296/stream/508976
 #EXTINF:-1 station-id="awb_bf6fbf8bc948a7171c68" stream-id="aws_a7bcc6ea23ff81e19653" codec="mp3" bitrate="0",Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
-#EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_4a19fdd9a773510a75c5" codec="mp3" bitrate="128",Electrons Libres
-https://listen.radioking.com/radio/427889/stream/481499
-#EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_f365459e4c676b5ec178" codec="aac" bitrate="32",Electrons Libres
+#EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_f365459e4c676b5ec178" codec="aac+" bitrate="32",Electrons Libres
 https://listen.radioking.com/radio/427889/stream/481502
 #EXTINF:-1 station-id="awb_86b65c03f5ca93106e9e" stream-id="aws_ca56d53ec2da1ce6831c" codec="mp3" bitrate="0",electroradio.fm
 http://n05.radiojar.com/fkyxx4q35k0uv
@@ -627,7 +625,7 @@ https://livestream.lora.ch/lora.mp3
 https://livestream.lora.ch/lora.mp3
 #EXTINF:-1 station-id="awb_b2fff1ca93278930d424" stream-id="aws_42d2bce8cde0fad3c834" codec="aac+" bitrate="128",Radio Maria Switzerland
 http://dreamsiteradiocp.com:8020/stream
-#EXTINF:-1 station-id="awb_b2fff1ca93278930d424" stream-id="aws_76c318ed72021c4b65f0" codec="aac+" bitrate="128",RADIO MARIA SWITZERLAND
+#EXTINF:-1 station-id="awb_b2fff1ca93278930d424" stream-id="aws_76c318ed72021c4b65f0" codec="mp3" bitrate="128",RADIO MARIA SWITZERLAND
 http://dreamsiteradiocp2.com:8106/stream
 #EXTINF:-1 station-id="awb_240f17f84830c5d3be7b" stream-id="aws_90a261c433f80b1cb19a" codec="mp3" bitrate="192",Radio Maxxima
 https://maxxima.mine.nu/maxxima.mp3
@@ -679,7 +677,7 @@ http://stream.srg-ssr.ch/m/rr/mp3_128
 https://stream.radio-s.ch/stream
 #EXTINF:-1 station-id="awb_cf50d2d3d4317f01aae0" stream-id="aws_f84842076b2cb20cb5f5" codec="ogg" bitrate="0",Radio Schlagerpark
 https://radio.schlagerpark.com/
-#EXTINF:-1 station-id="awb_72ec32538d9ce96e3099" stream-id="aws_21b8f16c3b61bc2ccb02" codec="aac" bitrate="104",Radio SRF 1
+#EXTINF:-1 station-id="awb_72ec32538d9ce96e3099" stream-id="aws_21b8f16c3b61bc2ccb02" codec="aac" bitrate="96",Radio SRF 1
 http://stream.srg-ssr.ch/srgssr/srf1/aac/96
 #EXTINF:-1 station-id="awb_54df2185a568938bae4f" stream-id="aws_352c442eccdbfa1a33aa" codec="aac" bitrate="200",Radio SRF 1 (AAC 192)
 https://stream.srg-ssr.ch/srgssr/srf1/aac/192
@@ -693,7 +691,7 @@ http://stream.srg-ssr.ch/srgssr/regi_bs_bl/aac/96
 http://stream.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96
 #EXTINF:-1 station-id="awb_befe5cb887091830d42a" stream-id="aws_b4a767cff6953d8464d8" codec="aac" bitrate="96",Radio SRF 1 Bern Freiburg Wallis | 96k AAC+
 https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96
-#EXTINF:-1 station-id="awb_67f2ba9a96e5aac6e9c8" stream-id="aws_7d7788d8d3aa1d793d01" codec="aac" bitrate="96",Radio SRF 1 Graubünden | 32k AAC+
+#EXTINF:-1 station-id="awb_67f2ba9a96e5aac6e9c8" stream-id="aws_7d7788d8d3aa1d793d01" codec="aac" bitrate="104",Radio SRF 1 Graubünden | 32k AAC+
 https://stream.srg-ssr.ch/m/regi_gr/aacp_32
 #EXTINF:-1 station-id="awb_63aa0b8e38460d244ae8" stream-id="aws_6027d693dba4a6da2446" codec="aac" bitrate="96",Radio SRF 1 Graubünden | 96k AAC+
 https://stream.srg-ssr.ch/m/regi_gr/aacp_96
@@ -911,7 +909,7 @@ https://mp3.radiox.ch/standard.ogg
 http://listen.radioking.com/radio/81865/stream/161119
 #EXTINF:-1 station-id="awb_1dfde1d2704351e8c44f" stream-id="aws_a4ae6cdc8445f92758bc" codec="mp3" bitrate="128",RES FM
 https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
-#EXTINF:-1 station-id="awb_06468b7bca4f36af441b" stream-id="aws_a58932f03d3c8e1d0db7" codec="aac" bitrate="120",Rete Due | 32k AAC+
+#EXTINF:-1 station-id="awb_06468b7bca4f36af441b" stream-id="aws_a58932f03d3c8e1d0db7" codec="aac" bitrate="88",Rete Due | 32k AAC+
 https://stream.srg-ssr.ch/m/retedue/aacp_32
 #EXTINF:-1 station-id="awb_ae973d2fa8a72f8fe5d8" stream-id="aws_fa7ad5096431c7b10633" codec="aac" bitrate="128",Rete Tre | 32k AAC+
 https://stream.srg-ssr.ch/m/retetre/aacp_32
@@ -1033,7 +1031,7 @@ http://stream.srg-ssr.ch/m/drs4news/mp3_128
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
 #EXTINF:-1 station-id="awb_2900ac055136b0fa016d" stream-id="aws_b9424bc63260cdcba49e" codec="mp3" bitrate="128",SRF Virus
 http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
-#EXTINF:-1 station-id="awb_d66ec7579f27284418f7" stream-id="aws_ff7000da09cc288e513e" codec="aac" bitrate="104",SRF1 Radio
+#EXTINF:-1 station-id="awb_d66ec7579f27284418f7" stream-id="aws_ff7000da09cc288e513e" codec="aac" bitrate="96",SRF1 Radio
 http://stream.srg-ssr.ch/srgssr/srf1/aac/96
 #EXTINF:-1 station-id="awb_b5a7443721cf449914fd" stream-id="aws_1a662ccb19f7b60bbbde" codec="aac" bitrate="88",SRF1 Regionaljournal Aargau Solothurn
 http://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/96

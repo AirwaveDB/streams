@@ -77,7 +77,7 @@ http://stream.europeanhitradio.com:8000/Stream_31.aac
 https://stream.ehrhiti.lv:8000/Stream_14.aac
 #EXTINF:-1 station-id="awb_58e0ad4fe3b3f28c1418" stream-id="aws_9c22840b86552c985ce7" codec="aac+" bitrate="96",European Hit Radio - Fresh
 http://stream.europeanhitradio.com:8000/Stream_25.aac
-#EXTINF:-1 station-id="awb_92b96caef52c550dfabd" stream-id="aws_f80a0277c292d77beebf" codec="" bitrate="0",European Hit Radio - KOOL hits
+#EXTINF:-1 station-id="awb_92b96caef52c550dfabd" stream-id="aws_f80a0277c292d77beebf" codec="aac+" bitrate="96",European Hit Radio - KOOL hits
 https://25583.live.streamtheworld.com/EHR_KOOLAAC.aac
 #EXTINF:-1 station-id="awb_a47055c0b5981213c36a" stream-id="aws_b1b39c79b92ddab283ff" codec="aac+" bitrate="96",European Hit Radio - Latviešu Hiti
 http://stream.europeanhitradio.com:8000/Stream_22.aac
@@ -189,12 +189,12 @@ http://stream.radio7.lv:8024/Radio7
 https://listen.radio7.lv:2053/Radio7
 #EXTINF:-1 station-id="awb_523c4d8f06e076032c7b" stream-id="aws_864ffa752bbf76071eef" codec="mp3" bitrate="192",Radio Energy - Hit Music Radio
 http://radioenergy.lv:8000/;stream.mp3
-#EXTINF:-1 station-id="awb_13c282ba96aaa29e9fb1" stream-id="aws_bce7336634d5a52f754b" codec="" bitrate="0",Radio Energy - Russian Radio
+#EXTINF:-1 station-id="awb_13c282ba96aaa29e9fb1" stream-id="aws_bce7336634d5a52f754b" codec="mp3" bitrate="192",Radio Energy - Russian Radio
 http://radioenergy.lv:9000/;stream.mp3
 #EXTINF:-1 station-id="awb_e5e249bf5e349c22ff3c" stream-id="aws_a98203c0425a40e50808" codec="mp3" bitrate="192",Radio ENERGY.LV
 http://radio1.radioenergy.lv:8000/
 #EXTINF:-1 station-id="awb_0e74552febe95ab90b45" stream-id="aws_ac3b32efbc4d024fb8bf" codec="mp3" bitrate="192",Radio ENERGY.LV - Russian
-http://radio2.radioenergy.lv:9000/
+http://radio1.radioenergy.lv:8000/
 #EXTINF:-1 station-id="awb_68e1bdd83d844176bf86" stream-id="aws_49ecef382ef387e0d7a6" codec="mp4" bitrate="128000",Radio Liepāja
 https://stream.radioliepaja.lv/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_b1c179477c195f6b3f9a" stream-id="aws_0dd816d221a65ac36c9f" codec="mp3" bitrate="192",RADIO MARIA LATVIA
@@ -319,7 +319,7 @@ https://my.radioprocessor.com:8100/avtoradiolv-forthoseonthego-48.aac
 https://my.radioprocessor.com:8100/avtoradiolv-cinemaussr-48.aacp
 #EXTINF:-1 station-id="awb_df9100d429102fa80189" stream-id="aws_561abdc861efca7e74e1" codec="aac" bitrate="96",Авторадио Латвия
 https://live.relaxfm.lv/03
-#EXTINF:-1 station-id="awb_fdce13998dcd979d732e" stream-id="aws_8414dbb1cc62b761a258" codec="" bitrate="0",Авторадио на Бис
+#EXTINF:-1 station-id="awb_fdce13998dcd979d732e" stream-id="aws_8414dbb1cc62b761a258" codec="aac" bitrate="48",Авторадио на Бис
 https://my.radioprocessor.com:8100/avtoradiolv-encore-48.aac
 #EXTINF:-1 station-id="awb_7a1e3d7e68f027037e7f" stream-id="aws_58f89bbac473e1e3466e" codec="aac" bitrate="48",Авторадио Ностальгия
 http://my.radioprocessor.com:8100/avtoradiolv-nostalgia-48.aac

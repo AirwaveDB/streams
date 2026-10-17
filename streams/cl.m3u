@@ -113,10 +113,6 @@ https://sonic.portalfoxmix.club/8046/stream
 https://listen2.myradio24.com/8795?f8f9356c
 #EXTINF:-1 station-id="awb_68a0ddd1857602f0f5c8" stream-id="aws_18c9caaae738ba429a96" codec="ogg" bitrate="0",City Radio FLAC
 http://cityradio.ddns.net:8000/cityradio48flac
-#EXTINF:-1 station-id="awb_ee3d40ecb3c5c7de2517" stream-id="aws_68044219861a3554b315" codec="ogg" bitrate="0",City Radio POP
-http://cityradio.ddns.net:8000/citypop
-#EXTINF:-1 station-id="awb_71a67688989e97b5785e" stream-id="aws_82170fff17d59d083e81" codec="ogg" bitrate="0",City Radio POP - Chile
-http://cityradio.ddns.net:8000/citypop
 #EXTINF:-1 station-id="awb_10123d8f3389c336ed29" stream-id="aws_ba4aef7dcebdfbaa6c06" codec="ogg" bitrate="0",City Radio Smooth and Jazz
 http://cityradio.ddns.net:8000/cityradio48flac
 #EXTINF:-1 station-id="awb_1094ef27ba7a2629f0b5" stream-id="aws_2765385fbc4fee4e710c" codec="ogg" bitrate="0",CITYRADIO - CHILE
@@ -255,7 +251,7 @@ https://live-audio-lite-1.digitalproserver.com/proxy/foreverclassic/foreverclass
 http://audio.streaminghd.cl:9206/stream
 #EXTINF:-1 station-id="awb_d1f5fb4637d17beb3c4a" stream-id="aws_da2ed52e9d6b8ed2a0d9" codec="mp3" bitrate="160",Frecuencia Rock 95.3
 http://audio.streaminghd.cl:9206/stream
-#EXTINF:-1 station-id="awb_bd1dd32f7749f39b5d1b" stream-id="aws_8c4858059dcf6fe1f95e" codec="aac+" bitrate="80",Frecuencia Tropical FM
+#EXTINF:-1 station-id="awb_bd1dd32f7749f39b5d1b" stream-id="aws_8c4858059dcf6fe1f95e" codec="aac+" bitrate="72",Frecuencia Tropical FM
 https://sonic.portalfoxmix.cl/8236/stream
 #EXTINF:-1 station-id="awb_c39b934593e2b0063620" stream-id="aws_955eadf4edcfd8377a0d" codec="aac+" bitrate="56",Futuro
 http://23243.live.streamtheworld.com:3690/FUTUROAAC_SC
@@ -357,13 +353,15 @@ https://stream.polarhost.cl/MediosUnidos
 https://audio1.tustreaming.cl/9020/stream
 #EXTINF:-1 station-id="awb_875e22972583bcc4fb1b" stream-id="aws_1ddc22879ae02607107a" codec="aac+" bitrate="64",Mi Radio
 https://audio2.tustreaming.cl/9020/stream
+#EXTINF:-1 station-id="awb_06c7f24fd2f5a7952178" stream-id="aws_2e1a7bcd02c9a196f5c9" codec="mp3" bitrate="128",Mi Radio La Serena
+https://audio0.tustreaming.cl/7540/stream
 #EXTINF:-1 station-id="awb_0d16f0c0cb900906f2ba" stream-id="aws_703b5dea0c1b30a9c72f" codec="aac" bitrate="128",Millenium Radio Network
 https://centova.neonetwork.cl:9030/stream.aac
 #EXTINF:-1 station-id="awb_34cc18be28513a21517e" stream-id="aws_b3d989d70d5a81212cd1" codec="aac" bitrate="40",Motiva
 https://radiomotiva.edz.cl/motiva
 #EXTINF:-1 station-id="awb_308acb3646183b4447f3" stream-id="aws_6f26627f9b96faf23cf2" codec="aac" bitrate="32",Motiva2
 https://radiomotiva.edz.cl/motiva2
-#EXTINF:-1 station-id="awb_f9229e4151f465f68ae5" stream-id="aws_b2dc244152891f0bbaed" codec="mp3" bitrate="320",Musicoop
+#EXTINF:-1 station-id="awb_f9229e4151f465f68ae5" stream-id="aws_b2dc244152891f0bbaed" codec="aac+" bitrate="128",Musicoop
 https://sonic.portalfoxmix.club/8486/stream
 #EXTINF:-1 station-id="awb_c2ffa87fcbfa440367d9" stream-id="aws_57fd1eecc02ee29d3825" codec="mp3" bitrate="128",MyTuner 90s
 https://stream.zeno.fm/vtzf1dppgxiuv
@@ -442,7 +440,7 @@ http://stream.zeno.fm/pvs6hqz3crtvv
 #EXTINF:-1 station-id="awb_27861dd63d4774c5af57" stream-id="aws_11ef4c8490b1a537ee1f" codec="mp3" bitrate="128",RADIO ACTIVA 92.5.
 http://stream.zeno.fm/pvs6hqz3crtvv
 #EXTINF:-1 station-id="awb_534d7d569c0fa04056e4" stream-id="aws_1f17def25956755a1408" codec="aac+" bitrate="56",Radio ADN
-http://14073.live.streamtheworld.com:3690/ADNAAC_SC
+http://24493.live.streamtheworld.com/ADNAAC_SC
 #EXTINF:-1 station-id="awb_b8eb33bfa4398207af99" stream-id="aws_b27b100b8c90f32b8345" codec="aac" bitrate="128",Radio Agricultura
 https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 station-id="awb_72ef9268df7479f8d5d7" stream-id="aws_082eaac00645f78fa4ad" codec="mp3" bitrate="128",Radio Alas de Águilas 107.5 FM
@@ -691,6 +689,8 @@ https://jm8n.com/proxy/radiofmlatina/stream
 https://sonicstream-puntual.grupozgh.cl/8040/radioua
 #EXTINF:-1 station-id="awb_a0588fbcf2c64f67a03d" stream-id="aws_fc8d19b7f02638319206" codec="mp3" bitrate="192",Radio Futuro
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
+#EXTINF:-1 station-id="awb_95213851d3ac3dfdfe94" stream-id="aws_240fa1a1066eafb11bd0" codec="aac+" bitrate="56",Radio Futuro FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac
 #EXTINF:-1 station-id="awb_3733df377787fffab893" stream-id="aws_230e557bea9ea69d9a6b" codec="mp3" bitrate="192",Radio Fututo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
 #EXTINF:-1 station-id="awb_08e6e53d354f69302b40" stream-id="aws_b81ffba3b90a1a1086e9" codec="mp3" bitrate="320",Radio Gabriela
@@ -902,7 +902,7 @@ https://archi-us.digitalproserver.com/santa-maria-am.aac
 #EXTINF:-1 station-id="awb_fb8d1a8942d83bb074ef" stream-id="aws_49251eb037655e1fac3f" codec="mp3" bitrate="320",Radio Sembrador
 https://sonic.portalfoxmix.cl/9884/stream
 #EXTINF:-1 station-id="awb_04bd0b07acb1f3ac8a0b" stream-id="aws_bcbd705a1e36f0de4072" codec="mp3" bitrate="128",Radio Sinfónica
-https://stream-177.surfernetwork.com/9wzpfshiu2nvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5d3pwZnNoaXUybnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikd2Q3QzTVNQUnZtSGlaWmpQN05zalEiLCJpYXQiOjE3OTE3NzgwNzksImV4cCI6MTc5MTc3ODEzOX0.aW_DBS5GxOWgk5C_dPaWLXYb4VHy08KpVR3P9aAYuhE
+https://stream-177.surfernetwork.com/9wzpfshiu2nvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5d3pwZnNoaXUybnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im82OWNMWWc5U0QyeVJ2ei1GNGp0eEEiLCJpYXQiOjE3OTIyMTE1MDIsImV4cCI6MTc5MjIxMTU2Mn0.x01Qnijzm9spDPGlMCECU9dgnUH0DIDZ5KJ-JvlJa_I
 #EXTINF:-1 station-id="awb_6c5473bc556e63fe2ec2" stream-id="aws_89dc35c341d5954af81d" codec="mp3" bitrate="128",RADIO SOL
 https://us9.maindigitalstream.com/ssl/7389
 #EXTINF:-1 station-id="awb_40b632bec83bdfd1cbda" stream-id="aws_de754df303f02a632b39" codec="mp3" bitrate="128",Radio Sol 97.7
@@ -917,7 +917,7 @@ https://sonic-us.fhost.cl/8366/stream
 https://sonicstream-puntual.grupozgh.cl:7014/stream
 #EXTINF:-1 station-id="awb_815701f97585b4374f9f" stream-id="aws_5d46f30d9c9d43b0b4c0" codec="mp3" bitrate="128",Radio Sur Valdivia
 https://audio.divalstream.com/8026/stream
-#EXTINF:-1 station-id="awb_9d790fb50b7b3498d620" stream-id="aws_10ee05d69ce9eede8bef" codec="mp3" bitrate="128",Radio Tapihue 107.7 FM
+#EXTINF:-1 station-id="awb_9d790fb50b7b3498d620" stream-id="aws_10ee05d69ce9eede8bef" codec="mp3" bitrate="160",Radio Tapihue 107.7 FM
 https://stream.zeno.fm/kt0wcc9rqwzuv?amb-uid=4601098318750674809&an-uid=0&aw_0_req_lsid=8b70f06538ffd40cf639452369ae9c59&dot-uid=0aca2203006e4e28b6efd6b8&dyn-uid=1496550315181718955&triton-uid=
 #EXTINF:-1 station-id="awb_d3c4e2e625b42352c4f4" stream-id="aws_882ed088787c44fa158e" codec="aac" bitrate="192",Radio Techno Chile
 https://stream.zeno.fm/lsiyqroai88uv
@@ -977,6 +977,8 @@ https://server01.heplayer.com/9390/stream
 https://neondex.cl/listen/radio_vision/radio.mp3
 #EXTINF:-1 station-id="awb_4be69e0083e1d29310f6" stream-id="aws_61e0d1f067ef7a4143e2" codec="aac+" bitrate="40",Radio XQA5
 https://archi-us.digitalproserver.com/xqa-5.aac
+#EXTINF:-1 station-id="awb_15c4ef65362a7a093390" stream-id="aws_326c719663398ed273e0" codec="mp3" bitrate="128",Radio Z
+http://panelradio.stream:8560/mp3_live
 #EXTINF:-1 station-id="awb_d206b04259ac9d50cbe8" stream-id="aws_2fc6dfdf75e003294f22" codec="mp3" bitrate="128",Radioactiva
 http://23243.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 station-id="awb_3927e190ff149da3eabe" stream-id="aws_61970aae8ce5a2019c12" codec="aac+" bitrate="56",Radioactiva 92.5 FM
@@ -1007,8 +1009,6 @@ https://sonic.portalfoxmix.club/8160/stream
 http://149.56.241.149:8134/;
 #EXTINF:-1 station-id="awb_f5181bb2ee5d6b193274" stream-id="aws_f114ad9bf9f04f37ae09" codec="aac+" bitrate="192",Retro Clásicos Radio
 https://streamtotal.net/proxy/oajaime/stream
-#EXTINF:-1 station-id="awb_f279c6236f25d15f4bdc" stream-id="aws_64a79d3c0a287c12eec0" codec="aac,h.264" bitrate="2158",Retro Plus Señal 1
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_0c41f052ddcf2a470293" stream-id="aws_a1b532f1f9a777a5538d" codec="aac,h.264" bitrate="1998",Retro Plus Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_b4d7f957d162f6d65758" stream-id="aws_98868af5e1790584b8b0" codec="mp3" bitrate="128",Retro Radio 80 & 90
@@ -1039,7 +1039,7 @@ https://stream-290.surfernetwork.com/aaxwtg4w6x1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://sp001.servidoresph.com:8086/;
 #EXTINF:-1 station-id="awb_37861eac78ede8e41a6c" stream-id="aws_f335a652ebcbd3ea971f" codec="aac+" bitrate="56",Rock&Pop Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC
-#EXTINF:-1 station-id="awb_caba91fa36986b67f6c4" stream-id="aws_48b2e7c0bf81bca82c1b" codec="aac" bitrate="112",Rockaxis Radio
+#EXTINF:-1 station-id="awb_caba91fa36986b67f6c4" stream-id="aws_48b2e7c0bf81bca82c1b" codec="aac" bitrate="109",Rockaxis Radio
 https://cl-a9-p-e-pt11-audio.cdn.mdstrm.com/live-audio/5c0efabde4c87f3f2d3e8036/5de7fdb07e2fde0798203821/playlist.m3u8?aid=5c0efabde4c87f3f2d3e8036&pid=y17ljD0047v09HO15qERoDg1IHF4CMPc&sid=idOANFonoPKF755oWzoId1suQeSvQFai&uid=5bO0dwJoxlycdbJSRZf6jhlZ1cuSVVAK&es=cl-a9-p-e-pt11-audio.cdn.mdstrm.com&ote=1770300062726&ot=-zwH-pCa0tfwVqKtapOryA&proto=https&pz=us&cP=128000
 #EXTINF:-1 station-id="awb_a70d50eed3f531ce335f" stream-id="aws_46b3b8e5bd50adb4ace2" codec="aac" bitrate="128",Romántica Chile
 https://stream.zeno.fm/mb5l1xfyu7yuv
