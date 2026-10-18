@@ -3,8 +3,8 @@
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_6285ba99fe2d645033d5" stream-id="aws_139c5255fe1059f0088c" codec="aac" bitrate="128",24Dubstep.pl || CalmFlow
 https://stream.24dubstep.pl/listen/chillstep/mp3_normal
-#EXTINF:-1 station-id="awb_bbf6888304feeb39a184" stream-id="aws_1855e92cd909a8b7ecb2" codec="ogg" bitrate="128",24Dubstep.pl || DropZone Radio
-https://stream.24dubstep.pl/listen/dubstep/hifi
+#EXTINF:-1 station-id="awb_bbf6888304feeb39a184" stream-id="aws_1855e92cd909a8b7ecb2" codec="aac" bitrate="128",24Dubstep.pl || DropZone Radio
+https://stream.24dubstep.pl/listen/dubstep/mp3_normal
 #EXTINF:-1 station-id="awb_bbf6888304feeb39a184" stream-id="aws_9016483b92e4a925ebd7" codec="aac" bitrate="128",24Dubstep.pl || DropZone Radio
 https://stream.24dubstep.pl/radio/8000/mp3_normal
 #EXTINF:-1 station-id="awb_57814e5f9df50c1474ba" stream-id="aws_d223b31d9b0beca35c26" codec="aac" bitrate="128",357
@@ -133,7 +133,7 @@ https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3
 https://sc.cyberstacja.pl:8000/radio.mp3
 #EXTINF:-1 station-id="awb_02c971fd71a7b8aaeddb" stream-id="aws_40fa3dc95d19cd5491e7" codec="mp3" bitrate="96",Damismania Dj Radio
 http://s1.slotex.pl:7512/
-#EXTINF:-1 station-id="awb_2908afc3cb40731fbf0d" stream-id="aws_8ac967856b11ae0d536e" codec="mp3" bitrate="96",DanisMania DJ Radio
+#EXTINF:-1 station-id="awb_2908afc3cb40731fbf0d" stream-id="aws_8ac967856b11ae0d536e" codec="mp3" bitrate="128",DanisMania DJ Radio
 https://s1.slotex.pl/shoutcast/7512/stream
 #EXTINF:-1 station-id="awb_09660316ee82c1d882c1" stream-id="aws_565dd5fff4a6777a23ee" codec="mp3" bitrate="128",Disco Party - Lata 90.
 https://s3.slotex.pl:7170/stream
@@ -211,12 +211,12 @@ https://ic2.smcdn.pl/2130-1.mp3
 http://ic1.smcdn.pl/6250-1.mp3
 #EXTINF:-1 station-id="awb_4dcacda9347847577e42" stream-id="aws_4b281d67cdb2036a8d2b" codec="mp3" bitrate="128",ESKA Ostrzeszów
 https://waw.ic.smcdn.pl/2500-1.mp3
-#EXTINF:-1 station-id="awb_d414216c9835a094231c" stream-id="aws_b9906ec2e781094f6fde" codec="aac+" bitrate="64",Eska Płock
-http://ic2.smcdn.pl/2250-1.aac
+#EXTINF:-1 station-id="awb_d414216c9835a094231c" stream-id="aws_b9906ec2e781094f6fde" codec="mp3" bitrate="128",Eska Płock
+http://ic1.smcdn.pl/2250-1.mp3
 #EXTINF:-1 station-id="awb_99bcfb135f8f1cd80afa" stream-id="aws_cf8dce230aac29f89228" codec="aac+" bitrate="64",ESKA POZNAŃ
 https://ic2.smcdn.pl/2140-1.aac
 #EXTINF:-1 station-id="awb_2ed0263ef97686da4c11" stream-id="aws_9407c90ab5ada1c44559" codec="mp3" bitrate="0",ESKA ROCK
-http://n09-eu.rcs.revma.com/1nnezw8qz7zuv
+http://n05-eu3.rcs.revma.com/1nnezw8qz7zuv
 #EXTINF:-1 station-id="awb_2ed0263ef97686da4c11" stream-id="aws_efc3f24d6fce4862031f" codec="mp3" bitrate="128",ESKA ROCK
 https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
 #EXTINF:-1 station-id="awb_c029a523a3b97b936b41" stream-id="aws_37493dae585663ae626b" codec="aac+" bitrate="64",Eska Suwalki
@@ -505,7 +505,7 @@ https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
 https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_c0a4ec823f8b233e40ab" stream-id="aws_78eb1413b0242d29a632" codec="mp3" bitrate="128",Polskie Radio Dla Zagranicy
 http://stream3.polskieradio.pl:8908/
-#EXTINF:-1 station-id="awb_163187d7595a77f26deb" stream-id="aws_6eea357b1e2bd4448b42" codec="aac" bitrate="194",Polskie Radio Dzieciom
+#EXTINF:-1 station-id="awb_163187d7595a77f26deb" stream-id="aws_6eea357b1e2bd4448b42" codec="aac" bitrate="195",Polskie Radio Dzieciom
 https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
 #EXTINF:-1 station-id="awb_68f69d5ee90f1299a746" stream-id="aws_8e915fdfa22efa3163df" codec="mp3" bitrate="128",Polskie Radio Gdańsk
 http://stream.task.gda.pl:8000/rg1
@@ -655,8 +655,8 @@ http://62.93.41.27:8000/;stream/1
 http://stream3.polskieradio.pl:8910/
 #EXTINF:-1 station-id="awb_94d4f351b9b493b1b095" stream-id="aws_e2340059a8f2e9749d85" codec="mp3" bitrate="128",Radio Chrystusa Króla
 http://radiochrystusakrola.pl:8080/;stream.mp3
-#EXTINF:-1 station-id="awb_6b2962283889a7853aae" stream-id="aws_09d987d1fdf5269a62e8" codec="aac+" bitrate="64",Radio Chrześcijanin
-http://s1.slotex.pl:7002/mountpoint
+#EXTINF:-1 station-id="awb_6b2962283889a7853aae" stream-id="aws_09d987d1fdf5269a62e8" codec="mp3" bitrate="128",Radio Chrześcijanin
+https://stream20.hosterion.pl:8588/mountpoint
 #EXTINF:-1 station-id="awb_9571fa04492706d6b676" stream-id="aws_a31f80202f72a6e76db9" codec="aac+" bitrate="64",Radio Chrzescijanin - 2
 http://s1.slotex.pl:7002/;
 #EXTINF:-1 station-id="awb_7745b0a2d33a0c019f06" stream-id="aws_4f4471b825c5942c872c" codec="aac+" bitrate="64",Radio Chrześcijanin (Jakość dźwięku (MP3))
@@ -673,11 +673,11 @@ http://4stream.pl:18272/stream
 https://s1.slotex.pl/shoutcast/7474/stream
 #EXTINF:-1 station-id="awb_c8a0306da88b5c6a87e0" stream-id="aws_ab12cfc687511b8d8208" codec="mp3" bitrate="128",Radio Danielka
 http://s3.slotex.pl:7088/
-#EXTINF:-1 station-id="awb_d756504840d4aa0ed067" stream-id="aws_bc90152e68666d4de70f" codec="aac+" bitrate="192",Radio DHT (kanał drugi)
+#EXTINF:-1 station-id="awb_d756504840d4aa0ed067" stream-id="aws_bc90152e68666d4de70f" codec="aac+" bitrate="208",Radio DHT (kanał drugi)
 http://maggie.torontocast.com:8100/stream/3/
 #EXTINF:-1 station-id="awb_5fafbf4bf6d4718ea6b1" stream-id="aws_ab119e92d5b36b6fad0f" codec="aac+" bitrate="192",Radio DHT (kanał główny)
 https://radiodht.com/stream_main/
-#EXTINF:-1 station-id="awb_9182953ab02393f59d73" stream-id="aws_b87ef274dcb1bb033b25" codec="aac+" bitrate="256",Radio DHT (Pepis)
+#EXTINF:-1 station-id="awb_9182953ab02393f59d73" stream-id="aws_b87ef274dcb1bb033b25" codec="aac+" bitrate="28",Radio DHT (Pepis)
 https://radiodht.com/stream_pepis/
 #EXTINF:-1 station-id="awb_f3833b776a285dbea98a" stream-id="aws_5b8e084b88ac0f47ac8a" codec="mp3" bitrate="128",Radio Dimash
 http://radiodimash.stream.laut.fm:8080/radiodimash
@@ -705,7 +705,7 @@ https://streamhls.radiodzwiek.slask.pl/dzwiek
 https://streamhls.radiodzwiek.slask.pl/dzwiek
 #EXTINF:-1 station-id="awb_60d8b6edca6fb7840dbf" stream-id="aws_8e8111aee92c405e537f" codec="mp3" bitrate="320",Radio Dzwiek
 https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3
-#EXTINF:-1 station-id="awb_60d8b6edca6fb7840dbf" stream-id="aws_0fee6b2680cda504f8fa" codec="aac" bitrate="256",Radio Dzwiek
+#EXTINF:-1 station-id="awb_60d8b6edca6fb7840dbf" stream-id="aws_0fee6b2680cda504f8fa" codec="aac" bitrate="248",Radio Dzwiek
 https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8
 #EXTINF:-1 station-id="awb_60d8b6edca6fb7840dbf" stream-id="aws_1f47e8f8c45254a2e234" codec="aac" bitrate="120",Radio Dzwiek
 https://streamhls.radiodzwiek.slask.pl/dzwiek128
@@ -1089,10 +1089,10 @@ http://stream.radiopik.pl:9004/
 http://stream.radioplonsk.pl:9360/
 #EXTINF:-1 station-id="awb_34d31d1cad1f258244e3" stream-id="aws_7693a7bb78b06ab98d7c" codec="mp3" bitrate="128",RADIO PLUS
 http://ic1.smcdn.pl/4990-1.mp3
-#EXTINF:-1 station-id="awb_b09cd24c57fc53748562" stream-id="aws_237e238221d9eb5e7b31" codec="mp3" bitrate="128",radio plus
-http://plus-warszawa-01.eurozet.pl:8500/listen.pls
 #EXTINF:-1 station-id="awb_1e9f831bffdee06227b7" stream-id="aws_9a5be0ede119e285e795" codec="aac+" bitrate="64",Radio Plus
 http://waw.ic.smcdn.pl/4990-1.aac
+#EXTINF:-1 station-id="awb_b09cd24c57fc53748562" stream-id="aws_237e238221d9eb5e7b31" codec="mp3" bitrate="128",radio plus
+https://pl.cdn.eurozet.pl/plu-waw.mp3
 #EXTINF:-1 station-id="awb_1e9f831bffdee06227b7" stream-id="aws_cc56b08182381ea41765" codec="mp3" bitrate="128",Radio Plus
 https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02
 #EXTINF:-1 station-id="awb_1ea6cfc6f74c327c075a" stream-id="aws_8b8ee8773cfaf7560ef1" codec="mp3" bitrate="128",Radio Plus 106.1 Kraków
@@ -1170,7 +1170,7 @@ https://rs202-krk-cyfronet.rmfstream.pl/rmf_classic
 #EXTINF:-1 station-id="awb_d3a2334b5687117e27ad" stream-id="aws_ef62b0137e808fe144c3" codec="mp3" bitrate="128",Radio Rmf Fm
 http://195.150.20.7/rmf_fm
 #EXTINF:-1 station-id="awb_bc3f90b9739e47543bcc" stream-id="aws_14ee625405d56c42b2ab" codec="mp3" bitrate="128",Radio RMF FM
-https://rs201-krk.rmfstream.pl/rmf_fm
+https://rs102-krk.rmfstream.pl/rmf_fm
 #EXTINF:-1 station-id="awb_bc3f90b9739e47543bcc" stream-id="aws_b63a30286bfb6c73fd6c" codec="mp3" bitrate="128",Radio RMF FM
 https://rs203-krk-cyfronet.rmfstream.pl/rmf_fm
 #EXTINF:-1 station-id="awb_98c913864343b5089960" stream-id="aws_3697d55aae1832c213c8" codec="aac+" bitrate="64",Radio RMF Hard and Heavy
@@ -1207,6 +1207,8 @@ https://stream.radiosar.pl/hdmain.mp3
 https://s1.slotex.pl/shoutcast/7434/stream
 #EXTINF:-1 station-id="awb_80e55d0cb0414b85a207" stream-id="aws_0c9cb3d6e8be2dcbc3f3" codec="mp3" bitrate="128",Radio Sekret
 https://s1.slotex.pl/shoutcast/7556/stream
+#EXTINF:-1 station-id="awb_7397a9e0ec35a619956c" stream-id="aws_a895716c98fc3b5474bb" codec="mp3" bitrate="128",Radio Sfera
+http://158.75.34.231:8000/sfera.mp3
 #EXTINF:-1 station-id="awb_0c173d5d7cc81af4d1f7" stream-id="aws_5646f1fd713f9c6090da" codec="mp3" bitrate="128",Radio Sierpc
 https://ssl-1.radiohost.pl:10700/stream
 #EXTINF:-1 station-id="awb_4e95bfabfa56a8938a3a" stream-id="aws_5ee68432e65c2ca696a6" codec="mp3" bitrate="128",Radio Silesia
@@ -1251,8 +1253,6 @@ http://stream2.nadaje.com:8012/
 http://ic1.smcdn.pl/6260-1.mp3
 #EXTINF:-1 station-id="awb_9ef59e24957ef1aaab80" stream-id="aws_4b7db29a26a7927f3371" codec="mp3" bitrate="192",Radio Super FM 97,5 FM - Szczecin
 https://stream.super.fm:8443/superfm.mp3?1703660705890
-#EXTINF:-1 station-id="awb_d191593c0ddd354a8bed" stream-id="aws_2686e76211dedb9180b9" codec="aac" bitrate="0",Radio Świnoujście
-http://185.243.52.116:8010/stream
 #EXTINF:-1 station-id="awb_4d8a979e3357c127e9bb" stream-id="aws_f9352924fea00b92d44d" codec="mp3" bitrate="0",Radio Synteza
 https://stream.radio-synteza.pl/synteza
 #EXTINF:-1 station-id="awb_8e0aff90c696d4fc55b3" stream-id="aws_69f76f357c70896d02b7" codec="mp3" bitrate="128",Radio Szczecin (128K MP3)
@@ -1309,7 +1309,7 @@ http://51.255.8.139:8380/stream
 https://s3.slotex.pl:7082/stream
 #EXTINF:-1 station-id="awb_9aa6860095b0a5114373" stream-id="aws_77afbab905639594a560" codec="mp3" bitrate="0",RADIO WIELKOPOLSKA
 http://217.182.76.63:8000/webstream
-#EXTINF:-1 station-id="awb_5eb773a1592925d1a58e" stream-id="aws_0c7ba76bbb3f579d5de2" codec="mp3" bitrate="128",Radio Wnet
+#EXTINF:-1 station-id="awb_5eb773a1592925d1a58e" stream-id="aws_0c7ba76bbb3f579d5de2" codec="mp3" bitrate="0",Radio Wnet
 http://audio.radiownet.pl:8000/stream
 #EXTINF:-1 station-id="awb_656b2e9fb307c3127ef6" stream-id="aws_df74f37efd68c4323820" codec="mp3" bitrate="160",Radio WNET
 https://media.wnet.fm/wnet.fm
@@ -1369,8 +1369,6 @@ https://s3.slotex.pl/shoutcast/7166/stream?sid=1
 http://stream4.nadaje.com:8052/
 #EXTINF:-1 station-id="awb_5369953a2c66a71072b0" stream-id="aws_27614d08f453b8cb5d38" codec="mp3" bitrate="128",Radio Zodiak
 https://fire.doscast.com:8084/stream
-#EXTINF:-1 station-id="awb_5369953a2c66a71072b0" stream-id="aws_139a50f6962f23463d5a" codec="mp3" bitrate="128",Radio Zodiak
-https://fire.doscast.com/8084/stream
 #EXTINF:-1 station-id="awb_e4aa26ccfb7e90d80d48" stream-id="aws_3ff031ae97e7fa1db754" codec="mp3" bitrate="0",Radio Żuławy
 https://stream.radiojar.com/q87xmtvrrg8uv
 #EXTINF:-1 station-id="awb_3bc7c9b23f60ce8f3102" stream-id="aws_b6ea9b9de4628d0d2af5" codec="aac+" bitrate="64",Radio ZW
@@ -1393,7 +1391,7 @@ https://play.radiofest.pl:8443/fest
 https://stream.radioff.com/stream.mp3
 #EXTINF:-1 station-id="awb_b08969ed0d1a376d1958" stream-id="aws_ea53ec752e2fee01ce46" codec="mp3" bitrate="256",radiokultura.pl
 http://51.255.8.139:9772/
-#EXTINF:-1 station-id="awb_53eb2f356852a5d438c3" stream-id="aws_c7100b4aa61de508a176" codec="mp3" bitrate="0",Radioparty.pl
+#EXTINF:-1 station-id="awb_53eb2f356852a5d438c3" stream-id="aws_c7100b4aa61de508a176" codec="mp3" bitrate="128",Radioparty.pl
 http://s7.radioparty.pl:8000/
 #EXTINF:-1 station-id="awb_864e45fe17f9f0d94d55" stream-id="aws_921ae3aba2457afcb365" codec="aac+" bitrate="0",Radioparty.pl ACC+
 http://s2.radioparty.pl:7000/stream64aac
@@ -1460,7 +1458,7 @@ http://31.192.216.7/2000
 #EXTINF:-1 station-id="awb_16322bcf6f5cb11fcbe5" stream-id="aws_4b3199c0024275fb6a54" codec="aac+" bitrate="64",RMF 2000 + FAKTY
 http://31.192.216.7/2000F
 #EXTINF:-1 station-id="awb_8d99c87cbc7f4344e5f8" stream-id="aws_6c42f6454d354fc0c75a" codec="mp3" bitrate="128",RMF 4 Dance & RNB
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_4
+https://rs101-krk.rmfstream.pl/rmf_4
 #EXTINF:-1 station-id="awb_8d99c87cbc7f4344e5f8" stream-id="aws_21f97f6008c10ef33b17" codec="mp3" bitrate="128",RMF 4 DANCE & RNB
 https://rs6-krk2.rmfstream.pl/rmf_4
 #EXTINF:-1 station-id="awb_0b0fcc2c007cd2d085d5" stream-id="aws_95e799a14ca6922898f1" codec="aac+" bitrate="64",RMF 5 Lagodne Przeboje
@@ -1482,7 +1480,7 @@ http://195.150.20.9/80SF
 #EXTINF:-1 station-id="awb_3e293e3953435e79cdac" stream-id="aws_ee86898eca96382e173a" codec="aac+" bitrate="64",RMF 80s Disco
 http://195.150.20.9/80SDISCO
 #EXTINF:-1 station-id="awb_3e293e3953435e79cdac" stream-id="aws_fb3ccbdd032a3dc9d761" codec="mp3" bitrate="128",RMF 80s disco
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_80s_disco
+https://rs102-krk.rmfstream.pl/rmf_80s_disco
 #EXTINF:-1 station-id="awb_212674385bf0c8d0799b" stream-id="aws_6e82270ca0f4a0597641" codec="aac+" bitrate="64",RMF 80s Disco + FAKTY
 http://195.150.20.9/80SDISCOF
 #EXTINF:-1 station-id="awb_513ba9941e0b57325210" stream-id="aws_3d60a2cfccf351ee4e70" codec="aac+" bitrate="64",RMF 90s
@@ -1502,7 +1500,7 @@ http://195.150.20.7/ALTERNATYWAF
 #EXTINF:-1 station-id="awb_51d5a08d238c8ca6d4d1" stream-id="aws_2067299cf53ba92814de" codec="aac+" bitrate="64",RMF Ballady
 http://195.150.20.7/NOSTALGIA
 #EXTINF:-1 station-id="awb_51d5a08d238c8ca6d4d1" stream-id="aws_987a6e2f2f3cb5fe51b7" codec="mp3" bitrate="128",Rmf Ballady
-https://rs203-krk.rmfstream.pl/rmf_nostalgia
+https://rs103-krk.rmfstream.pl/rmf_nostalgia
 #EXTINF:-1 station-id="awb_04531a42842da8a3b2d5" stream-id="aws_27caaef9bd8b1cc122a0" codec="aac+" bitrate="64",RMF Ballady + FAKTY
 http://195.150.20.7/NOSTALGIAF
 #EXTINF:-1 station-id="awb_74c1ad25c6babcb53cf0" stream-id="aws_8ffface46d43a6006629" codec="aac+" bitrate="64",RMF Blues
@@ -1516,7 +1514,7 @@ http://31.192.216.8/BRAVOF
 #EXTINF:-1 station-id="awb_1ba12ef82fcbf5e67dd6" stream-id="aws_49048903f4a3f56907d5" codec="aac+" bitrate="64",RMF Chillout
 http://31.192.216.8/CHILLOUT
 #EXTINF:-1 station-id="awb_1ba12ef82fcbf5e67dd6" stream-id="aws_ab5f92d7e79d34b78292" codec="mp3" bitrate="128",RMF Chillout
-https://rs202-krk.rmfstream.pl/rmf_chillout
+https://rs101-krk.rmfstream.pl/rmf_chillout
 #EXTINF:-1 station-id="awb_8e1a252aadef85c547d2" stream-id="aws_b6555cb6f32e495b6749" codec="aac+" bitrate="64",RMF Chillout + FAKTY
 http://31.192.216.8/CHILLOUTF
 #EXTINF:-1 station-id="awb_57da0bf3eb29440ef82d" stream-id="aws_e15549b5906d4a890c3c" codec="aac+" bitrate="64",RMF Chopin + FAKTY
@@ -1540,7 +1538,7 @@ http://31.192.216.10/DANCE
 #EXTINF:-1 station-id="awb_ed5c6ebb9c3cc278a183" stream-id="aws_0acf5729493af5fff1d2" codec="mp3" bitrate="128",RMF Dance
 http://rmfstream1.interia.pl:8000/rmf_dance
 #EXTINF:-1 station-id="awb_ed5c6ebb9c3cc278a183" stream-id="aws_fc720de552ddcd474d59" codec="mp3" bitrate="128",RMF Dance
-https://rs203-krk-cyfronet.rmfstream.pl/rmf_dance
+https://rs203-krk.rmfstream.pl/rmf_dance
 #EXTINF:-1 station-id="awb_5b40904d07d97237a83d" stream-id="aws_895d18a9c90cf6095617" codec="aac+" bitrate="64",RMF Dance + FAKTY
 http://31.192.216.10/DANCEF
 #EXTINF:-1 station-id="awb_5b40904d07d97237a83d" stream-id="aws_5e1aa678828f51585617" codec="mp3" bitrate="128",RMF DANCE FAKTY
@@ -1580,7 +1578,7 @@ http://195.150.20.243:8000/rmf_gamemusic
 #EXTINF:-1 station-id="awb_bf924f852c380dca2f56" stream-id="aws_804b71f578ee27e2068c" codec="aac+" bitrate="64",RMF Gold
 http://195.150.20.9/GOLD
 #EXTINF:-1 station-id="awb_bf924f852c380dca2f56" stream-id="aws_32ba34ce098a4423dc45" codec="mp3" bitrate="128",RMF Gold
-https://rs202-krk.rmfstream.pl/rmf_gold
+https://rs102-krk.rmfstream.pl/rmf_gold
 #EXTINF:-1 station-id="awb_e5f3b6b9cf0f73b51ee9" stream-id="aws_d06701963c2d28abc80c" codec="aac+" bitrate="64",RMF Gold + FAKTY
 http://195.150.20.9/GOLDF
 #EXTINF:-1 station-id="awb_4dfca78fc1d6f2e34704" stream-id="aws_5468709b520206febcdf" codec="aac+" bitrate="64",RMF Hip Hop
@@ -1630,13 +1628,13 @@ https://rs102-krk.rmfstream.pl/MAXXXKRA
 #EXTINF:-1 station-id="awb_920bc9cefb762b1f417e" stream-id="aws_010d42dd97555119e63e" codec="mp3" bitrate="128",RMF MAXXX KROSNO
 http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn
 #EXTINF:-1 station-id="awb_265f3a0cda1cca35e77f" stream-id="aws_6dbea9639d45c72e76bf" codec="mp3" bitrate="128",RMF MAXXX Mazowsze
-https://rs203-krk.rmfstream.pl/rmf_maxxx_cie
+https://rs202-krk.rmfstream.pl/rmf_maxxx_cie
 #EXTINF:-1 station-id="awb_2514fd1a8dcc0e2ca52a" stream-id="aws_7920d9651910bf45c903" codec="mp3" bitrate="128",RMF MAXXX Szczecin
 http://217.74.72.10/rmf_maxxx_szc
 #EXTINF:-1 station-id="awb_e198b2d62df387f01027" stream-id="aws_48f1709ac10e35de9e4d" codec="mp3" bitrate="128",RMF Muzyka Klasyczna
-https://rs102-krk-cyfronet.rmfstream.pl/rmf_muzyka_klasyczna
+https://rs102-krk.rmfstream.pl/rmf_muzyka_klasyczna
 #EXTINF:-1 station-id="awb_9470297b3b19e0dc6985" stream-id="aws_5a71dd97bd15fb091ad7" codec="mp3" bitrate="128",RMF Muzyka_Filmowa
-https://rs203-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa
 #EXTINF:-1 station-id="awb_b0881900fab775986f08" stream-id="aws_23aa23566ea381c467a9" codec="mp3" bitrate="128",RMF Najwieksze Polskie Przeboje
 http://217.74.72.10/npp_rmf_on
 #EXTINF:-1 station-id="awb_8a08cbf5aa6d8b1bd91c" stream-id="aws_3c92424ddf2108a79398" codec="aac+" bitrate="64",RMF Niezapomniane melodie
@@ -1656,15 +1654,15 @@ https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_filmowa
 #EXTINF:-1 station-id="awb_e8fae5dd35aa7daa5e01" stream-id="aws_cc46e2710ec43d25da5f" codec="aac+" bitrate="64",RMF Piosenka literacka
 http://31.192.216.7/PIOSENKALITERACKA
 #EXTINF:-1 station-id="awb_e8fae5dd35aa7daa5e01" stream-id="aws_c305c14fc4c6ccaf3f50" codec="mp3" bitrate="128",RMF Piosenka literacka
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka
+https://rs203-krk.rmfstream.pl/rmf_piosenka_literacka
 #EXTINF:-1 station-id="awb_c38e5db16bce8b2888cb" stream-id="aws_2b643ee12d6d95ecb539" codec="aac+" bitrate="64",RMF Piosenka literacka + FAKTY
 http://31.192.216.7/PIOSENKALITERACKAF
 #EXTINF:-1 station-id="awb_d671bf98aed4551cf4f4" stream-id="aws_3e77d68c95af6e82081b" codec="mp3" bitrate="128",RMF Pobudka
-https://rs103-krk-cyfronet.rmfstream.pl/rmf_pobudka
+https://rs201-krk-cyfronet.rmfstream.pl/rmf_pobudka
 #EXTINF:-1 station-id="awb_2d25369dfd829934d338" stream-id="aws_90a73b11bc2dfc6e56ce" codec="aac+" bitrate="64",RMF Polska Alternatywa
 http://195.150.20.7/POLSKAALTERNATYWA
 #EXTINF:-1 station-id="awb_f9a8a800bd7f9b52873d" stream-id="aws_37718e43c16ed5df4690" codec="mp3" bitrate="128",RMF Polska prywatka
-https://rs103-krk.rmfstream.pl/rmf_polska_prywatka
+https://rs202-krk.rmfstream.pl/rmf_polska_prywatka
 #EXTINF:-1 station-id="awb_9d03ad207717632591ff" stream-id="aws_d7688ed386c274f9452b" codec="mp3" bitrate="128",RMF Polski Hip Hop
 http://217.74.72.10/rmf_trend_sounds
 #EXTINF:-1 station-id="awb_fdccb2df408f38ef066f" stream-id="aws_7ceea981ffad22c810d5" codec="mp3" bitrate="128",RMF Polski Rock
@@ -1700,19 +1698,19 @@ http://195.150.20.8/ROCKPROGRESYWNYF
 #EXTINF:-1 station-id="awb_6655cf5ed8cc7111bcbd" stream-id="aws_8dcdd22fb6af964d6a71" codec="aac+" bitrate="64",RMF Sloneczne Przeboje
 http://195.150.20.8/SPRZEBOJE
 #EXTINF:-1 station-id="awb_6655cf5ed8cc7111bcbd" stream-id="aws_0cf31b879ee39579e339" codec="mp3" bitrate="128",RMF Sloneczne Przeboje
-https://rs101-krk.rmfstream.pl/rmf_sloneczne_przeboje
+http://217.74.72.12/rmf_sloneczne_przeboje
 #EXTINF:-1 station-id="awb_7f7b37f4b9b21593d3ea" stream-id="aws_4e249a38da02810a6293" codec="aac+" bitrate="64",RMF Sloneczne Przeboje + FAKTY
 http://195.150.20.8/SPRZEBOJEF
 #EXTINF:-1 station-id="awb_27e5645abeb5fc348ba9" stream-id="aws_ae9cdc1e019dd05f6542" codec="aac+" bitrate="64",RMF Smooth Jazz
 http://31.192.216.8/SJAZZ
 #EXTINF:-1 station-id="awb_27e5645abeb5fc348ba9" stream-id="aws_07b0069078803e6309b2" codec="mp3" bitrate="128",RMF Smooth jazz
-https://rs202-krk.rmfstream.pl/rmf_smooth_jazz
+https://rs103-krk.rmfstream.pl/rmf_smooth_jazz
 #EXTINF:-1 station-id="awb_40cfe87d2893e1c7fb28" stream-id="aws_2b7c4e54d6e8bd65ae8a" codec="aac+" bitrate="64",RMF Smooth Jazz + FAKTY
 http://31.192.216.8/SJAZZF
 #EXTINF:-1 station-id="awb_69497795162553ab96d4" stream-id="aws_7816805764de1402a431" codec="aac+" bitrate="64",RMF Styl
 http://31.192.216.7/STYL
 #EXTINF:-1 station-id="awb_69497795162553ab96d4" stream-id="aws_11ce24d3a0330a12b00c" codec="mp3" bitrate="128",RMF Styl
-https://rs103-krk.rmfstream.pl/rmf_styl
+https://rs202-krk.rmfstream.pl/rmf_styl
 #EXTINF:-1 station-id="awb_4b4b1b70207aa334a4bb" stream-id="aws_fdf67eb862cf7b782bee" codec="aac+" bitrate="64",RMF Styl + FAKTY
 http://31.192.216.7/STYLF
 #EXTINF:-1 station-id="awb_e57228f80f67daaea970" stream-id="aws_f4c915afa0dfc2fe0254" codec="aac+" bitrate="64",RMF Swieta
@@ -1897,8 +1895,8 @@ https://stream.ujot.fm/
 https://ic2.smcdn.pl/6490-1.aac
 #EXTINF:-1 station-id="awb_54bd4d585d19d60d312a" stream-id="aws_75ed3f0a03af0d204ce3" codec="mp3" bitrate="128",VOX DJ Mix
 http://waw.ic.smcdn.pl/6020-1.mp3
-#EXTINF:-1 station-id="awb_436695d65d5cd6d4f3c8" stream-id="aws_11e30a4ed8b49e1f9f48" codec="aac+" bitrate="64",VOX FM
-http://ic1.smcdn.pl/3990-1.aac
+#EXTINF:-1 station-id="awb_436695d65d5cd6d4f3c8" stream-id="aws_11e30a4ed8b49e1f9f48" codec="mp3" bitrate="128",VOX FM
+http://ic2.smcdn.pl/3990-1.mp3
 #EXTINF:-1 station-id="awb_bafc933639e956fae744" stream-id="aws_4b9df9b11becb139668d" codec="mp3" bitrate="128",VOX FM 128
 https://ic2.smcdn.pl/3990-1.mp3
 #EXTINF:-1 station-id="awb_723f9daa02fb99b05e74" stream-id="aws_ae860621d4efbd3e30f3" codec="mp3" bitrate="128",VOX FM 128kbps

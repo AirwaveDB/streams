@@ -79,6 +79,10 @@ https://djuplink.com/ninjabox.mp3
 https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_903cf4fb00d38eb812e7" stream-id="aws_889db85792f81a484caa" codec="aac" bitrate="64",NRJ
 https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 station-id="awb_7d01cf5f8b2e370f4330" stream-id="aws_81fe1cf7581b4797e067" codec="ogg" bitrate="1200",POP fm
+http://stream.nsp.se:8000/pop
+#EXTINF:-1 station-id="awb_3eb45acd20f26d887ae8" stream-id="aws_089379c8149434b50995" codec="ogg" bitrate="1200",POPfm
+http://stream.nsp.se:8000/pop
 #EXTINF:-1 station-id="awb_3eb45acd20f26d887ae8" stream-id="aws_6b390ca5761e5f18b3aa" codec="aac" bitrate="96",POPfm
 https://stream.madmenmedia.se/popfm
 #EXTINF:-1 station-id="awb_ec352c393c856f6e8a75" stream-id="aws_67d048b75767a8ef1d87" codec="aac" bitrate="68",Pride Radio
@@ -270,7 +274,7 @@ https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
 #EXTINF:-1 station-id="awb_ebf7568a41f41f03c748" stream-id="aws_1ebf7c952169fc8e69bd" codec="aac+" bitrate="0",Yle Radio1HIFI 256 Kb/s
 http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
 #EXTINF:-1 station-id="awb_b4bdd8027bd400f8205a" stream-id="aws_6e7f8f283372489b65cb" codec="aac+" bitrate="0",Yle Sámi Radio
-https://icecast.live.yle.fi/radio/YleSami/icecast.audio
+http://icecast.live.yle.fi/radio/YleSami/icecast.audio
 #EXTINF:-1 station-id="awb_b94de56ebf70737f9d42" stream-id="aws_7b15d263446ca0bd07b6" codec="aac+" bitrate="0",Yle Vega Åboland
 https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio
 #EXTINF:-1 station-id="awb_e6701288fb3edb548617" stream-id="aws_ddb37e260f9db7cc1ecf" codec="aac+" bitrate="0",Yle Vega Österbotten

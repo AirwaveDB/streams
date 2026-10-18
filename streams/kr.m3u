@@ -8,7 +8,7 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_8c1556fee95c4055aa0a" stream-id="aws_e727d1fbcacf6db31e84" codec="aac" bitrate="32",AFN GO DAEGU
 https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1
 #EXTINF:-1 station-id="awb_305c0009aa7af48c6421" stream-id="aws_7b22de6b050902ca4231" codec="aac+" bitrate="32",AFN GO HUMPHREYS The Eagle
-http://18533.live.streamtheworld.com/AFNP_OSNAAC_SC
+http://17643.live.streamtheworld.com:3690/AFNP_OSNAAC_SC
 #EXTINF:-1 station-id="awb_ba6a70dd80df210244c6" stream-id="aws_c824b9a74f5cc63fe675" codec="mp3" bitrate="192",ARA FM
 http://141.164.38.238/listen/ara_fm/radio.mp3
 #EXTINF:-1 station-id="awb_ed9333470b056b5b79f3" stream-id="aws_c7bc3d98055a4433af01" codec="unknown" bitrate="0",Arirang Radio
@@ -19,7 +19,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklis
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_4bee824d33e11183234a" stream-id="aws_1c272d32cf9aaed0ec09" codec="unknown" bitrate="656",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 station-id="awb_dadf65b8d58c5c8202ac" stream-id="aws_2fffe558cee9ce091ce3" codec="aac" bitrate="192",befm
+#EXTINF:-1 station-id="awb_dadf65b8d58c5c8202ac" stream-id="aws_2fffe558cee9ce091ce3" codec="aac" bitrate="194",befm
 http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_f99d71c1184e14ce1e50" stream-id="aws_a1f86f388af7dea70a59" codec="mp3" bitrate="192",Big B Radio - Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
@@ -27,17 +27,17 @@ https://antares.dribbcast.com/proxy/kpop?mp=/s
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8c3f66ae364ce35779ae" stream-id="aws_5de702f909ba9dbf7f7f" codec="aac,h.264" bitrate="1234",Buddhist True Network TV
 http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-#EXTINF:-1 station-id="awb_11e79208a13fb7ee30f2" stream-id="aws_07e8799f82723e4d30b5" codec="aac" bitrate="99",CBS Joy FM
+#EXTINF:-1 station-id="awb_11e79208a13fb7ee30f2" stream-id="aws_07e8799f82723e4d30b5" codec="aac" bitrate="96",CBS Joy FM
 https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u
 #EXTINF:-1 station-id="awb_cbb79bbda19da28f43ba" stream-id="aws_fa035a720f4d3ebc7680" codec="aac" bitrate="98",CBS JOY4U
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_2367c6eee2ce54e8381a" stream-id="aws_2606449875bfc67d4145" codec="aac" bitrate="97",CBS Music FM
 https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc
-#EXTINF:-1 station-id="awb_c0d43202e64d58c58e4f" stream-id="aws_170f028876fb64e30de6" codec="aac" bitrate="95",CBS Std FM
+#EXTINF:-1 station-id="awb_c0d43202e64d58c58e4f" stream-id="aws_170f028876fb64e30de6" codec="aac" bitrate="97",CBS Std FM
 https://radio.bsod.kr/stream/?stn=cbs&ch=sfm
-#EXTINF:-1 station-id="awb_e5ce3f70407def30accb" stream-id="aws_0baeaef74bf8a0e1bde4" codec="aac" bitrate="98",CBS 음악 FM
+#EXTINF:-1 station-id="awb_e5ce3f70407def30accb" stream-id="aws_0baeaef74bf8a0e1bde4" codec="aac" bitrate="96",CBS 음악 FM
 https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_657ef0ee27c15c52e56b" stream-id="aws_4ab9f76ecd49d4f6b5fb" codec="aac" bitrate="96",CBS 음악FM
+#EXTINF:-1 station-id="awb_657ef0ee27c15c52e56b" stream-id="aws_4ab9f76ecd49d4f6b5fb" codec="aac" bitrate="97",CBS 음악FM
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_6f7c4c087d1a23805a38" stream-id="aws_0f463e20e9232a8cb50b" codec="mp3" bitrate="0",CBS 파워라디오 [Music FM]
 https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
@@ -53,20 +53,24 @@ https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1Q
 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
 #EXTINF:-1 station-id="awb_62bcd4f80c6df308d4b4" stream-id="aws_c140cfc781ff9cab3bf7" codec="aac" bitrate="128",EBS FM 104.5
 http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-#EXTINF:-1 station-id="awb_3b98fc27e8f58e51c008" stream-id="aws_a26baeb43eaa8249ffd9" codec="aac" bitrate="613",ebs tune in
+#EXTINF:-1 station-id="awb_3b98fc27e8f58e51c008" stream-id="aws_a26baeb43eaa8249ffd9" codec="aac" bitrate="614",ebs tune in
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 station-id="awb_ad4e49fb5da97c80de4f" stream-id="aws_643f6a05b9736509bb70" codec="aac" bitrate="1139",EBS TV-1
+#EXTINF:-1 station-id="awb_ad4e49fb5da97c80de4f" stream-id="aws_643f6a05b9736509bb70" codec="aac" bitrate="1153",EBS TV-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 station-id="awb_6a39cc610f387626109e" stream-id="aws_82f9cb7762ec23773305" codec="aac" bitrate="1151",EBS TV-2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 station-id="awb_13ea8e59ef2450cbfddb" stream-id="aws_3da29f6440255044f576" codec="aac" bitrate="1151",EBS TV-e
+#EXTINF:-1 station-id="awb_13ea8e59ef2450cbfddb" stream-id="aws_3da29f6440255044f576" codec="aac" bitrate="1143",EBS TV-e
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 station-id="awb_c4ccdec869a1555f1b71" stream-id="aws_cc940583d3a2b4404281" codec="aac" bitrate="1151",EBS TV-i
+#EXTINF:-1 station-id="awb_c4ccdec869a1555f1b71" stream-id="aws_cc940583d3a2b4404281" codec="aac" bitrate="1141",EBS TV-i
 http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 station-id="awb_b5d3cc521ddd2cab913f" stream-id="aws_f9d237fd6f6d4a967038" codec="aac" bitrate="1150",EBS TV-Kids
+#EXTINF:-1 station-id="awb_b5d3cc521ddd2cab913f" stream-id="aws_f9d237fd6f6d4a967038" codec="aac" bitrate="1158",EBS TV-Kids
 http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 station-id="awb_cf701caa4fad9507a95e" stream-id="aws_3a11980d96a6b1fa4ab3" codec="aac" bitrate="1145",EBS TV-Plus 2
 http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 station-id="awb_acfb66505321c7792244" stream-id="aws_a1a171290eff0d978de7" codec="aac" bitrate="66",FEBC Seoul 106.9 FM (서울극동방송)
+http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8
+#EXTINF:-1 station-id="awb_c80b6a4e4e1ce98b0e25" stream-id="aws_c7ac6342de9ee38784b5" codec="aac" bitrate="65",FEBC 제주극동방송 FM 104.7
+http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8
 #EXTINF:-1 station-id="awb_a39dd2063fcc70dceff8" stream-id="aws_d3db8af1a2cc047415ad" codec="mp3" bitrate="64",Floyd Server (Rock Ballad...From 09/25/05)
 http://1.uicl.co.kr:8000/;
 #EXTINF:-1 station-id="awb_38366f3570a9e452db20" stream-id="aws_d5cbb916f368add92e22" codec="mp3" bitrate="128",Fred Film Radio(한국어)
@@ -82,7 +86,7 @@ http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8bb55cccdeded899336c" stream-id="aws_00659f590255da224e38" codec="aac" bitrate="4433",Gukak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_cedc0fb22077967aeb7c" stream-id="aws_30de9903f50b874a62fa" codec="unknown" bitrate="0",http://serpent0.duckdns.org:8088/kbs2fm.pls
-https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5ODM5OTJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=VYRmWH~rYVu0WTbhAIKH34is1VnJ7uXGL1Vg9AZzbvNzox6tcnmCBfs0xoRr57f8C8Bez4gVU-CkEK1b7tJZXdO~pt22DBA-AZ6nYzXVDONt~2BNL5vztySb47y1Z4xv~mCyxhGdIrhQdLpPW~DFKVBcZvhT2VYHyLLRIVh9bXiN04jR1U7YWokiiyr32oQOphvOcVtSjndgk~BsMZrj6EP650vJ5kZrackiy4lpEDsY14tRlnYRhfU4B7VSu3dTsLhMcWPTGeHkJ8zU5uMh4f1g12OWKeWaw4otm21CpNS2yR9JI68HikE4mZK6ftpj79VLNS4xL0to1i2bfaDwdA__
+https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0MjA3NjF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kLErtHtOfZgpnw4ki6mza17eKfZziazXlMPf90ZpUUk6pVV2kLqnDEqQa6Is2HO~ySyGHe9id3T1TAwsA2iaBJ58YXxlxF8uTP00s17pk7bRHAolF1CzWSlvMYvwtEgc~v0u92oRFI-BAjblWTTiFig-4cGDgbqifluqWHPvmo6QoHj0Eq157FgkqnhzFIOBcUhSV9zVC6kDgneOTBNIaAnnSYiJHeztlSx~eq35cCJTT~aKs8QHF65gyeQ~gLV42ti8Q-7~7kuuDVkcFg~vxc0i5Ewtq5-LgvFAfV5HsfxsCZSdc33R0azOLfDX6lem7pEC8EaAfX0ji3EcGMfABQ__
 #EXTINF:-1 station-id="awb_f1447cd21a370c3d8bbc" stream-id="aws_f2c5f8198dc78948ff5c" codec="mp3" bitrate="128",JeonjuFM
 http://radiostream.communityradio.kr/jcfm1
 #EXTINF:-1 station-id="awb_6f50a7e94106ae363667" stream-id="aws_6d886121b8a8fe00d0f9" codec="unknown" bitrate="0",JTV 매직FM
@@ -94,9 +98,9 @@ https://s5.radio.co/s0a9796fe3/listen
 #EXTINF:-1 station-id="awb_744c38b6e8913010a579" stream-id="aws_c93df460385c1b310ff4" codec="unknown" bitrate="0",KBS 1FM
 https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 #EXTINF:-1 station-id="awb_63d16a03d500ab5555de" stream-id="aws_e5839a987c2184e86627" codec="unknown" bitrate="0",KBS 1R
-https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTk2ODM3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HEfmm5vNiqdwWi8BYgBa~FG2qKO3S9Su91c25lXD3oMc8x35a09m7hu8wf-9yQR3kW39fHx9iY1rlJSZvFuJroGOH~Uth~SWeoymSaK6mRE-68z6qmPTQpzC~32jkV61nUtLlYkHOTUrd6Ngx5WTFSWJgPd-qBDHFb29X59uTO-Q9ErRo9flwtZaJRkjMAkeQcTP6VlI-hishvjMr8eyGtgZmk9LgHynrHVb91qv6uqmu27DyGtRv03HkNweXfTva~nfglAKCiUW1libxGY8FsF~Go5bDXv~R0j4S--2t5cRlT9iY9zyfaghgPGWc4kKYGMndvwUa2w2u7Qgp4aYkQ__
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjQxMTE1M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=RXjZWn5gV9~qeKa5IqOncWlTI~LoZV8BiePa1Wr~bZQc5or0KUPwStrVlaNmo56N3dDKEALwMJSzaAkXMC9~xE24QZisA4qllfNBrBQ9bIh00m31mHmPKq3B6JUxDw6IA6St8OMKFGocht8Rw4F-ClAiiE4k9nRdiF2DqUULflZl-ZD4MalxJlDr9tIWSyXJTCUgPuygaZzdyc7GybgcfrFrzvZxf--0tM-V0iunNrWL04lLeo9sfCpv~5m-8ln4Hc0Tk3by39RU7PPTd1764r1nIu-IcjjYyaVwJwL1QV~blOs731R051FRsizprmYM~IKgaQL7sCkMu3Eo9v~5Uw__
 #EXTINF:-1 station-id="awb_3d846ff7788d519d4e24" stream-id="aws_ec63380da7f7dc58fb98" codec="unknown" bitrate="0",KBS 1Radio
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTk1Mzk3M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BRdlCMZnSBbhqqdnumhxUPg3MLhm46zOGifrZsUqexSabYjj76tM6IrFlypA4n4F5eoa2DLyl-zYmLnB5qupWVFlsa7fasHOA-xKs3c80cOESVTGscN7SeOYS2cNAsjDOv6tbOvwdGtHSALP-gBPI0hqI~vYLfeAS6x1h1DQcW3UBuJ-GNl9F7tU3gYfQxtq2x8nPHEYPjjxk4W2oXAD5B0drT6DX7WqB5cUC2CXJBuCXtMye1gUsfmM20RtT7C9X8fGQC0iGbXFXEDTHc8HdQBGg4ge06O38uWLV1OmJLJiDklYAgmvqcSMx5Xsdmbk0Xtpc7pjveJbOQd0vwmUYA__
+https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjM5Njc0OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hsEoIqPdeIK10QRdBKvA7S7i8rburVzSNj2Ls7WxQZuoVGuxvvF9JBuDIQkqsAfyF0r7aZKcI~BXHiOGINne-TVfHmg9GxlsSmoWp17fwhVb1J~X8YHtgHd35ngSclFTtcbylh2lHQsKaxwyoLUAK76MinW2xGW5JlVfDb~SrjABQPVkWMcgubqNFKAN1-kKm1kWSc3NmqVuu6iGuaCEQ6loR8eQ99FoMt8MvGWrMGXV4EQXoNNVAx7R596S5vcMb8qihFU-saxtlwn3ue1yT7zNMAvCmZR6W~5Ug657x94zAbdgPlwF01~7W39s-wOXqUngDHgDqO6WDdNZ3GHJTQ__
 #EXTINF:-1 station-id="awb_3d846ff7788d519d4e24" stream-id="aws_1d67067403f035106bbc" codec="unknown" bitrate="0",KBS 1RADIO
 https://radio.bsod.kr/stream/?stn=kbs&ch=1radio
 #EXTINF:-1 station-id="awb_577e17b67cc9a367afc3" stream-id="aws_a359ad2bdf7dd5ffc2ca" codec="unknown" bitrate="0",KBS 2FM
@@ -104,15 +108,11 @@ https://radio.bsod.kr/stream/?stn=kbs&ch=2fm
 #EXTINF:-1 station-id="awb_9f5f968838ad40e991c9" stream-id="aws_c6d76429f8778ad03be2" codec="unknown" bitrate="0",KBS 3radio
 https://radio.bsod.kr/stream/?stn=kbs&ch=3radio
 #EXTINF:-1 station-id="awb_a973698baa82642f7436" stream-id="aws_8020f77abd25806d6ad0" codec="unknown" bitrate="0",KBS CLASSIC
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIwMTAzNjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z3HHLOW20Ymmj5~ETPdhvdMgiLfp7dmwQcUnp-YLGyZ9mrgJB7bxvIrF7dytYDC6YyGqxu~mCv34WNqfJj-1TO9Xf~Tf2ILVk~9DsJ0c02CC84tzFlzuvcD4IGXuMXuzZiI4L9-~PyZaHo0iRFXqBJw-1b0JypHl6IgSwIQ0WCjiONNWME-vlzn9kv-Tx3rybe5KUMNQH7XEIImOd~LSW7yNtsh5Gtwwo1Fy5Q1DcXG9aQW080IJb1At4tRAM6oCPgPr3Ji39zRtVUqOy0ccB3TwQhuv7IY8UlQzR0YfXrrWdAzAF9AgCdQXh-fx7SE2ePWWTlRqPFX~Dd-kEoXt7w__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0NTA3NDl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JXeYFX7vrbBJW2K9OGsrxcoKewp2aYFR44DAe1wfEypIgbZHb3KgbHQsGuB5jb3rRgSnjfKQHckmDfwqFQIUVMl2LoLE9NYZtBsdbkJtQPCc3ClSjHX0oSHxC13Uvpf5HK1xe2o~GJgojQxTG1YFy2bmXokn6JFximDjFzXW8RzY12GmlPa38-mljYXn-LE5ww9Tx0xj50mKrD45--9kM9AE43Z4B0gCUYavp2-TM9vtiuN4aKWRa1LVkowUzTEARyN3b1AeKYf2MEY03qyY0jb8Yt5vt3oM-wvuQfj44OxPHPCotqZTuPc82NHbp83s4S3rCUJkBBbDfn935IOh3Q__
 #EXTINF:-1 station-id="awb_9cf73178a232721d7390" stream-id="aws_4413c5d99b253e34ece0" codec="unknown" bitrate="0",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NDc0NjF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LK6B3uQI521Q9lRt2ByzGTm3CBgPhsmDzW6gcwlLULM9X~~GVNhRIBtgvBFv7CuFIJ7aqfbglBL0SAmjIx6PxryWgXjrzjPL-5yJUYtlP1mPS01nNChTxH8eI0YLfFVsNMUpj785EVZoT7vJ5UaLsU1O78a4NGGfO04ddLIAK6UX4lUa7tqHe-tqp2mcugu73wqtjrSDyO06NK6bPyOd2bxZnhfKy6UkFOYFl1sWa8V8K~350dMrYsCx4jdcywChUPOR4zEIhg9w2AgJ8XsedcyBcYDPi3yINShzJkLyp8I7vsq0I62WeCoipUGn0lY-N7uzqKdwG0Llmvd9FttpRw__
-#EXTINF:-1 station-id="awb_5a5630757c4f6889de48" stream-id="aws_160255270604ca36699a" codec="unknown" bitrate="0",KBS CLASSIC FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NjU5NzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=iCRglVNQ7YO5QFR-weOllk1ljO9aV5uFjhHVaUk2x2XnuJPDi8CvMzsvdzk6h1m9EuOjKJH0K6C9ijpaIC0hjTgrTNXNlvexz0Rv~fNvotBOJ-FXnjw1VPfbavFnfG-9oBbYErx2s7RDUwp9mB9fJdLaadx5HowAuaNww7~WCbbSNyMmDPZ1F-1lB3jakSvRx9-n7z3n1sVu-eqMzcnaeCGucMOf7JL3SIV4xS6pEociPR3b11TUO30OLsUoiAMyGdQywhn1rzlcFfaOR1uGtivd69H5Uns539MmZ7dH7t83dfK0m4Ce4xjRQu2zUnIIUKdGCFzbUQl67x6RHV8DQg__
-#EXTINF:-1 station-id="awb_5a5630757c4f6889de48" stream-id="aws_0660e94e1c09d0b49cc3" codec="unknown" bitrate="0",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NTI4MDJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=J2vQWsdZOoEx36Uxo9El41qjIZAraGDy90M8knu-o6VSdOyejhzLsvvBuLxfgM5cA-kW7sNAcv7ZRubmX2mkdA9PO9s~Zq~pJkQyddNLx84DxW9NNv1hXuiRl~pDmo-J-p1x0Qp0cUyLEMDZ6z7RgSNtWN6CV4D0erCrUgU3RaPGMwR-bqwavI3Ch5ytBj-E4w8YS~O3KctsQKmeWv12pHfiALlGDmpeUpzIj9v-8ziAQyLUJW0rPNSOIM0JRFAwSZcOfnV30-BXlpWiyuSwiGe49fwVK5ai5LVf~znAg~Pc3gDGN-R0MnxHCnrFXj-qNw1Xh6bmg8CVT1wkd4PvDA__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0MDEwMTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=H~tx0grAhz9XTGTA065iZeK6j1mtTenCRuY7ETRucOyReocuBgROxWN2NuMgPUJhy~YzN1ynMl530NtgvnV2WxXt7l6zo91neJvM1K2eneelxaod8fI0Ar3tmWvx90ZK5hoy-FvZhxP~F8ZlCIfXB6~AXLG3mfqQaijv2bPgQynVs1JWBCkte6XVWsK9zlTER2GFuEFgbE6~u4No1L6GefCM-PWo20YpFpw8q1JUrSReJf2wOugNY3~QGSh7cBiNBpqLQi1YXiev5pHmSyJ0cwOPOLLZvMIxd4SfkdODP~SOq-XVxFuuYA0GBz3LEAM655bvtYKRAY37LWwmd4H-uw__
 #EXTINF:-1 station-id="awb_5a5630757c4f6889de48" stream-id="aws_1eda973cae76b9a177ea" codec="unknown" bitrate="0",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIwMTAzNjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z3HHLOW20Ymmj5~ETPdhvdMgiLfp7dmwQcUnp-YLGyZ9mrgJB7bxvIrF7dytYDC6YyGqxu~mCv34WNqfJj-1TO9Xf~Tf2ILVk~9DsJ0c02CC84tzFlzuvcD4IGXuMXuzZiI4L9-~PyZaHo0iRFXqBJw-1b0JypHl6IgSwIQ0WCjiONNWME-vlzn9kv-Tx3rybe5KUMNQH7XEIImOd~LSW7yNtsh5Gtwwo1Fy5Q1DcXG9aQW080IJb1At4tRAM6oCPgPr3Ji39zRtVUqOy0ccB3TwQhuv7IY8UlQzR0YfXrrWdAzAF9AgCdQXh-fx7SE2ePWWTlRqPFX~Dd-kEoXt7w__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0NDU5NTh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HDS852B036T5lUEq0UiKhfq4QXG15zkLcU8rbVtUuIHQ2VOHxX~N3YxA0pAPoj8QZ3pAL0kc8aQ3N1OyJlXBRsA~lNHMG~bISP7F91m2HCbe0wkBDY30m9tWA22ju4aO~2rfKcOo~c0j1a-hEnVaZralXVzx1S9WG~MSTLyapjTtiefyifnFJwhcJO-vRXgJ6N5RXbvPRV5oWtvpcJsd1-X2DOAzG-uO1kl1WsqUlSPPVZzRmmOMksszBr3dGei5HJw4YLzFgd4l8rDmSdiHi6r~yIBYMHPgJzMyAxt-yszY7jItizwNWIQGy5Xto-fH7vZ-Mt-TWZK6-66lWNCkwQ__
 #EXTINF:-1 station-id="awb_5a5630757c4f6889de48" stream-id="aws_4af0ffde373103fef16e" codec="unknown" bitrate="0",KBS Classic FM
 https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzNjE5NTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JwfOifwu7~QftlWVDYEEObg0O9UocruY4apx5qg-jV0kbXwOuTGXBw9KSsEe~z2u9yT872tmqFca9rNAZUkN0i6wUGdXodBXdO2KK5~8AgyzzEh0BgpRuZ4wXxaRwbexu9MDKR2H3iJA-jRFLUg5FEgHfJMkj5MBPPQpNUdlVHl0pNOR~EVvkK~Y1raRvGLQPA0lkv7TfmuQPPF4rTkDFd-X8PUDp-wdfvG8KaL0iRRZbw~kqDehIenXSYYos260qecxn~NSDY3YITrnk2SiinkB4k65alpOjLtdaQMHbEji78Qg1kIS39wuKxmsZutaAFCMJb9WmDOtHfKSz3eO7Q__
 #EXTINF:-1 station-id="awb_8bdf64342a7c9ce4f582" stream-id="aws_a7448cc37000e5040d78" codec="unknown" bitrate="0",KBS Classic FM
@@ -127,6 +127,8 @@ https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cm
 https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzNzkzNjl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Mqp5q7ydJ59ukZwCyX1LOryZXEmcLKDewAQKI1Ul-kLyp1CjuMrRjDSocIOStzuGaKuHJTdSbPQ-7lze6qdJo6UEZsHr9RMJQJT~nuYLzTDxVXyBf1bkCXRkBz7pMemEb2duSAKd4qVsd-II~IR46HXRSqlJrEVyBVIS6-9pqXsyn0zcQ~0UerzaDWkuIsEG-YSQ2OcjnbzQpSMhVpRFPzFWHhKhP34~lWI6KJAT6DEOEEchZ4jfsgt1dmuVOXjbiiYhMbggLxCaYJXux9O~bjUUDWQzHH6ID87H-3ULOwwf~AbVH~yl6BzhF-Ds3MEtBfSghQ9ROX-W2CcUamKBqg__
 #EXTINF:-1 station-id="awb_8bdf64342a7c9ce4f582" stream-id="aws_f368b271ff41b2dc17ea" codec="unknown" bitrate="0",KBS Classic FM
 https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzODExNzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=O1P3utUkaWG8beRPKuXDho7dDYk9qWUOXlzA4lCiAEPPc4Ppj4KorGFwqYNfDkYlP7Q6Yz8y9~TqGLdzoDsHTVjlr7DY8whcY7GYr3B8ic~1CxKHPKrfQPmYdkQNK-TDH5yw343xddggKU7xb8kinpQLjL8jcsfIBJPlMcdxnjnk7avfnMI8V7Og9asGH1So0CtciglKNXXRPUlCOTJ8FaNITaesEdL36EpSFJL8uiZzmvPR4XoBuVwmsfja-pON~Mw~6CKa0Y7-cnib7hrtqlmZfAo5N8P9lGbKJRDuyPgW3Zit6raF~oaPvkggr9fp~2~rLDFxJaC8NcEvUoGghw__
+#EXTINF:-1 station-id="awb_5a5630757c4f6889de48" stream-id="aws_0660e94e1c09d0b49cc3" codec="unknown" bitrate="0",KBS CLASSIC FM
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzOTc5ODR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=e6OLhPGtRMqE~pQQJUWPSZRUmurs6YBkrWfUoExKL5uF1DZqMYIKoZkv1CPBIjbVkzSE4fUBOACm3vIcUO9QXMAkQD3-IaVJEGQ0VA7j6fil6LpZeFP0zP7xEf6LVZjNIQXWzdKsr5nuCmxlNUBwngA5a-UOJO7vwoGZObsQo-dFcXTd9HUhOuyieTcoIE7cEloE8uWzQJIHu~XjLljaVfjChFYAJRSpNI5xt9rELslggcuuXSQx11iGW4JMzn92hOgehSS3bV7HDJCstAPSAb47sr1j-GcDPpLeo0n8tk9Y-5yF9kkeiO93giMblBn6E3gfeaXRw0smRdENTqk-SQ__
 #EXTINF:-1 station-id="awb_9cf73178a232721d7390" stream-id="aws_53e8d3f9993daa0ea5eb" codec="unknown" bitrate="0",KBS Classic FM
 https://radio.bsod.kr/stream/?stn=kbs
 #EXTINF:-1 station-id="awb_9cf73178a232721d7390" stream-id="aws_289bd36cf3c85836e1ae" codec="unknown" bitrate="0",KBS Classic FM
@@ -134,13 +136,13 @@ https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 #EXTINF:-1 station-id="awb_8bdf64342a7c9ce4f582" stream-id="aws_615ea29cbde5dfd8d1b9" codec="unknown" bitrate="0",KBS classic fm
 https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 #EXTINF:-1 station-id="awb_21289aeac81bb437bf8f" stream-id="aws_217302003bbf6e5b6ed1" codec="unknown" bitrate="0",KBS Classic FM zstream
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NjkwNDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d1CCxeMtBSJoq2Pwk3ZGD6AjcLv1WEot0BULoCL5znwXTWvjVINUmFOY0~RSeHQf~OJASfy92zv32FRASXhEuAmjobyK-B1yahuQqAO8Wbf96LYtrWZgj62ZkJuO0ya43qVJr8Mv6sYQy0vBCMgMFINIuKLHYlrVmzuxNjqQGxL~NFXUj~VFciSehfKBDJsOs4dLLYYaokx6yUA5TIYEifp7ErSdmKNIgtxfNbZGWJ2gIZi-GzvsNGWSaXU1RNIcRAu6jojtDSNPitSIN7FRynwetgjW~0N3eYHsMlVYnsMu8FP9oW~WU1efPe6KYu~uLEpepQvLbTmkjLlsdmoczA__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0MjI2MjF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MrcL616OyeAfX4a3-F78UowsaU5p5ZEgw0iSy4C-mzWb7JC6x0cVFfXQFdDTteQxIObOxZnLh03ZgFAcgTMVj-vVZNJQ-RLWeADIvKZt63UT7Ka1d9HuU1ybnMEXD25YnhDbghVXusHcsYCRJfiyPIKMSbgsU9HdeMQEzuw1gD9QW-PGb3mevXF~UIzznBFTOGsnsFhZWfTU76LbawQ-GIF0C15omULzxR~KpDqoiyQqfaezxnb9Lx3wTgtq8zBQP8MLAdcJkhZjWg~wIgxVWMvCO5uAkAKdeXxHflVGkhzzsoESp~LMx8bzO34e6vbcxPvU1FyXrVQjsSYB5G1xag__
 #EXTINF:-1 station-id="awb_f281ee621aff4c56f7dc" stream-id="aws_d65d69de75564433e24a" codec="unknown" bitrate="0",KBS Cool FM
-https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5ODE1ODV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z2scm0Tsx6-pAonA7mNxtVoaF-aEqvRhsvkKsQCkBLj-wUmes4YuUBW5aDeMI0vNgJYQeclotWj6qaVivp9IvrG2acet5VPxCXXdHKsITu9DY5Kwrr7yieVSHntuBAqLONrS97CafRfNGXALC3-9g~uBZapRd8pBPdXQ3HNXeezogOUuWfY0g5uP2QkW66IwQoW7kczrrdubYGz9EZ37Bto1uVj9RInDmNapMw85HdHhLLrxbu~dNLRX9U8Usbh4WlkNSFLOxy2GAsLSDt96zkIfKEElypHEQUAMtk~ZNiMVk1QtKf9aSeznanB5AQQGtEX9bc2aU8c0-rUWbSXhTg__
+https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0MTM1OTJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PuGb1KHrXn~gn131JkNXQZ-qRIKzZ3aU2ct33QixlGdgu2Sm3xGiSquQtTrVv9OA0GSnFCI0lF~1A6ycvxpbbFnKxxZWuK7nC570JnImGY1G~XkY4sLB8Lll~87qozQhmOcEsuNk8N8~lhmIQFRI8P6JiyL-PaPfLrGBCnXgN8~5styEOdoegJqQ7oCakZNjSuLlIEaAGXPNScccy1AHXje8Qo5JJXXn40xP4r-E9KbgGUW-zvXm4RHeVk2cenZfFwew-sgk3SxQ-3o7JT2Pq6Op8zDSmZLtCTGIOl0D93PMqZ3imkcwMJRGUS2Z8-mu2ah~Dla9DjldZJSJiEo3pw__
 #EXTINF:-1 station-id="awb_f281ee621aff4c56f7dc" stream-id="aws_52de23462f9f79b1a901" codec="unknown" bitrate="0",KBS Cool FM
-https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5OTgzNzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BUDPLOFubDAmqIHZxOvShqCTcC5IMSX2Dy88lsqnO7LxAqnPCATA1kl3rc~GGtK0DE68hvtVbwPUhOtSjmZ8EYZRKvC1inBtTu337JUIopudqAbkHBXnniRG~lctBIhH3HsJSzuxIwTQsWtzLs8GI7q70RHmxYkRfBOrNk50TLcPp5MM5Ujd0x3LwuCdZOn0-fb5MCw6ks0XkX78T6D7kr514pXc6-uUmryb04lRstwS1zqNy2-japA2O6tpva9CebOl36cKy-4Fum5KzNXFHnWj~ma46cSgM2UJVdGRxPYMFDWLErt7Vnqh18LRxUntfBO5urAPOtcQgO629fdyCA__
+https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0NDcxNDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LNvqUQA6Z3~MN9Xw6Brzz3JEx7aeuNgsuZyGwinsdFwu12GMVY20VK2~53K-5t5a0jdMzHiSMdM6UmqqgEP5kl32t9ZiZnJBIo5-wLm2OkvScd9GcVYRni9UNhGXlkwlvX1Uxxzb1weUVvejXBcwnC1WjrHiBleeYanxsOktgAFIEcX-7EQOyTskmO9LLjySWprQDaruVpEV9pyWHGRlgBCC5dKhbqHAk02tn~CULczEnCN-0OfGH805vvBePNr74c0oh0CymrGdjMsLiU-BcmVmx7XyhpDBDrLh8BOiawRlHY0IdAqnEaPNxEiNqCcw7gf-f0Q25MyF6U-WreGnkA__
 #EXTINF:-1 station-id="awb_f281ee621aff4c56f7dc" stream-id="aws_f381ddb319e57f149594" codec="unknown" bitrate="0",KBS Cool FM
-https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIwMDU2MDh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PIe8pLHU4MsZtzoFgeuXAg9TpAg2g288QHv15f-5kAmt3rOvv1gXMCbNbVRKzg00M11SZHY55-evvOPhKDINkTDuRzRgrF3~FW3xxUZ6GsISbuFllPgRt3h6gIa0H415LtsnSIwxfNc998Bc8WYEYEG6lZhXR46zJHZIBSbuBt71c4sryz7fxKMxnbbNXvA88x1yq~7NAPCeQAjQJcmLJztRr36XVgtpmW7NRbo3KQSgS9Ltjt1Ppf3Abz85e3pIuzMs3moWlk-ppp4vbNuVEoBe4UwyLF5ifCgzxzuVJnH07C1TdAzACK3CSKnLW278abrcAy2ReVoNCXv1DCgWLQ__
+https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI0NTMyMDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NEhcPtEJQF0s1SS5dVJpm6H4kEVlxNqN6SdZnRq2Gib2bBGvygpokbn2duQBKhQs3E7I2PFV3e4ZMugf3rjwQVjM-6lyFGp4Jrw4sOON84zF27BIP~kXCckQr28O-kTtmCHomsRTz00pYSFzucVGNpwpICKtAwy5NXAskDFMzThDJcJPUOA4boIHYOBllCh7OTJ~z2kp3p-Jbaks-pAZV7GoJmjbNOuDLhwXawP9tdI~cWlx69IpiM21bYvlm9RaSLT8fKetTLweAjJaoVDv6Q6Q-v3nYuA0Efv7iw1UyPLPMaBFZ14HQUayf-5WLsv-oyQVIC3tnx~VNKxmxUoRyg__
 #EXTINF:-1 station-id="awb_f281ee621aff4c56f7dc" stream-id="aws_ed0d147fc94146962f59" codec="unknown" bitrate="0",KBS Cool FM
 https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzNTk1NzV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nU4Bq81Kv2czyCXs8DLdCcEBe66nVD09GLjxO4XAaCu51Y~Unl78fupnKG6qX9V83WHKlrZnHiQvN0rd531~fkDSOMJYOXMRXlJAZxPnmrggjndALAQVtLVLjshyE6UxF4YBM2a7FluL7ALnjdEyS5L1rT3PX49n9p7WlAQXbV9TU4RH7yoHxyBA67Y7KgG0hhcf2DYLrqA3RdivLCuiAThlQhtTCRjOmKXRuM1g6mwPyb1rL87Fb4p4pX-V7Zk~rB69POMYG~yDPEpfMbz-z5P~1NJyXj38UhCCB~3pWc4olnVLTeTbpjAe~5gaQSEQY2pS--DoHVGDJIu6LIpg1g__
 #EXTINF:-1 station-id="awb_f281ee621aff4c56f7dc" stream-id="aws_4fcea2013966c6024430" codec="unknown" bitrate="0",KBS Cool FM
@@ -148,7 +150,7 @@ https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cm
 #EXTINF:-1 station-id="awb_75030316b0bd12bb7743" stream-id="aws_0030bc3cfdb426ac6ebe" codec="unknown" bitrate="0",KBS HappyFM
 https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true
 #EXTINF:-1 station-id="awb_2c7f417f6435b6c904a4" stream-id="aws_d3ea1b4712970aa763a7" codec="unknown" bitrate="0",KBS_kor
-https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTk5ODM3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=loVQbyLRv7EK3z~m~8ATsZQPL-lKXafch6GwibQJSFUaxYJBaIWl939--sYTBhTOO4~oUM6qTKccQYQ7VMm5DkZrFeDMlhrqgfNWnECTq2RZubKpyhLRQZzR2ou1QlcmawQqV6dzyHhRkXmfm0JLoIzjkVJU99kfh8KtCwLt7706vm3WuNxS9hSwU2h7zGoT5tjenMogn6TP8lNSh-PVA-isb0hY3aAMjNF5CdCs-Jsz0qEMu8UrLmSbpK0uzrhn~rer2LygFRhj69-FUvo64xvv7GcOvj0Lm0bQtqKvJKNdxn7o1E3X3ooe3QS75THV3xVnnTctvs5x95i5P4K8iQ__
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjQzMjc4MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kL4CAqWM6Ls89dKy7FUHBSIXy2DpwnX4k-XK6WiuxlFUP~CRW29ELn2lwTAMRtoSrje8xf5DlRdigdCSud25kmEnB9xOmk4PeKHNLBdv1RPmmwl5gckgVrJ3M1f3dNYmf2QFna0V4sdkzYAaMkA5dvYP~lHqROkcRjin4ta8QZ9beeDsTfabYOMpMbApbzIVQyixSoGKrH2fBKKp3v4epwYg8rJ6gjcASzuNFeWBg8PtA0lrd6BT~s5pYkv5lFC60KEgS9CtVAWbZhErVQKb4TYEM64seSegTiBSFVVitxotgSAwIdV3xhNyttjBPFAnl0c3aps6d7KG8qGGn1Rfkw__
 #EXTINF:-1 station-id="awb_5ff325c9605f007dc6d2" stream-id="aws_841010761c978fd46f02" codec="unknown" bitrate="0",kbs해피fm
 https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjEwMTU2NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TZRHDkK6Dth2YQ10htGBX4scqxBlWRAdP9xpr4u9PHDgjSjmXRqRNBZIyNWIgSyVV0N6aZfA1gMCJWmIbYrS5MckXfjcRjFxF7~H8J6NypbFAAOGkJX1QLU-ZqHGnqUc19GrQfP9XHIexzkPBTeRoTeWxHrtPjnuWvktvhbkXkz4Tdxer-1w7LTmf~Gc-nc4L~rRFKbtKJmf683tYYQh8TnCqc3t8Cnj~rLhLZrAtJpqbQluktezYCun2HD5rKnLVX3rP-mp7WUVE9JUUW~hBZMkUkxhz4kXPiEYRLsSYDVEPNt4VoU~ykaUVprKCl-rNVgqMNd-efo34znGpneLzw__
 #EXTINF:-1 station-id="awb_c15fb712e234c402fd49" stream-id="aws_a29e624481c7462f0a3e" codec="mp3" bitrate="128",Korean city pop
@@ -162,11 +164,11 @@ https://listen.moe/kpop/stream
 #EXTINF:-1 station-id="awb_0bda49d91e5e469bf72f" stream-id="aws_9cd699d004eb9a0a26e6" codec="mp3" bitrate="96",MapoFM
 http://onair.mapofm.net/mapofm
 #EXTINF:-1 station-id="awb_6aa407d56e7f158678bb" stream-id="aws_d4030796aa15f3919670" codec="aac" bitrate="65",MBC FM
-https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6D610E1003733314DF4FA54232319C4E45173DE54D07D2333C60CEaF66D839C6B6aF438D3AA2AD4A50A93FC16AbC813DB7031CA3D0AE010A883CCE71009E18094E708720F61F8290E51137E45067ED96F65FCDB46118223C48DC2C5A0E846B83B15EEF13EB24A4B07AE39C1800951A25
+https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6CC13A15D3D03354C646D5BA32C1D74145BF3115940032BA3A60C3a5E67835F6EEa063D032B21C4DE0983AB166bFD12D68090E7465BE17D40DCDDE28A274695DE3577704A0107D6D5D9DA282B3AB97C89156F50E3508E90D5EE8B2BF53610A966ECEC1B8D693A4CC461267787078A282
 #EXTINF:-1 station-id="awb_96e8f5788b30ca5e69b4" stream-id="aws_c44fcf53f8d1262ec5a4" codec="aac" bitrate="66",MBC FM for you
 https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6CB1331AC3D939342F48E5F83B412B41B50B3265A40D62C43F7060a4462C3606D3a1B34C37523C44E0153D0100bDD19DE7CA20BC7874766A676459ED88440440D34C4FCD7495ED0932CD12CEE53E3967B503DFF365D07AFC15D9BA4FACD1D1BEC24033984AFD65B155158BA42B4B6CAD
-#EXTINF:-1 station-id="awb_9202ececa645f985f691" stream-id="aws_54e7ea37ae2f0b6abf49" codec="aac" bitrate="65",MBC FM4U
-https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=65C1361543C331F45047852F36D12B4705053B35EA0B625432D058a7D6B63DE6D6a0D35E39C26543C03236D1A8b6017170391579C4F019DE8A123E69A311DC4E87F743035632272CDF00ED2EE405060091AFA5045AFE416AF8C89FC81C684F11888B1662481D985F59B7F54A01D79520
+#EXTINF:-1 station-id="awb_9202ececa645f985f691" stream-id="aws_54e7ea37ae2f0b6abf49" codec="aac" bitrate="66",MBC FM4U
+https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6A01E51233A93174BE43A5BC31713C4C65193C05A403F2673F9069a836AC37F69Da1337F33F2864720D937A118b8C114A7AE89C9FD4A1A75CD22C8BD2C45774AC19C0B1B982899642A72669FCEBFA488C566152CAE37304420EC9E457B13542A79CD5F420452D820265BD377F9B91AB8
 #EXTINF:-1 station-id="awb_f29d4f68444b2c949894" stream-id="aws_6eae3cdda832a7a65534" codec="aac" bitrate="67",MBC 올댓뮤직
 https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6751871753D93B042540C5913E615C47758B3F65C80F62AC3EE08Ba0363A34C6ECa2D3173672734B205D3F310Db681974F3AAD30B48FEEF161D56AA638DCF551737AAA8CF106DB5099950B4AD0591D6A7BF542F59B350AF2E9E9F84A35BC4732B361FF292C8CBFD8D4CB12DBF8B04225
 #EXTINF:-1 station-id="awb_b3b989633bd674445376" stream-id="aws_a33c8492a6c525d1fa30" codec="unknown" bitrate="0",MBC충북 FM4U
@@ -179,10 +181,10 @@ https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
 http://cast.oldpopcafe.net:7080/
 #EXTINF:-1 station-id="awb_98acffd98c6810707043" stream-id="aws_969614003c16f9ed1cf1" codec="mp3" bitrate="128",REPLAY NEWS - 한국어 5분마다 뉴스 라디오
 https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
-#EXTINF:-1 station-id="awb_b9ed1e0f3da801482b69" stream-id="aws_094ffe105bbc01e823bb" codec="aac" bitrate="146",SBS Love FM
-https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4NDk2MTgsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNTUzY2FhZjQtODA3NC00NTExLWE4MDQtZjM4OTA3NDgwMTM4IiwiaWF0IjoxNzkxODA2NDE4fQ.rWek2QgYl6xEoyFubveya_tc2iGiHcPxCmuxCeqULPE
 #EXTINF:-1 station-id="awb_b9ed1e0f3da801482b69" stream-id="aws_9f351f43c0d8c407cfef" codec="aac" bitrate="146",SBS Love FM
 https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyMzEyMDcsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiY2UyOGEzM2YtOTNiNC00NTE2LWIzNTctNjBiZThmODcwZWQ5IiwiaWF0IjoxNzkyMTg4MDA3fQ.P0OVDEUVDdzRti-yglw5cNB8HZ2NJGrB36nJuKeWhQ0
+#EXTINF:-1 station-id="awb_b9ed1e0f3da801482b69" stream-id="aws_094ffe105bbc01e823bb" codec="aac" bitrate="145",SBS Love FM
+https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyODUyMTAsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiOTQ4NWE2MjYtODQ2ZS00NzUzLWJiM2EtMzg0NWUwODMwNWM0IiwiaWF0IjoxNzkyMjQyMDEwfQ.v1xbmCd8e_iEBnrPGQVdlJKiLOnd6Y0aD4UKwls--50
 #EXTINF:-1 station-id="awb_0909a0c16f3b9f3627da" stream-id="aws_4b66c0012b61eba56793" codec="aac" bitrate="145",SBS Power FM
 https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyNTA0MDQsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjljYTBlOTQ3LWFiNzMtNDRiMS05YzAwLTViZTYzYWJiZWM1ZiIsImlhdCI6MTc5MjIwNzIwNH0.G2Q21RKQTn1MRpbFEGz7SCN20HudaLpuBvMkfQm3eqs
 #EXTINF:-1 station-id="awb_6597b99699565fbe65e6" stream-id="aws_e5e7f0ae2022ad70e191" codec="mp3" bitrate="192",SCN - Seongseo Community FM
@@ -203,7 +205,11 @@ https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
 http://wowccm.iptime.org:8000/stream/1/
 #EXTINF:-1 station-id="awb_e1af3fe8816fc9db778e" stream-id="aws_ae095533f5e2b1d44518" codec="mp3" bitrate="128",WOWCCM
 http://wowccm.iptime.org:8000/stream/1/
-#EXTINF:-1 station-id="awb_4f85d6129dbdccbb4702" stream-id="aws_9be07d226c6d73e1bc43" codec="aac" bitrate="137",YTN 라디오
+#EXTINF:-1 station-id="awb_86acdf189014700b9853" stream-id="aws_a9106eb81ae4f9224e04" codec="unknown" bitrate="0",yojosuknam Radio
+https://audio.yojosuknam.com/radio/live.m3u8
+#EXTINF:-1 station-id="awb_86acdf189014700b9853" stream-id="aws_f34de78b8dd5b34c748d" codec="mp3" bitrate="0",yojosuknam Radio
+https://stream.yojosuknam.com/live.mp3
+#EXTINF:-1 station-id="awb_4f85d6129dbdccbb4702" stream-id="aws_9be07d226c6d73e1bc43" codec="aac" bitrate="125",YTN 라디오
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 #EXTINF:-1 station-id="awb_9dabcf98195bca4f6d54" stream-id="aws_8e36598e95f71512de11" codec="aac" bitrate="125",경인방송
 https://stream.ifm.kr/live/aod1/playlist.m3u8

@@ -11,7 +11,7 @@ https://cast1.torontocast.com:4605/stream
 http://28563.live.streamtheworld.com/AFNE_BLX_SC
 #EXTINF:-1 station-id="awb_be812a3979a1087e5858" stream-id="aws_6f38bc1c6db73e9aed3f" codec="mp3" bitrate="128",1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
-#EXTINF:-1 station-id="awb_8028705ba4e3bfd84b16" stream-id="aws_ca49926fe0e290fbee1a" codec="aac+" bitrate="47",100,5
+#EXTINF:-1 station-id="awb_8028705ba4e3bfd84b16" stream-id="aws_ca49926fe0e290fbee1a" codec="aac+" bitrate="48",100,5
 http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3
 #EXTINF:-1 station-id="awb_322639626637d230ab82" stream-id="aws_80e3a1cc9fea8221bed5" codec="aac+" bitrate="48",100,5 Das Hitradio
 http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3
@@ -243,9 +243,9 @@ https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_4b3c4cf519714e66b29d" codec="mp3" bitrate="128",Joe Lage Landen
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
-#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_49b943138edc722ae3c8" codec="aac+" bitrate="96",joe lage landen
+#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_49b943138edc722ae3c8" codec="aac+" bitrate="95",joe lage landen
 https://streams.radio.dpgmedia.cloud/redirect/joe_lage_landen/aac
-#EXTINF:-1 station-id="awb_74a266983bead203b0bf" stream-id="aws_5b3fdf1fc66ee4390667" codec="aac+" bitrate="96",joe top 2000
+#EXTINF:-1 station-id="awb_74a266983bead203b0bf" stream-id="aws_5b3fdf1fc66ee4390667" codec="aac+" bitrate="95",joe top 2000
 https://streams.radio.dpgmedia.cloud/redirect/top2000/aac
 #EXTINF:-1 station-id="awb_8b72a1815b52c0512b44" stream-id="aws_639a612b3649b9cf288c" codec="mp3" bitrate="192",Jouw Radio
 http://luister.jouwradio.be/
@@ -563,7 +563,7 @@ http://149.202.22.75:8248/;
 http://s4.yesstreaming.net:7162/stream
 #EXTINF:-1 station-id="awb_76a16ae70906d96e0578" stream-id="aws_4ddb742771cbb96dccd7" codec="mp3" bitrate="96",Radio Maria
 http://stream.radiomaria.be:8000/RadioMaria-96
-#EXTINF:-1 station-id="awb_e8e2d4012575b4bd1ca8" stream-id="aws_47158e08c57ba8fdf615" codec="aac+" bitrate="32",RADIO MARIA BELGIUM
+#EXTINF:-1 station-id="awb_e8e2d4012575b4bd1ca8" stream-id="aws_47158e08c57ba8fdf615" codec="aac+" bitrate="64",RADIO MARIA BELGIUM
 http://dreamsiteradiocp.com:8042/stream
 #EXTINF:-1 station-id="awb_10370567d20e9a7b3d5e" stream-id="aws_68ee7a4708a427325416" codec="mp3" bitrate="128",Radio Media 107 FM
 https://streaming.radiomedia.be/radiomedia.mp3
@@ -661,8 +661,6 @@ http://ks393340.kimsufi.com:8000/RadioStars-Ant
 http://stream.radiostars.be:8000/RadioStars.mka
 #EXTINF:-1 station-id="awb_24a34b24269a4fa13613" stream-id="aws_06935f10d8a130101b99" codec="aac+" bitrate="64",Radio Stars 98.5 FM & DAB+ (Belgium)
 http://stream.radiostars.be:9850/RadioStars.mka
-#EXTINF:-1 station-id="awb_8d1d40ad0ac0434cda32" stream-id="aws_fda4829dfc63861171bf" codec="mp3" bitrate="320",Radio Studio 22 Gullegem, be
-http://stream.twinmedia.be:8010/;.pls
 #EXTINF:-1 station-id="awb_729e501c454597497e1c" stream-id="aws_dc75f45436ae8049bb58" codec="mp3" bitrate="128",Radio Sud
 https://streaming.domainepublic.net/radiosud.mp3
 #EXTINF:-1 station-id="awb_0b5cd19dd3dacf126dbd" stream-id="aws_a02931bb3b11f2570988" codec="mp3" bitrate="192",Radio Sunshine 97,5 Ostbelgien
@@ -794,7 +792,7 @@ https://radios.rtbf.be/wr-m3-jazz-128.mp3
 #EXTINF:-1 station-id="awb_efa9bd774539d013d740" stream-id="aws_ef1a0bccfafba4710da2" codec="mp3" bitrate="192",scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1 station-id="awb_9cae38d685db81f97c0f" stream-id="aws_e4dac8bc16356d8dd7a8" codec="mp3" bitrate="192",Slow Radio
-http://stream1.slowradio.com/
+http://stream3.slowradio.com/
 #EXTINF:-1 station-id="awb_f2ea5e6a1c56c379399f" stream-id="aws_481bab846854d03cd343" codec="mp3" bitrate="192",Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1 station-id="awb_b0e2ec717a1753411030" stream-id="aws_463a246810652f618fe2" codec="mp3" bitrate="192",Sport FM Hoeselt

@@ -65,6 +65,8 @@ http://online.hitfm.ua/HitFM_Best
 http://online.hitfm.ua/HitFM_Top
 #EXTINF:-1 station-id="awb_317c461a8ced5e227072" stream-id="aws_4779790320c4e18707ad" codec="mp3" bitrate="128",Hit FM (UKraine) - 128kb/s
 http://195.95.206.17/HitFM
+#EXTINF:-1 station-id="awb_903671ad67b9e891a03a" stream-id="aws_9f5548a02ea8e428008c" codec="mp3" bitrate="128",Holos.FM
+http://holos.fm:8000/holos
 #EXTINF:-1 station-id="awb_72863f8f41c1ce3d37da" stream-id="aws_d9593cfd304b28d4515c" codec="mp3" bitrate="192",Hromadske Radio
 http://91.218.212.67:8000/stream
 #EXTINF:-1 station-id="awb_00c23252d42a569bb2a4" stream-id="aws_2308974eef0f4305f001" codec="mp3" bitrate="128",Informator FM
@@ -145,7 +147,7 @@ https://radio.mfm.ua/online128
 https://radio.mfm.ua/online128
 #EXTINF:-1 station-id="awb_d3f48e8ccac7a0ddfb90" stream-id="aws_e66611470b3e6350e8c3" codec="mp3" bitrate="128",Minatrix.FM: Независимое онлайн-радио и сообщество артистов для публикации музык
 https://minatrix.fm:8002/play
-#EXTINF:-1 station-id="awb_5699b8d2de5e43dba37a" stream-id="aws_6d045f4cdbca0a483ba6" codec="mp3" bitrate="128",Minatrix.FM: Независимое онлайн-радио и сообщество артистов для публикации музыки.
+#EXTINF:-1 station-id="awb_5699b8d2de5e43dba37a" stream-id="aws_6d045f4cdbca0a483ba6" codec="mp3" bitrate="0",Minatrix.FM: Независимое онлайн-радио и сообщество артистов для публикации музыки.
 https://minatrix.fm:8002/play
 #EXTINF:-1 station-id="awb_224fceca3a7f21d58e24" stream-id="aws_1ec357488a97a0e57ff8" codec="mp3" bitrate="128",Misto FM Juda
 https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3
@@ -197,7 +199,7 @@ http://jazz.ipfm.net/RadioJazz_HD
 http://jazz.ipfm.net/RadioJazz_HD
 #EXTINF:-1 station-id="awb_d85cabd33f1b4db39753" stream-id="aws_1331b4ab361c1e831958" codec="aac" bitrate="64",Radio Kyiv
 http://cdn.vsnw.net:8090/kyiv_fm_64k_aac
-#EXTINF:-1 station-id="awb_1f1ff7eadbf8ec782504" stream-id="aws_1fea997d939ad7040faf" codec="aac+" bitrate="32",Radio Maria Ukraine
+#EXTINF:-1 station-id="awb_1f1ff7eadbf8ec782504" stream-id="aws_1fea997d939ad7040faf" codec="aac+" bitrate="64",Radio Maria Ukraine
 http://dreamsiteradiocp.com:8022/stream
 #EXTINF:-1 station-id="awb_140f0bdf5bb40ac7902f" stream-id="aws_d8f8a48ca72862c34c55" codec="aac+" bitrate="160",Radio Mariia
 http://91.203.4.121:8000/stream160
@@ -275,7 +277,7 @@ http://stream.mjoy.ua:8000/rzk-aac
 http://stream.zeno.fm/71ntub27u18uv
 #EXTINF:-1 station-id="awb_1111c219bbf90ba20c6e" stream-id="aws_d386df8ccf0aac24e903" codec="mp3" bitrate="64",Segenswelle Ukrainisch
 http://www.segenswelle.de:8000/ukrainisch
-#EXTINF:-1 station-id="awb_a7d1a9f59d6b78f07684" stream-id="aws_0011aa7993dbb916a863" codec="mp3" bitrate="0",Sevastopol 102.0 FM
+#EXTINF:-1 station-id="awb_a7d1a9f59d6b78f07684" stream-id="aws_0011aa7993dbb916a863" codec="mp3" bitrate="128",Sevastopol 102.0 FM
 http://air.volna.top/SFM
 #EXTINF:-1 station-id="awb_5c77e86fcff56caf9da0" stream-id="aws_ac08ac4dc0a34998754d" codec="mp3" bitrate="128",Seven Rays - 7rays
 http://7rays.stream.laut.fm/7rays
@@ -445,8 +447,6 @@ https://radio.perec.fm/radio-stilnoe
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1 station-id="awb_55dae09fc9835917f964" stream-id="aws_ea81352bc45eb7856974" codec="mp3" bitrate="320",Подільське
 https://podilske.com:8013/p-radio
-#EXTINF:-1 station-id="awb_2342f2bb95a93139b211" stream-id="aws_4ba160a78a2528a908d6" codec="mp3" bitrate="192",Просто Radi.O (Київ)
-http://85.238.113.60:8000/PRK128
 #EXTINF:-1 station-id="awb_bb2ba49e6e660871b81a" stream-id="aws_c653d416b12299002ff0" codec="mp3" bitrate="320",Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1 station-id="awb_cd9e9c35b628b37100d7" stream-id="aws_41965d215aba9041238a" codec="mp3" bitrate="128",Радио НВ
@@ -597,6 +597,12 @@ http://radio.ukr.radio:8000/ur5-mp3
 http://radio.ukr.radio:8000/ur5-mp3
 #EXTINF:-1 station-id="awb_9bfd93f87f205d2a3354" stream-id="aws_d5fffc60d8ff9e5c9613" codec="aac+" bitrate="48",Радіоточка 192 kb/s
 http://radio.ukr.radio:8000/ur5-aacplus-l
+#EXTINF:-1 station-id="awb_622159590915ac0bec69" stream-id="aws_1a3a32633b1091fb40cc" codec="mp3" bitrate="192",Радіоточка 192 кБ/с
+https://radio.ukr.radio/ur5-mp3
+#EXTINF:-1 station-id="awb_c0d1e83349b13ef1df17" stream-id="aws_2e878bfe02d144afa686" codec="aac+" bitrate="48",Радіоточка 48 kb/s
+http://radio.ukr.radio:8000/ur5-aacplus-l
+#EXTINF:-1 station-id="awb_323613230ad398e8f95d" stream-id="aws_4a235f179e8aea601e5b" codec="aac+" bitrate="48",Радіоточка 48 кБ/с
+https://radio.ukr.radio/ur5-aacplus-l
 #EXTINF:-1 station-id="awb_f285eaf13a7ec690e747" stream-id="aws_4cf4fa39ac5efff5ef54" codec="mp3" bitrate="192",Ретро
 https://listen1.myradio24.com/5967
 #EXTINF:-1 station-id="awb_249b2aa952414db78658" stream-id="aws_91c7a5f137adadced8b1" codec="aac" bitrate="256",РокРадіо Metal

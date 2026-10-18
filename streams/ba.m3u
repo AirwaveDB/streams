@@ -189,7 +189,7 @@ http://stream.iradio.pro:8034/radiomagic
 http://stream.iradio.pro:8034/;*.mp3
 #EXTINF:-1 station-id="awb_e6022517777052f264f2" stream-id="aws_f686701188730b3a29ae" codec="aac+" bitrate="112",Radio Mango
 http://158.69.119.6:8780/stream
-#EXTINF:-1 station-id="awb_7cb44a802927ba7f4c29" stream-id="aws_52adefc896458980dd05" codec="mp3" bitrate="64",RADIO MARIA BOSNIA
+#EXTINF:-1 station-id="awb_7cb44a802927ba7f4c29" stream-id="aws_52adefc896458980dd05" codec="aac+" bitrate="64",RADIO MARIA BOSNIA
 http://dreamsiteradiocp.com:8034/stream
 #EXTINF:-1 station-id="awb_caa6b269af4e365f4fed" stream-id="aws_b3ee6f64c78d8fffb10c" codec="aac+" bitrate="64",Radio Marija
 http://dreamsiteradiocp.com:8034/
@@ -237,8 +237,6 @@ http://live.radiosrebrenik.ba:7600/;
 http://studiod.omerovic.info:8018/;
 #EXTINF:-1 station-id="awb_cf7a5cdab135b729f563" stream-id="aws_59509476c3fd47ffd6d5" codec="mp3" bitrate="96",Radio Studio M
 https://stream.leftor.com/proxy/studiom2/stream
-#EXTINF:-1 station-id="awb_460121134dd268b49f7b" stream-id="aws_a72b240583aba1cdc4a1" codec="mp3" bitrate="128",Radio Tešanj 92.2MHz
-http://radio.daj.ba:8082/stream
 #EXTINF:-1 station-id="awb_48a5f4b285450bedd326" stream-id="aws_b4dd55ab5670e0d3d8c4" codec="unknown" bitrate="128",Radio TK
 https://webtvstream.bhtelecom.ba/radio_tk.m3u8
 #EXTINF:-1 station-id="awb_d61f4e87bfa96305413b" stream-id="aws_45f305fe7c2f5f1525f2" codec="aac+" bitrate="48",Radio Trebinje
@@ -249,8 +247,6 @@ https://radio.dukahosting.com:7002/;
 https://webtvstream.bhtelecom.ba/radio_usk.m3u8
 #EXTINF:-1 station-id="awb_b664f406496b3155e355" stream-id="aws_17388cc03de49b9fbfb8" codec="mp3" bitrate="24",Radio USK 1
 https://radiousk.radioca.st/stream/
-#EXTINF:-1 station-id="awb_2172e65b90f53bc81605" stream-id="aws_514dbaf772dd464882fd" codec="mp3" bitrate="128",Radio USK 2
-https://radiousk2.radioca.st/;
 #EXTINF:-1 station-id="awb_d502e0a04051ffdb0376" stream-id="aws_f9f982dc3d52cc375f4d" codec="unknown" bitrate="128",Radio Usora
 https://webtvstream.bhtelecom.ba/radio_usora.m3u8
 #EXTINF:-1 station-id="awb_a8da6df792cdbabdb893" stream-id="aws_a2d70365f4af37f6ec5d" codec="unknown" bitrate="128",Radio Usora

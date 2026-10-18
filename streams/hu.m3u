@@ -214,17 +214,17 @@ http://discodiamond.radioca.st/stream
 #EXTINF:-1 station-id="awb_bdc2fb0db96b2c8f6b7b" stream-id="aws_dee829d0f6070fb22757" codec="mp3" bitrate="192",Disco Diamond Radio
 https://ddr2020.radioca.st/stream
 #EXTINF:-1 station-id="awb_d3de57c01b68d75a68bb" stream-id="aws_d961c411856086105046" codec="mp3" bitrate="128",Diveky-radio-gramofon
-http://178.238.223.39:8000/gramofon
+http://radio-d.hu:8000/gramofon
 #EXTINF:-1 station-id="awb_dfe535f325d10e912b1d" stream-id="aws_de7d4dd0d70b0b31a8b4" codec="mp3" bitrate="128",Diveky-radio-klasszikusok
-http://178.238.223.39:8000/klasszikusok
+http://radio-d.hu:8000/klasszikusok
 #EXTINF:-1 station-id="awb_43b649416ce093c0be12" stream-id="aws_4af8c606dbabab7647c0" codec="mp3" bitrate="128",Diveky-radio-könnyűzene
-http://178.238.223.39:8000/konnyuzene
+http://radio-d.hu:8000/konnyuzene
 #EXTINF:-1 station-id="awb_9d0c8a4b2f74e231b433" stream-id="aws_f8b4d1615f3ee2df1a39" codec="mp3" bitrate="128",Diveky-radio-madeinhungary
-http://178.238.223.39:8000/madeinhungary
+http://radio-d.hu:8000/madeinhungary
 #EXTINF:-1 station-id="awb_01abe23cc19be5d56f52" stream-id="aws_1f67ff8862303e19ec9a" codec="mp3" bitrate="128",Diveky-radio-swing
 http://178.238.223.39:8000/swing
 #EXTINF:-1 station-id="awb_9b99c04876455d65998a" stream-id="aws_c6d2f74c3633fc4f11c0" codec="mp3" bitrate="128",Diveky-radio-táncdalok
-http://178.238.223.39:8000/tancdalok
+http://radio-d.hu:8000/tancdalok
 #EXTINF:-1 station-id="awb_5be74e2aeebf897850a5" stream-id="aws_b5e8582cad44b09a9b60" codec="mp3" bitrate="128",DomBRádiÓ-Online-Dombrád
 http://dombradio.dyndns.tv:8000/live.mp3
 #EXTINF:-1 station-id="awb_5be74e2aeebf897850a5" stream-id="aws_e2129b243a107c2c7700" codec="mp3" bitrate="128",DomBRádiÓ-Online-Dombrád
@@ -297,8 +297,6 @@ https://hu-stream03.klubradio.hu:8443/bpstream
 https://stream.zebradio.hu:8443/zebradio
 #EXTINF:-1 station-id="awb_7159b3a56e63bf5902bc" stream-id="aws_4b66e44823e4109f8f71" codec="mp3" bitrate="192",Klubrádió 95,3
 https://a7.asurahosting.com:8160/radio.mp3
-#EXTINF:-1 station-id="awb_473e6a0a27683b8ae6c4" stream-id="aws_182f668904cdb7f3d719" codec="mp3" bitrate="128",Korona Fm100
-http://82.141.165.6:8000/
 #EXTINF:-1 station-id="awb_fc6d93190b5721a02479" stream-id="aws_632873636278b03044e6" codec="mp3" bitrate="192",KoronaFM100
 https://www.koronafm100.hu/live.mp3
 #EXTINF:-1 station-id="awb_f53e91b975cc47c55673" stream-id="aws_b660c6de64f6d89ae5f4" codec="mp3" bitrate="192",Kossuth
@@ -551,7 +549,7 @@ https://s03.diazol.hu:35112/mobil.aac
 https://streaming4u.synology.me:8444/ice
 #EXTINF:-1 station-id="awb_a2f5042c02417eb4203e" stream-id="aws_52f97cb5c40081913ece" codec="mp3" bitrate="192",RADIO INSIDE
 https://radioinside.eu/live.mp3
-#EXTINF:-1 station-id="awb_1bd31a2e0c325c92893a" stream-id="aws_66940f125eb4b6a5824e" codec="mp3" bitrate="64",RADIO MARIA HUNGARY
+#EXTINF:-1 station-id="awb_1bd31a2e0c325c92893a" stream-id="aws_66940f125eb4b6a5824e" codec="aac+" bitrate="64",RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1 station-id="awb_2dcc14f02c0e573c8c3a" stream-id="aws_1fee0677bb2114110217" codec="mp3" bitrate="320",Rádió Most
 http://stream.radiomost.hu:8200/live.mp3
@@ -561,6 +559,18 @@ https://trance.out.airtime.pro/trance_a
 https://smile.str.42net.hu/stream/;
 #EXTINF:-1 station-id="awb_a2ae9cc5a9acc599a132" stream-id="aws_b7d26fe8435f1f5e719a" codec="aac" bitrate="192",Radio Sunrise
 https://s03.diazol.hu:7172/stream
+#EXTINF:-1 station-id="awb_9ba68f10c5896e17579f" stream-id="aws_a0c42470ad2af09f8475" codec="mp3" bitrate="128",Radio-D - Jazz
+http://radio-d.hu:8000/jazz
+#EXTINF:-1 station-id="awb_aec0e822ab14ac55d908" stream-id="aws_8fb83ac0a06f2895888a" codec="mp3" bitrate="128",Radio-D - Magyar Nóta
+http://radio-d.hu:8000/magyarnota
+#EXTINF:-1 station-id="awb_317b03a52a2dde8e0ffe" stream-id="aws_9bc90c603ab090378551" codec="mp3" bitrate="128",Radio-D - Musical
+http://radio-d.hu:8000/musical
+#EXTINF:-1 station-id="awb_9f741e13a1a7982b7a0c" stream-id="aws_6493b23c2c45e9149fda" codec="mp3" bitrate="128",Radio-D - Opera
+http://radio-d.hu:8000/opera
+#EXTINF:-1 station-id="awb_c4a35b9eca469e3b82a4" stream-id="aws_2c2bffb677403d51fc58" codec="mp3" bitrate="128",Radio-D - Operett
+http://radio-d.hu:8000/operett
+#EXTINF:-1 station-id="awb_c38158a79dbbefe9a50a" stream-id="aws_25976384dc9d8da18ce2" codec="mp3" bitrate="128",Radio-D - Pop Rock
+http://radio-d.hu:8000/poprock
 #EXTINF:-1 station-id="awb_1d9a6bc43497cc11b975" stream-id="aws_65f316ed465be450bd74" codec="mp3" bitrate="128",Radio1
 https://icast.connectmedia.hu/5202/live.mp3
 #EXTINF:-1 station-id="awb_f98bd1a5dd6187a6e6ec" stream-id="aws_5d9d72431ed7d7b29335" codec="mp3" bitrate="0",Radio1 - Paks

@@ -7,9 +7,9 @@ http://online.radioroks.ua/RadioROKS_Ballads_HD
 http://radiostream.neotel.mk/kanal103
 #EXTINF:-1 station-id="awb_9b32284b16c82af0b004" stream-id="aws_34cb8b2021a0f75ecba0" codec="aac" bitrate="192",Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1 station-id="awb_9d86ef6b64c4d366d66d" stream-id="aws_0c1109a1c0be6dd20b88" codec="mp3" bitrate="128",Antenna 5
+#EXTINF:-1 station-id="awb_9d86ef6b64c4d366d66d" stream-id="aws_0c1109a1c0be6dd20b88" codec="mp3" bitrate="320",Antenna 5
 https://fms.off.net.mk:8000/antenna5.stream
-#EXTINF:-1 station-id="awb_57ad3e2965d29a916f23" stream-id="aws_77687e46f76007b3b9e7" codec="mp3" bitrate="128",Antenna 5 Macedonia
+#EXTINF:-1 station-id="awb_57ad3e2965d29a916f23" stream-id="aws_77687e46f76007b3b9e7" codec="mp3" bitrate="320",Antenna 5 Macedonia
 http://antenna5stream.neotel.mk:8000/live128
 #EXTINF:-1 station-id="awb_bfcff622372b4cc56f63" stream-id="aws_f97faccde0187377cda5" codec="mp3" bitrate="128",Bum Kumanovo
 http://iandonov.radioca.st/;stream/1
@@ -67,8 +67,8 @@ https://radiostream.neotel.mk/samomk
 http://radiostream.neotel.mk/samomk
 #EXTINF:-1 station-id="awb_90148deab5e4ed0ac36e" stream-id="aws_bdce8169a4b5b8593085" codec="unknown" bitrate="0",SKY FOLK
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 station-id="awb_7877f44eeeeef92e8b5d" stream-id="aws_1212820cff746f9de494" codec="aac+" bitrate="64",Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
-http://s1.skyradio.com.mk:8000/
+#EXTINF:-1 station-id="awb_7877f44eeeeef92e8b5d" stream-id="aws_1212820cff746f9de494" codec="mp3" bitrate="192",Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
+http://s1.skyradio.com.mk:8002/
 #EXTINF:-1 station-id="awb_2c7b45d0370854ed34e8" stream-id="aws_6f742c11bda1832093c2" codec="mp3" bitrate="192",Sky Radio 102.5 Skopje, Macedonia
 https://s1.skyradio.com.mk/;*.mp3
 #EXTINF:-1 station-id="awb_d1322d1400addcbaf895" stream-id="aws_1677ec0e23385f484e6b" codec="mp3" bitrate="192",Sky Radio Hits Skopje, Macedonia
@@ -99,5 +99,5 @@ https://securestreams4.autopo.st:1668/stream
 http://ekspresradio.dyndns.org:8000/
 #EXTINF:-1 station-id="awb_2a97c14a99f1315904a6" stream-id="aws_5ff1dcb45dc8e5d1f89d" codec="mp3" bitrate="128",Канал 77 Радио Мрежа
 https://radiocnd.mms.mk/proxy/player/stream
-#EXTINF:-1 station-id="awb_e3621825b049af0766bd" stream-id="aws_9ef4148139b3bc21a42d" codec="mp3" bitrate="192",Скај Радио
-http://s1.skyradio.com.mk:8002/
+#EXTINF:-1 station-id="awb_e3621825b049af0766bd" stream-id="aws_9ef4148139b3bc21a42d" codec="aac+" bitrate="64",Скај Радио
+http://s1.skyradio.com.mk:8000/
