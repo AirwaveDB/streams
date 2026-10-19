@@ -170,7 +170,7 @@
       "8df85a7e-75fb-4698-85f4-2e9ea13d1424"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T21:33:10Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_5fee9573dddf4fa090ee",
@@ -2929,6 +2929,25 @@
     "lastCheckedAt": "2026-10-17T10:45:01Z"
   },
   {
+    "id": "aws_fee5b8805c00a3cdbe75",
+    "stationId": "awb_34bd75d464a9c318e281",
+    "name": "Radio Estación Techno",
+    "country": "PE",
+    "url": "http://stream.zeno.fm/t3sqkau72rhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "31b27ea8-669f-4c84-af95-0a0eafb41402"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
     "id": "aws_41e0b0d99ab49bdc058c",
     "stationId": "awb_2d81cca7c9650a81dfd4",
     "name": "Radio Estrella Trujillo (102.7 Trujillo)",
@@ -4592,11 +4611,31 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "be2f46c8-56ca-482c-b37b-f00cb57f7c5c",
+      "ae8efb05-14f8-4fbf-accd-11ca8b006254",
       "ecdf7075-c593-4d42-8947-2d2c3b4bab74"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T05:50:36Z"
+  },
+  {
+    "id": "aws_7564f82d5333db66f9d5",
+    "stationId": "awb_791e158295f4565b73bb",
+    "name": "Radio peru andino",
+    "country": "PE",
+    "url": "https://stream-175.zeno.fm/sv5a3s8waxtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdjVhM3M4d2F4dHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVKSEZqaVFoUUxLdmNXNVJwel94WkEiLCJpYXQiOjE3Nzk2MDIwMzcsImV4cCI6MTc3OTYwMjA5N30.ZoeD-FPRM0sxxpAfj2yfPJvTVHmf8SXrdESE_EcPdIg",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0ea668d2-39ce-4459-b73c-a12835f3481c",
+      "ff2a3f5f-8d42-4c1e-8238-0f2843d334f6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_6a0a12dbaad14d63cc4f",
@@ -5275,6 +5314,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T11:50:42Z"
+  },
+  {
+    "id": "aws_4c39671d3b4e7f961a25",
+    "stationId": "awb_738c09e668d1d29c0276",
+    "name": "Radio Techno",
+    "country": "PE",
+    "url": "https://stream.zeno.fm/wucx5xcgqeruv",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d12f3c88-ea6f-4b90-9c6f-9a2a59c4af47"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_549396c82ae26fdb9690",

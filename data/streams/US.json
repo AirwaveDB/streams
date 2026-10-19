@@ -5129,7 +5129,7 @@
     "country": "US",
     "url": "http://listento.kqamradio.com:8016/stream",
     "codec": "mp3",
-    "bitrate": 120,
+    "bitrate": 96,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -5139,7 +5139,7 @@
       "ba58abda-2366-4429-b21b-e1471afd8bd0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T16:18:02Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_435feaeffac131b4b586",
@@ -30491,7 +30491,7 @@
       "00b7a7ff-5651-467d-90ac-277c86d9b52b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T20:30:46Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_88595f640534a00f1d90",
@@ -30855,23 +30855,23 @@
     "lastCheckedAt": "2026-10-17T08:05:03Z"
   },
   {
-    "id": "aws_b24b1a2f66dcce4b2a35",
-    "stationId": "awb_e998e4f83f58b6a17fcc",
-    "name": "Dead Air Radio - 24/7 Halloween Music",
+    "id": "aws_9b07edd488625b8cf57e",
+    "stationId": "awb_ce909e30732c879382ac",
+    "name": "Dead Dog Kennel Radio",
     "country": "US",
-    "url": "https://streaming.live365.com/a43471",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://deaddogkennel.club/stream",
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "06602b08-d4e6-4eb2-978e-658f0888454f"
+      "5329e679-a013-4ae2-9974-586522af3658"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_860c8a89b809483cf29c",
@@ -33166,7 +33166,7 @@
       "441346e0-d9ae-4485-8311-74750b4a50b7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_bc68613b76ea652ff44c",
@@ -41407,7 +41407,7 @@
       "05029f05-0ce4-49ac-97d4-363cf73eee0f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T20:33:14Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_376c8307e7bf964a1cf7",
@@ -44667,6 +44667,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T19:03:57Z"
+  },
+  {
+    "id": "aws_4eb6fe6aea4d300594cb",
+    "stationId": "awb_69822cc5e1d98f770314",
+    "name": "Integrity 2.0",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/4/lazlow",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2451dfcd-66c6-4134-a48f-417f049d448c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_277165559cba9becc9bd",
@@ -49124,7 +49143,7 @@
     "stationId": "awb_67a23ed876c612d14ba0",
     "name": "KCNP 89.5 - Chickasaw Nation Radio - Ada, Oklahoma",
     "country": "US",
-    "url": "http://kcnp.streamon.fm:8000/KCNP-24k.aac?starttime=1791929081",
+    "url": "http://kcnp.streamon.fm:8000/KCNP-24k.aac?starttime=1792361144",
     "codec": "aac",
     "bitrate": 96,
     "protocol": "http",
@@ -49136,7 +49155,7 @@
       "a8d64533-60f3-43da-8c78-1927385084af"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_f62c2156508a477720b0",
@@ -50054,6 +50073,25 @@
     "lastCheckedAt": "2026-10-17T02:34:09Z"
   },
   {
+    "id": "aws_715402ef81d218116b8b",
+    "stationId": "awb_72c35fb8fa9af153be0e",
+    "name": "KDKI-LP 103.9 Twin Falls, Idaho",
+    "country": "US",
+    "url": "https://s47.myradiostream.com/:14800/",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c3d1bc76-c588-4cfe-b2bd-3f524d4d1d6a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_ef256591dd6f452c4105",
     "stationId": "awb_ec26887ef867ef67e0cd",
     "name": "KDKR Radio",
@@ -50508,6 +50546,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T12:03:21Z"
+  },
+  {
+    "id": "aws_d49bff859933e605c8cb",
+    "stationId": "awb_79fcda22c0117adc0d69",
+    "name": "KEFC-LP 100.5 \"Crossroads Radio\" Turlock, California",
+    "country": "US",
+    "url": "https://streaming.live365.com/a31334",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cf7070bd-b2a0-45fa-8d7b-77cd0a6a3901"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_7bb49bab046f35afb3b9",
@@ -51267,7 +51324,7 @@
       "a02dce0d-4554-418e-aa6e-e7eb0bd96e7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_e192869dda1d029b889e",
@@ -52180,6 +52237,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T03:27:10Z"
+  },
+  {
+    "id": "aws_3903d1080abd874c43da",
+    "stationId": "awb_2652cab6ab9c159a7637",
+    "name": "KGGG \"Glory 104.3\" Jonesboro, Arkansas",
+    "country": "US",
+    "url": "https://stream-179.surfernetwork.com/yj124jouy3stv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4437234d-9478-4f1b-b74d-ab55c09b82cf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_250939e22ea704076465",
@@ -56352,6 +56428,25 @@
     "lastCheckedAt": "2026-10-17T13:59:37Z"
   },
   {
+    "id": "aws_29849c647ca1e2e66a5b",
+    "stationId": "awb_4641f7233fd3fb120d8a",
+    "name": "KNHA 100.9 \"Yosemite Radio\" - Coulterville, California",
+    "country": "US",
+    "url": "https://s6.myradiostream.com:50516/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bc71b453-9444-4880-883d-7701c284c26c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
+  },
+  {
     "id": "aws_33615790c6886a41412b",
     "stationId": "awb_9d0d25476f5913f4e367",
     "name": "KNHC \"C89.5\" Seattle, WA",
@@ -60119,7 +60214,7 @@
       "b068d19b-6dbb-422c-9ca1-03a2c3a740f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_30784699cadcd2d51460",
@@ -60386,6 +60481,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T12:52:38Z"
+  },
+  {
+    "id": "aws_7c3df2db67b4d693d52a",
+    "stationId": "awb_3fbaa6b9510ffb523f3d",
+    "name": "KSKQ Community Radio",
+    "country": "US",
+    "url": "https://kskq.org/",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "14013d51-93fe-4ae2-a8b9-22dfa8d0f99c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_6b6f727068ea9eece36d",
@@ -61165,7 +61279,7 @@
       "ae27128a-3983-4baa-9e20-54bcf9f1ddf7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_4e1820813c6d2ddf8c51",
@@ -62806,6 +62920,25 @@
     "lastCheckedAt": "2026-10-17T21:58:07Z"
   },
   {
+    "id": "aws_5d68c1fa42bd6a616d52",
+    "stationId": "awb_b1e44be834ba73580280",
+    "name": "KVAN 91.7 - Tucson, Arizona",
+    "country": "US",
+    "url": "https://shoutcast.kvan.fm/radio",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d0466463-5d31-4c7a-ad53-a0be49db624e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_0d740f6afbfb47f063fc",
     "stationId": "awb_771a6033bd53b5aea34c",
     "name": "KVCR 91.9 FM Inland Public Radio San Bernardino Community College",
@@ -63792,6 +63925,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T18:30:38Z"
+  },
+  {
+    "id": "aws_3f944b480c9cf3f481d7",
+    "stationId": "awb_e37399b87c5a97fde437",
+    "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
+    "country": "US",
+    "url": "https://cast5.asurahosting.com/proxy/kwssradi/stream",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5a072448-c1be-4bc7-9c68-4136fabf0a63"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_1beb1fd46e269c9ae99d",
@@ -65487,7 +65639,7 @@
       "8812cc25-95a8-45d1-89aa-72aba47b16b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:26:52Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_a2d698c12ea9fd81d078",
@@ -67010,25 +67162,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T04:55:53Z"
-  },
-  {
-    "id": "aws_1d9ada6393512aff849c",
-    "stationId": "awb_e3715a78bb956ac7ae7e",
-    "name": "Live 105.5fm",
-    "country": "US",
-    "url": "https://www.live1055.fm/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "038be685-0e4e-4a4b-b176-2d89b884af29"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_bcb1fdb5707d1f078554",
@@ -73039,25 +73172,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T09:37:59Z"
-  },
-  {
-    "id": "aws_ba299a2bde250db8e60c",
-    "stationId": "awb_dd74cda3962c1535749a",
-    "name": "NewsTalk 93.9 & 910 WSBA",
-    "country": "US",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBAAMAAC.aac",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4d6badac-609c-4f17-9e94-183de5513eee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_f6633337ed3aa2e75aed",
@@ -88418,6 +88532,25 @@
     "lastCheckedAt": "2026-10-16T00:21:55Z"
   },
   {
+    "id": "aws_db13c7e7053010e5b215",
+    "stationId": "awb_f94cd0f2a77be2fa707d",
+    "name": "RTVRadio Soul R&B",
+    "country": "US",
+    "url": "http://rtvradio.sytes.net:8000/soul",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "549445b0-f30f-4b73-ab8c-a8c4fde82ec4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
+  },
+  {
     "id": "aws_528567795d8d945f5174",
     "stationId": "awb_b979d05e8e810b344746",
     "name": "RTVRadio Top1000",
@@ -91588,7 +91721,7 @@
       "64053944-142e-4df4-a235-f35b5513d043"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_6d8ecc7d5978ab24089d",
@@ -95474,7 +95607,7 @@
       "ae2453a5-341d-4897-a214-9b99e4950a89"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_e9a1d0b2fdb83fd37f26",
@@ -96428,6 +96561,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T23:07:50Z"
+  },
+  {
+    "id": "aws_5f1cc8b846c075906dd0",
+    "stationId": "awb_0a810c1d69971e3ef33f",
+    "name": "Stargate Radio",
+    "country": "US",
+    "url": "https://radio.generaljackoneill.space/listen/stargate_radio/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "307ec9a7-4928-45aa-92a6-db9a3f46a991"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_09be3bdd157342b21697",
@@ -98771,7 +98923,7 @@
       "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_6d7e488ece427601d43f",
@@ -99513,7 +99665,7 @@
       "ce93d13a-8de9-450a-bbb1-a955f6dd7241"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_0337d288eb8f9bdddff5",
@@ -104035,7 +104187,7 @@
       "b1ee7c93-8e80-43a3-8ae0-e4f14bc35ecb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_de6a0741acc52eb1c9ec",
@@ -104838,6 +104990,25 @@
     "lastCheckedAt": "2026-10-17T21:37:24Z"
   },
   {
+    "id": "aws_9275a8223f0fbb42445f",
+    "stationId": "awb_e2a957c0ff03c33d3aa7",
+    "name": "Universe Night Radio",
+    "country": "US",
+    "url": "http://unr.ishout.net/listen/universe_night_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c194bcc-47e0-46f6-a173-c0f392772976"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
     "id": "aws_754f984bbadd24d53b62",
     "stationId": "awb_d43cec6db9d81087dd5d",
     "name": "University Of Oregon - KWAX",
@@ -105577,6 +105748,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T20:25:00Z"
+  },
+  {
+    "id": "aws_c4561b2e1df2b0cec78a",
+    "stationId": "awb_b390325d423aeac29249",
+    "name": "Vice City Public Radio (VCPR)",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/vc/vcpr",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a46b8147-96d9-4da2-9428-dee2f18e0b03"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_f688dc8103c9f4e4eeba",
@@ -106883,6 +107073,26 @@
     "lastCheckedAt": "2026-10-17T23:00:13Z"
   },
   {
+    "id": "aws_d64f763cd9b088cf7a31",
+    "stationId": "awb_eaae76e373582000e34c",
+    "name": "WAQM The Legacy",
+    "country": "US",
+    "url": "http://a10.asurahosting.com:7550/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "05ae83df-e620-48cf-b2b0-9cdda8021c8a",
+      "3af89cec-fa7e-46e3-9699-99d889173a02"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
     "id": "aws_e2edc77222a365bb0a9e",
     "stationId": "awb_e9970c37a5ceeb063fe7",
     "name": "War Room",
@@ -107624,6 +107834,25 @@
     "lastCheckedAt": "2026-10-17T19:06:14Z"
   },
   {
+    "id": "aws_6260de605a4d8dfa1625",
+    "stationId": "awb_fd2f6beb2686960a2a12",
+    "name": "WBED \"Fun 90.1\" Bedford, Indiana",
+    "country": "US",
+    "url": "http://23.29.119.99:8089/live.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c5407459-fb72-4dd7-afe1-515830353f11"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_b9177e35afb366acc4c7",
     "stationId": "awb_c9b30f46432facbb1f13",
     "name": "WBER 90.5 FM",
@@ -108214,7 +108443,7 @@
       "46910332-733f-4bcf-951c-d9b5ebf35c2e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_d857f78f2c1584371fe6",
@@ -108756,8 +108985,8 @@
     "name": "WCCL 106.3 \"Bethel Radio\" Leesburg, Florida",
     "country": "US",
     "url": "https://stream-175.surfernetwork.com/2ftn47qehuhvv",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -108767,7 +108996,7 @@
       "4ae71ce2-ce33-4d02-be02-cc68383ef8d0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_f9482fb745f515d09631",
@@ -108964,9 +109193,9 @@
     "stationId": "awb_cbc5b44ca86e29517915",
     "name": "WCKA 810 AM/94.3 FM/97.1 FM - Jacksonville, Alabama",
     "country": "US",
-    "url": "https://ice64.securenetsystems.net/WCKA.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://ice64.securenetsystems.net:80/WCKA",
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -108976,7 +109205,7 @@
       "0deb2492-6ec8-40f9-95a4-4d229ec6f89c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_4001bbfa0379369aaebe",
@@ -110486,8 +110715,8 @@
     "stationId": "awb_0e5d36d84c41c555d076",
     "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
     "country": "US",
-    "url": "https://stream.revma.ihrhls.com/zc3089.m3u",
-    "codec": null,
+    "url": "https://n26b-e2.revma.ihrhls.com/zc3089",
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -110498,7 +110727,7 @@
       "17958225-4028-43a0-af2c-76298aab1ea7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_3fe4e5ed1d12e97eac8e",
@@ -110887,8 +111116,8 @@
     "name": "WENN 1320 AM/92.3 FM \"Star 92\" Birmingham, Alabama",
     "country": "US",
     "url": "https://stream-04.surfernetwork.com/qd622vepg7dtv",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -110898,7 +111127,7 @@
       "cf5f8cf9-5075-4ceb-a718-51be6222d7c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_f5768c4855c6c14d5095",
@@ -112180,8 +112409,8 @@
     "name": "WFNE 103.5 \"EPIC Radio\" Wake Forest, North Carolina",
     "country": "US",
     "url": "https://a3.asurahosting.com/listen/epic_radio_103.5fm/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -112191,7 +112420,7 @@
       "d505fdbd-36d7-465b-b6c3-792e27d46512"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_ddd3f7d1386b2b951c83",
@@ -113072,9 +113301,9 @@
     "stationId": "awb_78dd5ac1b6ca32f5f987",
     "name": "WGRU 99.1 \"Grace FM\" Riverdale, Georgia",
     "country": "US",
-    "url": "https://ice66.securenetsystems.net/WGRU.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://ice66.securenetsystems.net:80/WGRU",
+    "codec": "aac+",
+    "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -113084,7 +113313,7 @@
       "c33f6f40-245e-4779-9e07-2d5210addc2d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_a7d98324a3a868da2093",
@@ -113559,7 +113788,7 @@
       "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_c918807bcd9ac6b9dd4c",
@@ -114557,7 +114786,7 @@
       "3f00f321-fdfb-4a3e-b321-54c33aa83aa8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_1463cc54ea5ac2a21a93",
@@ -115167,6 +115396,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-16T21:37:29Z"
+  },
+  {
+    "id": "aws_6b5ccd9d8cd698e27736",
+    "stationId": "awb_ce5fe58e08b82b466142",
+    "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+    "country": "US",
+    "url": "https://www.919witt.stream/stream",
+    "codec": "mp3",
+    "bitrate": 140,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "db2c0466-d3a1-402a-968c-4643e8ee34a5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_11bd3f5a5ffc4af9d80e",
@@ -115794,25 +116042,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T13:15:58Z"
-  },
-  {
-    "id": "aws_d7a3069e9d149e50a314",
-    "stationId": "awb_5670ff987e93036f08ff",
-    "name": "WJLD 1400 AM/104.1 FM/9.5 TV -",
-    "country": "US",
-    "url": "https://streaming.live365.com/a87833",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6c88bee-df4c-4b2c-976e-20a91a15887f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_082d3ebe99aff2134b97",
@@ -117017,6 +117246,25 @@
     "lastCheckedAt": "2026-10-17T21:33:28Z"
   },
   {
+    "id": "aws_22ca94805ecc2d14a8e6",
+    "stationId": "awb_97f2429b32348dac06a0",
+    "name": "WKTT 106.6 (We Know The Truth)",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/4/wktt",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3156c76d-0f79-4e28-abfc-6ddc388aef59"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_ba50beed3c57c9040428",
     "stationId": "awb_1dd482c3f2b4dba8dc11",
     "name": "WKTU \"KTU 103.5 The Beat of New York\" - Lake Success, NY",
@@ -117478,8 +117726,8 @@
     "name": "WLJR 88.5 FM - Birmingham, Alabama",
     "country": "US",
     "url": "https://media.streambrothers.com:2000/radio/8478/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -117489,7 +117737,7 @@
       "6417f176-f910-408d-9206-67379f6f9430"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_f5360dfb565df4c336c8",
@@ -118272,7 +118520,7 @@
       "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_bbf0829c194f7ce6fdd3",
@@ -119024,8 +119272,8 @@
     "name": "WMTG 88.1 - Mount Gilead, North Carolina",
     "country": "US",
     "url": "https://s6.reliastream.com/proxy/wmtg/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -119035,7 +119283,7 @@
       "5fef7910-848d-4aa5-8ede-dc18e5a13d93"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_08beab9ea2ba8669dc98",
@@ -120240,8 +120488,8 @@
     "name": "WOHJ-LP 95.7 Leesburg, Georgia",
     "country": "US",
     "url": "https://streaming.live365.com/a84499",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -120251,7 +120499,7 @@
       "71c099bf-99c5-4263-b34d-b8c5e5a8ccd3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_2112093a905dcdf67e31",
@@ -121265,9 +121513,9 @@
     "stationId": "awb_93531ff64dda58554276",
     "name": "WPFH 95.7 - Port Charlotte, Florida",
     "country": "US",
-    "url": "https://ice25.securenetsystems.net/WPFHLP.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://ice25.securenetsystems.net:80/WPFHLP",
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -121277,7 +121525,7 @@
       "16e52888-8103-4d7e-a92a-548b6df622b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_b3030cd88338470b80c3",
@@ -122102,8 +122350,8 @@
     "stationId": "awb_dadf85360f52d5f05af5",
     "name": "WQEN-HD2 \"103.1 The Beat\" - Birmingham, Alabama",
     "country": "US",
-    "url": "https://stream.revma.ihrhls.com/zc4956.m3u",
-    "codec": null,
+    "url": "https://n10b-e2.revma.ihrhls.com/zc4956",
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -122114,7 +122362,7 @@
       "7a2b91a5-f16c-4384-8778-f7ddbc166f60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_a18a29f788be12fe8cce",
@@ -122362,6 +122610,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T11:19:25Z"
+  },
+  {
+    "id": "aws_24ba9e3229788a8e506f",
+    "stationId": "awb_7bed575f95260311c78d",
+    "name": "WQRT 99.1 Indianapolis, Indiana",
+    "country": "US",
+    "url": "https://cast6.my-control-panel.com/proxy/wqrt/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f252464c-c4e7-4fe4-a4f8-a1898b3dff29"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_1e8f00aec840599834d1",
@@ -126557,8 +126824,8 @@
     "name": "WUCR 107.9 \"Tiger Stream Radio\" - Lake Butler, Florida",
     "country": "US",
     "url": "http://streamer.radio.co/s2ac87bedd/listen",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -126568,7 +126835,7 @@
       "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_0f3317a83e7c329a7fba",
@@ -127317,9 +127584,9 @@
     "stationId": "awb_3ea1f16650201898db5a",
     "name": "WURL 760 - Moody, Alabama",
     "country": "US",
-    "url": "https://ice5.securenetsystems.net/WURL.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://ice5.securenetsystems.net:80/WURL",
+    "codec": "aac",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -127329,7 +127596,7 @@
       "81699fa6-3151-4540-ae55-e843a638f745"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_0b96d44fb429a5420aa8",
@@ -128160,8 +128427,8 @@
     "name": "WVFV-LP 95.9 \"Voice For Victory\" Roanoke Rapids, North Carolina",
     "country": "US",
     "url": "https://streaming.live365.com/a60616",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -128171,7 +128438,7 @@
       "0514ad04-f3e8-4676-80be-1938683c6821"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_a360d24f0c0d79ad4efc",
@@ -129582,6 +129849,25 @@
     "lastCheckedAt": "2026-10-17T21:17:26Z"
   },
   {
+    "id": "aws_b99b1926135293136611",
+    "stationId": "awb_beb8f0c997694fe0d60c",
+    "name": "WWSW \"3WS\" 94.5 Pittsburgh, Pennsylvania",
+    "country": "US",
+    "url": "https://n0db-e2.revma.ihrhls.com/zc2029",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7a15aff2-c23e-4bb2-bd3b-2da5079349fc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_9bfd2b7336c5c2a5fe37",
     "stationId": "awb_dd4292649adeda22a942",
     "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
@@ -129598,7 +129884,7 @@
       "736d6add-9c0d-45c0-a5b0-5fa1a04a1d56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_113fee2355a52330d76c",
@@ -130477,6 +130763,25 @@
     "lastCheckedAt": "2026-10-15T18:20:13Z"
   },
   {
+    "id": "aws_978f9d6fe9f1eb94e190",
+    "stationId": "awb_b7bfeddba0ee0c6e7753",
+    "name": "WYAR 88.3 \"Heritage Radio\" Yarmouth, Maine",
+    "country": "US",
+    "url": "https://wyar.broadcasttool.stream/play",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bcab4360-5f33-4024-96ff-59e5c03ed017"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_23a89d9d94b78b2f4040",
     "stationId": "awb_7557900a8a538d428e14",
     "name": "WYCE",
@@ -130706,6 +131011,25 @@
     "lastCheckedAt": "2026-10-17T18:05:31Z"
   },
   {
+    "id": "aws_e7259d2ad6c4a23f1e1c",
+    "stationId": "awb_57d1107ce1cc947698fe",
+    "name": "WYRZ 98.9 Brownsburg, Indiana",
+    "country": "US",
+    "url": "https://stream1.rcast.net/61304",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c31765c-78c5-4406-b143-6e4d1b2ef60a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
     "id": "aws_e32619f09cf4db724efa",
     "stationId": "awb_1ccf748784e7b9f2b277",
     "name": "WYSO 91.3 Yellow Springs, OH",
@@ -130742,6 +131066,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T19:11:21Z"
+  },
+  {
+    "id": "aws_ea2aeb834c708fe449fe",
+    "stationId": "awb_64aff5ca5feb85fd4e93",
+    "name": "WYTJ 89.3 Linton, Indiana",
+    "country": "US",
+    "url": "https://wytj.streamguys1.com/wytj-fm",
+    "codec": "aac",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "66dbe67e-9d87-4703-8344-e45bc04d4f7f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_51cb8a5c1a7e4a3256f9",
@@ -131201,6 +131544,25 @@
     "lastCheckedAt": "2026-10-17T09:07:32Z"
   },
   {
+    "id": "aws_5f27274c29b15cc79d5e",
+    "stationId": "awb_c0847c3e3e7af997724c",
+    "name": "WZPH 96.7 \"The Zephyr\" - Zephyrhills, Florida",
+    "country": "US",
+    "url": "https://ice66.securenetsystems.net/WZPH",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ae15311c-cf7e-4016-bee4-4189e240c262"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
+  },
+  {
     "id": "aws_69c74d78ba044a5f1653",
     "stationId": "awb_33905ae0df5a0b755554",
     "name": "WZPP 92.7",
@@ -131378,7 +131740,7 @@
     "name": "WZZK 104.7 - Birmingham, Alabama",
     "country": "US",
     "url": "https://stream.rcs.revma.com/h9py8trxu7uvv",
-    "codec": null,
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -131389,7 +131751,7 @@
       "7f26cffc-6629-47a7-8436-d3a3aaf94bdc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_38bdd0046e573664e708",
@@ -132209,7 +132571,7 @@
       "d999294b-368a-40a8-b564-3c0035711eb1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_c33c73d34be67ecbc3ec",

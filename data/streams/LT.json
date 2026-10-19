@@ -692,6 +692,25 @@
     "lastCheckedAt": "2026-10-17T18:40:28Z"
   },
   {
+    "id": "aws_364a0c871ec740d497a7",
+    "stationId": "awb_c4e87d19199db10b8f64",
+    "name": "M-1 Radio",
+    "country": "LT",
+    "url": "https://stream.m-1.fm/m1/mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "482b510c-3a44-4f6c-a809-6c6a43d3b4dd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_5faaba4ae64b7e532647",
     "stationId": "awb_cd785ffcaa1211d5b6ca",
     "name": "Mano",
@@ -1524,6 +1543,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T18:05:31Z"
+  },
+  {
+    "id": "aws_9c4752d071941466966c",
+    "stationId": "awb_9f1d2066f90bb21b19fa",
+    "name": "Radio Lietus",
+    "country": "LT",
+    "url": "https://stream.m-1.fm/lietus/mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "51c0ab24-9bb6-4e9b-a4a6-418c06a2897a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_8b44260206faee3278e8",

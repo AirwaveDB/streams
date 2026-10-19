@@ -2966,6 +2966,25 @@
     "lastCheckedAt": "2026-10-16T22:16:24Z"
   },
   {
+    "id": "aws_1a023ea589cde0f313e3",
+    "stationId": "awb_594c62cd355836237712",
+    "name": "EL CLUB DE LA PLUMA",
+    "country": "AR",
+    "url": "https://streaming01.shockmedia.com.ar:10728/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "96b0d68b-a57d-46e0-a33d-29b9238b07ae"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
     "id": "aws_2c272f3f116b7f2713e9",
     "stationId": "awb_469f8ba763fc41abf138",
     "name": "El Destape",
@@ -16065,7 +16084,7 @@
     "name": "Radio Jai 96.3",
     "country": "AR",
     "url": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8",
-    "codec": null,
+    "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
     "hls": true,
@@ -16076,7 +16095,7 @@
       "9af2bdd6-4be6-4ff6-8dc2-439cb1c332f1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_f23e26692064afa22699",
@@ -16706,7 +16725,7 @@
       "ea63eebb-cdae-4821-aa1c-cda4f3bfae80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T04:20:35Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_09a4f8e3d3516df7c336",
@@ -19738,6 +19757,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T08:05:03Z"
+  },
+  {
+    "id": "aws_91075ae9c946c8279420",
+    "stationId": "awb_d053367095d1ccb579cd",
+    "name": "Radionauta",
+    "country": "AR",
+    "url": "https://stream.codigosur.org/radionauta.mp3",
+    "codec": "mp3",
+    "bitrate": 112,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "02998392-8877-44f8-93d8-088a6072f76b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_f1b0845b846e63b3fbc4",

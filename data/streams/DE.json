@@ -6051,7 +6051,7 @@
       "13c6bdb4-3476-494c-91a2-877d70b5d3d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:04:18Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_d18339e5b4f7dce9bbaf",
@@ -7808,7 +7808,7 @@
       "961b8b60-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:48:17Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_c060abf25e53fe8cf14e",
@@ -11863,7 +11863,7 @@
       "eaef888e-0e78-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T21:55:39Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_8bec480c7db9d24d8e71",
@@ -15525,7 +15525,7 @@
       "3f676fb0-3870-4494-8ef2-8ea05ae97300"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_6607f7c9607bcfadf8a9",
@@ -26675,7 +26675,7 @@
       "099b1a44-0475-4aa3-a0fb-ef9e878e650b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_6f40e8e0c7d2029b0b97",
@@ -32388,7 +32388,7 @@
       "37e54711-3d68-4ce4-a616-334650a0a56a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T15:09:57Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_9225ad4c7ba9d579a94d",
@@ -44955,7 +44955,7 @@
       "9226fcee-dcaa-42e6-a030-3bce71ca46fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_d325687a9f79b0a261d7",
@@ -51436,7 +51436,7 @@
       "963d0354-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:50:27Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_7da478dfae89dcc16351",
@@ -62793,7 +62793,7 @@
       "14d31dc6-d7c4-42c8-9154-350007ae3a6e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T19:59:43Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_a8dae9449993a18b8ca1",
@@ -67180,7 +67180,7 @@
       "fbae666a-56ad-4c9e-9c51-3f9073c71212"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_507e9a093ba61a756afe",
@@ -67772,6 +67772,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T02:31:04Z"
+  },
+  {
+    "id": "aws_05e76cb08ef71a43bc85",
+    "stationId": "awb_4f830d51d8573597b92b",
+    "name": "Progschuppen",
+    "country": "DE",
+    "url": "https://stream.laut.fm/progschuppen",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5a63e83a-2baa-4a9e-8fc2-55c88dc864b3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_718eb0736e4ef6f1e8f3",
@@ -86786,7 +86805,7 @@
       "e5ab02f4-7496-4011-b171-a9a567e14adf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_246db4cf62e98cfab259",
@@ -94629,6 +94648,25 @@
     "lastCheckedAt": "2026-10-16T22:32:35Z"
   },
   {
+    "id": "aws_ab7f082a44f4947c497c",
+    "stationId": "awb_b5a3b0590f9b58ac5224",
+    "name": "Rockabilly & Dj Oliver Woltmann",
+    "country": "DE",
+    "url": "https://stream.laut.fm/rockabilly",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "61ad7600-60c3-4751-bc86-2cc9d9252b49"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
+  },
+  {
     "id": "aws_776378805a71afb07103",
     "stationId": "awb_013a61f4ce4b4be850a1",
     "name": "Rockantenne",
@@ -101842,7 +101880,7 @@
       "7523c1b1-57cd-45c0-907b-cc8524650407"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_1834d0fdd02e5d66a200",
@@ -102470,7 +102508,7 @@
       "7e487787-b12d-47c8-8764-158731c05a59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T22:05:53Z"
+    "lastCheckedAt": "2026-10-18T15:33:29Z"
   },
   {
     "id": "aws_c2bfb9b2571cc75bdaec",
@@ -105761,7 +105799,7 @@
       "9624a7d5-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-12T21:55:39Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_1886f68b94071225eaa0",
@@ -106168,7 +106206,7 @@
       "ed1d2979-fb9a-47b0-9483-d61aa4c42016"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
     "id": "aws_e28ed2d1c65183a598d7",

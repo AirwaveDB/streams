@@ -175,7 +175,7 @@
       "d9f10aef-3453-4a7a-9ba9-35f5931392a9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T21:44:24Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_9373c8362d8657007789",
@@ -273,6 +273,26 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T10:52:25Z"
+  },
+  {
+    "id": "aws_47d53ad8961c76d1ee90",
+    "stationId": "awb_35fbc0cdf40cfda5afb5",
+    "name": "BadRock Radio",
+    "country": "BG",
+    "url": "https://streams.badrockradio.net/national",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "190089aa-0a7f-433a-bb1a-79129e0f0e1c",
+      "558c4adf-b1ab-4c2e-99ab-ae2755f2a538"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_11b68026cdb5eec2faec",
@@ -2796,7 +2816,7 @@
       "dc699a1f-9d20-4993-b42d-70d28e444a87"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T02:35:15Z"
   },
   {
     "id": "aws_14fa92a1406137729588",
@@ -6873,6 +6893,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T17:14:28Z"
+  },
+  {
+    "id": "aws_96d128644a837a0c6e45",
+    "stationId": "awb_d87209ba957558d16a55",
+    "name": "Радио Рибка.бг",
+    "country": "BG",
+    "url": "https://xn--80abuj1a.xn--90ae/live-radio",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "96b58791-6b1e-409c-83ca-ba018080427c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_4355bc3b694c8a65c461",
