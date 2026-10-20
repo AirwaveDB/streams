@@ -520,5 +520,43 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-16T22:19:15Z"
+  },
+  {
+    "id": "aws_fb8c2bedd5946e012b8e",
+    "stationId": "awb_3be939dead2cf9ff086b",
+    "name": "澳門電台 FM100.7",
+    "country": "MO",
+    "url": "https://globallive.tdm.com.mo/live/rch2a.live/chunklist_w603131197.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0aaa9508-96ff-46cc-80d3-8a9036cc87e2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
+    "id": "aws_ca843d32658c4279b167",
+    "stationId": "awb_3be939dead2cf9ff086b",
+    "name": "澳門電台 FM100.7",
+    "country": "MO",
+    "url": "https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8",
+    "codec": "aac,h.264",
+    "bitrate": 340,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ee786df-23e5-4350-8f8b-3b315068937c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   }
 ]

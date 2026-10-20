@@ -1350,7 +1350,7 @@
       "74e9e192-f937-4c97-b412-fd6f6f287591"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_b3a8e05e95db7fb17c72",
@@ -2203,7 +2203,7 @@
       "17870a88-c273-4192-ac2d-6bbcf914e419"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_a8a1a7d3a22008c1f434",
@@ -12616,8 +12616,8 @@
     "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
     "country": "CA",
     "url": "https://harvestersfm.radioca.st/CJLU",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -12627,7 +12627,7 @@
       "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_eedb48a18cb4b1c8cbba",
@@ -18936,6 +18936,26 @@
     "lastCheckedAt": "2026-10-17T21:33:28Z"
   },
   {
+    "id": "aws_595522d621f1fa441b1c",
+    "stationId": "awb_07d48cdc7d5c6c3f4823",
+    "name": "Dead Moon Radio",
+    "country": "CA",
+    "url": "https://stream.deadmoonradio.com/radio/DeadMoonRadio.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d",
+      "d0a3760c-e6e6-4a5e-b41a-bdbdb3e71231"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
     "id": "aws_3f78723de530d8adcd91",
     "stationId": "awb_17fc77e0a4e7c2a5aff4",
     "name": "DJFM.ca Toronto, ON",
@@ -19894,6 +19914,101 @@
     "lastCheckedAt": "2026-10-17T20:18:10Z"
   },
   {
+    "id": "aws_ec819adccdd34e73e158",
+    "stationId": "awb_0e11970a068bc8db8491",
+    "name": "Hamnava Records - Chill",
+    "country": "CA",
+    "url": "https://radio.nimaarki.com/chill/stream?_ic2=1",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "830365d1-530d-4945-8d30-5ced3734a48b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
+    "id": "aws_41e67cbe1195277e1ebc",
+    "stationId": "awb_0ee4cfa71fedd173fc8a",
+    "name": "Hamnava Records - Deep",
+    "country": "CA",
+    "url": "https://radio.nimaarki.com/deep/stream?_ic2=1",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d916f208-b68c-402b-816e-d765a6823411"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
+    "id": "aws_faf469b7de68476873d8",
+    "stationId": "awb_81839090c28dc366e7b8",
+    "name": "Hamnava Records - Latest",
+    "country": "CA",
+    "url": "https://radio.nimaarki.com/latest/stream?_ic2=1",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "12fab74d-3fa9-4cdf-aaad-95d79260fb36"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
+    "id": "aws_709398cb1b86fbfe4cae",
+    "stationId": "awb_32c816ff986825293a8d",
+    "name": "Hamnava Records - Lofi",
+    "country": "CA",
+    "url": "https://radio.nimaarki.com/lofi/stream?_ic2=1",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c963baa8-e165-418d-a2d0-7e28e5d6f841"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
+    "id": "aws_ed3614f07c5fa7807fd5",
+    "stationId": "awb_1d701def8a10f1d53f13",
+    "name": "Hamnava Records - Retro",
+    "country": "CA",
+    "url": "https://radio.nimaarki.com/retro/stream?_ic2=1",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
     "id": "aws_616015aeb1d72f3ba460",
     "stationId": "awb_7e7adcb102c1b14d5986",
     "name": "Hang 10 Rock Radio - Tofino, BC",
@@ -20044,7 +20159,7 @@
       "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_b7612ff5cdbff1a22bb1",
@@ -24545,6 +24660,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T13:15:58Z"
+  },
+  {
+    "id": "aws_3ec3a317de460316bfc6",
+    "stationId": "awb_aeb643ff3549321c2758",
+    "name": "Radio Pacoul",
+    "country": "CA",
+    "url": "https://live.radiopacoul.top/stream/radiopacoul/stream",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "263e79f0-f145-4b15-aa95-adfc5bc87051"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_7b74b8d45aa8075fb9e2",

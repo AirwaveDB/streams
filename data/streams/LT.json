@@ -697,8 +697,8 @@
     "name": "M-1 Radio",
     "country": "LT",
     "url": "https://stream.m-1.fm/m1/mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -708,7 +708,7 @@
       "482b510c-3a44-4f6c-a809-6c6a43d3b4dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_5faaba4ae64b7e532647",
@@ -1562,6 +1562,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-19T02:35:15Z"
+  },
+  {
+    "id": "aws_1b1f8bde3889a132fc6e",
+    "stationId": "awb_cd59f8208caf1518e1f0",
+    "name": "RADIO MOON",
+    "country": "LT",
+    "url": "http://193.70.34.27:20330/kdime",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "42d3a5c0-0086-4c96-b8e8-96a2c4f6a303"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_8b44260206faee3278e8",

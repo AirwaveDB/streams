@@ -1311,7 +1311,7 @@ http://rosetta.shoutca.st:8883/;
 http://cjlr.streamon.fm/stream/CJLR-32k.aac
 #EXTINF:-1 station-id="awb_e20e647927c59fac75e7" stream-id="aws_1f9dc7d1af50b096657b" codec="aac" bitrate="128",CJLS-FM 'Y95' 95.5 Yarmouth, 93.5 Digby, 96.3 Shelburne, NS
 https://ais-sa1.streamon.fm/7228_128k.aac/playlist.m3u8
-#EXTINF:-1 station-id="awb_0e3d2f2c4ccb16901338" stream-id="aws_c84f45d6dfb688969b26" codec="" bitrate="0",CJLU 93.9 'Nova Scotia's Inspire FM' Dartmouth/Halifax, Nova Scotia
+#EXTINF:-1 station-id="awb_0e3d2f2c4ccb16901338" stream-id="aws_c84f45d6dfb688969b26" codec="aac+" bitrate="128",CJLU 93.9 'Nova Scotia's Inspire FM' Dartmouth/Halifax, Nova Scotia
 https://harvestersfm.radioca.st/CJLU
 #EXTINF:-1 station-id="awb_fb117a28d50bfb78a986" stream-id="aws_eedb48a18cb4b1c8cbba" codec="mp3" bitrate="64",CJLV 1570 LaSalle, QC
 http://centova.radioservers.biz:8264/stream
@@ -1971,6 +1971,8 @@ https://dancewave.online/dance.flac.ogg
 https://danceradio.ca/danceradio.mp3
 #EXTINF:-1 station-id="awb_fead8010bb8fe078fb9c" stream-id="aws_a56c27ccd734b62e1069" codec="mp3" bitrate="0",DAREU RAdio
 https://s5.radio.co/s9dd8d7dce/listen
+#EXTINF:-1 station-id="awb_07d48cdc7d5c6c3f4823" stream-id="aws_595522d621f1fa441b1c" codec="mp3" bitrate="320",Dead Moon Radio
+https://stream.deadmoonradio.com/radio/DeadMoonRadio.mp3
 #EXTINF:-1 station-id="awb_17fc77e0a4e7c2a5aff4" stream-id="aws_3f78723de530d8adcd91" codec="mp3" bitrate="128",DJFM.ca Toronto, ON
 http://mux.mtl.djfmradio.com/djfm
 #EXTINF:-1 station-id="awb_dd5c9ad36cbafb92e8fa" stream-id="aws_9d8d6ca2e17804896aeb" codec="mp3" bitrate="128",DKFM Edge
@@ -2071,6 +2073,16 @@ https://listen.radioking.com/radio/10713/stream/21674
 https://listen.radioking.com/radio/10713/stream/224413
 #EXTINF:-1 station-id="awb_2ade8d3df477d21033ea" stream-id="aws_91d0e7b8edeb9a95a6e7" codec="mp3" bitrate="128",Guitar Calm Radio
 http://streams.calmradio.com:2728/
+#EXTINF:-1 station-id="awb_0e11970a068bc8db8491" stream-id="aws_ec819adccdd34e73e158" codec="mp3" bitrate="0",Hamnava Records - Chill
+https://radio.nimaarki.com/chill/stream?_ic2=1
+#EXTINF:-1 station-id="awb_0ee4cfa71fedd173fc8a" stream-id="aws_41e67cbe1195277e1ebc" codec="mp3" bitrate="0",Hamnava Records - Deep
+https://radio.nimaarki.com/deep/stream?_ic2=1
+#EXTINF:-1 station-id="awb_81839090c28dc366e7b8" stream-id="aws_faf469b7de68476873d8" codec="mp3" bitrate="0",Hamnava Records - Latest
+https://radio.nimaarki.com/latest/stream?_ic2=1
+#EXTINF:-1 station-id="awb_32c816ff986825293a8d" stream-id="aws_709398cb1b86fbfe4cae" codec="mp3" bitrate="0",Hamnava Records - Lofi
+https://radio.nimaarki.com/lofi/stream?_ic2=1
+#EXTINF:-1 station-id="awb_1d701def8a10f1d53f13" stream-id="aws_ed3614f07c5fa7807fd5" codec="mp3" bitrate="0",Hamnava Records - Retro
+https://radio.nimaarki.com/retro/stream?_ic2=1
 #EXTINF:-1 station-id="awb_7e7adcb102c1b14d5986" stream-id="aws_616015aeb1d72f3ba460" codec="mp3" bitrate="128",Hang 10 Rock Radio - Tofino, BC
 http://158.69.227.214:8113/stream
 #EXTINF:-1 station-id="awb_ad246e2c6727a84ffb8b" stream-id="aws_d1780eeff2fbd45a8ba3" codec="aac" bitrate="64",Happy Christmas Radio (AAC)
@@ -2555,6 +2567,8 @@ http://rmcesp.radiomaria.ca:8050/;stream.mp3
 http://dreamsiteradiocp4.com:8016/stream
 #EXTINF:-1 station-id="awb_da35bc0dbb1e15ce1883" stream-id="aws_39815cf12bd02db6be92" codec="aac" bitrate="64",Radio Mast
 https://streams.radiomast.io/ref-64k-heaacv1-stereo
+#EXTINF:-1 station-id="awb_aeb643ff3549321c2758" stream-id="aws_3ec3a317de460316bfc6" codec="aac" bitrate="128",Radio Pacoul
+https://live.radiopacoul.top/stream/radiopacoul/stream
 #EXTINF:-1 station-id="awb_2962376523d0ddb02067" stream-id="aws_7b74b8d45aa8075fb9e2" codec="mp3" bitrate="128",Radio Pakistan Toronto
 https://s3.radio.co/s3b10a57ef/listen
 #EXTINF:-1 station-id="awb_9eaf3cc57b8b86291cdc" stream-id="aws_8a5ad1ae9ea848ebf48d" codec="mp3" bitrate="128",Radio Plaisirs Country

@@ -709,6 +709,8 @@ http://79.111.14.76:8000/electrohouse
 http://213.141.131.10:8000/electrotechno
 #EXTINF:-1 station-id="awb_2459a21c3414c97da51b" stream-id="aws_7508e879f841a07ebe2e" codec="mp3" bitrate="128",ELF Radio
 http://s0.radioheart.ru:8000/RH22766
+#EXTINF:-1 station-id="awb_ff232ec1c6db58dc395d" stream-id="aws_5b4ce64ba495e5331aab" codec="mp3" bitrate="128",ELITE CONVOY FM RUSSIA
+https://listen7.myradio24.com/88375
 #EXTINF:-1 station-id="awb_6ffd812445789f8c69be" stream-id="aws_7905eb12d08c2ba4384a" codec="mp3" bitrate="256",Emigmatic Robot
 https://listen2.myradio24.com/8226
 #EXTINF:-1 station-id="awb_c13da05d91442d37c292" stream-id="aws_826bc05e98d8cc129fad" codec="aac+" bitrate="64",ENERGY Slap House
@@ -3203,8 +3205,6 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_nn
 http://player.vfmradio.ru/stream.ogg
 #EXTINF:-1 station-id="awb_7af44c2235ff51a0fb4e" stream-id="aws_655140f5a26b1c7c5a30" codec="mp3" bitrate="320",VIBE
 https://live.lofiradio.ru/vibe_mp3_320
-#EXTINF:-1 station-id="awb_292fe4149809b6b3a110" stream-id="aws_327008924f14814c2146" codec="" bitrate="0",Vinyl drinks 33/13
-http://radio.obakiri.ru:8000/vinyl-33-13-drinks
 #EXTINF:-1 station-id="awb_3452be3e43bec183b45c" stream-id="aws_3e31b2f60ee370e4a453" codec="aac+" bitrate="320",Violin - Radio Caprice
 http://213.141.131.10:8004/violin
 #EXTINF:-1 station-id="awb_2e9df5dad2c9d15fdd1d" stream-id="aws_e251f2fba8bbad62f740" codec="mp3" bitrate="128",VIPRA
@@ -3903,6 +3903,8 @@ https://a7.radioheart.ru:8005/RH24945
 https://stream03.pcradio.app/lihie90epcradio-hi
 #EXTINF:-1 station-id="awb_c2720e5ad612f8742f76" stream-id="aws_da2916aff6d7e670a061" codec="mp3" bitrate="128",Луки ФМ
 https://s.fmplay.ru/e4becb3f
+#EXTINF:-1 station-id="awb_5d999b3e4782709fe735" stream-id="aws_0ef24dcd26a6dc587439" codec="" bitrate="0",Любимое Радио
+https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio
 #EXTINF:-1 station-id="awb_bb8c4b39b0668e8c53cf" stream-id="aws_3cc4baf15fc9713b9e23" codec="aac" bitrate="0",Любовь Успенская
 https://stream03.pcradio.app/Ljubov_Uspenskaja-hi
 #EXTINF:-1 station-id="awb_ebc9874262e7c174e892" stream-id="aws_cacc7c0a5bff32fa4cd1" codec="aac" bitrate="0",Любэ
@@ -4105,7 +4107,7 @@ http://streamer.radiovseti.ru:8000/128
 https://stream2.n340.com/20_sport_64_reg_1?type=.aac&UID=43C30CF98D89B672B691055F77E66123
 #EXTINF:-1 station-id="awb_c55c964095b7430f37c6" stream-id="aws_541440b0c0d90824d9dc" codec="aac" bitrate="64",Первое спортивное радио Москва 94.4 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_20_sport_64_reg_1
-#EXTINF:-1 station-id="awb_d40dad6d5e3ebfe3bd2f" stream-id="aws_d0a54e86988c29ca9649" codec="" bitrate="0",Песни всех времен
+#EXTINF:-1 station-id="awb_d40dad6d5e3ebfe3bd2f" stream-id="aws_d0a54e86988c29ca9649" codec="aac+" bitrate="64",Песни всех времен
 https://pub0102.101.ru:8443/stream/personal/aacp/64/792012
 #EXTINF:-1 station-id="awb_72b86f5371fdccd10e94" stream-id="aws_849bca7100e1f6859a52" codec="mp3" bitrate="128",Пи FM
 http://cdn.pifm.ru/mp3
@@ -4309,12 +4311,16 @@ http://185.185.69.62:8000/vanya
 http://91.203.176.214:8000/vesnafm
 #EXTINF:-1 station-id="awb_6789dfc13eacdc451722" stream-id="aws_bba63d66be1fc3b62c50" codec="mp3" bitrate="192",Радио Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1 station-id="awb_2dd75b16671cf906d32e" stream-id="aws_48bfcffa36cd2ec34173" codec="" bitrate="0",Радио Волшебный Шансон
+https://listen8.myradio24.com/8144
 #EXTINF:-1 station-id="awb_32b083aa930abb5a0c2c" stream-id="aws_721cf923e7b7b4fe512d" codec="mp3" bitrate="128",Радио ВОС
 http://radiovos.ru:9000/radiovos-128
 #EXTINF:-1 station-id="awb_e490c6ff3cac7c0be041" stream-id="aws_ec0ac3811aa33b9210b3" codec="mp3" bitrate="128",Радио Воскресение / Radio Voskresenie - 72.8
 http://217.24.181.164:8000/stream.mp3
 #EXTINF:-1 station-id="awb_1825a24ffa1916977053" stream-id="aws_bf7a8233772d64705f31" codec="mp3" bitrate="256",Радио Гамаюн
 https://gamaun.online:8025/radio
+#EXTINF:-1 station-id="awb_883e515e9e8a71a8235b" stream-id="aws_c85ab5c9ce7f1496d74b" codec="" bitrate="0",Радио Гармония
+https://online.garmoniyafm.com/listen/garm/256
 #EXTINF:-1 station-id="awb_1ebb76c97981c8577331" stream-id="aws_720be8a77206f1d4a79a" codec="aac" bitrate="64",Радио Гордость
 https://rgordost.hostingradio.ru/rgordost64.aacp
 #EXTINF:-1 station-id="awb_57816cf45e71266912ae" stream-id="aws_a986f4efb1d04def315b" codec="aac+" bitrate="96",Радио Гордость Самара 88.2 FM
@@ -4893,6 +4899,8 @@ https://listen9.myradio24.com/4926
 http://radio.4duk.ru/4duk128.mp3
 #EXTINF:-1 station-id="awb_f23b0f284f6f19ed1b6c" stream-id="aws_071d5bc55e31b1a06b22" codec="mp3" bitrate="256",Радио Шансон - Radio Shanson
 http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 station-id="awb_d58b2cca772d5bad2aef" stream-id="aws_82a2b02f988b20b34599" codec="mp3" bitrate="256",Радио Шансон 24
+https://radiont.shansonspb.ru:1045/stream
 #EXTINF:-1 station-id="awb_4dbd9173a4f73bf02bc8" stream-id="aws_765526f574b5218dc929" codec="aac" bitrate="0",Радио Шансон Казань 89.7 FM
 http://online2.gkvr.ru:8000/chanson_kaz_64.aac
 #EXTINF:-1 station-id="awb_c52a24f034d859e05a0e" stream-id="aws_7e13169a501a566cfa00" codec="mp3" bitrate="128",Радио Шансон Киров 91.2 FM

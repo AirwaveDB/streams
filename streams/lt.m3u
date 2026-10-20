@@ -69,7 +69,7 @@ https://radio.m-1.fm/m-1dance/aac
 http://radio.m-1.fm/m1plius/mp3
 #EXTINF:-1 station-id="awb_a0d45f9bc8f36fec6912" stream-id="aws_57c9d4fc328185c150b9" codec="aac+" bitrate="192",M-1 Plius
 https://radio.m-1.fm/m1plius/aacp64
-#EXTINF:-1 station-id="awb_c4e87d19199db10b8f64" stream-id="aws_364a0c871ec740d497a7" codec="" bitrate="0",M-1 Radio
+#EXTINF:-1 station-id="awb_c4e87d19199db10b8f64" stream-id="aws_364a0c871ec740d497a7" codec="mp3" bitrate="192",M-1 Radio
 https://stream.m-1.fm/m1/mp3
 #EXTINF:-1 station-id="awb_cd785ffcaa1211d5b6ca" stream-id="aws_5faaba4ae64b7e532647" codec="mp3" bitrate="128",Mano
 http://klausyk.manofm.lt:8000/Icecast2
@@ -159,6 +159,8 @@ https://stream2.radiofiesta.lt/rfs128.mp3
 http://radio.m-1.fm/laluna/high
 #EXTINF:-1 station-id="awb_9f1d2066f90bb21b19fa" stream-id="aws_9c4752d071941466966c" codec="mp3" bitrate="192",Radio Lietus
 https://stream.m-1.fm/lietus/mp3
+#EXTINF:-1 station-id="awb_cd59f8208caf1518e1f0" stream-id="aws_1b1f8bde3889a132fc6e" codec="" bitrate="0",RADIO MOON
+http://193.70.34.27:20330/kdime
 #EXTINF:-1 station-id="awb_515cb800544130bc8049" stream-id="aws_8b44260206faee3278e8" codec="mp3" bitrate="128",Radio R
 https://stream1.relaxfm.lt/rrb128.mp3
 #EXTINF:-1 station-id="awb_dfe5d35dece4f3e9a1f2" stream-id="aws_370d6be6eb740c2e00c7" codec="mp3" bitrate="160",Radio stotis Laluna

@@ -158,6 +158,25 @@
     "lastCheckedAt": "2026-10-17T08:50:37Z"
   },
   {
+    "id": "aws_d4ef7fff4fe0177e2004",
+    "stationId": "awb_6bb922c47273effd3b54",
+    "name": "101.9 Hallypop Radio - DWAP",
+    "country": "PH",
+    "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
     "id": "aws_3c7e940cc23bca4019ab",
     "stationId": "awb_2fd93ad09563b6f773d8",
     "name": "102.7 Star FM - DWSM",
@@ -7128,6 +7147,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T10:00:56Z"
+  },
+  {
+    "id": "aws_49df1c643609dfef4ab2",
+    "stationId": "awb_c829a219ead65a47a3ef",
+    "name": "Glitchy Radio",
+    "country": "PH",
+    "url": "https://ca.azura.linkodev.ch/public/glitchy_radio/playlist.pls",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dd41710f-3627-47c4-84fb-d857869420c9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_1baf23d09d94e8f7fd66",

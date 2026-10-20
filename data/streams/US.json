@@ -29959,6 +29959,25 @@
     "lastCheckedAt": "2026-10-17T18:22:52Z"
   },
   {
+    "id": "aws_db0fc869df38bc1a54c6",
+    "stationId": "awb_799db03eb300a6fffc61",
+    "name": "Cyberhog Radio",
+    "country": "US",
+    "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_fc4a0c4835f7439bfd5f",
     "stationId": "awb_c18d739b91a5f85183c5",
     "name": "Cygnus Radio",
@@ -34407,6 +34426,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T23:58:45Z"
+  },
+  {
+    "id": "aws_610a870a92aa8fd6c4c3",
+    "stationId": "awb_7d421b4bb7d6bac74190",
+    "name": "EVA Génesis 54",
+    "country": "US",
+    "url": "https://www.lsmradio.com/audio/mp3-files/Genesis_sp/Genesis_054.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4704710f-0764-47e9-819b-7f85518c334d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_ec10cb83d2d7aa4877cd",
@@ -41372,6 +41410,44 @@
     "lastCheckedAt": "2026-10-17T00:25:43Z"
   },
   {
+    "id": "aws_3c1e33e523c1818f8e10",
+    "stationId": "awb_6be4ad9725cb29dea4c2",
+    "name": "Hip-Hop",
+    "country": "US",
+    "url": "https://smartstream.myautodj.com:8000/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6c979374-c12a-475e-8e0f-a03d4e17babb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
+    "id": "aws_e663b7fd271f1d8c393d",
+    "stationId": "awb_6be4ad9725cb29dea4c2",
+    "name": "Hip-Hop",
+    "country": "US",
+    "url": "https://smartstream.myautodj.com:8002/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c84df2ae-6563-4445-a43e-226145856df9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
+  },
+  {
     "id": "aws_89cba1f272cd55f7fed9",
     "stationId": "awb_d9e2a82eeb6a1f6694fb",
     "name": "His Grace Christian Hip-hop & R&B",
@@ -41388,7 +41464,7 @@
       "d2c68d36-3614-48ad-a210-a8b6898f9431"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_a55668927990bfc5eb4c",
@@ -60483,25 +60559,6 @@
     "lastCheckedAt": "2026-10-17T12:52:38Z"
   },
   {
-    "id": "aws_7c3df2db67b4d693d52a",
-    "stationId": "awb_3fbaa6b9510ffb523f3d",
-    "name": "KSKQ Community Radio",
-    "country": "US",
-    "url": "https://kskq.org/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14013d51-93fe-4ae2-a8b9-22dfa8d0f99c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_6b6f727068ea9eece36d",
     "stationId": "awb_2931a07e54187289f933",
     "name": "KSL NewsRadio",
@@ -62308,7 +62365,7 @@
       "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_ce99ca2093a915406489",
@@ -69519,6 +69576,25 @@
     "lastCheckedAt": "2026-10-17T12:46:20Z"
   },
   {
+    "id": "aws_d595f0108b18059c6847",
+    "stationId": "awb_7b2f5ae8f4dbd7459b9d",
+    "name": "MimSoul Radio",
+    "country": "US",
+    "url": "https://stream.mimsoul.com/hls/live.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b8912bdd-f4df-4bf9-866d-2143025ae299"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
     "id": "aws_bb5fd3e11496c1f0fc73",
     "stationId": "awb_397917fb65c2bcc79830",
     "name": "MindsEye Radio",
@@ -70773,6 +70849,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-16T22:26:19Z"
+  },
+  {
+    "id": "aws_b10c3f6d8788ef4a650e",
+    "stationId": "awb_70db71b84fb376a7939f",
+    "name": "MSX 98 FM",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/lcs/msx",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "606bb9da-6b7a-4d73-b325-5343ea6cd523"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_776959f2e62f58ed07ac",
@@ -78427,6 +78522,25 @@
     "lastCheckedAt": "2026-10-17T20:49:54Z"
   },
   {
+    "id": "aws_3c36f757c2dc7f264bce",
+    "stationId": "awb_cd415cd10858269011e2",
+    "name": "Public Liberty Radio",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/4/plr",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
     "id": "aws_eaaa213c17b99a594b37",
     "stationId": "awb_2c9b797ba4742b414d3b",
     "name": "Public Radio 90",
@@ -83863,6 +83977,26 @@
     "lastCheckedAt": "2026-10-17T20:13:48Z"
   },
   {
+    "id": "aws_421d34ef4bc47b09a97a",
+    "stationId": "awb_bbe38e05f29c27c8af53",
+    "name": "Radio Pig",
+    "country": "US",
+    "url": "https://securenetg.com/listen/station_877/radio.aac",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0fe6552a-4ff2-4f97-aa40-edf8ca015fc0",
+      "4832f373-4792-4eb5-9cc5-c1454e27a87f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
     "id": "aws_a9f3f55cf9806a535aed",
     "stationId": "awb_39bbc34d3d80e5237ce7",
     "name": "Radio Polydor",
@@ -87900,6 +88034,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T19:32:22Z"
+  },
+  {
+    "id": "aws_6363c547f43ffab185fd",
+    "stationId": "awb_1cee07230a416b37cf78",
+    "name": "Rock 104.9 Detroit",
+    "country": "US",
+    "url": "https://13683.live.streamtheworld.com/SAM04AAC494_SC",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "336aefa4-6f43-4f78-b67c-c65952431e2a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_3077fc8ea96600762603",
@@ -95418,6 +95571,25 @@
     "lastCheckedAt": "2026-10-17T05:32:46Z"
   },
   {
+    "id": "aws_67fee85a9202fa7b87f7",
+    "stationId": "awb_7144e0887f6b96081e41",
+    "name": "sonnov radio",
+    "country": "US",
+    "url": "https://sonnovradio.com/listen",
+    "codec": "ogg",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
+  },
+  {
     "id": "aws_92ee8857b4e6a704b2be",
     "stationId": "awb_57cac66fd57a00aedaf8",
     "name": "Sonshine 800",
@@ -96568,8 +96740,8 @@
     "name": "Stargate Radio",
     "country": "US",
     "url": "https://radio.generaljackoneill.space/listen/stargate_radio/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -96579,7 +96751,7 @@
       "307ec9a7-4928-45aa-92a6-db9a3f46a991"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_09be3bdd157342b21697",
@@ -105769,6 +105941,25 @@
     "lastCheckedAt": "2026-10-18T22:07:29Z"
   },
   {
+    "id": "aws_4c95b14227185d511734",
+    "stationId": "awb_b390325d423aeac29249",
+    "name": "Vice City Public Radio (VCPR)",
+    "country": "US",
+    "url": "https://audio.gtaradio.net/vcs/vcpr",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "65a07f28-2cf4-4e19-87ca-ad7620fb2a63"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_f688dc8103c9f4e4eeba",
     "stationId": "awb_6f40d34643a06c1d16bd",
     "name": "VICE FM",
@@ -107090,7 +107281,7 @@
       "3af89cec-fa7e-46e3-9699-99d889173a02"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T02:35:15Z"
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_e2edc77222a365bb0a9e",
@@ -111830,7 +112021,7 @@
       "87beaa2f-6f2f-4536-9c21-c8f704b0b3f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_55d9f4b0b80c4cfa5e4e",
@@ -112554,6 +112745,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T15:21:41Z"
+  },
+  {
+    "id": "aws_7f97b72f4a1baf4479c2",
+    "stationId": "awb_887e4b1625a752e65348",
+    "name": "WFTK Cincinnati 96.5 Rock",
+    "country": "US",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "483c2c17-8412-4fab-98d2-f73b4b7f5048"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_faa7b6105a6f0a73af74",
@@ -113769,7 +113979,7 @@
       "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_a430e1804823efd29900",
@@ -115896,9 +116106,9 @@
     "stationId": "awb_17a34029a590c4231c29",
     "name": "WJGW 107.5 \"The Village\" - Fort Pierce, Florida",
     "country": "US",
-    "url": "https://ice25.securenetsystems.net/WJGW.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://ice25.securenetsystems.net:80/WJGW",
+    "codec": "aac",
+    "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -115908,7 +116118,7 @@
       "1895cb6b-7017-49c3-b9cd-ecf2179aad63"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_a71173099cb11ba83837",
@@ -116365,7 +116575,7 @@
       "2fd6d63d-346a-4f8e-b6db-9f0f469ee182"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_30f7c851191ca8525cf5",
@@ -119093,7 +119303,7 @@
       "d7745446-4e0a-458b-8ded-fef6c5217bcf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_579ef71913a297ece13b",
@@ -123637,7 +123847,7 @@
       "7c6a2260-28b2-4bd4-8ae4-4ac2d6921eb6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-13T22:04:58Z"
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_b522f9ba5fd3ec171778",
@@ -126037,25 +126247,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T19:35:17Z"
-  },
-  {
-    "id": "aws_cfe226906e91fd9be01f",
-    "stationId": "awb_082745caa3984ed5b5c1",
-    "name": "WTBU Radio",
-    "country": "US",
-    "url": "https://headphones.bu.edu:8443/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7c44d325-27cc-45dd-af1a-9885df5541bc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
   },
   {
     "id": "aws_2f2a32e33f71f8e94088",

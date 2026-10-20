@@ -1999,8 +1999,8 @@
     "name": "Radi.fm Clásica Global",
     "country": "JP",
     "url": "https://live.radi.fm/stream/es.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2010,7 +2010,7 @@
       "838460ee-30f9-4aa6-92b0-0bdc4b9bd621"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_f52ca2558a1212492246",
@@ -2037,8 +2037,8 @@
     "name": "Radi.fm Classical Global",
     "country": "JP",
     "url": "https://live.radi.fm/stream/en.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2048,7 +2048,7 @@
       "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_db2993bdd4e3016b54c2",
@@ -2075,8 +2075,8 @@
     "name": "Radi.fm Klassik DACH",
     "country": "JP",
     "url": "https://live.radi.fm/stream/de.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2086,7 +2086,7 @@
       "5808e2da-b25a-49e7-9ba3-7667499f2d00"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T00:21:03Z"
   },
   {
     "id": "aws_abe8db22c17d033d60c5",
@@ -2113,8 +2113,8 @@
     "name": "Radi.fm Monde Classique",
     "country": "JP",
     "url": "https://live.radi.fm/stream/fr.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2124,7 +2124,7 @@
       "e0485a8b-0fc9-445a-97fe-95b701cdcec9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_3f80e5228e7bea33b7d7",
@@ -2144,25 +2144,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-18T15:33:29Z"
-  },
-  {
-    "id": "aws_cd7c4450b64d5dd52dec",
-    "stationId": "awb_291418f292ccc2bafe6f",
-    "name": "Radi.fm クラシック Nippon",
-    "country": "JP",
-    "url": "https://live.radi.fm/stream/ja.aac",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "baa56155-7308-4085-bcf6-174e5bb22494"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_ca4ab8526a32dc0013ac",
@@ -2189,8 +2170,8 @@
     "name": "Radi.fm 中文古典音乐",
     "country": "JP",
     "url": "https://live.radi.fm/stream/zh.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2200,7 +2181,7 @@
       "836b2af3-7941-4c02-b5bc-ed28e46cda43"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-19T21:24:16Z"
   },
   {
     "id": "aws_b6b2858221caf5723903",
