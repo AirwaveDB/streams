@@ -56,7 +56,7 @@
       "6cd64df1-25ac-4185-9635-072973d95e8b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T23:05:01Z"
+    "lastCheckedAt": "2026-10-21T00:26:37Z"
   },
   {
     "id": "aws_058c8407b785987f5723",
@@ -1909,6 +1909,25 @@
     "lastCheckedAt": "2026-10-17T10:02:53Z"
   },
   {
+    "id": "aws_fc1c01f47b4d3ac830c6",
+    "stationId": "awb_f8a7e7fce488177f27d8",
+    "name": "CGTN Documentary TV audio 伴音",
+    "country": "CN",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY-mp4a_128000_eng=20000.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f050220b-ac6d-43a7-8a0e-06e76e0cc6c6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
+  },
+  {
     "id": "aws_db1f374b227f87b1d363",
     "stationId": "awb_5584a5d998106ea9fdfb",
     "name": "CGTN Radio",
@@ -1945,6 +1964,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-16T22:35:13Z"
+  },
+  {
+    "id": "aws_76b1ec2810363bb2ea8d",
+    "stationId": "awb_01437c237496b9bf86d2",
+    "name": "CGTN TV audio 伴音",
+    "country": "CN",
+    "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH-mp4a_128000_eng=20000.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9242b993-efbb-497b-8a82-66d3cda3827c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_a688254da1c446cbae6a",
@@ -12960,6 +12998,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T20:29:28Z"
+  },
+  {
+    "id": "aws_d9ca08b8c3844e5fe6f7",
+    "stationId": "awb_5f53e9f9fa71ab7c9174",
+    "name": "嘉善新闻综合广播",
+    "country": "CN",
+    "url": "https://p2hs.vzan.com/slowlive/389856315099073802/live.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_c8fa6df322d0071dac7e",

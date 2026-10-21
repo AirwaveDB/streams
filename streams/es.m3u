@@ -729,7 +729,7 @@ https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.
 http://server9.emitironline.com:8822/radio
 #EXTINF:-1 station-id="awb_b2833d6e4d279c1bce9b" stream-id="aws_bc446024c2fb558acdf7" codec="mp3" bitrate="48",esRadio Asturias
 https://server9.emitironline.com:8822/;
-#EXTINF:-1 station-id="awb_f0bd13d5e4d541f52c99" stream-id="aws_ab246233029efea40855" codec="" bitrate="0",esRadio Cantabria
+#EXTINF:-1 station-id="awb_f0bd13d5e4d541f52c99" stream-id="aws_ab246233029efea40855" codec="mp3" bitrate="64",esRadio Cantabria
 http://ns100.emisionlocal.com:9428/live
 #EXTINF:-1 station-id="awb_bba44102a4e34d952ad6" stream-id="aws_46e85edfce6e4b76589e" codec="aac+" bitrate="56",esRadio Castilla y León
 https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-med.aac
@@ -1467,7 +1467,7 @@ https://agregadores-atres-live.atresmedia.com/tunein/live/ondaceroeventos1/bitra
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 #EXTINF:-1 station-id="awb_4da060b18e963be56d58" stream-id="aws_303eb2fd58b3f1ed515b" codec="aac" bitrate="128",Onda Cero Pontevedra
 https://atres-live.ondacero.es/live/delegaciones/oc/pontevedra/master.m3u8
-#EXTINF:-1 station-id="awb_7ec695e48e6c36cc2fa5" stream-id="aws_4819b01495d03091eb8b" codec="" bitrate="0",Onda Cero Santander
+#EXTINF:-1 station-id="awb_7ec695e48e6c36cc2fa5" stream-id="aws_4819b01495d03091eb8b" codec="aac" bitrate="128",Onda Cero Santander
 https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8
 #EXTINF:-1 station-id="awb_a729e0eba662838f9e0d" stream-id="aws_28c0993df4002f099a17" codec="aac" bitrate="128",Onda Cero Santiago de Compostela
 https://atres-live.ondacero.es/live/delegaciones/oc/santiago/master.m3u8
@@ -2597,6 +2597,8 @@ https://stream.tunerplay.com/listen/voltaje/voltaje.mp3
 https://cast1.asurahosting.com/proxy/javier1/stream
 #EXTINF:-1 station-id="awb_121fab4dbe194eed479a" stream-id="aws_f35d22a2b5d39fcca8ef" codec="mp3" bitrate="0",Waiting Room
 https://streaming.coolmusicradio.com/listen/waiting-room/radio
+#EXTINF:-1 station-id="awb_aedc59d6bf4a5a6a0c0d" stream-id="aws_94f839155c42cb99e58a" codec="mp3" bitrate="128",Waiting Room - Creative Commons Lounge Radio
+https://listen.openstream.co/7482/audio
 #EXTINF:-1 station-id="awb_d6a089071ca957da52b6" stream-id="aws_ba72413a947c9888eaea" codec="aac+" bitrate="192",Wifon FM
 https://betelgeuse.nucast.co.uk:8044/wifonfm
 #EXTINF:-1 station-id="awb_5d95c501111cb7d525f8" stream-id="aws_4b50d0db42810f643602" codec="mp3" bitrate="128",Xanadú Radio Tenerife

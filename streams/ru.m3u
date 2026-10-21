@@ -691,6 +691,8 @@ https://server32349.streamplus.de/;stream.mp3
 https://stream.drugradio.ru:8000/stream128
 #EXTINF:-1 station-id="awb_0ad47bae8fcc615cbb96" stream-id="aws_be163aff114d02bc08a9" codec="mp3" bitrate="128",Dzhon Radio
 https://stream.drugradio.ru/listen/dzradio/stream128
+#EXTINF:-1 station-id="awb_1970c2a4fdc111fb034d" stream-id="aws_67bfbf3f5b2608a63fa3" codec="aac" bitrate="0",E68B099E4E55
+https://region-ru2.tunio.ai/stream/radio-b8c048449cbf42cbb683d9a8f3ec2a4f.aac
 #EXTINF:-1 station-id="awb_f8f0ab9a8866ea9101a5" stream-id="aws_99b45f856597aa50d458" codec="mp3" bitrate="256",East of Russia (Восток России)
 http://109.70.24.182:8000/stream/1/
 #EXTINF:-1 station-id="awb_015ed9ed2dd3e2ba5a0e" stream-id="aws_44f7e07a2f213d1e0d71" codec="mp3" bitrate="64",Echo ЭХО Online
@@ -2531,6 +2533,8 @@ https://maximum-soft.hostingradio.ru/maxsoft96.aacp
 https://maximum-unplugged.hostingradio.ru/maxunplugged96.aacp
 #EXTINF:-1 station-id="awb_f1903f093d2c52510b37" stream-id="aws_eb15cb1951557c1a1734" codec="mp3" bitrate="192",Radio Mayak Nizhny Novgorod
 http://icecast.vgtrk.cdnvideo.ru/mayak_nn
+#EXTINF:-1 station-id="awb_086fb3f5eef464a90a3a" stream-id="aws_9228969c8cf6eac9bbc4" codec="aac" bitrate="320",Radio Medved
+https://air.radiomedved.ru/rm320_main
 #EXTINF:-1 station-id="awb_9269704cc4e0c771bccf" stream-id="aws_2c0a1e41677a23673479" codec="mp3" bitrate="0",Radio Melodiya
 http://icecast.mediaalliance.cdnvideo.ru:8000/mediaalliance
 #EXTINF:-1 station-id="awb_1ae2d61b4af4df735e6e" stream-id="aws_ab92ec6d2f83a52366dc" codec="mp3" bitrate="128",Radio METRO
@@ -2677,9 +2681,9 @@ https://stream1.radiord.ru:8000/live128.aac
 http://radio-holding.ru:9000/rus
 #EXTINF:-1 station-id="awb_137f38dc0c0642f274d2" stream-id="aws_a8ec5cd9d10b6a055988" codec="mp3" bitrate="28",Radio Russkiy Hit
 https://stream.n340.com/19_ruhit_24
-#EXTINF:-1 station-id="awb_709e1a157274e3405caf" stream-id="aws_472ccbc6abc932a0d243" codec="mp3" bitrate="160",Radio Salyut
-http://stream.salyutfm.ru:8000/stream
 #EXTINF:-1 station-id="awb_d80eb41a914d98e758ff" stream-id="aws_5d8889bb9f179c056c86" codec="mp3" bitrate="160",Radio Salyut
+http://stream.salyutfm.ru:8000/stream
+#EXTINF:-1 station-id="awb_709e1a157274e3405caf" stream-id="aws_472ccbc6abc932a0d243" codec="mp3" bitrate="160",Radio Salyut
 http://stream.salyutfm.ru:8000/stream
 #EXTINF:-1 station-id="awb_97a85c4311090459cc26" stream-id="aws_acf3d3a77b9c49a995df" codec="mp3" bitrate="192",Radio Samara Maksimum
 http://85.236.172.22:8000/maximum
@@ -3903,8 +3907,6 @@ https://a7.radioheart.ru:8005/RH24945
 https://stream03.pcradio.app/lihie90epcradio-hi
 #EXTINF:-1 station-id="awb_c2720e5ad612f8742f76" stream-id="aws_da2916aff6d7e670a061" codec="mp3" bitrate="128",Луки ФМ
 https://s.fmplay.ru/e4becb3f
-#EXTINF:-1 station-id="awb_5d999b3e4782709fe735" stream-id="aws_0ef24dcd26a6dc587439" codec="" bitrate="0",Любимое Радио
-https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio
 #EXTINF:-1 station-id="awb_bb8c4b39b0668e8c53cf" stream-id="aws_3cc4baf15fc9713b9e23" codec="aac" bitrate="0",Любовь Успенская
 https://stream03.pcradio.app/Ljubov_Uspenskaja-hi
 #EXTINF:-1 station-id="awb_ebc9874262e7c174e892" stream-id="aws_cacc7c0a5bff32fa4cd1" codec="aac" bitrate="0",Любэ
@@ -4311,7 +4313,7 @@ http://185.185.69.62:8000/vanya
 http://91.203.176.214:8000/vesnafm
 #EXTINF:-1 station-id="awb_6789dfc13eacdc451722" stream-id="aws_bba63d66be1fc3b62c50" codec="mp3" bitrate="192",Радио Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF:-1 station-id="awb_2dd75b16671cf906d32e" stream-id="aws_48bfcffa36cd2ec34173" codec="" bitrate="0",Радио Волшебный Шансон
+#EXTINF:-1 station-id="awb_2dd75b16671cf906d32e" stream-id="aws_48bfcffa36cd2ec34173" codec="mp3" bitrate="192",Радио Волшебный Шансон
 https://listen8.myradio24.com/8144
 #EXTINF:-1 station-id="awb_32b083aa930abb5a0c2c" stream-id="aws_721cf923e7b7b4fe512d" codec="mp3" bitrate="128",Радио ВОС
 http://radiovos.ru:9000/radiovos-128
@@ -4319,7 +4321,7 @@ http://radiovos.ru:9000/radiovos-128
 http://217.24.181.164:8000/stream.mp3
 #EXTINF:-1 station-id="awb_1825a24ffa1916977053" stream-id="aws_bf7a8233772d64705f31" codec="mp3" bitrate="256",Радио Гамаюн
 https://gamaun.online:8025/radio
-#EXTINF:-1 station-id="awb_883e515e9e8a71a8235b" stream-id="aws_c85ab5c9ce7f1496d74b" codec="" bitrate="0",Радио Гармония
+#EXTINF:-1 station-id="awb_883e515e9e8a71a8235b" stream-id="aws_c85ab5c9ce7f1496d74b" codec="mp3" bitrate="256",Радио Гармония
 https://online.garmoniyafm.com/listen/garm/256
 #EXTINF:-1 station-id="awb_1ebb76c97981c8577331" stream-id="aws_720be8a77206f1d4a79a" codec="aac" bitrate="64",Радио Гордость
 https://rgordost.hostingradio.ru/rgordost64.aacp

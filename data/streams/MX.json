@@ -685,7 +685,7 @@
       "96697826-72f1-4ccb-aa96-90eea2219367"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T05:40:51Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_3bf07751ce83e2085b97",
@@ -5331,7 +5331,7 @@
     "name": "1420 Radio Ranchito (Tijuana) - 1420 AM - XEXX-AM - Radio Cadena Enciso - Tijuana, Baja California",
     "country": "MX",
     "url": "https://edge.mixlr.com/channel/lhkft",
-    "codec": null,
+    "codec": "mp3",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -5342,7 +5342,7 @@
       "61a93e16-a313-4904-89e7-27069ea592fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_c50f0e41747132f1f6e8",
@@ -5419,6 +5419,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T17:18:27Z"
+  },
+  {
+    "id": "aws_8cd4cef6d0d1f310523a",
+    "stationId": "awb_c697f6287b298fdde610",
+    "name": "1470 Radio Bahía (Tijuana) - 1470 AM - XEHC-AM - Radio Cadena Enciso - Tijuana, Baja California",
+    "country": "MX",
+    "url": "https://edge.mixlr.com/channel/qfntw",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "24ac8a8e-7e2b-414b-b21b-01a77921b603"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_5dae16468af03a2d1b5a",
@@ -9797,8 +9816,8 @@
     "name": "95.3 La Lupe (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
     "country": "MX",
     "url": "https://mdstrm.com/audio/6737c55f827a7efae201a949/icecast.audio",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 93,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -9808,7 +9827,7 @@
       "26e335d8-cf8d-44ff-9ac4-c1a8f04ad941"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_b1cfe2d5a334bc149747",
@@ -20937,8 +20956,8 @@
     "name": "Exa FM Acámbaro - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
     "country": "MX",
     "url": "https://radios.radiohd.com.mx:7140/;",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -20948,7 +20967,7 @@
       "37f1e1db-20cf-4944-abd9-05535f895928"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_d9005eef058a40bfb310",
@@ -21532,8 +21551,8 @@
     "name": "Exa FM Querétaro - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro",
     "country": "MX",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -21543,7 +21562,7 @@
       "250d1d0a-2f94-432a-be7f-8d085b8ab6a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_2b1d0803f4d8728ec8fa",
@@ -28368,8 +28387,8 @@
     "name": "LA KEBUENA 820 (Mexicali) - 820 AM - XEABCA-AM - Grupo Radio Cañón - Mexicali, Baja California",
     "country": "MX",
     "url": "http://streaming.servicioswebmx.com/8286/stream",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -28379,7 +28398,7 @@
       "0c4e46db-7b40-4943-8f88-500bfd23ab88"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_e9edb9fcc8ebd4cefe4e",
@@ -29052,8 +29071,8 @@
     "name": "LA LUPE 95.3 (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
     "country": "MX",
     "url": "https://mdstrm.com/audio/6737c55f827a7efae201a949/icecast.audio",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 93,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -29063,7 +29082,7 @@
       "634fd365-033b-46a1-b660-a50d8390429f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_691611c806d8de9e6c2b",
@@ -40805,6 +40824,25 @@
     "lastCheckedAt": "2026-10-17T13:04:52Z"
   },
   {
+    "id": "aws_58a2d5b3b5040bbd94b5",
+    "stationId": "awb_e101723572142f48bfd2",
+    "name": "RADIO BAHÍA 1470 (Tijuana) - 1470 AM - XEHC-AM - Radio Cadena Enciso - Tijuana, Baja California",
+    "country": "MX",
+    "url": "https://edge.mixlr.com/channel/qfntw",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bc09174c-02a3-4102-abbe-858312c7a0bc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
     "id": "aws_557dabddaf559a8f51e6",
     "stationId": "awb_9990a32fe61b0c99f027",
     "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
@@ -42356,9 +42394,9 @@
     "stationId": "awb_5c85b30d7c654a728717",
     "name": "Radio Fest Tehuacán",
     "country": "MX",
-    "url": "https://stream.zeno.fm/dwhxrwbsjaevv",
-    "codec": null,
-    "bitrate": 0,
+    "url": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBoUTdUVG13VDk2d0ExdGlMdGd4eGciLCJpYXQiOjE3OTI1MDk5MDQsImV4cCI6MTc5MjUwOTk2NH0.kc1tEQHMfuFboEnObYSxORB34Vc67jBfL1j41lW1NxM",
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -42368,7 +42406,7 @@
       "aca6e13a-f563-46ac-ae91-bede2856c4bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_215d9730b5a60c6253ca",
@@ -44456,7 +44494,7 @@
     "name": "RADIO RANCHITO 1420 (Tijuana) - 1420 AM - XEXX-AM - Radio Cadena Enciso - Tijuana, Baja California",
     "country": "MX",
     "url": "https://edge.mixlr.com/channel/lhkft",
-    "codec": null,
+    "codec": "mp3",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -44467,7 +44505,7 @@
       "b7717fda-dabb-4d58-817e-e1d1519d6270"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_05379c1a25122eb9195b",

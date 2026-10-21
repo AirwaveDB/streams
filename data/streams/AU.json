@@ -1916,6 +1916,25 @@
     "lastCheckedAt": "2026-10-17T00:57:38Z"
   },
   {
+    "id": "aws_ed248d8ab99b81ba0f5a",
+    "stationId": "awb_3dd8e681af85d65e3d21",
+    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+    "country": "AU",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dc6b1a66-997e-4e0d-9502-8641f052d044"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
+  },
+  {
     "id": "aws_03631206a2196f390910",
     "stationId": "awb_5399b6c6b550e20c0012",
     "name": "2ST - Southern Highlands - 102.9 FM (MP3)",
@@ -15675,7 +15694,7 @@
       "3de0ed72-b752-41df-99f9-26c5d95befe1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-21T00:26:37Z"
   },
   {
     "id": "aws_265c4046fccf20060509",
@@ -18671,6 +18690,26 @@
     "lastCheckedAt": "2026-10-17T12:24:53Z"
   },
   {
+    "id": "aws_80a8a83ed69633ed9242",
+    "stationId": "awb_f84ed2a9ac3b49cd1246",
+    "name": "Happy Radio",
+    "country": "AU",
+    "url": "https://hq3.yesstreaming.net/happyradio/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "998bdac9-324e-451c-a57d-2670cfe815ac",
+      "eee408cd-7d2d-45bd-a20c-3467c6c88202"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T00:26:37Z"
+  },
+  {
     "id": "aws_4fe6cedc79ca59ae9bf8",
     "stationId": "awb_4c8218b54a13a5d4bc8a",
     "name": "Harman Radio Australia",
@@ -19071,7 +19110,7 @@
       "7dd79327-d4fb-4f34-a914-1a8688345306"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_a75b2bcd4a9cef6bb8ad",
@@ -32552,6 +32591,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T15:52:46Z"
+  },
+  {
+    "id": "aws_f4c0fd73b613da08a603",
+    "stationId": "awb_8553dfccae8123d49847",
+    "name": "Voice FM",
+    "country": "AU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "44220107-c921-4890-8a2c-93538b620079"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
   },
   {
     "id": "aws_bfff1892f7e0786ac5c5",

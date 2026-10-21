@@ -25776,7 +25776,7 @@
       "bea87249-01bc-4142-b8aa-3b4bc391c4bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T22:26:18Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_8bb92f11d2747cf594fa",
@@ -32922,7 +32922,7 @@
       "83dd8961-3c26-4edf-87ed-3cf8e907cf3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_80cbe71453aa2501a228",
@@ -37099,9 +37099,9 @@
     "stationId": "awb_2788fd093d0b36938000",
     "name": "FFH Relax",
     "country": "DE",
-    "url": "http://streams.ffh.de/ffhchannels/mp3/hqrelax.m3u",
-    "codec": null,
-    "bitrate": 0,
+    "url": "http://mp3.ffh.de/ffhchannels/hqrelax.mp3?aw_0_req.gdpr=true",
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -37111,7 +37111,7 @@
       "5d0144fb-2d84-4271-a4f0-54995083d8c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_6f1b0ffe48546091ff0a",
@@ -43012,6 +43012,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-16T23:42:00Z"
+  },
+  {
+    "id": "aws_bdc67bbe107709204aa2",
+    "stationId": "awb_c3ecfd14eb83519b5572",
+    "name": "Germanyrock",
+    "country": "DE",
+    "url": "https://stream.laut.fm/germanyrock",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6c3755c7-6c9c-4fb2-a51d-f3b352ed4ae5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
   },
   {
     "id": "aws_e43049e48e55b765a03c",
@@ -50750,7 +50769,7 @@
       "feb24e11-3602-4102-8563-f3cbc2ca7111"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_165d06dfba3a5002a36c",
@@ -62414,7 +62433,7 @@
       "3341d46f-64a5-42f8-a0e5-bb94a7a79e25"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_72f5dc5c04aa1ae72e03",
@@ -70680,7 +70699,7 @@
       "7654dead-5813-4cfb-92d0-c1302176bb7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:12Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_3dfc20f13e0521e96ca9",
@@ -70795,7 +70814,7 @@
       "77e50893-69ba-400a-8693-4f1fdbb0376d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:12Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_920e8b42db59ba6de428",
@@ -73297,7 +73316,7 @@
       "bd656b4c-4c06-4871-bbf3-c55ca7ed51f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T22:26:18Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_01092e327115d27b64de",
@@ -74401,6 +74420,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T09:03:44Z"
+  },
+  {
+    "id": "aws_90f1d3045345f3ecc68c",
+    "stationId": "awb_7d841746483bc77e9ac2",
+    "name": "Radio BOB! Iron Maden",
+    "country": "DE",
+    "url": "https://streams.radiobob.de/bob-ironmaiden/mp3-192/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "628a0810-0f3a-4b5d-8258-5cfb114f335a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
+  },
+  {
+    "id": "aws_8a58c8de2ae45be21d81",
+    "stationId": "awb_10025532d11bd04fac12",
+    "name": "Radio BOB! Iron Maiden",
+    "country": "DE",
+    "url": "https://streams.radiobob.de/bob-ironmaiden/mp3-192/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "39c9d6fd-7a4a-4dbc-b1e6-793fe8121159"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_344bbe27304be20b38de",
@@ -76362,7 +76419,7 @@
       "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_3766ef101f67198ffb97",
@@ -76381,7 +76438,7 @@
       "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-21T00:26:37Z"
   },
   {
     "id": "aws_1904e4641c527264e8fc",
@@ -92919,7 +92976,7 @@
       "901887b0-69c4-48b6-bf87-6f9802f92e8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_9c447164e28f170c51f6",
@@ -112988,7 +113045,7 @@
       "a7cfd884-c6c7-4f6b-9590-184febeb3180"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_91ad7490b5e3c375021d",

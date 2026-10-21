@@ -7042,8 +7042,8 @@
     "name": "esRadio Cantabria",
     "country": "ES",
     "url": "http://ns100.emisionlocal.com:9428/live",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 64,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -7053,7 +7053,7 @@
       "d9081f9a-2850-41db-b9b0-688307873b08"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_46e85edfce6e4b76589e",
@@ -9043,7 +9043,7 @@
       "2c761131-18cf-48b2-bc2e-a06d45385612"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_2020f0be3487276d46ae",
@@ -10196,7 +10196,7 @@
       "ffe71234-db25-4cdf-8e27-d544d2a2523b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T02:35:15Z"
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_3f1d4f64a177075ff227",
@@ -14172,8 +14172,8 @@
     "name": "Onda Cero Santander",
     "country": "ES",
     "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac",
+    "bitrate": 128,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -14183,7 +14183,7 @@
       "d572e273-574b-4234-9ef3-86337b3fa31c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_28c0993df4002f099a17",
@@ -23340,7 +23340,7 @@
       "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_3cf80aa1585400b73d2f",
@@ -25037,6 +25037,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T19:11:21Z"
+  },
+  {
+    "id": "aws_94f839155c42cb99e58a",
+    "stationId": "awb_aedc59d6bf4a5a6a0c0d",
+    "name": "Waiting Room - Creative Commons Lounge Radio",
+    "country": "ES",
+    "url": "https://listen.openstream.co/7482/audio",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58ba1983-9078-4287-b6f4-cccaa42a6037"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
   },
   {
     "id": "aws_ba72413a947c9888eaea",

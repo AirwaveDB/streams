@@ -6671,6 +6671,25 @@
     "lastCheckedAt": "2026-10-17T11:23:04Z"
   },
   {
+    "id": "aws_67bfbf3f5b2608a63fa3",
+    "stationId": "awb_1970c2a4fdc111fb034d",
+    "name": "E68B099E4E55",
+    "country": "RU",
+    "url": "https://region-ru2.tunio.ai/stream/radio-b8c048449cbf42cbb683d9a8f3ec2a4f.aac",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2971c931-080c-4dd3-9de4-9e1daf4e6866"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
+  },
+  {
     "id": "aws_99b45f856597aa50d458",
     "stationId": "awb_f8f0ab9a8866ea9101a5",
     "name": "East of Russia (Восток России)",
@@ -24240,6 +24259,25 @@
     "lastCheckedAt": "2026-10-17T05:22:05Z"
   },
   {
+    "id": "aws_9228969c8cf6eac9bbc4",
+    "stationId": "awb_086fb3f5eef464a90a3a",
+    "name": "Radio Medved",
+    "country": "RU",
+    "url": "https://air.radiomedved.ru/rm320_main",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9c674d50-bbe8-41fb-9581-bcce235598ee"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
+  },
+  {
     "id": "aws_2c0a1e41677a23673479",
     "stationId": "awb_9269704cc4e0c771bccf",
     "name": "Radio Melodiya",
@@ -25675,6 +25713,26 @@
     "lastCheckedAt": "2026-10-17T22:54:23Z"
   },
   {
+    "id": "aws_5d8889bb9f179c056c86",
+    "stationId": "awb_d80eb41a914d98e758ff",
+    "name": "Radio Salyut",
+    "country": "RU",
+    "url": "http://stream.salyutfm.ru:8000/stream",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "399f1c19-c760-4e0d-bff9-375c5b6247d5",
+      "5dac411c-0b06-4e55-9ce1-49150a93b46d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T23:07:56Z"
+  },
+  {
     "id": "aws_472ccbc6abc932a0d243",
     "stationId": "awb_709e1a157274e3405caf",
     "name": "Radio Salyut",
@@ -25692,25 +25750,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T21:13:01Z"
-  },
-  {
-    "id": "aws_5d8889bb9f179c056c86",
-    "stationId": "awb_d80eb41a914d98e758ff",
-    "name": "Radio Salyut",
-    "country": "RU",
-    "url": "http://stream.salyutfm.ru:8000/stream",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5dac411c-0b06-4e55-9ce1-49150a93b46d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T04:29:01Z"
   },
   {
     "id": "aws_acf3d3a77b9c49a995df",
@@ -31157,7 +31196,7 @@
       "22663671-98af-49cf-87c8-17b1b59f4666"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:12Z"
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
   },
   {
     "id": "aws_6184bee8fc0d69641783",
@@ -37403,25 +37442,6 @@
     "lastCheckedAt": "2026-10-17T04:02:49Z"
   },
   {
-    "id": "aws_0ef24dcd26a6dc587439",
-    "stationId": "awb_5d999b3e4782709fe735",
-    "name": "Любимое Радио",
-    "country": "RU",
-    "url": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a70d6488-aac9-49d9-a65d-a72b4fca524d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_3cc4baf15fc9713b9e23",
     "stationId": "awb_bb8c4b39b0668e8c53cf",
     "name": "Любовь Успенская",
@@ -41323,8 +41343,8 @@
     "name": "Радио Волшебный Шансон",
     "country": "RU",
     "url": "https://listen8.myradio24.com/8144",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -41334,7 +41354,7 @@
       "8b2d2af5-9dc2-4818-86c1-30bcf7bea400"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_721cf923e7b7b4fe512d",
@@ -41400,8 +41420,8 @@
     "name": "Радио Гармония",
     "country": "RU",
     "url": "https://online.garmoniyafm.com/listen/garm/256",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -41411,7 +41431,7 @@
       "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_720be8a77206f1d4a79a",

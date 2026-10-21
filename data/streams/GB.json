@@ -2245,6 +2245,25 @@
     "lastCheckedAt": "2026-10-17T20:12:34Z"
   },
   {
+    "id": "aws_122631f7f213724f1ebc",
+    "stationId": "awb_2e51e1039ce6c384a786",
+    "name": "Absolute Radio 90s",
+    "country": "GB",
+    "url": "https://stream-ar.hellorayo.co.uk/absolute90shigh.aac?aw_0_1st.skey=1602676850",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "141e0cdb-5e31-40ad-955d-2c2c006c30b8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_3f2ac6fc96f833f88323",
     "stationId": "awb_fcf6362aa15b16854a86",
     "name": "Absolute Radio Country",
@@ -16589,7 +16608,7 @@
       "fae03b86-d61f-4803-a96b-1108d5b922a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T23:07:56Z"
   },
   {
     "id": "aws_92b4ca485eb46ddab86e",
@@ -20059,7 +20078,7 @@
       "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_19bc19a2bf974faa4692",
@@ -27502,6 +27521,25 @@
     "lastCheckedAt": "2026-10-16T23:33:01Z"
   },
   {
+    "id": "aws_57bce183d664b3b870d7",
+    "stationId": "awb_3d385b654d5ea23c4ff8",
+    "name": "Pink Noise Radio",
+    "country": "GB",
+    "url": "https://uk1.internet-radio.com/proxy/pinknoise?mp=/stream;?shoutcast",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b66194f0-5ed1-4abb-8909-0225de52f58d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_e297aad293e06fb8ef3b",
     "stationId": "awb_e325a6fd315882518fbd",
     "name": "PLANET ROCK: Where Rock Lives",
@@ -27676,7 +27714,7 @@
       "5e3a7db9-fa91-45ce-95f1-27f6fe4798bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T21:18:13Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_c95dd21511fc9fffdb31",
@@ -29376,6 +29414,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T21:47:40Z"
+  },
+  {
+    "id": "aws_9ac03006fa43ee38afc9",
+    "stationId": "awb_86467b3d57102d77401b",
+    "name": "Radio Elton John",
+    "country": "GB",
+    "url": "https://hq3.yesstreaming.net/5/stream",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "84bf5715-b2a4-4da2-9f41-949a0cf57a63"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T18:48:01Z"
+  },
+  {
+    "id": "aws_45a0f8687e36ed6e1adc",
+    "stationId": "awb_126749e01b3efd26b445",
+    "name": "Radio Elton John • REJ.World",
+    "country": "GB",
+    "url": "https://radio.rej.world/57018431",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "944fe3d2-1684-4c49-8d6c-a37e26bc6ede"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T23:07:56Z"
   },
   {
     "id": "aws_3d63e1bdc09286d5feec",
@@ -32089,7 +32165,7 @@
       "da7d7480-3616-4ba6-bf43-e086deb71d1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T00:17:25Z"
+    "lastCheckedAt": "2026-10-20T15:25:29Z"
   },
   {
     "id": "aws_9e24d4c690505e6b9664",
@@ -32706,7 +32782,7 @@
       "af927ce9-35d4-4d98-b36e-0812039bd16d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T23:07:57Z"
   },
   {
     "id": "aws_517b03a3d9a37d3552b9",
@@ -35426,10 +35502,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "54b69669-14ba-4733-9702-19e920025fe4"
+      "54b69669-14ba-4733-9702-19e920025fe4",
+      "d6f182de-5d6b-470b-8bee-3f6929feb2d0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T17:27:24Z"
+    "lastCheckedAt": "2026-10-20T23:07:56Z"
   },
   {
     "id": "aws_ffcf98dea1c6785aa897",
@@ -39294,7 +39371,7 @@
       "51f84050-e3f2-4af0-af17-19a213303284"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-15T18:20:13Z"
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_b7945b9b1f9013390b7f",

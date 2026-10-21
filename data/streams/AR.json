@@ -18100,6 +18100,25 @@
     "lastCheckedAt": "2026-10-17T16:18:20Z"
   },
   {
+    "id": "aws_70fbd80d1ea1b7d28579",
+    "stationId": "awb_8800f2f15cc9f0fb7444",
+    "name": "Radio República AM 770",
+    "country": "AR",
+    "url": "https://server.radiostreaming.com.ar:8200/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "87811b02-851a-4470-9e0c-dce582648bc3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_6a200ca5cb8d9c62e912",
     "stationId": "awb_2094cb20e7c0b50bc121",
     "name": "Radio Residencias",
@@ -20933,6 +20952,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T15:27:50Z"
+  },
+  {
+    "id": "aws_dabc92245f5be2699eb3",
+    "stationId": "awb_e3e0d6233a0d565fd367",
+    "name": "unas voz en el aire",
+    "country": "AR",
+    "url": "https://stream.zeno.fm/rlddkm6b5lktv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ef321e37-64ce-4a23-aff5-024e9c74fa8b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-20T22:36:25Z"
   },
   {
     "id": "aws_3e9c0432c722a77938c2",

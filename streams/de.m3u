@@ -3877,8 +3877,8 @@ http://mp3.ffh.de/ffhchannels/hqkuschelpop.aac
 http://mp3.ffh.de/ffhchannels/hqvoting.mp3?aw_0_req.gdpr=true
 #EXTINF:-1 station-id="awb_1c4443e25a5e31d9efc8" stream-id="aws_faeb6d7a4f710e44333a" codec="mp3" bitrate="128",FFH Lounge
 https://streams.ffh.de/ffhchannels/mp3/playerid:RTFFH/hqlounge.mp3
-#EXTINF:-1 station-id="awb_2788fd093d0b36938000" stream-id="aws_3fe4f1a3529f838e98aa" codec="" bitrate="0",FFH Relax
-http://streams.ffh.de/ffhchannels/mp3/hqrelax.m3u
+#EXTINF:-1 station-id="awb_2788fd093d0b36938000" stream-id="aws_3fe4f1a3529f838e98aa" codec="mp3" bitrate="128",FFH Relax
+http://mp3.ffh.de/ffhchannels/hqrelax.mp3?aw_0_req.gdpr=true
 #EXTINF:-1 station-id="awb_9d1838d0555c5581f5e8" stream-id="aws_6f1b0ffe48546091ff0a" codec="aac+" bitrate="51",FFH Rock
 http://mp3.ffh.de/ffhplus/rock.aac
 #EXTINF:-1 station-id="awb_9d1838d0555c5581f5e8" stream-id="aws_4d0985455e2d1ee91e01" codec="aac+" bitrate="128",FFH Rock
@@ -4499,6 +4499,8 @@ http://stream.laut.fm/german-gothic-radio
 http://german-tuner-radio.stream.laut.fm/german-tuner-radio?uuid=d3445497-1aa1-2c6a-d819-8593709e41d1&t302=2026-10-17_19-01-24
 #EXTINF:-1 station-id="awb_ec61b408decbaaf1549a" stream-id="aws_123e63d2f681d61b798e" codec="mp3" bitrate="128",germandream
 http://stream.laut.fm/germandreamradio
+#EXTINF:-1 station-id="awb_c3ecfd14eb83519b5572" stream-id="aws_bdc67bbe107709204aa2" codec="mp3" bitrate="128",Germanyrock
+https://stream.laut.fm/germanyrock
 #EXTINF:-1 station-id="awb_cca1e55401c3c61bd370" stream-id="aws_e43049e48e55b765a03c" codec="mp3" bitrate="128",Germanyworship
 http://germanyworship.stream.laut.fm/germanyworship
 #EXTINF:-1 station-id="awb_cca1e55401c3c61bd370" stream-id="aws_9226994fe4ff70734b96" codec="mp3" bitrate="128",Germanyworship
@@ -7793,6 +7795,10 @@ https://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/
 https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
 #EXTINF:-1 station-id="awb_34fbdf7b9c4ca8bb6e75" stream-id="aws_085b604db2d0cbd6f5df" codec="mp3" bitrate="0",Radio BOB! Harte Saite (192kbps)
 https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+#EXTINF:-1 station-id="awb_7d841746483bc77e9ac2" stream-id="aws_90f1d3045345f3ecc68c" codec="mp3" bitrate="0",Radio BOB! Iron Maden
+https://streams.radiobob.de/bob-ironmaiden/mp3-192/
+#EXTINF:-1 station-id="awb_10025532d11bd04fac12" stream-id="aws_8a58c8de2ae45be21d81" codec="mp3" bitrate="0",Radio BOB! Iron Maiden
+https://streams.radiobob.de/bob-ironmaiden/mp3-192/
 #EXTINF:-1 station-id="awb_4e5a3fff943bad933105" stream-id="aws_344bbe27304be20b38de" codec="aac" bitrate="0",Radio BOB! Live
 http://streams.radiobob.de/bob-live/aac-64/mediaplayer
 #EXTINF:-1 station-id="awb_9e4609632cade2302866" stream-id="aws_0c64ca2c25fd2111238a" codec="mp3" bitrate="0",RADIO BOB! Livestream
