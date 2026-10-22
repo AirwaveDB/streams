@@ -39,7 +39,7 @@
       "b5fe26d1-ef12-4a65-8761-80f7678693da"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T01:28:57Z"
+    "lastCheckedAt": "2026-10-22T01:54:09Z"
   },
   {
     "id": "aws_b4e7d0c04f6c23a7553e",
@@ -98,7 +98,7 @@
       "1b34da1a-246d-4fcb-9d33-1af386e1c064"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T05:06:07Z"
+    "lastCheckedAt": "2026-10-22T05:21:19Z"
   },
   {
     "id": "aws_570c1721a8b6ace6f15f",
@@ -155,7 +155,7 @@
       "fdd518db-f5ac-408b-a262-5e41155f6c8d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T22:08:50Z"
+    "lastCheckedAt": "2026-10-21T22:49:01Z"
   },
   {
     "id": "aws_a95a54ffe612edcafae4",
@@ -197,7 +197,7 @@
       "MG:radio-hifi"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T22:45:27Z"
+    "lastCheckedAt": "2026-10-21T23:02:05Z"
   },
   {
     "id": "aws_313ea6fafe680cc4c4e8",
@@ -219,6 +219,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T14:28:22Z"
+  },
+  {
+    "id": "aws_89d58c7db8d1129a66ab",
+    "stationId": "awb_4c874e98020ff7e36c83",
+    "name": "RADIO RFA ANDAPA",
+    "country": "MG",
+    "url": "https://s12.myradiostream.com/20048/listen.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "79125ba7-2b6b-4814-a90f-f495b0bde3e0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-22T06:14:38Z"
   },
   {
     "id": "aws_a06182a77b8754da0e34",
@@ -258,7 +277,7 @@
       "MG:radio-rock-madagascar"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T04:56:59Z"
+    "lastCheckedAt": "2026-10-22T05:14:54Z"
   },
   {
     "id": "aws_423af1acbe1a7881694b",
@@ -279,7 +298,7 @@
       "e96fb826-5e77-4845-aedb-9b17c8e9c520"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T00:28:58Z"
+    "lastCheckedAt": "2026-10-22T00:51:33Z"
   },
   {
     "id": "aws_48b572a18690c484f4ee",
@@ -317,7 +336,7 @@
       "2fcb9b03-c68f-11e8-a498-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T22:41:38Z"
+    "lastCheckedAt": "2026-10-21T23:57:41Z"
   },
   {
     "id": "aws_ab5afedfbb0c8ee7aa17",
@@ -338,7 +357,7 @@
       "MG:top-radio-102-8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T07:16:06Z"
+    "lastCheckedAt": "2026-10-22T07:23:03Z"
   },
   {
     "id": "aws_66b8c262a31e0b850127",
@@ -358,5 +377,24 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-17T15:54:50Z"
+  },
+  {
+    "id": "aws_980f71d8d0a584047a65",
+    "stationId": "awb_e95e4b0fdefc2101682f",
+    "name": "Tropicast Radio Station",
+    "country": "MG",
+    "url": "https://listen.tropicastradio.com/stations/gwjhbnsfzq/live.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e8069927-39e7-4589-8f92-75cad36f3f5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T17:04:50Z"
   }
 ]

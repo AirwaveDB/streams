@@ -77,7 +77,7 @@ https://stream.pcradio.ru/Nightwish-hi
 https://djuplink.com/ninjabox.mp3
 #EXTINF:-1 station-id="awb_06689e2644e78394ac81" stream-id="aws_eb8d817d6608925c8f6f" codec="aac" bitrate="64",Nostalgia
 https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
-#EXTINF:-1 station-id="awb_903cf4fb00d38eb812e7" stream-id="aws_889db85792f81a484caa" codec="aac" bitrate="64",NRJ
+#EXTINF:-1 station-id="awb_903cf4fb00d38eb812e7" stream-id="aws_889db85792f81a484caa" codec="aac" bitrate="63",NRJ
 https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_7d01cf5f8b2e370f4330" stream-id="aws_81fe1cf7581b4797e067" codec="ogg" bitrate="1200",POP fm
 http://stream.nsp.se:8000/pop
@@ -125,10 +125,10 @@ http://isojako.radiodei.fi:8000/turkueurajoki
 http://hear.fi:8000/hear.mp3
 #EXTINF:-1 station-id="awb_bc31ea5e45a3cb629577" stream-id="aws_f9177d2c5d9699d41d1f" codec="mp3" bitrate="256",Radio Helsinki
 https://stream.radiohelsinki.fi/stream
+#EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_e51bbe7e3223de98c05a" codec="mp3" bitrate="256",Radio Helsinki 98,5 Mhz
+https://stream.radiohelsinki.fi/stream
 #EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_7974c8dcdcdee3217353" codec="mp3" bitrate="0",Radio Helsinki 98,5 Mhz
 https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1787325930&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
-#EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_e51bbe7e3223de98c05a" codec="mp3" bitrate="0",Radio Helsinki 98,5 Mhz
-https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1792204291&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
 #EXTINF:-1 station-id="awb_99198bf888d345efa9f5" stream-id="aws_869a2df5cf479f839200" codec="aac" bitrate="192",Radio Hiekka
 https://radiohiekka.ovh:8443/stream
 #EXTINF:-1 station-id="awb_1b5d3fda7aee78e4becb" stream-id="aws_18a649b0211e41b7c377" codec="aac" bitrate="96",Radio KAAKKO
@@ -147,7 +147,7 @@ https://moreenistream.tuni.fi/moreeni.mp3
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 #EXTINF:-1 station-id="awb_c5a963d778fa0e963aa1" stream-id="aws_30abc12a9d33ef53d555" codec="mp3" bitrate="0",Radio Musa
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
-#EXTINF:-1 station-id="awb_edd3da0bffcf1fe995d0" stream-id="aws_c2fd11bc45620d13e419" codec="aac" bitrate="68",Radio Nostalgia
+#EXTINF:-1 station-id="awb_edd3da0bffcf1fe995d0" stream-id="aws_c2fd11bc45620d13e419" codec="aac" bitrate="67",Radio Nostalgia
 https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690
 #EXTINF:-1 station-id="awb_9b6b0b46bb53d10e7951" stream-id="aws_21911b96f1124ce57cfd" codec="aac" bitrate="68",Radio Nova
 http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true
@@ -229,7 +229,7 @@ https://st.downtime.fi/kiakko-tappara.aac
 https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
 #EXTINF:-1 station-id="awb_ae9346576891b5596d78" stream-id="aws_14879c7db14ea65f40f0" codec="mp3" bitrate="128",Tick Tock Radio - 1950
 https://streaming.ticktock.radio/tt/1950/icecast.audio
-#EXTINF:-1 station-id="awb_55a0b6f9915b1fc14ba5" stream-id="aws_06c0a0d09f5e8feefefd" codec="aac" bitrate="63",TOP51
+#EXTINF:-1 station-id="awb_55a0b6f9915b1fc14ba5" stream-id="aws_06c0a0d09f5e8feefefd" codec="aac" bitrate="64",TOP51
 https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_722625a9ecc5310ccd6d" stream-id="aws_b991fcece7bd3f97fa66" codec="aac" bitrate="320",Vömba FM
 https://c4.radioboss.fm:18123/live

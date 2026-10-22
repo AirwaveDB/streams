@@ -37,7 +37,7 @@
       "c4185eb5-3d06-4ca0-95af-cbc280b6c709"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T07:38:41Z"
+    "lastCheckedAt": "2026-10-22T07:42:33Z"
   },
   {
     "id": "aws_c6b699e77ddedd6b77c3",
@@ -58,7 +58,7 @@
       "a3104778-3295-4a84-8cbe-f34ebac2e26e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T02:57:09Z"
+    "lastCheckedAt": "2026-10-22T03:08:14Z"
   },
   {
     "id": "aws_a0482135399e3568dd60",
@@ -79,7 +79,7 @@
       "JO:abdulbasit-abdulsamad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T02:36:27Z"
+    "lastCheckedAt": "2026-10-22T02:54:01Z"
   },
   {
     "id": "aws_72486a5440af347134e3",
@@ -100,7 +100,7 @@
       "e646da7b-41c6-4ecf-8af1-5634a358683c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T21:37:29Z"
+    "lastCheckedAt": "2026-10-21T21:41:15Z"
   },
   {
     "id": "aws_abcebbfece8e31888af1",
@@ -143,6 +143,82 @@
     "lastCheckedAt": "2026-10-18T00:02:59Z"
   },
   {
+    "id": "aws_c7a65f51ac9eca357060",
+    "stationId": "awb_0923a29400d8b7926238",
+    "name": "Bliss FM 104.3",
+    "country": "JO",
+    "url": "https://bliss1-alrayamedia.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "10d1310d-6141-49ee-8295-40685c999663"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
+    "id": "aws_ad59a8dc4e05a91626ec",
+    "stationId": "awb_1814eafed99d9d30ed3c",
+    "name": "Drdchati Radio",
+    "country": "JO",
+    "url": "https://radio.gorlk.net/drdchati",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4816b63c-92a4-4ece-a464-7f16b2b58936"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T09:12:34Z"
+  },
+  {
+    "id": "aws_3025ba1e6592840e5adf",
+    "stationId": "awb_1bb3e444dc2bb42a66a0",
+    "name": "FABULOUSXM",
+    "country": "JO",
+    "url": "http://s3.voscast.com:9830/;stream.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ea113a0c-079f-481d-9695-16c5e276ac29"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
+    "id": "aws_eecb137c33ff086e9e23",
+    "stationId": "awb_66988d0667076c3b3084",
+    "name": "Fusha FM 102.9 - Jordan Academy of Arabic",
+    "country": "JO",
+    "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1",
+    "codec": "mp3",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "55fe42e3-74dc-4a71-80e3-87ac0d0f8a6b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T17:04:50Z"
+  },
+  {
     "id": "aws_5ed5bae2cf754f2dc62f",
     "stationId": "awb_d356a353fc9356d2fe27",
     "name": "Hayat FM",
@@ -161,7 +237,26 @@
       "f11a1158-1ee0-4772-bcb0-110522be1e18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T23:44:13Z"
+    "lastCheckedAt": "2026-10-21T23:45:25Z"
+  },
+  {
+    "id": "aws_45dc676417e88e89624b",
+    "stationId": "awb_129e0082a39c75aaf846",
+    "name": "Jeish FM 107.9",
+    "country": "JO",
+    "url": "https://jeishfm-alrayamedia.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c19661d7-33a1-450e-ba92-95fa10485446"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T10:49:37Z"
   },
   {
     "id": "aws_18d0209b78de11a4f6bf",
@@ -199,7 +294,7 @@
       "b5f9df76-4119-4ca2-b778-0ac128c9442c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T07:04:02Z"
+    "lastCheckedAt": "2026-10-22T07:34:38Z"
   },
   {
     "id": "aws_31e0453267f38fdf3029",
@@ -218,7 +313,7 @@
       "74bf8976-5e4b-4f55-8483-f94161c48fca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T07:10:05Z"
+    "lastCheckedAt": "2026-10-22T07:21:09Z"
   },
   {
     "id": "aws_2bffdb6ccc0ea34f5bcc",
@@ -239,7 +334,7 @@
       "JO:mazaj-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T23:31:53Z"
+    "lastCheckedAt": "2026-10-21T22:18:21Z"
   },
   {
     "id": "aws_6dd3283af1d52120734e",
@@ -258,7 +353,7 @@
       "416484fb-1a73-4bf6-afdf-512859341ffa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T04:47:07Z"
+    "lastCheckedAt": "2026-10-22T06:52:25Z"
   },
   {
     "id": "aws_cb5cdc11d69075b50aaa",
@@ -279,7 +374,45 @@
       "JO:mood-fm-92-amman"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-16T21:44:24Z"
+    "lastCheckedAt": "2026-10-21T21:58:31Z"
+  },
+  {
+    "id": "aws_bf1bd1a15a00606dd188",
+    "stationId": "awb_d6daedd6429daa7aa8ff",
+    "name": "Nai FM 101.5",
+    "country": "JO",
+    "url": "https://naifm.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5b074abe-974b-4065-87ee-27dc8612edbe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T10:49:37Z"
+  },
+  {
+    "id": "aws_6f21fb974af88585cba2",
+    "stationId": "awb_5705ed031a3f4a30fdb8",
+    "name": "Noon FM 103.1",
+    "country": "JO",
+    "url": "https://radionoon.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "20b25ce0-3d92-43f8-9b99-d2c5b47baf26"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
   },
   {
     "id": "aws_bc98e912adc09562773a",
@@ -307,7 +440,7 @@
     "country": "JO",
     "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 584,
+    "bitrate": 582,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -317,7 +450,7 @@
       "672074e5-1f1e-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T04:47:07Z"
+    "lastCheckedAt": "2026-10-22T05:19:08Z"
   },
   {
     "id": "aws_56e8f37ae32d6facee5c",
@@ -337,7 +470,26 @@
       "523bbd9f-6ca8-4799-9c9a-5c9c75cc4d60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T19:21:39Z"
+    "lastCheckedAt": "2026-10-22T01:54:09Z"
+  },
+  {
+    "id": "aws_c8798370d2d45abd0d07",
+    "stationId": "awb_d301ce62d64f11058259",
+    "name": "Play 99.5 FM",
+    "country": "JO",
+    "url": "https://play995.radioca.st//stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "93c7e739-35d5-4a08-b95f-c3a2b37c21d1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
   },
   {
     "id": "aws_9acc80cc5f893935c2f0",
@@ -359,6 +511,25 @@
     "lastCheckedAt": "2026-10-17T18:45:41Z"
   },
   {
+    "id": "aws_4be8c94cae3387d488d1",
+    "stationId": "awb_1be8e1323b5059667d1a",
+    "name": "Rabee Al Qloub",
+    "country": "JO",
+    "url": "http://radio-ssl.com:8006/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b54622a7-cec6-4f49-8037-ca3382a80ebe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
     "id": "aws_feff3c008e057b9ce6d3",
     "stationId": "awb_c6414b8eb4f6421cbb7b",
     "name": "Radio Dahab",
@@ -377,7 +548,45 @@
       "JO:radio-dahab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T00:42:23Z"
+    "lastCheckedAt": "2026-10-22T01:51:41Z"
+  },
+  {
+    "id": "aws_5adda6ab0c7bd8e08e88",
+    "stationId": "awb_acefe049586c3ec08729",
+    "name": "Radio Fann FM 104.2",
+    "country": "JO",
+    "url": "http://45.63.116.205:8000/stream2",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b4b921a6-c2f2-4ff4-9a51-83a50011cb97"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
+    "id": "aws_40cc267b860647fb89f7",
+    "stationId": "awb_bb95ac6a3c459f60acc6",
+    "name": "Radio Hala",
+    "country": "JO",
+    "url": "https://hala-alrayamedia.radioca.st/;",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f192a296-1fbc-4a7c-ab8f-d09221f4a3b6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T09:12:34Z"
   },
   {
     "id": "aws_7b7f71f200e7e3b032d7",
@@ -399,6 +608,82 @@
     "lastCheckedAt": "2026-10-17T20:41:41Z"
   },
   {
+    "id": "aws_7b2733d619ef6424ea15",
+    "stationId": "awb_6b28ddca26c4bedb3e58",
+    "name": "Rotana Radio 99.9 FM Jordan",
+    "country": "JO",
+    "url": "http://45.63.116.205:8000/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7e347b79-508b-4b0c-a7a5-a635ad2af3d0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T08:09:24Z"
+  },
+  {
+    "id": "aws_9e7509bb4b3752b8affd",
+    "stationId": "awb_d409c0c12b9348c7269b",
+    "name": "Tareq Al Nasser Music",
+    "country": "JO",
+    "url": "https://listen.radioking.com/radio/782726/stream/850381",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "be7f08cc-260f-47ca-a172-b3493239e2a6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T09:12:34Z"
+  },
+  {
+    "id": "aws_818a44ea11497ce98ab9",
+    "stationId": "awb_5af0c34508a7b9fd4b37",
+    "name": "TTU FM - Tafila Technical University",
+    "country": "JO",
+    "url": "http://fm.ttu.edu.jo:88/broadwavehigh.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5e03b30c-f597-46b1-aed2-f462db424ed6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T17:04:50Z"
+  },
+  {
+    "id": "aws_26c69871c0ed4334ac81",
+    "stationId": "awb_bd20d85033367afa17a5",
+    "name": "Watar FM",
+    "country": "JO",
+    "url": "https://securestreams2.autopo.st:1243/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "80342280-d3f9-4d61-8443-d3e415e89fb4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-21T17:04:50Z"
+  },
+  {
     "id": "aws_c4ae15e71e688c2be63f",
     "stationId": "awb_8e644ecedf46be41057e",
     "name": "Yarmouk University FM",
@@ -417,7 +702,7 @@
       "bd561679-5317-4a66-8393-c6f06970792d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-17T07:06:58Z"
+    "lastCheckedAt": "2026-10-22T08:21:14Z"
   },
   {
     "id": "aws_a32575bef548c1d3785b",
