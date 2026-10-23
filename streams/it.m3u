@@ -14,9 +14,9 @@ https://icy.unitedradio.it/105Story.mp3?aw_0_req.userConsentV2=&listenerId=e01be
 #EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_49d4eb4f5779a1708ee5" codec="mp3" bitrate="128",16Radio
 http://16radio.stream.laut.fm/16radio?t302=2026-10-22_10-21-35&uuid=ebc3a7b1-df83-1a19-fccb-1ae6d1fc0488
 #EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_5ecda683ac76a2acedff" codec="mp3" bitrate="128",16Radio
-http://16radio.stream.laut.fm/16radio?uuid=255484ce-002e-7a1c-bdf2-8bdfee4ba6c6&t302=2026-10-17_13-11-44
+http://16radio.stream.laut.fm/16radio?t302=2026-10-22_13-55-33&uuid=d597b41d-b4f7-98ad-1ef9-efa849aa9b96
 #EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_11a63595297d2e6bf6ba" codec="mp3" bitrate="128",16Radio
-http://16radio.stream.laut.fm/16radio?uuid=bd234dc4-a76a-1763-e0be-af9095121a05&t302=2026-10-18_01-00-44
+http://16radio.stream.laut.fm/16radio?t302=2026-10-23_01-08-24&uuid=fca40717-753c-6c72-ea31-08f9ca26d949
 #EXTINF:-1 station-id="awb_1f3b52e6a734e373dc41" stream-id="aws_269f18ede103651f5c52" codec="mp3" bitrate="128",50s 60s RETRO HITS
 https://stream.zeno.fm/pxzwykxbluitv
 #EXTINF:-1 station-id="awb_e6075ffa22097961252a" stream-id="aws_429e6691e89b216cd665" codec="mp3" bitrate="192",70 80 90
@@ -58,11 +58,11 @@ https://www.myipcast.com/radio/adriatic
 #EXTINF:-1 station-id="awb_d00d6c3ae3c378bae376" stream-id="aws_7646f9ffdf8d89469ae3" codec="mp3" bitrate="96",AFN 360 Aviano
 http://14153.live.streamtheworld.com/AFNE_AVN_SC
 #EXTINF:-1 station-id="awb_8a537e218919f1b293c3" stream-id="aws_090e1c3b98cbc78a20a9" codec="mp3" bitrate="96",AFN 360 Naples
-http://25443.live.streamtheworld.com/AFNE_NAP_SC
+http://29344.live.streamtheworld.com:3690/AFNE_NAP_SC
 #EXTINF:-1 station-id="awb_1d5100011f3750722f24" stream-id="aws_771f5f3f4a0069507552" codec="mp3" bitrate="96",AFN 360 Sigonella
 http://25633.live.streamtheworld.com/AFNE_SIG_SC
 #EXTINF:-1 station-id="awb_7f4eb0ba4f83e55ef868" stream-id="aws_85444c094f5dd58e82b1" codec="mp3" bitrate="96",AFN 360 Vicenza
-http://23543.live.streamtheworld.com:3690/AFNE_VIC_SC
+http://25633.live.streamtheworld.com:3690/AFNE_VIC_SC
 #EXTINF:-1 station-id="awb_9aea7b8a845b2b758523" stream-id="aws_235ba61c8a2f166c922e" codec="mp3" bitrate="128",Aldobaraldo - WebRadio
 https://sr10.inmystream.it/proxy/asdaldob/stream
 #EXTINF:-1 station-id="awb_4a136bd2dddf36d22936" stream-id="aws_0f1ea919c08a08b57503" codec="mp3" bitrate="0",All Gospel Radio
@@ -173,7 +173,7 @@ http://edge.radiomontecarlo.net/rmcweb004
 http://shoutcast.countrypowerstation.net:8000/stream
 #EXTINF:-1 station-id="awb_c740a533fcfbb1841475" stream-id="aws_885615a803660ba5fcb3" codec="mp3" bitrate="192",CRV Creative radio Veneto
 https://scalcoimpianti.homepc.it/listen/crvradio/radio.mp3
-#EXTINF:-1 station-id="awb_ed04367f4a19d65bdcac" stream-id="aws_f434c39a02c623b73f67" codec="aac+" bitrate="144",Cube Radio
+#EXTINF:-1 station-id="awb_ed04367f4a19d65bdcac" stream-id="aws_f434c39a02c623b73f67" codec="aac+" bitrate="128",Cube Radio
 http://nr6.newradio.it:9283/stream
 #EXTINF:-1 station-id="awb_1f72ef249d7fb192b424" stream-id="aws_ba0907760336de550c57" codec="mp3" bitrate="192",Cuggi Radio
 https://radio.tfrbot.com/listen/cuggi_radio/radio_cuggi.mp3
@@ -269,8 +269,8 @@ https://sr11.inmystream.it/proxy/dumdumradio
 https://stream.dynodance.com/stream/dynodance/stream_low
 #EXTINF:-1 station-id="awb_428f74e6136e9bb3471d" stream-id="aws_822cfa3c85998e392ddc" codec="ogg" bitrate="1500",easy and italy
 https://futura.fm/stream.ogg?ts=1723791202.627
-#EXTINF:-1 station-id="awb_41e4b42fecfa925a1f04" stream-id="aws_048b0e6f7b8c95c40dd4" codec="mp3" bitrate="128",Easy Network
-http://sphera.fluidstream.eu/easy.mp3?FLID=6
+#EXTINF:-1 station-id="awb_41e4b42fecfa925a1f04" stream-id="aws_048b0e6f7b8c95c40dd4" codec="aac+" bitrate="64",Easy Network
+http://sphera.fluidstream.eu/easy.aac?FLID=6
 #EXTINF:-1 station-id="awb_c2c4db4aacd57dd0c869" stream-id="aws_bdecdd17452ee1482333" codec="mp3" bitrate="192",Easy Network Classic
 http://sphera.fluidstream.eu/easy_classica.mp3
 #EXTINF:-1 station-id="awb_c2c4db4aacd57dd0c869" stream-id="aws_ec1985ab88df399a5c7c" codec="mp3" bitrate="192",Easy Network Classic
@@ -337,9 +337,9 @@ https://stream-39.zeno.fm/tcfbbvcdvp8uv?zs=k4Ch0DfKQh2hoqKasxb-3g
 https://s10.webradio-hosting.com/proxy/fredradiosar/stream
 #EXTINF:-1 station-id="awb_5c333e27de6ccdf938df" stream-id="aws_8bd3e97b3895fc2572ae" codec="mp3" bitrate="128",Fred Film Radio(italiano)
 https://s10.webradio-hosting.com/proxy/fredradioit/stream
-#EXTINF:-1 station-id="awb_700b9820e059dc0d250e" stream-id="aws_25df376a3726d569c0b0" codec="mp3" bitrate="0",Free Radio Conselve
+#EXTINF:-1 station-id="awb_700b9820e059dc0d250e" stream-id="aws_25df376a3726d569c0b0" codec="mp3" bitrate="192",Free Radio Conselve
 https://ice17.fluidstream.net/conselve.mp3
-#EXTINF:-1 station-id="awb_700b9820e059dc0d250e" stream-id="aws_e6bb39cb6b41e3cbee91" codec="mp3" bitrate="0",Free Radio Conselve
+#EXTINF:-1 station-id="awb_700b9820e059dc0d250e" stream-id="aws_e6bb39cb6b41e3cbee91" codec="mp3" bitrate="192",Free Radio Conselve
 https://ice17.fluidstream.net/conselve.mp3?FLID=M
 #EXTINF:-1 station-id="awb_8c3f90ba0fc2547c9383" stream-id="aws_afd939e2cb28c1f68f43" codec="mp3" bitrate="128",Free Radio Jolly
 https://a3.asurahosting.com/listen/freeradiojolly.it/radio.mp3
@@ -519,7 +519,7 @@ https://icy.unitedradio.it/um017.mp3
 https://italiandancenetwork.com/stream.mp3
 #EXTINF:-1 station-id="awb_eb005f205405faf207a4" stream-id="aws_1a0743b122d29643a89c" codec="aac+" bitrate="101",Italian Radio
 https://italianradio.streamingmedia.it/play
-#EXTINF:-1 station-id="awb_0d488220cfa15e61f6fa" stream-id="aws_9c3dfada1f9ea158cb49" codec="aac+" bitrate="100",ITALIAN RADIO - Only (romantic) Italian Music
+#EXTINF:-1 station-id="awb_0d488220cfa15e61f6fa" stream-id="aws_9c3dfada1f9ea158cb49" codec="aac+" bitrate="101",ITALIAN RADIO - Only (romantic) Italian Music
 https://italianradio.streamingmedia.it/play
 #EXTINF:-1 station-id="awb_321d17aedb6910644b87" stream-id="aws_3b45837274f746076baf" codec="mp3" bitrate="128",ItaliaRadio (MRG.fm)
 http://listen.mrg.fm:8120/stream
@@ -847,9 +847,9 @@ http://s2.shoutitaly.com:8030/radio.mp3
 http://buraglio.it:8000/pyradio
 #EXTINF:-1 station-id="awb_833216f59dab3535865c" stream-id="aws_801e16c1f3671047e96a" codec="mp3" bitrate="192",Q8 Radio
 https://nr15.newradio.it:9132/stream
-#EXTINF:-1 station-id="awb_6e3e5ea4ad482354b13f" stream-id="aws_d55d6a22dbcb4f680e2b" codec="aac" bitrate="88",R S J
+#EXTINF:-1 station-id="awb_6e3e5ea4ad482354b13f" stream-id="aws_d55d6a22dbcb4f680e2b" codec="aac" bitrate="128",R S J
 http://stream.srg-ssr.ch/srgssr/rsj/aac/96
-#EXTINF:-1 station-id="awb_edff5e02429c2c09d30f" stream-id="aws_aa63ec66eeac89373fb1" codec="aac" bitrate="95",R101
+#EXTINF:-1 station-id="awb_edff5e02429c2c09d30f" stream-id="aws_aa63ec66eeac89373fb1" codec="aac" bitrate="96",R101
 http://icy.unitedradio.it/R101_558.aac
 #EXTINF:-1 station-id="awb_ca5928d2a16e7fbbc819" stream-id="aws_414c6149495a01dfdf0d" codec="aac" bitrate="95",R101 '00
 http://icy.unitedradio.it/R1012000.aac
@@ -861,7 +861,7 @@ http://icy.unitedradio.it/R10180.aac
 http://icy.unitedradio.it/R10190.aac
 #EXTINF:-1 station-id="awb_1f495865fa1b2023ff25" stream-id="aws_56760677a2c1171b60b3" codec="aac" bitrate="96",R101 80
 https://icy.unitedradio.it/R10180.aac
-#EXTINF:-1 station-id="awb_d1751e52acffdaf06894" stream-id="aws_f8f6ac5781758456e74b" codec="aac" bitrate="95",R101 Enjoy The Music
+#EXTINF:-1 station-id="awb_d1751e52acffdaf06894" stream-id="aws_f8f6ac5781758456e74b" codec="aac" bitrate="96",R101 Enjoy The Music
 http://icy.unitedradio.it/101Legend.aac
 #EXTINF:-1 station-id="awb_5bda77c11dccb304048c" stream-id="aws_7862e09d9a1c4390f473" codec="aac+" bitrate="95",R101 FM
 http://icecast.unitedradio.it/r101
@@ -877,7 +877,7 @@ http://icy.unitedradio.it/R101NewMusicFriday.aac
 http://icecast.unitedradio.it/r101_mp3
 #EXTINF:-1 station-id="awb_6e13f65c6b15ff8e94c5" stream-id="aws_2c36c79045258c293e17" codec="aac" bitrate="96",R101 Urban Night
 http://icy.unitedradio.it/101UrbanNight.aac
-#EXTINF:-1 station-id="awb_bfef69d1b3bfbdbf0016" stream-id="aws_47d8c04a8197bbba2732" codec="aac" bitrate="96",R101 Your Love
+#EXTINF:-1 station-id="awb_bfef69d1b3bfbdbf0016" stream-id="aws_47d8c04a8197bbba2732" codec="aac" bitrate="95",R101 Your Love
 http://icy.unitedradio.it/R101YourLove.aac
 #EXTINF:-1 station-id="awb_eeae952605e79c663638" stream-id="aws_bb7fece50317093578ff" codec="mp3" bitrate="128",R205
 https://halo.streamerr.co/listen/r205/radio.mp3
@@ -1059,8 +1059,8 @@ http://onair20.xdevel.com:8346/;
 http://onair15.xdevel.com:8838/;stream.mp3
 #EXTINF:-1 station-id="awb_f30dd71c769b0dc542b2" stream-id="aws_c7e3f4cd2ca048e334a1" codec="mp3" bitrate="0",Radio Amore One Dance Catania
 http://onair22.streaming.xdevel.com:10010/;stream.mp3
-#EXTINF:-1 station-id="awb_390cb8e2027f8f8645e5" stream-id="aws_e1076b1a72eb5f2902d7" codec="aac+" bitrate="96",Radio Ananas
-http://ice05.fluidstream.net/fluid0501.aac?FLID=6
+#EXTINF:-1 station-id="awb_390cb8e2027f8f8645e5" stream-id="aws_e1076b1a72eb5f2902d7" codec="mp3" bitrate="128",Radio Ananas
+http://ice43.fluidstream.net/fluid04.mp3?FLID=6
 #EXTINF:-1 station-id="awb_01645565817226c87d95" stream-id="aws_57428fae4692e5c50028" codec="mp3" bitrate="128",Radio Anaunia
 http://s6.mediastreaming.it:9134/;stream.mp3
 #EXTINF:-1 station-id="awb_671b80d0eae55ce3a002" stream-id="aws_517f2f25e8edda84d6f7" codec="aac" bitrate="64",Radio Animati
@@ -1147,8 +1147,8 @@ http://str04.fluidstream.net/bergamo.mp3
 https://stream.tmwradio.com/bianconera.aac
 #EXTINF:-1 station-id="awb_ace5431f24d7f3ad64e2" stream-id="aws_18364853de5e2142dbc2" codec="aac+" bitrate="64",Radio Bianconera
 https://stream.tmwradio.com/bianconera.aac?FLID=1
-#EXTINF:-1 station-id="awb_e0e6e5ce1baa4d2d8d50" stream-id="aws_c8947544839df984b211" codec="ogg" bitrate="0",Radio Bias
-https://admin.biasradio.com/listen/bias_radio/flac
+#EXTINF:-1 station-id="awb_e0e6e5ce1baa4d2d8d50" stream-id="aws_c8947544839df984b211" codec="aac" bitrate="96",Radio Bias
+https://admin.biasradio.com/listen/bias_radio/mobile
 #EXTINF:-1 station-id="awb_ce6c3dae0f28f286e799" stream-id="aws_827c916bc0b53c198e52" codec="mp3" bitrate="128",Radio Biberon
 http://nl1.streamingpulse.com:7022/stream
 #EXTINF:-1 station-id="awb_8e202fbeb9c80de89dc6" stream-id="aws_c77769cc200246fc3fc9" codec="aac+" bitrate="64",Radio Birikina
@@ -1203,7 +1203,7 @@ http://onair11.xdevel.com:8000/;stream.mp3
 https://stream.zeno.fm/rtndtqysyq5tv
 #EXTINF:-1 station-id="awb_4fe891553f1626391c5a" stream-id="aws_9a89597c956d72c229b7" codec="mp3" bitrate="0",Radio California
 http://onair22.streaming.xdevel.com:10084/;stream.mp3
-#EXTINF:-1 station-id="awb_22de47d8e4f8310a67da" stream-id="aws_7fc25b564d640e1a5e88" codec="aac+" bitrate="48",Radio Canelli Monferrato
+#EXTINF:-1 station-id="awb_22de47d8e4f8310a67da" stream-id="aws_7fc25b564d640e1a5e88" codec="aac+" bitrate="96",Radio Canelli Monferrato
 http://nr5.newradio.it:8533/;stream.mp3
 #EXTINF:-1 station-id="awb_7f38fbfa78ff90ea1d94" stream-id="aws_9c393a17529afac8654f" codec="aac+" bitrate="128",Radio Caos Italia
 https://sr14.inmystream.it/stream/radiocaos
@@ -1251,7 +1251,7 @@ https://radiocavolo.org/stream
 http://eu10.fastcast4u.com:3420/
 #EXTINF:-1 station-id="awb_1ceec7a63bc9a7924591" stream-id="aws_1592a7a260afee21403a" codec="mp3" bitrate="128",Radio Cecchetto
 https://eu10.fastcast4u.com:3420/
-#EXTINF:-1 station-id="awb_0b4490a44615652ac5e1" stream-id="aws_7536f1678e42603b1bea" codec="mp3" bitrate="0",Radio Center Music
+#EXTINF:-1 station-id="awb_0b4490a44615652ac5e1" stream-id="aws_7536f1678e42603b1bea" codec="mp3" bitrate="192",Radio Center Music
 http://ice17.fluidstream.net/conselve.mp3?FLID=6
 #EXTINF:-1 station-id="awb_ebe0892b9936d16e597b" stream-id="aws_e2897b762471f5377a1e" codec="mp3" bitrate="128",Radio Cento Vittoria
 https://radiocentovittoria-fellini.radioca.st/;
@@ -1689,8 +1689,8 @@ https://radio.indexhub.it/stream
 https://ice08.fluidstream.net/fluid813.mp3
 #EXTINF:-1 station-id="awb_bef7dcc27d337cc31890" stream-id="aws_ec9b7baf4598de8f556e" codec="mp3" bitrate="256",Radio Irene
 http://centauri.shoutca.st:8402/;stream.mp3
-#EXTINF:-1 station-id="awb_63c4e9ebbfc81d3fe210" stream-id="aws_1b9890fe3668c221c2da" codec="mp3" bitrate="128",Radio Iride
-http://sphera.fluidstream.eu/rpd.mp3?FLID=6
+#EXTINF:-1 station-id="awb_63c4e9ebbfc81d3fe210" stream-id="aws_1b9890fe3668c221c2da" codec="aac+" bitrate="64",Radio Iride
+http://sphera.fluidstream.eu/rpd.aac?FLID=6
 #EXTINF:-1 station-id="awb_0daa1697710e9f5ccdaf" stream-id="aws_ffb4e5355447d0068121" codec="mp3" bitrate="128",Radio Itaca
 http://164.132.178.50:8000/stream.mp3
 #EXTINF:-1 station-id="awb_6109305d0c2512a17f01" stream-id="aws_8298a252d32f94ee1278" codec="aac" bitrate="98",Radio Italia
@@ -1715,7 +1715,7 @@ https://ice16.fluidstream.net/ria60_pa.mp3
 https://ice12.fluidstream.net/ria60_tp.aac
 #EXTINF:-1 station-id="awb_d5b091134653776a55bd" stream-id="aws_578f1fed2795fb246eee" codec="aac" bitrate="128",Radio Italia Anni 60 Sardegna
 https://ice12.fluidstream.net/ria60_ca.aac
-#EXTINF:-1 station-id="awb_d485cb8c226f6e0d4eaf" stream-id="aws_eeef978e45a00185ec35" codec="aac,h.264" bitrate="1565",Radio Italia Cina TV 意大利中国电台电视频道
+#EXTINF:-1 station-id="awb_d485cb8c226f6e0d4eaf" stream-id="aws_eeef978e45a00185ec35" codec="aac,h.264" bitrate="1618",Radio Italia Cina TV 意大利中国电台电视频道
 https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 #EXTINF:-1 station-id="awb_8167f99e2b9f65338991" stream-id="aws_d5f0497065763cab43b8" codec="mp3" bitrate="128",Radio Italia Network
 https://gr.fluidstream.eu/gr7.mp3
@@ -1781,8 +1781,8 @@ http://radiokolbemelfi.ddns.net:1337/;stream.mp3
 http://onair11.xdevel.com:8150/
 #EXTINF:-1 station-id="awb_6af1142a11fe872b8e26" stream-id="aws_8fe593851e5ad239b864" codec="mp3" bitrate="128",Radio l'Olgiata
 https://olgiata-danidi01.radioca.st/stream.mp3/
-#EXTINF:-1 station-id="awb_efc6788cfea3879b6983" stream-id="aws_cd47fcb6ba73ceeea0ac" codec="mp3" bitrate="128",Radio Lady
-http://ice05.fluidstream.net/fluid0507.mp3?FLID=6
+#EXTINF:-1 station-id="awb_efc6788cfea3879b6983" stream-id="aws_cd47fcb6ba73ceeea0ac" codec="aac+" bitrate="64",Radio Lady
+http://ice02.fluidstream.net/fluid02_8350.aac?FLID=6
 #EXTINF:-1 station-id="awb_efc6788cfea3879b6983" stream-id="aws_312475d32a6bb2960184" codec="mp3" bitrate="128",Radio Lady
 https://ice05.fluidstream.net/fluid0507.mp3?FLID=1&type=.mp3
 #EXTINF:-1 station-id="awb_19379948662a36659785" stream-id="aws_0a20f3856c4e77027329" codec="mp3" bitrate="128",Radio Laser
@@ -1823,8 +1823,8 @@ https://rblive.it:8120//radio.mp3
 https://rblive.it:8130/radio.mp3
 #EXTINF:-1 station-id="awb_f48a7d06a78c346442f4" stream-id="aws_dd2d84f49a6254ad241d" codec="mp3" bitrate="192",Radio Linea Young Generation
 https://rblive.it:8140/radio.mp3
-#EXTINF:-1 station-id="awb_738f7a934b66a39075e5" stream-id="aws_138c4681f1e5a885a795" codec="mp3" bitrate="0",Radio LineAttiva
-http://ice17.fluidstream.net/conselve.mp3?FLID=H
+#EXTINF:-1 station-id="awb_738f7a934b66a39075e5" stream-id="aws_138c4681f1e5a885a795" codec="mp3" bitrate="192",Radio LineAttiva
+https://ice17.fluidstream.net/conselve.mp3?FLID=M
 #EXTINF:-1 station-id="awb_cec95c7876985a6e82f3" stream-id="aws_8553c8e15191897691d7" codec="aac" bitrate="128",Radio Linetti (Deejay Linus WFM)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
 #EXTINF:-1 station-id="awb_cec95c7876985a6e82f3" stream-id="aws_64d36a5bf682a9cf41ec" codec="unknown" bitrate="0",Radio Linetti (Deejay Linus WFM)
@@ -1999,8 +1999,8 @@ http://195.201.166.244:8327/
 https://nrf1.newradio.it:10434/stream
 #EXTINF:-1 station-id="awb_45f60b93d8c0b0ec553e" stream-id="aws_7ea45e7b261d25e31790" codec="mp3" bitrate="128",Radio MusicaVera
 https://nr12.newradio.it/stream/8818
-#EXTINF:-1 station-id="awb_b18e62bda8d4a6e253a2" stream-id="aws_cb0cff7c2b9c8da5df95" codec="aac" bitrate="64",Radio Napoli
-http://ice08.fluidstream.net/RadioNapoli.aac?FLID=6
+#EXTINF:-1 station-id="awb_b18e62bda8d4a6e253a2" stream-id="aws_cb0cff7c2b9c8da5df95" codec="mp3" bitrate="128",Radio Napoli
+http://ice06.fluidstream.net/RadioNapoli.mp3?FLID=6
 #EXTINF:-1 station-id="awb_f12fdeb3e2841a0b9209" stream-id="aws_fb124ffe2db766108eb6" codec="aac" bitrate="64",Radio Napoli Doc
 https://ice08.fluidstream.net/RadioNapoli.aac
 #EXTINF:-1 station-id="awb_a2442be168b534011f88" stream-id="aws_74c8e35282a57e853b5d" codec="mp3" bitrate="128",Radio NBC Rete Regione
@@ -2453,8 +2453,8 @@ http://onair15.xdevel.com:9160/listen.pls
 http://nr9.newradio.it:9630/stream
 #EXTINF:-1 station-id="awb_d48e32b36add0827dfeb" stream-id="aws_a5c90edd1355068e1e2d" codec="mp3" bitrate="192",Radio Studio Delta - la piu
 https://rsd.streamingmedia.it/play.mp3
-#EXTINF:-1 station-id="awb_f92a06b521da34ee92fb" stream-id="aws_3a50aea34cafd3557b25" codec="mp3" bitrate="128",Radio Studio Emme
-http://ice05.fluidstream.net/fluid0505.mp3?FLID=6
+#EXTINF:-1 station-id="awb_f92a06b521da34ee92fb" stream-id="aws_3a50aea34cafd3557b25" codec="aac+" bitrate="64",Radio Studio Emme
+http://ice09.fluidstream.net/fluid0901.aac?FLID=6
 #EXTINF:-1 station-id="awb_8af0c2cfb1573b41809e" stream-id="aws_012bc846a817c46802e4" codec="mp3" bitrate="128",Radio Studio Nord
 https://nr6.newradio.it:19104/;
 #EXTINF:-1 station-id="awb_558bb84848fbad5fd99e" stream-id="aws_ef9fe7957d496bcd8412" codec="mp3" bitrate="128",Radio Studio Nord 80 Energia
@@ -2511,8 +2511,8 @@ http://178.32.139.184:8110/stream
 http://onair15.xdevel.com:8296/;
 #EXTINF:-1 station-id="awb_4c5b22f8d5670cdaf91e" stream-id="aws_da78c745bdce611effd7" codec="mp3" bitrate="96",Radio Taranto Uno
 http://s16.myradiostream.com:5626/;
-#EXTINF:-1 station-id="awb_81a6063b1a42ade8bd87" stream-id="aws_15c9cfe4010881ade100" codec="aac+" bitrate="64",Radio Tele Trentino
-http://ice04.fluidstream.net/fluid7108.aac?FLID=6
+#EXTINF:-1 station-id="awb_81a6063b1a42ade8bd87" stream-id="aws_15c9cfe4010881ade100" codec="mp3" bitrate="128",Radio Tele Trentino
+http://str01.fluidstream.net/rtt.mp3?FLID=6
 #EXTINF:-1 station-id="awb_41188ac8f8c47f9b2d78" stream-id="aws_3b7475d14e8505d7d524" codec="mp3" bitrate="64",Radio TGnorba24
 http://onair11.xdevel.com:7970/;
 #EXTINF:-1 station-id="awb_bd4cdf179b254bf28734" stream-id="aws_77452ac06df27d3dae69" codec="mp3" bitrate="0",Radio Time 90
@@ -2538,7 +2538,7 @@ http://shoutcast.streamingmedia.it:5004/stream
 #EXTINF:-1 station-id="awb_65f2ea995f0e959f3d1b" stream-id="aws_ae0ef7c8de7b47ab765a" codec="aac+" bitrate="96",Radio Touring Catania
 http://onair15.xdevel.com:8856/;stream.mp3
 #EXTINF:-1 station-id="awb_fb8b3e777f1b1b20cc17" stream-id="aws_6b3e4ef08cfdef4a98ba" codec="mp3" bitrate="96",Radio Trapena
-https://stream-177.surfernetwork.com/ytxxawhz67zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dHh4YXdoejY3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImpRdDZzOU1pU2V5Y3p2TG9wTnZZX2ciLCJpYXQiOjE3OTIyNjQxMzQsImV4cCI6MTc5MjI2NDE5NH0.cKtUd4zJouS5fi5Q3TaCD0ZvdOIeUxAxJ8iNPmUEePg
+https://stream-177.surfernetwork.com/ytxxawhz67zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dHh4YXdoejY3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdEWU9xMTF2U2phZVRITjVvYldIOXciLCJpYXQiOjE3OTI2OTg3ODgsImV4cCI6MTc5MjY5ODg0OH0.zmbUBpqE2ChasjXyVwqk3274ILIg5uKtFzBhalrOvek
 #EXTINF:-1 station-id="awb_3b48f9367e7815505d29" stream-id="aws_cbd11a2095f472822d11" codec="mp3" bitrate="128",Radio TRC
 http://sr3.inmystream.info:8018/;stream.mp3
 #EXTINF:-1 station-id="awb_a986ef639dbea653992b" stream-id="aws_880db9e84bcf4f6c7021" codec="mp3" bitrate="256",Radio Treviso
@@ -2589,8 +2589,8 @@ https://audio.streamshow.it/proxy/rveradiocheballa?mp
 http://wma02.fluidstream.net:9980/
 #EXTINF:-1 station-id="awb_d67aa76ff04ddad852c4" stream-id="aws_f1e8ffbf7c59abaf47c4" codec="mp3" bitrate="96",Radio Via Montenapoleone
 http://eu9.fastcast4u.com:5068/;
-#EXTINF:-1 station-id="awb_98b5a551415f972ce00b" stream-id="aws_531bedd11a8264f49bdc" codec="mp3" bitrate="128",Radio Vicenza
-http://ice09.fluidstream.net/fluid0905.mp3?FLID=6
+#EXTINF:-1 station-id="awb_98b5a551415f972ce00b" stream-id="aws_531bedd11a8264f49bdc" codec="mp3" bitrate="192",Radio Vicenza
+http://wma02.fluidstream.net/fluid02?FLID=6
 #EXTINF:-1 station-id="awb_6ad5f56c98ac97b6255b" stream-id="aws_4d85c2dd4e408a135e32" codec="mp3" bitrate="192",Radio Villa Immacolata
 https://radiocast.cloud/listen/relays_villaimmacolata/radio.mp3
 #EXTINF:-1 station-id="awb_c581ab265377f68ae443" stream-id="aws_e1eddd4adbad9ce4600f" codec="mp3" bitrate="128",Radio Village Network
@@ -2637,6 +2637,8 @@ http://eu1.fastcast4u.com:2014/stream
 https://eu2.fastcast4u.com/proxy/radiox?mp=/1
 #EXTINF:-1 station-id="awb_8cc697b86be4efd135cf" stream-id="aws_abf5a7e22fd8d7041669" codec="mp3" bitrate="320",Radio Yacht Sunsation - Always Summer
 https://sr12.inmystream.it:2020/stream/radioyacht
+#EXTINF:-1 station-id="awb_a539bea453f4ec4793bd" stream-id="aws_7dc1ce9e3a9e67cd2121" codec="unknown" bitrate="0",Radio YES
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 station-id="awb_8143d9c9e2a585d815a7" stream-id="aws_aa1ea41bb15dcbab5b48" codec="mp3" bitrate="0",Radio Zai.net
 http://stream.mandragola.com/radiozainet
 #EXTINF:-1 station-id="awb_cd9bc0cdb44457adc9e1" stream-id="aws_6b00c95f8002d55e0494" codec="mp3" bitrate="0",Radio Zenith (Messina)
@@ -2673,6 +2675,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 http://stream.laut.fm/radiogaia
 #EXTINF:-1 station-id="awb_2913af769ec1a1c3c53a" stream-id="aws_dee4a21c5961d9600392" codec="mp3" bitrate="128",RADIOGAMMA5
 https://ice05.fluidstream.net/fluid0510.mp3
+#EXTINF:-1 station-id="awb_3dced0ebd36fd1119d9c" stream-id="aws_2c6b00a5a5cdc040dca4" codec="ogg" bitrate="0",RadiogrAMma
+https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1 station-id="awb_c6386f01b112bcbb4ae0" stream-id="aws_65ff51ff1e7126127764" codec="mp3" bitrate="128",RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
 #EXTINF:-1 station-id="awb_ceea256a485a5d10ec8a" stream-id="aws_7e705b20f419d972b1e3" codec="mp3" bitrate="192",Radiolina
@@ -2815,7 +2819,7 @@ http://radiobzlive.rai.it/RAIBZ_Livestream
 http://icestreaming.rai.it/1.mp3
 #EXTINF:-1 station-id="awb_fff8243ff94ac755e6e8" stream-id="aws_8f93ac9d61441934a1a5" codec="mp3" bitrate="256",RAI24
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
-#EXTINF:-1 station-id="awb_fd035864471de8d6572c" stream-id="aws_108d675dec104f3e04e0" codec="aac" bitrate="1993",RAITG
+#EXTINF:-1 station-id="awb_fd035864471de8d6572c" stream-id="aws_108d675dec104f3e04e0" codec="aac" bitrate="1981",RAITG
 https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
 #EXTINF:-1 station-id="awb_1191689da5ab261a9517" stream-id="aws_0025b1f86bfa45925361" codec="unknown" bitrate="0",Ram Power 102.7
 https://stream.ram.radio/audio/ram.stream_aac64/chunklist.m3u8
@@ -3051,6 +3055,8 @@ https://rtr99.fluidstream.eu/rtr99_story.mp3?id=lJNQvCT7kq&FLID=1&aw_0_req.gdpr=
 https://rtr99.fluidstream.eu/rtr99.aac
 #EXTINF:-1 station-id="awb_3d4be7ea0c0ae2878ad4" stream-id="aws_d1ffedb2ac9c82b5964b" codec="aac" bitrate="128",Rtr99 Happy Station
 https://rtr99.fluidstream.eu/rtr99_happy.aac
+#EXTINF:-1 station-id="awb_c9c75477667382574b23" stream-id="aws_951fa474793f902cf5f1" codec="mp3" bitrate="128",RTTR
+http://str01.fluidstream.net/rtt.mp3
 #EXTINF:-1 station-id="awb_293153723a5b24c106fd" stream-id="aws_2a457e47ee4edc1ec873" codec="mp3" bitrate="128",Ruggine
 https://radio.celodex.com/stream/ruggine.mp3
 #EXTINF:-1 station-id="awb_6d4fc1f8efc318ac5d52" stream-id="aws_8bd2c6f2c7d125f1e948" codec="mp3" bitrate="128",Running Radio
@@ -3083,7 +3089,7 @@ http://onair15.xdevel.com:8490/stream
 https://carol.epichosts.co.uk/proxy/simxlymusic/stream
 #EXTINF:-1 station-id="awb_36bcfe4fd70eaad17ffa" stream-id="aws_b9f045be0cf5d730fa0e" codec="mp3" bitrate="192",Skyline Jazz
 https://rblive.it:8030/radio.mp3
-#EXTINF:-1 station-id="awb_f3529efcebb9d8b15d97" stream-id="aws_87ad6b2f9498077b9e2b" codec="mp3" bitrate="192",SMC Radio
+#EXTINF:-1 station-id="awb_f3529efcebb9d8b15d97" stream-id="aws_87ad6b2f9498077b9e2b" codec="mp3" bitrate="128",SMC Radio
 http://nrf1.newradio.it:10346/stream
 #EXTINF:-1 station-id="awb_f3529efcebb9d8b15d97" stream-id="aws_5b4c22269ce7d31bfef9" codec="mp3" bitrate="192",SMC Radio
 https://a2.asurahosting.com:6150/radio.mp3?ver=161797
@@ -3185,7 +3191,7 @@ http://stream.laut.fm/teleradio1
 https://stream.laut.fm/teleradio1
 #EXTINF:-1 station-id="awb_0f75fa7c19358b5d7a0c" stream-id="aws_7f1d94b7d6b52e00b5a5" codec="mp3" bitrate="128",TempoRadio
 https://solid33.streamupsolutions.com/proxy/ecssfrka/stream
-#EXTINF:-1 station-id="awb_c40b9cc828205e5d0a9f" stream-id="aws_e2ec0f744ee4454e12df" codec="aac" bitrate="1993",TG3RAI
+#EXTINF:-1 station-id="awb_c40b9cc828205e5d0a9f" stream-id="aws_e2ec0f744ee4454e12df" codec="aac" bitrate="1981",TG3RAI
 https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8?auth=daEa4cQd5bWc2dXcZdLdgcKaga2a_c9b5cI-bITV25-c0-GltxyFv&aifp=V001
 #EXTINF:-1 station-id="awb_064d19708e8917842082" stream-id="aws_d52fa3f453b95300257b" codec="mp3" bitrate="192",THE COAST FM
 http://s1.viastreaming.net:9235/stat
@@ -3235,7 +3241,7 @@ http://sr3.inmystream.info:8095/stream
 http://onair18.xdevel.com:8428/;
 #EXTINF:-1 station-id="awb_d354b37be3145b087477" stream-id="aws_b754d780fa2fcf767f92" codec="mp3" bitrate="0",UniBg OnAir
 https://stream4.xdevel.com/audio0s977017-1759/stream/icecast.audio
-#EXTINF:-1 station-id="awb_4f6d2b314aecf13c196d" stream-id="aws_e3737a334a0f9ac8acb0" codec="aac" bitrate="2684",UNINETTUNO Channel
+#EXTINF:-1 station-id="awb_4f6d2b314aecf13c196d" stream-id="aws_e3737a334a0f9ac8acb0" codec="aac" bitrate="2677",UNINETTUNO Channel
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 station-id="awb_68e20f6aac414633ce95" stream-id="aws_d11e351c09bc8edee326" codec="mp3" bitrate="128",United Hip Hop
 https://icy.unitedradio.it/um049.mp3
@@ -3287,8 +3293,8 @@ http://116.202.241.212:8020/stream
 https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 station-id="awb_c9c2481b5976cef47373" stream-id="aws_0be8fa32c169b7f90a38" codec="mp3" bitrate="128",Venice Classic Radio Auditorium
 https://uk2.streamingpulse.com/ssl/vcr2
-#EXTINF:-1 station-id="awb_889b90a497b3194086c9" stream-id="aws_c3fa8babbbf6b4cba6de" codec="mp3" bitrate="128",Veronica My Radio
-http://sphera.fluidstream.eu/rpd.mp3?FLID=8
+#EXTINF:-1 station-id="awb_889b90a497b3194086c9" stream-id="aws_c3fa8babbbf6b4cba6de" codec="mp3" bitrate="192",Veronica My Radio
+http://sphera.fluidstream.eu/rpd_country.mp3?FLID=7
 #EXTINF:-1 station-id="awb_a17fc722fc10ea460add" stream-id="aws_4038658b003bcd57065b" codec="mp3" bitrate="128",Vibra FM
 http://ice02.fluidstream.net/playstudio.mp3
 #EXTINF:-1 station-id="awb_a013541c1dfa2999f4ff" stream-id="aws_bad1b4abc76a496ad43a" codec="aac+" bitrate="64",Vibra FM 88.7

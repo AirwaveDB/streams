@@ -59,7 +59,7 @@ https://c40.radioboss.fm:8056/stream
 https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
 #EXTINF:-1 station-id="awb_e68d9511ee02edb5d8a8" stream-id="aws_62a4e975e89d0d8f34ab" codec="mp3" bitrate="192",Keygen FM
 https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3
-#EXTINF:-1 station-id="awb_d9301a44b9f980b212f5" stream-id="aws_ddf7c7df1b678f9b0d2f" codec="aac" bitrate="64",Kiss
+#EXTINF:-1 station-id="awb_d9301a44b9f980b212f5" stream-id="aws_ddf7c7df1b678f9b0d2f" codec="aac" bitrate="63",Kiss
 https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_a63cd02a1a0859aadd7a" stream-id="aws_1bb100650394c4830afb" codec="ogg" bitrate="0",Kohina - Old School Game and Demo Music
 http://kohina.duckdns.org:8000/stream.ogg
@@ -221,7 +221,7 @@ https://s3.myradiostream.com/4976/listen.mp3
 http://s3.myradiostream.com:4976/;
 #EXTINF:-1 station-id="awb_799c541e529db23d562e" stream-id="aws_31c4c964efad87dd37ba" codec="mp3" bitrate="128",SuomiRap
 https://streaming.radioplay.fi/fi_suomirap_128.mp3
-#EXTINF:-1 station-id="awb_7bb7226bd35aa46ed880" stream-id="aws_2a4cf0cc772df184ea89" codec="aac" bitrate="288",Sveriges Radio - SR Sisuradio
+#EXTINF:-1 station-id="awb_7bb7226bd35aa46ed880" stream-id="aws_2a4cf0cc772df184ea89" codec="aac" bitrate="304",Sveriges Radio - SR Sisuradio
 https://live1.sr.se/finska-aac-320
 #EXTINF:-1 station-id="awb_0c6fc4f3614c195b3bba" stream-id="aws_ad9f51dd76e3b914e9d4" codec="aac+" bitrate="64",Tampereen Kiakkoradio: Tappara
 https://st.downtime.fi/kiakko-tappara.aac
@@ -274,7 +274,7 @@ https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
 #EXTINF:-1 station-id="awb_ebf7568a41f41f03c748" stream-id="aws_1ebf7c952169fc8e69bd" codec="aac+" bitrate="0",Yle Radio1HIFI 256 Kb/s
 http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
 #EXTINF:-1 station-id="awb_b4bdd8027bd400f8205a" stream-id="aws_6e7f8f283372489b65cb" codec="aac+" bitrate="0",Yle Sámi Radio
-http://icecast.live.yle.fi/radio/YleSami/icecast.audio
+https://icecast.live.yle.fi/radio/YleSami/icecast.audio
 #EXTINF:-1 station-id="awb_b94de56ebf70737f9d42" stream-id="aws_7b15d263446ca0bd07b6" codec="aac+" bitrate="0",Yle Vega Åboland
 https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio
 #EXTINF:-1 station-id="awb_e6701288fb3edb548617" stream-id="aws_ddb37e260f9db7cc1ecf" codec="aac+" bitrate="0",Yle Vega Österbotten

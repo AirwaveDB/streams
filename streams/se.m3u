@@ -127,7 +127,7 @@ https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3
 https://mml1.prostream.se/listen/hello_africa/radio.mp3
 #EXTINF:-1 station-id="awb_3fe14ffbb4bf2bd84c2b" stream-id="aws_3e1487cc74eacb01c7e6" codec="mp3" bitrate="140",Helsinborgs närradio
 http://deb.patrikmalmgrenrask.se:8010/
-#EXTINF:-1 station-id="awb_d192b8acf04baf2ffba0" stream-id="aws_ea96a45b68ba2114bcd9" codec="aac" bitrate="2997",Himlen TV7
+#EXTINF:-1 station-id="awb_d192b8acf04baf2ffba0" stream-id="aws_ea96a45b68ba2114bcd9" codec="aac" bitrate="2821",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 station-id="awb_437dfe09343bc24cb572" stream-id="aws_6999e82edbe4b5b59254" codec="unknown" bitrate="0",HITCITY
 https://stream.hitcity.se/live
@@ -373,7 +373,7 @@ https://live1.sr.se/p2-flac
 https://live1.sr.se/p4jkpg-aac-320
 #EXTINF:-1 station-id="awb_b4e2e9733728ac0d1c54" stream-id="aws_4ad53c4a3b1ce21efe4e" codec="mp3" bitrate="152",SR P4 Malmöhus
 https://live1.sr.se/p4malm-mp3-96
-#EXTINF:-1 station-id="awb_abe907dac1ecdb6f9c50" stream-id="aws_a2ce6bdff801df09f55b" codec="mp3" bitrate="168",SR P4 Radio Malmöhus
+#EXTINF:-1 station-id="awb_abe907dac1ecdb6f9c50" stream-id="aws_a2ce6bdff801df09f55b" codec="mp3" bitrate="130",SR P4 Radio Malmöhus
 https://live1.sr.se/p4malm-mp3-96
 #EXTINF:-1 station-id="awb_abe907dac1ecdb6f9c50" stream-id="aws_538a218955544f4fd0d0" codec="aac" bitrate="37",SR P4 Radio Malmöhus
 https://ljud1-cdn.sr.se/lc/p4malm.m3u8
@@ -396,11 +396,11 @@ https://mml2.prostream.se/listen/stars_on_45/radio.mp3
 #EXTINF:-1 station-id="awb_0bb7c1c6d70f8014eafd" stream-id="aws_481114b33b7ae6b5808d" codec="mp3" bitrate="128",Stocholm Närradio FM 95.3
 http://live.narradio.se:8020/;stream.mp3
 #EXTINF:-1 station-id="awb_a6f81bdd50527f59d209" stream-id="aws_a442fc0b4b5bf3ec56c8" codec="mp3" bitrate="128",Stockholm FM 101,1 Sweden
-http://radiostreamfour.mine.nu:18020/
+http://radiostreamthree.mine.nu/18020
 #EXTINF:-1 station-id="awb_24372198757892016545" stream-id="aws_2532f8661acc7a9364fc" codec="mp3" bitrate="128",Stockholm FM 101.1 MHz Sweden
 http://live.narradio.se:8030/;stream.mp3
 #EXTINF:-1 station-id="awb_795dd64c067f10cec9fa" stream-id="aws_9eb9393be27a97dcddfd" codec="mp3" bitrate="128",Stockholm FM 88,0 Sweden
-http://radiostreamfour.mine.nu:18000/
+http://radiostreamone.mine.nu:18000/
 #EXTINF:-1 station-id="awb_321d7349920c547b677c" stream-id="aws_b8a0ec26efa7f629694c" codec="mp3" bitrate="128",Stockholm FM 88.0 MHz Sweden
 http://live.narradio.se:8010/;stream.mp3
 #EXTINF:-1 station-id="awb_c68ba6958f7a8e6abc76" stream-id="aws_a8a0fbc741e187445a86" codec="mp3" bitrate="128",Stockholm FM 95.3 MHz Sweden
@@ -437,15 +437,15 @@ https://live1.sr.se/p3-aac-320
 https://live1.sr.se/p3-mp3-96
 #EXTINF:-1 station-id="awb_0a5bb37a06bc661bf11c" stream-id="aws_0bfce3763dd74140b0c5" codec="aac" bitrate="288",Sveriges Radio - P3 Din gata
 https://live1.sr.se/dingata-aac-320
-#EXTINF:-1 station-id="awb_c589badd1b5dd4a7f688" stream-id="aws_86d1d78a30cb1020e032" codec="mp3" bitrate="152",Sveriges Radio - P4 Blekinge
+#EXTINF:-1 station-id="awb_c589badd1b5dd4a7f688" stream-id="aws_86d1d78a30cb1020e032" codec="mp3" bitrate="160",Sveriges Radio - P4 Blekinge
 https://live1.sr.se/p4blek-mp3-96
 #EXTINF:-1 station-id="awb_b9d6b49ce6e5425fdf61" stream-id="aws_ff901a438a989918a538" codec="mp3" bitrate="0",Sveriges Radio - P4 Halland
 https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3
 #EXTINF:-1 station-id="awb_eb8de0357f980bf28f91" stream-id="aws_18d3605d00bd8d95af13" codec="aac" bitrate="312",Sveriges Radio - P4 Plus
 https://live1.sr.se/p4plus-aac-320
-#EXTINF:-1 station-id="awb_a65efbbaaf7e54756f62" stream-id="aws_3fc3ec18def862eae061" codec="mp3" bitrate="180",Sveriges Radio - P4 Sjuhärad
+#EXTINF:-1 station-id="awb_a65efbbaaf7e54756f62" stream-id="aws_3fc3ec18def862eae061" codec="mp3" bitrate="120",Sveriges Radio - P4 Sjuhärad
 https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3
-#EXTINF:-1 station-id="awb_46a6ca83996d6c455fa5" stream-id="aws_50b122acc578870e47b5" codec="mp3" bitrate="128",Sveriges Radio - P4 Väst
+#EXTINF:-1 station-id="awb_46a6ca83996d6c455fa5" stream-id="aws_50b122acc578870e47b5" codec="mp3" bitrate="114",Sveriges Radio - P4 Väst
 https://live1.sr.se/p4vast-mp3-96
 #EXTINF:-1 station-id="awb_8a7a0069739324c51fd2" stream-id="aws_e53909481dc169591e0e" codec="aac" bitrate="336",Sveriges Radio - P6
 https://live1.sr.se/p6-aac-320
@@ -467,7 +467,7 @@ https://edge1.sr.se/p2-flac
 https://live1.sr.se/p2-flac
 #EXTINF:-1 station-id="awb_90deb178091c42f29f45" stream-id="aws_cf82bd2183289f75c499" codec="aac" bitrate="328",Sveriges Radio P3
 https://edge1.sr.se/p3-aac-320
-#EXTINF:-1 station-id="awb_9df8aec40b167067b31a" stream-id="aws_a2b16a4fa03bfd08e142" codec="mp3" bitrate="148",Sveriges radio P3 (mp3)
+#EXTINF:-1 station-id="awb_9df8aec40b167067b31a" stream-id="aws_a2b16a4fa03bfd08e142" codec="mp3" bitrate="126",Sveriges radio P3 (mp3)
 https://live1.sr.se/p3-mp3-96
 #EXTINF:-1 station-id="awb_68e97db152fa5140989a" stream-id="aws_3878e486f5fc6edbc7bf" codec="aac" bitrate="312",Sveriges Radio P4 Dalarna
 https://live1.sr.se/p4dala-aac-320

@@ -29,10 +29,12 @@ https://streaming.territoryfm.com:8443/TerritoryFM
 https://sx.desertcrystal.com/live32plus
 #EXTINF:-1 station-id="awb_210dbc948f1c69fd531e" stream-id="aws_896ef096f8d4f165cc79" codec="aac" bitrate="115",105.7 ABC Darwin
 https://streaming.abc-cdn.net.au/audio/hls/localdarwin.m3u8?source=web
-#EXTINF:-1 station-id="awb_f1bc6108874c729d63a4" stream-id="aws_026b2e6a1c994f9c6790" codec="mp3" bitrate="112",107.3 HFM Gosnells
+#EXTINF:-1 station-id="awb_f1bc6108874c729d63a4" stream-id="aws_026b2e6a1c994f9c6790" codec="mp3" bitrate="128",107.3 HFM Gosnells
 http://45.77.235.175:8000/;
 #EXTINF:-1 station-id="awb_b0d2f4e4b37c0455aff0" stream-id="aws_c0e8ef8aec53229df2e2" codec="mp3" bitrate="128",107.9 LIFE Adelaide
 https://stream04.sigile.net/1079life-64-aac
+#EXTINF:-1 station-id="awb_aa798a76ff3432e3fb2f" stream-id="aws_5dafeb97e9e14c18f636" codec="mp3" bitrate="128",1079 life - Good Taste Radio
+https://stream01.sigile.net/1079life-64-aac
 #EXTINF:-1 station-id="awb_90522100ae9539c9fa99" stream-id="aws_54cf48900935646a87c2" codec="mp3" bitrate="64",1116 SEN Melbourne
 http://13.54.221.214:8000/sen.mp3
 #EXTINF:-1 station-id="awb_0d0a23aee9c0a14a5722" stream-id="aws_0e3ced87ed873e534389" codec="aac" bitrate="65",1170 SEN Sydney
@@ -1568,7 +1570,7 @@ http://stream.zeno.fm/5u6utt21ueftv
 #EXTINF:-1 station-id="awb_39846f4397d82efbe436" stream-id="aws_b6bf1d713a0d13f6bc87" codec="mp3" bitrate="128",Bar Sessions (MP3)
 http://stream.zeno.fm/47080zndvbruv
 #EXTINF:-1 station-id="awb_7ade3e8b377ca0b27afb" stream-id="aws_6e7326e97f803e645071" codec="mp3" bitrate="128",Bay 93.9
-http://16643.live.streamtheworld.com:3690/GEE_BAY939_SC
+http://19273.live.streamtheworld.com:3690/GEE_BAY939_SC
 #EXTINF:-1 station-id="awb_99ddee66d4a8e933cf77" stream-id="aws_d0620561a22fbe4014dd" codec="aac+" bitrate="64",Bay 93.9 - Geelong - 93.9 FM (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac
 #EXTINF:-1 station-id="awb_cf22b956f69a0fe646cd" stream-id="aws_6e0aaaf0237746828f41" codec="mp3" bitrate="128",Bay 93.9 - Geelong - 93.9 FM (MP3)
@@ -2175,9 +2177,9 @@ http://sa46.scastream.com.au/live/7almostacoustic_128.stream/playlist.m3u8
 http://sa47.scastream.com.au/live/aa-pop.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_053d6944cd7d1bf6cbfc" stream-id="aws_c62ef9f7470bf3e93854" codec="unknown" bitrate="0",LiSTNR - Aussie Dance
 https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_6cc594ca09bb39b0d52d" stream-id="aws_8639345c4a8ead48a508" codec="aac+" bitrate="64",LiSTNR - Aussie Dance (HLS)
+#EXTINF:-1 station-id="awb_6cc594ca09bb39b0d52d" stream-id="aws_8639345c4a8ead48a508" codec="aac+" bitrate="63",LiSTNR - Aussie Dance (HLS)
 http://sa46.scastream.com.au/live/aussiedance.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_63591b02bc7d9555598b" stream-id="aws_20a4ca8faa90ef5d6888" codec="aac+" bitrate="63",LiSTNR - Aussie Hip Hop (HLS)
+#EXTINF:-1 station-id="awb_63591b02bc7d9555598b" stream-id="aws_20a4ca8faa90ef5d6888" codec="aac+" bitrate="64",LiSTNR - Aussie Hip Hop (HLS)
 http://sa46.scastream.com.au/live/aus-hiphop.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_decaeda86665adc0200a" stream-id="aws_2b57f147d3ae928fb251" codec="aac" bitrate="130",LiSTNR - Aussie Pub Rock (HLS)
 http://sa46.scastream.com.au/live/7mushroom50_128.stream/playlist.m3u8
@@ -2187,7 +2189,7 @@ http://wz0liw.scahw.com.au/live/backyard-bbq.stream/playlist.m3u8
 http://sa47.scastream.com.au/live/big-sad.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4bbfc21a9ebc92f72acc" stream-id="aws_9c67076f685fd4c3867f" codec="unknown" bitrate="0",LiSTNR - Billion Streams Club
 http://wz0liw.scahw.com.au/live/billion-streams.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_0045c1dcff40c88b8ec8" stream-id="aws_bfdb81cee6d0255026dc" codec="aac+" bitrate="64",LiSTNR - Billion Streams Club (HLS)
+#EXTINF:-1 station-id="awb_0045c1dcff40c88b8ec8" stream-id="aws_bfdb81cee6d0255026dc" codec="aac+" bitrate="63",LiSTNR - Billion Streams Club (HLS)
 http://sa46.scastream.com.au/live/billion-streams.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_66a174b2b9ef856004f0" stream-id="aws_8716471b27c540774356" codec="aac+" bitrate="63",LiSTNR - Brit Rock Essentials (HLS)
 http://sa47.scastream.com.au/live/intro-britpop.stream/playlist.m3u8
@@ -2199,7 +2201,7 @@ http://sa46.scastream.com.au/live/2buddha_128.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/cafe.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_76f1c2b45ad1782cea0d" stream-id="aws_7eb6c495c6a25fc7b9c5" codec="unknown" bitrate="0",LiSTNR - Chill Electronic
 http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_527d2ecdf9c7ed1860b2" stream-id="aws_f2ad91b22e434d99c477" codec="aac+" bitrate="64",LiSTNR - Chill Electronic (HLS)
+#EXTINF:-1 station-id="awb_527d2ecdf9c7ed1860b2" stream-id="aws_f2ad91b22e434d99c477" codec="aac+" bitrate="63",LiSTNR - Chill Electronic (HLS)
 http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_f1fcf84f8c8a10396bc8" stream-id="aws_df8184ecdd1673032406" codec="aac+" bitrate="63",LiSTNR - Chill House (HLS)
 http://sa46.scastream.com.au/live/chill-house.stream/playlist.m3u8
@@ -2217,7 +2219,7 @@ http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8
 http://sa46.scastream.com.au/live/fan_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_82aad81d87cd56fa54d0" stream-id="aws_7f26e609805e6fc3ee62" codec="aac+" bitrate="65",LiSTNR - Country Classics (HLS)
 http://sa47.scastream.com.au/live/country-classics.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_e2953c071750ca7f73ac" stream-id="aws_b59acb039e1bf5b2abcf" codec="aac+" bitrate="64",LiSTNR - Cowgirl Country (HLS)
+#EXTINF:-1 station-id="awb_e2953c071750ca7f73ac" stream-id="aws_b59acb039e1bf5b2abcf" codec="aac+" bitrate="63",LiSTNR - Cowgirl Country (HLS)
 http://sa46.scastream.com.au/live/cowgirl-country.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_7b4f9eac31454986a45b" stream-id="aws_e709a525329325238206" codec="unknown" bitrate="0",LiSTNR - Crooners & Swooners (HLS)
 http://wz0liw.scahw.com.au/live/crooners-n-swooners.stream/playlist.m3u8
@@ -2233,7 +2235,7 @@ http://sa46.scastream.com.au/live/drumnbass.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/easy-office-vibes.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_9bf29c9461189dd011f8" stream-id="aws_ba433ec7b35a1c3285d0" codec="unknown" bitrate="0",LiSTNR - Essential Emo
 http://wz0liw.scahw.com.au/live/essential-emo.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_9bb532a73c03f65532f3" stream-id="aws_e10eddb633cfe5fda0a7" codec="aac+" bitrate="64",LiSTNR - Essential Emo (HLS)
+#EXTINF:-1 station-id="awb_9bb532a73c03f65532f3" stream-id="aws_e10eddb633cfe5fda0a7" codec="aac+" bitrate="63",LiSTNR - Essential Emo (HLS)
 http://sa46.scastream.com.au/live/essential-emo.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_002cec42ac313460e0c1" stream-id="aws_5e230da46212f1c837bc" codec="aac+" bitrate="64",LiSTNR - Euro Summer (HLS)
 http://sa47.scastream.com.au/live/euro-summer.stream/playlist.m3u8
@@ -2245,7 +2247,7 @@ http://sa47.scastream.com.au/live/fisher.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/gaga.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_98ee79ee71f9ea6c77fe" stream-id="aws_ccba7375b790a5e92ab1" codec="unknown" bitrate="0",LiSTNR - Festival Bangers
 https://wz0liw.scahw.com.au/live/festivalbangers_128.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_ca207b239c03cf5432d3" stream-id="aws_56ee7cab9e82dd3e0a43" codec="aac+" bitrate="64",LiSTNR - Festival Bangers (HLS)
+#EXTINF:-1 station-id="awb_ca207b239c03cf5432d3" stream-id="aws_56ee7cab9e82dd3e0a43" codec="aac+" bitrate="63",LiSTNR - Festival Bangers (HLS)
 http://sa46.scastream.com.au/live/festivalbangers.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_b73f0ca44d4c29813778" stream-id="aws_c2f1abe2098258ba13b8" codec="aac" bitrate="130",LiSTNR - Fit Hits (HLS)
 http://sa46.scastream.com.au/live/7fithits_128.stream/playlist.m3u8
@@ -2285,7 +2287,7 @@ http://sa46.scastream.com.au/live/7homegrown_128.stream/playlist.m3u8
 http://sa46.scastream.com.au/live/hot-country.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8b5727b66dfc51ae7aa8" stream-id="aws_33a5f2834e48fcbb12dc" codec="unknown" bitrate="0",LiSTNR - Hot Girl Walk (HLS)
 http://wz0liw.scahw.com.au/live/hot-girl-walk.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_b4678f8641aef6dfc9b4" stream-id="aws_077305c304538cc0e753" codec="aac+" bitrate="64",LiSTNR - Hot Now (HLS)
+#EXTINF:-1 station-id="awb_b4678f8641aef6dfc9b4" stream-id="aws_077305c304538cc0e753" codec="aac+" bitrate="63",LiSTNR - Hot Now (HLS)
 http://sa47.scastream.com.au/live/hot-now.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_10a146e3feeb96ed7b23" stream-id="aws_37caad7bf629c50386ba" codec="aac+" bitrate="63",LiSTNR - Hype Yourself (HLS)
 http://sa47.scastream.com.au/live/hype-yourself.stream/playlist.m3u8
@@ -2309,7 +2311,7 @@ http://wz0liw.scahw.com.au/live/lightrain_128.stream/playlist.m3u8
 http://sa46.scastream.com.au/live/lightrain_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4d06a95a98af50f984e6" stream-id="aws_5219afdd56115fe32509" codec="unknown" bitrate="0",LiSTNR - Lofi Study Beats
 http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_2313c7425103db82246e" stream-id="aws_e1b90f9ad2611bf21fb8" codec="aac+" bitrate="64",LiSTNR - Lofi Study Beats (HLS)
+#EXTINF:-1 station-id="awb_2313c7425103db82246e" stream-id="aws_e1b90f9ad2611bf21fb8" codec="aac+" bitrate="63",LiSTNR - Lofi Study Beats (HLS)
 http://sa46.scastream.com.au/live/lo-fi.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4614b94ff334d6ade899" stream-id="aws_8683cd22193f37baf393" codec="unknown" bitrate="0",LiSTNR - Main Character Energy (HLS)
 http://wz0liw.scahw.com.au/live/main-character-energy.stream/playlist.m3u8
@@ -2337,11 +2339,11 @@ http://wz0liw.scahw.com.au/live/pop-101.stream/playlist.m3u8
 http://sa47.scastream.com.au/live/pop-uk.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_35fa22380df49a1de7ac" stream-id="aws_f72108951583b22f7e47" codec="unknown" bitrate="0",LiSTNR - Pride
 http://wz0liw.scahw.com.au/live/pride.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_7857e301c421a40bd859" stream-id="aws_43f6aef41214d0348f35" codec="aac+" bitrate="63",LiSTNR - Pride (HLS)
+#EXTINF:-1 station-id="awb_7857e301c421a40bd859" stream-id="aws_43f6aef41214d0348f35" codec="aac+" bitrate="64",LiSTNR - Pride (HLS)
 http://sa47.scastream.com.au/live/pride.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4163c89fb3e439a5d8a6" stream-id="aws_4698e3f5e353485c0822" codec="unknown" bitrate="0",LiSTNR - Pump Up (HLS)
 http://wz0liw.scahw.com.au/live/pump-up.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_7cba2294f74c38d8232d" stream-id="aws_978a23c4274c0f4970c0" codec="aac+" bitrate="64",LiSTNR - Punjabi Icons (HLS)
+#EXTINF:-1 station-id="awb_7cba2294f74c38d8232d" stream-id="aws_978a23c4274c0f4970c0" codec="aac+" bitrate="63",LiSTNR - Punjabi Icons (HLS)
 http://sa47.scastream.com.au/live/punjabi-icons.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ac115ecdba6f3c561df1" stream-id="aws_bcde3ecf146bf73a218d" codec="unknown" bitrate="0",LiSTNR - Rainforest [Soundscapes]
 http://wz0liw.scahw.com.au/live/rainforest_128.stream/playlist.m3u8
@@ -2373,7 +2375,7 @@ http://sa47.scastream.com.au/live/run-club.stream/playlist.m3u8
 http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_5154b83ad5b3c0430ecc" stream-id="aws_078786817fef4af4f161" codec="unknown" bitrate="0",LiSTNR - Soft Rock (HLS)
 http://wz0liw.scahw.com.au/live/soft-rock.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_4908a746656f48ded47f" stream-id="aws_7e84ff156bd45698ffc3" codec="aac+" bitrate="63",LiSTNR - Soul Disco (HLS)
+#EXTINF:-1 station-id="awb_4908a746656f48ded47f" stream-id="aws_7e84ff156bd45698ffc3" codec="aac+" bitrate="64",LiSTNR - Soul Disco (HLS)
 http://sa46.scastream.com.au/live/soul-disco.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8df41617186daa76be98" stream-id="aws_2aa396a496a97f4a5476" codec="aac" bitrate="130",LiSTNR - Stress Free (HLS)
 http://sa47.scastream.com.au/live/7stressfree_128.stream/playlist.m3u8
@@ -2933,7 +2935,7 @@ https://sbs-hls.streamguys1.com/tunein/popasia/playlist.m3u8?listeningSessionID=
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 #EXTINF:-1 station-id="awb_68b25a103403a37d9d44" stream-id="aws_6fb5309ab45593468b9c" codec="aac+" bitrate="97",SBS PopDesi
 http://sbs-ice.streamguys1.com/sbs-popdesi
-#EXTINF:-1 station-id="awb_db4602343d39a0fea6d7" stream-id="aws_fb1cbb548453a6ec1aae" codec="aac" bitrate="66",SEN Track
+#EXTINF:-1 station-id="awb_db4602343d39a0fea6d7" stream-id="aws_fb1cbb548453a6ec1aae" codec="aac" bitrate="65",SEN Track
 https://dz6km2a0p7nzg.cloudfront.net/playlist.m3u8
 #EXTINF:-1 station-id="awb_253a120f138595555cff" stream-id="aws_d63aad6428ba5405dcc1" codec="aac" bitrate="66",SEN Turf Perth
 https://d21j2uzdwtkre2.cloudfront.net/playlist.m3u8
@@ -3283,6 +3285,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.
 http://stream.zeno.fm/76ehbdmxtzutv
 #EXTINF:-1 station-id="awb_f5560561951440ba1c8d" stream-id="aws_96416830c6e4b74a2c54" codec="mp3" bitrate="0",Tradie Radio
 https://stream.dulcet.cloud/tradie
+#EXTINF:-1 station-id="awb_28d3dfc20fe7a623f40d" stream-id="aws_16d56a85dd2417159ec3" codec="aac" bitrate="64",Trax FM Port Pirie
+https://stream01.sigile.net/traxfm-64-aac
 #EXTINF:-1 station-id="awb_18e45bc780d10115ea1d" stream-id="aws_39a02a9f4efafb4ba495" codec="mp3" bitrate="128",Treasure Emporium Christmas Radio - Central Coast (MP3)
 http://stream.zeno.fm/5z3f8h42c48uv
 #EXTINF:-1 station-id="awb_18e45bc780d10115ea1d" stream-id="aws_eceacdfca25808199f21" codec="mp3" bitrate="128",Treasure Emporium Christmas Radio - Central Coast (MP3)
@@ -3409,7 +3413,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFM.mp3
 #EXTINF:-1 station-id="awb_f4501191581ff9f4a91d" stream-id="aws_7e4ea55d14aba700daa1" codec="mp3" bitrate="0",Voice of Islam
 http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
-#EXTINF:-1 station-id="awb_7c1f42cf426c5e6c2125" stream-id="aws_5a0307443ed1d2b1c679" codec="aac+" bitrate="96",VOX FM - Wollongong - 106.9 FM (AAC)
+#EXTINF:-1 station-id="awb_7c1f42cf426c5e6c2125" stream-id="aws_5a0307443ed1d2b1c679" codec="aac+" bitrate="104",VOX FM - Wollongong - 106.9 FM (AAC)
 http://s10.myradiostream.com/15272/;
 #EXTINF:-1 station-id="awb_ae8120f2aea7ddd6c6a6" stream-id="aws_efa7d6ef5a1523d34b7c" codec="mp3" bitrate="128",Wandering Sheep Golden Praise
 https://radio.wanderingsheep.net:8044/goldenpraise

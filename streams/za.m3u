@@ -6,7 +6,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/5FM
 #EXTINF:-1 station-id="awb_a88754c389c94f7b7d24" stream-id="aws_6a009bef1d3c88fcf134" codec="aac+" bitrate="48",5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac
 #EXTINF:-1 station-id="awb_311dff2df7476a643558" stream-id="aws_0770ad3c3ad5c2da8c04" codec="mp3" bitrate="64",702 Johannesburg
-http://22333.live.streamtheworld.com/FM702_SC
+http://25533.live.streamtheworld.com:3690/FM702_SC
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_f09811e7e2a9f6f56194" codec="aac" bitrate="0",919
 https://edge.iono.fm/xice/112_low.aac
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_94fcb4697645263fde32" codec="aac" bitrate="0",919
@@ -16,14 +16,14 @@ http://27953.live.streamtheworld.com/FM947AAC_SC
 #EXTINF:-1 station-id="awb_c0ba137d0ae5dd6d7181" stream-id="aws_1c4d77e8f5e9ebf59a9c" codec="mp3" bitrate="64",94.7 Highveld Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC
 #EXTINF:-1 station-id="awb_b227b713b04bc9f4d8b1" stream-id="aws_f134015c33de69a2c2f5" codec="mp3" bitrate="64",947
-http://14203.live.streamtheworld.com/FM947_SC
+http://29334.live.streamtheworld.com/FM947_SC
 #EXTINF:-1 station-id="awb_c99d55e3368eff7952e4" stream-id="aws_26c495a1d1c6afacf493" codec="aac" bitrate="64",Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_4392e2b48d02726b6479" stream-id="aws_801aef2658cfe147a3f5" codec="mp3" bitrate="128",African Praise Radio
 https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 #EXTINF:-1 station-id="awb_28b4d0d76632f79061d3" stream-id="aws_139509d4cc0eca348a0c" codec="mp3" bitrate="128",Afrobeat N1 FM
 https://streamer.radio.co/s919e54210/listen
-#EXTINF:-1 station-id="awb_59ce301ac321c20fd78b" stream-id="aws_8d44b8c5f60cfe0c5963" codec="mp3" bitrate="64",afrobeat radio
+#EXTINF:-1 station-id="awb_59ce301ac321c20fd78b" stream-id="aws_8d44b8c5f60cfe0c5963" codec="mp3" bitrate="128",afrobeat radio
 https://broadcast.icast.world/listen/afrobeatradio/radio.mp3
 #EXTINF:-1 station-id="awb_7ea144f5c375b74eaa58" stream-id="aws_cd3b7d57546a32df7e8f" codec="mp3" bitrate="128",AFROBEATS FM
 https://audio.afrobeatsfm.com:8443/;
@@ -399,6 +399,8 @@ https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs
 https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg
 #EXTINF:-1 station-id="awb_59ba0ec46544a9a55a94" stream-id="aws_e3f415829b089c683301" codec="mp3" bitrate="128",Waterberg Stereo
 http://116.202.241.212:8048/stream?type=http&nocache=6887
+#EXTINF:-1 station-id="awb_0ac9c989cb8a1a64e0c3" stream-id="aws_f30d1f5f2eaa55d0de90" codec="mp3" bitrate="112",Wild Coast FM 98.6
+http://116.202.241.212:8090/
 #EXTINF:-1 station-id="awb_4ea918809efde9c5c71f" stream-id="aws_4475d383f2b2d977f4eb" codec="aac" bitrate="48",Worcester FM1
 https://zas1.ndx.co.za:9917/stream
 #EXTINF:-1 station-id="awb_7b191cc2da6b211d13e9" stream-id="aws_3a41244a7368fe9506eb" codec="mp3" bitrate="192",World Gospel Radio

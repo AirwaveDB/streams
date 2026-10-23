@@ -31,7 +31,7 @@ https://radio.cliamp.stream/ncs/stream
 https://radio.cliamp.stream/ncs-trap/stream
 #EXTINF:-1 station-id="awb_6bc8784d2cfa0dcd3869" stream-id="aws_0416b3cd150954f426b6" codec="mp3" bitrate="128",CLIAMP Synthwave Nights
 https://radio.cliamp.stream/synthwave/stream
-#EXTINF:-1 station-id="awb_8eec877e6712dbf8e39c" stream-id="aws_9f9c6841e2e5dd918de6" codec="aac" bitrate="192",Guovdageainnu Lagasradio
+#EXTINF:-1 station-id="awb_8eec877e6712dbf8e39c" stream-id="aws_9f9c6841e2e5dd918de6" codec="mp3" bitrate="192",Guovdageainnu Lagasradio
 https://streaming.radio.co/s5b773f8d3/listen
 #EXTINF:-1 station-id="awb_5e5597a1b4e733919794" stream-id="aws_597c2064037bb9ec0bbf" codec="mp3" bitrate="128",Hamar Radioen
 https://lyd.radioene.no/hamar.mp3
@@ -45,6 +45,8 @@ https://p7.p4groupaudio.com/P07_MM
 http://s39.myradiostream.com:11590/;
 #EXTINF:-1 station-id="awb_d1134b469b4aacbacad0" stream-id="aws_48106d4a1569cdad72b8" codec="mp3" bitrate="192",Metal Express Radio
 http://s39.myradiostream.com:11590/listen.m4a
+#EXTINF:-1 station-id="awb_d1134b469b4aacbacad0" stream-id="aws_26d833ce85981ba8064f" codec="mp3" bitrate="192",Metal Express Radio
+http://s39.myradiostream.com:11590/stream
 #EXTINF:-1 station-id="awb_fb1e655d3148d1f5939c" stream-id="aws_79eaf8b1ff6cb40d92bd" codec="mp3" bitrate="160",Nærkanalen
 https://stream.radiomeloy.no:8003/radiomeloy
 #EXTINF:-1 station-id="awb_286cb72e07aca3d76760" stream-id="aws_eb2a7d1ef7f0d8f72c0e" codec="mp3" bitrate="192",Nea Radio
@@ -67,7 +69,7 @@ https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h
 #EXTINF:-1 station-id="awb_e0a4a4cfbbfc98963c98" stream-id="aws_d71dd5d98f51b9e22fce" codec="mp3" bitrate="192",NRK MP3
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h
-#EXTINF:-1 station-id="awb_a04a55e1ab3362bf1d83" stream-id="aws_dc741953f13ce48643f9" codec="aac+" bitrate="159",NRK Nyheter
+#EXTINF:-1 station-id="awb_a04a55e1ab3362bf1d83" stream-id="aws_dc741953f13ce48643f9" codec="aac+" bitrate="158",NRK Nyheter
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h
 #EXTINF:-1 station-id="awb_430f232496ce35bbf6b9" stream-id="aws_5a751be3d7e91afe4f31" codec="mp3" bitrate="192",NRK Nyhter (MP3 - HI)
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter
@@ -111,7 +113,7 @@ https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super
 #EXTINF:-1 station-id="awb_49977bedf0c3eb9a732e" stream-id="aws_98611e4f97e105ea1ada" codec="mp3" bitrate="192",NRK Sápmi
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h
-#EXTINF:-1 station-id="awb_203fd57318bf08cc081a" stream-id="aws_a71628382aab25181f54" codec="aac+" bitrate="159",NRK Sport
+#EXTINF:-1 station-id="awb_203fd57318bf08cc081a" stream-id="aws_a71628382aab25181f54" codec="aac+" bitrate="158",NRK Sport
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h
 #EXTINF:-1 station-id="awb_ac7c4973dc00f8526353" stream-id="aws_d08dc4cd7088f43c3477" codec="mp3" bitrate="192",NRK Trøndelag
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5
@@ -125,7 +127,7 @@ https://p11.p4groupaudio.com/P11_AH
 https://p11.p4groupaudio.com/P11_MM
 #EXTINF:-1 station-id="awb_c90fa30ba861cc2c4da4" stream-id="aws_c4e4b1351a92e8804726" codec="mp3" bitrate="192",P11 Dance (MP3 192k)
 https://p11.p4groupaudio.com/P11_MH
-#EXTINF:-1 station-id="awb_7dce580a4cbe2651450b" stream-id="aws_2b922c5480a6fb0c12c0" codec="aac" bitrate="191",P12 Hitmix (AAC HQ)
+#EXTINF:-1 station-id="awb_7dce580a4cbe2651450b" stream-id="aws_2b922c5480a6fb0c12c0" codec="aac" bitrate="192",P12 Hitmix (AAC HQ)
 https://nrj.p4groupaudio.com/NRJ_AH
 #EXTINF:-1 station-id="awb_6519a625b0fd2fdc999f" stream-id="aws_7f9c92a43fd47e9d6954" codec="mp3" bitrate="128",P12 Hitmix (MP3 128k)
 https://nrj.p4groupaudio.com/NRJ_MM
