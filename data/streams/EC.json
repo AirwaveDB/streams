@@ -38,6 +38,25 @@
     "lastCheckedAt": "2026-10-21T22:35:58Z"
   },
   {
+    "id": "aws_3d816f953654d6885779",
+    "stationId": "awb_592da2750f224f3a2795",
+    "name": "Alfa Radio98.5FM",
+    "country": "EC",
+    "url": "https://d3487bptzruln7.cloudfront.net/hls/t6z22lsrczux/2/index.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2470939f-bb77-4193-a35b-3d93d4cb7da7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_b863795a5449bcf72ed3",
     "stationId": "awb_7e9c1c0c1a0cd46860dc",
     "name": "Amazonas FM 92.1",
@@ -375,6 +394,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T12:17:25Z"
+  },
+  {
+    "id": "aws_3d39c7fafeeee4592ff5",
+    "stationId": "awb_c920bbd4bbbc7f4e97e4",
+    "name": "EXA FM",
+    "country": "EC",
+    "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "321cfe8f-5319-4192-a782-3969a64dbeaa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_e95edcc1bfa5b57ff769",
+    "stationId": "awb_fa698ef67941757f0f8b",
+    "name": "EXA FM 92.5 FM",
+    "country": "EC",
+    "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1edb99b0-006b-4655-8d15-281eb1bafdd2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_9df744e4177e12e2e4af",

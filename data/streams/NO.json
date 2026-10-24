@@ -394,6 +394,25 @@
     "lastCheckedAt": "2026-10-22T05:41:29Z"
   },
   {
+    "id": "aws_1e34c3670857ee9c89aa",
+    "stationId": "awb_fd4cf0798f014987f2ad",
+    "name": "Jæren Misjonsradio",
+    "country": "NO",
+    "url": "https://stream.theradiohub.com/JMRadio/hq",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c4d193eb-47f6-4607-b69c-2c38c8ba5b0b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-23T15:41:19Z"
+  },
+  {
     "id": "aws_c6220e8c756a2966b334",
     "stationId": "awb_e37cba220bd510624663",
     "name": "Klem FM",
@@ -1652,6 +1671,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T07:29:40Z"
+  },
+  {
+    "id": "aws_d45032d99e99ae015cdd",
+    "stationId": "awb_e73858c1e29fdd32b699",
+    "name": "Ptro",
+    "country": "NO",
+    "url": "https://s2.radio.co/sd7f2a360c/listen",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cfee3afd-3368-468c-bce3-6ec59558764c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-23T15:41:19Z"
   },
   {
     "id": "aws_e3ab6d2529a7229f351b",

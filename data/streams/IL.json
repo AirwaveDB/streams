@@ -584,6 +584,44 @@
     "lastCheckedAt": "2026-10-22T03:31:03Z"
   },
   {
+    "id": "aws_1a57697e02f370b5b2d9",
+    "stationId": "awb_769f5959d590f4abb5de",
+    "name": "Imsostablee Radio",
+    "country": "IL",
+    "url": "https://c44.radioboss.fm:8178/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dcbd792b-1547-440b-82ae-23b6f926283e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_2bff254543d91e09ab2c",
+    "stationId": "awb_769f5959d590f4abb5de",
+    "name": "imsostablee Radio",
+    "country": "IL",
+    "url": "https://c44.radioboss.fm:8178/stream-mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "34ccc82a-2ee3-4f71-b9b4-11bf66ef07bc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T03:39:45Z"
+  },
+  {
     "id": "aws_a93c57836fd603947322",
     "stationId": "awb_c3b089732cc3139a6e44",
     "name": "Israeli voice radio",

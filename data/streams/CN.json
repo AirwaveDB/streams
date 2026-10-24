@@ -2218,6 +2218,25 @@
     "lastCheckedAt": "2026-10-22T13:23:25Z"
   },
   {
+    "id": "aws_0209e0aa2bd165ebdc18",
+    "stationId": "awb_22394019aa422b32123b",
+    "name": "CHTV百姓健康频道",
+    "country": "CN",
+    "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "991c605f-ad55-4dcd-9437-544f1bc11a07"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_0f79a70df7a5228775b1",
     "stationId": "awb_3539e153073d16697011",
     "name": "CityFM城市音乐台",
@@ -25355,6 +25374,26 @@
     "lastCheckedAt": "2026-10-23T01:12:32Z"
   },
   {
+    "id": "aws_5e8113b72c4226c72d43",
+    "stationId": "awb_1d20a56d8a17a7a1d5e9",
+    "name": "法国国际广播电台",
+    "country": "CN",
+    "url": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a9763c72-8502-4ca7-a172-a562af79d4d4",
+      "c4f67482-7919-40a3-bb2b-a5a6add10e45"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-23T15:41:19Z"
+  },
+  {
     "id": "aws_74f2a68fbd53ae80431f",
     "stationId": "awb_2a97a44e5aa82300e905",
     "name": "泗水广播电视台",
@@ -26954,7 +26993,7 @@
       "0ce755e9-1df0-4cf1-b380-80852e0e3c14"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-18T22:07:29Z"
+    "lastCheckedAt": "2026-10-23T22:17:37Z"
   },
   {
     "id": "aws_d9435f900afd58abf724",
@@ -34618,6 +34657,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T21:35:33Z"
+  },
+  {
+    "id": "aws_1806d5a85e11ca0aaaca",
+    "stationId": "awb_dcf35bbf3cf2ec650f66",
+    "name": "那曲综合广播",
+    "country": "CN",
+    "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzhgb.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6fedba0e-f646-4f1d-bf38-6f23bbfc9518"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-23T15:41:19Z"
   },
   {
     "id": "aws_9e5efad6c30a1c17cd41",
