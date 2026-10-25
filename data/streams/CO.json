@@ -3420,8 +3420,8 @@
     "name": "cristal boyacá 98.3 fm",
     "country": "CO",
     "url": "https://impactodigitalcol.com/8020/stream",
-    "codec": "aac+",
-    "bitrate": 96,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -3431,7 +3431,7 @@
       "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_75b62406e184c2cfc2e8",
@@ -6430,7 +6430,7 @@
       "aea2f8cd-a203-4fa9-95b7-cb82503bc60c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T02:35:15Z"
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_a4fb898f3d2bd20d0bab",
@@ -8501,6 +8501,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T18:47:22Z"
+  },
+  {
+    "id": "aws_c6aea6e1eb990c1b1401",
+    "stationId": "awb_1f52b146ba9a677246d3",
+    "name": "MusicVox Fm",
+    "country": "CO",
+    "url": "https://radio.juanjuiserver.com:8090/radio.mp3",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1504347b-289c-4561-a7e4-8985a91598c5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_bf75bfc96e9710018c8a",

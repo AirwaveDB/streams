@@ -620,6 +620,25 @@
     "lastCheckedAt": "2026-10-22T09:46:09Z"
   },
   {
+    "id": "aws_3e49ca21d55528784a52",
+    "stationId": "awb_27abecbf310ac6e570f4",
+    "name": "Burn 729",
+    "country": "NZ",
+    "url": "https://23093.live.streamtheworld.com/NZME_226AAC/HLS/playlist.m3u8",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "178837fa-8850-434e-9c25-065c9450ec50"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
     "id": "aws_a1d3b00ba7387f61a4b3",
     "stationId": "awb_dd07445e1e13ac89f53a",
     "name": "CFM Coromandel",
@@ -2426,6 +2445,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T21:08:24Z"
+  },
+  {
+    "id": "aws_6927490a0c6f23d6c603",
+    "stationId": "awb_23b52b364aaeb44f1ec9",
+    "name": "Puketapu Radio",
+    "country": "NZ",
+    "url": "https://a.tunzilla.com/http://usa3.fastcast4u.com:1892/;",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7e32893-dc87-48df-8b0d-04c1fb721a16"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_b36d9a21b5a2774504c0",

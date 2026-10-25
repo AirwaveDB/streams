@@ -661,6 +661,25 @@
     "lastCheckedAt": "2026-10-22T16:08:25Z"
   },
   {
+    "id": "aws_6405c12511177048ff9f",
+    "stationId": "awb_eb6ec7ef4cf997eb14b2",
+    "name": "101.ru Муслим Магомаев",
+    "country": "RU",
+    "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/156",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "371e0e63-1870-4e21-a816-d296788973bf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_9ee305ddb6f5ddda9626",
     "stationId": "awb_490379dcc6519447f807",
     "name": "101.ru Парк Горького (Gorky Park)",
@@ -1249,6 +1268,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T23:29:28Z"
+  },
+  {
+    "id": "aws_ddabf4dc0c299669abc8",
+    "stationId": "awb_f0d0c6167cfe44241348",
+    "name": "ABBA",
+    "country": "RU",
+    "url": "https://stream.pcradio.ru/abba-hi",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8ef7c364-430d-4d09-b9ef-66e8c2d3b803"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_bac985c8309a0ab46d3e",
@@ -7051,7 +7089,7 @@
       "652c4fcf-ea4a-4a41-b951-09939e3a30f2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_7905eb12d08c2ba4384a",
@@ -8086,6 +8124,25 @@
     "lastCheckedAt": "2026-10-21T23:08:04Z"
   },
   {
+    "id": "aws_ea2dc4ae14844777bbf1",
+    "stationId": "awb_90c1e7f1a344d162f72f",
+    "name": "George Michael",
+    "country": "RU",
+    "url": "https://stream.pcradio.ru/George_Michael-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "90d3e59a-6626-41e5-bc78-e5937b058903"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_2d0e39d5dedd4d267bed",
     "stationId": "awb_478c6e89721e0feb90ae",
     "name": "German / Deutsche Hip-Hop / Rap - Caprice Radio",
@@ -8103,6 +8160,1222 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T15:42:49Z"
+  },
+  {
+    "id": "aws_32af92a985b9742508e5",
+    "stationId": "awb_a76218f000bf71986e1f",
+    "name": "get.radio — 60-е (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/sixties-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "79883d73-81f5-4604-9839-c2a4411a2c54"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_5114acb6164ace7e5bf7",
+    "stationId": "awb_15c6bbab1cb72bd6edb4",
+    "name": "get.radio — 60-е (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/sixties-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b5fefc23-4123-4b0c-b9f7-76e7e3d72e11"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_8ee7f09c932ee4221042",
+    "stationId": "awb_4adb3047c6a6f88d58f6",
+    "name": "get.radio — 60-е (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/sixties-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e494a6b7-aac5-43b1-9284-7f12fb46517f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_1f7c9f5ebe7beb3bd3af",
+    "stationId": "awb_1c7fdf390cf702b08b76",
+    "name": "get.radio — 60-е (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/sixties-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1547e9b8-1aae-46f2-9610-1d6b283c66d9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_16aeff27f4fd1f2021d6",
+    "stationId": "awb_7cbdf0bf389e03ccfdf1",
+    "name": "get.radio — 80-е (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/eighties-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "29b72a44-dae4-4762-a04b-8363661d41e2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_76b5fcb3f45bd3ffe7ce",
+    "stationId": "awb_afcad9725454e11e38cd",
+    "name": "get.radio — 80-е (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/eighties-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e9f1b5d8-6a9c-4fdc-8434-2a1aa50ef15a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_e21e705c8c7a3a8f855c",
+    "stationId": "awb_636bba5b4f4949b2f27d",
+    "name": "get.radio — 80-е (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/eighties-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "22d560cd-f1f0-4c83-ab1c-4aeb7626e6f3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_ac6af6cbdd241baa2aae",
+    "stationId": "awb_c89cdbc5ff6077f0d0c0",
+    "name": "get.radio — 80-е (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/eighties-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "66fe1863-819e-4453-a2f2-0d4d64d4df4c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_6a32d54fa2839f41729b",
+    "stationId": "awb_b449388e610bd7ba4fce",
+    "name": "get.radio — Гиперпоп (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hyperpop-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4bbfc650-6ae2-438d-acaf-5b144832fe6e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_66c8cc9c77549e836247",
+    "stationId": "awb_6424829aec3dfe81d8d3",
+    "name": "get.radio — Гиперпоп (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hyperpop-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "baa42584-0ab4-4261-a677-58cb206fcae8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_1bed278eef9372c552ff",
+    "stationId": "awb_1f869c608c970c969f65",
+    "name": "get.radio — Гиперпоп (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hyperpop-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fd82c10a-8dde-402b-a14d-cca5de276f48"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_16d6290d1a7d49d26543",
+    "stationId": "awb_6d78be9c33fe4946013a",
+    "name": "get.radio — Гиперпоп (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hyperpop-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e6471679-d266-46a6-86c5-ba08bcc6cb28"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_6aa1fcd56b7b9af629a3",
+    "stationId": "awb_0db4cba5f8878579dd67",
+    "name": "get.radio — Джаз (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/jazz-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2b804410-becb-41a9-a856-a1c9f55b9714"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_c0b81bfb78cc54bd2994",
+    "stationId": "awb_6a6dffe2e3c86adc067e",
+    "name": "get.radio — Джаз (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/jazz-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2d8719f5-f2d1-4786-aae4-9a10945a2580"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_10db720156b4c7084305",
+    "stationId": "awb_60111930f7a117480fbe",
+    "name": "get.radio — Джаз (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/jazz-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "969f5ec1-b136-4c3c-a199-aedf932c4123"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_6ef78b068c6162b33cd2",
+    "stationId": "awb_0f65c573fc1158a3a4ef",
+    "name": "get.radio — Джаз (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/jazz-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7668dc2-e960-4c5c-831f-22ff1b254dea"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_23e53e971fd3da5a80fa",
+    "stationId": "awb_8f2d8a0326a356bf94ed",
+    "name": "get.radio — Кино (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/cinema-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ce1da0b8-5cce-4a9b-835b-78ff0d6c3bff"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_f27159f273e49780703f",
+    "stationId": "awb_7134277d4e30bcc09c97",
+    "name": "get.radio — Кино (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/cinema-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e81156c9-206d-4169-b28d-2fc3fe067597"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_ede3b093b9cf898dc046",
+    "stationId": "awb_8addef545a3120b99975",
+    "name": "get.radio — Кино (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/cinema-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ddc17aed-8631-4625-8893-781113b032f0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_6bbd2383e01aa80ecfb7",
+    "stationId": "awb_985fcf634275a5398be6",
+    "name": "get.radio — Кино (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/cinema-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "67b4aced-f883-439f-9bc1-5be56290994f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_8067c026fca896358c6e",
+    "stationId": "awb_10380a6e3e48d08b914e",
+    "name": "get.radio — Классика (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/classical-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1870bb4f-8731-4768-9a03-a79e987db027"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_ff80f62712bd801582c7",
+    "stationId": "awb_32d8abf2cc70cf8f2bf0",
+    "name": "get.radio — Классика (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/classical-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ff68d822-ee53-4455-802f-42a53019644b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_2d721e890d5f1ac111d8",
+    "stationId": "awb_c586ee7bcc499818a749",
+    "name": "get.radio — Классика (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/classical-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "44392040-af12-4e65-9f0d-e544ac293d93"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_24cc369de1d2c048114d",
+    "stationId": "awb_ffa55383c10a71abe249",
+    "name": "get.radio — Классика (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/classical-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d7f3292b-4cc3-4bed-9965-7f077f0d0a93"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_50c918c51423892dbc86",
+    "stationId": "awb_3561e5cf095f3dc794a4",
+    "name": "get.radio — Лоу-фай",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/lofi-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7a5aca39-d7b6-4cba-9c91-4c3303ec41bb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_ef4eac460a162f449aca",
+    "stationId": "awb_ff06552aecbb801315cb",
+    "name": "get.radio — Лоу-фай (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/lofi-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7cb07eae-9e9d-45a6-b0dc-50a9f59a6a50"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_82dc85bc606e36974f2e",
+    "stationId": "awb_63796ab55b699abdd967",
+    "name": "get.radio — Лоу-фай (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/lofi-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bbce68eb-153e-492c-b0ab-c8792eb712a0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_aced6749e4299d5b4d2e",
+    "stationId": "awb_4ae1068a6c694ce7919e",
+    "name": "get.radio — Лоу-фай (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/lofi-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "704dd806-34c1-4a82-8ca3-d4c2ce85cfcd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_6066a00e0d1f9fb9611f",
+    "stationId": "awb_58659f6f37d53ae92899",
+    "name": "get.radio — Поп (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/pop-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b59b5a70-96d4-4200-a3ef-13d0ae253deb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_2366e009d0513a2e4ca7",
+    "stationId": "awb_610b6fef3e4352406a29",
+    "name": "get.radio — Поп (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/pop-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "533d0078-de37-40df-87e7-d3a6e771bcf3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_6051a60a1d6e60a7fe2f",
+    "stationId": "awb_eee34ec73f5483bd7024",
+    "name": "get.radio — Поп (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/pop-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f2ea6d13-1090-409c-b0cf-68e4abbbb72a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_cffa8698d58d61b4adb4",
+    "stationId": "awb_62df4d72ee6fa2fc09c4",
+    "name": "get.radio — Поп (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/pop-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "486bd0f3-633b-4124-8715-083a10a04041"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_e4989e3ccddda8f55c78",
+    "stationId": "awb_dcd2c15af8b5ae76499f",
+    "name": "get.radio — Рок (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rock-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "987d8d3c-c6e6-45df-be61-5b319d961048"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_7576187c1381507dc6e0",
+    "stationId": "awb_4de1fe91a56a93207ad6",
+    "name": "get.radio — Рок (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rock-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "52d72c59-1aa2-4305-b202-7944ec810ff4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_afb836f35cb4dc3f2535",
+    "stationId": "awb_4bd87ff9513b5f8d6b64",
+    "name": "get.radio — Рок (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rock-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "12cc00cd-61a1-4416-af5f-bf3c55242f73"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_1832a3d0c66ac7e215ac",
+    "stationId": "awb_eeb4e370dc3aa9128ce7",
+    "name": "get.radio — Рок (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rock-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "34388a75-da1d-4061-b4cb-7e24f392fe22"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_db9f34d35d4ddcc19d97",
+    "stationId": "awb_5f5343271fd411fe3c13",
+    "name": "get.radio — Рэп (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rap-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bf306f67-658d-4e19-bd6b-353007e69d2e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_1c74bcbcf467d442f14b",
+    "stationId": "awb_cf8d155176a40de6fe2a",
+    "name": "get.radio — Рэп (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rap-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e794330e-10aa-4bc8-935c-085d141e0a77"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_09f619da0000a02317ed",
+    "stationId": "awb_7084e6cd2d2cb28eba6d",
+    "name": "get.radio — Рэп (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rap-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c218086b-551e-4ceb-9dcc-4d07bab8640b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_da776f862159e5a8d46d",
+    "stationId": "awb_0ee8fc64a9fc715d6103",
+    "name": "get.radio — Рэп (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rap-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "458e015e-9ac9-4c96-8f9f-66ef2266c7dd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_8430874b5a92afb9df82",
+    "stationId": "awb_5da5d4f35797da34b47b",
+    "name": "get.radio — Синтвейв (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/synth-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "06b2f2cb-3357-43b4-b111-87a5d84a8622"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_b9d08d96d5f8589f7d9b",
+    "stationId": "awb_9347cb482bc9838b3caa",
+    "name": "get.radio — Синтвейв (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/synth-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c8176597-bdcf-4078-a916-def4b6fdc5fd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_ef05cb9dff04a2e11a26",
+    "stationId": "awb_442a04892fdbd25d441e",
+    "name": "get.radio — Синтвейв (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/synth-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1a1ecb9a-f7ed-4aaa-aa1b-bbe67c9e1c76"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_71ea2ea99b073fa59d64",
+    "stationId": "awb_63e783565cf339190788",
+    "name": "get.radio — Синтвейв (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/synth-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f0a579e4-2509-47e2-8222-cccd7f1e36be"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_0e4a1704b64671f49c42",
+    "stationId": "awb_c5b83cfe5a0c407b2a9f",
+    "name": "get.radio — Хаус (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/house-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f898b90f-a403-4773-8f54-38dff5811395"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_7660587dcb317af905dc",
+    "stationId": "awb_c78b238a8a075df3e62b",
+    "name": "get.radio — Хаус (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/house-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7edaa4ac-b641-443a-9342-1a515c52b236"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_ff75c8940a73d016a69d",
+    "stationId": "awb_f7e3ca671077e997ba90",
+    "name": "get.radio — Хаус (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/house-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "978edd91-10ba-4ca4-b5af-691db6d44ea8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_de52c75f72ddfdb13a4e",
+    "stationId": "awb_1dd66515f50cb4614ce6",
+    "name": "get.radio — Хаус (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/house-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c643229d-b7ac-45a9-a1b2-3931f4781312"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_399c379a921f0bca8bfd",
+    "stationId": "awb_a762af6c2b8027f0c882",
+    "name": "get.radio — Хип-хоп (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hiphop-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "32bb3854-35b5-421a-9f45-1cdaa915f473"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_368dd9a9bdeff32e2d66",
+    "stationId": "awb_928e8e38254fc28b2b69",
+    "name": "get.radio — Хип-хоп (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hiphop-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c152917c-bab6-4d75-bb65-f1c4f7424d35"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_cdb31f45d82d07ffff79",
+    "stationId": "awb_4e04278688e910545f8c",
+    "name": "get.radio — Хип-хоп (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hiphop-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7e72b2cd-4fe4-4cf3-9f80-898e1ee1cd68"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_698fde708bfed6cbf812",
+    "stationId": "awb_460bd1df1a7779638362",
+    "name": "get.radio — Хип-хоп (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hiphop-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7b5f464d-7dc8-4265-91c3-cfef64575536"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_44e80b492d2287485b7a",
+    "stationId": "awb_3857389c7afd99319120",
+    "name": "get.radio — Чилл (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chill-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2f16c1fe-4f4a-4978-b4bd-dd5f8c40395f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_3e02e243d575389302fd",
+    "stationId": "awb_136035036d07b612f85c",
+    "name": "get.radio — Чилл (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chill-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c06abd2-3c1e-43fe-8c60-a05fa3794e1d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_aca5f9ca2e461b5b445d",
+    "stationId": "awb_37d41ce87eadddce23ae",
+    "name": "get.radio — Чилл (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chill-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "de4d691e-e717-4c86-bc83-c7b83c6c8670"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_55d5c849c2181b85706e",
+    "stationId": "awb_ea75e812c59f0cfb2dbb",
+    "name": "get.radio — Чилл (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chill-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "36f8d9fb-9005-4266-ba6a-ac123eac5841"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_feae4639763f52cc99ef",
+    "stationId": "awb_5cb1c5f7af7228e26009",
+    "name": "get.radio — Шансон (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chanson-en.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4d39ac16-0be9-4809-9ad4-23552bc4b838"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_4af95689b721943283fc",
+    "stationId": "awb_4ed4d0503befffec98fd",
+    "name": "get.radio — Шансон (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chanson-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f790519d-f471-4fbe-b769-9067ced6a8e7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_709a2010eb98d88badec",
+    "stationId": "awb_208bda92f31a8502edc8",
+    "name": "get.radio — Шансон (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chanson-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "17a108a2-07a7-4b63-b87a-e4daa014307a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_c397b3161709da514c4b",
+    "stationId": "awb_b74dfb3a62ea886c435a",
+    "name": "get.radio — Шансон (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chanson-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "97b2f758-b5bc-45b7-8e0d-d0bdb54e86fe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_16debcd86431a4aaecc2",
+    "stationId": "awb_5d4e90a5074c3afb7ab8",
+    "name": "get.radio — Эмбиент (Английский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/ambient-en.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8aebdc29-11c8-4594-bca3-62eda263761d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_cd53f45c0f4c809ffe56",
+    "stationId": "awb_cb12b60eb39aec6785ca",
+    "name": "get.radio — Эмбиент (Без вокала)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/ambient-instrumental.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "47e0e6a5-0099-444b-b1e8-c866a7c0751d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_2ee9a257ed4918c17da6",
+    "stationId": "awb_32681638b8638dd590c8",
+    "name": "get.radio — Эмбиент (Прочие языки)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/ambient-other.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "09568dbf-bfb5-4d8c-8ae2-4addcf3066ad"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
+    "id": "aws_fd12a5af368b44402f6d",
+    "stationId": "awb_2e8682e74aaa5399d464",
+    "name": "get.radio — Эмбиент (Русский)",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/ambient-ru.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f8adccdc-0d90-4875-b9ca-97e7285df446"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
   },
   {
     "id": "aws_f132212e5270525208ce",
@@ -11569,6 +12842,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T12:05:34Z"
+  },
+  {
+    "id": "aws_d77f2e98fdaf38caef1c",
+    "stationId": "awb_da5b205f76a7187db637",
+    "name": "Mylene Farmer",
+    "country": "RU",
+    "url": "https://stream.pcradio.ru/Mylene_Farmer-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ba890c4-d269-4305-9e40-05bc25980343"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_125af66c7e3c40d103fb",
@@ -29134,6 +30426,25 @@
     "lastCheckedAt": "2026-10-22T12:08:31Z"
   },
   {
+    "id": "aws_e7a5120dbfee6c3a3e8b",
+    "stationId": "awb_8e2e82fcf867c7b77f03",
+    "name": "Sade",
+    "country": "RU",
+    "url": "https://stream.pcradio.ru/Sade-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f391ef87-3f61-41ea-8782-a1bad5684021"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_5974e47802aecbcdbd1a",
     "stationId": "awb_090b970f7640fc7e29c3",
     "name": "Sakha FM",
@@ -30303,6 +31614,25 @@
     "lastCheckedAt": "2026-10-21T23:08:53Z"
   },
   {
+    "id": "aws_314254083c275eefb611",
+    "stationId": "awb_97d4ea9a07d40821bfbd",
+    "name": "Super Радио",
+    "country": "RU",
+    "url": "https://stream.salyutfm.ru:8080/hls/channel_4/playlist.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bc590c2e-e268-43c1-a3a3-a12c7e315e05"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_b4a25c55063fb79a0c07",
     "stationId": "awb_98d186b75bd4846a7a47",
     "name": "super-radio",
@@ -31048,6 +32378,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T07:32:35Z"
+  },
+  {
+    "id": "aws_327008924f14814c2146",
+    "stationId": "awb_292fe4149809b6b3a110",
+    "name": "Vinyl drinks 33/13",
+    "country": "RU",
+    "url": "http://radio.obakiri.ru:8000/vinyl-33-13-drinks",
+    "codec": "ogg",
+    "bitrate": 1536,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b21a4200-eec2-4820-92d9-e683e4b87316"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_3e31b2f60ee370e4a453",
@@ -38669,6 +40018,25 @@
     "lastCheckedAt": "2026-10-22T04:00:46Z"
   },
   {
+    "id": "aws_fa3d9542c21e8fe4b469",
+    "stationId": "awb_6dd5e6b065a536beab10",
+    "name": "Муслим Магомаев",
+    "country": "RU",
+    "url": "https://stream03.pcradio.app/Muslim_Magomaev-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cb8811c1-845e-4526-ba24-21d8755cf9cb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_b4b70a10a0ab0643b48e",
     "stationId": "awb_620aaf03a5f65c357c41",
     "name": "Мята Gold",
@@ -39797,7 +41165,7 @@
       "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_849bca7100e1f6859a52",
@@ -47416,7 +48784,7 @@
       "f3401937-86b6-418c-bb03-8b2dda07068c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_765526f574b5218dc929",
@@ -48859,6 +50227,25 @@
     "lastCheckedAt": "2026-10-21T23:41:21Z"
   },
   {
+    "id": "aws_11bd81b6b9a007d8fcf1",
+    "stationId": "awb_edbc690a3306fa05b76d",
+    "name": "Русский Драйв FM",
+    "country": "RU",
+    "url": "https://rusdriveradio.ru:8000/live_aac64",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4e6a73d8-540a-4071-9fe0-6ad43465109b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_cd09c7e3d42c817995c4",
     "stationId": "awb_545a036cb96f22c8f227",
     "name": "Русский микс",
@@ -49584,6 +50971,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T22:43:09Z"
+  },
+  {
+    "id": "aws_64e13455e90f4dbc6435",
+    "stationId": "awb_141d68c1e27d692fcd31",
+    "name": "Салют Фм",
+    "country": "RU",
+    "url": "http://stream.salyutfm.ru:8000/stream",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cba5d613-d431-4272-baf1-48247474b0f5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_8f6375a4c2c4550ba93f",

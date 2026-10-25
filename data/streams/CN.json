@@ -2223,7 +2223,7 @@
     "name": "CHTV百姓健康频道",
     "country": "CN",
     "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
-    "codec": null,
+    "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
     "hls": true,
@@ -2234,7 +2234,7 @@
       "991c605f-ad55-4dcd-9437-544f1bc11a07"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_0f79a70df7a5228775b1",
@@ -3551,6 +3551,25 @@
     "lastCheckedAt": "2026-10-21T23:54:13Z"
   },
   {
+    "id": "aws_3c450996e8c13c633655",
+    "stationId": "awb_a48a6be42848a0baa362",
+    "name": "HardBestFM",
+    "country": "CN",
+    "url": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "afc77bb3-6aa1-44d3-9284-950dd806f435"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_8375a22f4083bab670dd",
     "stationId": "awb_551848f1940a0a1d6286",
     "name": "haxnbauer Radio",
@@ -4386,7 +4405,7 @@
       "ed71e2a5-2f73-4150-b088-062b85089d68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_e8f5f243e833867aaa24",

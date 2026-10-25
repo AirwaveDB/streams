@@ -798,6 +798,25 @@
     "lastCheckedAt": "2026-10-22T04:46:58Z"
   },
   {
+    "id": "aws_eea52aee1bf1df6580f7",
+    "stationId": "awb_645472cbd8c48d6288b4",
+    "name": "MBC FM",
+    "country": "SA",
+    "url": "https://radio-mbcfm.mbc.net/radio-mbcfm_1.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0bd2d571-7fc8-4158-8e8e-0635c9a330ad"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_ad8005a0dd9701877aad",
     "stationId": "awb_36bfd02ce4f0ca8a91f4",
     "name": "MBC Loud",
@@ -992,6 +1011,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T16:58:06Z"
+  },
+  {
+    "id": "aws_899d63987068eaffff09",
+    "stationId": "awb_31cae525bd03d0a7e382",
+    "name": "Panorama FM",
+    "country": "SA",
+    "url": "https://radio-panoramafm.mbc.net/radio-panoramafm_1.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a47b4a92-0fca-4e54-85c3-89df7456d8c7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_9bcca4a7c09480122eab",

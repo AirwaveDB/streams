@@ -1641,6 +1641,8 @@ https://stream.radiofrance.fr/franceculture/franceculture.m3u8
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose
 #EXTINF:-1 station-id="awb_931cee44f1a79c3a5319" stream-id="aws_af0363540d083a601190" codec="aac" bitrate="192",France culture 2
 https://icecast.radiofrance.fr/franceculture-hifi.aac
+#EXTINF:-1 station-id="awb_66755b55150cf80a13d5" stream-id="aws_dcad29977a8725e576b0" codec="aac" bitrate="192",France Culture officiel
+http://icecast.radiofrance.fr/franceculture-hifi.aac
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_bb585ef2d089c0632f89" codec="aac" bitrate="96",France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.aac
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_e62aed29dfc3446f21aa" codec="mp3" bitrate="128",France Info
@@ -3893,7 +3895,7 @@ https://ods-rock.ice.infomaniak.ch/ods-rock.mp3
 http://ecmanager.pro-fhi.net:1400/stream
 #EXTINF:-1 station-id="awb_f01094d95a8d8d276bb7" stream-id="aws_621fe7751c339aad80d3" codec="mp3" bitrate="320",Ola Radio
 https://ola-radio.radiocult.fm/stream
-#EXTINF:-1 station-id="awb_b81479c45bea22b4aeee" stream-id="aws_f8d99b86266e42364ec2" codec="aac" bitrate="98",Ondi Radio
+#EXTINF:-1 station-id="awb_b81479c45bea22b4aeee" stream-id="aws_f8d99b86266e42364ec2" codec="aac" bitrate="96",Ondi Radio
 https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617
 #EXTINF:-1 station-id="awb_f675ffc46b566097ada9" stream-id="aws_53acd4132f25320afb21" codec="mp3" bitrate="128",One Station
 https://stream.onestation.fr/128.mp3
@@ -4177,6 +4179,8 @@ https://sc3.gergosnet.com/puls00HD.mp3
 https://sc6.gergosnet.com:80/puls00AAC64.mp3
 #EXTINF:-1 station-id="awb_4edd8c3cd6a825420a95" stream-id="aws_083bd4eb5fc0bbac636a" codec="aac+" bitrate="64",PulsRadio 80's
 http://212.83.185.113/magicradioAAC64.mp3
+#EXTINF:-1 station-id="awb_e93126655a5e48b283b9" stream-id="aws_c3e8790e577cbf907077" codec="mp3" bitrate="192",PulsRadio 80s
+https://sc7.gergosnet.com/magicradioHD.mp3
 #EXTINF:-1 station-id="awb_4afeefafb330532d246e" stream-id="aws_a8a36712dbdde30b0a24" codec="mp3" bitrate="192",PulsRadio Club
 https://icecast.pulsradio.com/mxHD.mp3
 #EXTINF:-1 station-id="awb_ae3708b72a5352b800b2" stream-id="aws_56221fff4657103ad59d" codec="mp3" bitrate="192",Pulsradio Dance
@@ -4757,8 +4761,12 @@ http://icecast.infini.fr:8000/neptune
 https://radionetwork.freeboxos.fr/rnyf?type=http&src=direct
 #EXTINF:-1 station-id="awb_714943fe3c62911de7f0" stream-id="aws_25c0e993df13ec863c63" codec="mp3" bitrate="128",Radio New's FM
 https://live.aurafm.org/RadioNewsFM
+#EXTINF:-1 station-id="awb_da341e56fad40c4ddce6" stream-id="aws_981f034f2c0ebbea9015" codec="mp3" bitrate="128",Radio Nîmes
+https://stream.votreradiosurlenet.eu/radionimes.mp3
 #EXTINF:-1 station-id="awb_a99f076126b0676ca9bc" stream-id="aws_7f42d16d18590b08683c" codec="mp3" bitrate="128",Ràdio Nissa Pantai
 https://listen.radioking.com/radio/79270/stream/117373
+#EXTINF:-1 station-id="awb_c328ccf68cd0d9086b84" stream-id="aws_15757ee7393240984344" codec="mp3" bitrate="128",Radio Noel
+https://listen.radioking.com/radio/105919/stream/144850
 #EXTINF:-1 station-id="awb_9dd74bd5fa781372ee24" stream-id="aws_eb00f6d298a048b5cd86" codec="mp3" bitrate="128",Radio Nostalgie France
 https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm
 #EXTINF:-1 station-id="awb_b061efdd8169541d1033" stream-id="aws_c846afcdf110b9f037ad" codec="mp3" bitrate="192",Radio Notre Dame (lower bitrate)
@@ -4969,6 +4977,8 @@ http://srv1.coollabel-productions.com:8040/;
 http://diffusion.lafrap.fr:8000/sun.flac
 #EXTINF:-1 station-id="awb_606b7cc47da68636a0b2" stream-id="aws_f7eb0243a302958aa19d" codec="ogg" bitrate="0",Radio Superlarsen
 https://icecast.superlarsen.fr/main
+#EXTINF:-1 station-id="awb_e75132f0e840720361ce" stream-id="aws_76b738aa988d4d09dc83" codec="mp3" bitrate="128",RADIO SYNO
+https://radiosyno.fr/radio
 #EXTINF:-1 station-id="awb_b6e6534ca27f596bd033" stream-id="aws_a714baaa2c993e63b09f" codec="mp3" bitrate="128",Radio Tempête
 https://listen.radioking.com/radio/372772/stream/422929
 #EXTINF:-1 station-id="awb_9e52ec2557bb5eabf3d7" stream-id="aws_6173489b62c9966989ce" codec="mp3" bitrate="128",Radio Temps Rodez
@@ -5429,6 +5439,8 @@ https://hosting.studioradiomedia.fr:1750/stream
 http://str0.creacast.com/rve
 #EXTINF:-1 station-id="awb_71b061abc7efa4f63508" stream-id="aws_4e222f026954064bdde6" codec="mp3" bitrate="185",RVI 101.4 FM
 http://37.187.77.45:9105/xstream
+#EXTINF:-1 station-id="awb_ea8ace6bfcb8458d4834" stream-id="aws_d75380a1e0b6b3d51978" codec="mp3" bitrate="0",rvm
+http://stream.rcs.revma.com/pz66me32fchvv
 #EXTINF:-1 station-id="awb_ec54c80e514851e9a501" stream-id="aws_67fa5878f4145987a5f5" codec="aac" bitrate="160",RVR
 https://live.aurafm.org:7443/rvr-tarareplata
 #EXTINF:-1 station-id="awb_296c65469b6c8e653c79" stream-id="aws_95cad8d00b04705c4726" codec="mp3" bitrate="192",Salve Regina

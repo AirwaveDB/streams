@@ -2476,7 +2476,7 @@
       "fbe4d009-b421-4bbc-8bf2-ab410fc47542"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_69ca7b1ba24c8546ee73",
@@ -15818,6 +15818,25 @@
     "lastCheckedAt": "2026-10-22T06:14:38Z"
   },
   {
+    "id": "aws_dcad29977a8725e576b0",
+    "stationId": "awb_66755b55150cf80a13d5",
+    "name": "France Culture officiel",
+    "country": "FR",
+    "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a29adb63-a7a5-47e5-9952-22495ff8f55f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
+  },
+  {
     "id": "aws_bb585ef2d089c0632f89",
     "stationId": "awb_952ed15cf86fa2139f25",
     "name": "France Info",
@@ -17689,7 +17708,7 @@
       "1019e195-bd10-472f-8ccf-8b4660ca56ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_ca38b05c4f465e38759b",
@@ -17708,7 +17727,7 @@
       "15323f82-c670-425a-b88a-2ec43a9cbad6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_e1735990cc32c27cb60e",
@@ -17746,7 +17765,7 @@
       "1f4d18cf-5570-4ba7-bf69-59889d11c34e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_685f095227fd344f93fe",
@@ -17784,7 +17803,7 @@
       "d1c2f750-0993-458e-8f45-c64589cc2a3f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_eb890a37e3d5ce7d9da6",
@@ -17803,7 +17822,7 @@
       "193cfc54-6137-477c-a0b9-eb4a94696fb0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_c04a38cffb78c17ec61e",
@@ -25098,7 +25117,7 @@
       "54d05162-e97b-4a67-a33b-e3ab763013d0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_7166542c6ad383534a90",
@@ -37439,7 +37458,7 @@
       "fab746b6-db4c-4e01-bbd0-79b5b9e99905"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_1bdf326925f6ef146966",
@@ -37639,7 +37658,7 @@
     "country": "FR",
     "url": "https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617",
     "codec": "aac",
-    "bitrate": 98,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -37649,7 +37668,7 @@
       "9cc2a7c2-28c0-4070-a70f-1b235a18302e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_53acd4132f25320afb21",
@@ -38523,7 +38542,7 @@
       "fc636be8-03aa-42ac-a678-d36a80b5b972"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-24T21:43:15Z"
   },
   {
     "id": "aws_a99d2e3234d7af482bd8",
@@ -40385,6 +40404,25 @@
     "lastCheckedAt": "2026-10-22T13:03:11Z"
   },
   {
+    "id": "aws_c3e8790e577cbf907077",
+    "stationId": "awb_e93126655a5e48b283b9",
+    "name": "PulsRadio 80s",
+    "country": "FR",
+    "url": "https://sc7.gergosnet.com/magicradioHD.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "eb3b6c26-dbe6-44d4-a520-c6fafdd16555"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_a8a36712dbdde30b0a24",
     "stationId": "awb_4afeefafb330532d246e",
     "name": "PulsRadio Club",
@@ -41568,7 +41606,7 @@
       "4f30ac19-4a41-40cb-8999-2ca19b34711e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_98012608f88cd4bc8f2e",
@@ -43297,7 +43335,7 @@
       "534581ba-206d-4ed8-b64f-2197e7bb7d53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_35e458685335950a0973",
@@ -45128,7 +45166,7 @@
       "82018398-3e60-4792-9bd4-bc354e2526e6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T00:42:25Z"
   },
   {
     "id": "aws_0bea7b4ac204f202e683",
@@ -45938,6 +45976,25 @@
     "lastCheckedAt": "2026-10-22T05:35:17Z"
   },
   {
+    "id": "aws_981f034f2c0ebbea9015",
+    "stationId": "awb_da341e56fad40c4ddce6",
+    "name": "Radio Nîmes",
+    "country": "FR",
+    "url": "https://stream.votreradiosurlenet.eu/radionimes.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e40b0914-9f28-44d9-a159-12f56bf508d1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
+  },
+  {
     "id": "aws_7f42d16d18590b08683c",
     "stationId": "awb_a99f076126b0676ca9bc",
     "name": "Ràdio Nissa Pantai",
@@ -45955,6 +46012,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T23:55:54Z"
+  },
+  {
+    "id": "aws_15757ee7393240984344",
+    "stationId": "awb_c328ccf68cd0d9086b84",
+    "name": "Radio Noel",
+    "country": "FR",
+    "url": "https://listen.radioking.com/radio/105919/stream/144850",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bed6d302-a4a6-4bc0-ac71-4d101d29b326"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_eb00f6d298a048b5cd86",
@@ -47966,6 +48042,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T01:14:47Z"
+  },
+  {
+    "id": "aws_76b738aa988d4d09dc83",
+    "stationId": "awb_e75132f0e840720361ce",
+    "name": "RADIO SYNO",
+    "country": "FR",
+    "url": "https://radiosyno.fr/radio",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "55ff9071-33e4-4bfc-b88c-c789956534dc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T16:24:45Z"
   },
   {
     "id": "aws_a714baaa2c993e63b09f",
@@ -52377,6 +52472,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-21T22:15:41Z"
+  },
+  {
+    "id": "aws_d75380a1e0b6b3d51978",
+    "stationId": "awb_ea8ace6bfcb8458d4834",
+    "name": "rvm",
+    "country": "FR",
+    "url": "http://stream.rcs.revma.com/pz66me32fchvv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "749f7df2-82c0-49e2-81b4-d38d8ad2f705"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-24T21:06:17Z"
   },
   {
     "id": "aws_67fa5878f4145987a5f5",
