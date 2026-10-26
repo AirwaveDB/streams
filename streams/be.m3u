@@ -717,6 +717,8 @@ http://rcf.streamakaci.com/rcfliege.mp3
 http://rcf.streamakaci.com/rcfsudbe.mp3
 #EXTINF:-1 station-id="awb_fcecbe4b7e55ec7fd2bd" stream-id="aws_a866fb887c09fd90d2e4" codec="mp3" bitrate="192",Retro C-dance
 http://s45.myradiostream.com:18304/
+#EXTINF:-1 station-id="awb_83c4d279e0b353b2d3f3" stream-id="aws_d81906d65d67a0476ef5" codec="mp3" bitrate="192",RGR classic
+https://media1.hostin.cc/rgr-classic-hits.mp3
 #EXTINF:-1 station-id="awb_7db0dff0051d5d19004f" stream-id="aws_19648b26a6a8e51cb1e9" codec="mp3" bitrate="192",RGR Classic Hits
 https://stream1.rgrfm.be/
 #EXTINF:-1 station-id="awb_9fc518c992d1e86b1d03" stream-id="aws_6ce08cc487f8737f9a14" codec="mp3" bitrate="128",RGR FM 106.5Fm Heist op den Berg, Be
@@ -955,8 +957,12 @@ http://icecast.vrtcdn.be/stubru.aac
 http://icecast.vrtcdn.be/stubru_untz.aac
 #EXTINF:-1 station-id="awb_e1d4f4c2b53cf904b72d" stream-id="aws_a8bc812aa4c6db6da320" codec="aac" bitrate="0",VRT - Studio Brussel - Vuurland
 http://icecast.vrtcdn.be/stubru_tgs.aac
+#EXTINF:-1 station-id="awb_1aeb2a69d25e2db21647" stream-id="aws_e6f88986aa43b7edd4fb" codec="aac" bitrate="0",VRT Klara
+https://icecast.vrtcdn.be/klara.aac
 #EXTINF:-1 station-id="awb_4a97cbf03a3d4daed236" stream-id="aws_92ed77de51a341abf574" codec="mp3" bitrate="0",vrt klara high quality
 http://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1 station-id="awb_9c06c43fe1ce7e64fdd2" stream-id="aws_ae247ed889a2a4e93bee" codec="aac" bitrate="0",VRT MNM
+https://icecast.vrtcdn.be/mnm.aac
 #EXTINF:-1 station-id="awb_faf29f38eea9589515a4" stream-id="aws_6f9994e3b240e94a88d7" codec="aac" bitrate="0",VRT Nieuws
 http://icecast.vrtcdn.be/radio1.aac
 #EXTINF:-1 station-id="awb_9a5bca09e8aba7f32c4b" stream-id="aws_7ce067a382dd4cee83ea" codec="aac" bitrate="0",VRT NWS High Quality
@@ -997,6 +1003,8 @@ http://icecast.vrtcdn.be/radio2_unwind-high.mp3
 http://icecast.vrtcdn.be/ra2wvl-high.mp3
 #EXTINF:-1 station-id="awb_c378d7e0e030a15a9957" stream-id="aws_1a191cf06d2d138bfc1e" codec="aac" bitrate="0",VRT Radio Bene
 http://icecast.vrtcdn.be/radiobene.aac
+#EXTINF:-1 station-id="awb_4d7c1608bb82dd72d488" stream-id="aws_89acfb3bdf5719e2d40b" codec="aac" bitrate="0",VRT Studio Brussel
+https://icecast.vrtcdn.be/stubru.aac
 #EXTINF:-1 station-id="awb_cc5007a113f9476c0589" stream-id="aws_96d1cd9eba57fb587603" codec="mp3" bitrate="0",VRT Verkeer
 https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3
 #EXTINF:-1 station-id="awb_8736f4de923effaa5f01" stream-id="aws_9ff9c99564432a46d2b7" codec="mp3" bitrate="192",WabiSabi radio

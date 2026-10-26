@@ -131,7 +131,7 @@ http://icecast.vgtrk.cdnvideo.ru:8000/moscowfm128
 http://listen5.myradio24.com/97557
 #EXTINF:-1 station-id="awb_9178eb24b6c482d4bdbd" stream-id="aws_6df96c2b2ad9552425dc" codec="aac" bitrate="0",A State of Trance - Record
 https://radiorecord.hostingradio.ru/asot96.aacp
-#EXTINF:-1 station-id="awb_f0d0c6167cfe44241348" stream-id="aws_ddabf4dc0c299669abc8" codec="" bitrate="0",ABBA
+#EXTINF:-1 station-id="awb_f0d0c6167cfe44241348" stream-id="aws_ddabf4dc0c299669abc8" codec="aac" bitrate="0",ABBA
 https://stream.pcradio.ru/abba-hi
 #EXTINF:-1 station-id="awb_d28c375a848a17c1d28e" stream-id="aws_bac985c8309a0ab46d3e" codec="aac+" bitrate="64",ABBA Radio
 https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
@@ -317,6 +317,8 @@ http://79.120.77.11:8000/blues
 http://79.120.77.11:8000/blues
 #EXTINF:-1 station-id="awb_2a8d2a2037e901d58611" stream-id="aws_b618c475cc3b3a6c3224" codec="mp3" bitrate="128",Bolshoe Radio
 https://listen2.myradio24.com/8286
+#EXTINF:-1 station-id="awb_6f23f521470e70fc98cb" stream-id="aws_8134b3a676ec2c121aed" codec="aac" bitrate="0",Boney M
+https://stream.pcradio.ru/BoneyM-hi
 #EXTINF:-1 station-id="awb_f1a3a289fbee7ff4bc7b" stream-id="aws_3590989af4394e0f112c" codec="mp3" bitrate="128",Book out loud
 https://radio-soyuz.ru:1045/stream
 #EXTINF:-1 station-id="awb_f36ca8dc6132ad8730fe" stream-id="aws_901f548b6b0d46f803c2" codec="mp3" bitrate="128",Borneo
@@ -967,7 +969,7 @@ https://get-radio.sipout.ai/stream/chanson-instrumental.mp3
 https://get-radio.sipout.ai/stream/chanson-other.mp3
 #EXTINF:-1 station-id="awb_b74dfb3a62ea886c435a" stream-id="aws_c397b3161709da514c4b" codec="mp3" bitrate="0",get.radio — Шансон (Русский)
 https://get-radio.sipout.ai/stream/chanson-ru.mp3
-#EXTINF:-1 station-id="awb_5d4e90a5074c3afb7ab8" stream-id="aws_16debcd86431a4aaecc2" codec="" bitrate="0",get.radio — Эмбиент (Английский)
+#EXTINF:-1 station-id="awb_5d4e90a5074c3afb7ab8" stream-id="aws_16debcd86431a4aaecc2" codec="mp3" bitrate="0",get.radio — Эмбиент (Английский)
 https://get-radio.sipout.ai/stream/ambient-en.mp3
 #EXTINF:-1 station-id="awb_cb12b60eb39aec6785ca" stream-id="aws_cd53f45c0f4c809ffe56" codec="mp3" bitrate="0",get.radio — Эмбиент (Без вокала)
 https://get-radio.sipout.ai/stream/ambient-instrumental.mp3
@@ -3955,6 +3957,8 @@ http://vm2083793.42ssd.had.wf:8000/online
 http://online.radioinfiniti.ru:8000/radio_stream.mp3
 #EXTINF:-1 station-id="awb_459496ed5c7e842c7430" stream-id="aws_cceeeec040efa4342597" codec="aac" bitrate="0",Ирина Аллегрова
 https://stream03.pcradio.app/irina_allegrova-hi
+#EXTINF:-1 station-id="awb_6954bcb3463e153651b5" stream-id="aws_b562c25293ef95150c2b" codec="aac" bitrate="0",Ирина Круг
+https://stream03.pcradio.app/irina_krug-hi
 #EXTINF:-1 station-id="awb_618048d4882e00cd948f" stream-id="aws_f9dbae8b9c35b95bd2ae" codec="mp3" bitrate="128",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 station-id="awb_813463c5ee94413ddd82" stream-id="aws_61d2ac1ec22a427c5ecd" codec="mp3" bitrate="128",Истина Сегодня
@@ -5243,7 +5247,7 @@ https://rufm.amgradio.ru/rufm
 https://rr-covers.hostingradio.ru/rrcovers96.aacp
 #EXTINF:-1 station-id="awb_844b4f37bf95c3c183a3" stream-id="aws_bc5c308d6255842691a4" codec="mp3" bitrate="128",Русские песни Rusongs.ru
 https://listen.rusongs.ru/ru-mp3-128
-#EXTINF:-1 station-id="awb_edbc690a3306fa05b76d" stream-id="aws_11bd81b6b9a007d8fcf1" codec="" bitrate="0",Русский Драйв FM
+#EXTINF:-1 station-id="awb_edbc690a3306fa05b76d" stream-id="aws_11bd81b6b9a007d8fcf1" codec="mp3" bitrate="128",Русский Драйв FM
 https://rusdriveradio.ru:8000/live_aac64
 #EXTINF:-1 station-id="awb_545a036cb96f22c8f227" stream-id="aws_cd09c7e3d42c817995c4" codec="aac" bitrate="0",Русский микс
 https://radiorecord.hostingradio.ru/rus96.aacp

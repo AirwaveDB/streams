@@ -421,7 +421,7 @@
       "1e3bed93-a6a3-454d-b8ab-fead7d526812"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_d6152e516fe6a3785ff1",
@@ -639,6 +639,25 @@
     "lastCheckedAt": "2026-10-24T21:06:17Z"
   },
   {
+    "id": "aws_b26ee2a4b36bb6677007",
+    "stationId": "awb_f41994dbce8c47e6bd90",
+    "name": "Cave FM Southland",
+    "country": "NZ",
+    "url": "https://stream.velocitynet.co.nz:8000/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "569ce1ba-8304-49b3-9842-18332d36780f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T00:04:52Z"
+  },
+  {
     "id": "aws_a1d3b00ba7387f61a4b3",
     "stationId": "awb_dd07445e1e13ac89f53a",
     "name": "CFM Coromandel",
@@ -700,6 +719,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T20:05:08Z"
+  },
+  {
+    "id": "aws_dd725230ee428fc1f221",
+    "stationId": "awb_d7ce671fe92a32e3b03a",
+    "name": "Choice FM Otematata",
+    "country": "NZ",
+    "url": "https://stream-15.aiir.com/oa48kzux9mmuv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dfcaad65-a6bb-4f64-b55e-a8150a089ae3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T00:27:24Z"
   },
   {
     "id": "aws_85eb9b21d3ee4b56dcdd",
@@ -2942,6 +2980,25 @@
     "lastCheckedAt": "2026-10-22T04:13:29Z"
   },
   {
+    "id": "aws_bb310819ecb8d295c8fc",
+    "stationId": "awb_3595c8fb776de41dc57c",
+    "name": "Radio Southland",
+    "country": "NZ",
+    "url": "https://live.accessmedia.nz/Southland.stream/chunklist_w1501837953.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6d1d0246-6c5e-4f00-ae57-3f483bd82e98"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_f309fdd91283861d820b",
     "stationId": "awb_7cae41faa2b189eee20e",
     "name": "Radio Spice (Auckland, New Zealand)",
@@ -2999,6 +3056,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T20:50:04Z"
+  },
+  {
+    "id": "aws_4e03ed119cde5e7d6aa7",
+    "stationId": "awb_f074dfd734840b96be2b",
+    "name": "Radio Wanaka",
+    "country": "NZ",
+    "url": "https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7ec7a4c5-29d0-4c37-9e81-eb1d159092e7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T08:16:01Z"
   },
   {
     "id": "aws_9994b14dbf053241179a",
@@ -3220,6 +3296,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T08:50:38Z"
+  },
+  {
+    "id": "aws_26f36f820146fd4bb5be",
+    "stationId": "awb_4e4aab017f72176acccb",
+    "name": "Real Radio Oamaru",
+    "country": "NZ",
+    "url": "https://stream4.themediasite.co.uk:8016/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "83f06d97-7528-43ba-a992-170a1401b863"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T00:04:52Z"
   },
   {
     "id": "aws_d11530d608957fb70daf",
@@ -3899,6 +3994,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T23:31:38Z"
+  },
+  {
+    "id": "aws_dddefe10218204ed841e",
+    "stationId": "awb_1ad36ebd1a4a07b719e8",
+    "name": "The Hawk NZ",
+    "country": "NZ",
+    "url": "https://cast5.asurahosting.com/proxy/thehawkf/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9c0a69e6-c2be-47b8-bd25-818b6227f49b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T00:27:24Z"
   },
   {
     "id": "aws_083b92207bdbf4418bfd",

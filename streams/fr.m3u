@@ -231,21 +231,21 @@ https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 https://webradio1.ice.infomaniak.ch/webradio4-128.mp3
 #EXTINF:-1 station-id="awb_059642375036eac62e59" stream-id="aws_6b1cd8c1b0cd486ec901" codec="mp3" bitrate="128",Africa Radio Selecta Webradio
 https://webradio6.ice.infomaniak.ch/webradio6-128.mp3
-#EXTINF:-1 station-id="awb_7250e6cff211fb44f7ff" stream-id="aws_454fdce69f71753c3a1e" codec="mp3" bitrate="128",AfriOnde
+#EXTINF:-1 station-id="awb_7250e6cff211fb44f7ff" stream-id="aws_454fdce69f71753c3a1e" codec="mp3" bitrate="0",AfriOnde
 https://live.afrionde.fr/afrionde1
-#EXTINF:-1 station-id="awb_188fa7bad855d607b11f" stream-id="aws_8567fa869b138cf124d7" codec="mp3" bitrate="192",AfriOnde Abidjan
+#EXTINF:-1 station-id="awb_188fa7bad855d607b11f" stream-id="aws_8567fa869b138cf124d7" codec="mp3" bitrate="0",AfriOnde Abidjan
 https://live.afrionde.fr/afrionde4
-#EXTINF:-1 station-id="awb_04ad7bc9662e5248ffc5" stream-id="aws_a2babe6aeb940584f959" codec="mp3" bitrate="192",AfriOnde Afrobeat
+#EXTINF:-1 station-id="awb_04ad7bc9662e5248ffc5" stream-id="aws_a2babe6aeb940584f959" codec="mp3" bitrate="0",AfriOnde Afrobeat
 https://live.afrionde.fr/afrionde8
-#EXTINF:-1 station-id="awb_83924ddf96edb300e0f5" stream-id="aws_6f6a8e9fb4143c1c99de" codec="mp3" bitrate="192",AfriOnde cefran
+#EXTINF:-1 station-id="awb_83924ddf96edb300e0f5" stream-id="aws_6f6a8e9fb4143c1c99de" codec="mp3" bitrate="128",AfriOnde cefran
 https://live.afrionde.fr/afrionde2
-#EXTINF:-1 station-id="awb_fe99bb3776e2de4afe44" stream-id="aws_7e4f45a5188e4adc2b62" codec="mp3" bitrate="128",AfriOnde classic
+#EXTINF:-1 station-id="awb_fe99bb3776e2de4afe44" stream-id="aws_7e4f45a5188e4adc2b62" codec="mp3" bitrate="0",AfriOnde classic
 https://live.afrionde.fr/afrionde10
 #EXTINF:-1 station-id="awb_a7f7518bc567e37109d4" stream-id="aws_fa4a74dbaef6ca7111a6" codec="mp3" bitrate="192",AfriOnde Conakry
 https://live.afrionde.fr/afrionde5
-#EXTINF:-1 station-id="awb_3eac7ec20c5516bf4bfd" stream-id="aws_e709557c020bcbd9a7c2" codec="mp3" bitrate="192",AfriOnde Dakar
+#EXTINF:-1 station-id="awb_3eac7ec20c5516bf4bfd" stream-id="aws_e709557c020bcbd9a7c2" codec="mp3" bitrate="128",AfriOnde Dakar
 https://live.afrionde.fr/afrionde6
-#EXTINF:-1 station-id="awb_a47eefae9dcf7d243c41" stream-id="aws_d764779d0552cdf2f4f1" codec="mp3" bitrate="192",AfriOnde Maghreb
+#EXTINF:-1 station-id="awb_a47eefae9dcf7d243c41" stream-id="aws_d764779d0552cdf2f4f1" codec="mp3" bitrate="128",AfriOnde Maghreb
 https://live.afrionde.fr/afrionde9
 #EXTINF:-1 station-id="awb_2b46d5d73f52d4f00905" stream-id="aws_84bee1dcbd70ef3b465b" codec="mp3" bitrate="192",AfriOnde USA
 https://live.afrionde.fr/afrionde3
@@ -699,6 +699,8 @@ http://stream.chantefrance.com/cf-nouveautes.aac
 https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-128.mp3
 #EXTINF:-1 station-id="awb_66481665c68e9df085c2" stream-id="aws_e32c7c24b6c8c6d69375" codec="mp3" bitrate="320",Chaos Radio
 http://5.135.177.61:8000/;stream/1
+#EXTINF:-1 station-id="awb_66481665c68e9df085c2" stream-id="aws_5d4bf489edea03ab0d55" codec="mp3" bitrate="128",Chaos Radio
+https://chaos-radio.fr/stream/128
 #EXTINF:-1 station-id="awb_db3196f3d03abed7cd41" stream-id="aws_cbe0a07fbde0b24839b3" codec="mp3" bitrate="128",Chérie FM
 https://cdnradio.streamakaci.com/cheriefm1.mp3
 #EXTINF:-1 station-id="awb_2d1de4cec597d8b6ecac" stream-id="aws_062f1bc09855ec937fbb" codec="mp3" bitrate="128",Chérie FM 2000
@@ -1887,7 +1889,7 @@ http://ice.stream.frequence3.net/frequence3-256.mp3
 http://rod.frequence3.net/frequence3.flac
 #EXTINF:-1 station-id="awb_1843a12d2208a6b13e99" stream-id="aws_0a97ef980ee01af363b3" codec="mp3" bitrate="128",Friendly Radio
 https://listen.radioking.com/radio/6014/stream/14771
-#EXTINF:-1 station-id="awb_355d63504a89d0813fad" stream-id="aws_791aa15fdc7754c5cbb5" codec="mp3" bitrate="320",Fun Hits
+#EXTINF:-1 station-id="awb_355d63504a89d0813fad" stream-id="aws_791aa15fdc7754c5cbb5" codec="mp3" bitrate="192",Fun Hits
 https://radio5.pro-fhi.net/radio/9050/stream.mp3
 #EXTINF:-1 station-id="awb_c4f5d9217d167d5ca168" stream-id="aws_29efd11b9234810577e2" codec="mp3" bitrate="128",FUN Radio
 http://icecast.funradio.fr/fun-1-44-128
@@ -2087,7 +2089,7 @@ http://82.64.164.43:8000/stream
 http://here4ears.ddns.net/
 #EXTINF:-1 station-id="awb_64930a1560b6e4083230" stream-id="aws_332454ade2968bef8a78" codec="mp3" bitrate="128",Heroes style
 https://listen.radioking.com/radio/869771/stream/939766
-#EXTINF:-1 station-id="awb_95c23f1b586c00b9f338" stream-id="aws_f06ba8af08dfcd055053" codec="mp3" bitrate="192",Hit AfriOnde
+#EXTINF:-1 station-id="awb_95c23f1b586c00b9f338" stream-id="aws_f06ba8af08dfcd055053" codec="mp3" bitrate="128",Hit AfriOnde
 https://live.afrionde.fr/afrionde7
 #EXTINF:-1 station-id="awb_386f86304a32f884fa9c" stream-id="aws_6b438f95f219811970ef" codec="mp3" bitrate="256",Hit Radio FR
 https://elder.radioca.st/stream
@@ -3061,6 +3063,8 @@ https://stream.rcs.revma.com/rvwymh32w42vv
 http://listen.radioking.com/radio/66448/stream/104095
 #EXTINF:-1 station-id="awb_d50e4f007b5b034f70b9" stream-id="aws_9fa69a8d88c29fc7ed71" codec="mp3" bitrate="128",Meuse FM Verdun
 http://www.radioking.com/play/meuse-fm-verdun
+#EXTINF:-1 station-id="awb_453119288bf375423bcd" stream-id="aws_53755f60833b46649760" codec="aac" bitrate="4880",Mezzo live
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 station-id="awb_370d991a95e22e378fd1" stream-id="aws_5cbb452b8b9506d6c249" codec="mp3" bitrate="128",mfm nouvelle scène
 http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
 #EXTINF:-1 station-id="awb_fdf5dc006d61f1e54944" stream-id="aws_00435965efca714b8ee0" codec="mp3" bitrate="192",Micro-Rebelles
@@ -5739,6 +5743,8 @@ http://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
 https://urbanhitus.ice.infomaniak.ch/urbanhitus-128.mp3
 #EXTINF:-1 station-id="awb_f6fa3f6cf2fc5753afb1" stream-id="aws_8091c7ce172c46d76103" codec="mp3" bitrate="128",Urban Hit rap FR
 https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1 station-id="awb_62965c030f496b9075d9" stream-id="aws_46a4b72cc247ccb6d813" codec="mp3" bitrate="0",Valise Radio
+https://hq3.yesstreaming.net/valise/stream
 #EXTINF:-1 station-id="awb_62965c030f496b9075d9" stream-id="aws_c8e0e9dc8fd225c11703" codec="mp3" bitrate="0",Valise Radio
 https://live.valiseradio.com:7340/stream
 #EXTINF:-1 station-id="awb_da24bfd615c55f0355d9" stream-id="aws_de1ebd1621172da54c5f" codec="mp3" bitrate="128",vanavilFM Tamil
@@ -5935,6 +5941,8 @@ https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
 https://www.radioking.com/play/radio-yiddish-pour-tous
 #EXTINF:-1 station-id="awb_3002b2b70c2f9481b67e" stream-id="aws_66cd666a900c0d4b078d" codec="mp3" bitrate="128",Yoga Chill
 http://178.32.111.41:8027/stream-128kmp3-YogaChill
+#EXTINF:-1 station-id="awb_1244beed826d7897fbae" stream-id="aws_12ea8de347ae78d7deb2" codec="mp3" bitrate="128",Yoga Chill on Vip-Radios.fm
+https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill
 #EXTINF:-1 station-id="awb_0bc816ce85f8b4605131" stream-id="aws_2fde58e9b9962f2844f6" codec="mp3" bitrate="320",YouRadio
 https://stream.youradio.fr/youradio-hd
 #EXTINF:-1 station-id="awb_da530574890febf26e63" stream-id="aws_9b5ee69ba084b28a43ac" codec="mp3" bitrate="256",Yumi Co. Radio

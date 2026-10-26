@@ -1295,6 +1295,25 @@
     "lastCheckedAt": "2026-10-22T01:13:54Z"
   },
   {
+    "id": "aws_5220ad380500f8c15a63",
+    "stationId": "awb_c51158f599398adb6cfe",
+    "name": "Conexión X",
+    "country": "CL",
+    "url": "https://video.mediawebchile.com:8116/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "86d70b67-a9bc-4c0c-8b41-dfcaf5415d90"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
+  },
+  {
     "id": "aws_9dca394bbcd6ea216dc9",
     "stationId": "awb_329717aca0f0c9e8674e",
     "name": "congreso",
@@ -9937,6 +9956,25 @@
     "lastCheckedAt": "2026-10-22T13:57:05Z"
   },
   {
+    "id": "aws_6c185b7b722f05d032bd",
+    "stationId": "awb_111b97d70da42a114f79",
+    "name": "Ritmo en Frecuencia",
+    "country": "CL",
+    "url": "https://stream.zeno.fm/9chucgdsqp8uv",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9b1507c9-05b4-406d-89b5-9ee07f279f32"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_dab169c4999b43c999ed",
     "stationId": "awb_6dac017fe81c8ed314b0",
     "name": "Ritmo FM",
@@ -10284,7 +10322,7 @@
       "2e781f03-dd07-4ae3-bf4d-d085a39df37c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_e62534838e1c4861fea0",

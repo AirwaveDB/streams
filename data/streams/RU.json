@@ -1275,7 +1275,7 @@
     "name": "ABBA",
     "country": "RU",
     "url": "https://stream.pcradio.ru/abba-hi",
-    "codec": null,
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -1286,7 +1286,7 @@
       "8ef7c364-430d-4d09-b9ef-66e8c2d3b803"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_bac985c8309a0ab46d3e",
@@ -3047,6 +3047,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-21T23:57:41Z"
+  },
+  {
+    "id": "aws_8134b3a676ec2c121aed",
+    "stationId": "awb_6f23f521470e70fc98cb",
+    "name": "Boney M",
+    "country": "RU",
+    "url": "https://stream.pcradio.ru/BoneyM-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3e659515-6538-4abf-bebe-75e2b83f0586"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T15:32:00Z"
   },
   {
     "id": "aws_3590989af4394e0f112c",
@@ -6898,7 +6917,7 @@
       "2971c931-080c-4dd3-9de4-9e1daf4e6866"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_99b45f856597aa50d458",
@@ -9307,7 +9326,7 @@
     "name": "get.radio — Эмбиент (Английский)",
     "country": "RU",
     "url": "https://get-radio.sipout.ai/stream/ambient-en.mp3",
-    "codec": null,
+    "codec": "mp3",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
@@ -9318,7 +9337,7 @@
       "8aebdc29-11c8-4594-bca3-62eda263761d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_cd53f45c0f4c809ffe56",
@@ -25818,7 +25837,7 @@
       "bfeba9c3-57c7-432f-9a6e-855178eac33e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-21T17:04:50Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_2c0a1e41677a23673479",
@@ -27273,7 +27292,7 @@
       "5dac411c-0b06-4e55-9ce1-49150a93b46d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T04:38:58Z"
+    "lastCheckedAt": "2026-10-26T00:04:52Z"
   },
   {
     "id": "aws_472ccbc6abc932a0d243",
@@ -32815,7 +32834,7 @@
       "22663671-98af-49cf-87c8-17b1b59f4666"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T18:48:01Z"
+    "lastCheckedAt": "2026-10-25T20:47:44Z"
   },
   {
     "id": "aws_6184bee8fc0d69641783",
@@ -37895,6 +37914,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-22T15:16:32Z"
+  },
+  {
+    "id": "aws_b562c25293ef95150c2b",
+    "stationId": "awb_6954bcb3463e153651b5",
+    "name": "Ирина Круг",
+    "country": "RU",
+    "url": "https://stream03.pcradio.app/irina_krug-hi",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d9d1fdbb-20e2-4be5-b858-4564d48cb87e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T15:32:00Z"
   },
   {
     "id": "aws_f9dbae8b9c35b95bd2ae",
@@ -43125,7 +43163,7 @@
       "8b2d2af5-9dc2-4818-86c1-30bcf7bea400"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_721cf923e7b7b4fe512d",
@@ -43202,7 +43240,7 @@
       "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_720be8a77206f1d4a79a",
@@ -50232,8 +50270,8 @@
     "name": "Русский Драйв FM",
     "country": "RU",
     "url": "https://rusdriveradio.ru:8000/live_aac64",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -50243,7 +50281,7 @@
       "4e6a73d8-540a-4071-9fe0-6ad43465109b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-25T15:32:00Z"
   },
   {
     "id": "aws_cd09c7e3d42c817995c4",

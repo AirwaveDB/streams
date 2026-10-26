@@ -367,7 +367,7 @@ http://ls.qingting.fm/live/839.m3u8
 http://lhttp.qingting.fm/live/20077/64k.mp3
 #EXTINF:-1 station-id="awb_17d700fedaa24e824d5d" stream-id="aws_523aebad63245d29c203" codec="unknown" bitrate="0",Harbin Traffic Radio
 http://ls.qingting.fm/live/838.m3u8
-#EXTINF:-1 station-id="awb_a48a6be42848a0baa362" stream-id="aws_3c450996e8c13c633655" codec="" bitrate="0",HardBestFM
+#EXTINF:-1 station-id="awb_a48a6be42848a0baa362" stream-id="aws_3c450996e8c13c633655" codec="mp3" bitrate="192",HardBestFM
 https://fm.hardbest.cn/listen/hardstyle/radio.mp3
 #EXTINF:-1 station-id="awb_551848f1940a0a1d6286" stream-id="aws_8375a22f4083bab670dd" codec="mp3" bitrate="128",haxnbauer Radio
 https://stream.zeno.fm/zlomctwllyxvv
@@ -3017,6 +3017,8 @@ https://lhttp.qingting.fm/live/20805/64k.mp3
 https://lhttp-hw.qtfm.cn/live/5022557/64k.mp3
 #EXTINF:-1 station-id="awb_758fafee9931073a52d1" stream-id="aws_d1c7f59b9cb634b76442" codec="unknown" bitrate="0",爱上海 LIVE 24
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 station-id="awb_042f073b757dc9861e39" stream-id="aws_4ae741881bfc3a683b21" codec="" bitrate="0",爵士乐
+https://ec3.yesstreaming.net:3455/stream
 #EXTINF:-1 station-id="awb_61678bdefe4243c903e6" stream-id="aws_fdca4719461cb2aeec6c" codec="mp3" bitrate="0",牟平广播电视台
 https://lhttp.qtfm.cn/live/5022382/64k.mp3
 #EXTINF:-1 station-id="awb_3910ee96a740e9a86908" stream-id="aws_b781578dd9c57e526356" codec="mp3" bitrate="0",牡丹之声

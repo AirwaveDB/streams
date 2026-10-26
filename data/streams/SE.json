@@ -3704,6 +3704,25 @@
     "lastCheckedAt": "2026-10-22T18:02:15Z"
   },
   {
+    "id": "aws_73524c45785238c4fd86",
+    "stationId": "awb_7a519b934e922545d8a6",
+    "name": "SR P2 (128k HLS)",
+    "country": "SE",
+    "url": "https://ljud2-cdn.sr.se/lc/p2/p2_128.pls",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "43fa8d16-e0c1-43ef-aca0-d8da5a0e1d73"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T20:47:44Z"
+  },
+  {
     "id": "aws_d0ad16dc29b4a256ac2e",
     "stationId": "awb_42d601942cd0038b100a",
     "name": "SR P4 Jönköping",
@@ -4574,7 +4593,7 @@
       "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:29:55Z"
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_2706f6b526197d2fa82b",
@@ -4865,7 +4884,7 @@
     "country": "SE",
     "url": "https://live1.sr.se/p4vrml-mp3-96",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -4875,7 +4894,7 @@
       "ac126472-b670-4f55-8fb4-4b3a16a00bc5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_eb04db3c1a4599c631e6",

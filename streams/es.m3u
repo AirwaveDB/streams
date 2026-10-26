@@ -1867,6 +1867,8 @@ https://crtvg-radiogalega-hls.flumotion.cloud/chunklist.m3u8
 https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 station-id="awb_8ad02057bfcff4005d97" stream-id="aws_536b49297df426be18e0" codec="aac" bitrate="192",Radio Galega Música
 https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 station-id="awb_b2f50bff1cb2000ccdfc" stream-id="aws_30e65e704c0992ece91a" codec="mp3" bitrate="128",Ràdio Gallinera
+https://radiobot.radioslibres.info/listen/radio_gallinera/radio.mp3
 #EXTINF:-1 station-id="awb_06ad837b9529eb30242b" stream-id="aws_f8588632dca91d858611" codec="mp3" bitrate="128",Ràdio Gavà
 https://enacast.com/radiogava/streams/SD
 #EXTINF:-1 station-id="awb_6aac80c9ac03427579eb" stream-id="aws_45ae4495ced70d4f6183" codec="mp3" bitrate="192",Radio Genil
@@ -2309,6 +2311,8 @@ http://live.radiovoz.es/mp3/stream_vigo.mp3
 https://radixu.info/zuzenean/radixu-live-128
 #EXTINF:-1 station-id="awb_e5a3295cfeb1ea1c4267" stream-id="aws_38e6fb00a2524d944b21" codec="mp3" bitrate="96",RAP 107
 http://relay.stream.enacast-cloud.com:30048/rap56.mp3
+#EXTINF:-1 station-id="awb_4a2a5ccdcc2c0e35d535" stream-id="aws_3cb07c5f65682d4f903d" codec="mp3" bitrate="0",Remember 90s By RamperDjs
+https://radio.ramperdjs.com/stream
 #EXTINF:-1 station-id="awb_6eed06b5ea0546943787" stream-id="aws_086116cf07a2605e2333" codec="mp3" bitrate="192",Remember Radio
 https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB
 #EXTINF:-1 station-id="awb_1f2bd6a5fa35d6d67f9a" stream-id="aws_6c0884acc61bcbc25e9c" codec="mp3" bitrate="192",Remember Ràdio Joventut
@@ -2583,8 +2587,6 @@ http://centauri.shoutca.st:8300/stream
 http://stvt.dynu.net:7008/directo
 #EXTINF:-1 station-id="awb_12fc21cbe9736187b912" stream-id="aws_a974103d0516cd870935" codec="mp3" bitrate="128",Top Cantabria FM
 https://live.topcantabriafm.com/listen/top_cantabria_fm_radio/live
-#EXTINF:-1 station-id="awb_fb9812bead1c7ed24447" stream-id="aws_afdf4b855b514ba4b951" codec="" bitrate="0",topor
-https://needle-hold-first-theory.trycloudflare.com/stream
 #EXTINF:-1 station-id="awb_8321d13fb4081ba6452a" stream-id="aws_55ea9429c2d18e0ec985" codec="mp3" bitrate="128",Tormes FM
 https://str1.mediatelekom.net/proxy/tormesfm/stream
 #EXTINF:-1 station-id="awb_197039de2765c6015cc5" stream-id="aws_c295c054022ba5075b71" codec="mp3" bitrate="160",TotRàdio

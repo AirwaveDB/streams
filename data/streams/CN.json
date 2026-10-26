@@ -1925,7 +1925,7 @@
       "f050220b-ac6d-43a7-8a0e-06e76e0cc6c6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_db1f374b227f87b1d363",
@@ -1982,7 +1982,7 @@
       "9242b993-efbb-497b-8a82-66d3cda3827c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T18:48:01Z"
+    "lastCheckedAt": "2026-10-25T20:47:44Z"
   },
   {
     "id": "aws_a688254da1c446cbae6a",
@@ -3556,8 +3556,8 @@
     "name": "HardBestFM",
     "country": "CN",
     "url": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -3567,7 +3567,7 @@
       "afc77bb3-6aa1-44d3-9284-950dd806f435"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_8375a22f4083bab670dd",
@@ -13054,7 +13054,7 @@
       "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T15:25:29Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_c8fa6df322d0071dac7e",
@@ -28955,6 +28955,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-23T00:54:39Z"
+  },
+  {
+    "id": "aws_4ae741881bfc3a683b21",
+    "stationId": "awb_042f073b757dc9861e39",
+    "name": "爵士乐",
+    "country": "CN",
+    "url": "https://ec3.yesstreaming.net:3455/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3fa9f0d8-1cd1-4bc3-9492-50e949d41baa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_fdca4719461cb2aeec6c",

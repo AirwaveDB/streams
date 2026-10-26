@@ -7129,7 +7129,7 @@
       "d9081f9a-2850-41db-b9b0-688307873b08"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T18:48:01Z"
+    "lastCheckedAt": "2026-10-25T23:13:21Z"
   },
   {
     "id": "aws_46e85edfce6e4b76589e",
@@ -9138,7 +9138,7 @@
       "2c761131-18cf-48b2-bc2e-a06d45385612"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T18:48:01Z"
+    "lastCheckedAt": "2026-10-25T20:47:44Z"
   },
   {
     "id": "aws_2020f0be3487276d46ae",
@@ -10349,7 +10349,7 @@
       "a3d44b25-c17b-4ee1-bb2c-99bbc033f9f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_e53ba6b8b7dfbce28c9f",
@@ -10753,7 +10753,7 @@
       "393a9ef1-2ec8-4f41-8574-cc43503f3c9b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_43c2bfea6a3b6f2d49c2",
@@ -14394,7 +14394,7 @@
       "d572e273-574b-4234-9ef3-86337b3fa31c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T22:36:25Z"
+    "lastCheckedAt": "2026-10-25T23:13:21Z"
   },
   {
     "id": "aws_28c0993df4002f099a17",
@@ -15741,7 +15741,7 @@
       "f20aff23-889e-4090-bcb4-30891566fc7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-19T21:24:16Z"
+    "lastCheckedAt": "2026-10-25T15:32:00Z"
   },
   {
     "id": "aws_911879dbf0e3639720e1",
@@ -17245,7 +17245,7 @@
       "822e3749-9b24-4a2e-8eb0-574483cf947a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T00:21:03Z"
+    "lastCheckedAt": "2026-10-25T15:31:59Z"
   },
   {
     "id": "aws_3f1572a6d5add30fb52d",
@@ -18017,6 +18017,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-21T22:58:53Z"
+  },
+  {
+    "id": "aws_30e65e704c0992ece91a",
+    "stationId": "awb_b2f50bff1cb2000ccdfc",
+    "name": "Ràdio Gallinera",
+    "country": "ES",
+    "url": "https://radiobot.radioslibres.info/listen/radio_gallinera/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6c8741ca-79d5-4054-be26-5dc1c3bac273"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-26T00:04:52Z"
   },
   {
     "id": "aws_f8588632dca91d858611",
@@ -22264,6 +22283,25 @@
     "lastCheckedAt": "2026-10-22T17:56:19Z"
   },
   {
+    "id": "aws_3cb07c5f65682d4f903d",
+    "stationId": "awb_4a2a5ccdcc2c0e35d535",
+    "name": "Remember 90s By RamperDjs",
+    "country": "ES",
+    "url": "https://radio.ramperdjs.com/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d19f2b75-f378-4b0c-93bd-0620420302e1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-25T15:32:00Z"
+  },
+  {
     "id": "aws_086116cf07a2605e2333",
     "stationId": "awb_6eed06b5ea0546943787",
     "name": "Remember Radio",
@@ -23627,7 +23665,7 @@
       "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-20T22:36:25Z"
+    "lastCheckedAt": "2026-10-26T00:04:52Z"
   },
   {
     "id": "aws_3cf80aa1585400b73d2f",
@@ -24898,25 +24936,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-25T00:42:25Z"
-  },
-  {
-    "id": "aws_afdf4b855b514ba4b951",
-    "stationId": "awb_fb9812bead1c7ed24447",
-    "name": "topor",
-    "country": "ES",
-    "url": "https://needle-hold-first-theory.trycloudflare.com/stream",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b1466901-dfc1-4c11-b418-a019c5390a6c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_55ea9429c2d18e0ec985",
