@@ -169,7 +169,7 @@ http://play.global.audio/energy-90s.aac
 http://play.global.audio/energy-90s.ogg
 #EXTINF:-1 station-id="awb_ea55fd895037dca643c0" stream-id="aws_b48b0b2b97c8d52c38ff" codec="mp3" bitrate="128",Eternal Radio
 http://79.98.108.170:8217/stream
-#EXTINF:-1 station-id="awb_288fa1dfe0d809382d8c" stream-id="aws_672678ec54be06230945" codec="aac+" bitrate="192",ExtraHIT Folk
+#EXTINF:-1 station-id="awb_288fa1dfe0d809382d8c" stream-id="aws_672678ec54be06230945" codec="ogg" bitrate="0",ExtraHIT Folk
 https://extrahitfolk.com:8080/aac
 #EXTINF:-1 station-id="awb_91e390d32f6a40a779dc" stream-id="aws_70f1652f79e37211f0d1" codec="mp3" bitrate="128",Extreme Deep House
 http://whsh4u-panel.com:14113/stream
@@ -189,15 +189,13 @@ http://78.83.177.106:8000/;
 http://listen.folkbg.net:8002/folkbg
 #EXTINF:-1 station-id="awb_74f4c611c3d59538265f" stream-id="aws_e84c604042dc40602dda" codec="mp3" bitrate="128",FolkBG Player 2
 http://folkbg.ombadmin.com:8001/folkbg
-#EXTINF:-1 station-id="awb_a19b49f45f94379651a4" stream-id="aws_52b306e4d5d0375fcb29" codec="mp3" bitrate="0",folklor.fm
-http://91.227.77.124/folklorfm
 #EXTINF:-1 station-id="awb_00cae7ae4a24ce8f1075" stream-id="aws_ce4cc161cc1377d42ca9" codec="mp3" bitrate="128",Fred Film Radio(Български език)
 https://s10.webradio-hosting.com/proxy/fredradiobg/stream
 #EXTINF:-1 station-id="awb_f04d1037e4b41d8c9fc3" stream-id="aws_a47cfd065e3621eefb8a" codec="mp3" bitrate="128",Fresh Bulgaria
 http://31.13.223.148:8000/fresh.mp3
 #EXTINF:-1 station-id="awb_6679032d4d8b01f75932" stream-id="aws_8bd85e6341096bd7224a" codec="mp3" bitrate="128",Fresh!
 http://193.108.24.21:8000/fresh
-#EXTINF:-1 station-id="awb_9841b07bcdd5fc683bf7" stream-id="aws_98b7fe94168404c0d635" codec="ogg" bitrate="128",Fusion 7
+#EXTINF:-1 station-id="awb_9841b07bcdd5fc683bf7" stream-id="aws_98b7fe94168404c0d635" codec="mp3" bitrate="192",Fusion 7
 https://radio.palamarka.com/listen/fusion7/radio.mp3
 #EXTINF:-1 station-id="awb_602af5a9dcabd91616e2" stream-id="aws_8a799d0ea8e77bd0e13e" codec="ogg" bitrate="192",Fusion7
 https://radio.palamarka.com/listen/fusion7/radio.mp3
@@ -365,7 +363,7 @@ https://online.radiobella.com/listen/radio.bella/radio.mp3
 http://live.radiobg.co.uk:8000/live
 #EXTINF:-1 station-id="awb_ea974d7232889cdf5450" stream-id="aws_eab75b60c5a88d340227" codec="mp3" bitrate="128",RADIO BGRADIO
 https://play.global.audio/bgradio128
-#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="64",Radio Big Boss
+#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="0",Radio Big Boss
 https://141.147.25.113:8000/radio.mp3
 #EXTINF:-1 station-id="awb_777fb42c28765d22a0bf" stream-id="aws_351efd59c7661827ca07" codec="mp3" bitrate="0",Radio Bizonio
 https://a13.asurahosting.com/listen/radio_bizonio_2/radio.mp3

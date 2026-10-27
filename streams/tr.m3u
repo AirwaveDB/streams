@@ -46,7 +46,7 @@ http://live.radyotvonline.com:9030/;stream.nsv
 #EXTINF:-1 station-id="awb_99aabf022e62f3fd1b57" stream-id="aws_7d062c2313d1156e88c3" codec="aac+" bitrate="64",ADANA FM
 https://host.onlineradyotv.net:2020/stream/adanafm
 #EXTINF:-1 station-id="awb_58a09186cb1ce644e093" stream-id="aws_6fcd4fd922747071f43c" codec="mp3" bitrate="96",AFN 360 Incirlik
-http://21633.live.streamtheworld.com/AFNE_ICK_SC
+http://29333.live.streamtheworld.com:3690/AFNE_ICK_SC
 #EXTINF:-1 station-id="awb_e8293a16e23705bad385" stream-id="aws_4dc7e7aebc07ae6c126a" codec="mp3" bitrate="96",AFN İNCİRLİK
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK.mp3
 #EXTINF:-1 station-id="awb_be62eac2b3135bc23169" stream-id="aws_9e5e36bd822499b0f7a6" codec="aac+" bitrate="320",Afra Radyo
@@ -357,11 +357,11 @@ https://stream.zeno.fm/lyl2uv7fcvovv
 https://anadolu.liderhost.com.tr:10912/;
 #EXTINF:-1 station-id="awb_8ad3ba54bb239c7c7c12" stream-id="aws_331096747dda66e1001b" codec="aac+" bitrate="128",FLOW RADYO
 https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
-#EXTINF:-1 station-id="awb_b51b70c79472e34ab4ac" stream-id="aws_51d0cc64cc551331d99c" codec="aac+" bitrate="127",FLOWRADYO
+#EXTINF:-1 station-id="awb_b51b70c79472e34ab4ac" stream-id="aws_51d0cc64cc551331d99c" codec="aac+" bitrate="128",FLOWRADYO
 https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
 #EXTINF:-1 station-id="awb_982fd4e546db111223b7" stream-id="aws_ac0bdd0407bdf8e8b353" codec="mp3" bitrate="0",FRİGBO
 https://station.frigbo.com/listen/frigbo/radio.mp3
-#EXTINF:-1 station-id="awb_356110a8ae482115b403" stream-id="aws_46abfdd6a30bbec26226" codec="aac" bitrate="278",FULL FM
+#EXTINF:-1 station-id="awb_356110a8ae482115b403" stream-id="aws_46abfdd6a30bbec26226" codec="aac" bitrate="277",FULL FM
 https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
 #EXTINF:-1 station-id="awb_3397303aa4b140bbded9" stream-id="aws_0bdcbc7c93536eeaf298" codec="aac+" bitrate="128",GARAJ RADYO
 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
@@ -461,7 +461,7 @@ https://radyo.yayin.com.tr:2727/stream
 https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3
 #EXTINF:-1 station-id="awb_36827a249a07bb5c36e7" stream-id="aws_2989a5d4fc6ef5026168" codec="aac+" bitrate="128",imaj fm Erzurum
 https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3
-#EXTINF:-1 station-id="awb_8f2e42f361492fbbf1b5" stream-id="aws_204b491546d909346af0" codec="aac+" bitrate="96",İmbat FM
+#EXTINF:-1 station-id="awb_8f2e42f361492fbbf1b5" stream-id="aws_204b491546d909346af0" codec="aac+" bitrate="104",İmbat FM
 https://radyo.medyahost.com.tr/8034/stream
 #EXTINF:-1 station-id="awb_d76a98cf21d17f4412a6" stream-id="aws_536db257b50bac64f04e" codec="mp3" bitrate="128",İNCİTEK FM
 https://radyo.yayindakiler.com:4204/
@@ -507,7 +507,7 @@ https://live.sinirsizhost.com.tr/8058/stream
 https://yayin.kalpfm.com:8080/
 #EXTINF:-1 station-id="awb_ebfef90ccde800e2711e" stream-id="aws_bda913914417bb0c2dc0" codec="mp3" bitrate="128",Kampüs FM 99
 https://kampusfm.gumushane.edu.tr/stream/stream
-#EXTINF:-1 station-id="awb_4d08c0d2958fb80337be" stream-id="aws_f31790ad8f8c5b427f51" codec="aac+" bitrate="64",Karadeniz FM
+#EXTINF:-1 station-id="awb_4d08c0d2958fb80337be" stream-id="aws_f31790ad8f8c5b427f51" codec="aac+" bitrate="63",Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 #EXTINF:-1 station-id="awb_7d464c2c7108fbab105e" stream-id="aws_a5f7a6b2501cb101a3ae" codec="mp3" bitrate="96",Karadut Fm
 https://yayin5.radyohizmeti.com/9982/stream
@@ -559,6 +559,8 @@ https://kiyi.radioca.st/stream
 https://kiyiturk.radioca.st/
 #EXTINF:-1 station-id="awb_cab5ae1eed221e600e07" stream-id="aws_6844a0b498dac0fc84d8" codec="mp3" bitrate="128",Kıyı Türkçe
 https://kiyiturk.radioca.st/stream
+#EXTINF:-1 station-id="awb_5caea4c30a095513f5ff" stream-id="aws_9c12233efc067c0ff5fb" codec="mp3" bitrate="128",KLAS RADİO TURKEY
+https://anadolu.liderhost.com.tr:10929/
 #EXTINF:-1 station-id="awb_ba588235246724cf4481" stream-id="aws_9b10f1cf6b6f7b1bd69b" codec="mp3" bitrate="128",KLASİK HOME
 http://37.247.98.8/stream/32/
 #EXTINF:-1 station-id="awb_924548daeb9c5876747f" stream-id="aws_290ee11cd55404ce9d7b" codec="mp3" bitrate="128",Konya İsra FM
@@ -730,7 +732,7 @@ http://23613.live.streamtheworld.com/POP90AAC_SC
 #EXTINF:-1 station-id="awb_96b35144ed0eb052da65" stream-id="aws_263c08a1e2e2db26d1d1" codec="aac+" bitrate="128",POP 90
 https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
 #EXTINF:-1 station-id="awb_93fd041687729faa6923" stream-id="aws_2537f8555e65f5013d82" codec="aac+" bitrate="64",pop 90 turkey
-http://25703.live.streamtheworld.com:3690/POP90AAC_SC
+http://23623.live.streamtheworld.com/POP90AAC_SC
 #EXTINF:-1 station-id="awb_37becce355c42570027c" stream-id="aws_19d402604d1ce1c3ea90" codec="aac+" bitrate="64",POP 90 Turkiye
 http://23613.live.streamtheworld.com/POP90AAC_SC
 #EXTINF:-1 station-id="awb_3d61af7800fa3a961a70" stream-id="aws_444b72b6cfedd3dc7699" codec="aac" bitrate="128",POP HOME
@@ -749,7 +751,7 @@ http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
 https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8
 #EXTINF:-1 station-id="awb_ed350dfa4505d1725014" stream-id="aws_92ca9fb513920f567d43" codec="aac" bitrate="278",Power Gold TR
 https://live.powerapp.com.tr/powergold/abr/playlist.m3u8
-#EXTINF:-1 station-id="awb_d8f453f71312a6303c1e" stream-id="aws_4c9ba59dfcbd2048883f" codec="aac,h.264" bitrate="2776",Power Love
+#EXTINF:-1 station-id="awb_d8f453f71312a6303c1e" stream-id="aws_4c9ba59dfcbd2048883f" codec="aac,h.264" bitrate="2787",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_d8f453f71312a6303c1e" stream-id="aws_23099a2add55bf16084f" codec="aac" bitrate="278",power love
 https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
@@ -773,11 +775,11 @@ https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
 https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8
 #EXTINF:-1 station-id="awb_ee55e897a3cf17ba50fb" stream-id="aws_c54dcc4b5522de617fd6" codec="aac" bitrate="278",powerturk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:-1 station-id="awb_792b2f81d933561d5a19" stream-id="aws_1104d079c6dc5ef7eb35" codec="aac" bitrate="277",PowerTürk Akustik
+#EXTINF:-1 station-id="awb_792b2f81d933561d5a19" stream-id="aws_1104d079c6dc5ef7eb35" codec="aac" bitrate="278",PowerTürk Akustik
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 #EXTINF:-1 station-id="awb_ab1e624881b871311b80" stream-id="aws_29735cbc3f2af3e3a683" codec="aac" bitrate="277",PowerTürk Dans
 https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
-#EXTINF:-1 station-id="awb_fd6a73817cb2c2cb9e68" stream-id="aws_b984c90ee23f50c98dab" codec="aac" bitrate="150",POWERTÜRK FM TURKEY 2
+#EXTINF:-1 station-id="awb_fd6a73817cb2c2cb9e68" stream-id="aws_b984c90ee23f50c98dab" codec="aac" bitrate="149",POWERTÜRK FM TURKEY 2
 https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 #EXTINF:-1 station-id="awb_7003a9466a4a694f0e0e" stream-id="aws_11536e299f56ad22fcec" codec="aac" bitrate="278",Powerturk R&B Hip Hop
 https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
@@ -785,7 +787,7 @@ https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8
 #EXTINF:-1 station-id="awb_aed898128d29d9083c48" stream-id="aws_ace6c2b260edfb9c1fdf" codec="aac+" bitrate="250",POWERTÜRK SLOW
 https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio
-#EXTINF:-1 station-id="awb_9861a7b03b6799a779d0" stream-id="aws_41d2f4e15c56d506211b" codec="aac" bitrate="278",POWERTÜRK TAPTAZE
+#EXTINF:-1 station-id="awb_9861a7b03b6799a779d0" stream-id="aws_41d2f4e15c56d506211b" codec="aac" bitrate="277",POWERTÜRK TAPTAZE
 https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
 #EXTINF:-1 station-id="awb_5b39eeffdd1c5d9d1ecd" stream-id="aws_e758a32fe96a9955c32d" codec="aac+" bitrate="64",Radio 2019
 http://31.210.157.103/stream/494/;stream.mp3
@@ -861,7 +863,7 @@ https://radyo.yayin.com.tr:8280/
 https://24arabesk.80.yayin.com.tr/
 #EXTINF:-1 station-id="awb_41dbd0504020a13f3bfa" stream-id="aws_1bec7ff3abdb59964b05" codec="aac+" bitrate="128",Radyo 35
 https://yayin.turkhosted.com/6012/stream
-#EXTINF:-1 station-id="awb_764afcde0c65c8808709" stream-id="aws_db7e8fa5471c0b020b98" codec="aac+" bitrate="48",Radyo 37
+#EXTINF:-1 station-id="awb_764afcde0c65c8808709" stream-id="aws_db7e8fa5471c0b020b98" codec="mp3" bitrate="128",Radyo 37
 https://radyo.yayindakiler.com:3192/stream
 #EXTINF:-1 station-id="awb_8d762022ee585b50fef3" stream-id="aws_ca112c755cd824fb076d" codec="aac" bitrate="52",RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE
 https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8
@@ -965,7 +967,7 @@ https://live.sinirsizhost.com.tr/8056/;
 https://radyo1.radyo-dinle.tc/8156/stream
 #EXTINF:-1 station-id="awb_8cde103b6672654eb427" stream-id="aws_0c012c4aa1f9cac274f1" codec="aac+" bitrate="127",RADYO DOKSANLAR
 https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
-#EXTINF:-1 station-id="awb_fad4cc66cbba60e40b32" stream-id="aws_9e0829b97c0a47b5f2b8" codec="aac" bitrate="128",RADYO DRK
+#EXTINF:-1 station-id="awb_fad4cc66cbba60e40b32" stream-id="aws_9e0829b97c0a47b5f2b8" codec="aac" bitrate="112",RADYO DRK
 https://stream.zeno.fm/czwwh7xfqm0uv
 #EXTINF:-1 station-id="awb_75ac3ab7b70f31fb9bfd" stream-id="aws_73ba8ec1faf1c21ff5dc" codec="mp3" bitrate="128",RADYO DUBLE
 https://radyo.yayindakiler.com:2044/
@@ -995,13 +997,13 @@ https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
 https://yayin2.canliyayin.org:10978/;
 #EXTINF:-1 station-id="awb_73d502ed79c95e07dfd8" stream-id="aws_9a5eadfa21e9cf090c70" codec="mp3" bitrate="128",RADYO EŞME
 https://anadolu.liderhost.com.tr:8358/
-#EXTINF:-1 station-id="awb_1cf5e5358bf6cee5786d" stream-id="aws_e926efb5c8044f9f5f04" codec="mp3" bitrate="64",RADYO ESTÜ
+#EXTINF:-1 station-id="awb_1cf5e5358bf6cee5786d" stream-id="aws_e926efb5c8044f9f5f04" codec="mp3" bitrate="128",RADYO ESTÜ
 https://ssl120.radyotelekom.com.tr/8024/stream
 #EXTINF:-1 station-id="awb_9723bff9839bee75ba3f" stream-id="aws_365b07859c5a88b0b057" codec="aac+" bitrate="56",Radyo Fenomen
 https://live.radyofenomen.com/fenomen/128/icecast.audio
 #EXTINF:-1 station-id="awb_839361262b348ae37e6d" stream-id="aws_0dd4faf25337d971396d" codec="aac+" bitrate="56",Radyo Fenomen Clubbin
 https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1 station-id="awb_194fd3e14356ed404f51" stream-id="aws_1d54238a07b875e9c482" codec="aac" bitrate="147",Radyo Fenomen Dans
+#EXTINF:-1 station-id="awb_194fd3e14356ed404f51" stream-id="aws_1d54238a07b875e9c482" codec="aac" bitrate="148",Radyo Fenomen Dans
 https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
 #EXTINF:-1 station-id="awb_a26b7d60158b4c93800b" stream-id="aws_92228e5de01344950b7a" codec="aac" bitrate="64",Radyo Fikir
 https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
@@ -1045,7 +1047,7 @@ https://radyo.radyoimza.com:8016/
 https://live.sinirsizhost.com.tr/8008/stream
 #EXTINF:-1 station-id="awb_25b0ae62a9baaaf48abf" stream-id="aws_3fdf9c59fda9947d737a" codec="mp3" bitrate="128",Radyo Karadeniz
 https://radyomar.80.yayin.com.tr/;
-#EXTINF:-1 station-id="awb_b2d4ef2def2466fbf9d1" stream-id="aws_10f4c9d14cb31e5d0418" codec="aac+" bitrate="64",Radyo Karakoçan
+#EXTINF:-1 station-id="awb_b2d4ef2def2466fbf9d1" stream-id="aws_10f4c9d14cb31e5d0418" codec="mp3" bitrate="112",Radyo Karakoçan
 https://radyokarakocan.ozelip.com/8006/stream
 #EXTINF:-1 station-id="awb_28caff536a3868a7851b" stream-id="aws_7108d73a3b84ff449797" codec="mp3" bitrate="128",Radyo Kent
 https://kentfm955.ozelip.com/9306/stream
@@ -1280,7 +1282,7 @@ https://anadolu.liderhost.com.tr/9078/stream
 #EXTINF:-1 station-id="awb_6da6666d53dfe2d675b3" stream-id="aws_b27c7448440e30d565d5" codec="mp3" bitrate="64",Süper 2 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3
 #EXTINF:-1 station-id="awb_dd7890e036c7225609d5" stream-id="aws_cb7566046c74168d2424" codec="aac+" bitrate="64",Süper FM
-http://25683.live.streamtheworld.com:3690/SUPER_FMAAC_SC
+http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC
 #EXTINF:-1 station-id="awb_86f96edf2a143478367c" stream-id="aws_768078fdc85d63b40330" codec="mp3" bitrate="64",Super Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
 #EXTINF:-1 station-id="awb_dd7890e036c7225609d5" stream-id="aws_0d4855262d33c1ee743c" codec="mp3" bitrate="64",Süper Fm
@@ -1297,7 +1299,7 @@ https://stream.pcradio.ru/tarkan-hi
 https://tarsusfm.80.yayin.com.tr//stream
 #EXTINF:-1 station-id="awb_17254e72e7b8dbc204a7" stream-id="aws_136ce0ca62ab50242df2" codec="mp3" bitrate="96",Tempo FM 101.5
 https://live.radyo.in/8062/stream
-#EXTINF:-1 station-id="awb_723687964b9294a6b544" stream-id="aws_556cdffba2f408d8d736" codec="aac" bitrate="96",Teos FM
+#EXTINF:-1 station-id="awb_723687964b9294a6b544" stream-id="aws_556cdffba2f408d8d736" codec="aac" bitrate="128",Teos FM
 https://dinle2.teosfm.com:8358/0
 #EXTINF:-1 station-id="awb_a07bdd007cc4be3db859" stream-id="aws_0844d6bafe4762b4fbc2" codec="mp3" bitrate="128",Tezene
 http://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream
@@ -1362,7 +1364,7 @@ https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 station-id="awb_2102427eae5d70409505" stream-id="aws_510b207aeba6be830007" codec="aac" bitrate="140",TRT3
 http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 station-id="awb_19fe8e30046585bde0bc" stream-id="aws_bc33a700d7c5e0ff708b" codec="aac+" bitrate="128",Tüm Zamanların En İyileri
-https://27913.live.streamtheworld.com/GHOAT_TR128AAC.aac
+https://25453.live.streamtheworld.com/GHOAT_TR128AAC.aac
 #EXTINF:-1 station-id="awb_fa590ccab2511cf28ae4" stream-id="aws_5ae91b566553303dfee3" codec="mp3" bitrate="128",Türk Rock FM
 https://yayin5.radyohizmeti.com/8090/stream;
 #EXTINF:-1 station-id="awb_84e53008ac898117c217" stream-id="aws_4ae0ca4da88fe4888611" codec="mp3" bitrate="128",Türkiyem FM
@@ -1400,11 +1402,11 @@ https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
 #EXTINF:-1 station-id="awb_65f75d9566695c57e254" stream-id="aws_915de08db806aa8d96f0" codec="aac+" bitrate="160",Veng RADYO
 https://live.radyo.in/8012/stream
 #EXTINF:-1 station-id="awb_bab0732e8a93f5538afe" stream-id="aws_2beb14d43709fdaf90ca" codec="mp3" bitrate="64",Virgin Radio Türkiye
-http://28933.live.streamtheworld.com/VIRGIN_RADIO_SC
+http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
+#EXTINF:-1 station-id="awb_bab0732e8a93f5538afe" stream-id="aws_fcfec91e0419748a442e" codec="aac+" bitrate="64",Virgin Radio Türkiye
+http://29103.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC
 #EXTINF:-1 station-id="awb_bab0732e8a93f5538afe" stream-id="aws_06b1127c698489b5c021" codec="mp3" bitrate="64",Virgin Radio Türkiye
 http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
-#EXTINF:-1 station-id="awb_bab0732e8a93f5538afe" stream-id="aws_fcfec91e0419748a442e" codec="aac+" bitrate="64",Virgin Radio Türkiye
-http://29333.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
 #EXTINF:-1 station-id="awb_ae4a1e80e659dd675a8a" stream-id="aws_c2eff10549c94ae845cf" codec="mp3" bitrate="128",VİRGİN RADYO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
 #EXTINF:-1 station-id="awb_9364f882c37b48518392" stream-id="aws_eb6e31c34735271da4d5" codec="mp3" bitrate="128",VİVA TEMPO

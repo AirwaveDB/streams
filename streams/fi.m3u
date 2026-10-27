@@ -69,8 +69,6 @@ http://ice-sov.musicradio.com/LBCLondon
 https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1 station-id="awb_8ae06239506478f5f6c5" stream-id="aws_bb8e745c5ffd02a672cd" codec="mp3" bitrate="256",Mökkiradio
 https://stream.mokkiradio.fi:18008/mokkiradio
-#EXTINF:-1 station-id="awb_7d2e2b79663fe3a459de" stream-id="aws_65cdd923ca71a7354d96" codec="aac" bitrate="500",MTV Uutiset
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 station-id="awb_31ea32224b526aed4ae9" stream-id="aws_fcb03250dc9094495c1e" codec="aac" bitrate="0",Nightwish
 https://stream.pcradio.ru/Nightwish-hi
 #EXTINF:-1 station-id="awb_6e0952f91ef5392c1c23" stream-id="aws_cffcb7640351198de725" codec="mp3" bitrate="0",NinjaBox 24/7
@@ -147,7 +145,7 @@ https://moreenistream.tuni.fi/moreeni.mp3
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 #EXTINF:-1 station-id="awb_c5a963d778fa0e963aa1" stream-id="aws_30abc12a9d33ef53d555" codec="mp3" bitrate="0",Radio Musa
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
-#EXTINF:-1 station-id="awb_edd3da0bffcf1fe995d0" stream-id="aws_c2fd11bc45620d13e419" codec="aac" bitrate="67",Radio Nostalgia
+#EXTINF:-1 station-id="awb_edd3da0bffcf1fe995d0" stream-id="aws_c2fd11bc45620d13e419" codec="aac" bitrate="68",Radio Nostalgia
 https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690
 #EXTINF:-1 station-id="awb_9b6b0b46bb53d10e7951" stream-id="aws_21911b96f1124ce57cfd" codec="aac" bitrate="68",Radio Nova
 http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true
@@ -183,7 +181,7 @@ https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1
 #EXTINF:-1 station-id="awb_e97c55e95e4ad3cb4859" stream-id="aws_6cd9bcbc04dea833ea20" codec="mp3" bitrate="320",Radio Tempo
 https://cast.radiotempo.fi/radiotempo
-#EXTINF:-1 station-id="awb_89c8ca54543dc930a1da" stream-id="aws_ceb1e4996285bd34a6d6" codec="mp3" bitrate="192",Radio Tuottaja1
+#EXTINF:-1 station-id="awb_89c8ca54543dc930a1da" stream-id="aws_ceb1e4996285bd34a6d6" codec="mp3" bitrate="320",Radio Tuottaja1
 https://kaupunkiradio.radiotaajuus.fi:9013/radio
 #EXTINF:-1 station-id="awb_c0d2784a3133246e2d5b" stream-id="aws_2e8c741e90cb8b0675f7" codec="mp3" bitrate="192",Radio Vaasa
 https://stream.protonbroadcast.com:8443/radiovaasa.mp3
@@ -229,7 +227,7 @@ https://st.downtime.fi/kiakko-tappara.aac
 https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
 #EXTINF:-1 station-id="awb_ae9346576891b5596d78" stream-id="aws_14879c7db14ea65f40f0" codec="mp3" bitrate="128",Tick Tock Radio - 1950
 https://streaming.ticktock.radio/tt/1950/icecast.audio
-#EXTINF:-1 station-id="awb_55a0b6f9915b1fc14ba5" stream-id="aws_06c0a0d09f5e8feefefd" codec="aac" bitrate="64",TOP51
+#EXTINF:-1 station-id="awb_55a0b6f9915b1fc14ba5" stream-id="aws_06c0a0d09f5e8feefefd" codec="aac" bitrate="63",TOP51
 https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_722625a9ecc5310ccd6d" stream-id="aws_b991fcece7bd3f97fa66" codec="aac" bitrate="320",Vömba FM
 https://c4.radioboss.fm:18123/live
@@ -293,5 +291,5 @@ http://icecast.live.yle.fi/radio/YleX/icecast.audio
 https://icecast.live.yle.fi/radio/YleX/icecast.audio
 #EXTINF:-1 station-id="awb_ab446f9fe1d20f166a67" stream-id="aws_082fd19388d7289e542c" codec="mp3" bitrate="128",Ysäri
 https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
-#EXTINF:-1 station-id="awb_ab446f9fe1d20f166a67" stream-id="aws_cd8e94d8583850338e88" codec="aac" bitrate="64",Ysäri
+#EXTINF:-1 station-id="awb_ab446f9fe1d20f166a67" stream-id="aws_cd8e94d8583850338e88" codec="aac" bitrate="63",Ysäri
 https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein

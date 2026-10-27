@@ -61,12 +61,18 @@ http://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGc
 https://srv01.gpmradio.ru/stream/pro/aac/64/67
 #EXTINF:-1 station-id="awb_d8847e9d4aeff70345cb" stream-id="aws_c185f1e5ade9fd19bda3" codec="aac+" bitrate="64",101.ru Агата Кристи
 https://srv01.gpmradio.ru:8443/stream/pro/aac/64/139
+#EXTINF:-1 station-id="awb_d38ddc81d37e0a29cca8" stream-id="aws_f191cfb95df37f05b76d" codec="aac+" bitrate="64",101.ru Алексей Брянцев
+https://pub0102.101.ru:8443/stream/personal/aacp/64/661332
 #EXTINF:-1 station-id="awb_0a51f2a0b484bd5c66c0" stream-id="aws_db9ebc1559b39d85883a" codec="aac+" bitrate="64",101.ru ДДТ
 https://pub0101.101.ru/stream/pro/aac/64/112
 #EXTINF:-1 station-id="awb_09ae1ec25595d89425a7" stream-id="aws_e2a2b731d9c22047916e" codec="aac+" bitrate="64",101.ru Любэ
 https://pub0101.101.ru/stream/pro/aac/64/158
 #EXTINF:-1 station-id="awb_f46dd33f284d5c71781a" stream-id="aws_576467ab140703bc0506" codec="aac+" bitrate="64",101.ru Михаил Боярский (Mikhail Boyarsky)
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1786150
+#EXTINF:-1 station-id="awb_c10f0bde41a4bf1f02f5" stream-id="aws_310c4ed4377f7d54b3b1" codec="aac+" bitrate="64",101.ru Музыка и песни из советских фильмов
+https://pub0102.101.ru:8443/stream/personal/aacp/64/661332
+#EXTINF:-1 station-id="awb_c10f0bde41a4bf1f02f5" stream-id="aws_0f592379bf6674049a4c" codec="aac+" bitrate="64",101.ru Музыка и песни из советских фильмов
+https://pub0102.101.ru:8443/stream/personal/aacp/64/661332?
 #EXTINF:-1 station-id="awb_eb6ec7ef4cf997eb14b2" stream-id="aws_6405c12511177048ff9f" codec="aac+" bitrate="64",101.ru Муслим Магомаев
 https://srv01.gpmradio.ru/stream/pro/aac/64/156
 #EXTINF:-1 station-id="awb_490379dcc6519447f807" stream-id="aws_9ee305ddb6f5ddda9626" codec="aac+" bitrate="64",101.ru Парк Горького (Gorky Park)
@@ -149,7 +155,7 @@ https://listen9.myradio24.com/77103
 https://radio.openos.pp.ua/listen/adskoe_radio/radio.mp3
 #EXTINF:-1 station-id="awb_aed715b501c88d0e5dff" stream-id="aws_0f99a45a28ae60ffb396" codec="aac+" bitrate="320",Afrobeat / Afrobeats - Radio Caprice
 http://79.120.39.202:8000/afrobeat
-#EXTINF:-1 station-id="awb_3b80655842cbdb36a531" stream-id="aws_a7663743640a56cbaf38" codec="aac,h.264" bitrate="3500",AIST TV
+#EXTINF:-1 station-id="awb_3b80655842cbdb36a531" stream-id="aws_a7663743640a56cbaf38" codec="aac,h.264" bitrate="3600",AIST TV
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 station-id="awb_a7e1d6a7a32acb489273" stream-id="aws_b8844421708a60e29768" codec="ogg" bitrate="320",AK Laboratory
 http://anklab.ru/stream/sc.ogg
@@ -261,7 +267,7 @@ http://listen10.myradio24.com/atmo
 http://185.64.76.49:8000/128
 #EXTINF:-1 station-id="awb_bcb787d39bcb88bc7e58" stream-id="aws_e7b2913f06b39f5290cf" codec="mp3" bitrate="128",Atmosfera 128
 http://185.64.76.49:8000/128
-#EXTINF:-1 station-id="awb_9d32394a62894713f068" stream-id="aws_e9db0ad6a6cbba1ba473" codec="aac" bitrate="50",Atmosfera 48
+#EXTINF:-1 station-id="awb_9d32394a62894713f068" stream-id="aws_e9db0ad6a6cbba1ba473" codec="aac" bitrate="47",Atmosfera 48
 https://listen10.myradio24.com/atmo_48
 #EXTINF:-1 station-id="awb_9a87f2bbd14639aa1b84" stream-id="aws_af6e071433d5614b9c65" codec="aac+" bitrate="48",Avtoradio - Moscow
 http://185.40.31.28:8000/station_93
@@ -293,9 +299,9 @@ https://radio.bbz.ru/listen/bbz/192.mp3
 https://radiorecord.hostingradio.ru/alltimers96.aacp
 #EXTINF:-1 station-id="awb_55ab0561ce72618998e4" stream-id="aws_368cbff6138538bc1fbb" codec="mp3" bitrate="0",Best
 https://nashe1.hostingradio.ru/best-128.mp3
-#EXTINF:-1 station-id="awb_9ed4486c87ed58194f2e" stream-id="aws_9e5ce98ee73baab3eee0" codec="aac" bitrate="290",Best Deep FM
+#EXTINF:-1 station-id="awb_9ed4486c87ed58194f2e" stream-id="aws_9e5ce98ee73baab3eee0" codec="aac" bitrate="336",Best Deep FM
 http://myradio24.org/5129_320
-#EXTINF:-1 station-id="awb_9ed4486c87ed58194f2e" stream-id="aws_88be7b3c990005c4bcb3" codec="aac" bitrate="120",BEST DEEP FM
+#EXTINF:-1 station-id="awb_9ed4486c87ed58194f2e" stream-id="aws_88be7b3c990005c4bcb3" codec="aac" bitrate="114",BEST DEEP FM
 https://myradio24.org/5129
 #EXTINF:-1 station-id="awb_1b61ddbf0402f8998a9b" stream-id="aws_5704ce7c4d935e0e447c" codec="mp3" bitrate="0",Best FM
 http://nashe.streamr.ru/best-128.mp3
@@ -537,7 +543,7 @@ https://live.devzen.ru/stream?type=.mp3
 https://radio.dewoq.ru/listen/dewoq_lo-fi_radio/radio.mp3
 #EXTINF:-1 station-id="awb_0a34d1b7c20a39c3c654" stream-id="aws_7b9d2cb8e76f99d6c064" codec="mp3" bitrate="128",dewoq Radio
 https://radio.dewoq.ru/listen/dewoq_radio/radio.mp3
-#EXTINF:-1 station-id="awb_26756238c69c3115bd7d" stream-id="aws_91fd141c2c5408f91be6" codec="aac" bitrate="96",Dfm
+#EXTINF:-1 station-id="awb_26756238c69c3115bd7d" stream-id="aws_91fd141c2c5408f91be6" codec="aac+" bitrate="96",Dfm
 http://dfm-basshouse.hostingradio.ru/basshouse96.aacp
 #EXTINF:-1 station-id="awb_26756238c69c3115bd7d" stream-id="aws_501e02ab8cda194a722f" codec="aac" bitrate="0",DFM
 https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
@@ -551,7 +557,7 @@ https://dfm-breakbeat.hostingradio.ru/breakbeat96.aacp
 https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp
 #EXTINF:-1 station-id="awb_5dc6c0d942c7b5901ec4" stream-id="aws_1a7ea6033e1647bc8bb5" codec="aac+" bitrate="96",DFM - Club
 https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
-#EXTINF:-1 station-id="awb_8f50faa80d9dd0719f24" stream-id="aws_b28ad3441af7207efedc" codec="aac" bitrate="96",DFM - Dancehall
+#EXTINF:-1 station-id="awb_8f50faa80d9dd0719f24" stream-id="aws_b28ad3441af7207efedc" codec="aac+" bitrate="96",DFM - Dancehall
 https://dfm-dancehall.hostingradio.ru/dancehall96.aacp
 #EXTINF:-1 station-id="awb_682d809f2f93692ac265" stream-id="aws_f1f21930db1ad8781297" codec="aac+" bitrate="96",DFM - Gangsta Deep
 https://dfm-gangstadeep.hostingradio.ru/gangstadeep96.aacp
@@ -561,7 +567,7 @@ https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
 https://dfm-organichouse.hostingradio.ru/organichouse96.aacp
 #EXTINF:-1 station-id="awb_de5e381116cebcf4f112" stream-id="aws_8f96e715c118dfe31645" codec="aac" bitrate="96",DFM - Party
 https://dfm-party.hostingradio.ru/dfmparty96.aacp
-#EXTINF:-1 station-id="awb_4e880c5d707e3dc31480" stream-id="aws_4c3fb775d6aecb450913" codec="aac" bitrate="96",DFM - Pop Dance
+#EXTINF:-1 station-id="awb_4e880c5d707e3dc31480" stream-id="aws_4c3fb775d6aecb450913" codec="aac+" bitrate="96",DFM - Pop Dance
 https://dfm-popdance.hostingradio.ru/popdance96.aacp
 #EXTINF:-1 station-id="awb_4ba92fd296327d12176c" stream-id="aws_705a323812e4ab7bd5c6" codec="aac+" bitrate="96",DFM - Pump
 https://dfm-pump.hostingradio.ru/pump96.aacp
@@ -569,9 +575,9 @@ https://dfm-pump.hostingradio.ru/pump96.aacp
 https://dfm-slapbass.hostingradio.ru/slapbass96.aacp
 #EXTINF:-1 station-id="awb_ed5f5706246c5bf706e8" stream-id="aws_625bf5aec9304c2716bf" codec="aac+" bitrate="96",DFM - Tech House
 https://dfm-techhouse.hostingradio.ru/techhouse96.aacp
-#EXTINF:-1 station-id="awb_d1447acb3166dea4840c" stream-id="aws_a389fa41405276fb1778" codec="aac" bitrate="96",DFM - Trap
+#EXTINF:-1 station-id="awb_d1447acb3166dea4840c" stream-id="aws_a389fa41405276fb1778" codec="aac+" bitrate="96",DFM - Trap
 https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
-#EXTINF:-1 station-id="awb_bc3af11adefd2ee72e36" stream-id="aws_3f6a40c9f7a1270daa67" codec="aac" bitrate="96",DFM - Vocal Trance
+#EXTINF:-1 station-id="awb_bc3af11adefd2ee72e36" stream-id="aws_3f6a40c9f7a1270daa67" codec="aac+" bitrate="96",DFM - Vocal Trance
 https://dfm-trance.hostingradio.ru/trance96.aacp
 #EXTINF:-1 station-id="awb_11045bac98535a1bf503" stream-id="aws_9aea97a96c336974e4c7" codec="aac" bitrate="0",DFM 101,2 FM
 https://dfm.hostingradio.ru/dfm96.aacp
@@ -581,7 +587,7 @@ https://dfm.hostingradio.ru/dfm128.mp3
 https://dfm-afrovibes.hostingradio.ru/afrovibes96.aacp
 #EXTINF:-1 station-id="awb_8bb5a864507a104a6633" stream-id="aws_48355d2ef1f47593a93d" codec="aac+" bitrate="96",DFM Armin van Buuren
 https://dfm.hostingradio.ru/avburren96.aacp
-#EXTINF:-1 station-id="awb_8d42eb9c4fa7032fedd5" stream-id="aws_d8c84d9b465480dacc84" codec="aac" bitrate="96",DFM Bass Haus
+#EXTINF:-1 station-id="awb_8d42eb9c4fa7032fedd5" stream-id="aws_d8c84d9b465480dacc84" codec="aac+" bitrate="96",DFM Bass Haus
 http://dfm-basshouse.hostingradio.ru/basshouse96.aacp
 #EXTINF:-1 station-id="awb_ebe5cd8e880e1fe4b02d" stream-id="aws_d8a35adc77c51cd26187" codec="aac" bitrate="96",DFM BassHauss
 http://dfm-basshouse.hostingradio.ru/basshouse96.aacp
@@ -597,13 +603,13 @@ https://dfm-dancegold90.hostingradio.ru/dancegold9096.aacp
 https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp
 #EXTINF:-1 station-id="awb_fdfc2e07082069cdadde" stream-id="aws_a5531c0f43ea82b6818b" codec="aac" bitrate="96",DFM DANCE GOLD 2010s
 https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp
-#EXTINF:-1 station-id="awb_7b61fe5c370fda3624fa" stream-id="aws_a8d4aa105ff218a6c1e3" codec="aac" bitrate="96",DFM DANCE GOLD 2020s
+#EXTINF:-1 station-id="awb_7b61fe5c370fda3624fa" stream-id="aws_a8d4aa105ff218a6c1e3" codec="aac+" bitrate="96",DFM DANCE GOLD 2020s
 https://dfm-dancegold20.hostingradio.ru/dancegold2096.aacp
-#EXTINF:-1 station-id="awb_41a9f18045abeead621f" stream-id="aws_667502bd5331bdd9403d" codec="aac" bitrate="96",DFM DISCO
+#EXTINF:-1 station-id="awb_41a9f18045abeead621f" stream-id="aws_667502bd5331bdd9403d" codec="aac+" bitrate="96",DFM DISCO
 https://dfm-disco.hostingradio.ru/disco96.aacp
-#EXTINF:-1 station-id="awb_a23c8e8d6bf32b313607" stream-id="aws_309f726d907c8d9c9991" codec="aac" bitrate="96",DFM K-POP
+#EXTINF:-1 station-id="awb_a23c8e8d6bf32b313607" stream-id="aws_309f726d907c8d9c9991" codec="aac+" bitrate="96",DFM K-POP
 https://dfm-kpop.hostingradio.ru/kpop96.aacp
-#EXTINF:-1 station-id="awb_9527041a329637ed27a8" stream-id="aws_a52a32e199290308f643" codec="aac" bitrate="96",DFM MARTIN GARRIX
+#EXTINF:-1 station-id="awb_9527041a329637ed27a8" stream-id="aws_a52a32e199290308f643" codec="aac+" bitrate="96",DFM MARTIN GARRIX
 https://dfm-garrix.hostingradio.ru/garrix96.aacp
 #EXTINF:-1 station-id="awb_772f239667cf26e0a716" stream-id="aws_8511450075a72aca7c07" codec="aac" bitrate="100",DFM PIONEER
 https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8
@@ -613,7 +619,7 @@ https://dfm-popgold90.hostingradio.ru/popgold9096.aacp
 https://dfm-popgold00.hostingradio.ru/popgold0096.aacp
 #EXTINF:-1 station-id="awb_ed92cae76e2c7ccfb4a8" stream-id="aws_1065765862f81508f086" codec="aac" bitrate="96000",DFM POP GOLD 2010s
 https://dfm-popgold10.hostingradio.ru/popgold1096.aacp
-#EXTINF:-1 station-id="awb_7d0ca01331afe0ed2e91" stream-id="aws_fbd0a1fd0137cc00954c" codec="aac" bitrate="96",DFM POP GOLD 2020s
+#EXTINF:-1 station-id="awb_7d0ca01331afe0ed2e91" stream-id="aws_fbd0a1fd0137cc00954c" codec="aac+" bitrate="96",DFM POP GOLD 2020s
 https://dfm-popgold20.hostingradio.ru/popgold2096.aacp
 #EXTINF:-1 station-id="awb_3b6ea6a22c1fb7da9f6d" stream-id="aws_740f8c0fba9ddc819be2" codec="aac" bitrate="96",DFM REMAKE
 https://dfm-remake.hostingradio.ru/remake96.aacp
@@ -623,7 +629,7 @@ https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
 https://dfm-russiangold.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1 station-id="awb_0f8d31769161becd434a" stream-id="aws_2175d806d4c68cbb6b7f" codec="aac" bitrate="96",DFM Russian Gold
 https://dfm-russiangold.hostingradio.ru/russiangold96.aacp
-#EXTINF:-1 station-id="awb_e6ba506b252b33ee0518" stream-id="aws_758b2a2848eee07f33c4" codec="aac" bitrate="96",DFM Savannah Beat
+#EXTINF:-1 station-id="awb_e6ba506b252b33ee0518" stream-id="aws_758b2a2848eee07f33c4" codec="aac+" bitrate="96",DFM Savannah Beat
 https://dfm-savanbeat.hostingradio.ru/savanbeat96.aacp
 #EXTINF:-1 station-id="awb_d4509e4b2b62a5cbe622" stream-id="aws_3c1517d00647f7f2c756" codec="aac+" bitrate="96",DFM SKRILLEX
 https://dfm-skrillex.hostingradio.ru/skrillex96.aacp
@@ -649,9 +655,9 @@ https://online2.gkvr.ru:8001/dfm_kem_64.aac
 http://listen1.myradio24.com:9000/dfm106
 #EXTINF:-1 station-id="awb_d1491090ef881a642a11" stream-id="aws_ac5ece7ffc06c834883f" codec="aac+" bitrate="96",DFM Ростов-на-Дону 104.6 FM
 http://online2.gkvr.ru:8000/dfm_rnd_64.aac
-#EXTINF:-1 station-id="awb_5b48f8285b7a4a802895" stream-id="aws_4b22abb91a7bcccc617e" codec="aac" bitrate="96",DFM Русский Рейв
+#EXTINF:-1 station-id="awb_5b48f8285b7a4a802895" stream-id="aws_4b22abb91a7bcccc617e" codec="aac+" bitrate="96",DFM Русский Рейв
 https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
-#EXTINF:-1 station-id="awb_f04b33f09a3d0b495478" stream-id="aws_9005e324e1b1e7d22675" codec="aac" bitrate="96",DFM РУССКИЙ РЕЙВ
+#EXTINF:-1 station-id="awb_f04b33f09a3d0b495478" stream-id="aws_9005e324e1b1e7d22675" codec="aac+" bitrate="96",DFM РУССКИЙ РЕЙВ
 https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
 #EXTINF:-1 station-id="awb_207e73404f9e0e964115" stream-id="aws_2ea67c729f28fd7efd9d" codec="mp3" bitrate="256",DFM Смоленск 105.6 FM
 http://92.241.103.200:8081/dfm_sm
@@ -675,8 +681,8 @@ https://radiorecord.hostingradio.ru/discofunk96.aacp
 http://79.120.77.11:8000/disco
 #EXTINF:-1 station-id="awb_bea1f58bb1fde6d50d8b" stream-id="aws_fc9c35184b9b887be7cc" codec="mp3" bitrate="128",Discothec 80-90
 https://listen4.myradio24.com/dance80
-#EXTINF:-1 station-id="awb_2a6784886d72dc511b6b" stream-id="aws_191332e086dcdf477c33" codec="mp3" bitrate="320",DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
-http://finland.discovertrance.com:8113//
+#EXTINF:-1 station-id="awb_2a6784886d72dc511b6b" stream-id="aws_191332e086dcdf477c33" codec="mp3" bitrate="192",DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
+http://chicago.discovertrance.com:9214//
 #EXTINF:-1 station-id="awb_a87fec93932e28418cc3" stream-id="aws_8d37129369172f61c541" codec="aac+" bitrate="48",Django Manouche
 http://79.120.77.11:8002/manouche
 #EXTINF:-1 station-id="awb_167aa5675d468f505a73" stream-id="aws_e62602fe675b6384e362" codec="mp3" bitrate="128",DJIN FM
@@ -1171,14 +1177,10 @@ http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933
 http://stream.loveradio.ru/12_love_28?type=.aac&U
 #EXTINF:-1 station-id="awb_b4684de524acfc7febaa" stream-id="aws_ed24c9155ed29b18b554" codec="aac" bitrate="128",Love Radio Вологда 96.4 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_90266
-#EXTINF:-1 station-id="awb_38b72ba820bebf5ff975" stream-id="aws_f68bf5ec94a208dd1dd7" codec="mp3" bitrate="128",Love radio Иваново 87.9 FM
-http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_76196
 #EXTINF:-1 station-id="awb_9c57b1b57d59ab8ea49c" stream-id="aws_f3ff1000bd1155f42cc5" codec="aac" bitrate="48",Love Radio Москва 106.6 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_44
 #EXTINF:-1 station-id="awb_06b55bfdb49de17cfa83" stream-id="aws_e4e3581992fed25f7bf4" codec="aac" bitrate="128",Love Radio Нижний Новгород 104.9 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202
-#EXTINF:-1 station-id="awb_364ae015c91bf3d02566" stream-id="aws_4f46d0c9c66d83c771e3" codec="aac" bitrate="128",Love radio Ростов-на-Дону 101.6 FM
-http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_97162
 #EXTINF:-1 station-id="awb_82fa1cd551a732bb4a83" stream-id="aws_57f86dac7938d6a5e866" codec="aac" bitrate="128",Love Radio Санкт-Петербург 105.3 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45
 #EXTINF:-1 station-id="awb_e378b884a355fea3fb33" stream-id="aws_5b7d978bb4a3ae4ac8fd" codec="mp3" bitrate="256",Love Radio Симферополь 88.6 FM
@@ -1305,7 +1307,7 @@ https://montecarlo.hostingradio.ru/mcgold96.aacp
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1 station-id="awb_5f4724e871a8ba902e3d" stream-id="aws_10f21186db201afc5e8f" codec="aac" bitrate="96",Monte Carlo: Sweet
 http://montecarlo.hostingradio.ru/mcsweet96.aacp
-#EXTINF:-1 station-id="awb_104670fc479383e10ffc" stream-id="aws_22de2e253835ad79ade1" codec="aac" bitrate="96",MonteCarlo Chill-Lounge
+#EXTINF:-1 station-id="awb_104670fc479383e10ffc" stream-id="aws_22de2e253835ad79ade1" codec="aac+" bitrate="96",MonteCarlo Chill-Lounge
 https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
 #EXTINF:-1 station-id="awb_e28130cbc8504374868d" stream-id="aws_0da2c3f585ef28f6edd7" codec="aac" bitrate="96",MonteCarlo Nights
 https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
@@ -1333,7 +1335,7 @@ http://myradio24.org/7552
 https://murka.amgradio.ru/MurkaFM
 #EXTINF:-1 station-id="awb_e3c041e0b641126095f8" stream-id="aws_19e2fc2ee2215d68c567" codec="mp3" bitrate="128",MUŠ
 http://radio.myudm.ru:10010/efir
-#EXTINF:-1 station-id="awb_13f8ee31b2e61b20cbd5" stream-id="aws_01ddc737b5837a003aa4" codec="aac" bitrate="96",Muse - Радио MAXIMUM
+#EXTINF:-1 station-id="awb_13f8ee31b2e61b20cbd5" stream-id="aws_01ddc737b5837a003aa4" codec="aac+" bitrate="96",Muse - Радио MAXIMUM
 https://maximum.hostingradio.ru/maxmuse96.aacp
 #EXTINF:-1 station-id="awb_fbde4d7156e93cbb34a8" stream-id="aws_2c690bee363c9bd28250" codec="mp3" bitrate="128",Musical Decadence Radio
 https://stream.musicaldecadence.ru/live
@@ -1499,7 +1501,7 @@ http://listen.rpfm.ru:9000/premium128
 http://45.143.94.106:8000/primvolna-ussuriysk
 #EXTINF:-1 station-id="awb_f006d5859d61a93936a5" stream-id="aws_70c567d9987bdd88f80c" codec="mp3" bitrate="128",Primorskaya Volna (Ussuriysk 90.0 FM)
 http://45.143.94.106:8000/primvolna-ussuriysk
-#EXTINF:-1 station-id="awb_5b5fd6e1289093755581" stream-id="aws_48f7cbb4cc1da3314d99" codec="mp3" bitrate="96",PriMuzFM
+#EXTINF:-1 station-id="awb_5b5fd6e1289093755581" stream-id="aws_48f7cbb4cc1da3314d99" codec="mp3" bitrate="128",PriMuzFM
 https://myradio24.org/8118?1719239365701
 #EXTINF:-1 station-id="awb_b23dff7e939df2fc6094" stream-id="aws_2c74a3fe11c4bb6c9928" codec="mp3" bitrate="64",princessluna.fun - Night DJ
 http://princessluna.fun:8000/64.mp3
@@ -1766,7 +1768,7 @@ https://listen8.myradio24.com/alisa
 #EXTINF:-1 station-id="awb_516f3703bfb2025ed246" stream-id="aws_9eac0369ef6496ed4152" codec="mp3" bitrate="128",Radio AnimKLATU
 https://animklatu.stream.laut.fm/animklatu?t302=2026-08-22_03-28-34&uuid=a40653eb-16d1-4b55-8ef3-b0e225694357
 #EXTINF:-1 station-id="awb_516f3703bfb2025ed246" stream-id="aws_44765ce7a0d171d62362" codec="mp3" bitrate="128",Radio AnimKLATU
-https://animklatu.stream.laut.fm/animklatu?t302=2026-10-22_07-11-16&uuid=1b9740bc-4dc4-d1cc-b5e3-343954e3b40f
+https://animklatu.stream.laut.fm/animklatu?t302=2026-10-27_06-59-01&uuid=3522d895-e97b-14d8-a100-c196346bb007
 #EXTINF:-1 station-id="awb_e62822366af99f02c1df" stream-id="aws_2c40344fe51d18cd313b" codec="mp3" bitrate="192",Radio Anonymous
 http://anon.fm:8000/radio
 #EXTINF:-1 station-id="awb_be626af254f6ba96f03e" stream-id="aws_e3757b3dd7fe35c5d41e" codec="mp3" bitrate="128",Radio Blago
@@ -2375,6 +2377,8 @@ http://79.120.39.202:9125/
 http://79.120.77.11:8002/rockballads
 #EXTINF:-1 station-id="awb_320ef2cdad12f4f32d7b" stream-id="aws_9f98f4c6bcd3c8956c8c" codec="aac+" bitrate="320",Radio Caprice - Rock Ballads
 http://79.120.77.11:8000/rockballads
+#EXTINF:-1 station-id="awb_320ef2cdad12f4f32d7b" stream-id="aws_70d8bbe8135761807afa" codec="aac+" bitrate="320",Radio Caprice - Rock Ballads
+http://79.120.77.11:9059/;stream.aac
 #EXTINF:-1 station-id="awb_9e2da606e05ba8b90ce6" stream-id="aws_e048b5b206ad3af374b4" codec="aac+" bitrate="320",Radio Caprice - Roots Reggae
 http://79.111.119.111:9047/
 #EXTINF:-1 station-id="awb_ce8edd4fa051036e0d55" stream-id="aws_19ff909ec7ce8e090f64" codec="aac+" bitrate="48",Radio Caprice - Russian Club Dance Music [1]
@@ -2563,7 +2567,7 @@ http://intern.radiocorax.de:8000/corax_4_pi_uebernahme
 https://stream.n340.com/14_dacha_64?type=aac&UID=AF2C3AB947218127F59F62740712F61D
 #EXTINF:-1 station-id="awb_f32423643c404fe3c5d4" stream-id="aws_951cecb6bea7eb843575" codec="mp3" bitrate="28",Radio Dacha
 https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=DA2EDB5FED377CC42C40E3649A0C8085
-#EXTINF:-1 station-id="awb_abe5e3aba928f5a115dd" stream-id="aws_cbeb7ca4d4961747c68b" codec="mp3" bitrate="256",Radio Deluxe
+#EXTINF:-1 station-id="awb_abe5e3aba928f5a115dd" stream-id="aws_cbeb7ca4d4961747c68b" codec="mp3" bitrate="256000",Radio Deluxe
 http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3
 #EXTINF:-1 station-id="awb_7ce662dff1cd71c66f94" stream-id="aws_bc661551d9cdc9ea8287" codec="mp3" bitrate="256",Radio DFM Ufa 91.5 FM
 http://92.50.177.134:8000/dfm_ufa
@@ -2657,7 +2661,7 @@ https://maximum-erock.hostingradio.ru/maxerock96.aacp
 https://maximum-britpop.hostingradio.ru/maxbritpop96.aacp
 #EXTINF:-1 station-id="awb_e5f2faa80e940db51242" stream-id="aws_c7a495b26c0e30fe8f60" codec="aac+" bitrate="96",Radio Maximum - Covers
 https://maximum-cover.hostingradio.ru/maxcover96.aacp
-#EXTINF:-1 station-id="awb_6797b6a1f1065fa5a564" stream-id="aws_9ca1176df0e2ed843474" codec="aac" bitrate="96",Radio Maximum - Depeche Mode
+#EXTINF:-1 station-id="awb_6797b6a1f1065fa5a564" stream-id="aws_9ca1176df0e2ed843474" codec="aac+" bitrate="96",Radio Maximum - Depeche Mode
 https://depechemode.hostingradio.ru/depechemode96.aacp
 #EXTINF:-1 station-id="awb_4a48ccd7f1b4b25247f6" stream-id="aws_f12ea73c58f7d9e03723" codec="aac+" bitrate="96",Radio Maximum - Emo
 https://maximum-dark.hostingradio.ru/maxdark96.aacp
@@ -2667,7 +2671,7 @@ https://maximum-grunge.hostingradio.ru/grunge96.aacp
 https://maximum80.hostingradio.ru/max8096.aacp
 #EXTINF:-1 station-id="awb_8e68b59937ec9439a8f5" stream-id="aws_9f44340c711e39d11413" codec="aac" bitrate="96",Radio Maximum - Heavy Monday
 https://heavymonday.hostingradio.ru/heavymonday96.aacp
-#EXTINF:-1 station-id="awb_400e3cafa8f1052f575c" stream-id="aws_56de277f6927ce23cfcf" codec="aac" bitrate="96",Radio Maximum - Indie
+#EXTINF:-1 station-id="awb_400e3cafa8f1052f575c" stream-id="aws_56de277f6927ce23cfcf" codec="aac+" bitrate="96",Radio Maximum - Indie
 https://maximum-indie.hostingradio.ru/indie96.aacp
 #EXTINF:-1 station-id="awb_574d92015a0c5355663f" stream-id="aws_b437e5c01f4e75691869" codec="aac+" bitrate="96",Radio Maximum - Linkin Park
 https://rusradio.hostingradio.ru/linkinpark96.aacp
@@ -2851,7 +2855,7 @@ http://stream.salyutfm.ru:8000/stream
 http://stream.salyutfm.ru:8000/stream
 #EXTINF:-1 station-id="awb_97a85c4311090459cc26" stream-id="aws_acf3d3a77b9c49a995df" codec="mp3" bitrate="192",Radio Samara Maksimum
 http://85.236.172.22:8000/maximum
-#EXTINF:-1 station-id="awb_3f33645e8fe4946b9263" stream-id="aws_0dcacd7af6da637487b5" codec="mp3" bitrate="192",RADIO SARATOV MUSIC
+#EXTINF:-1 station-id="awb_3f33645e8fe4946b9263" stream-id="aws_0dcacd7af6da637487b5" codec="mp3" bitrate="256",RADIO SARATOV MUSIC
 http://radiosaratovmusic.com:1060/stream
 #EXTINF:-1 station-id="awb_ae36969d72761af09e16" stream-id="aws_e59e680e4fb089d4314f" codec="mp3" bitrate="64",Radio Sfera
 http://radio.radioshansonplus.com:8010/radio
@@ -2877,7 +2881,7 @@ http://159.69.117.253:8879/;
 http://stream.radiojar.com/av2rrf6547zuv
 #EXTINF:-1 station-id="awb_b36ac17192d9b7ec36dc" stream-id="aws_4efcb09d653231fa9201" codec="mp3" bitrate="192",Radio Transmit
 https://radio.transmit.ru/listen/transmit/transmit_192.mp3
-#EXTINF:-1 station-id="awb_3ddc404a749d5c839123" stream-id="aws_efd3eada822dd0c2d6cd" codec="aac+" bitrate="135",Radio TV 'Your Wave'
+#EXTINF:-1 station-id="awb_3ddc404a749d5c839123" stream-id="aws_efd3eada822dd0c2d6cd" codec="aac+" bitrate="133",Radio TV 'Your Wave'
 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
 #EXTINF:-1 station-id="awb_b1cb642255432d6e4fcf" stream-id="aws_6f1af73ce623987eeb75" codec="mp3" bitrate="96",Radio Ulitka
 http://air.radioulitka.ru:8000/ulitka_128
@@ -2960,7 +2964,7 @@ https://relay.radiotoolkit.com/rcmdeep
 #EXTINF:-1 station-id="awb_18ff850e534a81f2ee43" stream-id="aws_90e109f730906154897c" codec="aac" bitrate="128",RCMdeep
 https://h.getradio.me/rcmdeep/hls.m3u8
 #EXTINF:-1 station-id="awb_e71b9bb3691df95de9e6" stream-id="aws_9e1fca8c211e17ed971a" codec="mp3" bitrate="128",RCOK ARSENAL
-https://online.rockarsenal.ru/rockarsenal
+https://online.rockarsenal.ru/rockwotalk
 #EXTINF:-1 station-id="awb_b1c121386a760b064736" stream-id="aws_51b097f81e5d957f981b" codec="ogg" bitrate="0",Real Drift - Phonk
 http://radio.real-drift.com/stream
 #EXTINF:-1 station-id="awb_b2c6875213d040380f46" stream-id="aws_2f4271b7c1bca0808702" codec="mp3" bitrate="256",Rebyachya Respublika
@@ -3021,7 +3025,7 @@ https://srv01.gpmradio.ru/stream/pro/aac/64/28
 https://pub0101.101.ru/stream/trust/mp3/128/267?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJmZGEzNTE4Nzk2MTRmYjkxZmJjZWUwZjBkN2NiMDEwMSIsIklQIjoiMTU2LjIxOC4xNTEuMTYyIiwiVUEiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTA0LjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwiUmVmIjoiaHR0cHM6XC9cLzEwMS5ydVwvIiwidWlkX2NoYW5uZWwiOiIyNjciLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkNocm9tZSIsIkJyb3dzZXJWZXJzaW9uIjoiMTA0LjAuMC4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY2MDk2NzE4OH0.cEjEybJ8rYlV8kiv_su7cSgAc9qgQS5XyS7UsWqRelY
 #EXTINF:-1 station-id="awb_d5fcff45859a770c5111" stream-id="aws_e1c21ccba4e92653efbb" codec="aac+" bitrate="64",Relax Lo-Fi
 https://pub0101.101.ru/stream/pro/aac/64/358
-#EXTINF:-1 station-id="awb_251029ea7ec383ad1125" stream-id="aws_95ba9f3fbc6598957ff7" codec="mp3" bitrate="128",Remix FM
+#EXTINF:-1 station-id="awb_251029ea7ec383ad1125" stream-id="aws_95ba9f3fbc6598957ff7" codec="mp3" bitrate="0",Remix FM
 http://air4.amgradio.ru/RemixFM
 #EXTINF:-1 station-id="awb_3b70a344e7cd8a10de34" stream-id="aws_385a25e716af205c0075" codec="mp3" bitrate="128",REPLAY NEWS - Русский
 https://replaynewsru.ice.infomaniak.ch/replaynewsru-128.mp3
@@ -3251,7 +3255,7 @@ http://79.111.14.76:8000/southernrock
 http://station.waveradio.org/soviet.mp3
 #EXTINF:-1 station-id="awb_602c9e00ee298b06705b" stream-id="aws_5750582ef9344963fdf9" codec="aac,h.264" bitrate="2610",Soyuz
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 station-id="awb_3a03a3f2969d5fbeffea" stream-id="aws_983267ace1b174ea66ed" codec="aac,h.264" bitrate="2650",Soyuz TV
+#EXTINF:-1 station-id="awb_3a03a3f2969d5fbeffea" stream-id="aws_983267ace1b174ea66ed" codec="aac,h.264" bitrate="2600",Soyuz TV
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 station-id="awb_b93ce02b52ceccfc54a6" stream-id="aws_09189bdc3ac10b834cb3" codec="aac+" bitrate="48",Space Rock - Radio Caprice (acc48)
 http://79.111.119.111:8002/spacerock
@@ -3735,7 +3739,7 @@ https://stream1.radiogoose.ru/listen/harddance/play
 https://stream3.radiogoose.ru/listen/hardstyle/play
 #EXTINF:-1 station-id="awb_2624375bffdfc39b7537" stream-id="aws_a679793d802cf725a07f" codec="aac" bitrate="128",ГУСЬ.Электро
 https://stream4.radiogoose.ru/listen/electro/play
-#EXTINF:-1 station-id="awb_d80b0db76164aec2baa4" stream-id="aws_52e7807c44a94bdeba02" codec="mp3" bitrate="128",Дальнобой-2
+#EXTINF:-1 station-id="awb_d80b0db76164aec2baa4" stream-id="aws_52e7807c44a94bdeba02" codec="mp3" bitrate="320",Дальнобой-2
 https://listen7.myradio24.com/4807
 #EXTINF:-1 station-id="awb_280829d0374d200121a8" stream-id="aws_f1d2ea4f0942bd65b7ce" codec="mp3" bitrate="128",Два Берега
 http://radio-connect.dline-media.com/ber_FM.mp3?1739033089436
@@ -3793,8 +3797,6 @@ https://stream.stvradio.ru/radio/8000/DR_ANA
 http://hls-01-regions.emgsound.ru/15_vnovgorod/playlist.m3u8
 #EXTINF:-1 station-id="awb_84bff471bf809ea2615f" stream-id="aws_15518bf00cb3d53d6e57" codec="mp3" bitrate="128",Дорожное радио Вологда 101.0 FM
 http://emgregion.hostingradio.ru:8064/vologda.dorognoe.mp3
-#EXTINF:-1 station-id="awb_75e908fae6a8ea140a81" stream-id="aws_793c979815e9a18456b2" codec="mp3" bitrate="64",Дорожное радио Волхов 102.2 FM
-http://78.140.197.238:9877/DR-Volhov
 #EXTINF:-1 station-id="awb_8867eded4f97124d4c3c" stream-id="aws_bfde7e4466ee93e62f42" codec="mp3" bitrate="0",Дорожное радио Воронеж 102.3 FM
 http://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3
 #EXTINF:-1 station-id="awb_ff6e593e1aba423521b4" stream-id="aws_528293a48f4b73578d8a" codec="mp3" bitrate="128",Дорожное радио Выборг 106.7 FM
@@ -4097,7 +4099,7 @@ https://s.fmplay.ru/e4becb3f
 https://stream03.pcradio.app/Ljubov_Uspenskaja-hi
 #EXTINF:-1 station-id="awb_ebc9874262e7c174e892" stream-id="aws_cacc7c0a5bff32fa4cd1" codec="aac" bitrate="0",Любэ
 https://stream03.pcradio.app/Lyube-hi
-#EXTINF:-1 station-id="awb_984f901c70c3eeba8ac4" stream-id="aws_27c7ef9f92e97793834f" codec="mp3" bitrate="0",Макс FM
+#EXTINF:-1 station-id="awb_984f901c70c3eeba8ac4" stream-id="aws_27c7ef9f92e97793834f" codec="mp3" bitrate="320",Макс FM
 https://maksfm.hostingradio.ru/maksfm320.mp3
 #EXTINF:-1 station-id="awb_defd20ac7c957db2f2a7" stream-id="aws_5a5dd090e147355d832a" codec="mp3" bitrate="0",Макс ФМ Сочи 107.4 FM
 http://maksfm.hostingradio.ru/maksfm128.mp3
@@ -4147,8 +4149,6 @@ https://radiominor.ru:8443/192khz.mp3
 https://radiominor.ru:8443/radiominor_ru_indie.mp3
 #EXTINF:-1 station-id="awb_1127b58baa17b66f0605" stream-id="aws_488aff4199475c7c565d" codec="mp3" bitrate="160",Минор
 https://radiominor.ru:8443/radiominor_ru_jazz.mp3
-#EXTINF:-1 station-id="awb_1127b58baa17b66f0605" stream-id="aws_cfda15be158c3c7af65f" codec="mp3" bitrate="160",Минор
-https://radiominor.ru:8443/radiominor_ru_rurock.mp3
 #EXTINF:-1 station-id="awb_1127b58baa17b66f0605" stream-id="aws_d7f1f61f45abea5f32e2" codec="mp3" bitrate="0",Минор
 https://radiominor.ru:8443/radiominor_ru.mp3
 #EXTINF:-1 station-id="awb_f5aae72f2b7d93b2fb9b" stream-id="aws_61d3376171c14f5ccb85" codec="aac" bitrate="0",Мираж
@@ -4259,7 +4259,7 @@ http://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3
 http://emgspb.hostingradio.ru/novoespb128.mp3
 #EXTINF:-1 station-id="awb_6a3e16b37af17fe2a6e9" stream-id="aws_d31c367a9599954a56ea" codec="mp3" bitrate="256",НОВЫЙ ЗАВЕТ
 https://s.ruworship.ru:4035/stream
-#EXTINF:-1 station-id="awb_06410ddae07ca30ba619" stream-id="aws_632b0b4ccfbc8d2ba4dd" codec="mp3" bitrate="192",Нормальное
+#EXTINF:-1 station-id="awb_06410ddae07ca30ba619" stream-id="aws_632b0b4ccfbc8d2ba4dd" codec="mp3" bitrate="320",Нормальное
 https://listen8.myradio24.com/71400
 #EXTINF:-1 station-id="awb_cb4ffc30f4459732047f" stream-id="aws_f81c078ead39bd787606" codec="mp3" bitrate="0",Ностальгия - Дорожное радио
 http://stream1.hostingradio.ru:8010/19_mp3_128
@@ -4317,7 +4317,7 @@ http://radiopiligrim.ru:8000/none-stop
 https://online.pilotfm.ru/pilot
 #EXTINF:-1 station-id="awb_74be64e7213ecbe5227b" stream-id="aws_8db1dd8067e5e45c6d62" codec="aac+" bitrate="64",Пилот FM - dance
 https://online.pilotfm.ru/pilot_dance
-#EXTINF:-1 station-id="awb_cfcb8ac31e0d97ef7b0d" stream-id="aws_3fead73b7b1ad06189d6" codec="aac" bitrate="283",Пионер FM
+#EXTINF:-1 station-id="awb_cfcb8ac31e0d97ef7b0d" stream-id="aws_3fead73b7b1ad06189d6" codec="aac" bitrate="246",Пионер FM
 https://myradio24.org/pionerfm_256
 #EXTINF:-1 station-id="awb_a6c7f7882f3a763424c3" stream-id="aws_7e95a92aaf86b502bac9" codec="mp3" bitrate="0",Пиратское радио
 https://live.rock-wawe.ru:8001/RockWawe
@@ -4468,7 +4468,7 @@ https://listen8.myradio24.com/alisa
 #EXTINF:-1 station-id="awb_841e3ca18fc49a309d44" stream-id="aws_527df0c75a42a49388a5" codec="mp3" bitrate="64",радио Алтай
 http://146.158.96.114:8000/radio
 #EXTINF:-1 station-id="awb_f25eb35eb54438c23b85" stream-id="aws_3410d5caeb7707fe566f" codec="mp3" bitrate="0",радио АЛЬФА
-https://stream1.alfafm.ru/alfa_mp3
+https://stream2.alfafm.ru/alfa_mp3
 #EXTINF:-1 station-id="awb_a05dd6e7a9db643b0f54" stream-id="aws_4fc2a4cb3e0d81c30f4d" codec="aac" bitrate="62",Радио Ангелов
 https://listen6.myradio24.com/angels_low.aac
 #EXTINF:-1 station-id="awb_b26123e2c741e5e12309" stream-id="aws_9009e9eaf22330fae6f9" codec="mp3" bitrate="0",Радио АСТВ
@@ -4671,9 +4671,9 @@ https://mc-italiano.hostingradio.ru/italiano96.aacp
 https://mc-mcnight.hostingradio.ru/mcnight96.aacp
 #EXTINF:-1 station-id="awb_6af1c721e0f317cee281" stream-id="aws_452e162484a491a95e35" codec="aac+" bitrate="96",Радио Монте Карло - Summertime
 https://mc-summertime.hostingradio.ru/summertime96.aacp
-#EXTINF:-1 station-id="awb_19b9d98d75524738eef6" stream-id="aws_da16455cef18506c822b" codec="aac" bitrate="96",Радио Монте Карло - The Best of Crossover
+#EXTINF:-1 station-id="awb_19b9d98d75524738eef6" stream-id="aws_da16455cef18506c822b" codec="aac+" bitrate="96",Радио Монте Карло - The Best of Crossover
 https://mc-crossover.hostingradio.ru/crossover96.aacp
-#EXTINF:-1 station-id="awb_68c9edba5a2beeb76ed2" stream-id="aws_30390902545dce8c7601" codec="aac" bitrate="96",Радио Монте Карло - Wonderful Blues
+#EXTINF:-1 station-id="awb_68c9edba5a2beeb76ed2" stream-id="aws_30390902545dce8c7601" codec="aac+" bitrate="96",Радио Монте Карло - Wonderful Blues
 https://mc-blues.hostingradio.ru/blues96.aacp
 #EXTINF:-1 station-id="awb_a744df56cefa373de554" stream-id="aws_77d290105d671d06e646" codec="aac" bitrate="96",Радио Монте Карло - Время джаза
 https://mc-mcjazz.hostingradio.ru/mcjazz96.aacp
@@ -4799,8 +4799,6 @@ http://icecast.radonezh.cdnvideo.ru:8000/rad128
 http://stream.randevuradio.ru:8000/randevu
 #EXTINF:-1 station-id="awb_ff007ef3a30ac7f50596" stream-id="aws_cbb06325d7f7a4a1ee2f" codec="mp3" bitrate="128",Радио Рансис
 http://radio.ransis.org:8000/ransis
-#EXTINF:-1 station-id="awb_2999f6680d485b019d65" stream-id="aws_e72b6e3edffd83df45fe" codec="mp3" bitrate="0",Радио РБЖ
-https://rbj.recomedy.ru/online
 #EXTINF:-1 station-id="awb_716ecbcda6b4492e9b7b" stream-id="aws_a179a914ab0052187181" codec="aac" bitrate="0",Радио Рекорд (основной канал)
 http://radiorecord.hostingradio.ru/rr_main96.aacp
 #EXTINF:-1 station-id="awb_49e79b1d2ea504c8f8e4" stream-id="aws_bc9694b2feab53d442d4" codec="mp3" bitrate="320",РАДИО РЕКОРД 256k
@@ -5049,7 +5047,7 @@ https://notthatoldcolonel.ru:1050/stream
 https://listen2.myradio24.com/4156
 #EXTINF:-1 station-id="awb_9f15bddeee9172ceee34" stream-id="aws_f95cabc8eadeba9d3874" codec="mp3" bitrate="0",Радио Тавния
 https://tavria.hostingradio.ru/tavria192.mp3
-#EXTINF:-1 station-id="awb_4874f0abf61afa682503" stream-id="aws_781c9102030f2097be99" codec="aac+" bitrate="135",Радио ТВ Твоя Волна
+#EXTINF:-1 station-id="awb_4874f0abf61afa682503" stream-id="aws_781c9102030f2097be99" codec="aac+" bitrate="133",Радио ТВ Твоя Волна
 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
 #EXTINF:-1 station-id="awb_b4d6f4612a08c66128c0" stream-id="aws_da651d56668648796efb" codec="mp3" bitrate="64",Радио ТМК
 https://a4.radioheart.ru:9036/RH13170
@@ -5059,7 +5057,7 @@ http://176.65.38.3:8000/blagovest
 http://listen7.myradio24.com/torrnado
 #EXTINF:-1 station-id="awb_f88ef4a67fb3ec3896f7" stream-id="aws_55ab02299b947a2c3344" codec="mp3" bitrate="256",Радио Точка Симферополь 98.7 FM
 https://fm.1tvcrimea.ru:19001/stream_provod.mp3
-#EXTINF:-1 station-id="awb_9368d7d7f01298b7824d" stream-id="aws_637e6c704eea2114e871" codec="mp3" bitrate="128",Радио Трансмит
+#EXTINF:-1 station-id="awb_9368d7d7f01298b7824d" stream-id="aws_637e6c704eea2114e871" codec="mp3" bitrate="192",Радио Трансмит
 https://radio.transmit.ru/listen/transmit/transmit_128.mp3
 #EXTINF:-1 station-id="awb_ae3f03d6c28acac30e37" stream-id="aws_e98f58c51c7834a7c2f1" codec="mp3" bitrate="192",Радио Трансмит Череповец (192kB)
 https://radio.transmit.ru/listen/transmit/transmit_192.mp3
@@ -5329,7 +5327,7 @@ https://stream.salyutfm.ru:4020/stream
 http://stream.salyutfm.ru:8000/stream
 #EXTINF:-1 station-id="awb_234af084e3a658bfea1b" stream-id="aws_8f6375a4c2c4550ba93f" codec="mp3" bitrate="192",Самара Максимум
 http://85.236.172.22:8000/maximum
-#EXTINF:-1 station-id="awb_95b5d477e22131ced8d4" stream-id="aws_059546d23a5d08539117" codec="mp3" bitrate="256",Самарское губернское радио 92.5 FM
+#EXTINF:-1 station-id="awb_95b5d477e22131ced8d4" stream-id="aws_059546d23a5d08539117" codec="mp3" bitrate="128",Самарское губернское радио 92.5 FM
 http://46.20.71.66:8000/fm
 #EXTINF:-1 station-id="awb_db00f3c5c32ba346dab1" stream-id="aws_11b7da9ca131bf6b059a" codec="aac" bitrate="128",Самопознание
 https://radio.albrin.online:8001/nonstop
@@ -5626,12 +5624,12 @@ https://stream03.pcradio.app/Jurij_Shatunov-hi
 #EXTINF:-1 station-id="awb_43f24fc834a5b9c4c830" stream-id="aws_8693f7b957f5d4d1b6cb" codec="mp3" bitrate="128",ЯН-ФМ Anime
 http://animklatu.stream.laut.fm/animklatu?uuid=6a16578e-c39e-6731-25f8-d4cbe8bc2e28&t302=2026-10-22_14-37-43
 #EXTINF:-1 station-id="awb_16740bad5c7c0562df99" stream-id="aws_82ae0fb86710fe6f88c5" codec="mp3" bitrate="128",ЯН-ФМ Trance
-https://anilibria.stream.laut.fm/anilibria?t302=2026-10-22_04-44-03&uuid=85deac43-1b26-0abe-ddc8-d2a4ce2de18e
+https://anilibria.stream.laut.fm/anilibria?t302=2026-10-27_04-40-03&uuid=b4d22599-7c32-b3cb-e7fc-826004d4c992
 #EXTINF:-1 station-id="awb_d9db1e98d6aa436de060" stream-id="aws_6bb747bf7a074a2dde3f" codec="mp3" bitrate="128",ЯН.ФМ Диско 90х РФ
 https://radio90s.stream.laut.fm/radio90s?t302=2026-08-22_00-38-10&uuid=cf855143-ffb5-4ba6-8313-fa16af1f426f
 #EXTINF:-1 station-id="awb_d9db1e98d6aa436de060" stream-id="aws_d089b25eb05200dc0070" codec="mp3" bitrate="128",ЯН.ФМ Диско 90х РФ
 https://radio90s.stream.laut.fm/radio90s?t302=2026-10-22_20-04-24&uuid=02b48336-0c24-7b5e-97a2-e81343f81059
 #EXTINF:-1 station-id="awb_d9db1e98d6aa436de060" stream-id="aws_8b2a86dfa0521af86d21" codec="mp3" bitrate="128",ЯН.ФМ Диско 90х РФ
-https://radio90s.stream.laut.fm/radio90s?uuid=312c8f82-06fe-1691-5251-496e1fd66ec1&t302=2026-10-22_07-29-23
+https://radio90s.stream.laut.fm/radio90s?t302=2026-10-27_09-01-05&uuid=b4cd8274-339a-a7eb-ae97-95ffb900e3f4
 #EXTINF:-1 station-id="awb_c35d3c5378a782972326" stream-id="aws_20c6bcb28b94decf344f" codec="mp3" bitrate="192",Ярус
 https://radio3.4m3.ru/listen/yarus/radio.mp3

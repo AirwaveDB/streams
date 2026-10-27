@@ -41,6 +41,8 @@ http://agrestehost.agrestehost.com.br:8041/stream
 https://exodo.ddns.seg.br:20011/;?1705778463505=
 #EXTINF:-1 station-id="awb_efa88a071bef9f5a4db6" stream-id="aws_19e23503c73b2a81007a" codec="aac+" bitrate="128",89 A Radio Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+#EXTINF:-1 station-id="awb_bffbb8e688df73362815" stream-id="aws_339567d5202e8af2e1b5" codec="aac" bitrate="64",89 A Rádio Rock Curitiba 89.3 FM
+https://ice.fabricahost.com.br/89fmcuritiba
 #EXTINF:-1 station-id="awb_104c52e176cabd2a12ca" stream-id="aws_7471beeff845d516cc77" codec="aac+" bitrate="128",89 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
 #EXTINF:-1 station-id="awb_f0850316e53dff9716e6" stream-id="aws_d9723c1fa6a3e7d8416b" codec="aac+" bitrate="128",89 FM A Radio Rock
@@ -225,8 +227,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 https://server23.srvsh.com.br:7918/live.mp3
 #EXTINF:-1 station-id="awb_e33c78f1f9ca3c3901f5" stream-id="aws_09833c36fed8da6b647d" codec="mp3" bitrate="128",BAVARIAN RADIO
 https://br.lucasmultimedia.com/stream.ogg
-#EXTINF:-1 station-id="awb_60f709d1e30c1cde0c3b" stream-id="aws_7cff7b94b3dfc4525c27" codec="mp3" bitrate="128",Beats FM
+#EXTINF:-1 station-id="awb_60f709d1e30c1cde0c3b" stream-id="aws_7cff7b94b3dfc4525c27" codec="aac" bitrate="128",Beats FM
 https://stm24.xcast.com.br:9910/stream
+#EXTINF:-1 station-id="awb_0905ed870a14f248c9e4" stream-id="aws_1509fbe7a7b1981264b5" codec="mp3" bitrate="192",Benchi FM
+https://radio.pevaio.top/listen/benchi/radio.mp3
 #EXTINF:-1 station-id="awb_fccba9e4f43fcf4b34c2" stream-id="aws_942ca09e92eda62506aa" codec="mp3" bitrate="128",BestRadio Brasil
 https://best.viaflux.com/listen/bestradio_brasil_public/1
 #EXTINF:-1 station-id="awb_6554ed87effb4de8fc90" stream-id="aws_bdb23fa8c884ef701cb5" codec="aac+" bitrate="96",Bezerros FM
@@ -530,7 +534,7 @@ http://cast4.audiostream.com.br:8663/mp3
 #EXTINF:-1 station-id="awb_2a5599c90d4576f574fb" stream-id="aws_3eac5286015c3a4fc376" codec="aac+" bitrate="128",FM Rio Jaguaribe 104.5
 https://sws.onradio.biz:9972/stream
 #EXTINF:-1 station-id="awb_b9d86b933a4192142276" stream-id="aws_1f9e68cbd82d36c8cc21" codec="aac" bitrate="48",FM Vale Verde
-https://f100.fabricahost.com.br/fmvaleverde?f=1792651840N01M5H60K7E59JX4FMFJTGK2MTX&tid=01M5H60K7EZ7FYGA1VHH6F09DC
+https://f100.fabricahost.com.br/fmvaleverde?f=1793088157N01M5Y63Y3EYB6YGN93ADWXZG9A&tid=01M5Y63Y3E73JG8D5NCKVDS5JF
 #EXTINF:-1 station-id="awb_b9d86b933a4192142276" stream-id="aws_f95aa2b581d90ff7ad2d" codec="aac" bitrate="48",FM Vale Verde
 https://f108.fabricahost.com.br/fmvaleverde?f=1787363181N01M0KJBGEA2MW8RZ0D1SNJQJXA&tid=01M0KJBGEA25HY8T0M5FP3122K
 #EXTINF:-1 station-id="awb_0975604468831d2692ee" stream-id="aws_fd22a5a88cc15ae2c5a4" codec="mp3" bitrate="128",FM93 Fortaleza
@@ -608,7 +612,7 @@ https://shoutcast2.s12.com.br:16002/;stream.nsv&type=mp3
 #EXTINF:-1 station-id="awb_7986e5f1a9d655147d12" stream-id="aws_140e5e9fb7ee69d5078b" codec="aac" bitrate="128",Grande Rio FM 99,1 Penedo
 https://hts07.brascast.com:10708/live
 #EXTINF:-1 station-id="awb_1e72a79c491f319ba1b1" stream-id="aws_b246352b90d3e673af71" codec="aac" bitrate="48",Grauna FM 95,5
-https://f100.fabricahost.com.br/graunafm?f=1792630867N01M5GJ0HRR3NAQ1JPDETFBY35T&tid=01M5GJ0HRR17K7H2YTSHBRFZ5T
+https://f100.fabricahost.com.br/graunafm?f=1793064921N01M5XFYT2BR0PJCN2RD0Q80CQ0&tid=01M5XFYT2B0NZ3QJYZ7CV0M9KY
 #EXTINF:-1 station-id="awb_2e087a5f6b9fcc5fa0ca" stream-id="aws_babe51eac2352cc3a7b9" codec="mp3" bitrate="128",Groove Wave Lounge
 https://stm1.srvif.com:7576/;
 #EXTINF:-1 station-id="awb_e4e8ab25635859408505" stream-id="aws_da39bf353a9f78707e1d" codec="mp3" bitrate="256",Guararema 103.5 FM
@@ -689,10 +693,10 @@ https://cast4.hoost.com.br:20010/stream
 https://stream.zeno.fm/xuh02vfzurhvv
 #EXTINF:-1 station-id="awb_d93c702a48662a9d45d8" stream-id="aws_c95f4c550374011cb558" codec="aac" bitrate="48",Jaraguá FM 101.3
 http://cast.hoost.com.br:9701/stream
-#EXTINF:-1 station-id="awb_0ce3f55f69644eade3b6" stream-id="aws_6830c19c55f0ac066f60" codec="aac+" bitrate="64",Jazz Medley Webradio
+#EXTINF:-1 station-id="awb_0ce3f55f69644eade3b6" stream-id="aws_6830c19c55f0ac066f60" codec="aac" bitrate="64",Jazz Medley Webradio
 http://server01.ouvir.radio.br:8006/stream
 #EXTINF:-1 station-id="awb_8c35ae181a43f8ce2389" stream-id="aws_18c4e43d3ae79e7bdcbf" codec="aac+" bitrate="48",JB FM
-http://24503.live.streamtheworld.com/JBFMAAC_SC
+http://26683.live.streamtheworld.com/JBFMAAC_SC
 #EXTINF:-1 station-id="awb_8c35ae181a43f8ce2389" stream-id="aws_25efdecce850a84d0039" codec="aac+" bitrate="40",JB FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
 #EXTINF:-1 station-id="awb_8c35ae181a43f8ce2389" stream-id="aws_db9d790550a89fa20c74" codec="aac+" bitrate="48",JB.FM
@@ -987,10 +991,10 @@ https://virtues.live:8184/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
 #EXTINF:-1 station-id="awb_09fe16a3734ab9201266" stream-id="aws_0c678bfa856f8af5e960" codec="mp3" bitrate="128",Mix Fm Teresina
 https://webradio.amsolution.com.br/radio/8080/mix
-#EXTINF:-1 station-id="awb_1803d7e6227c6604d288" stream-id="aws_bb279de4a4214baedec8" codec="aac+" bitrate="48",Mix Rio 102.1 Rio de Janeiro, RJ
-http://24233.live.streamtheworld.com:3690/MIXRIOAAC_SC
 #EXTINF:-1 station-id="awb_1803d7e6227c6604d288" stream-id="aws_4b7ef44946166200f0a1" codec="aac+" bitrate="48",Mix Rio 102.1 Rio de Janeiro, RJ
 http://26563.live.streamtheworld.com:3690/MIXRIOAAC_SC
+#EXTINF:-1 station-id="awb_1803d7e6227c6604d288" stream-id="aws_bb279de4a4214baedec8" codec="aac+" bitrate="48",Mix Rio 102.1 Rio de Janeiro, RJ
+http://27443.live.streamtheworld.com:3690/MIXRIOAAC_SC
 #EXTINF:-1 station-id="awb_86d298a89e8985b33855" stream-id="aws_1a7ff56a2e23b3c6195c" codec="aac+" bitrate="64",MIX São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=mix-web-player-radio-ao-vivo&934992.6600449783
 #EXTINF:-1 station-id="awb_cebd8165bb79e6bb82a8" stream-id="aws_56792502a9e7540b056e" codec="aac" bitrate="128",MIX80
@@ -1092,7 +1096,7 @@ http://27573.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC
 #EXTINF:-1 station-id="awb_f1f690d3e965a851e79f" stream-id="aws_22bf5d5ce2d161092183" codec="aac+" bitrate="48",Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)
 http://27573.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC
 #EXTINF:-1 station-id="awb_1bd022093ba06e0496f4" stream-id="aws_c486e074d05bb05815f9" codec="aac+" bitrate="48",Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)
-http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC
+http://27413.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC
 #EXTINF:-1 station-id="awb_778ebf37c42cc044eb72" stream-id="aws_3258818b88bc75e3d0b2" codec="aac+" bitrate="48",Nova Brasil FM Salvador
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SSAAAC.aac?dist=cadena-app
 #EXTINF:-1 station-id="awb_778ebf37c42cc044eb72" stream-id="aws_2e9100910b6ba70ae812" codec="mp3" bitrate="128",Nova Brasil FM Salvador
@@ -1211,14 +1215,14 @@ https://radio.psybrazil.com.br/electro
 https://radio.psybrazil.com.br/lowbpm
 #EXTINF:-1 station-id="awb_5e6e8388a28f7ea3c47a" stream-id="aws_d09880286420e4c9138e" codec="mp3" bitrate="256",Psybrazil - Main
 https://radio.psybrazil.com.br/psybr
-#EXTINF:-1 station-id="awb_4c740355ac578f8f7faa" stream-id="aws_262f46667d4a10a7a38d" codec="mp3" bitrate="256",Psybrazil - Progressive
+#EXTINF:-1 station-id="awb_4c740355ac578f8f7faa" stream-id="aws_262f46667d4a10a7a38d" codec="mp3" bitrate="192",Psybrazil - Progressive
 https://radio.psybrazil.com.br/progressive
 #EXTINF:-1 station-id="awb_aeafd8462a4bd7e15d65" stream-id="aws_5ee7e6246b27413b64a6" codec="mp3" bitrate="96",Psybrazil - Whapade
 https://radio.psybrazil.com.br/whapade
 #EXTINF:-1 station-id="awb_f26a60db41f8861cdd2b" stream-id="aws_07a046881f89cfbd3fef" codec="mp3" bitrate="128",Punk FM Brasil
 https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3
 #EXTINF:-1 station-id="awb_00cc77112e0e3a027232" stream-id="aws_f65d9ea7f6ef567a783f" codec="aac" bitrate="64",R.VALE VERDE FM 96,66
-https://f100.fabricahost.com.br/valeverdefm?f=1792623568N01M5GB1S6ARJ9BR8H1W9GD0HJK&tid=01M5GB1S6AG8J3025M20ZX2G6V
+https://f100.fabricahost.com.br/valeverdefm?f=1793057467N01M5X8VB9B63859X83NWJQD93A&tid=01M5X8VB9BZCHS989F2MQ00AKS
 #EXTINF:-1 station-id="awb_00cc77112e0e3a027232" stream-id="aws_64f7b0c2652b4c697f68" codec="aac" bitrate="48",R.VALE VERDE FM 96,66
 https://ice.fabricahost.com.br/valeverdefm
 #EXTINF:-1 station-id="awb_5da09e8145a45bf8ffdd" stream-id="aws_b67cb306d96bc143e2f0" codec="aac+" bitrate="96",Radi Ouro Negro FM 100,7
@@ -1262,7 +1266,7 @@ http://zoeweb.net:8176/stream
 #EXTINF:-1 station-id="awb_ab84644463ba9a1777c8" stream-id="aws_fa20256b0b39bd9d9ed5" codec="aac+" bitrate="128",Radio 93 FM
 https://cast.radiu.live:9346/stream
 #EXTINF:-1 station-id="awb_6837ea01789590edef78" stream-id="aws_f569404a04802f7e3733" codec="aac" bitrate="128",Rádio 93 FM
-https://stream-282.surfernetwork.com/3x2dtz84qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeDJkdHo4NHF6enV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1UMmZiRnRuU2tDYUxZN19hbjFpbmciLCJpYXQiOjE3OTI2MzI0MzcsImV4cCI6MTc5MjYzMjQ5N30.AQtzd5bCbdj5EJpp8zKqqV8dTdmqee--OnLBbDLgVeQ
+https://stream-282.surfernetwork.com/3x2dtz84qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeDJkdHo4NHF6enV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlktVXZNZUk1VDBLSExiYU42SkhULXciLCJpYXQiOjE3OTMwNjYwMjEsImV4cCI6MTc5MzA2NjA4MX0.KYOT6yVYQZiEI58LBHPm2vbbnsZnPgtzaVh2SSPGHk8
 #EXTINF:-1 station-id="awb_d88e34a29a7a25aebdc5" stream-id="aws_2662cdb3af7f6c3a2fad" codec="unknown" bitrate="0",Rádio 94 FM 94.7 MHz (Lavras - MG)
 http://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8
 #EXTINF:-1 station-id="awb_9d79e419cf15f306160c" stream-id="aws_31b5042a91ef2d55df26" codec="aac" bitrate="96",Rádio 95 FM 95.7 Alagoinhas
@@ -1296,7 +1300,7 @@ https://hts03.brascast.com:9144/live
 #EXTINF:-1 station-id="awb_ad109543c193c3ea8b41" stream-id="aws_e050e4a2ec7c34542403" codec="aac+" bitrate="64",Rádio Água Azul
 https://stm4.srvif.com:8460/stream
 #EXTINF:-1 station-id="awb_eba60d377384702bf92a" stream-id="aws_de15f55dd5d82d023fa9" codec="mp3" bitrate="128",Rádio Águia FM
-https://stream-178.surfernetwork.com/zg2qr00vrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ZzJxcjAwdnJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBTWnZHcUZaUjdHX0ZmUlNnLUpfLVEiLCJpYXQiOjE3OTI2NDYzNjEsImV4cCI6MTc5MjY0NjQyMX0.WkSDDPLZOgtbbmT3n0SaM5xxOWBYdaIM3zccqCETGU4
+https://stream-204.surfernetwork.com/zg2qr00vrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ZzJxcjAwdnJ6enV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjQyMWMtajdQUU1Pc0Y5U3NQeF9TS1EiLCJpYXQiOjE3OTMwODI3NTksImV4cCI6MTc5MzA4MjgxOX0.-aav1072ITGGciUyzNQfWepcx8utGA51EAxuiIoKX2g
 #EXTINF:-1 station-id="awb_a50fc5fef91b66417535" stream-id="aws_3084e8071940b4663f6b" codec="aac+" bitrate="128",Rádio Agulha
 https://titton.dvr.ovh:6702/stream
 #EXTINF:-1 station-id="awb_04fd195b44c3b97b0c77" stream-id="aws_9cefb99380097c250e03" codec="aac+" bitrate="128",Rádio Alegre Vale Histórico
@@ -1396,7 +1400,7 @@ https://casthttps.suaradionanet.net/10524/stream
 #EXTINF:-1 station-id="awb_9f597e645918848d53c5" stream-id="aws_3f3ba32a60250271b634" codec="aac" bitrate="128",Rádio Atlântico Sul FM
 https://streaming.livespanel.com:21057/stream
 #EXTINF:-1 station-id="awb_492c86d60227b8217116" stream-id="aws_d9f234b6ac4d7efe96bd" codec="mp3" bitrate="96",Rádio Atlântida 100.9 FM - Florianópolis - SC
-https://26493.live.streamtheworld.com/ATL_FLO.mp3
+https://27393.live.streamtheworld.com/ATL_FLO.mp3
 #EXTINF:-1 station-id="awb_cce096f02094bf2507a9" stream-id="aws_ae03cdc2e6227b6f7a7d" codec="aac+" bitrate="64",Rádio Atlântida 104.3 FM - Joinville
 https://26673.live.streamtheworld.com/ATL_JOIAAC.aac?1697701252085
 #EXTINF:-1 station-id="awb_5810160161a1c09a75f1" stream-id="aws_7cc4f1807921f23dc4ae" codec="unknown" bitrate="1000",Rádio Atlântida 93.3 FM
@@ -1578,7 +1582,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/STEREOZERO_S01A
 #EXTINF:-1 station-id="awb_b8d26cd53a2817515ae9" stream-id="aws_b96a86e496218264c34e" codec="aac+" bitrate="128",RADIO CIDADE 100.1
 http://sl.dnip.com.br:10376/stream
 #EXTINF:-1 station-id="awb_c883cbd72a031d734efb" stream-id="aws_495d39b84c8737985d89" codec="aac" bitrate="48",Rádio Cidade 100.1 FM Foz
-https://f108.fabricahost.com.br/cidadefmfoz?f=1792623617N01M5GB394D2CV8RS83Y9TP7QJN&tid=01M5GB394DBNXKEBWXXJTPS573
+https://f108.fabricahost.com.br/cidadefmfoz?f=1793056033N01M5X7FK2KD3RMM2MXH0KGKANC&tid=01M5X7FK2KBMHSQE6F62WE1Z0G
 #EXTINF:-1 station-id="awb_3baf8eccf3a9b096f11f" stream-id="aws_04a129b033bea6658f94" codec="aac+" bitrate="96",Rádio Cidade 101
 https://stream.jmhost.com.br/listen/rc101/radio/;?1708355082012
 #EXTINF:-1 station-id="awb_3cb3ee13eb30776fec08" stream-id="aws_9aa6fb15b02de2823715" codec="aac" bitrate="32",Rádio Cidade 670 AM
@@ -1795,12 +1799,10 @@ http://hd.matutos.com.br:8008/;stream.mp3
 https://server28.srvsh.com.br:8916/live
 #EXTINF:-1 station-id="awb_2ffb9fda8c8861d6f026" stream-id="aws_a734a93c26729a5927d8" codec="aac+" bitrate="128",Rádio FM O Dia 99.7 FM
 https://wz7.servidoresbrasil.com:8274/stream
-#EXTINF:-1 station-id="awb_3f82022bb9a0ce959593" stream-id="aws_5d1900b621ea12082eda" codec="aac" bitrate="96",Rádio força do interior
-https://cp-1.owh.radio.br/listen/owh_s35122/radio-mp3
 #EXTINF:-1 station-id="awb_5734b0f60a579db6e9fe" stream-id="aws_535ca073b807b3427501" codec="aac+" bitrate="128",Rádio Forró
 https://stm5.painelcast.com:7600/stream
 #EXTINF:-1 station-id="awb_839e86d6f46b27dbe2eb" stream-id="aws_6eb54838b6dfb5ad3176" codec="mp3" bitrate="128",Rádio Forró Brega
-https://stream-280.surfernetwork.com/38zc8xggntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzOHpjOHhnZ250enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InhLV1dhYnNoUy1PTGIwb3BOb21sS3ciLCJpYXQiOjE3OTI2NTQ5ODMsImV4cCI6MTc5MjY1NTA0M30.BRwOzwbMj5dpI4rGs7zdoZm6Jo1o3BERo9s2aHM1BfY
+https://stream-280.surfernetwork.com/38zc8xggntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzOHpjOHhnZ250enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ims3U2NtaTJjVEZPNWhoRkMxRmJXNUEiLCJpYXQiOjE3OTMwODg3ODgsImV4cCI6MTc5MzA4ODg0OH0.CCzHRY9zDnPZjuPVtlov85i5rRGkE1rzwp_zgk56FAo
 #EXTINF:-1 station-id="awb_829aafdf80211bd2cc82" stream-id="aws_a500411fcac9898c3d34" codec="unknown" bitrate="0",Rádio Forró Tradicional
 https://forrotradicional.com.br/hls/radioforrotradicional/baixo.m3u8
 #EXTINF:-1 station-id="awb_1bf57038e48d5404f786" stream-id="aws_8572a9fea15220ca8886" codec="aac+" bitrate="64",Rádio Fox Rock
@@ -1817,7 +1819,7 @@ http://stm4.voxhd.com.br:7086/
 https://stm14.xcast.com.br:9116/stream?1771935389390
 #EXTINF:-1 station-id="awb_ff5d89f0161d3dd088a8" stream-id="aws_7471b934fba9cee42b30" codec="mp3" bitrate="128",Rádio Galegóvski
 https://radio.galegovski.com/live
-#EXTINF:-1 station-id="awb_1a925b69ecb26c241009" stream-id="aws_942361483c9675074db6" codec="mp3" bitrate="128",Rádio Galera
+#EXTINF:-1 station-id="awb_1a925b69ecb26c241009" stream-id="aws_942361483c9675074db6" codec="aac" bitrate="32",Rádio Galera
 http://stream.zeno.fm/hwuwmm0dvp8uv
 #EXTINF:-1 station-id="awb_ba251a9aff2de27f8cff" stream-id="aws_f0ca3db0b5b6baea0c4c" codec="unknown" bitrate="1000",Rádio Gaúcha
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
@@ -1857,7 +1859,7 @@ https://cast6.midiazdx.com.br:6880/
 https://stm9.xcast.com.br:9922/
 #EXTINF:-1 station-id="awb_f3526b382a5799606ed5" stream-id="aws_34674712d55b96a7a5af" codec="mp3" bitrate="128",Radio Gospel Life
 https://s11.maxcast.com.br:9165/live
-#EXTINF:-1 station-id="awb_6b2fa2390c94fdf0ae8c" stream-id="aws_783346a399fbe12cc16f" codec="aac+" bitrate="104",Rádio gospel louvores MG
+#EXTINF:-1 station-id="awb_6b2fa2390c94fdf0ae8c" stream-id="aws_783346a399fbe12cc16f" codec="aac+" bitrate="96",Rádio gospel louvores MG
 https://stm1.radioipbr.com.br:7004/live
 #EXTINF:-1 station-id="awb_e13ef0598552baaf0062" stream-id="aws_198b5969c02ed3594082" codec="mp3" bitrate="128",Rádio Grafith
 https://stream-177.surfernetwork.com/qxabz8qwfzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeGFiejhxd2Z6enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IklrRDVtNndaUmNtSHc3djhiSkxKNnciLCJpYXQiOjE3OTI2Nzk3MDgsImV4cCI6MTc5MjY3OTc2OH0._zFUF_z7T2VOK0iHE56S99pfdloif5SIUu4AJwZkdG8
@@ -1885,7 +1887,7 @@ https://stm1.srvif.com:13938/stream
 https://wz7.servidoresbrasil.com:9984/stream?1771864365030
 #EXTINF:-1 station-id="awb_4272bd495e2decaa7fbf" stream-id="aws_8d7699f1b14b7329a8d6" codec="mp3" bitrate="64",Rádio Hits 87.9 FM
 https://stm24.srvaudio.com.br:10082/stream?1771863883280
-#EXTINF:-1 station-id="awb_84c77487c5eef1639f6d" stream-id="aws_d8b286e5a25fa8409d79" codec="aac" bitrate="64",Radio Hollywood
+#EXTINF:-1 station-id="awb_84c77487c5eef1639f6d" stream-id="aws_d8b286e5a25fa8409d79" codec="aac" bitrate="256",Radio Hollywood
 https://stream.radiohollywood.online/listen/hollywood/live
 #EXTINF:-1 station-id="awb_a36b55603e145c020187" stream-id="aws_894965273e970b05d1e3" codec="mp3" bitrate="192",Rádio Hospício Tricolor
 https://servidor39.brlogic.com:8624/live#.mp3
@@ -2027,7 +2029,7 @@ http://srv1.braudio.com.br:7308/;stream.nsv
 https://8231.brasilstream.com.br/stream?1771879486925
 #EXTINF:-1 station-id="awb_44e08c28f5ec5d0d36eb" stream-id="aws_d17c006ab08dee592c6a" codec="mp3" bitrate="0",Radio Livre 95
 http://aovivo.radiolivre95.com:8000/aovivo
-#EXTINF:-1 station-id="awb_43e77ff2f25e7ec81601" stream-id="aws_16b802c671371968b97b" codec="mp3" bitrate="128",Rádio Livre som
+#EXTINF:-1 station-id="awb_43e77ff2f25e7ec81601" stream-id="aws_16b802c671371968b97b" codec="mp3" bitrate="128",Rádio Livre Som
 https://server19.srvsh.com.br:8934/stream
 #EXTINF:-1 station-id="awb_67dc044539bd09184e7f" stream-id="aws_242f214e9c0eef3fbd34" codec="mp3" bitrate="0",Rádio Local SIVB
 https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4825&type=s1
@@ -2151,14 +2153,14 @@ http://stm1.voxtreaming.com.br:7254/stream?1740250557606
 https://ice.fabricahost.com.br/mundifm
 #EXTINF:-1 station-id="awb_700f5e1bc6fde57310ea" stream-id="aws_95d472c88233428aa1ed" codec="aac" bitrate="48",Rádio Music Hall
 http://server02.ouvir.radio.br:8050/stream
-#EXTINF:-1 station-id="awb_fbaa0ba7237bbbd2958e" stream-id="aws_f7aba7e59d71e8ec5b47" codec="aac+" bitrate="96",Rádio Musical
+#EXTINF:-1 station-id="awb_fbaa0ba7237bbbd2958e" stream-id="aws_f7aba7e59d71e8ec5b47" codec="aac+" bitrate="104",Rádio Musical
 http://stm21.conectastm.com:6892/stream
 #EXTINF:-1 station-id="awb_d51b0981725457f4fa6a" stream-id="aws_ad6541867544c35405eb" codec="aac" bitrate="64",Rádio Nação 95.7 FM
 https://stm01.virtualcast.com.br:8014/nacaojoinville?1776797312625
 #EXTINF:-1 station-id="awb_468bf0522aef4caf5900" stream-id="aws_02ae63b96247f72f30a5" codec="mp3" bitrate="64",Rádio Nação Sandy e Junior
 https://servidor34-1.brlogic.com:8194/live
 #EXTINF:-1 station-id="awb_ddec72178f1b70972315" stream-id="aws_3a3de4fd9f32a210be77" codec="mp3" bitrate="128",Rádio Nação Vitoriosa
-http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxGRlZvR2VtUkVxbnVrZ2FGdU9weXciLCJpYXQiOjE3OTI2NDM5NTksImV4cCI6MTc5MjY0NDAxOX0.ipJsOzw8b1E-8CLtrr3Ans_18aIaref_Ci5OUGsexLw
+http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik45UXJmc1JsU1dPT2JKam9Da05Yd2ciLCJpYXQiOjE3OTMwNzcwMDIsImV4cCI6MTc5MzA3NzA2Mn0.avKM2hgXPDPnlfGXIe_AufC3YkPylK8iVpIndkHOZTs
 #EXTINF:-1 station-id="awb_ca066a0fe78c2adfeb06" stream-id="aws_e9948f00fbc3a08b4f51" codec="mp3" bitrate="128",Rádio Nação Vitoriosa
 http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlZSFJnQVcyVFplVWZrLXRwTkRQOFEiLCJpYXQiOjE3OTI2ODg1ODIsImV4cCI6MTc5MjY4ODY0Mn0.Pj6mNo8-Cr93u1i-A1CxZNlaVLulgVp3TAyAWg2QR9M
 #EXTINF:-1 station-id="awb_ca066a0fe78c2adfeb06" stream-id="aws_47dc4bc379f9cd3fdb13" codec="mp3" bitrate="128",Rádio Nação Vitoriosa
@@ -2239,8 +2241,8 @@ https://cast4.hoost.com.br:20214/stream
 http://radio02.logicahost.com.br:8082/stream
 #EXTINF:-1 station-id="awb_3f3efd8d201b8a46b531" stream-id="aws_2f6e0e466f4d9854d672" codec="aac+" bitrate="128",Rádio Osório
 https://stm19.voxhd.com.br:9324/stream
-#EXTINF:-1 station-id="awb_ed31b98635e2aa53f82c" stream-id="aws_410102f44d68d4b87030" codec="aac+" bitrate="48",Rádio Ótima 89.1 FM
-https://f100.fabricahost.com.br/otimafm891?f=1792634196N01M5GN64EZWH6FPA4RNCA57DNY&tid=01M5GN64EZA69WRG6TFXQF6VRK
+#EXTINF:-1 station-id="awb_ed31b98635e2aa53f82c" stream-id="aws_410102f44d68d4b87030" codec="aac+" bitrate="128",Rádio Ótima 89.1 FM
+https://f100.fabricahost.com.br/otimafm891?f=1793068394N01M5XK8SP1R1ESWJYVRAGSBZVM&tid=01M5XK8SP1VGXVC3VSX5S825MK
 #EXTINF:-1 station-id="awb_353b1b60ad4c7c9f862a" stream-id="aws_87761b6f984b82194929" codec="aac" bitrate="48",Rádio Ótima 90.3 FM
 https://ice.fabricahost.com.br/otimafm903
 #EXTINF:-1 station-id="awb_f51d873ae551174e0885" stream-id="aws_e57f43a050e0afd37777" codec="aac+" bitrate="48",Rádio Ótima 95.5 FM
@@ -2323,7 +2325,7 @@ https://stm10.voxhd.com.br:9702/stream
 https://servidor21.brlogic.com:7976/live
 #EXTINF:-1 station-id="awb_b5e510eefe43713adc90" stream-id="aws_75deb3589681ad5af5bc" codec="aac" bitrate="96",Rádio Rede Aleluia 99.5 FM
 https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
-#EXTINF:-1 station-id="awb_2c331447df01c07570d2" stream-id="aws_9c3453b3884e490ffa99" codec="mp3" bitrate="160",Radio Rede Dakota
+#EXTINF:-1 station-id="awb_2c331447df01c07570d2" stream-id="aws_9c3453b3884e490ffa99" codec="mp3" bitrate="128",Radio Rede Dakota
 https://stream.zeno.fm/rpudyh6mfuhvv
 #EXTINF:-1 station-id="awb_422e9f7c2059c74d30ed" stream-id="aws_acf2ee83aac694597309" codec="mp3" bitrate="0",Rádio Rede Sucesso 98.3 FM
 http://cast61.sitehosting.com.br:8446/live
@@ -2341,7 +2343,7 @@ https://centova4.transmissaodigital.com:20080/;
 https://usa10.fastcast4u.com:1890/;?type=http&nocache=1791042940
 #EXTINF:-1 station-id="awb_f0e038fcca66aefdea0c" stream-id="aws_2744bc493c6f3f1981de" codec="mp3" bitrate="128",Radio Retrô Brasil
 http://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;
-#EXTINF:-1 station-id="awb_108416e0c898fdb566c2" stream-id="aws_5e340c6f0fe4dbba2adb" codec="mp3" bitrate="120",Radio Retroativa
+#EXTINF:-1 station-id="awb_108416e0c898fdb566c2" stream-id="aws_5e340c6f0fe4dbba2adb" codec="mp3" bitrate="112",Radio Retroativa
 https://stream.radioretroativa.com/radio
 #EXTINF:-1 station-id="awb_a27d0fd0388070be5514" stream-id="aws_08ab0abe503016095243" codec="mp3" bitrate="64",Rádio Riacho FM - O Amor da Cidade
 https://stm23.srvaudio.com.br:10974/stream
@@ -2441,7 +2443,7 @@ https://stream.soulone.com.br/listen/soulone/externo
 https://servidor24.brlogic.com:7134/live
 #EXTINF:-1 station-id="awb_67031ad60da57100b5e3" stream-id="aws_d4bed3c67f85ea5a3c0d" codec="mp3" bitrate="128",Rádio Stone
 https://servidor22-3.brlogic.com:9670/live?source=app_pwa
-#EXTINF:-1 station-id="awb_8e47b2c2fc838e3f673d" stream-id="aws_07d877568bb1bea09fcd" codec="aac" bitrate="112",Radio Studio Bala
+#EXTINF:-1 station-id="awb_8e47b2c2fc838e3f673d" stream-id="aws_07d877568bb1bea09fcd" codec="aac" bitrate="96",Radio Studio Bala
 https://stream.zeno.fm/87t0h7c51zquv.aac
 #EXTINF:-1 station-id="awb_b5b763f34b71776ed4c8" stream-id="aws_4eea3da5b9595af39771" codec="aac" bitrate="128",Rádio Studio Flashback
 https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
@@ -2460,7 +2462,7 @@ https://servidor32-2.brlogic.com:8200/live?source=website
 #EXTINF:-1 station-id="awb_e4089dea0c72790edac0" stream-id="aws_5515cc4624b8daa12fd7" codec="mp3" bitrate="128",Rádio T 105,3 FM Ponta Grossa - PR
 https://s1.mediacp.com.br:8984/stream
 #EXTINF:-1 station-id="awb_9aa20e231fe9bcde7805" stream-id="aws_87fe8b5b27fbc4b244b1" codec="aac" bitrate="64",Rádio T 88.1 FM Foz
-https://f108.fabricahost.com.br/radiotfozdoiguacu?f=1792635017N01M5GNZ65WEGMKTPWA9FVGE98E&tid=01M5GNZ65WBYB06V00X3HMDPT8
+https://f100.fabricahost.com.br/radiotfozdoiguacu?f=1793067865N01M5XJRMZP0CYXTBQZ1VJ79VDM&tid=01M5XJRMZPFQT9H7WYV0Q0TK6S
 #EXTINF:-1 station-id="awb_810325d358c92141b592" stream-id="aws_04a9a6eb1303f57c2782" codec="mp3" bitrate="128",Radio Tabira
 https://radio.stmsrv.com:8444/;
 #EXTINF:-1 station-id="awb_d986b18fe673a104794e" stream-id="aws_ce40904751fae480be1c" codec="aac" bitrate="80",RADIO TAMANDARE '100% JESUS'
@@ -2486,7 +2488,7 @@ https://server2.webradios.com.br:19196/9196
 #EXTINF:-1 station-id="awb_6e5c909e6d38a5e2582a" stream-id="aws_bd45da1cba66fbd07928" codec="aac+" bitrate="64",Rádio Terra FM 100.3
 http://servidor30.brlogic.com:8622/live?1561450793452
 #EXTINF:-1 station-id="awb_5b6119189a9dba96931e" stream-id="aws_88fadb5bcfbf428ca2d4" codec="mp3" bitrate="128",Rádio The Beatles (MP3)
-http://stream-284.surfernetwork.com/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InplVXk2emtQU19XTklBN2dlZ0xvM2ciLCJpYXQiOjE3OTI2Mjc3NzYsImV4cCI6MTc5MjYyNzgzNn0.F0M_vpRXh11e_sOzS4FA_IwI8BU7l8c1anP4rit-Whg
+http://stream-284.surfernetwork.com/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ild0NjBmeWVIVDQyLU9UbDZ0ZVRyN3ciLCJpYXQiOjE3OTMwNjA5NjksImV4cCI6MTc5MzA2MTAyOX0.syYxEVq-7AXpV3695KrBD-a2CqDtOs0zsssg0fStZ6w
 #EXTINF:-1 station-id="awb_c73dad075fc3b0ed6fe3" stream-id="aws_e806c1207b5414ee6780" codec="mp3" bitrate="128",RÁDIO TIMBLESOM
 https://stm1.colossocastpro.com.br:7116/index
 #EXTINF:-1 station-id="awb_9cf4bee93a3bfbd33403" stream-id="aws_1e50569db02f89da29b2" codec="mp3" bitrate="128",Rádio TMC 100.1 FM
@@ -2518,7 +2520,7 @@ https://shout25.crossradio.com.br:18014/stream
 #EXTINF:-1 station-id="awb_6fe533215e2114801286" stream-id="aws_4a28aa3be7b63404db9e" codec="aac+" bitrate="64",Rádio Trianon 740 AM
 https://shout25.crossradio.com.br:18014/stream?1771879759561
 #EXTINF:-1 station-id="awb_6b065bcdd7d19e36f6f5" stream-id="aws_c926b041ecd326b66c9d" codec="aac" bitrate="64",Radio Tropical 103.7 FM
-https://f108.fabricahost.com.br/radiotropicalvix?f=1792650362N01M5H4KG1PYXNFZ36G0AV94DYB&tid=01M5H4KG1P0TWDQH3FMQJ1K41V
+https://f108.fabricahost.com.br/radiotropicalvix?f=1793082992N01M5Y169PR9WQGPXSZPPYXD1QP&tid=01M5Y169PSYAR1CB810RW2PFVE
 #EXTINF:-1 station-id="awb_475360140db8965211d1" stream-id="aws_21599ad80d383bc45783" codec="aac+" bitrate="64",Rádio Tropical Diamantina
 https://stm22.voxhd.com.br:9904/
 #EXTINF:-1 station-id="awb_386e642dae9181e8244d" stream-id="aws_a4c38ee4a04720bde995" codec="aac" bitrate="48",Rádio Tropical FM 94.7 MHz (Barbacena - MG)
@@ -2586,11 +2588,11 @@ https://stream02.ouveai.com.br/8066/stream
 #EXTINF:-1 station-id="awb_9b0f21a6829a68e901af" stream-id="aws_7674e61d3a6aed860b0a" codec="mp3" bitrate="128",Radio Venceslau FM
 http://servidor27-3.brlogic.com:8040/live?source=website
 #EXTINF:-1 station-id="awb_5d3325faf5810eb1094c" stream-id="aws_cd6b484e270e211ce024" codec="aac" bitrate="48",Rádio Verde Oliva - Brasília
-https://f100.fabricahost.com.br/verdeolivabsb?f=1792631702N01M5GJT1B2M0PNW4W897BSR8XB&tid=01M5GJT1B2G1Y1XG7JVTR1V4A2
+https://f108.fabricahost.com.br/verdeolivabsb?f=1793064017N01M5XF37RBZNJV16SEHW1YP64K&tid=01M5XF37RB25SAS4FG5EZE4PXE
 #EXTINF:-1 station-id="awb_fd77264d33c46d0a56b9" stream-id="aws_edbfc71dc18dc75a0571" codec="aac" bitrate="48",Rádio Verde Oliva - Resende
 https://ice.fabricahost.com.br/verdeolivaresende
 #EXTINF:-1 station-id="awb_414f01bf7df237847f0c" stream-id="aws_0d183a2b1a5670faee19" codec="aac" bitrate="48",Rádio Verde Oliva - Três Corações
-https://f100.fabricahost.com.br/verdeoliva3cor?f=1792617524N01M5G59AY9VXSH3J9A6AB3VN67&tid=01M5G59AY9P7K6XA99XGR07D63
+https://f108.fabricahost.com.br/verdeoliva3cor?f=1793050045N01M5X1RVBVYATN90M42KPYCH0B&tid=01M5X1RVBVG354B3Z2VHSTZTGR
 #EXTINF:-1 station-id="awb_53fd290b47f8099bad95" stream-id="aws_e11ad80a138cf4c47ccd" codec="aac" bitrate="64",Radio Verde Vida
 https://srv.radioverdevida.com.br/listen/rvv/normal
 #EXTINF:-1 station-id="awb_6e70c5f4148257a99527" stream-id="aws_4a8a51ce758991a50295" codec="mp3" bitrate="128",Rádio Verdinha 92.5 FM
@@ -2691,7 +2693,7 @@ https://station.azrmcsoftbroadcast.com.br/listen/radio_alagoas/Alagoas
 https://centova4.transmissaodigital.com:20143/principal;
 #EXTINF:-1 station-id="awb_426045b90446cdc9984e" stream-id="aws_8d892a34c38e263dbffb" codec="mp3" bitrate="160",Rede Blitz
 https://c32.radioboss.fm:8254/source
-#EXTINF:-1 station-id="awb_b07639e38be3b5bbde06" stream-id="aws_52cdbb1b9edc2ca46f5c" codec="aac+" bitrate="128",rede clamor missionario web
+#EXTINF:-1 station-id="awb_b07639e38be3b5bbde06" stream-id="aws_52cdbb1b9edc2ca46f5c" codec="mp3" bitrate="128",rede clamor missionario web
 https://cast1.midiazdx.com.br:6764/stream
 #EXTINF:-1 station-id="awb_130d53670a24908c1be6" stream-id="aws_bf28cf45541e2e187f4b" codec="aac+" bitrate="48",Rede Grauna FM
 https://centova11.ipstm.net:20032/stream
@@ -2741,6 +2743,8 @@ https://serrabrancafm.jmvstream.com/stream](https://serrabrancafm.jmvstream.com/
 http://40.160.24.87:10650/stream
 #EXTINF:-1 station-id="awb_1f3d939e87d3a275add9" stream-id="aws_f3faf61f44b1972fd638" codec="mp3" bitrate="128",Sertaneja 106.7
 https://sc4s.cdn.upx.com:8067/stream
+#EXTINF:-1 station-id="awb_beb9d4482a5ccc62e390" stream-id="aws_14e2f0579a1f086a6bf4" codec="ogg" bitrate="96",Sertanejo Rádio
+https://stream.sertanejoradio.com.br/listen/sertanejoradio/live
 #EXTINF:-1 station-id="awb_28082b293377d8e23d55" stream-id="aws_c56d4244222dffae678b" codec="aac" bitrate="128",Sertanejona | Geração Sertanejo Universitário
 https://stream.geracaoradios.com.br/listen/sertanejouniversitario/radio
 #EXTINF:-1 station-id="awb_41a3204887bb479d25f0" stream-id="aws_ef0b72150a51ade577bb" codec="aac" bitrate="128",Sete Colinas FM 101.7
@@ -2752,7 +2756,7 @@ https://stm3.voxhd.com.br:8154/stream
 #EXTINF:-1 station-id="awb_fc2a525c00964a19828b" stream-id="aws_0890c9761676296a90cc" codec="mp3" bitrate="128",Sintoniza Rock
 https://s04.maxcast.com.br:8930/autodj
 #EXTINF:-1 station-id="awb_1dd0b157ee86dfe2ce1b" stream-id="aws_c71247c1235c4643e08a" codec="mp3" bitrate="128",SM Brasil
-http://stream-179.surfernetwork.com/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImI3ZUREQ2Q4U2ZPeGJBTHFjek1EOFEiLCJpYXQiOjE3OTI2NDQ2ODQsImV4cCI6MTc5MjY0NDc0NH0.6bZNf9QlYSmeoZikD4-zflO-XmYHnNyWIhBqjImXKSw
+http://stream-179.surfernetwork.com/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InhhT2xfcXl0VHZLUWE4X3VFNWZjU0EiLCJpYXQiOjE3OTMwODMzNTcsImV4cCI6MTc5MzA4MzQxN30.7TMq46QpjZ_0TXdlCI4VS24-qtgVZyztOdbR4npUjZo
 #EXTINF:-1 station-id="awb_6edc5890290ac6a250a4" stream-id="aws_6b39fe3acc376e338ab2" codec="aac+" bitrate="128",Smooth Jazz Brasil
 https://sc4s.cdn.upx.com:8176/stream
 #EXTINF:-1 station-id="awb_bf483216c0ecb2387bc6" stream-id="aws_64653ce6598246fb531f" codec="mp3" bitrate="128",Smooth Jazz Lounge
@@ -2853,6 +2857,8 @@ http://189.2.83.108:8040/tiradentes
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BH.mp3
 #EXTINF:-1 station-id="awb_111b96ae8607b8ddd58e" stream-id="aws_8df4249e8712bf7f7641" codec="aac+" bitrate="32",TMC Belo Horizonte
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+#EXTINF:-1 station-id="awb_78b8540d9e19e1265d8a" stream-id="aws_3f7c620a623a9e898c14" codec="mp3" bitrate="128",TMC Curitiba 100.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWB.mp3
 #EXTINF:-1 station-id="awb_a83e7292a23be3051380" stream-id="aws_98ae6449cb50f3ad84f5" codec="mp3" bitrate="128",Toka Web Radio
 https://stream.zeno.fm/06ybx31t0v8uv
 #EXTINF:-1 station-id="awb_3baf79686d6bcd3e0631" stream-id="aws_f7b92ccb0502535440ad" codec="aac" bitrate="48",Top FM 104.1 Sao Paulo
@@ -2932,7 +2938,7 @@ https://servidor16.brlogic.com:7022/live
 #EXTINF:-1 station-id="awb_d5f142df20a355ddf2b1" stream-id="aws_685f455b1e78ffc48869" codec="mp3" bitrate="96",VINTAGE SOFT
 https://servidor37.brlogic.com:7020/live
 #EXTINF:-1 station-id="awb_2ad7bbf13c1d4193b457" stream-id="aws_382bebbcd390ee9d518b" codec="aac" bitrate="48",Viola FM 91.7 Foz
-https://f100.fabricahost.com.br/radioviolafoz?f=1792638510N01M5GS9SAXQMBXK5BE6D35T751&tid=01M5GS9SAXCNNGKC3ZW873SJ5X
+https://f108.fabricahost.com.br/radioviolafoz?f=1793078661N01M5XX24TD0EJD2C0BPAPRY4K4&tid=01M5XX24TDZP8MNBZM0V8N5X6W
 #EXTINF:-1 station-id="awb_21ddfcabed665429daf2" stream-id="aws_667e10154adfdc80f511" codec="aac" bitrate="64",Viola Sertaneja Web
 https://s17.maxcast.com.br:8669/live
 #EXTINF:-1 station-id="awb_24c38290b7db87ceef99" stream-id="aws_bde6466e136b4ed531d7" codec="mp3" bitrate="128",VIOLA VIVA CAIPIRA

@@ -117,7 +117,7 @@ https://i.klikhost.com:9622/stream
 http://202.43.230.4:8000/live
 #EXTINF:-1 station-id="awb_588bbf781b338115d2a0" stream-id="aws_7b86394501bf4a702b6b" codec="aac" bitrate="0",Bob Marley
 https://stream.pcradio.ru/bob_marley-hi
-#EXTINF:-1 station-id="awb_94c9de3896dcb6ff20a1" stream-id="aws_c1979dc5d5266140a23f" codec="aac" bitrate="128",BOOS 104,2 FM Padang
+#EXTINF:-1 station-id="awb_94c9de3896dcb6ff20a1" stream-id="aws_c1979dc5d5266140a23f" codec="mp3" bitrate="128",BOOS 104,2 FM Padang
 http://sv3.alhasmedia.com/radio/8320/radio?1786805519233
 #EXTINF:-1 station-id="awb_2c141518a739743c3e82" stream-id="aws_9bcc00c9134a556417d6" codec="aac" bitrate="64",BRAYA RADIO
 https://live.brayaradio.com/listen/brayaradio/stream
@@ -161,8 +161,6 @@ https://station.comfyradio.id/listen/comfyradio/radio.mp3
 https://stream.zeno.fm/jw6ys87h2dguv
 #EXTINF:-1 station-id="awb_167e2d2f0367f3a1b8e1" stream-id="aws_09e30a71f967ef492629" codec="aac+" bitrate="48",Cosmo Radio 101.9 FM Bandung
 http://scg.streamingmurah.com:8074/stream
-#EXTINF:-1 station-id="awb_c6c1c0aa1862bc3a64be" stream-id="aws_78de3821d06e17a42756" codec="aac" bitrate="0",Cosmopolitan
-https://n0c.radiojar.com/u7d8heq3bnzuv
 #EXTINF:-1 station-id="awb_87ce00f81c20d93ec92f" stream-id="aws_78f5f5cd1646e8794df5" codec="aac" bitrate="0",Cosmopolitan 90.4 FM Jakarta
 http://stream.radiojar.com/u7d8heq3bnzuv
 #EXTINF:-1 station-id="awb_1b8ddd4b8f9d120ceddd" stream-id="aws_080e5afee298a20deb70" codec="aac" bitrate="0",Cosmopolitan FM
@@ -187,6 +185,8 @@ https://stream.rcs.revma.com/k02rmq48kxcwv
 https://stream-pd-bdg.dimasalfaridzi.my.id/delta
 #EXTINF:-1 station-id="awb_d5d7c690d006efa9544e" stream-id="aws_d35bac7340e96f4d7fe0" codec="mp3" bitrate="128",DENGERIN MUSIK INDONESIA
 https://stream.denger.in/
+#EXTINF:-1 station-id="awb_a5e1948a98f88c1242ec" stream-id="aws_2add0afc59d7539238ec" codec="mp3" bitrate="96",Diozz FM
+https://stream-ssl.arenastreaming.com:8046/live
 #EXTINF:-1 station-id="awb_fcfb2347ee230b1f71f5" stream-id="aws_7095b37cd0151724ddfd" codec="mp3" bitrate="128",DJ BARU
 https://stream.zeno.fm/iwcyhq56nwiuv
 #EXTINF:-1 station-id="awb_63587487fd357315aa91" stream-id="aws_5b490c71650bcb40d8c3" codec="aac+" bitrate="48",Djati FM
@@ -219,9 +219,9 @@ https://mpc1.mediacp.eu/stream/firzaradio
 https://a5.siar.us/listen/fourtyfiveradio/stream
 #EXTINF:-1 station-id="awb_b3d74fbffa039e3de0ba" stream-id="aws_6f3051eb5b42c3e7702a" codec="mp3" bitrate="320",Free FM - Jakarta
 https://rocafmadrid.radioca.st/stream
-#EXTINF:-1 station-id="awb_fd561d1e8eb06da7e68a" stream-id="aws_1bf5ab86d8eb72b37199" codec="aac+" bitrate="128",Fress FM
+#EXTINF:-1 station-id="awb_fd561d1e8eb06da7e68a" stream-id="aws_1bf5ab86d8eb72b37199" codec="aac+" bitrate="96",Fress FM
 http://162.244.80.106:11185/stream
-#EXTINF:-1 station-id="awb_fd561d1e8eb06da7e68a" stream-id="aws_ed4aae0748e58dca4aa4" codec="aac+" bitrate="128",Fress FM
+#EXTINF:-1 station-id="awb_fd561d1e8eb06da7e68a" stream-id="aws_ed4aae0748e58dca4aa4" codec="aac+" bitrate="96",Fress FM
 http://streaming.fressfm.com:11185/stream
 #EXTINF:-1 station-id="awb_fd561d1e8eb06da7e68a" stream-id="aws_2c6bb5bd34c400e6f441" codec="aac+" bitrate="128",fress fm
 https://streaming.fressfm.com:11185/stream
@@ -301,7 +301,7 @@ https://stream.heartline.co.id:8443/heartline_tangerang
 https://hitradio4ever.stream.laut.fm/hitradio4ever
 #EXTINF:-1 station-id="awb_27c0fa49ffbbed5c0f6d" stream-id="aws_1061634b02fd6995d0bc" codec="mp3" bitrate="96",Hits Unikom Radio
 https://streaming.hitsunikomradio.com/
-#EXTINF:-1 station-id="awb_1e8a7ccbe348e0cd0c7f" stream-id="aws_9885e43212582cb8a575" codec="aac" bitrate="96",HITZ 91.2 FM
+#EXTINF:-1 station-id="awb_1e8a7ccbe348e0cd0c7f" stream-id="aws_9885e43212582cb8a575" codec="aac" bitrate="96",Hitz 91.2 FM Belitung
 https://play.bilitonesefm.com/listen/radiohitzfm/stream
 #EXTINF:-1 station-id="awb_df29112b697969c754ff" stream-id="aws_e425cc998c181c7a0b9e" codec="unknown" bitrate="0",Hot 93.2 FM
 http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8
@@ -312,14 +312,14 @@ https://ic.mari.co.id:8443/hotfm
 #EXTINF:-1 station-id="awb_b14653d1152dcbecb780" stream-id="aws_33a03e6016fec9a11386" codec="mp3" bitrate="192",I Love Music - I♥K-POP
 https://ilm.stream12.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3Mzc5MTE4JmQ9OGZiOTdlMzkxNmMzNjRiZjAxYjQ
 #EXTINF:-1 station-id="awb_b14653d1152dcbecb780" stream-id="aws_e404fdf24c1e907d695a" codec="mp3" bitrate="192",I Love Music - I♥K-POP
-https://ilm.stream35.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjQyNTg5JmQ9ZjcwMTViYzc2ZmE1MjE1YmM3ZmM
+https://ilm.stream18.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkzMDgyMzUzJmQ9NmVkODQ1MjAxMTQ0MjJhMWIzYjk
 #EXTINF:-1 station-id="awb_b045cd8c6c20ab7e1010" stream-id="aws_4132c9a1eed437da3398" codec="mp3" bitrate="192",I Love Music - I♥TOP 100 CHARTS
-https://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjUxNzA0JmQ9MDI2NDVkMTQ4YmM2NmI0MmMwODQ
+https://ilm.stream27.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkzMDkwODgzJmQ9ZGZmYTJmNDMzMjA1OTkwMGY0ZmI
 #EXTINF:-1 station-id="awb_b045cd8c6c20ab7e1010" stream-id="aws_a59defd24f92f4542f14" codec="mp3" bitrate="192",I Love Music - I♥TOP 100 CHARTS
 https://ilm.stream35.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3MzIxMzQxJmQ9ZDMxY2IzM2IxYzBlMDc2MTg5MTU
 #EXTINF:-1 station-id="awb_b0ba5ecdb5a72f90ee7d" stream-id="aws_7dc977e5684d2e4bb2bc" codec="mp3" bitrate="0",I-Radio Jakarta
 http://stream.radiojar.com/4ywdgup3bnzuv
-#EXTINF:-1 station-id="awb_0b6eafd6f5f8048abb6e" stream-id="aws_d6c2625226f8bfed214c" codec="mp3" bitrate="160",Imelda FM
+#EXTINF:-1 station-id="awb_0b6eafd6f5f8048abb6e" stream-id="aws_d6c2625226f8bfed214c" codec="mp3" bitrate="144",Imelda FM
 https://server.radioimeldafm.co.id:8030/imeldafm
 #EXTINF:-1 station-id="awb_53ccf74bbaf2774238da" stream-id="aws_3a81f998da178675f6b0" codec="aac" bitrate="0",Inayah Radio Suryalaya
 https://s3.alhastream.com/listen/station_38/radio
@@ -405,8 +405,8 @@ https://ic.mari.co.id:8443/kisfm
 http://live.kisifm.com/kisifm
 #EXTINF:-1 station-id="awb_25f9bafda21717c59a25" stream-id="aws_ad421384661a274a531d" codec="mp3" bitrate="128",KISS FM Jember
 https://i.klikhost.com/8894/;stream.aac?1737215476182
-#EXTINF:-1 station-id="awb_26b62f63b07ecf3b6680" stream-id="aws_9e829f6e90813bd57db4" codec="aac" bitrate="80",KLCBS
-https://streaming.klcbs.id/listen/klcbs/klcbsfm
+#EXTINF:-1 station-id="awb_26b62f63b07ecf3b6680" stream-id="aws_9e829f6e90813bd57db4" codec="aac" bitrate="320",KLCBS
+https://streaming.klcbs.id/listen/klcbs/klcbs-hd
 #EXTINF:-1 station-id="awb_26b62f63b07ecf3b6680" stream-id="aws_de7c41b04228b2e0f901" codec="aac" bitrate="80",KLCBS
 https://streaming.klcbsofficial.com/listen/klcbs/klcbs
 #EXTINF:-1 station-id="awb_55ff8145c1797cde69f0" stream-id="aws_7fea656385f863313497" codec="aac" bitrate="128",KLCBS Fusion
@@ -677,7 +677,7 @@ https://bercahayafm.my.id/listen/stream/live
 https://play.bilitonesefm.com/listen/radiobfm/stream
 #EXTINF:-1 station-id="awb_b4d30dd64280e71f5265" stream-id="aws_090dc8ba9228beaf7b57" codec="aac+" bitrate="96",Radio Bintang Tenggara
 https://asv.alhastream.com:4070/rbtfm
-#EXTINF:-1 station-id="awb_cc22c36890b92a68356d" stream-id="aws_ae8405d391bfec63cab6" codec="aac" bitrate="128",Radio Bola
+#EXTINF:-1 station-id="awb_cc22c36890b92a68356d" stream-id="aws_ae8405d391bfec63cab6" codec="aac" bitrate="94",Radio Bola
 https://live.radiobola.co.id/listen/radiobola/stream
 #EXTINF:-1 station-id="awb_d365638f430591d14f3d" stream-id="aws_9d3a805c3e016acc14c7" codec="aac" bitrate="128",Radio Bola
 https://live.radiobola.co.id/listen/radiobola/stream
@@ -719,7 +719,7 @@ https://stream-ssl.arenastreaming.com:8000/jakarta
 https://stream-ssl.arenastreaming.com:8005/bandung
 #EXTINF:-1 station-id="awb_8d2b8f27fa8e94b0a5c9" stream-id="aws_399a050c18ecd8572b1d" codec="aac+" bitrate="48",Radio Elshinta Surabaya
 https://stream-ssl.arenastreaming.com:8030/surabaya
-#EXTINF:-1 station-id="awb_ba598deb7dab526c1d08" stream-id="aws_c3e0412adf843e13e036" codec="aac+" bitrate="128",Radio Fress FM
+#EXTINF:-1 station-id="awb_ba598deb7dab526c1d08" stream-id="aws_c3e0412adf843e13e036" codec="aac+" bitrate="96",Radio Fress FM
 https://streaming.fressfm.com:11185/stream
 #EXTINF:-1 station-id="awb_2828fc899824f89f1df3" stream-id="aws_c343f4b1d2e34f2edabf" codec="aac" bitrate="128",Radio Gema Randik
 https://gemarandik.mubakab.go.id:8443/stream
@@ -768,8 +768,6 @@ https://ssg.streamingmurah.com:9300/;
 #EXTINF:-1 station-id="awb_ffb5fc3e20c1bbd332d4" stream-id="aws_9b8fd97b0da4550b073e" codec="mp3" bitrate="96",Radio Losta FM Blitar 89.2 MHz
 https://stream.zeno.fm/ar3nv92ahfhvv
 #EXTINF:-1 station-id="awb_ab12ba61c4cd596ab3fe" stream-id="aws_0a075c0b9c508abac5e9" codec="aac" bitrate="128",Radio Manggarai 88
-https://radiomanggarai88.online/listen/rm88/radio.mp3
-#EXTINF:-1 station-id="awb_eeb2085f9c4598072f22" stream-id="aws_3d2af12689ee262e10f8" codec="aac" bitrate="128",Radio Manggarai 88
 https://radiomanggarai88.online/listen/rm88/radio.mp3
 #EXTINF:-1 station-id="awb_baef0107b9693fde5b9a" stream-id="aws_4203e81bfe012f0f876d" codec="aac" bitrate="64",RADIO MAS FM MALANG
 https://svara-stream.radioddns.net/malang_masfm_
@@ -895,7 +893,7 @@ https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
 https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
 #EXTINF:-1 station-id="awb_605d9100c4d37733c767" stream-id="aws_7425ad7c8af63bf9773e" codec="aac+" bitrate="128",RRI Pro 1 Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
-#EXTINF:-1 station-id="awb_3fda1fc2651e118d7eea" stream-id="aws_60350c43a7a355cbffbe" codec="aac+" bitrate="64",RRI PRO 1 PALEMBANG
+#EXTINF:-1 station-id="awb_3fda1fc2651e118d7eea" stream-id="aws_60350c43a7a355cbffbe" codec="aac+" bitrate="96",RRI PRO 1 PALEMBANG
 https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3
 #EXTINF:-1 station-id="awb_f7d3e45dfdc9a919f8a9" stream-id="aws_26f7b9221bc03816429e" codec="aac+" bitrate="64",RRI Pro 1 Sungailiat
 https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro1.mp3
