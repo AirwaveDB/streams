@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 station-id="awb_a90711a5a04c5cb81a49" stream-id="aws_06d307e2a5ac525d0638" codec="aac" bitrate="96",A Radio Banja Luka
 https://aradiostream.atvbl.com/live
-#EXTINF:-1 station-id="awb_a7d63e21f5a2f1d1fd49" stream-id="aws_a4c1a37500e476492590" codec="aac" bitrate="192",Abdulbasit Abdulsamad
+#EXTINF:-1 station-id="awb_a7d63e21f5a2f1d1fd49" stream-id="aws_a4c1a37500e476492590" codec="mp3" bitrate="192",Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_654fe416081271ef505b" stream-id="aws_914f21d34f5bdd3e6ab3" codec="mp3" bitrate="100",Alpha 93.1 FM Riscado
 https://kadushi.westream.cloud/listen/alfafm/xstream
@@ -247,6 +247,8 @@ https://radio.dukahosting.com:7002/;
 https://webtvstream.bhtelecom.ba/radio_usk.m3u8
 #EXTINF:-1 station-id="awb_b664f406496b3155e355" stream-id="aws_17388cc03de49b9fbfb8" codec="mp3" bitrate="24",Radio USK 1
 https://radiousk.radioca.st/stream/
+#EXTINF:-1 station-id="awb_2172e65b90f53bc81605" stream-id="aws_d639605d8724bafb0d37" codec="mp3" bitrate="128",Radio USK 2
+https://radiousk2.radioca.st/;
 #EXTINF:-1 station-id="awb_d502e0a04051ffdb0376" stream-id="aws_f9f982dc3d52cc375f4d" codec="unknown" bitrate="128",Radio Usora
 https://webtvstream.bhtelecom.ba/radio_usora.m3u8
 #EXTINF:-1 station-id="awb_a8da6df792cdbabdb893" stream-id="aws_a2d70365f4af37f6ec5d" codec="unknown" bitrate="128",Radio Usora

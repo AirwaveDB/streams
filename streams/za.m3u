@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 station-id="awb_0a17bd4ae41ed1e7f029" stream-id="aws_acf71b42721dcdba3aa6" codec="mp3" bitrate="128",011 Radio
-https://sv2.famcast.co.za/stream/011_radio?1769529224555
 #EXTINF:-1 station-id="awb_a88754c389c94f7b7d24" stream-id="aws_8468852e2e83400d5fea" codec="flv" bitrate="0",5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FM
 #EXTINF:-1 station-id="awb_a88754c389c94f7b7d24" stream-id="aws_6a009bef1d3c88fcf134" codec="aac+" bitrate="48",5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac
 #EXTINF:-1 station-id="awb_311dff2df7476a643558" stream-id="aws_0770ad3c3ad5c2da8c04" codec="mp3" bitrate="64",702 Johannesburg
-http://25533.live.streamtheworld.com:3690/FM702_SC
+http://21633.live.streamtheworld.com/FM702_SC
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_f09811e7e2a9f6f56194" codec="aac" bitrate="0",919
 https://edge.iono.fm/xice/112_low.aac
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_94fcb4697645263fde32" codec="aac" bitrate="0",919
@@ -16,9 +14,7 @@ http://28973.live.streamtheworld.com:3690/FM947AAC_SC
 #EXTINF:-1 station-id="awb_c0ba137d0ae5dd6d7181" stream-id="aws_1c4d77e8f5e9ebf59a9c" codec="mp3" bitrate="64",94.7 Highveld Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC
 #EXTINF:-1 station-id="awb_b227b713b04bc9f4d8b1" stream-id="aws_f134015c33de69a2c2f5" codec="mp3" bitrate="64",947
-http://29334.live.streamtheworld.com/FM947_SC
-#EXTINF:-1 station-id="awb_c99d55e3368eff7952e4" stream-id="aws_26c495a1d1c6afacf493" codec="aac" bitrate="64",Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+http://27753.live.streamtheworld.com/FM947_SC
 #EXTINF:-1 station-id="awb_4392e2b48d02726b6479" stream-id="aws_801aef2658cfe147a3f5" codec="mp3" bitrate="128",African Praise Radio
 https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 #EXTINF:-1 station-id="awb_28b4d0d76632f79061d3" stream-id="aws_139509d4cc0eca348a0c" codec="mp3" bitrate="128",Afrobeat N1 FM
@@ -205,6 +201,8 @@ https://de2.streamingpulse.com/ssl/LinkFM
 https://ukwesta.streaming.broadcast.radio/lmradio
 #EXTINF:-1 station-id="awb_8870b875c58be08f9e70" stream-id="aws_8ea36a0ea56b045fdfab" codec="mp3" bitrate="160",Loca FM
 https://s3.we4stream.com:2020/stream/locafm
+#EXTINF:-1 station-id="awb_043441f5d39a1cec66fd" stream-id="aws_6010abf770570991fc85" codec="aac+" bitrate="48",Lotus FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC.aac
 #EXTINF:-1 station-id="awb_16a4d7e388d393017267" stream-id="aws_f62eda884face4691b89" codec="mp3" bitrate="128",Luister FM
 http://stream2.luisterfm.co.za:8000/LuisterFM
 #EXTINF:-1 station-id="awb_c7ae8c2d1c6ba3185c25" stream-id="aws_45d71fab9eb33ecc4a6c" codec="aac" bitrate="32",Magic 828
@@ -385,6 +383,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC
 https://vm65162.streamerr.co/listen/ultracol_/radio.mp3
 #EXTINF:-1 station-id="awb_d84b924c1aa30cfcdb09" stream-id="aws_9b9ad8c543705713be08" codec="unknown" bitrate="0",uMgungundlovu FM 107.6
 https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8
+#EXTINF:-1 station-id="awb_2988ebadf57dc9858bb0" stream-id="aws_ca29748f23dcaf63367f" codec="aac+" bitrate="48",Umhlobo Wenene FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/UMHLOBOWENENEAAC.aac
 #EXTINF:-1 station-id="awb_734961d388147e1689ac" stream-id="aws_3e422aa5254049e2994c" codec="mp3" bitrate="128",Urban Fusion Radio
 http://stream.zeno.fm/wcy3kh4pqv8uv?ver=896973
 #EXTINF:-1 station-id="awb_18fe647b80e229b649f0" stream-id="aws_f9eec69cee2fb4b71ab3" codec="mp3" bitrate="192",Vault Radio 404
@@ -412,6 +412,6 @@ http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8
 #EXTINF:-1 station-id="awb_ede78ae543d9b68f4d6f" stream-id="aws_1bdee702f82481a49977" codec="mp3" bitrate="128",zoibi FM
 https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3
 #EXTINF:-1 station-id="awb_94ba2efac3c61688ed98" stream-id="aws_cbc02c24632fc0d7a8d4" codec="mp3" bitrate="128",zoibicube
-https://radio3.eclipse-streaming.co.za/listen/zoibi/eggstra
+https://radio3.eclipse-streaming.co.za/listen/zoibi/zoibi.mp3
 #EXTINF:-1 station-id="awb_c513afac5b1e714e8463" stream-id="aws_8877fbbd28a13f3a8608" codec="unknown" bitrate="0",Zone Radio
 https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken=

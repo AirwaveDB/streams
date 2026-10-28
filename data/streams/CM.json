@@ -24,20 +24,18 @@
     "name": "Abdulbasit Abdulsamad",
     "country": "CM",
     "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "codec": "aac",
+    "codec": "mp3",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CM:abdulbasit-abdulsamad",
-      "f81fe147-ab44-4762-bdf4-6ef5bf9dfead"
+      "CM:abdulbasit-abdulsamad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:22:12Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ab046a87b795f468e9d5",
@@ -56,7 +54,7 @@
       "06f4e5d9-de1f-46c6-b960-2852dd4e0eca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:18:57Z"
+    "lastCheckedAt": "2026-10-28T01:03:12Z"
   },
   {
     "id": "aws_bb5760750785c9cdc185",
@@ -209,6 +207,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-26T10:53:43Z"
+  },
+  {
+    "id": "aws_fc452f86c037da431f44",
+    "stationId": "awb_e70b11359600d5231d26",
+    "name": "EASY RADIO CAMEROUN",
+    "country": "CM",
+    "url": "http://ecmanager2.pro-fhi.net:1580/",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "72bd4070-9006-4736-9b15-9f2fccbfbbf8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T12:07:19Z"
   },
   {
     "id": "aws_4ee00a67c136c6fad9b7",
@@ -495,7 +512,7 @@
       "CM:mmuock-community-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T20:05:08Z"
+    "lastCheckedAt": "2026-10-27T21:30:29Z"
   },
   {
     "id": "aws_d46ae308636638797a19",
@@ -610,6 +627,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-26T22:59:35Z"
+  },
+  {
+    "id": "aws_a8e43218c49c6ba0caa9",
+    "stationId": "awb_12da5a5d504664b9773d",
+    "name": "Radio Equinoxe",
+    "country": "CM",
+    "url": "https://s6.citrus3.com/stream/radioequinoxe",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "81e71576-dcd8-4206-8c68-f8df794ee9e3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T16:48:03Z"
   },
   {
     "id": "aws_a9a153ad84b3f5cf7e52",

@@ -5,41 +5,37 @@
     "name": "Abdulbasit Abdulsamad",
     "country": "KG",
     "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "codec": "aac",
+    "codec": "mp3",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "KG:abdulbasit-abdulsamad",
-      "bc470798-a62f-4c8b-b22b-8893036c8dee"
+      "KG:abdulbasit-abdulsamad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T09:07:58Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_0c25bd12f7588d46aa48",
+    "id": "aws_58ba17dfc43cc97f545a",
     "stationId": "awb_80a065923f360857c276",
     "name": "Coldstar Radio (high quality)",
     "country": "KG",
-    "url": "https://ice.coldstar.online/high.ogg",
+    "url": "https://ice.coldstar.online/high.mp3",
     "codec": "mp3",
     "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
-      "verified-radio-streams"
+      "radio-browser"
     ],
     "sourceIds": [
-      "33ecd479-837a-4e5b-bf3a-1d9d00f53e0d",
-      "KG:coldstar-online-radio-high-quality"
+      "33ecd479-837a-4e5b-bf3a-1d9d00f53e0d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:09:41Z"
+    "lastCheckedAt": "2026-10-27T22:46:34Z"
   },
   {
     "id": "aws_43ab5f2130f14f0a6aed",
@@ -60,7 +56,45 @@
       "KG:coldstar-online-radio-low-quality"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T09:31:47Z"
+    "lastCheckedAt": "2026-10-27T10:04:09Z"
+  },
+  {
+    "id": "aws_0c25bd12f7588d46aa48",
+    "stationId": "awb_80a065923f360857c276",
+    "name": "ColdStar.Online Radio (High quality)",
+    "country": "KG",
+    "url": "https://ice.coldstar.online/high.ogg",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "KG:coldstar-online-radio-high-quality"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
+  },
+  {
+    "id": "aws_9ed09e183a5dfbea0643",
+    "stationId": "awb_3c15bc6ce00fe463a3dd",
+    "name": "Europa Plus Kyrgyzstan",
+    "country": "KG",
+    "url": "https://cdn.radioplayer.kg:8443/europa64",
+    "codec": "aac",
+    "bitrate": 56,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9d81788e-5a14-40c9-95e0-b358a3552c5e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T18:28:46Z"
   },
   {
     "id": "aws_456801f9a9d3816c1506",
@@ -81,7 +115,7 @@
       "a9e9aa67-53a9-4dae-a4a0-71ee1dd7f7dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T14:10:43Z"
+    "lastCheckedAt": "2026-10-27T14:34:45Z"
   },
   {
     "id": "aws_2ff91568ebeb4ed056ef",
@@ -121,7 +155,7 @@
       "KG:kyrgyzstan-obondoru"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T12:00:34Z"
+    "lastCheckedAt": "2026-10-27T13:18:00Z"
   },
   {
     "id": "aws_f75b54f2586a49c346dd",

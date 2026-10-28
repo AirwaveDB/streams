@@ -10,15 +10,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NG:radio-quran",
-      "f6be111d-2ea7-4eb4-b989-06adb8f269d6"
+      "NG:radio-quran"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:25:51Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4b4a6858c9adf201b236",
@@ -37,7 +35,7 @@
       "14a5fe2f-8b82-4a15-ae75-128413aa3414"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T01:45:38Z"
+    "lastCheckedAt": "2026-10-28T02:20:57Z"
   },
   {
     "id": "aws_6f24fbda4c20bba73ef4",
@@ -58,7 +56,7 @@
       "NG:1radio-international"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T12:21:37Z"
+    "lastCheckedAt": "2026-10-27T12:36:15Z"
   },
   {
     "id": "aws_12f7ec1a4fc0198aa65a",
@@ -79,7 +77,7 @@
       "NG:1radio-oguta-community"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:36:58Z"
+    "lastCheckedAt": "2026-10-27T22:51:26Z"
   },
   {
     "id": "aws_d6eac31769e0ad993767",
@@ -98,7 +96,7 @@
       "21087b19-1be8-41ec-a476-c7d6ca34baa4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:46:09Z"
+    "lastCheckedAt": "2026-10-28T02:01:52Z"
   },
   {
     "id": "aws_abb118fbe4e34f9a23c3",
@@ -106,20 +104,18 @@
     "name": "Abdulbasit Abdulsamad",
     "country": "NG",
     "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "codec": "aac",
+    "codec": "mp3",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NG:abdulbasit-abdulsamad",
-      "cc15b2ae-77ab-4764-9a55-d87f574bbb53"
+      "NG:abdulbasit-abdulsamad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:16:05Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_bddecb9efc0760478c2f",
@@ -157,7 +153,7 @@
       "4f54b171-b1bd-4ae8-b819-00d078cc2bca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T21:29:03Z"
+    "lastCheckedAt": "2026-10-27T21:57:38Z"
   },
   {
     "id": "aws_4362c116eba574c62e7c",
@@ -176,7 +172,7 @@
       "536669d5-9b8e-4d4d-b462-caf9fdb9ab2a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T12:32:54Z"
+    "lastCheckedAt": "2026-10-27T14:16:33Z"
   },
   {
     "id": "aws_1d353c268b73007234dc",
@@ -218,7 +214,7 @@
       "e0d49458-2a02-4b6f-9349-a2059b19dc24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T01:35:48Z"
+    "lastCheckedAt": "2026-10-28T02:03:00Z"
   },
   {
     "id": "aws_80c8a68b87134a626d8c",
@@ -256,7 +252,7 @@
       "f4599800-804a-430d-b47a-534c54b79008"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T12:37:17Z"
+    "lastCheckedAt": "2026-10-27T13:49:41Z"
   },
   {
     "id": "aws_8b955412e2a4746133ba",
@@ -275,7 +271,7 @@
       "b7995f3e-dba9-473b-aaf5-8ce0e0596911"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:36:28Z"
+    "lastCheckedAt": "2026-10-28T01:05:27Z"
   },
   {
     "id": "aws_91a7511b4e88ef6d10e3",
@@ -297,6 +293,25 @@
     "lastCheckedAt": "2026-10-27T08:15:36Z"
   },
   {
+    "id": "aws_a5aee7529c5dec787409",
+    "stationId": "awb_40670983995d232d9098",
+    "name": "Beat FM Lagos 99.9",
+    "country": "NG",
+    "url": "https://beatfmlagos-atunwadigital.streamguys1.com/beatfmlagos/playlist.m3u8",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0fd61826-e1b0-4a76-bc31-23f2ec06ac0d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T12:44:08Z"
+  },
+  {
     "id": "aws_830f5388738b14de6c34",
     "stationId": "awb_ed5113feee2cdf895c20",
     "name": "Blast 98.3 FM",
@@ -313,7 +328,7 @@
       "d05e3e8b-241c-4672-be1a-90571135730d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:29:55Z"
+    "lastCheckedAt": "2026-10-28T00:56:44Z"
   },
   {
     "id": "aws_8b249d88b43b9f078a52",
@@ -332,7 +347,7 @@
       "fdfd32c3-7612-4d83-acf1-5f7f0bc887db"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T18:31:11Z"
+    "lastCheckedAt": "2026-10-27T20:49:25Z"
   },
   {
     "id": "aws_65136c663e3b0becd78d",
@@ -370,7 +385,7 @@
       "92e7f1c4-a911-4f13-85f3-ec69c2ee9af5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T08:58:48Z"
+    "lastCheckedAt": "2026-10-27T09:28:17Z"
   },
   {
     "id": "aws_7c2bf3a9a9434ab6c704",
@@ -410,7 +425,7 @@
       "d9a0de1e-a4cb-481f-a414-556d02b7838d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T23:43:43Z"
+    "lastCheckedAt": "2026-10-28T00:12:34Z"
   },
   {
     "id": "aws_d401fad761c322f34278",
@@ -450,7 +465,7 @@
       "322ffde1-a78f-4a3f-bfb4-eda54f378cc6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T21:01:23Z"
+    "lastCheckedAt": "2026-10-27T21:15:59Z"
   },
   {
     "id": "aws_6b5cbecd611b3c710a11",
@@ -490,7 +505,7 @@
       "f75104b7-6c7a-4b52-87cf-1e999388371e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T18:33:08Z"
+    "lastCheckedAt": "2026-10-27T19:07:13Z"
   },
   {
     "id": "aws_582bc3d8996d4ce0be42",
@@ -509,7 +524,7 @@
       "cc6525f6-7b80-45b4-a964-37d432b92ca4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T20:13:40Z"
+    "lastCheckedAt": "2026-10-27T22:05:09Z"
   },
   {
     "id": "aws_88d30b1237d72e87e94a",
@@ -530,7 +545,7 @@
       "bbc214d6-207d-4977-a2c0-d3a88df159e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:34:55Z"
+    "lastCheckedAt": "2026-10-27T23:13:44Z"
   },
   {
     "id": "aws_82b6ab0700047aea29c6",
@@ -551,7 +566,7 @@
       "NG:fad-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:45:16Z"
+    "lastCheckedAt": "2026-10-28T01:37:47Z"
   },
   {
     "id": "aws_f5db5799c9e0fef64b6f",
@@ -570,7 +585,7 @@
       "c4e15534-bf72-49d2-9da5-3e400f11803d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T09:34:22Z"
+    "lastCheckedAt": "2026-10-27T11:22:25Z"
   },
   {
     "id": "aws_dd12802635e7d0143538",
@@ -589,7 +604,7 @@
       "78c9894a-5177-4772-9712-7a3ef030432f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T11:57:38Z"
+    "lastCheckedAt": "2026-10-27T13:59:22Z"
   },
   {
     "id": "aws_cf777ff6fb005d176b37",
@@ -608,7 +623,7 @@
       "55ab608a-ecda-40bb-8d53-2e1aba5e3483"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T19:33:06Z"
+    "lastCheckedAt": "2026-10-27T20:15:20Z"
   },
   {
     "id": "aws_53d09d95da3668340969",
@@ -627,7 +642,7 @@
       "15392242-57a0-4e31-9e2d-71859675caf8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T21:17:56Z"
+    "lastCheckedAt": "2026-10-27T21:37:05Z"
   },
   {
     "id": "aws_6ee7db50ea489ebcb354",
@@ -646,7 +661,7 @@
       "b9181965-f606-42f6-99fd-fd04ec340cd9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T21:29:03Z"
+    "lastCheckedAt": "2026-10-27T21:32:38Z"
   },
   {
     "id": "aws_9e6f7bcc58ef48928739",
@@ -665,7 +680,7 @@
       "94cae4d4-7934-41a6-a2eb-14d8282ca9f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T23:07:59Z"
+    "lastCheckedAt": "2026-10-28T00:07:28Z"
   },
   {
     "id": "aws_9b9079ab50bb722ca087",
@@ -686,7 +701,7 @@
       "NG:godfrey-okoye-university-radio-106-9fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:29:55Z"
+    "lastCheckedAt": "2026-10-28T00:37:15Z"
   },
   {
     "id": "aws_2fbb51a0231f00a962d0",
@@ -707,7 +722,7 @@
       "NG:goradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T18:43:11Z"
+    "lastCheckedAt": "2026-10-27T19:11:21Z"
   },
   {
     "id": "aws_57f7000add53d6085d52",
@@ -768,7 +783,7 @@
       "NG:green-radio-uganda"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T18:01:29Z"
+    "lastCheckedAt": "2026-10-27T18:45:48Z"
   },
   {
     "id": "aws_b1ca5275842a797008c9",
@@ -789,7 +804,7 @@
       "NG:hod-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:02:18Z"
+    "lastCheckedAt": "2026-10-28T01:59:34Z"
   },
   {
     "id": "aws_82916bad2db432aa0ad3",
@@ -808,7 +823,7 @@
       "955ca3bd-f1a4-413f-94e0-4368d8c9ab18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:56:49Z"
+    "lastCheckedAt": "2026-10-28T01:24:02Z"
   },
   {
     "id": "aws_3d9d966d99bb6466f67f",
@@ -848,7 +863,7 @@
       "d529453c-08b3-42bb-bb65-4e95b43c9178"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T09:12:12Z"
+    "lastCheckedAt": "2026-10-27T09:35:24Z"
   },
   {
     "id": "aws_ef298835a12072805071",
@@ -869,7 +884,7 @@
       "NG:konga103-7fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T17:46:23Z"
+    "lastCheckedAt": "2026-10-27T18:14:34Z"
   },
   {
     "id": "aws_17d5e101e69c51026521",
@@ -890,7 +905,7 @@
       "NG:lagosjump-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:29:55Z"
+    "lastCheckedAt": "2026-10-28T00:30:38Z"
   },
   {
     "id": "aws_49042f2a6cbaf6ced2df",
@@ -911,7 +926,7 @@
       "NG:magic-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T16:49:19Z"
+    "lastCheckedAt": "2026-10-27T17:41:40Z"
   },
   {
     "id": "aws_8257907cdcc667526b28",
@@ -930,7 +945,7 @@
       "1da93dc5-365a-49b9-8fa8-67a8ce5668f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T08:25:13Z"
+    "lastCheckedAt": "2026-10-27T09:15:33Z"
   },
   {
     "id": "aws_802bd5fbd9adef20d817",
@@ -951,7 +966,7 @@
       "NG:memories-96-5fm-uyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:08:01Z"
+    "lastCheckedAt": "2026-10-28T00:18:50Z"
   },
   {
     "id": "aws_a5eaff9f8d6c7466226d",
@@ -1010,7 +1025,7 @@
       "NG:mob-urban-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T10:39:16Z"
+    "lastCheckedAt": "2026-10-27T10:52:51Z"
   },
   {
     "id": "aws_381d36e258c2bc951e50",
@@ -1030,7 +1045,26 @@
       "9aa3d762-d7f7-4d5c-a471-8f75616c6c3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:59:22Z"
+    "lastCheckedAt": "2026-10-27T13:45:20Z"
+  },
+  {
+    "id": "aws_562ac585ad4449703e1d",
+    "stationId": "awb_63031db78c8bb1f4e551",
+    "name": "Naija FM 102.7 Lagos",
+    "country": "NG",
+    "url": "https://naijafmlagos-atunwadigital.streamguys1.com/naijafmlagos/playlist.m3u8",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7567690a-2467-482b-8f72-4029c92df4ec"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T14:34:45Z"
   },
   {
     "id": "aws_0393894ad4a08d002874",
@@ -1051,7 +1085,7 @@
       "NG:nigeria-info"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:16:05Z"
+    "lastCheckedAt": "2026-10-28T01:07:34Z"
   },
   {
     "id": "aws_3ba8e1a1dce26bb17725",
@@ -1070,7 +1104,7 @@
       "f8d499d5-e223-4a0c-b712-2fb374628e35"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T13:22:35Z"
+    "lastCheckedAt": "2026-10-27T14:27:07Z"
   },
   {
     "id": "aws_8e316af3dfebf4ab775a",
@@ -1091,7 +1125,7 @@
       "NG:obong-university-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:30:57Z"
+    "lastCheckedAt": "2026-10-27T16:37:11Z"
   },
   {
     "id": "aws_9d5a9924260412353d3d",
@@ -1110,7 +1144,7 @@
       "ac768f53-eb22-415d-be6d-e713af9b2270"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T12:27:35Z"
+    "lastCheckedAt": "2026-10-27T13:57:25Z"
   },
   {
     "id": "aws_47c14afee4e6722c4327",
@@ -1131,7 +1165,7 @@
       "d22eaa1d-4f56-457c-b060-7857b63fc2b9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T01:08:26Z"
+    "lastCheckedAt": "2026-10-28T01:33:35Z"
   },
   {
     "id": "aws_8e3977669c1985cd29d6",
@@ -1150,7 +1184,7 @@
       "7e6e7bb9-6f55-4c79-83fa-ff25aa72e117"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T08:54:51Z"
+    "lastCheckedAt": "2026-10-27T11:45:30Z"
   },
   {
     "id": "aws_8c73428a5b4cc7c2ea41",
@@ -1169,7 +1203,7 @@
       "bd84e569-e827-4ddf-91af-d2c9378614fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T09:12:12Z"
+    "lastCheckedAt": "2026-10-27T09:47:54Z"
   },
   {
     "id": "aws_70cd3419eed9498c82ba",
@@ -1209,7 +1243,7 @@
       "NG:rccg-central-parish-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T17:34:17Z"
+    "lastCheckedAt": "2026-10-27T19:40:44Z"
   },
   {
     "id": "aws_238d6aff03ba211178f0",
@@ -1228,7 +1262,26 @@
       "85550c05-c693-11e8-a498-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T17:10:47Z"
+    "lastCheckedAt": "2026-10-27T18:56:50Z"
+  },
+  {
+    "id": "aws_deae1058c6fdc182a644",
+    "stationId": "awb_74a73c0df2b494acc0f6",
+    "name": "Rhythm 93.7 FM Lagos",
+    "country": "NG",
+    "url": "https://rhythmfmlagos-atunwadigital.streamguys1.com/rhythmfmlagos",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fbb6eeb9-e895-4c69-ba15-9442b21dfb4d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-27T13:06:28Z"
   },
   {
     "id": "aws_bacde19b4b3a3cf684aa",
@@ -1249,7 +1302,7 @@
       "e31778fd-6e9b-4f18-9c55-e17068fa7b27"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T10:04:26Z"
+    "lastCheckedAt": "2026-10-27T13:24:23Z"
   },
   {
     "id": "aws_f6829104e9018b12c2c0",
@@ -1270,7 +1323,7 @@
       "f69afbf3-fc53-44d1-b0ec-69911f350705"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T14:12:58Z"
+    "lastCheckedAt": "2026-10-27T17:10:47Z"
   },
   {
     "id": "aws_2f5658100db6bc20cdbf",
@@ -1328,7 +1381,7 @@
       "80ca6a0f-7f8b-4308-8ffb-054a20f16e5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:54:39Z"
+    "lastCheckedAt": "2026-10-28T01:29:04Z"
   },
   {
     "id": "aws_4c21cdf8bc1f3aee8858",
@@ -1347,7 +1400,7 @@
       "6f8b706b-866c-4d14-ac07-b752d2e38b2d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T19:52:32Z"
+    "lastCheckedAt": "2026-10-27T20:42:44Z"
   },
   {
     "id": "aws_7190b26709f5df6ddfda",
@@ -1368,7 +1421,7 @@
       "NG:urban-radio-enugu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T08:19:16Z"
+    "lastCheckedAt": "2026-10-27T12:36:15Z"
   },
   {
     "id": "aws_08f84770a1be86f74733",
@@ -1389,7 +1442,7 @@
       "NG:usaku-fm-90-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T18:29:14Z"
+    "lastCheckedAt": "2026-10-27T18:34:21Z"
   },
   {
     "id": "aws_7e3d5b659ef8bd5fa7ce",
@@ -1410,7 +1463,7 @@
       "NG:vicinity-95-3-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T19:52:32Z"
+    "lastCheckedAt": "2026-10-27T20:04:22Z"
   },
   {
     "id": "aws_2312227d445e28c8c466",
@@ -1419,7 +1472,7 @@
     "country": "NG",
     "url": "https://mpc.my-control-panel.eu/stream/8138",
     "codec": "mp3",
-    "bitrate": 192,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1431,7 +1484,7 @@
       "d7f8c883-8816-4960-8b39-5ae1f1c60342"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T17:36:33Z"
+    "lastCheckedAt": "2026-10-27T18:24:54Z"
   },
   {
     "id": "aws_be28d81deb3909198d74",
@@ -1452,7 +1505,7 @@
       "NG:wazobia-fm-lagos"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T16:55:53Z"
+    "lastCheckedAt": "2026-10-27T17:17:24Z"
   },
   {
     "id": "aws_fa29fc6bcfa006dda8b0",
@@ -1471,7 +1524,7 @@
       "65e1fb3e-efa9-4698-9ebc-972f03776eba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T10:50:34Z"
+    "lastCheckedAt": "2026-10-27T10:52:51Z"
   },
   {
     "id": "aws_baf22665620d3389b08f",
@@ -1490,7 +1543,7 @@
       "7e66acae-0f86-4d20-ba2a-b79909df9c47"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T10:39:16Z"
+    "lastCheckedAt": "2026-10-27T12:44:08Z"
   },
   {
     "id": "aws_a56c58f554601365ed65",

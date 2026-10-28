@@ -11,7 +11,7 @@ https://cast1.torontocast.com:4605/stream
 http://25553.live.streamtheworld.com:3690/AFNE_BLX_SC
 #EXTINF:-1 station-id="awb_be812a3979a1087e5858" stream-id="aws_6f38bc1c6db73e9aed3f" codec="mp3" bitrate="128",1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
-#EXTINF:-1 station-id="awb_8028705ba4e3bfd84b16" stream-id="aws_ca49926fe0e290fbee1a" codec="aac+" bitrate="48",100,5
+#EXTINF:-1 station-id="awb_8028705ba4e3bfd84b16" stream-id="aws_ca49926fe0e290fbee1a" codec="aac+" bitrate="47",100,5
 http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3
 #EXTINF:-1 station-id="awb_322639626637d230ab82" stream-id="aws_80e3a1cc9fea8221bed5" codec="aac+" bitrate="48",100,5 Das Hitradio
 http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3
@@ -25,8 +25,6 @@ http://s1.voscast.com:10584/stream
 https://webradiobe.be/listen/2dance/2dance128.mp3
 #EXTINF:-1 station-id="awb_c9fb67c810fa4bbbde4e" stream-id="aws_6694589366e175716338" codec="mp3" bitrate="192",48FM
 https://stream.48fm.com:8000/listen
-#EXTINF:-1 station-id="awb_7d47d0fb36e049dabe6d" stream-id="aws_17927d3fa0ac1766fc5b" codec="aac" bitrate="64",Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_a44a17b5e36dee6ef2a0" stream-id="aws_64aa28749725a58b55b4" codec="mp3" bitrate="192",Accent Radio
 https://www.clubfmserver.be/accent.mp3
 #EXTINF:-1 station-id="awb_057188b1c072cb7771ce" stream-id="aws_ad8d62f33bc94c9a6b0e" codec="mp3" bitrate="96",AFN 360 Benelux
@@ -186,7 +184,7 @@ http://stream.goldfm.be:1061/station.mp3
 #EXTINF:-1 station-id="awb_5ccf1dfae3535e8b6879" stream-id="aws_f76856014e704ade2a65" codec="mp3" bitrate="256",GOLD FM
 https://onair.goldfm.be:8000/stream
 #EXTINF:-1 station-id="awb_2955e490d44739ed1775" stream-id="aws_0e59054b67d54ded504a" codec="mp3" bitrate="128",Goldies Radio
-http://eu1.reliastream.com:7064/stream
+http://goldiesradio.radioca.st:8565/stream
 #EXTINF:-1 station-id="awb_845daa98f297a65b8036" stream-id="aws_29b442d2228bab6ada72" codec="mp3" bitrate="128",Gothville radio
 http://streams.radio.co/s62583474c/listen
 #EXTINF:-1 station-id="awb_188ec05ba7334151c132" stream-id="aws_3908c4dfe20346da0d83" codec="aac+" bitrate="128",Grand Prix Radio
@@ -227,7 +225,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
 https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3
 #EXTINF:-1 station-id="awb_216d2aa62b344e9c53a9" stream-id="aws_a34db7e89b6bfff3668d" codec="mp3" bitrate="128",Joe 80's & 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3
-#EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_c51acb69584f2e8049a0" codec="aac+" bitrate="96",Joe 80s & 90s
+#EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_c51acb69584f2e8049a0" codec="aac+" bitrate="95",Joe 80s & 90s
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_af3dd7fcef5c48052865" codec="mp3" bitrate="128",JOE 80s & 90s
 https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3
@@ -243,12 +241,14 @@ https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_4b3c4cf519714e66b29d" codec="mp3" bitrate="128",Joe Lage Landen
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
-#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_49b943138edc722ae3c8" codec="aac+" bitrate="95",joe lage landen
+#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_49b943138edc722ae3c8" codec="aac+" bitrate="96",joe lage landen
 https://streams.radio.dpgmedia.cloud/redirect/joe_lage_landen/aac
-#EXTINF:-1 station-id="awb_74a266983bead203b0bf" stream-id="aws_5b3fdf1fc66ee4390667" codec="aac+" bitrate="95",joe top 2000
+#EXTINF:-1 station-id="awb_74a266983bead203b0bf" stream-id="aws_5b3fdf1fc66ee4390667" codec="aac+" bitrate="96",joe top 2000
 https://streams.radio.dpgmedia.cloud/redirect/top2000/aac
 #EXTINF:-1 station-id="awb_8b72a1815b52c0512b44" stream-id="aws_639a612b3649b9cf288c" codec="mp3" bitrate="192",Jouw Radio
 http://luister.jouwradio.be/
+#EXTINF:-1 station-id="awb_f3ba545b26a6770e3b1b" stream-id="aws_50dab00f1ae4a7485f31" codec="mp3" bitrate="64",Jovani Radio
+https://ec1.everestcast.host:1555/stream
 #EXTINF:-1 station-id="awb_ab530bcc58ecf6779320" stream-id="aws_0249091892f5b6e2a693" codec="aac+" bitrate="96",K I F
 https://broadcast.sksgroup.com/kif_aac
 #EXTINF:-1 station-id="awb_4bd7e10e47254403f547" stream-id="aws_77643649490e98e56f5a" codec="mp3" bitrate="320",Kerstradio Noordzee
@@ -413,11 +413,11 @@ https://stream4.audiostreamen.nl/radiopros
 https://radios.rtbf.be/pure-128.mp3
 #EXTINF:-1 station-id="awb_00b262febb130fb05c23" stream-id="aws_f43b647335517bc0c6e5" codec="mp3" bitrate="0",Pure FM - 128
 http://radios.rtbf.be/pure-128.mp3
-#EXTINF:-1 station-id="awb_0b91bc04cc3bb9ea0940" stream-id="aws_34be02df6e386769a459" codec="aac+" bitrate="95",Q Music België
+#EXTINF:-1 station-id="awb_0b91bc04cc3bb9ea0940" stream-id="aws_34be02df6e386769a459" codec="aac+" bitrate="96",Q Music België
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
 #EXTINF:-1 station-id="awb_5a78c1b2000a5bfd2da4" stream-id="aws_c9fbb1a85ded7858baba" codec="mp3" bitrate="128",Q-Allstars
 https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3
-#EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_23e0b231b2fff6634830" codec="aac+" bitrate="96",Q-Foute Radio
+#EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_23e0b231b2fff6634830" codec="aac+" bitrate="95",Q-Foute Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_b8fc621f88385d0d86df" codec="mp3" bitrate="128",Q-Foute Radio
 https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3
@@ -663,6 +663,8 @@ http://ks393340.kimsufi.com:8000/RadioStars-Ant
 http://stream.radiostars.be:8000/RadioStars.mka
 #EXTINF:-1 station-id="awb_24a34b24269a4fa13613" stream-id="aws_06935f10d8a130101b99" codec="aac+" bitrate="64",Radio Stars 98.5 FM & DAB+ (Belgium)
 http://stream.radiostars.be:9850/RadioStars.mka
+#EXTINF:-1 station-id="awb_8d1d40ad0ac0434cda32" stream-id="aws_2df274f38c8ff84a0dbd" codec="mp3" bitrate="320",Radio Studio 22 Gullegem, be
+http://stream.twinmedia.be:8010/;.pls
 #EXTINF:-1 station-id="awb_729e501c454597497e1c" stream-id="aws_dc75f45436ae8049bb58" codec="mp3" bitrate="128",Radio Sud
 https://streaming.domainepublic.net/radiosud.mp3
 #EXTINF:-1 station-id="awb_0b5cd19dd3dacf126dbd" stream-id="aws_a02931bb3b11f2570988" codec="mp3" bitrate="192",Radio Sunshine 97,5 Ostbelgien
@@ -670,7 +672,7 @@ http://streamlive.syndicationradio.fr:8158/stream
 #EXTINF:-1 station-id="awb_f920c6d6c1299235410f" stream-id="aws_7017e30f3ddf29dfa1fe" codec="mp3" bitrate="128",Radio Tamara
 http://audiostreamen.nl:8006/
 #EXTINF:-1 station-id="awb_0e70e785fdf4621cd6e6" stream-id="aws_4fd49fccf0e22b9c31d4" codec="aac+" bitrate="192",Radio Tequila - Deinze 105.1 FM
-http://s5.myradiostream.com:43942/;
+http://s5.myradiostream.com:43942/stream
 #EXTINF:-1 station-id="awb_f342a5931faab4ea7380" stream-id="aws_a7687075292bc9397dee" codec="mp3" bitrate="320",Radio TRL
 http://stream.radiotrl.be:8000/RadioTRL
 #EXTINF:-1 station-id="awb_f342a5931faab4ea7380" stream-id="aws_81387d1461898b5d2975" codec="mp3" bitrate="320",Radio TRL
@@ -711,8 +713,6 @@ https://caster04.streampakket.com/proxy/8090/stream
 http://streams.movemedia.eu/rbs
 #EXTINF:-1 station-id="awb_f62ca95420fe09f4c815" stream-id="aws_5d830c683a2a7238335e" codec="mp3" bitrate="192",RCF Bruxelles
 http://rcf.streamakaci.com/rcfbruxelles.mp3
-#EXTINF:-1 station-id="awb_e43f1d70d7c52da7f08e" stream-id="aws_9289a4addb8aeaed03ea" codec="mp3" bitrate="192",RCF Liège
-http://rcf.streamakaci.com/rcfliege.mp3
 #EXTINF:-1 station-id="awb_255ab0aa55ac4c816f44" stream-id="aws_4f1711c01a20de9963a8" codec="mp3" bitrate="192",RCF Sud Belgique
 http://rcf.streamakaci.com/rcfsudbe.mp3
 #EXTINF:-1 station-id="awb_fcecbe4b7e55ec7fd2bd" stream-id="aws_a866fb887c09fd90d2e4" codec="mp3" bitrate="192",Retro C-dance
@@ -796,7 +796,7 @@ https://radios.rtbf.be/wr-m3-jazz-128.mp3
 #EXTINF:-1 station-id="awb_efa9bd774539d013d740" stream-id="aws_ef1a0bccfafba4710da2" codec="mp3" bitrate="192",scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1 station-id="awb_9cae38d685db81f97c0f" stream-id="aws_e4dac8bc16356d8dd7a8" codec="mp3" bitrate="192",Slow Radio
-http://stream4.slowradio.com/
+http://stream3.slowradio.com/
 #EXTINF:-1 station-id="awb_f2ea5e6a1c56c379399f" stream-id="aws_481bab846854d03cd343" codec="mp3" bitrate="192",Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1 station-id="awb_b0e2ec717a1753411030" stream-id="aws_463a246810652f618fe2" codec="mp3" bitrate="192",Sport FM Hoeselt
