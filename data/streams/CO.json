@@ -4114,6 +4114,25 @@
     "lastCheckedAt": "2026-10-27T00:15:58Z"
   },
   {
+    "id": "aws_0629096036fbc1cffc70",
+    "stationId": "awb_076d4a39cd2c3fa19afd",
+    "name": "El Túnel Rock",
+    "country": "CO",
+    "url": "https://play10.tikast.com/8014/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0916acd0-afa7-4ff0-9dc9-743036ed252d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
+  },
+  {
     "id": "aws_d08f355d1c5cf9784e56",
     "stationId": "awb_2b26c30574621b7b3dee",
     "name": "elbaulsalsero",
@@ -4543,20 +4562,18 @@
     "name": "Exa FM",
     "country": "CO",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:exa-fm",
-      "e2eb2320-3f9b-4b72-8324-c5165fbda276"
+      "CO:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:31:24Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_defe083923a54ae313b4",
@@ -4826,7 +4843,7 @@
       "51954509-32c1-42ff-9ec5-ffb492783552"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_85f41964f457d870b958",
@@ -5671,7 +5688,7 @@
       "acf5ec8a-5d50-4a77-8cbc-d29b726dad21"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_129d249df8a44d92d145",
@@ -6984,6 +7001,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-26T23:09:03Z"
+  },
+  {
+    "id": "aws_0b1ef03f98d399931492",
+    "stationId": "awb_9825ff79f39b191df1bc",
+    "name": "la voz de Cali 900 am",
+    "country": "CO",
+    "url": "https://tupanel.info/stream/2digitalradioHDsslLIVE046",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "90003e4b-cfd5-45dc-a892-47a25db03cfe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_ec58d766c07947eec6e6",

@@ -48,15 +48,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "25f8559d-739d-4ea9-bc97-815a42b4916c",
       "AF:qurango"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T11:38:09Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c2b3e6fa053064b86f5f",
@@ -557,20 +555,18 @@
     "name": "EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک",
     "country": "AF",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1bb91490-1b5f-4d91-bcf0-f82e10c31ff3",
       "AF:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:08:12Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9ab9d3a93186101689f1",
@@ -1929,45 +1925,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
-  },
-  {
-    "id": "aws_1feb322c6f2c8e8c7aca",
-    "stationId": "awb_e9d77b22fba5e358ee98",
-    "name": "اذاعة القرآن الكريم",
-    "country": "AF",
-    "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2bcb73ce-5515-438d-9b6c-c1a8df35e109",
-      "59168f9f-2b64-439e-8dce-9dad4909dd5e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:43:43Z"
-  },
-  {
-    "id": "aws_c0922b3ce1886b60985a",
-    "stationId": "awb_43b8345d48739810f965",
-    "name": "مختصر التفسير",
-    "country": "AF",
-    "url": "https://qurango.net/radio/mukhtasartafsir",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a8742f9-fadb-431b-bf82-f14fb7222c50"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T13:07:17Z"
   },
   {
     "id": "aws_07ccae7dac0336c76d16",

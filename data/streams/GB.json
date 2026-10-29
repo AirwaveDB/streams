@@ -2451,7 +2451,7 @@
       "f29122b1-32d6-4d32-b559-87d74219fc4c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_081587696e6bb353c173",
@@ -2795,7 +2795,7 @@
       "cdec6253-1828-4016-82b9-dbe88466779c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_95397dd956fed226f2ba",
@@ -4113,7 +4113,7 @@
       "fdbdc2b0-c184-437b-8643-9a5bfa45c253"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T19:29:18Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_219d1243ac5c3c6c432a",
@@ -4760,7 +4760,7 @@
       "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_9d69fcd43f7af44d774f",
@@ -4779,7 +4779,7 @@
       "e3740a99-2ce3-413f-b6d4-074620d4243b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_84e28859cf4d9fd34d2d",
@@ -4798,7 +4798,7 @@
       "578283ad-ddd8-4027-984e-c35b8ffa8270"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_af34160fc5420a92db18",
@@ -4817,7 +4817,7 @@
       "80c172b6-4d4a-405d-8342-6427a373bca4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_63c7117c249511e8ef2c",
@@ -13208,7 +13208,7 @@
       "1c7e0fe0-22df-4487-a2f0-66414ce6aef2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T08:35:54Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_85a5c0a99b4008816e38",
@@ -13303,7 +13303,7 @@
       "017f46c1-376e-4b27-a5eb-8b7d90c27886"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_6a23af6accb1303cb25d",
@@ -13629,6 +13629,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T05:43:14Z"
+  },
+  {
+    "id": "aws_24d460b5e27c4a094d68",
+    "stationId": "awb_0cca48e20830392d8ab8",
+    "name": "EB IT Radio",
+    "country": "GB",
+    "url": "https://s3.citrus3.com:8330/stream",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8c0a46b3-a288-4853-b449-cdd53f432de4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_062abcc13a38acb27d87",
@@ -14087,7 +14106,7 @@
       "fbc5cb08-2452-49b6-9e5d-92dc024e3140"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_12a01c3c1bf6adc52d1d",
@@ -19483,7 +19502,7 @@
       "426ef9b5-a0d0-4eae-b4b7-9e857a1ee4e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_e6ab8c6dc26cac1f990a",
@@ -24853,7 +24872,7 @@
       "6cb6acad-1b10-4f85-a61b-a9f2ea67f086"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_be9c11b25122ecf3c7ab",
@@ -25046,6 +25065,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T13:15:42Z"
+  },
+  {
+    "id": "aws_5b546b1189e2dc50df6e",
+    "stationId": "awb_cb9677699503bd86e584",
+    "name": "MPB Radio 1 DJ Sets",
+    "country": "GB",
+    "url": "https://streaming.mpbnl.nl/mpbnl/mpb_radio_1_themed/stream.aac",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3aaca6bc-fd9b-4a4e-8402-360ed8511985"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
+  },
+  {
+    "id": "aws_8735f04b325fe4269932",
+    "stationId": "awb_3b16da62051d4ff24868",
+    "name": "MPB Radio 1 Eurodance",
+    "country": "GB",
+    "url": "http://streaming.mpbnl.nl/mpbnl/mpb_radio_1_90s/stream.aac",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6d35c024-5302-4b5e-8347-f20a6aada8b1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_25d4fc044c514843c062",
@@ -25989,7 +26046,7 @@
       "418d4e37-d5f3-4137-887b-ee8d6621999b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_1f7d934a5a12d4a3cac0",
@@ -29066,7 +29123,7 @@
       "41dba8f6-6971-4efa-bf74-f26045b2eaa9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_c0a6521c3c09c8b287ba",
@@ -32661,7 +32718,7 @@
       "3707b63a-983a-4ab2-9299-1f9145eb6d8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_955219a739a200ef52f9",
@@ -35807,7 +35864,7 @@
       "3ce15e68-1216-4b9c-a4d6-41e88bafedee"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T23:02:46Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_7b97bdf2cd50d4598af0",
@@ -37137,28 +37194,9 @@
     "lastCheckedAt": "2026-10-27T10:48:37Z"
   },
   {
-    "id": "aws_802ec9f0dc7224dffade",
-    "stationId": "awb_d95642339e53ed07a233",
-    "name": "talkSPORT",
-    "country": "GB",
-    "url": "https://radio.talksport.com/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T10:44:15Z"
-  },
-  {
     "id": "aws_6c212f432804743a6f2c",
     "stationId": "awb_989697b3ab64bb1d153d",
-    "name": "TalkSPORT",
+    "name": "talkSPORT",
     "country": "GB",
     "url": "https://radio.talksport.com/stream",
     "codec": "aac",
@@ -37170,11 +37208,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "177dda8f-ce5f-4f18-a19e-c6c8b6f5319a",
+      "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa",
       "GB:talksport"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T13:51:46Z"
+    "lastCheckedAt": "2026-10-27T10:44:15Z"
   },
   {
     "id": "aws_0d05ab9fcec9a64aea8a",
@@ -37364,7 +37402,7 @@
       "c01f0307-f33d-4033-b537-a8c8ef3dc04c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_1719084fcace776597b5",
@@ -38230,6 +38268,25 @@
     "lastCheckedAt": "2026-10-27T17:12:55Z"
   },
   {
+    "id": "aws_34765cb6533d4715a7cb",
+    "stationId": "awb_c861dac91fd921de95a1",
+    "name": "This is the Coast",
+    "country": "GB",
+    "url": "https://streaming.broadcast.radio/thisisthecoast",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "49da569c-9424-4e07-ae77-2477bed14413"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
+  },
+  {
     "id": "aws_6b6ed3d53b033d0049e9",
     "stationId": "awb_c861dac91fd921de95a1",
     "name": "This is the Coast",
@@ -38666,7 +38723,7 @@
     "country": "GB",
     "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 6210,
+    "bitrate": 6190,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -38676,7 +38733,7 @@
       "05a644a2-559d-49af-a6fc-62e245b49420"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_8ab31bb7e3b400d2114e",

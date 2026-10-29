@@ -1396,6 +1396,25 @@
     "lastCheckedAt": "2026-10-27T05:57:32Z"
   },
   {
+    "id": "aws_3b7819720489919e4d29",
+    "stationId": "awb_ebb4026021a29010ac99",
+    "name": "Radio METEOR",
+    "country": "SI",
+    "url": "http://stream.radiometeor.si/listen/meteor/live.aac",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0fafeabd-e562-4773-860b-637f74bf135a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
+  },
+  {
     "id": "aws_48a183757b419fc29dbd",
     "stationId": "awb_263ab2b53195c4b160b9",
     "name": "Radio METEOR .si",

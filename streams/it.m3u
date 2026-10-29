@@ -1751,6 +1751,8 @@ http://stream15.top-ix.org/radiojukebox
 http://nr9.newradio.it:9211/stream
 #EXTINF:-1 station-id="awb_ed6aa7696b317fc7fec8" stream-id="aws_1989e856f8c63091ad58" codec="aac" bitrate="128",Radio KERNEL
 https://radio.quadracode.com/kernel.aac
+#EXTINF:-1 station-id="awb_c1eb1688170ced23477d" stream-id="aws_a62191d2d08f59aeb999" codec="mp3" bitrate="0",Radio Kirschdrops
+https://stream.raffaelerutigliano.com/kirschdrops.mp3
 #EXTINF:-1 station-id="awb_74821bf7f6f32af9be33" stream-id="aws_39789ea5e91e939fde13" codec="mp3" bitrate="128",Radio Kiss Kiss
 http://wma07.fluidstream.net:4610/
 #EXTINF:-1 station-id="awb_58450c715359e0991ce1" stream-id="aws_2d88442c23a6a78e59e4" codec="mp3" bitrate="128",Radio Kiss Kiss + 1
@@ -2657,6 +2659,8 @@ https://stream.radiozoukemotion.com/rze
 http://shoutcast.radio24.it:8000/
 #EXTINF:-1 station-id="awb_ba5838d2dde8ef95f0c8" stream-id="aws_71def195ace5a4790be1" codec="mp3" bitrate="128",RADIO4ALL
 http://radio.wifi4all.it:8000/rwifi4all
+#EXTINF:-1 station-id="awb_ba5838d2dde8ef95f0c8" stream-id="aws_09b1b5cd87fcee5edb3c" codec="mp3" bitrate="128",RADIO4ALL
+https://radio.wifi4all.it/rwifi4all
 #EXTINF:-1 station-id="awb_c7a06832869bf6480ba6" stream-id="aws_7872833c5d82c6e01371" codec="mp3" bitrate="320",Radio54
 https://nr7.newradio.it/proxy/radiosol?mp=/stream
 #EXTINF:-1 station-id="awb_641e17a34447e922e91a" stream-id="aws_f9d4a190f3d614d84549" codec="mp3" bitrate="192",RADIO59MUSE
@@ -2843,6 +2847,8 @@ http://shoutcast.streamingmedia.it:7167/stream
 https://rdrtv.radioca.st/stream
 #EXTINF:-1 station-id="awb_b043a8a8ae07d5da2a36" stream-id="aws_d363a015e41d9709abef" codec="unknown" bitrate="0",RDS
 https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
+#EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="129",RDS - Radio Dimensione Suono
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_a56d5a00a21c4e7ed2b4" stream-id="aws_b883d5353fcca60d2e8f" codec="unknown" bitrate="0",RDS 100% Grandi Successi
 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
 #EXTINF:-1 station-id="awb_9f188166c1288213985a" stream-id="aws_ae18e25fd73139aa0648" codec="mp3" bitrate="128",RDS Avola

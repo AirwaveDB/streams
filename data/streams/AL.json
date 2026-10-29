@@ -416,20 +416,18 @@
     "name": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
     "country": "AL",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "04a5c951-6f16-417b-b07a-236d51069abd",
       "AL:exa-fm-muzike-pop-ne-anglisht-dhe-spanjisht"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:47:03Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_959c3f7027676a73167e",
@@ -2095,24 +2093,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
-  },
-  {
-    "id": "aws_33899033506bfb69164a",
-    "stationId": "awb_e3f0c0e06c537d9e9bdb",
-    "name": "اذاعة القرآن الكريم",
-    "country": "AL",
-    "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a5b41499-8918-49a3-814a-3223d3c30e61"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:17:43Z"
   }
 ]

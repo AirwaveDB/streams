@@ -2169,20 +2169,18 @@
     "name": "Exa FM",
     "country": "CL",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "58ebdf26-bb83-42ac-b7fc-244756c08442",
       "CL:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:21:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_987eb525d5bfd288d21d",
@@ -2286,7 +2284,7 @@
     "stationId": "awb_a3ee2adcea71659e7c2e",
     "name": "FM Dos",
     "country": "CL",
-    "url": "http://24273.live.streamtheworld.com:3690/FMDOSAAC_SC",
+    "url": "http://24503.live.streamtheworld.com/FMDOSAAC_SC",
     "codec": "aac+",
     "bitrate": 56,
     "protocol": "http",
@@ -2298,7 +2296,7 @@
       "9b246252-1fa0-4fc9-b5f2-fb120587ad51"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T01:10:20Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_5b4bdb38aa22bcf82be5",
@@ -4150,7 +4148,7 @@
       "cbc5d4bd-1936-4a66-8b0c-6dd98012bccf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T00:34:15Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_cf73a94ae982ed4e218a",
@@ -9643,6 +9641,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-26T20:44:40Z"
+  },
+  {
+    "id": "aws_8a9f203581fd44714943",
+    "stationId": "awb_d7fdf83425553003803d",
+    "name": "Radio80 Club",
+    "country": "CL",
+    "url": "http://stream.radioclub80.cl:8010/",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5c2a107b-84eb-4385-856f-f3d578444c2c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_2fc6dfdf75e003294f22",

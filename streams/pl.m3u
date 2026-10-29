@@ -769,8 +769,12 @@ http://waw.ic.smcdn.pl/2380-1.mp3
 http://waw.ic.smcdn.pl/2380-2.aac
 #EXTINF:-1 station-id="awb_a18643f7a99390a2b487" stream-id="aws_39764cb20b9e76ea4f2c" codec="mp3" bitrate="128",Radio Eska Warszawa
 http://waw.ic.smcdn.pl/2980-1.mp3
+#EXTINF:-1 station-id="awb_a18643f7a99390a2b487" stream-id="aws_22325b62fd53cf1975c9" codec="" bitrate="0",Radio Eska Warszawa
+https://go-audio.toya.net.pl/63222
 #EXTINF:-1 station-id="awb_ab4602265e63812b1891" stream-id="aws_455edc35edaced282669" codec="mp3" bitrate="128",Radio Eska Warszawa
 https://waw.ic.smcdn.pl/2380-1.mp3
+#EXTINF:-1 station-id="awb_da707f98b1b75a1d27c0" stream-id="aws_67d49f1ed83fa4b974e4" codec="" bitrate="0",Radio Eska Warszawa (64kbps + metadata)
+https://go-audio.toya.net.pl/63222
 #EXTINF:-1 station-id="awb_331002da24e36e6cdbce" stream-id="aws_92ca5445014c2fb42906" codec="mp3" bitrate="0",Radio Express
 https://stream.rcs.revma.com/yx6cub73kwzuv
 #EXTINF:-1 station-id="awb_536b59dd9ef6452ead78" stream-id="aws_5da00c8bbe4d937057d0" codec="mp3" bitrate="128",Radio FAMA
@@ -1253,7 +1257,7 @@ http://s3.slotex.pl:7278/stream
 http://play.strefa.fm:8000/strefa.mp3
 #EXTINF:-1 station-id="awb_20a46fb83b462afdd34d" stream-id="aws_239c349a168610758f13" codec="mp3" bitrate="256",Radio Strefa Muzy
 https://radiosm.pl:8000/radio.mp3
-#EXTINF:-1 station-id="awb_33219a8dd3000e97aaba" stream-id="aws_bf2488da84f2a9176710" codec="" bitrate="0",Radio Strefa Zero
+#EXTINF:-1 station-id="awb_33219a8dd3000e97aaba" stream-id="aws_bf2488da84f2a9176710" codec="mp3" bitrate="192",Radio Strefa Zero
 https://a7.asurahosting.com/listen/radio_strefa_0_/radio.mp3
 #EXTINF:-1 station-id="awb_18b6668bfd6df4954fca" stream-id="aws_57e8561c8193944ff0c9" codec="mp3" bitrate="64",Radio Styl FM
 https://s3.slotex.pl:7196/stream
@@ -1804,6 +1808,8 @@ http://cinemamovies.pl:8563/
 #EXTINF:-1 station-id="awb_b8edb01c6dac027c1c84" stream-id="aws_2791b5ab0576f525e404" codec="mp3" bitrate="128",Strefa FM
 http://play.strefa.fm:8000/strefa.mp3
 #EXTINF:-1 station-id="awb_b7f532e0516f67d2019b" stream-id="aws_5de6b46d4e110aad559f" codec="ogg" bitrate="0",Studenckie Radio ZAK
+http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
+#EXTINF:-1 station-id="awb_b01421539c9fa1c4fcd2" stream-id="aws_9793985d87e3c18e1a1c" codec="ogg" bitrate="0",Studenckie Radio Żak Politechniki Łódzkiej
 http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
 #EXTINF:-1 station-id="awb_3a6893bbad6aaaec3fd7" stream-id="aws_204104feb21cf42cc54d" codec="mp3" bitrate="192",Super FM
 http://stream.super.fm:8000/superfm.mp3

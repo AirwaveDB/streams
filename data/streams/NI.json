@@ -43,20 +43,18 @@
     "name": "Exa FM",
     "country": "NI",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NI:exa-fm",
-      "accb9deb-c017-431d-b829-6ccd065975ef"
+      "NI:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:58:38Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_8c5d6f3e2c0cfe9c5a22",

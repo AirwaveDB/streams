@@ -410,7 +410,7 @@
       "1979432f-3c8c-41b2-a093-403228715160"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T08:35:54Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_7b81c3a637c801698623",
@@ -2142,7 +2142,7 @@
       "5c35f5b9-094d-4440-92d7-f4f21d1d7105"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_efc3f24d6fce4862031f",
@@ -2163,7 +2163,7 @@
       "bf487b2b-503c-42c3-b088-9b5d679fdf29"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:38:02Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_37493dae585663ae626b",
@@ -7464,6 +7464,25 @@
     "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
+    "id": "aws_22325b62fd53cf1975c9",
+    "stationId": "awb_a18643f7a99390a2b487",
+    "name": "Radio Eska Warszawa",
+    "country": "PL",
+    "url": "https://go-audio.toya.net.pl/63222",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "83f50f8a-26e6-454d-b8e8-27e02183f55c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_455edc35edaced282669",
     "stationId": "awb_ab4602265e63812b1891",
     "name": "Radio Eska Warszawa",
@@ -7481,6 +7500,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T22:37:53Z"
+  },
+  {
+    "id": "aws_67d49f1ed83fa4b974e4",
+    "stationId": "awb_da707f98b1b75a1d27c0",
+    "name": "Radio Eska Warszawa (64kbps + metadata)",
+    "country": "PL",
+    "url": "https://go-audio.toya.net.pl/63222",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "56e2ffe1-e324-480e-9b25-66803318ce71"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_92ca5445014c2fb42906",
@@ -10152,7 +10190,7 @@
       "518d37e6-78d0-4862-96ea-c68edc3eba31"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:16:24Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_220633e715197b8f6d86",
@@ -11253,7 +11291,7 @@
       "96100732-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_f5b5d4a3dadc02d5ad55",
@@ -12160,8 +12198,8 @@
     "name": "Radio Strefa Zero",
     "country": "PL",
     "url": "https://a7.asurahosting.com/listen/radio_strefa_0_/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -12172,7 +12210,7 @@
       "c3c38547-6d8b-4a3d-841c-37fa52557e2a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_57e8561c8193944ff0c9",
@@ -15629,7 +15667,7 @@
       "bb403aa2-2451-45e4-b770-a62012d2ddac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_5a5e5f9cf3905eeaa36a",
@@ -17471,6 +17509,25 @@
     "lastCheckedAt": "2026-10-27T08:53:50Z"
   },
   {
+    "id": "aws_9793985d87e3c18e1a1c",
+    "stationId": "awb_b01421539c9fa1c4fcd2",
+    "name": "Studenckie Radio Żak Politechniki Łódzkiej",
+    "country": "PL",
+    "url": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
+    "codec": "ogg",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9daec0b0-4eaf-43f9-98a5-cd233a0218b2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
+  },
+  {
     "id": "aws_204104feb21cf42cc54d",
     "stationId": "awb_3a6893bbad6aaaec3fd7",
     "name": "Super FM",
@@ -19054,7 +19111,7 @@
       "86632585-f76d-4cac-b771-d2c6902366c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-22T22:51:50Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_dbfb9a6f1da8217504d8",

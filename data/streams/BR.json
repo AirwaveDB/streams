@@ -37,7 +37,7 @@
       "e60225c7-0326-43ca-97d0-725fa64fd671"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_a7e928b52e0c5ff3fb86",
@@ -558,7 +558,7 @@
       "BR:89fm-radio-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_eca644882a3e9aa394d4",
@@ -1311,6 +1311,25 @@
     "lastCheckedAt": "2026-10-28T01:24:02Z"
   },
   {
+    "id": "aws_06287f4daaa3a6250a9f",
+    "stationId": "awb_d2325bca236dfd819eea",
+    "name": "Alpha FM Floripa 91.3 -",
+    "country": "BR",
+    "url": "https://radio01.zas.media/8006/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d21726ed-280f-4396-b39f-88af899f2508"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
+  },
+  {
     "id": "aws_a5bde5d9337815cd7fae",
     "stationId": "awb_0912570692425a2d398f",
     "name": "Alpha MPB",
@@ -1693,7 +1712,7 @@
       "db197ac4-8190-45d7-bb30-47a9bb6e990a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T16:33:09Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_13c27f73873bb92b3824",
@@ -3914,7 +3933,7 @@
       "3612a05b-d6c8-477c-a5e8-a4b8f1f26145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_4f3b6f3d27f0d1cb5052",
@@ -7688,7 +7707,7 @@
       "6d588c12-f491-49db-83ce-8004bfa3310f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_25d10fc692d9631f306f",
@@ -8073,6 +8092,26 @@
     "lastCheckedAt": "2026-10-27T06:44:24Z"
   },
   {
+    "id": "aws_e46645c7a62d9c49653b",
+    "stationId": "awb_78f922f72e4f712d251b",
+    "name": "MAGIC BOXX RADIO",
+    "country": "BR",
+    "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5a20ac2a-fd85-4495-b88e-024456e43c47",
+      "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_e04f7c8543ab8a9cb6f0",
     "stationId": "awb_93f71fed57428d6cd095",
     "name": "Maior Amor",
@@ -8341,140 +8380,6 @@
     "lastCheckedAt": "2026-10-27T04:33:41Z"
   },
   {
-    "id": "aws_8089413a4cd8cdc4330f",
-    "stationId": "awb_68990a15ff4431363875",
-    "name": "Maresol web radio",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5b366b31-9b4e-4330-bab9-a42020f6fa40"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:42:25Z"
-  },
-  {
-    "id": "aws_74b9c88048620bd5cb5d",
-    "stationId": "awb_c30bd21ce3644a669f43",
-    "name": "maresol web radio - Boa vista",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66efda45-9e03-4f7b-bc15-b8c405e25135"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T19:35:52Z"
-  },
-  {
-    "id": "aws_1e184299f5c6fa42aa44",
-    "stationId": "awb_0ee5ec485db783993544",
-    "name": "maresol web radio - Coari",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ab1fd12-57a5-4169-aefd-cd0338d147ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T15:27:38Z"
-  },
-  {
-    "id": "aws_5b0ec2d90871470c4b04",
-    "stationId": "awb_c56536fc22406e073ec1",
-    "name": "maresol web radio - cruzeiro do sul",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9876a444-d30e-4abe-8845-e0e9fbdee9e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T14:47:03Z"
-  },
-  {
-    "id": "aws_6e9af34db73a09184d6f",
-    "stationId": "awb_71352c992dd40d383943",
-    "name": "maresol web radio - eirunepé",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2ac16ae1-f0a9-4738-a59e-d5fe4529c8be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:48:05Z"
-  },
-  {
-    "id": "aws_3b87f0136069956fab01",
-    "stationId": "awb_9bdfe0aa19d7da22d6ea",
-    "name": "maresol web radio - Feijó",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "494265b5-4c68-458d-9695-df3c5d5ea567"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:08:30Z"
-  },
-  {
-    "id": "aws_433c3d23f76d07e0da2a",
-    "stationId": "awb_4382cfe0ab68bfa1b3e1",
-    "name": "maresol web radio - Macapá",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "55467b5f-a511-4aac-b634-a992d5332ef3",
-      "9f6c0cc5-5028-4739-8dd4-4942f5230052"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T22:55:34Z"
-  },
-  {
     "id": "aws_94d7b55342aecdca955f",
     "stationId": "awb_2772cc240a3c21505649",
     "name": "maresol web radio - Manaus",
@@ -8492,140 +8397,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T03:27:41Z"
-  },
-  {
-    "id": "aws_bc2e3e9fadb20cc9f0fa",
-    "stationId": "awb_7c3e8401ee05229aaad5",
-    "name": "maresol web radio - Manaus",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c86ec24-a928-4967-90c6-7cb3fc56b3f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:56:12Z"
-  },
-  {
-    "id": "aws_3f6239561d8e53368d3d",
-    "stationId": "awb_5f43aff5759f0fc8b2cf",
-    "name": "maresol web radio - Parintins",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2d46a1aa-a314-4cb9-bf59-1192d0353f50"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T15:32:46Z"
-  },
-  {
-    "id": "aws_18e2d1c3a1643e263709",
-    "stationId": "awb_ac0a294bb2d22e63fa6a",
-    "name": "maresol web radio - Porto Velho",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b420828d-d670-48b7-b0e4-8293be3553e6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:21:43Z"
-  },
-  {
-    "id": "aws_b41592c881044700ad78",
-    "stationId": "awb_0c0a39ce01fb81a2c473",
-    "name": "maresol web radio - rio branco",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf11dc3f-547c-4728-ac5b-5cd0e0346d39"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:41:15Z"
-  },
-  {
-    "id": "aws_5b424d9620e291c2e9e8",
-    "stationId": "awb_92929e36946690055550",
-    "name": "maresol web radio - Santarém",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8459fa0d-8d97-4a2e-a031-2b8575a6ded8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T12:42:10Z"
-  },
-  {
-    "id": "aws_1c2d6526fc13ccc83da1",
-    "stationId": "awb_cb3e284d6ed30a2ec575",
-    "name": "maresol web radio - Tefé",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d44bc274-477a-40f8-95a8-41eecc47cf5c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:42:40Z"
-  },
-  {
-    "id": "aws_e3772e2f856ecdca17d7",
-    "stationId": "awb_d086c17919d8cecb9234",
-    "name": "maresolwebradio",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "85f353b9-864f-4226-82e9-b178d5c493ca",
-      "946f5071-1993-47bc-9ef5-b24d84ad292e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:55:47Z"
   },
   {
     "id": "aws_8015aa737168608469ba",
@@ -9896,7 +9667,7 @@
       "f3b55cd5-a792-49ae-bb29-25e995230f69"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_b896c780594223822502",
@@ -10922,7 +10693,7 @@
       "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_c5e42e50dea329a1945c",
@@ -14524,7 +14295,7 @@
       "26ae7032-1659-4cea-ae09-0a30606a276e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_ee608624659d8508c039",
@@ -18349,7 +18120,7 @@
       "97a993f8-1d31-4c9d-ace5-9a7ccd2c01f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_2f29b157bdeb2a2c4eee",
@@ -28782,7 +28553,7 @@
       "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
   },
   {
     "id": "aws_1b97bb1ac5963ba8a79f",

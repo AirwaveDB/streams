@@ -19,6 +19,25 @@
     "lastCheckedAt": "2026-10-28T01:08:16Z"
   },
   {
+    "id": "aws_d82651a3d461879e997a",
+    "stationId": "awb_95936e1ee66d076d7821",
+    "name": "ABC Cardinal 730AM",
+    "country": "PY",
+    "url": "https://ny1.radio.primcast.com/8342/stream",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ba57bbe9-1f75-439a-8eb1-226449f10381"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T22:40:48Z"
+  },
+  {
     "id": "aws_e53b8b8c875837876ef9",
     "stationId": "awb_c50f9d3968ca3ce6754f",
     "name": "Abdulbasit Abdulsamad",
@@ -93,6 +112,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T12:36:15Z"
+  },
+  {
+    "id": "aws_626fcb23f02b10576b4f",
+    "stationId": "awb_cacfc84d0f6a7946cd41",
+    "name": "Cardinal Romance 98.5 FM",
+    "country": "PY",
+    "url": "https://ny1.radio.primcast.com/8350/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "85c934fc-ba72-4863-a124-ba5369eb9dd2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_901a69ab01453617d144",
@@ -197,20 +235,18 @@
     "name": "Exa FM",
     "country": "PY",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "19bc7085-e36d-4268-8070-129bdbefe228",
       "PY:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:15:33Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_bdfdbccc00d9d6a664db",

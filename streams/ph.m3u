@@ -49,7 +49,7 @@ https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdH
 https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk
 #EXTINF:-1 station-id="awb_ad28c8b5f669eddadfb0" stream-id="aws_eb5afd05992c6ac1313d" codec="aac+" bitrate="24",105.5 Wild FM Baguio
 http://62.138.18.102:8133/stream
-#EXTINF:-1 station-id="awb_3cc2f50c23323e4179b2" stream-id="aws_baf51c42a8c94d048bbb" codec="" bitrate="0",105.9 Energy FM - DWLA
+#EXTINF:-1 station-id="awb_3cc2f50c23323e4179b2" stream-id="aws_baf51c42a8c94d048bbb" codec="mp3" bitrate="128",105.9 Energy FM - DWLA
 http://stream.zeno.fm/dnddzf0osc1uv
 #EXTINF:-1 station-id="awb_3a730059cf2c4eaa0db6" stream-id="aws_676074e0cefec7ac9e45" codec="mp3" bitrate="128",105.9 Hot FM - DWLA
 https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
@@ -57,10 +57,6 @@ https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 https://a8.asurahosting.com:6820/radio.mp3
 #EXTINF:-1 station-id="awb_cf51d832c6e025dd820d" stream-id="aws_2ff5fd44b4195ad43e49" codec="mp3" bitrate="32",105.9 True FM
 https://cast5.servcast.net/proxy/truefmph/stream
-#EXTINF:-1 station-id="awb_cf51d832c6e025dd820d" stream-id="aws_39be58835ac911584ea3" codec="aac" bitrate="463",105.9 True FM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
-#EXTINF:-1 station-id="awb_6043849aed9f6fdce112" stream-id="aws_8dc3213150a938a5f34d" codec="aac" bitrate="463",105.9 True FM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_cf51d832c6e025dd820d" stream-id="aws_783c6855a42a704b8d26" codec="aac" bitrate="64",105.9 True FM
 https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8b6e5589626eee2bb02c" stream-id="aws_3abdbf606f4bcda19385" codec="aac+" bitrate="24",105.9 Wild FM
@@ -77,8 +73,6 @@ http://proxima.shoutca.st:8227/stream
 http://88.99.195.180:8027/stream
 #EXTINF:-1 station-id="awb_600f2829aba120378950" stream-id="aws_f0f6873844615c37ccc1" codec="mp3" bitrate="128",106.7 LITE FM MEGA MANILA
 https://stream.zeno.fm/kc3cct89sxquv
-#EXTINF:-1 station-id="awb_da71093e515225614073" stream-id="aws_958b0fe8b781b93a7a96" codec="aac" bitrate="463",106.7 Radyo5 True FM HD
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_7dc8429fade8542b97f8" stream-id="aws_1712fd216707647038ce" codec="mp3" bitrate="32",106.7 True FM - DWET
 https://cast5.servcast.net/proxy/truefmph/stream
 #EXTINF:-1 station-id="awb_849efeefaf0b3e91a027" stream-id="aws_142160ada2855778d678" codec="aac" bitrate="64",106.7 True FM - DWET
@@ -183,8 +177,6 @@ http://142.4.219.8:8226/stream
 https://stream.radio.co/s97e866418/listen
 #EXTINF:-1 station-id="awb_af2f4eaaefbbad137467" stream-id="aws_3b1c6941b1a1dc54e2ad" codec="mp3" bitrate="128",ABN 96.5 FM Laoag
 https://stream.zeno.fm/vkm1e1y2f3quv
-#EXTINF:-1 station-id="awb_1c736b3a9fc6b62efb28" stream-id="aws_6aa5d4fb50cafc2d7f45" codec="aac+" bitrate="64",ABS-CBN All Radio 101.9 FM
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_1c736b3a9fc6b62efb28" stream-id="aws_5285ed2a2abd96cb592e" codec="aac+" bitrate="64",ABS-CBN All Radio 101.9 FM
 http://209.126.124.126:8872/stream
 #EXTINF:-1 station-id="awb_e454b18a466b7c14318c" stream-id="aws_760a95e75a440c297989" codec="aac" bitrate="64",ABSFM Maramag
@@ -555,16 +547,12 @@ http://142.44.212.114:9345/stream
 https://stream.zenolive.com/n4q1s7r4qzzuv.aac
 #EXTINF:-1 station-id="awb_f5e482e3ccf5530602fe" stream-id="aws_94c25fae7e254f08ae14" codec="mp3" bitrate="128",DWLA 105.9 Hot FM
 https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
-#EXTINF:-1 station-id="awb_61137f2d7db2de1e14e4" stream-id="aws_15fbf11cfa43ee998a2a" codec="aac+" bitrate="64",DWPM RADYO SAIS TRENTA
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_2762801a5a6606004a84" stream-id="aws_72e42bba1cb595f71792" codec="aac+" bitrate="64",DWPM Radyo Sais Trenta
 http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_a45ac16ebcd213d28e52" stream-id="aws_6d55da6d4399e4aa24b6" codec="mp3" bitrate="128",DWWW 774
 https://stream.zeno.fm/kc3cct89sxquv
 #EXTINF:-1 station-id="awb_6b197b916c1885e5a26e" stream-id="aws_53c849f501fa13beda24" codec="aac" bitrate="64",DWYG LiPS 106 FM
 https://stream.zeno.fm/28dkf5qum7zuv
-#EXTINF:-1 station-id="awb_e493b1dfc22e3cf20afc" stream-id="aws_fad1cc04ca534765a99b" codec="aac" bitrate="463",DXAB One Radyo 1296 AM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_24ddbcbe3bfca1c8b684" stream-id="aws_fc1d047cce4feeb77f91" codec="aac" bitrate="64",DXBH Hope Radio 103.7Mhz
 https://stream.dxbh.net/main_mp3
 #EXTINF:-1 station-id="awb_e979ed54541ab43bdb1b" stream-id="aws_648607b248f350a13c1e" codec="aac" bitrate="64",DXGP 89.7 Agusan Radio
@@ -575,8 +563,6 @@ https://stream.zeno.fm/z80zubtvrf9uv
 https://stream.zeno.fm/femnnphrtcltv
 #EXTINF:-1 station-id="awb_cfab8eb23433760035e1" stream-id="aws_33981bcf4075b10dce06" codec="aac+" bitrate="64",DXUM DAVAO
 http://148.72.153.65:9229/stream
-#EXTINF:-1 station-id="awb_8faa6684e30ccf341b64" stream-id="aws_8061e25758174b53e1f0" codec="aac" bitrate="463",DYAB One Radyo 1512 AM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_3c22b732c19df0a96912" stream-id="aws_afd489d0c4e390ddb44a" codec="aac+" bitrate="24",DYHB 747 RMN Bacolod
 http://148.72.153.65:8848/stream
 #EXTINF:-1 station-id="awb_7c7d6549ba270fd5592a" stream-id="aws_8422f801151066507eeb" codec="mp3" bitrate="64",DYHP 612 RMN Cebu
@@ -593,8 +579,6 @@ http://209.126.124.126:8536/stream
 http://live.kiss102fmbohol.com:8000/dyrdam
 #EXTINF:-1 station-id="awb_e23c9e962236d9891f2c" stream-id="aws_ee6db7828fe821540c68" codec="mp3" bitrate="128",DZAG FM RP1 Agoo 97.1
 http://58.97.187.52:5007/rp3
-#EXTINF:-1 station-id="awb_082ecfcf7105fbb69463" stream-id="aws_012108f2a6e6a79da76e" codec="aac" bitrate="463",DZAR Radyo Ronda Plus 1026 AM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_aca0b0d8d546149c7cea" stream-id="aws_97d34bb2db4cf3c34d61" codec="mp3" bitrate="128",Dzas 702
 https://stream.radio.co/s14821250a/listen
 #EXTINF:-1 station-id="awb_97260ec0204804f5652c" stream-id="aws_1095c7eaabc641b6bb72" codec="aac" bitrate="64",DZBR Bible Radio
@@ -603,11 +587,7 @@ https://stream.radio.co/se9de95c10/low
 https://stream.zeno.fm/zz4urrfhjzovv
 #EXTINF:-1 station-id="awb_b652ff3304e68f1ebcb5" stream-id="aws_019872d00d7161705a02" codec="mp3" bitrate="128",DZHB IBC Radio 1512 AM
 http://58.97.187.52:5007/rp3
-#EXTINF:-1 station-id="awb_e7d6b717aa175ed076ba" stream-id="aws_6c7a3a34db01602a72df" codec="aac+" bitrate="64",DZMM Radyo Patrol 630
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_3471b3e1fab437e4a57e" stream-id="aws_797e1138f2a7dbddd02e" codec="aac+" bitrate="64",DZMM Radyo Patrol 630
-http://209.126.124.126:8852/stream
-#EXTINF:-1 station-id="awb_cf88ae65e37a43f38da4" stream-id="aws_81e804c0b8e5d8412b9f" codec="aac+" bitrate="64",DZMV AllTV News Radio 1422 AM
 http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_2d50b06e2f703e87cb33" stream-id="aws_dcd0aacb031914133a64" codec="mp3" bitrate="128",DZRH
 https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3
@@ -615,8 +595,6 @@ https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3
 http://198.27.74.142:6137/stream
 #EXTINF:-1 station-id="awb_225264ec44566604205d" stream-id="aws_e0bddb6f67134ee5f1f3" codec="mp3" bitrate="0",DZRJ-AM
 http://111.125.87.226:8000/dzrjam
-#EXTINF:-1 station-id="awb_13126d3d1ed38628f262" stream-id="aws_aab7d60180aa637ab4ab" codec="aac" bitrate="463",DZTM One Radyo 1026 AM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_e8e150e1bbbbad0aa3e8" stream-id="aws_b80b32739a5dac854e0d" codec="mp3" bitrate="128",DZTV DepEd Radio 1386 AM
 http://58.97.187.52:5007/rp4
 #EXTINF:-1 station-id="awb_8ec91f5a0f0b64be7b7b" stream-id="aws_21e338456fd0e1f51c93" codec="mp3" bitrate="0",Eagle FM 95.5
@@ -693,8 +671,6 @@ https://www.fiaradio.org:8000/radio.mp3
 https://stream.zeno.fm/yqkru9yv3yzuv
 #EXTINF:-1 station-id="awb_e5fd6af865a6b0f7840e" stream-id="aws_6b7d1b4c1a37775e801c" codec="aac+" bitrate="64",FM Radio 105.5 Pampanga
 http://209.126.124.126:8872/stream
-#EXTINF:-1 station-id="awb_aba8f3e6e67740b297d3" stream-id="aws_397ae45cdfea3e8662f6" codec="aac+" bitrate="64",FM Radio 92.3 Manila
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_21c23349356852cc2573" stream-id="aws_98e52cfe827ddee814bb" codec="aac+" bitrate="64",FM Radio 96.7 Davao De Oro
 http://209.126.124.126:8614/stream
 #EXTINF:-1 station-id="awb_d85e12691e791c1615b9" stream-id="aws_e9e6231f0933582d9fbf" codec="mp3" bitrate="128",FM Radio Butuan
@@ -737,10 +713,6 @@ http://de3.amfmph.com:8715/live
 http://148.72.153.65:9226/stream
 #EXTINF:-1 station-id="awb_cf17328aa49b6d5d9ec2" stream-id="aws_ce571646972fc798339a" codec="aac+" bitrate="64",FMR Davao De Oro
 http://209.126.124.126:8614/stream
-#EXTINF:-1 station-id="awb_03160a35a3a1b84c56e9" stream-id="aws_c92f7807be6a372d5d8c" codec="aac+" bitrate="64",FMR News Radio 92.3 Manila
-http://209.126.124.126:8852/stream
-#EXTINF:-1 station-id="awb_b502360cea27ef09f761" stream-id="aws_d586343f4a1a5f25ef04" codec="aac+" bitrate="64",FMR Radyo Serbisyo 107.1 Pampanga
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_0046d98eaf8722659c1d" stream-id="aws_5d5050779d90c33043b6" codec="aac+" bitrate="64",FMR Regional
 http://de3.amfmph.com:8715/live
 #EXTINF:-1 station-id="awb_818d8cb9800e1502a8fa" stream-id="aws_a7616519e8b9d443c5ed" codec="aac+" bitrate="64",FMR Star Radio 101.9 Manila
@@ -821,6 +793,8 @@ https://livestream.rmn.ph/ifmcauayan
 https://livestream.rmn.ph/ifmcebu
 #EXTINF:-1 station-id="awb_135063a3eceafae04cd7" stream-id="aws_d7cbcfdd7c8a124a1a6f" codec="mp3" bitrate="128",iFM Iloilo
 http://62.138.18.102:8288/stream
+#EXTINF:-1 station-id="awb_e2275ac038f06bec073c" stream-id="aws_7d43ab525fea5a606711" codec="mp3" bitrate="128",iFM Lucena
+https://livestream.rmn.ph/ifmlucena
 #EXTINF:-1 station-id="awb_c8b656be89f8e7cd8276" stream-id="aws_0872a7d8fa155be5a021" codec="mp3" bitrate="96",iFM Roxas
 https://livestream.rmn.ph/ifmroxas
 #EXTINF:-1 station-id="awb_defc5aaa86092c6460b8" stream-id="aws_4f4ff219eed9a2551591" codec="mp3" bitrate="96",iFM Tacloban
@@ -853,10 +827,6 @@ http://122.53.61.251:8000/tangub.ogg
 https://dj.radyoph.com:8020/jungleradio
 #EXTINF:-1 station-id="awb_b0ec8a6cb05d1a8d44b1" stream-id="aws_c53825192298b593c384" codec="mp3" bitrate="128",K-Lite 101.9 FM Manila
 https://streaming.live365.com/a06369
-#EXTINF:-1 station-id="awb_3130c509a9d7320dd2eb" stream-id="aws_172ce8e85e8906bfbb69" codec="aac+" bitrate="64",K5 News FM 101.9 FM
-http://209.126.124.126:8852/stream
-#EXTINF:-1 station-id="awb_75d3a2683a20bd31b229" stream-id="aws_9c9c3f0486ca95f8cea2" codec="aac+" bitrate="64",K5 News FM 101.9 Manila
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_79f356f78bffc1f7517a" stream-id="aws_a381b890922dd944c77e" codec="aac+" bitrate="48",K5 News FM Antique
 http://209.126.124.126:8021/stream
 #EXTINF:-1 station-id="awb_4e51d80b52e0c7405e0c" stream-id="aws_14c2bcac1cc5af84b379" codec="aac+" bitrate="48",K5 News FM Bacolod
@@ -1145,12 +1115,6 @@ https://stream3.hornhost.com:8136/stream
 https://stream.zeno.fm/adqlxubrtshvv
 #EXTINF:-1 station-id="awb_c9d74a3ecdd5ec46c89f" stream-id="aws_6eea7612c359cf6ab97e" codec="aac" bitrate="64",Radio Boracay 106.1 fm
 https://s135.radiolize.com/radio/8020/radio.mp3
-#EXTINF:-1 station-id="awb_8b8b86fcef22da553f6b" stream-id="aws_eb2ab9b62425c7e918ba" codec="mp3" bitrate="128",Radio Disney Philippines - Cebu FM 87.5
-https://listen.radioking.com/radio/453221/stream/508076
-#EXTINF:-1 station-id="awb_542012caca147727c517" stream-id="aws_d29a1612f211777062bd" codec="mp3" bitrate="128",Radio Disney Philippines - Davao FM 105.9
-https://listen.radioking.com/radio/453221/stream/508076
-#EXTINF:-1 station-id="awb_7686b1461f25c2377c43" stream-id="aws_ac0048f72f61f66f8c1e" codec="mp3" bitrate="128",Radio Disney Philippines 96.7 FM
-https://listen.radioking.com/radio/453221/stream/508076
 #EXTINF:-1 station-id="awb_16c4ae4c731bc0287dfb" stream-id="aws_dcbda4480d8121613557" codec="mp3" bitrate="128",Radio Libertas Pampanga
 https://stream.zeno.fm/9td2da86gg8uv
 #EXTINF:-1 station-id="awb_8a201b12f6817ae7d375" stream-id="aws_c383e66b43029cc1b156" codec="aac+" bitrate="32",Radio Maria Philippines
@@ -1379,8 +1343,6 @@ http://rmstream.todostreamcast.com/radyotodoaklan
 https://radyotodoaklan.vonnhost.workers.dev/radyotodoaklan
 #EXTINF:-1 station-id="awb_aa36944c2e2caf427930" stream-id="aws_4c1a387521c54ca9dee5" codec="mp3" bitrate="128",Radyo Trabungko
 https://stream.zeno.fm/t9opranhul1uv
-#EXTINF:-1 station-id="awb_1d8f8b705b07fc15eb20" stream-id="aws_8fda32ce367e96eefd87" codec="aac" bitrate="463",Radyo5 105.9 True FM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 station-id="awb_c96976b5f226fdfd9f3b" stream-id="aws_42f5935f53d2805d9a53" codec="mp3" bitrate="192",Radyong Sira!
 https://a7.asurahosting.com:9110/radio.mp3
 #EXTINF:-1 station-id="awb_39bdc04a0e63334025b2" stream-id="aws_35e41c90f769615f4635" codec="mp3" bitrate="128",Rage Music Philippines
@@ -1401,6 +1363,8 @@ https://listen.streamaudio.co/proxy/retrohouseradio/house
 https://stream.zeno.fm/kpbamsatoqxtv
 #EXTINF:-1 station-id="awb_b7882528807adbb5e028" stream-id="aws_ee2dc9d80408540608a5" codec="mp3" bitrate="0",RJ FM 100.3
 http://111.125.87.226:8000/rjfm
+#EXTINF:-1 station-id="awb_a18d3e93f418428e438d" stream-id="aws_2a59cbc5f7a290f6e977" codec="mp3" bitrate="64",RMN DXDC 621 Davao
+https://livestream.rmn.ph/dxdcdavao
 #EXTINF:-1 station-id="awb_50eceddfd6be058bfaf3" stream-id="aws_dc4ba270eb32eff9ebd5" codec="mp3" bitrate="64",RMN DXDC Davao
 https://stream.zeno.fm/qrrgyy1hyuatv
 #EXTINF:-1 station-id="awb_116d6825c62bab3fbd98" stream-id="aws_a788813002ab486671e0" codec="mp3" bitrate="128",RMN DXDR 981 Dipolog
@@ -1533,8 +1497,6 @@ http://209.126.124.126:8872/stream
 https://stream-31.zeno.fm/2ss1hgnu6hhvv
 #EXTINF:-1 station-id="awb_c862b47eb61c4c41d0d1" stream-id="aws_79b8a2f6403bacbf7d39" codec="aac+" bitrate="64",TGON koolFM 99.5
 http://209.126.124.126:8872/stream
-#EXTINF:-1 station-id="awb_4a231581c36fe18c3341" stream-id="aws_54b2126faeaebe9b51fd" codec="aac+" bitrate="64",TGON News Radio 99.5 FM
-http://209.126.124.126:8852/stream
 #EXTINF:-1 station-id="awb_411493dbc76c787562c7" stream-id="aws_59159b33887fb3a14956" codec="mp3" bitrate="192",Tops Media Center
 https://s2.radio.co/s8d8aade20/listen
 #EXTINF:-1 station-id="awb_26331f8144c7e434bc5e" stream-id="aws_52477df9c8ebbed55054" codec="mp3" bitrate="128",True Life in God Radio Filipino
@@ -1557,8 +1519,6 @@ https://stream.zeno.fm/zf0ac4raqy8uv
 https://stream.zeno.fm/zf0ac4raqy8uv
 #EXTINF:-1 station-id="awb_66c01c0bf584c9ba778e" stream-id="aws_679420f860a34e8df9c3" codec="aac" bitrate="96",Voice Radio Catarman
 https://stream.zeno.fm/gbfhjvrljhxuv
-#EXTINF:-1 station-id="awb_59cb5bd784858d71edb8" stream-id="aws_9c1092dec3a3075d8279" codec="mp3" bitrate="128",Wave 89.1
-https://listen.radioking.com/radio/453221/stream/508076
 #EXTINF:-1 station-id="awb_e048c1e3db37f8897789" stream-id="aws_4bb35729d9bc8662d8da" codec="aac+" bitrate="64",Wild FM Cagayan de Oro
 http://148.72.153.65:9241/stream
 #EXTINF:-1 station-id="awb_7e98e3ac4328d0cd42e5" stream-id="aws_065a82bf360a606883e9" codec="aac+" bitrate="64",Wild FM Davao

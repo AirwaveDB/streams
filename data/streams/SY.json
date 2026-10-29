@@ -10,15 +10,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "228971b2-92e7-42c1-8162-2659b4a0dcba",
       "SY:qurango"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:10:43Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4503915d1352d0aa3fe9",
@@ -568,6 +566,25 @@
     "lastCheckedAt": "2026-10-27T16:12:19Z"
   },
   {
+    "id": "aws_6e241daf352bb7b432bc",
+    "stationId": "awb_561c3767c8a7ba7494dd",
+    "name": "عبد الله سراج الدين",
+    "country": "SY",
+    "url": "https://stream.zeno.fm/sq7ntk6zlaquv",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "82a5c307-2dd2-4166-a455-11866a40be3b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_884ae202bc521d6f89a2",
     "stationId": "awb_090312afb9f958cc7684",
     "name": "قديم FM",
@@ -585,24 +602,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T17:25:44Z"
-  },
-  {
-    "id": "aws_bdae9fa0ff0e0e9a3803",
-    "stationId": "awb_3c120cbd9c471a5af007",
-    "name": "لا القارئ محمد أيوب",
-    "country": "SY",
-    "url": "https://qurango.net/radio/mohammed_ayyub",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abbab5ba-4d4c-4c1e-8356-fdf5d5a25de5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:38:27Z"
   }
 ]

@@ -363,7 +363,7 @@ https://streaming6.locucionar.com:24060/stream
 http://radio.solumedia.com.ar:7009/;
 #EXTINF:-1 station-id="awb_52448640a22b2a23b8c3" stream-id="aws_914d3ce4cd5a5593a652" codec="mp3" bitrate="128",Estación Zafiro 89.5 FM
 https://01.solumedia.com.ar:9030/stream
-#EXTINF:-1 station-id="awb_bc62522ecfbc8300b655" stream-id="aws_400ba3bc039c51fe0bcd" codec="aac+" bitrate="48",Exa FM
+#EXTINF:-1 station-id="awb_bc62522ecfbc8300b655" stream-id="aws_400ba3bc039c51fe0bcd" codec="aac" bitrate="48",Exa FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 #EXTINF:-1 station-id="awb_c8ed690b5c32705da241" stream-id="aws_08a546ec27bb071b3b95" codec="aac" bitrate="32",Exclusiva FM 97.7
 http://streaming2.locucionar.com:8269/stream
@@ -1133,6 +1133,8 @@ https://streamserver-2.xyz:8000/radio.aac
 https://radio.arcast.cloud:1280/stream
 #EXTINF:-1 station-id="awb_5e16b3e641f4c24b1dca" stream-id="aws_8b6b0bda9cbc31647f52" codec="aac+" bitrate="64",M SPORT RADIO 101.9
 https://streaming.radiosenlinea.com.ar:10923/
+#EXTINF:-1 station-id="awb_b3cf31f6f69297ee5b96" stream-id="aws_ef12b69cbc0bed251f0b" codec="aac+" bitrate="48",m4dr35
+https://cdn.instream.audio:9288/stream
 #EXTINF:-1 station-id="awb_5b621c72e8f37e3be255" stream-id="aws_66e613c6b278cc9bb636" codec="mp3" bitrate="128",M90 89.9 FM
 http://23.111.184.195:8030/m90.mp3
 #EXTINF:-1 station-id="awb_1fb050243f36b3bc53d5" stream-id="aws_892eec4ff4ab025c6c5a" codec="mp3" bitrate="128",M90 Vintage FM 94.1 Rosario

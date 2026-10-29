@@ -1102,7 +1102,7 @@
       "2f43bec2-3043-45f1-a1aa-bee21aa21304"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T22:17:37Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_b9e7b904ec87038688e2",
@@ -3010,7 +3010,7 @@
       "4fbee4a8-f8e6-4b34-98ed-21bde0af1b0d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T08:35:54Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_33a03e6016fec9a11386",
@@ -3968,7 +3968,7 @@
       "c852e532-a34d-4086-b3f0-48ac0b64f1d5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T08:35:54Z"
+    "lastCheckedAt": "2026-10-28T14:20:55Z"
   },
   {
     "id": "aws_9e829f6e90813bd57db4",
@@ -4987,7 +4987,7 @@
       "ID:mettaswara-softrock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T02:40:54Z"
+    "lastCheckedAt": "2026-10-29T02:46:05Z"
   },
   {
     "id": "aws_ce26273d683e37b3683b",
@@ -5638,7 +5638,7 @@
       "165d3760-6dc2-466d-8fc3-f2aab177e67f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-23T15:41:19Z"
+    "lastCheckedAt": "2026-10-28T15:43:41Z"
   },
   {
     "id": "aws_8315a2b32b5b3d022930",
@@ -10372,25 +10372,6 @@
     "lastCheckedAt": "2026-10-26T22:09:12Z"
   },
   {
-    "id": "aws_0cdfd3c4474f59db65db",
-    "stationId": "awb_d5b2cc05ad0ec815a57b",
-    "name": "talkSPORT",
-    "country": "ID",
-    "url": "https://radio.talksport.com/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fc673753-937f-4810-b5de-fae52ae8db46"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:27:54Z"
-  },
-  {
     "id": "aws_2a55fae6e7c95b58950d",
     "stationId": "awb_883c72aac26fefb81333",
     "name": "Tarakan FM",
@@ -10629,6 +10610,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T02:37:06Z"
+  },
+  {
+    "id": "aws_41cafd70fe173ce0208b",
+    "stationId": "awb_42ef0197b318d6032f06",
+    "name": "TJANDRA FM CIANJUR",
+    "country": "ID",
+    "url": "https://live.tjandrafm.com/listen/tjandrafm/stream",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "86018131-b6a1-4883-b101-d367357e5342"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T03:40:31Z"
   },
   {
     "id": "aws_f39f4288f1687146d17a",
@@ -11248,24 +11248,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T07:09:27Z"
-  },
-  {
-    "id": "aws_1c7dc0571ffa12ee1a21",
-    "stationId": "awb_0050a07bece947ea9395",
-    "name": "اذاعة القرآن الكريم",
-    "country": "ID",
-    "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b55de16-bf05-449a-a163-bd0f8a018d3d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:43:14Z"
   }
 ]

@@ -1117,6 +1117,8 @@ http://stream.twentestad.eu/twentestad.mp3
 https://stream.twentestad.eu/twentestad.mp3
 #EXTINF:-1 station-id="awb_f759046550e5250037d8" stream-id="aws_71445d3259a3a52c1d3b" codec="mp3" bitrate="320",Midland FM
 http://qxjr001.digiplay.nl:9188/;
+#EXTINF:-1 station-id="awb_ff22d26d245deed55c6b" stream-id="aws_54d6d40e14f5e381dc91" codec="" bitrate="0",mijncooleradiostation
+http://192.168.0.6:8000/stream
 #EXTINF:-1 station-id="awb_f136dce0473354fe4a2d" stream-id="aws_9978c05a051055df17e6" codec="mp3" bitrate="160",Mijnstreek Vandaag
 http://audiostream.easy-point.nl:8000/stream
 #EXTINF:-1 station-id="awb_5d63b9373a87663b6d19" stream-id="aws_bcbc9acda2903b0a1491" codec="mp3" bitrate="192",MixPerfect
@@ -2577,6 +2579,8 @@ https://cc6.beheerstream.com/proxy/wluhlvrs?mp=/stream
 https://icecast.bytesheep.net/zfmzandvoort.mp3
 #EXTINF:-1 station-id="awb_9973666b29e4f7841063" stream-id="aws_f86bc144a357dcbf5765" codec="mp3" bitrate="320",ZFM Zoetermeer
 http://kippingmultimediaal.nl:8000/ZFMmobiel
+#EXTINF:-1 station-id="awb_58761aa48238d2f8d5d5" stream-id="aws_2fcc43ea476f427f2e6e" codec="mp3" bitrate="0",ZILTradio
+https://audio.cloudrad.io/a77e5da3/mp3
 #EXTINF:-1 station-id="awb_63ec72d73f31a3d947c5" stream-id="aws_60d0898cf16988d72d52" codec="mp3" bitrate="192",ZLV Zuid-Limburg Vandaag
 https://audiostream.easy-point.nl/proxy/heuvelland/stream
 #EXTINF:-1 station-id="awb_2821e4a49c3b98832419" stream-id="aws_3e8acf82087dd1f5f631" codec="mp3" bitrate="0",ZO-NWS Radio

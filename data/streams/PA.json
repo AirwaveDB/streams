@@ -167,20 +167,18 @@
     "name": "Exa FM",
     "country": "PA",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PA:exa-fm",
-      "b7b47392-a7f9-41db-a71c-0da58c81e6b7"
+      "PA:exa-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:23:41Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_acd9a5514ede605e6b1d",

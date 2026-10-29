@@ -1419,6 +1419,8 @@ https://easylistening.out.airtime.pro/easylistening_a
 https://radio.canstream.co.uk:8000/eavafm.mp3
 #EXTINF:-1 station-id="awb_08ed3ac83f436aaf0ed5" stream-id="aws_bca8d1f713d166e3a5e6" codec="mp3" bitrate="96",EAVA FM 102.5 FM
 https://radio.canstream.co.uk:8000/eavafm.mp3
+#EXTINF:-1 station-id="awb_0cca48e20830392d8ab8" stream-id="aws_24d460b5e27c4a094d68" codec="aac" bitrate="128",EB IT Radio
+https://s3.citrus3.com:8330/stream
 #EXTINF:-1 station-id="awb_a238ed10f016194ee60a" stream-id="aws_062abcc13a38acb27d87" codec="mp3" bitrate="320",Edge 1
 https://stream.aiir.com/8dhvgxm1kbvuv
 #EXTINF:-1 station-id="awb_3e76d0c219d2e0e3c9cc" stream-id="aws_c6bcc6eebe6bf6e67ba4" codec="mp3" bitrate="320",Edge 2
@@ -2607,6 +2609,10 @@ https://streaming.radio.co/sd88832e85/listen
 http://uk7.internet-radio.com:8000/stream
 #EXTINF:-1 station-id="awb_f5777233c087d0abca0c" stream-id="aws_11ebcf0d34617b070165" codec="mp3" bitrate="128",MoveDaHouse
 https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream
+#EXTINF:-1 station-id="awb_cb9677699503bd86e584" stream-id="aws_5b546b1189e2dc50df6e" codec="aac" bitrate="64",MPB Radio 1 DJ Sets
+https://streaming.mpbnl.nl/mpbnl/mpb_radio_1_themed/stream.aac
+#EXTINF:-1 station-id="awb_3b16da62051d4ff24868" stream-id="aws_8735f04b325fe4269932" codec="aac" bitrate="96",MPB Radio 1 Eurodance
+http://streaming.mpbnl.nl/mpbnl/mpb_radio_1_90s/stream.aac
 #EXTINF:-1 station-id="awb_5ccf9977d5b2f8c7b127" stream-id="aws_25d4fc044c514843c062" codec="mp3" bitrate="128",Music Box Radio
 https://uk5.internet-radio.com/proxy/musicboxradio?mp=/stream
 #EXTINF:-1 station-id="awb_308c860b385f9ceec741" stream-id="aws_0c3d1cc82d34d64f651b" codec="mp3" bitrate="128",Music Box Radio UK
@@ -3869,9 +3875,7 @@ https://admin.stream.rinse.fm/proxy/swu/stream
 https://taiyabahmbolton.radioca.st/stream
 #EXTINF:-1 station-id="awb_9ab2ad1ea28efb53ac29" stream-id="aws_3a97f555a54e6dd5b9eb" codec="aac" bitrate="64",Talk
 https://radio.talkradio.co.uk/stream
-#EXTINF:-1 station-id="awb_d95642339e53ed07a233" stream-id="aws_802ec9f0dc7224dffade" codec="aac" bitrate="64",talkSPORT
-https://radio.talksport.com/stream
-#EXTINF:-1 station-id="awb_989697b3ab64bb1d153d" stream-id="aws_6c212f432804743a6f2c" codec="aac" bitrate="64",TalkSPORT
+#EXTINF:-1 station-id="awb_989697b3ab64bb1d153d" stream-id="aws_6c212f432804743a6f2c" codec="aac" bitrate="64",talkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1 station-id="awb_8c2039a316c0534ae603" stream-id="aws_0d05ab9fcec9a64aea8a" codec="aac" bitrate="128",Talksport 2
 https://talksport.live.stream.broadcasting.news/stream2
@@ -3983,6 +3987,8 @@ https://streaming.galaxywebsolutions.com:9046/stream
 https://thevoidrad.io/stream320
 #EXTINF:-1 station-id="awb_19c471931ca7295615a9" stream-id="aws_1513b9f44f1b7746d3ab" codec="mp3" bitrate="128",thezone
 http://uk1.internet-radio.com:8355/stream
+#EXTINF:-1 station-id="awb_c861dac91fd921de95a1" stream-id="aws_34765cb6533d4715a7cb" codec="mp3" bitrate="0",This is the Coast
+https://streaming.broadcast.radio/thisisthecoast
 #EXTINF:-1 station-id="awb_c861dac91fd921de95a1" stream-id="aws_6b6ed3d53b033d0049e9" codec="mp3" bitrate="0",This is the Coast
 https://streaming.broadcastradio.com:10765/thisisthecoast
 #EXTINF:-1 station-id="awb_4447dba4d6e9f5dda83f" stream-id="aws_0e96514b89b285674c9c" codec="mp3" bitrate="192",Thornbury Radio
@@ -4027,7 +4033,7 @@ https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
 https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3
 #EXTINF:-1 station-id="awb_0d25063e81aa6b98edbd" stream-id="aws_81b3fdfa78b01fdbe084" codec="mp3" bitrate="192",Totally Wired Radio
 https://totallywired.out.airtime.pro/totallywired_a
-#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="6210",Totalmusic 2000s
+#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="6190",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 station-id="awb_f3015bb3f66b77d6c2e6" stream-id="aws_8ab31bb7e3b400d2114e" codec="mp3" bitrate="128",TotalRock
 https://s3.citrus3.com:8056/stream
