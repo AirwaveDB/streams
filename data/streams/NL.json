@@ -1330,6 +1330,25 @@
     "lastCheckedAt": "2026-10-28T08:39:44Z"
   },
   {
+    "id": "aws_3a04f21d7f60dcc0ffad",
+    "stationId": "awb_40b3d18b1db5f8de3f0e",
+    "name": "Ampere Radio",
+    "country": "NL",
+    "url": "https://stream.amghosting.com/listen/ampere_radio/ampere.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0c807a8e-38a9-4177-a329-cae5a96bbbe5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
     "id": "aws_2f21a15fdacbf55d5593",
     "stationId": "awb_189e32f9b2261c9bfb0c",
     "name": "Amsterdam Funk Channel",
@@ -8273,6 +8292,25 @@
     "lastCheckedAt": "2026-10-27T11:48:01Z"
   },
   {
+    "id": "aws_0475f4f13ef5a0beb00e",
+    "stationId": "awb_0e27d40c71680b0fe1c3",
+    "name": "ISKC Rock Radio",
+    "country": "NL",
+    "url": "http://mediaserv68.live-streams.nl:8012/RockRadio2",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2c68528e-53ba-4007-9584-b7546d63c38f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_0f513287b68811796720",
     "stationId": "awb_3cf133bfe3d1eb88b95e",
     "name": "ISKC Rock Radio RPO (Recent Prog Only)",
@@ -9057,7 +9095,7 @@
       "cfdcc400-27d2-4d78-9c27-d1a2bd726c3b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_0a5a8aeef2a5b08ee8a6",
@@ -10152,7 +10190,7 @@
       "e02acb43-e955-479e-9f4a-37bc48701ea7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_e2459555a9549b1b85d7",
@@ -10787,25 +10825,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T08:15:36Z"
-  },
-  {
-    "id": "aws_54d6d40e14f5e381dc91",
-    "stationId": "awb_ff22d26d245deed55c6b",
-    "name": "mijncooleradiostation",
-    "country": "NL",
-    "url": "http://192.168.0.6:8000/stream",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "060b92a5-d9d4-45a7-861b-707bff93083e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
   },
   {
     "id": "aws_9978c05a051055df17e6",
@@ -12582,7 +12601,7 @@
       "ba7b54ea-7f05-4fe9-b600-385f1486fb09"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_f9656f29eaba78580c34",
@@ -17651,6 +17670,25 @@
     "lastCheckedAt": "2026-10-27T12:03:00Z"
   },
   {
+    "id": "aws_a9a1261faef4ee0b3a39",
+    "stationId": "awb_220c3349922bc21c8705",
+    "name": "Radio JND",
+    "country": "NL",
+    "url": "https://stream.radiojnd.nl/radiojnd.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "995a3e3d-5760-4808-9704-0a22bb1ea928"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
     "id": "aws_d313c873802412a0987c",
     "stationId": "awb_059ba656df0fdc367838",
     "name": "Radio Joe",
@@ -18357,7 +18395,7 @@
       "50e8d003-685a-4db8-8f8b-f9349c78a302"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_f0984f80f9e4f720bd2c",
@@ -20263,6 +20301,25 @@
     "lastCheckedAt": "2026-10-27T01:43:27Z"
   },
   {
+    "id": "aws_d32a45d3bf0f121dcef2",
+    "stationId": "awb_953ac10696d8c9e6789d",
+    "name": "Relentless Grace Radio",
+    "country": "NL",
+    "url": "https://azuraserv3.live-streams.nl/listen/relentless_grace_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "15d180cb-b17a-4e37-9fda-bf8967ede7c1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_2c738535efa9d53c227f",
     "stationId": "awb_4c6ca2ba74c35c0c628e",
     "name": "REPLAY NEWS - Nederlands",
@@ -21159,6 +21216,25 @@
     "lastCheckedAt": "2026-10-27T17:23:40Z"
   },
   {
+    "id": "aws_60a528af9185be2af66d",
+    "stationId": "awb_726d26505183eea34f31",
+    "name": "Rust Radio",
+    "country": "NL",
+    "url": "http://rustradio.org:8000/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1236be7c-fd74-4b8e-a3ab-e4e868a5ef21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
+  },
+  {
     "id": "aws_f6bd64a0431e712f320b",
     "stationId": "awb_e2af9dc3897a1f739636",
     "name": "Salland1",
@@ -21327,7 +21403,7 @@
       "440f2d10-7583-439f-9301-71ba02f23fde"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_e8cec29be05e165ebeea",
@@ -23827,6 +23903,25 @@
     "lastCheckedAt": "2026-10-27T18:41:54Z"
   },
   {
+    "id": "aws_ce63099dfcf21c240a46",
+    "stationId": "awb_a8249b675dd96f610bde",
+    "name": "Veronica Beste 80's",
+    "country": "NL",
+    "url": "https://stream.radioveronica.nl/dab01",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6e068ca8-192f-414e-86b1-ac37536de512"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_0a4d7d1a1e29226f5d21",
     "stationId": "awb_eddd98eaaf6159d4aaaf",
     "name": "Veronica Goud van oud",
@@ -24136,7 +24231,7 @@
       "220ed980-321a-48ec-a9a7-058d16952099"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_4ad3881c265517c962e4",

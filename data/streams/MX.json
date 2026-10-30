@@ -1692,7 +1692,7 @@
       "497c68be-2cfd-443c-86f8-79c097f94094"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_3ca0c62ef8b74f227fe8",
@@ -6595,7 +6595,7 @@
       "d816fce4-a7af-43c8-a6b7-6228cf35889c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_6f224233990820e9c274",
@@ -9921,7 +9921,7 @@
       "d8c0637b-a072-4e2b-a7b8-ef287333dc5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_d21b854cfb9ca004af27",
@@ -10188,25 +10188,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T06:13:07Z"
-  },
-  {
-    "id": "aws_e973d6176a2b8458cfe3",
-    "stationId": "awb_c30879d868501a34a583",
-    "name": "96.1 Radio UNAM (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b3ac580-0972-4326-96bb-0ce4abe7d9e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T12:36:15Z"
   },
   {
     "id": "aws_cc85a99d0fe79b175e8c",
@@ -12346,8 +12327,8 @@
     "name": "AJIJO 92.7",
     "country": "MX",
     "url": "https://stream.zeno.fm/8zdtzypwyozuv",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 160,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -12357,7 +12338,7 @@
       "221f8b81-9e16-44da-8b7b-7312dd3045c4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_27af9165a2a4045fa0b7",
@@ -12701,7 +12682,7 @@
       "a7a10889-e3af-4085-b800-1868e8cc8085"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T14:16:33Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_d18982f86eabffa39a34",
@@ -15383,6 +15364,25 @@
     "lastCheckedAt": "2026-10-27T18:58:59Z"
   },
   {
+    "id": "aws_1481af4daad6740081f8",
+    "stationId": "awb_687d3bc087a2ea790d05",
+    "name": "Bonanza Tu Radio y Televisión",
+    "country": "MX",
+    "url": "http://n12.radiojar.com/c1ywcfhv08nwv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5937e2ed-de1e-4bed-887d-a5b3a35a9b69"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_5b8a70c2c9005cb2206d",
     "stationId": "awb_1352f4a1a15470c3a4e7",
     "name": "BONITA 91.1 (Ciudad Mante) - 91.1 FM - XHECM-FM - ORT Radio - Ciudad Mante, Tamaulipas",
@@ -16865,7 +16865,7 @@
       "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_babfe3773eddde22b5ae",
@@ -19481,6 +19481,25 @@
     "lastCheckedAt": "2026-10-27T19:52:22Z"
   },
   {
+    "id": "aws_12a6a5831a3efee19d8e",
+    "stationId": "awb_7fc727f0e151d6646ea8",
+    "name": "Epicentro FM",
+    "country": "MX",
+    "url": "https://stream.radiojar.com/8p5dw88cnhpwv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "72db1082-d5cb-4744-8368-9893d9f67c27"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
+  },
+  {
     "id": "aws_b33ecd9240fb96bdbedd",
     "stationId": "awb_1e8b611f7c0e19d82287",
     "name": "Escuchaz",
@@ -20439,7 +20458,7 @@
       "72331819-dfcb-44f6-9e94-92f1a28b3965"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:31:24Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_224656f67e5ef89978bb",
@@ -27473,7 +27492,7 @@
       "fa534b84-b3ba-4f66-bc88-f4172b2e7060"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_0987c82e04876767ad3e",
@@ -27514,6 +27533,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T00:29:16Z"
+  },
+  {
+    "id": "aws_9ec85ef7317f10194093",
+    "stationId": "awb_0281d3088d0ceef08c51",
+    "name": "La Inolvidable MX",
+    "country": "MX",
+    "url": "http://icecast.ragtec.com.mx:8000/inolvidable",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ef2da451-1285-40a9-9ae6-daaf7eb192fb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_89d9b51030c94af98730",
@@ -39579,6 +39617,25 @@
     "lastCheckedAt": "2026-10-27T17:15:02Z"
   },
   {
+    "id": "aws_90f0d0476ca29bb232aa",
+    "stationId": "awb_889c3203ff9c34de00cb",
+    "name": "Organica Radio",
+    "country": "MX",
+    "url": "https://stream11.mexiserver.com/proxy/socialym/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "431ade01-6897-4244-8adc-1a67caa7f22d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_609973ccf67256539612",
     "stationId": "awb_104e564ada0bb71a2a4c",
     "name": "Ori Solo Hits",
@@ -40310,7 +40367,7 @@
     "stationId": "awb_148fbed64dc3d4a444a3",
     "name": "QUE VIVA MÉXICO! (MTY) - Online - www.quevivamexico.com - Grupo Digital Retroland - Monterrey, Nuevo León",
     "country": "MX",
-    "url": "https://panel.retrolandigital.com/listen/que_viva_mexico/listen",
+    "url": "https://panel.retrolandigital.com:8160/listen",
     "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
@@ -40322,7 +40379,7 @@
       "404c6360-08d7-4270-9c02-6149300f6454"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_89ece3627ff4ad187c25",
@@ -45514,45 +45571,6 @@
     "lastCheckedAt": "2026-10-27T01:26:20Z"
   },
   {
-    "id": "aws_14c4cd6b19c96caab449",
-    "stationId": "awb_2be43272c7a260600f1c",
-    "name": "RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "002187e0-487f-46e3-b18a-2af81085f6f6",
-      "d589394c-3d41-45e1-a608-8d14295132d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T21:55:35Z"
-  },
-  {
-    "id": "aws_efebbc504fab6191416e",
-    "stationId": "awb_e145b8c0fc112eea11b0",
-    "name": "Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e0d7ea92-e353-4727-b741-fa0ff2118eb1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T22:47:32Z"
-  },
-  {
     "id": "aws_f5ca555224bc92e6f789",
     "stationId": "awb_f06ad335beee7c439a1f",
     "name": "Radio UNAM AM",
@@ -45608,45 +45626,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T08:13:39Z"
-  },
-  {
-    "id": "aws_20f682c9f5f332877c72",
-    "stationId": "awb_63a19ddded2e68ec2f36",
-    "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "179f9cc7-f155-4da7-ae65-5bdfd88123b7",
-      "fa01778a-cf8f-4151-835e-5f251ad333fb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:20:30Z"
-  },
-  {
-    "id": "aws_b92b42106c417680c1d2",
-    "stationId": "awb_c850bdc8bb9bf1ce6dde",
-    "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c25c753-981f-48c8-81bd-1140604791e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:55:27Z"
   },
   {
     "id": "aws_57e5ec5f1a40274baf4f",
@@ -45988,7 +45967,7 @@
       "5f2b0d0c-f5aa-4fc0-9d95-fa92a1fda9e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_b60cd37ebdd6a42b50d4",
@@ -48182,6 +48161,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T18:41:54Z"
+  },
+  {
+    "id": "aws_ca3391cb09e7a28dfc6a",
+    "stationId": "awb_d2e9696a9dfdff0d4b15",
+    "name": "Stereo 95 95.1 FM",
+    "country": "MX",
+    "url": "https://stream9.mexiserver.com/8424/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "261289bc-e417-4fdd-82d2-c95be675ae3b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_dae40e434af1f07c3ae9",

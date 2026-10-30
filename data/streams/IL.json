@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_7e8a0d79dd0386d1621d",
-    "stationId": "awb_eb1941846e88316aa8ba",
-    "name": ".assalam",
-    "country": "IL",
-    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bf1cebbf-a58d-41a4-95f2-8abd5e50f6bf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:09:57Z"
-  },
-  {
     "id": "aws_03aaf0be7572736bac59",
     "stationId": "awb_119a4acadc1485486cfa",
     "name": "#joint radio Beat Trance",
@@ -562,7 +543,7 @@
       "dcbd792b-1547-440b-82ae-23b6f926283e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_2bff254543d91e09ab2c",
@@ -581,7 +562,7 @@
       "34ccc82a-2ee3-4f71-b9b4-11bf66ef07bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_a93c57836fd603947322",
@@ -2050,6 +2031,25 @@
     "lastCheckedAt": "2026-10-27T06:13:07Z"
   },
   {
+    "id": "aws_da5aca621327fdf07e7f",
+    "stationId": "awb_c44ab4140025d50d0785",
+    "name": "Reichmann AudioVersity",
+    "country": "IL",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d49053be-1450-42f7-94dc-fbc6406c719e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_fc48b77718cb4edae9a7",
     "stationId": "awb_a358ec7b71c742ac4f4c",
     "name": "Star 33 Radiostation",
@@ -2557,6 +2557,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T14:47:03Z"
+  },
+  {
+    "id": "aws_f9e66b3f8123b7bfa86b",
+    "stationId": "awb_4ff3354d5802dbc8c593",
+    "name": "כאן 88",
+    "country": "IL",
+    "url": "https://27943.live.streamtheworld.com/KAN_88.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4eaa23cb-9fe0-4cfe-ad2e-a87454fec609"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_7872e3f8a19562e19bf2",
+    "stationId": "awb_4ff3354d5802dbc8c593",
+    "name": "כאן 88",
+    "country": "IL",
+    "url": "https://www.kan.org.il/content/kan/kan-88/",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3e2f12ad-7c41-42ea-9ce8-cf567d308b0a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_2b759820237a93d05c64",

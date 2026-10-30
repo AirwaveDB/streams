@@ -69,15 +69,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1f82ec6c-21f0-4f65-8ab8-a8ba272e3a20",
       "EG:qurango-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:00:45Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_060e02295415096d4b4a",
@@ -553,7 +551,8 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13a37b90-41f5-4b3e-9789-3e3a80fa2e45"
+      "13a37b90-41f5-4b3e-9789-3e3a80fa2e45",
+      "292240c1-5a19-4087-8fc8-415450234097"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T14:03:05Z"
@@ -592,10 +591,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "645d4aba-6e8a-4a10-ae2c-43cbd1ae4e96"
+      "645d4aba-6e8a-4a10-ae2c-43cbd1ae4e96",
+      "ca1fb34c-a9e3-4a09-9a5f-d0555e8889f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T23:02:33Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_4e90d0f388f2052d6e35",
@@ -611,11 +611,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0e86959c-d754-406a-ab20-44650532d1ed",
-      "b0f7160f-5ff0-4ca6-ae65-07dee33c9497"
+      "3e2c8aa4-46e3-4ea1-9db3-770b332c8242",
+      "d13ccaa5-dd4e-46c1-8aa2-f0bcd39b92db"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T15:43:41Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_9bff49c31da6e1336a89",
@@ -753,7 +753,7 @@
       "e62ed1be-c057-4e7a-9f21-c13ee017ba23"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:26:30Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_1547002101ffda70bf44",
@@ -769,10 +769,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "9707b940-0975-4c15-bc02-e942b2880c56",
       "d7a8abc4-9195-4be0-a7d7-6fda72e80260"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:09:03Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_cb7752b2ce13a2c04543",
@@ -807,10 +808,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "c6fb93cc-98d3-4835-8092-a4cba8b9097e",
       "fbf6dcee-086b-4459-b9e0-8a8fe607a92e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_2e567e4ec32cb5b17627",
@@ -1245,25 +1247,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-28T01:24:02Z"
-  },
-  {
-    "id": "aws_78db65221f09f93f7fba",
-    "stationId": "awb_d4df29a8689cbb6c98ae",
-    "name": "تفسير بن عثيمين",
-    "country": "EG",
-    "url": "https://qurango.net/radio/tafseer",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b74d88e-aeb2-457a-8886-aeeb65831d5d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:49:09Z"
   },
   {
     "id": "aws_25dc13c247827806e774",

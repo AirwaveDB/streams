@@ -10,15 +10,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4d88b122-6b5c-45ee-964a-01800b76f9bf",
       "BR:quran"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T21:23:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_54480ff4339be78ceb7a",
@@ -2331,6 +2329,26 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T04:33:41Z"
+  },
+  {
+    "id": "aws_179f384e6fe6953e4903",
+    "stationId": "awb_f1989aa1d7dc4c08becf",
+    "name": "Black Radio Mistura Certa",
+    "country": "BR",
+    "url": "https://stm16.xcast.com.br:9496/stream",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "24d6aeb2-4228-4d9d-b193-bd46811deb1f",
+      "99df3b8a-39d8-4b03-a6f4-05ace08aaa9f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_fb2ced63108a74fa5f98",
@@ -5294,7 +5312,7 @@
       "541f6bfb-961a-4453-a22b-7cc27e596355"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_725194786213d968e91d",
@@ -6182,7 +6200,7 @@
       "d432e55b-e425-406e-bcff-b1e252b99c5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_30f5cbbdc964cfeda6d6",
@@ -7610,7 +7628,7 @@
       "d120661b-8bc4-4e4b-a910-b6363fc58ccc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_2010b7fe0924d5be8793",
@@ -8051,7 +8069,7 @@
       "3560e702-faaa-4b32-8193-d6ac5994649d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_d9346eb296b0328d935a",
@@ -8097,8 +8115,8 @@
     "name": "MAGIC BOXX RADIO",
     "country": "BR",
     "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -8106,10 +8124,10 @@
     ],
     "sourceIds": [
       "5a20ac2a-fd85-4495-b88e-024456e43c47",
-      "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+      "f64c0687-b2aa-426e-a578-69f644b9ba90"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_e04f7c8543ab8a9cb6f0",
@@ -10579,6 +10597,25 @@
     "lastCheckedAt": "2026-10-27T08:42:48Z"
   },
   {
+    "id": "aws_5f17f3d596766ba924e6",
+    "stationId": "awb_bc395bb6b6d77d5b6299",
+    "name": "Nuevo Tiempo",
+    "country": "BR",
+    "url": "https://streamradio.novotempo.com/CDN-RADIO-ES/smil:radionuevotiempo.smil/playlist.m3u8",
+    "codec": "unknown",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bef94f60-f423-40f7-b48d-9f584b834e78"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_ed7d627071e161d431ec",
     "stationId": "awb_24165c82079ef0b58ff2",
     "name": "NuMetal 1.0 - JubsTones",
@@ -10693,7 +10730,7 @@
       "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_c5e42e50dea329a1945c",
@@ -12096,7 +12133,7 @@
     "name": "Radio A Voz da Salvação Divina",
     "country": "BR",
     "url": "https://cast1.midiazdx.com.br:6678/stream",
-    "codec": "mp3",
+    "codec": "aac+",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
@@ -12107,7 +12144,7 @@
       "48c11d12-5a09-4534-9ce6-363b24f49334"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_519595b5beec142b30c7",
@@ -15755,6 +15792,25 @@
     "lastCheckedAt": "2026-10-27T03:12:43Z"
   },
   {
+    "id": "aws_5b5b05c089f6e8f30c33",
+    "stationId": "awb_2ff02265a39913a37e9e",
+    "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+    "country": "BR",
+    "url": "https://servidor36.brlogic.com:7048/live",
+    "codec": "aac+",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "05b040f9-7380-4c25-936f-019402fc5d94"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
+  },
+  {
     "id": "aws_04ca67b66830934b4951",
     "stationId": "awb_7943e5b6093c66e9104f",
     "name": "Rádio Cultura FM 100.9 Brasília DF",
@@ -16290,7 +16346,7 @@
       "2a5e6c05-3b5a-4a91-b4fd-f6e91301de41"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_63b6eb4ee74872534c99",
@@ -22150,7 +22206,7 @@
       "d2ef310d-58d8-481b-a195-0a94645a518d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_a07e14753b99c62de4bc",
@@ -24539,6 +24595,25 @@
     "lastCheckedAt": "2026-10-27T15:56:22Z"
   },
   {
+    "id": "aws_b26aaa8b97a5da065094",
+    "stationId": "awb_2cc653899d08d11158b2",
+    "name": "Rádio UP!",
+    "country": "BR",
+    "url": "http://saber.intra.antbr.com:8010/radio",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0f6eb7bd-ad89-4a75-83b9-e0eb05d698a1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
+  },
+  {
     "id": "aws_f20b87dc4e350fef3455",
     "stationId": "awb_8e3fe62ecd7010ee84a1",
     "name": "Rádio UPF",
@@ -26382,7 +26457,7 @@
       "22e73d38-9092-4e05-8092-fc36a4899ded"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_9842f429f4770cfa5a9d",
@@ -26574,7 +26649,7 @@
       "712091dc-0bab-44e6-b2f4-487681022d8a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_9543cfb3bc1b319b54d5",

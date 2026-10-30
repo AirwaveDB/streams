@@ -19,8 +19,6 @@ https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listeningSessionID=6
 https://radyo24.radyotvonline.net/radyo24
 #EXTINF:-1 station-id="awb_5a3ce669144b2a104728" stream-id="aws_3220ea20172ad0b7bec7" codec="aac+" bitrate="127",90 lar Pop
 https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
-#EXTINF:-1 station-id="awb_c9899eb14c0141889244" stream-id="aws_8392929bd225d7bba34b" codec="mp3" bitrate="128",90'lar Türkçe Pop
-http://37.247.98.8/stream/166/
 #EXTINF:-1 station-id="awb_c9899eb14c0141889244" stream-id="aws_25463e14ae11c95697d4" codec="aac" bitrate="128",90'lar Türkçe Pop
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:-1 station-id="awb_ac71b2983a9eb1e5ff45" stream-id="aws_d0c433175326ec55c989" codec="aac" bitrate="128",90LAR
@@ -721,6 +719,8 @@ https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
 #EXTINF:-1 station-id="awb_e399180509bec6fb8f45" stream-id="aws_6b8f7b141adf561a729d" codec="aac+" bitrate="128",Pal station
 http://shoutcast.radyogrup.com:1020/
+#EXTINF:-1 station-id="awb_75d50e00041910f1f082" stream-id="aws_c01c301ea851b5d4bb98" codec="aac+" bitrate="128",Pal Station
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
 #EXTINF:-1 station-id="awb_b4bc88a7da7660d1e05e" stream-id="aws_cd87bcda67748031a0c1" codec="aac+" bitrate="32",Park Fm
 http://yayin.netradyom.com:8050/PARKFM/
 #EXTINF:-1 station-id="awb_16cf0cf5eecdb6bf528f" stream-id="aws_f124992a3a4bca401e2a" codec="mp3" bitrate="128",Pazarcık
@@ -899,8 +899,6 @@ https://radyo.yayin.com.tr:4010/
 https://radyo.yayin.com.tr:4010/
 #EXTINF:-1 station-id="awb_c25956efb6bd7e09a210" stream-id="aws_1f7a2c3beddd13f416fd" codec="mp3" bitrate="128",RADYO 90
 https://live.radyo.in/9054/stream
-#EXTINF:-1 station-id="awb_9da05f70d88240e8f14e" stream-id="aws_cd929f7a918ae9218031" codec="mp3" bitrate="128",Radyo 90s
-http://37.247.98.8/stream/166/
 #EXTINF:-1 station-id="awb_8c15d2642aa9df24abfa" stream-id="aws_13685afc58efbae80c88" codec="mp3" bitrate="128",Radyo A (Radyo Anadolu Üniversitesi)
 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
 #EXTINF:-1 station-id="awb_cd543f3bd29e22b720d7" stream-id="aws_4ffc160b1f58b40bbc97" codec="aac+" bitrate="128",RADYO AHENK
@@ -1231,8 +1229,6 @@ http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_186c7c2cc3803e480078" stream-id="aws_f1f093255fe22e169689" codec="mp3" bitrate="192",RUN ON AİR
 https://stream.radio.co/s5865f80fd/listen
-#EXTINF:-1 station-id="awb_11b619e59842d673a374" stream-id="aws_b25a8709cb49fadf2563" codec="mp3" bitrate="128",S1lhoutte - 90's FM
-http://37.247.98.8/stream/166/
 #EXTINF:-1 station-id="awb_a874260494d723cb1de0" stream-id="aws_095aa024b1378ebb6cc9" codec="mp3" bitrate="128",S1lhoutte - Slow FM
 https://anadolu.liderhost.com.tr:10973/
 #EXTINF:-1 station-id="awb_3f3dc623ad250607dfc3" stream-id="aws_5e437751778651ba4904" codec="mp3" bitrate="128",S1LHOUTTE ANKARA HAVALARI
@@ -1411,8 +1407,6 @@ http://29103.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC
 http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1 station-id="awb_ae4a1e80e659dd675a8a" stream-id="aws_c2eff10549c94ae845cf" codec="mp3" bitrate="128",VİRGİN RADYO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
-#EXTINF:-1 station-id="awb_9364f882c37b48518392" stream-id="aws_eb6e31c34735271da4d5" codec="mp3" bitrate="128",VİVA TEMPO
-http://37.247.98.8/stream/166/
 #EXTINF:-1 station-id="awb_4f01f4cbe4351eaeba5b" stream-id="aws_5ebfea1307198a3a8ef0" codec="aac+" bitrate="32",VİZYON NOSTALJİ
 https://stream.netradyom.com/radio/7090/radio.mp3/;
 #EXTINF:-1 station-id="awb_c1ba2ec29498e66e56bd" stream-id="aws_4dde964ab8df14e2c5c6" codec="aac+" bitrate="128",Vokal Tr

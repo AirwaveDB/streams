@@ -29,15 +29,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:quran",
-      "a0b6a42c-d5c7-46c4-8193-235642319116"
+      "CA:quran"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T12:17:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b7a335ecfa28cae04c67",
@@ -2258,7 +2256,7 @@
       "17870a88-c273-4192-ac2d-6bbcf914e419"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_a8a1a7d3a22008c1f434",
@@ -10538,6 +10536,25 @@
     "lastCheckedAt": "2026-10-27T00:13:00Z"
   },
   {
+    "id": "aws_254c3092f33af4ac9866",
+    "stationId": "awb_30346c393b734624bd58",
+    "name": "CIPU \"Shubie FM\" Sipekne'katik/Shubencadie, Nova Scotia",
+    "country": "CA",
+    "url": "https://listen.radioking.com/radio/626449/stream/688756",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9355e586-e0a8-4948-b7e7-37afe7cee956"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_ba88d5a87d98dbf40190",
     "stationId": "awb_b010ee060915bfb9414d",
     "name": "CIQB \"Big 101.1\" Barrie, ON",
@@ -10707,6 +10724,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T16:50:11Z"
+  },
+  {
+    "id": "aws_83c13e7b32b96b730076",
+    "stationId": "awb_8c0dcf2916c955991d51",
+    "name": "CISB 106.3 Sandy Bay, Manitoba",
+    "country": "CA",
+    "url": "https://cast5.my-control-panel.com/proxy/michell2/live",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3b4c93a1-ea26-4af7-9cf2-5473a9a39b20"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_0b0cb06c40525db3545f",
@@ -12187,6 +12223,25 @@
     "lastCheckedAt": "2026-10-27T18:36:50Z"
   },
   {
+    "id": "aws_4e6055512cd1be0b3d02",
+    "stationId": "awb_8e978077913365897cb5",
+    "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+    "country": "CA",
+    "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bfe2d634-3c5e-4ea3-9b50-db853ac56a3d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_2fa933609cef11174646",
     "stationId": "awb_e85583a0a526761bcec9",
     "name": "CJFO \"Unique FM\"",
@@ -12682,7 +12737,7 @@
       "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_eedb48a18cb4b1c8cbba",
@@ -14994,6 +15049,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T15:32:46Z"
+  },
+  {
+    "id": "aws_f500c15dac88124f5d40",
+    "stationId": "awb_4419644a89038cc0c34d",
+    "name": "CKDM 730 Dauphin, Manitoba",
+    "country": "CA",
+    "url": "https://ckdm.smartstreamingsolutions.ca/ssl/CKDM",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "192a78e4-db30-4276-a3f2-0db2e580fab8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_4245392c41b38b948c30",
@@ -18953,25 +19027,6 @@
     "lastCheckedAt": "2026-10-27T18:20:38Z"
   },
   {
-    "id": "aws_d9f47d1ec632eb52dfa1",
-    "stationId": "awb_3d36d7d2fca349b37fa7",
-    "name": "Dance Wave!",
-    "country": "CA",
-    "url": "https://dancewave.online/dance.flac.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c8d915c-4016-4e0e-b47a-c4296edd1054"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:44:34Z"
-  },
-  {
     "id": "aws_454eedf70da55310d9d4",
     "stationId": "awb_48861667b278f6f64277",
     "name": "DanceRadio.ca Radio ONE",
@@ -20043,7 +20098,7 @@
       "830365d1-530d-4945-8d30-5ced3734a48b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_41e67cbe1195277e1ebc",
@@ -20062,7 +20117,7 @@
       "d916f208-b68c-402b-816e-d765a6823411"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_faf469b7de68476873d8",
@@ -20196,7 +20251,7 @@
       "e1acc817-4627-40dc-a688-7078917df20c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_a83edf8a44f9f5ebe284",
@@ -22278,15 +22333,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3e30cc0e-ffa8-470a-a234-cd1236c0c7a4",
       "CA:maiqly-maher"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:17:14Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d045c344a3c0c6c8ca62",
@@ -23417,7 +23470,7 @@
       "b30754c1-48f7-44a8-be1c-401de492f4a7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_98c7bf177b3146515f2f",
@@ -24865,7 +24918,7 @@
       "263e79f0-f145-4b15-aa95-adfc5bc87051"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_7b74b8d45aa8075fb9e2",
@@ -27319,7 +27372,7 @@
       "850578f4-9466-4c92-8fd6-8dd65efd41da"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_069999b58018b549534f",

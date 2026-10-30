@@ -35,7 +35,7 @@
       "2470939f-bb77-4193-a35b-3d93d4cb7da7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_b863795a5449bcf72ed3",
@@ -393,7 +393,7 @@
       "321cfe8f-5319-4192-a782-3969a64dbeaa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_e95edcc1bfa5b57ff769",
@@ -412,7 +412,7 @@
       "1edb99b0-006b-4655-8d15-281eb1bafdd2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_9df744e4177e12e2e4af",
@@ -1080,6 +1080,25 @@
     "lastCheckedAt": "2026-10-27T07:17:58Z"
   },
   {
+    "id": "aws_f36d65271b9a2f5a28ee",
+    "stationId": "awb_76a14f8707c0d003231c",
+    "name": "Oro Verde",
+    "country": "EC",
+    "url": "https://radiooroverde.com/listen/oroverde/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7b70c207-0c51-4d1e-958f-cb608ec5d4fb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
+  },
+  {
     "id": "aws_0c260c8b9dcbfa43d65f",
     "stationId": "awb_6d68e6d40776aee0b88b",
     "name": "Pa ti Pati cumbia",
@@ -1739,6 +1758,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T17:36:38Z"
+  },
+  {
+    "id": "aws_25537eb2a80b61a97178",
+    "stationId": "awb_cfb9d678c0f653feda09",
+    "name": "Radio Carisma",
+    "country": "EC",
+    "url": "https://aacplus.rstreaminghd.com:7081/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e5c99c37-7e28-4b60-95ef-992444bc4350"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_2f551ac9aadcb19515df",

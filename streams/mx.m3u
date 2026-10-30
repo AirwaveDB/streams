@@ -1071,8 +1071,6 @@ https://mdstrm.com/audio/673784f2f22f160aaf4c8e8c/icecast.audio
 https://factor.b-cdn.net/stream
 #EXTINF:-1 station-id="awb_542645e27a3acab5fd64" stream-id="aws_a88bcf7bd9fe52ec2d50" codec="mp3" bitrate="96",96.1 La 96 (Puebla) - 96.1 FM - XHEZAR-FM - Cadena IN - Puebla, Puebla
 https://stream.zeno.fm/pfyc6yp9d78uv
-#EXTINF:-1 station-id="awb_c30879d868501a34a583" stream-id="aws_e973d6176a2b8458cfe3" codec="mp3" bitrate="128",96.1 Radio UNAM (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
 #EXTINF:-1 station-id="awb_cb9f6ac69fa0fc36336d" stream-id="aws_cc85a99d0fe79b175e8c" codec="mp3" bitrate="128",96.3 Cabo Mil Radio (Los Cabos) - 96.3 FM - XHSJS-FM - San José del Cabo, Baja California
 https://s2.radio.co/s77395f3d5/listen
 #EXTINF:-1 station-id="awb_30778b40ad9eb41b5a7d" stream-id="aws_f44af8ba8e2b770b94a6" codec="mp3" bitrate="128",96.3 Candela (Tizimín) - 96.3 FM - XHUP-FM - Cadena RASA - Tizimín, Yucatán
@@ -1297,7 +1295,7 @@ http://s22.myradiostream.com:9504/
 https://streamingcwsradio30.com/8322/stream
 #EXTINF:-1 station-id="awb_fc009d5695707250f163" stream-id="aws_37f9f97ba3c37cfcb3e6" codec="mp3" bitrate="128",ADN 92.1 FM
 https://streamingcwsradio30.com/8322/stream
-#EXTINF:-1 station-id="awb_3e3f21e5235d7219c008" stream-id="aws_1cad7a7c356c4817d118" codec="" bitrate="0",AJIJO 92.7
+#EXTINF:-1 station-id="awb_3e3f21e5235d7219c008" stream-id="aws_1cad7a7c356c4817d118" codec="mp3" bitrate="160",AJIJO 92.7
 https://stream.zeno.fm/8zdtzypwyozuv
 #EXTINF:-1 station-id="awb_e10a4c7d4e45e8c80164" stream-id="aws_27af9165a2a4045fa0b7" codec="mp3" bitrate="128",Aldo Radio
 https://stream.zeno.fm/2tywf0qdtrutv
@@ -1615,6 +1613,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ROMANTICA_1340
 https://stream.zeno.fm/0w7y1mu0ra0uv
 #EXTINF:-1 station-id="awb_64ea6eae8415bf5f9e64" stream-id="aws_e98933c319dffc784ab7" codec="mp3" bitrate="80",BOLLOCKS Rock & Metal Radio
 https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777
+#EXTINF:-1 station-id="awb_687d3bc087a2ea790d05" stream-id="aws_1481af4daad6740081f8" codec="mp3" bitrate="0",Bonanza Tu Radio y Televisión
+http://n12.radiojar.com/c1ywcfhv08nwv
 #EXTINF:-1 station-id="awb_1352f4a1a15470c3a4e7" stream-id="aws_5b8a70c2c9005cb2206d" codec="mp3" bitrate="64",BONITA 91.1 (Ciudad Mante) - 91.1 FM - XHECM-FM - ORT Radio - Ciudad Mante, Tamaulipas
 https://cast1.my-control-panel.com/proxy/bonita/stream/
 #EXTINF:-1 station-id="awb_3933ac41151c56413a40" stream-id="aws_e90d4f588bae4b627051" codec="mp3" bitrate="128",Bonita FM 95.1
@@ -2045,6 +2045,8 @@ https://radios.radiohd.com.mx/8272/;
 https://streamingcwsradio30.com/8172/stream
 #EXTINF:-1 station-id="awb_1f006aa78572fd983c5a" stream-id="aws_96ce6424622434b1c6d4" codec="aac+" bitrate="32",Energy 88.1 Culiacán
 https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
+#EXTINF:-1 station-id="awb_7fc727f0e151d6646ea8" stream-id="aws_12a6a5831a3efee19d8e" codec="mp3" bitrate="0",Epicentro FM
+https://stream.radiojar.com/8p5dw88cnhpwv
 #EXTINF:-1 station-id="awb_1e8b611f7c0e19d82287" stream-id="aws_b33ecd9240fb96bdbedd" codec="mp3" bitrate="64",Escuchaz
 https://stream3.mexiserver.com:10150/;
 #EXTINF:-1 station-id="awb_3602ff6511d16ba716d2" stream-id="aws_936d2d6ad2a6619ff107" codec="mp3" bitrate="256",ESENCIA RADIO 107.1 (Zitácuaro) - 107.1 FM - XHETA-FM - Grupo Radio Zitácuaro - Zitácuaro, Michoacán
@@ -2885,6 +2887,8 @@ http://streaming.dinesat.com:7026/stream
 http://streaming.dinesat.com:7026/stream
 #EXTINF:-1 station-id="awb_5d627ebe2cde98605b22" stream-id="aws_792b42f2dda461935e04" codec="mp3" bitrate="128",La Inolvidable (Perote) - 101.1 FM - XHPER-FM - RRADIOTL, A.C. - Perote, VE
 https://streaming.servicioswebmx.com/8078/stream
+#EXTINF:-1 station-id="awb_0281d3088d0ceef08c51" stream-id="aws_9ec85ef7317f10194093" codec="mp3" bitrate="128",La Inolvidable MX
+http://icecast.ragtec.com.mx:8000/inolvidable
 #EXTINF:-1 station-id="awb_e86d8f1d24e10961132c" stream-id="aws_89d9b51030c94af98730" codec="mp3" bitrate="128",La interesante 88.5 FM Los Mochis
 https://streaming.soyradioinc.com/lainteresante/stream
 #EXTINF:-1 station-id="awb_867953ee5b85961b73a7" stream-id="aws_6dfa90e84f3e7398f752" codec="mp3" bitrate="128",La Interesante94.5 FM Guasave
@@ -4149,6 +4153,8 @@ https://stream.zeno.fm/3agiabarewutv
 https://stream.zeno.fm/5yaxrwzln6ouv
 #EXTINF:-1 station-id="awb_ce918326e3ff0f5f2c67" stream-id="aws_2be1d54d3b01707e65b5" codec="mp3" bitrate="128",Oreja FM 105.7 Oaxaca
 https://stream.zeno.fm/5yaxrwzln6ouv
+#EXTINF:-1 station-id="awb_889c3203ff9c34de00cb" stream-id="aws_90f0d0476ca29bb232aa" codec="" bitrate="0",Organica Radio
+https://stream11.mexiserver.com/proxy/socialym/stream
 #EXTINF:-1 station-id="awb_104e564ada0bb71a2a4c" stream-id="aws_609973ccf67256539612" codec="mp3" bitrate="0",Ori Solo Hits
 https://anchor.fm/s/e727f168/podcast/play/90164398/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-7%2Fa973fc01-c564-c23a-2182-47a00c052746.mp3
 #EXTINF:-1 station-id="awb_a9d011023d6f7e5a7a1e" stream-id="aws_f5fddded776ef4f68084" codec="mp3" bitrate="128",Ori Stereo - 99.3 FM - XHORA-FM - Grupo Peláez Domínguez - Orizaba, Veracruz
@@ -4226,7 +4232,7 @@ https://streamingcwsradio30.com:7021/stream
 #EXTINF:-1 station-id="awb_8f009d1bede253398ba1" stream-id="aws_8acf74e8c1adab1d2e69" codec="mp3" bitrate="128",PULSAR 107.3 (Tijuana) - 107.3 FM - XHFG-FM - Uniradio - Tijuana, Baja California
 https://streamingcwsradio30.com:7021/stream
 #EXTINF:-1 station-id="awb_148fbed64dc3d4a444a3" stream-id="aws_6b9d33b4cba05905f80d" codec="aac" bitrate="96",QUE VIVA MÉXICO! (MTY) - Online - www.quevivamexico.com - Grupo Digital Retroland - Monterrey, Nuevo León
-https://panel.retrolandigital.com/listen/que_viva_mexico/listen
+https://panel.retrolandigital.com:8160/listen
 #EXTINF:-1 station-id="awb_8016952de51e9359e9ab" stream-id="aws_89ece3627ff4ad187c25" codec="aac+" bitrate="48",RA, LA ESTACIÓN DE JOVEL 760 (San Cristóbal de las Casas) - 760 AM - XERA-AM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - San Cristóbal de las C
 http://streamingcwsradio10.com:9338/stream
 #EXTINF:-1 station-id="awb_4606665d771ab4246de9" stream-id="aws_042458d9f5a41270f6e6" codec="aac" bitrate="64",RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Queréta
@@ -4769,20 +4775,12 @@ https://tv.radiohosting.online:9484/stream
 https://tv.radiohosting.online:9486/stream
 #EXTINF:-1 station-id="awb_3c63097c32d3967ffb7e" stream-id="aws_ee1c6e89b6a2e46725e7" codec="mp3" bitrate="128",Radio UNAM 860 (Ciudad de México) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México
 https://tv.radiohosting.online:9486/stream
-#EXTINF:-1 station-id="awb_2be43272c7a260600f1c" stream-id="aws_14c4cd6b19c96caab449" codec="mp3" bitrate="128",RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
-#EXTINF:-1 station-id="awb_e145b8c0fc112eea11b0" stream-id="aws_efebbc504fab6191416e" codec="mp3" bitrate="128",Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
 #EXTINF:-1 station-id="awb_f06ad335beee7c439a1f" stream-id="aws_f5ca555224bc92e6f789" codec="mp3" bitrate="128",Radio UNAM AM
 https://tv.radiohosting.online:9486/stream
 #EXTINF:-1 station-id="awb_f3ad755a57915a0edfbc" stream-id="aws_3ea3ba9a02050fd72dcc" codec="mp3" bitrate="128",Radio UNAM AM - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México
 https://tv.radiohosting.online:9486/stream
 #EXTINF:-1 station-id="awb_45470fad55ff84f09780" stream-id="aws_a243689860d3f2419253" codec="mp3" bitrate="128",Radio UNAM AM (Ciudad de México) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México
 https://tv.radiohosting.online:9486/stream
-#EXTINF:-1 station-id="awb_63a19ddded2e68ec2f36" stream-id="aws_20f682c9f5f332877c72" codec="mp3" bitrate="128",Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
-#EXTINF:-1 station-id="awb_c850bdc8bb9bf1ce6dde" stream-id="aws_b92b42106c417680c1d2" codec="mp3" bitrate="128",Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
 #EXTINF:-1 station-id="awb_a1c2e44df0714c4a0f38" stream-id="aws_57e5ec5f1a40274baf4f" codec="mp3" bitrate="0",Radio Universidad (Hermosillo) - 107.5 FM - XHUSH-FM - Universidad de Sonora - Hermosillo, SO
 http://148.225.54.10/broadwavehigh.mp3
 #EXTINF:-1 station-id="awb_5f699f457700ffc776a0" stream-id="aws_01249b596b5cb763c146" codec="mp3" bitrate="192",Radio Universidad (UAA) (Aguascalientes) - 94.5 FM - XHUAA-FM - UAA (Universidad Autónoma de Aguascalientes) - Aguascalientes, Aguascalientes
@@ -5049,6 +5047,8 @@ https://streamingcwsradio30.com:7026/stream
 http://216.251.65.74:8000/;
 #EXTINF:-1 station-id="awb_050de4417425ac586e9c" stream-id="aws_f7d6bc50c0cdfc787136" codec="mp3" bitrate="192",STEREO 91 91.3 (Nuevo Laredo) - 91.3 FM - XHNOE-FM - Nuevo Laredo, Tamaulipas
 http://216.251.65.74:8000/stream
+#EXTINF:-1 station-id="awb_d2e9696a9dfdff0d4b15" stream-id="aws_ca3391cb09e7a28dfc6a" codec="mp3" bitrate="128",Stereo 95 95.1 FM
+https://stream9.mexiserver.com/8424/stream
 #EXTINF:-1 station-id="awb_4705434fd84cc8dffe54" stream-id="aws_dae40e434af1f07c3ae9" codec="aac+" bitrate="32",Stereo Cien
 http://29321.live.streamtheworld.com:3690/XHMMFMAAC_SC
 #EXTINF:-1 station-id="awb_6bcc019242aca20d4c85" stream-id="aws_925a3c68f42185574a45" codec="aac+" bitrate="32",Stereo Cien - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México

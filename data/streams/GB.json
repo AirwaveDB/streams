@@ -916,7 +916,7 @@
       "d50796ae-a0e4-493f-b276-6b0a15b0c6dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_6973f82988046a8d9307",
@@ -3406,7 +3406,7 @@
       "be404341-b7b7-44aa-9875-102cf91b0fcc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_64dd7d125c8d6233c4d3",
@@ -4209,7 +4209,7 @@
       "3560176e-8f9a-4659-9279-6b65d15a0009"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T14:41:01Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_6c305f535c755ed9bd01",
@@ -9341,7 +9341,7 @@
       "dc2dada4-a74f-44e5-8a7e-8c80defababd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_6207aba7cf0502c656a5",
@@ -9607,7 +9607,7 @@
       "4aaceb1e-254f-4836-bf97-b6d10b9e8145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_f1b27b328471ac63a6cd",
@@ -11998,25 +11998,6 @@
     "lastCheckedAt": "2026-10-27T14:01:30Z"
   },
   {
-    "id": "aws_e0554354734b820e7a3f",
-    "stationId": "awb_a2f65d4d09148ded1f98",
-    "name": "Dance Wave!",
-    "country": "GB",
-    "url": "https://dancewave.online/dance.flac.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "226eb90b-34ca-460c-8a3b-6f0a1fb95c09"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T12:51:26Z"
-  },
-  {
     "id": "aws_25b2e005ca2d574ad272",
     "stationId": "awb_98046c338d1c4c5f2efc",
     "name": "DanceFMLive Trance",
@@ -12610,7 +12591,7 @@
       "b2fe839e-69fc-4158-88af-3d363f60d423"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_af4e218896e1ddaa2579",
@@ -13111,7 +13092,7 @@
       "e3087b4d-499f-486b-93c4-1acdf1916934"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_ac35c94d9138c76ea8c0",
@@ -21136,6 +21117,25 @@
     "lastCheckedAt": "2026-10-27T23:18:26Z"
   },
   {
+    "id": "aws_245df1061195576b9a8e",
+    "stationId": "awb_77d2159b9e7ed77db422",
+    "name": "KinClub Radio",
+    "country": "GB",
+    "url": "https://kinclubradio.com/kinclub-radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c8cb6b11-3c2c-4419-9767-06ddbbdf55cd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_6880e2374dcb2117346d",
     "stationId": "awb_abf714f9bada3c848939",
     "name": "KINDRED",
@@ -22188,7 +22188,7 @@
       "e936956c-fc26-4566-ae61-dce98c8524c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_f390f6e7f29332a90c13",
@@ -40388,6 +40388,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T00:15:58Z"
+  },
+  {
+    "id": "aws_e2623d280164e2869ce4",
+    "stationId": "awb_e51da6b4c7dab8565646",
+    "name": "We Get Lifted Radio",
+    "country": "GB",
+    "url": "http://s3.radio.co/sa80d22794/listen",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2fc7f8e7-cda4-4568-9c0b-311c9f2eb0f8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_84b0c2331bcde085093e",

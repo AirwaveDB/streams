@@ -615,10 +615,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "055a7fc7-e471-4e40-bc17-92d065aad6f9",
       "2f5b1384-0487-4e47-b500-6d591b7f3ef7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:50:10Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_db9ebc1559b39d85883a",
@@ -753,7 +754,7 @@
       "371e0e63-1870-4e21-a816-d296788973bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_9ee305ddb6f5ddda9626",
@@ -7184,7 +7185,7 @@
       "652c4fcf-ea4a-4a41-b951-09939e3a30f2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_7905eb12d08c2ba4384a",
@@ -8254,7 +8255,7 @@
       "90d3e59a-6626-41e5-bc78-e5937b058903"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_2d0e39d5dedd4d267bed",
@@ -8276,6 +8277,25 @@
     "lastCheckedAt": "2026-10-27T16:37:11Z"
   },
   {
+    "id": "aws_db81b42af4b4c3540e26",
+    "stationId": "awb_c346464c0b9bb1f1c618",
+    "name": "get.radio — 60-е",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/sixties.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "851d79bd-0b2c-4503-a018-1cf2ccf34500"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
     "id": "aws_32af92a985b9742508e5",
     "stationId": "awb_a76218f000bf71986e1f",
     "name": "get.radio — 60-е (Английский)",
@@ -8292,7 +8312,7 @@
       "79883d73-81f5-4604-9839-c2a4411a2c54"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_5114acb6164ace7e5bf7",
@@ -8311,7 +8331,7 @@
       "b5fefc23-4123-4b0c-b9f7-76e7e3d72e11"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_8ee7f09c932ee4221042",
@@ -8330,7 +8350,7 @@
       "e494a6b7-aac5-43b1-9284-7f12fb46517f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_1f7c9f5ebe7beb3bd3af",
@@ -8349,7 +8369,26 @@
       "1547e9b8-1aae-46f2-9610-1d6b283c66d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_03805783bd31ed53ae82",
+    "stationId": "awb_201cbfe062a9c6449a06",
+    "name": "get.radio — 80-е",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/eighties.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "092bc1d8-cccc-4520-8b3f-f3ac2b3c203f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_16aeff27f4fd1f2021d6",
@@ -8368,7 +8407,7 @@
       "29b72a44-dae4-4762-a04b-8363661d41e2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_76b5fcb3f45bd3ffe7ce",
@@ -8387,7 +8426,7 @@
       "e9f1b5d8-6a9c-4fdc-8434-2a1aa50ef15a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_e21e705c8c7a3a8f855c",
@@ -8406,7 +8445,7 @@
       "22d560cd-f1f0-4c83-ab1c-4aeb7626e6f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_ac6af6cbdd241baa2aae",
@@ -8425,7 +8464,26 @@
       "66fe1863-819e-4453-a2f2-0d4d64d4df4c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
+  },
+  {
+    "id": "aws_b4cb4bfdbe04782c9c87",
+    "stationId": "awb_f678e2bb9cd4cd29ada0",
+    "name": "get.radio — Гиперпоп",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hyperpop.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "64cbb299-fadf-4d3c-9bbc-851ae1225744"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_6a32d54fa2839f41729b",
@@ -8444,7 +8502,7 @@
       "4bbfc650-6ae2-438d-acaf-5b144832fe6e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_66c8cc9c77549e836247",
@@ -8463,7 +8521,7 @@
       "baa42584-0ab4-4261-a677-58cb206fcae8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_1bed278eef9372c552ff",
@@ -8482,7 +8540,7 @@
       "fd82c10a-8dde-402b-a14d-cca5de276f48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_16d6290d1a7d49d26543",
@@ -8501,7 +8559,26 @@
       "e6471679-d266-46a6-86c5-ba08bcc6cb28"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_65232585d4651ce21034",
+    "stationId": "awb_7ff425fa2df1645fe545",
+    "name": "get.radio — Джаз",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/jazz.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "079ae7c4-d34d-4ab7-8112-6dc38a788721"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_6aa1fcd56b7b9af629a3",
@@ -8520,7 +8597,7 @@
       "2b804410-becb-41a9-a856-a1c9f55b9714"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_c0b81bfb78cc54bd2994",
@@ -8539,7 +8616,7 @@
       "2d8719f5-f2d1-4786-aae4-9a10945a2580"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_10db720156b4c7084305",
@@ -8558,7 +8635,7 @@
       "969f5ec1-b136-4c3c-a199-aedf932c4123"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_6ef78b068c6162b33cd2",
@@ -8577,7 +8654,26 @@
       "c7668dc2-e960-4c5c-831f-22ff1b254dea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_b497f02c78cb4b3e3604",
+    "stationId": "awb_992d6c76d113b6b9678a",
+    "name": "get.radio — Кино",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/cinema.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "51eac9c8-f008-4a72-b62b-cd34a05795db"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_23e53e971fd3da5a80fa",
@@ -8596,7 +8692,7 @@
       "ce1da0b8-5cce-4a9b-835b-78ff0d6c3bff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_f27159f273e49780703f",
@@ -8615,7 +8711,7 @@
       "e81156c9-206d-4169-b28d-2fc3fe067597"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_ede3b093b9cf898dc046",
@@ -8634,7 +8730,7 @@
       "ddc17aed-8631-4625-8893-781113b032f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_6bbd2383e01aa80ecfb7",
@@ -8653,7 +8749,26 @@
       "67b4aced-f883-439f-9bc1-5be56290994f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_3545e9fc2a5bb4db32fd",
+    "stationId": "awb_9e11274809a9d7bc21de",
+    "name": "get.radio — Классика",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/classical.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d1f63001-c90f-4e82-8ad4-b2e90f517ed6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_8067c026fca896358c6e",
@@ -8672,7 +8787,7 @@
       "1870bb4f-8731-4768-9a03-a79e987db027"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_ff80f62712bd801582c7",
@@ -8691,7 +8806,7 @@
       "ff68d822-ee53-4455-802f-42a53019644b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_2d721e890d5f1ac111d8",
@@ -8710,7 +8825,7 @@
       "44392040-af12-4e65-9f0d-e544ac293d93"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_24cc369de1d2c048114d",
@@ -8729,7 +8844,7 @@
       "d7f3292b-4cc3-4bed-9965-7f077f0d0a93"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_50c918c51423892dbc86",
@@ -8749,6 +8864,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-24T21:43:15Z"
+  },
+  {
+    "id": "aws_0c771291b1972489b32e",
+    "stationId": "awb_3561e5cf095f3dc794a4",
+    "name": "get.radio — Лоу-фай",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/lofi.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5cb686d2-0557-4c8d-94dd-41e4d1e2dc50"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_ef4eac460a162f449aca",
@@ -8786,7 +8920,7 @@
       "bbce68eb-153e-492c-b0ab-c8792eb712a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_aced6749e4299d5b4d2e",
@@ -8805,7 +8939,64 @@
       "704dd806-34c1-4a82-8ca3-d4c2ce85cfcd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_5f671149ed1f0a3b88c7",
+    "stationId": "awb_4a9b4b7f18577a5b2467",
+    "name": "get.radio — Микс всех волн",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/mix.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "32f0603f-2281-40e1-ab04-ca3b31e7a669"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_261b2393d4cd4b439512",
+    "stationId": "awb_6234a39afc4bd2e853df",
+    "name": "get.radio — Новый год",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/newyear.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "332e85bc-1ee3-4f39-bfaa-1c680ec2a99e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_13a583045cf62410e28f",
+    "stationId": "awb_411f2462761f37a581c9",
+    "name": "get.radio — Поп",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/pop.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aea8e994-b75b-40ba-9a81-f7e587dd560d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_6066a00e0d1f9fb9611f",
@@ -8824,7 +9015,7 @@
       "b59b5a70-96d4-4200-a3ef-13d0ae253deb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_2366e009d0513a2e4ca7",
@@ -8843,7 +9034,7 @@
       "533d0078-de37-40df-87e7-d3a6e771bcf3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_6051a60a1d6e60a7fe2f",
@@ -8862,7 +9053,7 @@
       "f2ea6d13-1090-409c-b0cf-68e4abbbb72a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_cffa8698d58d61b4adb4",
@@ -8881,7 +9072,26 @@
       "486bd0f3-633b-4124-8715-083a10a04041"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_45ce71a51a3e7ff8c417",
+    "stationId": "awb_51e19bdf87ac8f32b979",
+    "name": "get.radio — Рок",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rock.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "90083add-4bc6-4be6-b810-622ffa0c3847"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_e4989e3ccddda8f55c78",
@@ -8900,7 +9110,7 @@
       "987d8d3c-c6e6-45df-be61-5b319d961048"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_7576187c1381507dc6e0",
@@ -8919,7 +9129,7 @@
       "52d72c59-1aa2-4305-b202-7944ec810ff4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_afb836f35cb4dc3f2535",
@@ -8938,7 +9148,7 @@
       "12cc00cd-61a1-4416-af5f-bf3c55242f73"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_1832a3d0c66ac7e215ac",
@@ -8957,7 +9167,26 @@
       "34388a75-da1d-4061-b4cb-7e24f392fe22"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_f2532d2a280698182adf",
+    "stationId": "awb_d01427eea1a0ea2cec8e",
+    "name": "get.radio — Рэп",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/rap.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aecf989b-b2cb-4ac9-953a-0da5dd255d43"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_db9f34d35d4ddcc19d97",
@@ -8976,7 +9205,7 @@
       "bf306f67-658d-4e19-bd6b-353007e69d2e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_1c74bcbcf467d442f14b",
@@ -8995,7 +9224,7 @@
       "e794330e-10aa-4bc8-935c-085d141e0a77"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_09f619da0000a02317ed",
@@ -9014,7 +9243,7 @@
       "c218086b-551e-4ceb-9dcc-4d07bab8640b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_da776f862159e5a8d46d",
@@ -9033,7 +9262,26 @@
       "458e015e-9ac9-4c96-8f9f-66ef2266c7dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_874ba7c72d8ed02a9852",
+    "stationId": "awb_d381a93927b48266ef24",
+    "name": "get.radio — Синтвейв",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/synth.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5628aa46-9ad1-4542-a4f3-b7cc7267ab0b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_8430874b5a92afb9df82",
@@ -9052,7 +9300,7 @@
       "06b2f2cb-3357-43b4-b111-87a5d84a8622"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_b9d08d96d5f8589f7d9b",
@@ -9071,7 +9319,7 @@
       "c8176597-bdcf-4078-a916-def4b6fdc5fd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_ef05cb9dff04a2e11a26",
@@ -9090,7 +9338,7 @@
       "1a1ecb9a-f7ed-4aaa-aa1b-bbe67c9e1c76"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_71ea2ea99b073fa59d64",
@@ -9112,6 +9360,25 @@
     "lastCheckedAt": "2026-10-24T21:06:17Z"
   },
   {
+    "id": "aws_3fb4f7c3ecd0b0bc5473",
+    "stationId": "awb_84f803bad54aa659a30f",
+    "name": "get.radio — Хаус",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/house.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "44d657ee-5b0a-4dfd-9ecd-9a23e662e93e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_0e4a1704b64671f49c42",
     "stationId": "awb_c5b83cfe5a0c407b2a9f",
     "name": "get.radio — Хаус (Английский)",
@@ -9128,7 +9395,7 @@
       "f898b90f-a403-4773-8f54-38dff5811395"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_7660587dcb317af905dc",
@@ -9147,7 +9414,7 @@
       "7edaa4ac-b641-443a-9342-1a515c52b236"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_ff75c8940a73d016a69d",
@@ -9166,7 +9433,7 @@
       "978edd91-10ba-4ca4-b5af-691db6d44ea8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_de52c75f72ddfdb13a4e",
@@ -9185,7 +9452,26 @@
       "c643229d-b7ac-45a9-a1b2-3931f4781312"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_78c80fb1770e5bb252fc",
+    "stationId": "awb_1adee8774aec17855332",
+    "name": "get.radio — Хип-хоп",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/hiphop.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a87aeee1-bfdd-41a4-8d50-d9bed9b28a55"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_399c379a921f0bca8bfd",
@@ -9204,7 +9490,7 @@
       "32bb3854-35b5-421a-9f45-1cdaa915f473"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_368dd9a9bdeff32e2d66",
@@ -9223,7 +9509,7 @@
       "c152917c-bab6-4d75-bb65-f1c4f7424d35"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_cdb31f45d82d07ffff79",
@@ -9242,7 +9528,7 @@
       "7e72b2cd-4fe4-4cf3-9f80-898e1ee1cd68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_698fde708bfed6cbf812",
@@ -9261,7 +9547,45 @@
       "7b5f464d-7dc8-4265-91c3-cfef64575536"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_4ee8d2e7aa119575472e",
+    "stationId": "awb_2106d27df0b0920dffc7",
+    "name": "get.radio — Хэллоуин",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/halloween.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "368497e1-691d-494f-9aaf-64df5c3f39af"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
+    "id": "aws_cd5cdd72ad8b4f4e7c7c",
+    "stationId": "awb_21b658384fd607d59f28",
+    "name": "get.radio — Чилл",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chill.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a34720bd-7816-4a94-a27f-0e2ed6ed99c6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_44e80b492d2287485b7a",
@@ -9280,7 +9604,7 @@
       "2f16c1fe-4f4a-4978-b4bd-dd5f8c40395f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_3e02e243d575389302fd",
@@ -9299,7 +9623,7 @@
       "0c06abd2-3c1e-43fe-8c60-a05fa3794e1d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_aca5f9ca2e461b5b445d",
@@ -9337,7 +9661,26 @@
       "36f8d9fb-9005-4266-ba6a-ac123eac5841"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
+  },
+  {
+    "id": "aws_8550ed7c151b63d9a175",
+    "stationId": "awb_0fd500ae99d27ec91f86",
+    "name": "get.radio — Шансон",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/chanson.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0ba1cc57-2ca2-4b5b-b7c8-b02b01abbf5b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_feae4639763f52cc99ef",
@@ -9356,7 +9699,7 @@
       "4d39ac16-0be9-4809-9ad4-23552bc4b838"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_4af95689b721943283fc",
@@ -9375,7 +9718,7 @@
       "f790519d-f471-4fbe-b769-9067ced6a8e7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_709a2010eb98d88badec",
@@ -9394,7 +9737,7 @@
       "17a108a2-07a7-4b63-b87a-e4daa014307a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_c397b3161709da514c4b",
@@ -9413,7 +9756,26 @@
       "97b2f758-b5bc-45b7-8e0d-d0bdb54e86fe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
+  },
+  {
+    "id": "aws_c28e9cbd94bfd98630d1",
+    "stationId": "awb_ed1d6693e731c3bef907",
+    "name": "get.radio — Эмбиент",
+    "country": "RU",
+    "url": "https://get-radio.sipout.ai/stream/ambient.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6713440c-3a6b-40a8-bb03-b5b09df764d4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_16debcd86431a4aaecc2",
@@ -9451,7 +9813,7 @@
       "47e0e6a5-0099-444b-b1e8-c866a7c0751d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_2ee9a257ed4918c17da6",
@@ -9470,7 +9832,7 @@
       "09568dbf-bfb5-4d8c-8ae2-4addcf3066ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_fd12a5af368b44402f6d",
@@ -9489,7 +9851,7 @@
       "f8adccdc-0d90-4875-b9ca-97e7285df446"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:06:17Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_f132212e5270525208ce",
@@ -30140,26 +30502,6 @@
     "lastCheckedAt": "2026-10-26T22:05:04Z"
   },
   {
-    "id": "aws_cafbc6ec03e02b876dce",
-    "stationId": "awb_633fef822f5bfa13bcbe",
-    "name": "russ",
-    "country": "RU",
-    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9cac7a95-c7f2-499c-88bd-5edc58718138",
-      "ac7791e2-db8a-47b4-a433-6051896df4f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:17:24Z"
-  },
-  {
     "id": "aws_a40ae83a64d4e787b82d",
     "stationId": "awb_ea310a941646518edb0a",
     "name": "Russian Drive",
@@ -30272,25 +30614,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T02:44:18Z"
-  },
-  {
-    "id": "aws_d2c2fe8d6d2e6c0a643c",
-    "stationId": "awb_44a929a214c473446938",
-    "name": "Russian Radio Moscow",
-    "country": "RU",
-    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "53ec7b8d-679a-47a8-841e-13f38f94316d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T18:56:50Z"
   },
   {
     "id": "aws_e104278c1577cd84f282",
@@ -30518,7 +30841,7 @@
       "f391ef87-3f61-41ea-8782-a1bad5684021"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_5974e47802aecbcdbd1a",
@@ -30556,7 +30879,7 @@
       "3e9038af-c3b2-457e-8115-f666a7dff5bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T03:39:45Z"
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_ef1f08aceca024c54a24",
@@ -31685,7 +32008,7 @@
       "bc590c2e-e268-43c1-a3a3-a12c7e315e05"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_b4a25c55063fb79a0c07",
@@ -32451,7 +32774,7 @@
       "b21a4200-eec2-4820-92d9-e683e4b87316"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_3e31b2f60ee370e4a453",
@@ -40070,7 +40393,7 @@
       "cb8811c1-845e-4526-ba24-21d8755cf9cb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_b4b70a10a0ab0643b48e",
@@ -41201,7 +41524,7 @@
       "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-30T00:49:08Z"
   },
   {
     "id": "aws_849bca7100e1f6859a52",
@@ -48820,7 +49143,7 @@
       "f3401937-86b6-418c-bb03-8b2dda07068c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T21:43:15Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_765526f574b5218dc929",
@@ -50436,7 +50759,7 @@
   },
   {
     "id": "aws_777baf75688764ff2937",
-    "stationId": "awb_5b76e3b292eb57b7930f",
+    "stationId": "awb_37f285b28fb0471cffed",
     "name": "Русское Радио",
     "country": "RU",
     "url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8",
@@ -50455,7 +50778,7 @@
   },
   {
     "id": "aws_0874020abc33509d4f6b",
-    "stationId": "awb_5b76e3b292eb57b7930f",
+    "stationId": "awb_37f285b28fb0471cffed",
     "name": "Русское радио",
     "country": "RU",
     "url": "https://radio.promedia.ru/rr-simf",
@@ -50494,7 +50817,7 @@
   {
     "id": "aws_7e3da34929076c80c869",
     "stationId": "awb_37f285b28fb0471cffed",
-    "name": "РУССКОЕ РАДИО",
+    "name": "Русское Радио",
     "country": "RU",
     "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
     "codec": "aac",
@@ -50511,44 +50834,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T19:36:37Z"
-  },
-  {
-    "id": "aws_612115f5ef8c3b14ae99",
-    "stationId": "awb_5b76e3b292eb57b7930f",
-    "name": "Русское Радио",
-    "country": "RU",
-    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ef899f0-043e-49b1-9252-24b13e37a89e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T19:43:42Z"
-  },
-  {
-    "id": "aws_bdf499d9ec7463ace176",
-    "stationId": "awb_f88c2e55ea06e5d80c6a",
-    "name": "Русское Радио Moscow",
-    "country": "RU",
-    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e2884ee-03af-4a17-b679-fbc87fcecdd7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:17:24Z"
   },
   {
     "id": "aws_77b08411eb24bec1a659",
@@ -51025,7 +51310,7 @@
       "cba5d613-d431-4272-baf1-48247474b0f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
   },
   {
     "id": "aws_8f6375a4c2c4550ba93f",
@@ -52956,11 +53241,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1d6989e9-0807-4734-b110-67145817aa89",
-      "453a5ce5-e4b2-4256-8e7a-5204112fbdd1"
+      "5686a410-8b93-44a8-815d-3ed292f2e8bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T23:28:49Z"
+    "lastCheckedAt": "2026-10-27T03:12:43Z"
   },
   {
     "id": "aws_6f3edc2537d3b996d6de",

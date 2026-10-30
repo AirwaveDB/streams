@@ -21,44 +21,6 @@
     "lastCheckedAt": "2026-10-26T23:15:37Z"
   },
   {
-    "id": "aws_857fa1e6108918579a13",
-    "stationId": "awb_2898cc19747eb74c44eb",
-    "name": ".Quran",
-    "country": "BH",
-    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "45b6430d-53ae-41ed-857c-1bfe020f494c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T02:28:30Z"
-  },
-  {
-    "id": "aws_d2c834d3b5a560c8820f",
-    "stationId": "awb_d8d08793d30ff46dd7f8",
-    "name": ".إذاعة ماهر المعيقلي",
-    "country": "BH",
-    "url": "https://backup.qurango.net/radio/maher",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a424f70-7d7f-43a1-807f-9642b1e66792"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T21:11:27Z"
-  },
-  {
     "id": "aws_1e03c54f612c8517cfc3",
     "stationId": "awb_1ac1996b8731fa705509",
     "name": ".القرآن",
@@ -69,15 +31,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3c8f72ed-5e58-4b9e-bf78-28a2bf4ae4b3",
       "BH:qurango-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:05:04Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5cd03e663645a37a6ea9",
@@ -342,14 +302,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4eb8cc87-f04a-41e0-9498-c88afc2309f3",
       "BH:qurango"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T01:05:27Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

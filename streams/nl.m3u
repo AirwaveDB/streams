@@ -135,6 +135,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC
 http://media155.streampartner.nl:8068/live
 #EXTINF:-1 station-id="awb_acc631bb2ce03e8142ce" stream-id="aws_0a5a85767ade80acb811" codec="mp3" bitrate="192",AmorFM
 https://amorfm_192.streampartner.nl/stream
+#EXTINF:-1 station-id="awb_40b3d18b1db5f8de3f0e" stream-id="aws_3a04f21d7f60dcc0ffad" codec="mp3" bitrate="192",Ampere Radio
+https://stream.amghosting.com/listen/ampere_radio/ampere.mp3
 #EXTINF:-1 station-id="awb_189e32f9b2261c9bfb0c" stream-id="aws_2f21a15fdacbf55d5593" codec="aac+" bitrate="256",Amsterdam Funk Channel
 https://live.afc.fm/
 #EXTINF:-1 station-id="awb_1b8e693a6fcf02f7285a" stream-id="aws_025f10a724d1b03498df" codec="aac+" bitrate="256",Amsterdam Funk Channel (AFC)
@@ -855,6 +857,8 @@ https://mediaserv68.live-streams.nl:18012/OnlyLive
 http://mediaserv68.live-streams.nl:8012/RadioActive
 #EXTINF:-1 station-id="awb_0e27d40c71680b0fe1c3" stream-id="aws_146213a68e1c7ffe62f1" codec="mp3" bitrate="320",ISKC Rock Radio
 http://mediaserv68.live-streams.nl:8012/RockRadio
+#EXTINF:-1 station-id="awb_0e27d40c71680b0fe1c3" stream-id="aws_0475f4f13ef5a0beb00e" codec="mp3" bitrate="320",ISKC Rock Radio
+http://mediaserv68.live-streams.nl:8012/RockRadio2
 #EXTINF:-1 station-id="awb_3cf133bfe3d1eb88b95e" stream-id="aws_0f513287b68811796720" codec="mp3" bitrate="320",ISKC Rock Radio RPO (Recent Prog Only)
 http://mediaserv68.live-streams.nl:8012/RockRadio2
 #EXTINF:-1 station-id="awb_3cf133bfe3d1eb88b95e" stream-id="aws_85c93249b98f22c9633a" codec="mp3" bitrate="320",ISKC Rock Radio RPO (Recent Prog Only)
@@ -1117,8 +1121,6 @@ http://stream.twentestad.eu/twentestad.mp3
 https://stream.twentestad.eu/twentestad.mp3
 #EXTINF:-1 station-id="awb_f759046550e5250037d8" stream-id="aws_71445d3259a3a52c1d3b" codec="mp3" bitrate="320",Midland FM
 http://qxjr001.digiplay.nl:9188/;
-#EXTINF:-1 station-id="awb_ff22d26d245deed55c6b" stream-id="aws_54d6d40e14f5e381dc91" codec="" bitrate="0",mijncooleradiostation
-http://192.168.0.6:8000/stream
 #EXTINF:-1 station-id="awb_f136dce0473354fe4a2d" stream-id="aws_9978c05a051055df17e6" codec="mp3" bitrate="160",Mijnstreek Vandaag
 http://audiostream.easy-point.nl:8000/stream
 #EXTINF:-1 station-id="awb_5d63b9373a87663b6d19" stream-id="aws_bcbc9acda2903b0a1491" codec="mp3" bitrate="192",MixPerfect
@@ -1827,6 +1829,8 @@ https://stream.radiohollandonline.com/
 https://everestcast.live-streams.nl:18010/stream
 #EXTINF:-1 station-id="awb_9b9ed2e4212919c555e5" stream-id="aws_bbec72c2b7c55aea3d44" codec="mp3" bitrate="320",Radio Hulchul
 https://everestcast.live-streams.nl:18015/stream
+#EXTINF:-1 station-id="awb_220c3349922bc21c8705" stream-id="aws_a9a1261faef4ee0b3a39" codec="mp3" bitrate="192",Radio JND
+https://stream.radiojnd.nl/radiojnd.mp3
 #EXTINF:-1 station-id="awb_059ba656df0fdc367838" stream-id="aws_d313c873802412a0987c" codec="mp3" bitrate="128",Radio Joe
 https://stream.joe.nl/joe/mp3
 #EXTINF:-1 station-id="awb_69f30d3a7c83133216b2" stream-id="aws_480475975448590bab02" codec="aac" bitrate="128",Radio Joyride
@@ -2097,6 +2101,8 @@ http://audiostreamen.nl:8030/stream
 https://radio.regio8.nl/regio8
 #EXTINF:-1 station-id="awb_d10b50b4524f6fc64628" stream-id="aws_d4d6a6f1c8c30b2380f0" codec="mp3" bitrate="192",Relax FM Online
 https://caster04.streampakket.com/proxy/8009/stream
+#EXTINF:-1 station-id="awb_953ac10696d8c9e6789d" stream-id="aws_d32a45d3bf0f121dcef2" codec="mp3" bitrate="256",Relentless Grace Radio
+https://azuraserv3.live-streams.nl/listen/relentless_grace_radio/radio.mp3
 #EXTINF:-1 station-id="awb_4c6ca2ba74c35c0c628e" stream-id="aws_2c738535efa9d53c227f" codec="mp3" bitrate="128",REPLAY NEWS - Nederlands
 https://replaynewsnl.ice.infomaniak.ch/replaynewsnl-128.mp3
 #EXTINF:-1 station-id="awb_4c7afa176b44c6e8f240" stream-id="aws_fd90a8bccaad3d6d538c" codec="mp3" bitrate="192",Revival FM
@@ -2191,6 +2197,8 @@ https://webstream.rtvlove.nl/live
 https://player.streamforce.nl:8502/stream
 #EXTINF:-1 station-id="awb_aaddddb7561bb6b468dc" stream-id="aws_e8f5564f112d82c3a638" codec="mp3" bitrate="320",RTW FM
 https://loa.beheerstream.nl:8104/stream
+#EXTINF:-1 station-id="awb_726d26505183eea34f31" stream-id="aws_60a528af9185be2af66d" codec="mp3" bitrate="128",Rust Radio
+http://rustradio.org:8000/
 #EXTINF:-1 station-id="awb_e2af9dc3897a1f739636" stream-id="aws_f6bd64a0431e712f320b" codec="mp3" bitrate="320",Salland1
 https://stream.and-stuff.nl:8443/live-airplay_320
 #EXTINF:-1 station-id="awb_59c6b94230dfc3281222" stream-id="aws_b438d37a0dd85ebaf248" codec="mp3" bitrate="320",Salland1 Radio
@@ -2469,6 +2477,8 @@ https://stream-10.pmteurope.com:8040/stream
 https://mscp3.live-streams.nl:8082/live
 #EXTINF:-1 station-id="awb_e659ec3dbf6332c42e60" stream-id="aws_42b26ce632368d5afd87" codec="mp3" bitrate="320",Veraradio
 https://mscp3.live-streams.nl:8082/live
+#EXTINF:-1 station-id="awb_a8249b675dd96f610bde" stream-id="aws_ce63099dfcf21c240a46" codec="" bitrate="0",Veronica Beste 80's
+https://stream.radioveronica.nl/dab01
 #EXTINF:-1 station-id="awb_eddd98eaaf6159d4aaaf" stream-id="aws_0a4d7d1a1e29226f5d21" codec="aac+" bitrate="96",Veronica Goud van oud
 https://21633.live.streamtheworld.com/DAB01_AAC.aac
 #EXTINF:-1 station-id="awb_44a30e211c45eb44aa01" stream-id="aws_da8db1603da21a25410c" codec="aac+" bitrate="96",Veronica Non-stop

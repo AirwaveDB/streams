@@ -4214,6 +4214,25 @@
     "lastCheckedAt": "2026-10-27T05:07:54Z"
   },
   {
+    "id": "aws_e406c1086048c3a32962",
+    "stationId": "awb_274d9a3ffbad7e278463",
+    "name": "Radio MegaMix fm",
+    "country": "PE",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bafeb3c9-a11b-4732-8541-ce65ca746f9f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_a6f8366ba25fce4cd9b1",
     "stationId": "awb_9c6febb5c1168da1b8de",
     "name": "Radio Megamix Lima",
@@ -4629,7 +4648,7 @@
       "ecdf7075-c593-4d42-8947-2d2c3b4bab74"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:15:07Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_7564f82d5333db66f9d5",
@@ -4649,7 +4668,7 @@
       "ff2a3f5f-8d42-4c1e-8238-0f2843d334f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T18:02:00Z"
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_b5d34c56cd92a5d8376b",
@@ -5949,6 +5968,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T03:12:43Z"
+  },
+  {
+    "id": "aws_55345a61e0d955ff6f07",
+    "stationId": "awb_fc4b506a2887daf1bc45",
+    "name": "RPT Radio - Radio Para Todos",
+    "country": "PE",
+    "url": "https://stream.zeno.fm/m2x1vzybpapvv",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4e5ca54f-bb14-4b31-949b-7e38b72afc9b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:53:00Z"
   },
   {
     "id": "aws_e2a0209326077fd89885",

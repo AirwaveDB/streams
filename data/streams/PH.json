@@ -7610,6 +7610,25 @@
     "lastCheckedAt": "2026-10-27T20:15:20Z"
   },
   {
+    "id": "aws_e26d96e832d86f700515",
+    "stationId": "awb_6296e51036862712b0c5",
+    "name": "iFM Cagayan de Oro",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/ifmcdo",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "71ebab9a-ce19-4f2a-822d-473449e3d682"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T16:43:29Z"
+  },
+  {
     "id": "aws_52bffb028dc22d6bab55",
     "stationId": "awb_4d080535873190828d46",
     "name": "iFM Cauayan",
@@ -7646,6 +7665,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-29T03:40:31Z"
+  },
+  {
+    "id": "aws_5370bb8de919322c984e",
+    "stationId": "awb_55f006639a70840b771c",
+    "name": "iFM Dagupan",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/ifmdagupan",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fc9e3de4-3431-42d5-8d98-85f242cf45fd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
+    "id": "aws_c0d083443f77db6f212a",
+    "stationId": "awb_5d45304524c2863a2da2",
+    "name": "iFM Davao",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/ifmdavao",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "85a9e0d4-b84d-449c-9dd7-eeea2463ffcc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_d7cbcfdd7c8a124a1a6f",
@@ -10038,7 +10095,7 @@
       "fc36e225-7d61-4492-b35d-dc87fdf0ed4d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-24T16:24:45Z"
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_f3cb3288b85bae1d38ee",
@@ -13234,6 +13291,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-28T01:53:26Z"
+  },
+  {
+    "id": "aws_df4ce3f2e3783fb4c2b8",
+    "stationId": "awb_6977c852e2d5df42aa95",
+    "name": "RMN DXCC 828 Cagayan De Oro",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/rmncdo",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d780b8a6-bd93-42b9-b878-2dc1dbecba4b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T21:13:38Z"
   },
   {
     "id": "aws_2a59cbc5f7a290f6e977",

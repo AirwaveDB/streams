@@ -703,8 +703,6 @@ https://stream.0nlineradio.com/soft-rock?ref=radiobrowser
 http://1-4-1.stream.laut.fm/1-4-1?t302=2026-10-27_03-07-01&uuid=a91e6316-9346-369d-6cf3-3c217365f593
 #EXTINF:-1 station-id="awb_a6d56d4a8a0edacb64d3" stream-id="aws_7f6a9d78f0e7eb3c9a77" codec="mp3" bitrate="128",1 4 1 Progressive
 http://1-4-1-progressive.stream.laut.fm/1-4-1-progressive
-#EXTINF:-1 station-id="awb_cb590f8362f156ddb776" stream-id="aws_bb9adaa0c69d70dd399a" codec="mp3" bitrate="128",1 Live
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_0c47460d63e11e63d763" stream-id="aws_2d66849c6ba3804e25ac" codec="mp3" bitrate="128",1 oldies
 http://1-oldies.stream.laut.fm/1-oldies
 #EXTINF:-1 station-id="awb_c8ed226358bf0bd6a6a7" stream-id="aws_c1511c40552d7986c857" codec="mp3" bitrate="320",1 reggae joint
@@ -917,14 +915,8 @@ http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 https://f111.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?sid=2Abg1sp80JfaOROjRBRmkK4tVH5&token=9AcpBNT7Kpgn45ttw1703CnKJ160-cLcBF7xHo-4LdM&tvf=AA2CpTTT-BZmMTExLnJuZGZuay5jb20
 #EXTINF:-1 station-id="awb_3bdbee9ac18e866a4d2c" stream-id="aws_f375016b6ab8bc35fc58" codec="mp3" bitrate="128",1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 station-id="awb_d2945a921fca5940716e" stream-id="aws_aa43b756506140742411" codec="mp3" bitrate="128",1live
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_0f9b9d98ffd5e71a774f" stream-id="aws_56555b16cbb23da8d867" codec="aac" bitrate="102",1LIVE
 https://wdr-radio.ard-mcdn.de/wdr/radio/1live/hls/master.m3u8
-#EXTINF:-1 station-id="awb_2df9f0e56c53e84fdef0" stream-id="aws_9a32a5db9d38e4c750fb" codec="mp3" bitrate="128",1LIVE - WDR
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 station-id="awb_e521435bbb2a40a4e257" stream-id="aws_3556baa8d4c5b218567d" codec="mp3" bitrate="128",1LIVE -- (https)
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_4e42719f481d49244671" stream-id="aws_ccaf59a8f4e9738c54e4" codec="mp3" bitrate="128",1LIVE Chillout
 https://wdr-1live-chillout.icecast.wdr.de/wdr/1live/chillout/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_b86c1e97112fdb744dff" stream-id="aws_41dc300a60296204930c" codec="mp3" bitrate="128",1LIVE Dance Hits
@@ -945,8 +937,6 @@ https://wdr-1live-hiphoprnb.icecast.wdr.de/wdr/1live/hiphoprnb/mp3/128/stream.mp
 https://wdr-1live-rockhits.icecast.wdr.de/wdr/1live/rockhits/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_3eac9efa9b5419b1192e" stream-id="aws_60cf1a28ffa83282993f" codec="mp3" bitrate="128",1LIVE Top Hits
 https://wdr-1live-tophits.icecast.wdr.de/wdr/1live/tophits/mp3/128/stream.mp3
-#EXTINF:-1 station-id="awb_f503ff2074011f888b24" stream-id="aws_1e3280f305db617499f9" codec="mp3" bitrate="128",1live.fm
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_ac2744d61a4a71b33ac8" stream-id="aws_25334552100c8906ac2b" codec="mp3" bitrate="128",1st-House
 https://stream.laut.fm/1st-house
 #EXTINF:-1 station-id="awb_aaf20635f5f10764477c" stream-id="aws_226ec3e6d45f25eeca98" codec="mp3" bitrate="128",2 Bclub
@@ -4607,6 +4597,8 @@ http://stream.laut.fm/halbtrocken-radio
 http://stream.laut.fm/hallofmusic
 #EXTINF:-1 station-id="awb_751637558fd3c1814dd9" stream-id="aws_5e1fcd917ac1f3770351" codec="mp3" bitrate="128",Hall of Music 2
 http://stream.laut.fm/hallofmusic2
+#EXTINF:-1 station-id="awb_4e94495e0c3ade827bb4" stream-id="aws_ee1aa66fc83d429fb47c" codec="mp3" bitrate="128",Halloween Hit Radio
+https://stream.laut.fm/halloween-hit-radio
 #EXTINF:-1 station-id="awb_8f3e4143581f5894eea6" stream-id="aws_f860c321df44870b48ff" codec="aac" bitrate="0",Hamburg Zwei
 https://frontend.streamonkey.net/hh2-950?aggregator=linkhamburgzweide
 #EXTINF:-1 station-id="awb_8f3e4143581f5894eea6" stream-id="aws_96acaf4457b6de578711" codec="mp3" bitrate="0",Hamburg zwei
@@ -7162,7 +7154,7 @@ https://stream.laut.fm/progressive-trance-mix
 #EXTINF:-1 station-id="awb_b3b8d6c28e8e2db6106e" stream-id="aws_1a6a408c6f5898fd2981" codec="mp3" bitrate="128",ProgressiveMusic
 http://stream.laut.fm/progressivemusic
 #EXTINF:-1 station-id="awb_4f830d51d8573597b92b" stream-id="aws_05e76cb08ef71a43bc85" codec="mp3" bitrate="128",Progschuppen
-https://progschuppen.stream.laut.fm/progschuppen?uuid=c325c1e0-e7b0-9a87-2ebc-37cb4147c547&t302=2026-10-25_02-41-57
+https://progschuppen.stream.laut.fm/progschuppen?t302=2026-10-30_01-47-31&uuid=3d9d0e1b-c3d3-5019-879a-752abc392d4f
 #EXTINF:-1 station-id="awb_a56ec1ca61667b763a49" stream-id="aws_718eb0736e4ef6f1e8f3" codec="mp3" bitrate="0",PSR Love-Songs
 https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6nr09675%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1793103477
 #EXTINF:-1 station-id="awb_cd86ecac4b820cf52580" stream-id="aws_a0ad5682719ddc1a6c7e" codec="mp3" bitrate="128",psy
@@ -8210,7 +8202,7 @@ http://www.radiofaaz.com/proxy.php/stream
 #EXTINF:-1 station-id="awb_43c462858e73ee75f597" stream-id="aws_dcc80365db28c40e9f08" codec="aac" bitrate="0",Radio Fantasy Augsburg
 https://frontend.streamonkey.net/fantasy-934
 #EXTINF:-1 station-id="awb_1aad25932b5e6f63057a" stream-id="aws_da0e07b77b53693c6c16" codec="mp3" bitrate="128",Radio Fantasy Classix
-https://edge68.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
+https://edge82.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
 #EXTINF:-1 station-id="awb_5a0a18bdcf50a58b6f83" stream-id="aws_47ffb6c32e4d93a68e65" codec="ogg" bitrate="0",Radio Feierwerk 92,4 MHz
 http://live.feierwerk.de:8000/live.ogg
 #EXTINF:-1 station-id="awb_acaa766db7c44ffe081f" stream-id="aws_fe6cec315e5d5bb41fe6" codec="aac+" bitrate="48",Radio FFN
@@ -11587,8 +11579,6 @@ http://stream.laut.fm/wattwerker
 http://stream.laut.fm/wavebreaker
 #EXTINF:-1 station-id="awb_02fc5b9143cbf450127d" stream-id="aws_266fd516f997b82f3cf0" codec="mp3" bitrate="128",WaveGotik
 https://stream.laut.fm/wavegotik
-#EXTINF:-1 station-id="awb_0226aa0961a126e9d33d" stream-id="aws_561494b96674b3d76b9b" codec="mp3" bitrate="128",WDR – 1LIVE | mp3 -128 kBit/s
-https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_cf0c8f85150306e056d6" stream-id="aws_8e67d9195271cbddfca0" codec="mp3" bitrate="128",WDR 1Live - DJ Session
 http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
 #EXTINF:-1 station-id="awb_aeadb047938f85d7e6d3" stream-id="aws_a24b4fe22c9a490548ac" codec="mp3" bitrate="128",WDR 1Live - HipHop

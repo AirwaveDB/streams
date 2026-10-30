@@ -2918,6 +2918,25 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
+    "id": "aws_4c9ba984d13599b6e10f",
+    "stationId": "awb_fea5de5718015a3265ad",
+    "name": "Rádio Botaréu",
+    "country": "PT",
+    "url": "https://sp0.redeaudio.com:8272/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0650d1ad-57c5-4820-8a63-8afd56c26b87"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
+  },
+  {
     "id": "aws_fabedea03897ba780ee8",
     "stationId": "awb_17b3bf047c2f068b2ae6",
     "name": "Rádio Calheta",
@@ -6618,6 +6637,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T16:14:34Z"
+  },
+  {
+    "id": "aws_aaf4a7e4f6596548cf52",
+    "stationId": "awb_1534b43c6a05aff643dd",
+    "name": "RIO – Rádio Internacional Odemira",
+    "country": "PT",
+    "url": "https://hts02.brascast.com:10476/stream",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3b194913-f22d-4751-a24b-d8bfbf739743"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-29T19:56:31Z"
   },
   {
     "id": "aws_b6dda0ef3b7112b09fc6",
