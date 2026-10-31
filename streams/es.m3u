@@ -137,6 +137,8 @@ https://sonic.sistemahost.es:7002/;
 https://quincy.torontocast.com:2260/;
 #EXTINF:-1 station-id="awb_83492b19929ade21dc67" stream-id="aws_c11ed153bf730060ee75" codec="mp3" bitrate="96",ARCO FM
 https://hisparadio.duckdns.org/stream/1/stream.mp3
+#EXTINF:-1 station-id="awb_0238a1da37cbcdce0fbf" stream-id="aws_a720796ba0659bae5946" codec="mp3" bitrate="96",ArcoFM
+https://hisparadio.duckdns.org/stream/1/stream.mp3
 #EXTINF:-1 station-id="awb_336e446d92a58169ec28" stream-id="aws_4f019459f1d5bb5b4b77" codec="mp3" bitrate="128",Armonia Duero
 http://s5.myradiostream.com:42840/stream
 #EXTINF:-1 station-id="awb_2676c8cec8f79ce31b36" stream-id="aws_e59baccf407b8415de17" codec="mp3" bitrate="128",Armonía Duero 107.7 FM
@@ -2317,7 +2319,7 @@ http://live.radiovoz.es/mp3/stream_orense.mp3
 http://live.radiovoz.es/mp3/stream_vigo.mp3
 #EXTINF:-1 station-id="awb_e5a3295cfeb1ea1c4267" stream-id="aws_38e6fb00a2524d944b21" codec="mp3" bitrate="96",RAP 107
 http://relay.stream.enacast-cloud.com:30048/rap56.mp3
-#EXTINF:-1 station-id="awb_4a2a5ccdcc2c0e35d535" stream-id="aws_3cb07c5f65682d4f903d" codec="mp3" bitrate="0",Remember 90s By RamperDjs
+#EXTINF:-1 station-id="awb_4a2a5ccdcc2c0e35d535" stream-id="aws_3cb07c5f65682d4f903d" codec="mp3" bitrate="192",Remember 90s By RamperDjs
 https://radio.ramperdjs.com/stream
 #EXTINF:-1 station-id="awb_6eed06b5ea0546943787" stream-id="aws_086116cf07a2605e2333" codec="mp3" bitrate="192",Remember Radio
 https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB

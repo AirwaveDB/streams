@@ -1095,7 +1095,7 @@ https://harvestersciog.radioca.st/CIOG
 http://mbsradio.leanstream.co/CIOKFM-MP3
 #EXTINF:-1 station-id="awb_6b5a58b502cb67e6b59f" stream-id="aws_2323e59a29b01b06709d" codec="mp3" bitrate="128",CION-FM Radio Galilee
 https://cast1.asurahosting.com/proxy/fondatio/stream2
-#EXTINF:-1 station-id="awb_30346c393b734624bd58" stream-id="aws_254c3092f33af4ac9866" codec="" bitrate="0",CIPU 'Shubie FM' Sipekne'katik/Shubencadie, Nova Scotia
+#EXTINF:-1 station-id="awb_30346c393b734624bd58" stream-id="aws_254c3092f33af4ac9866" codec="mp3" bitrate="128",CIPU 'Shubie FM' Sipekne'katik/Shubencadie, Nova Scotia
 https://listen.radioking.com/radio/626449/stream/688756
 #EXTINF:-1 station-id="awb_b010ee060915bfb9414d" stream-id="aws_ba88d5a87d98dbf40190" codec="mp3" bitrate="128",CIQB 'Big 101.1' Barrie, ON
 http://live.leanstream.co/CIQBFM-MP3
@@ -1115,8 +1115,6 @@ https://ice5.securenetsystems.net/CIRV
 http://ec4.yesstreaming.net:1990/stream
 #EXTINF:-1 station-id="awb_609b3948a42ad1fcf696" stream-id="aws_6241acc2291426dfcf36" codec="aac+" bitrate="57",CIRX-FM 94.3 'The Goat' Prince George, BC
 https://vistaradio.streamb.live/SB00066
-#EXTINF:-1 station-id="awb_8c0dcf2916c955991d51" stream-id="aws_83c13e7b32b96b730076" codec="" bitrate="0",CISB 106.3 Sandy Bay, Manitoba
-https://cast5.my-control-panel.com/proxy/michell2/live
 #EXTINF:-1 station-id="awb_2a8d122498653c7bad9e" stream-id="aws_0b0cb06c40525db3545f" codec="aac" bitrate="96",CISF 107.7 'Pulse FM' Surrey, BC
 http://cisffm.streamon.fm/stream/CISFFM-48k.aac
 #EXTINF:-1 station-id="awb_05a0fad381a20e2e0744" stream-id="aws_5f4fb81fd2d91d65f508" codec="aac" bitrate="46",CISL 'Sportsnet 650' Richmond, BC
@@ -1271,7 +1269,7 @@ https://stream2.statsradio.com:8096/stream
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ba40017b804492ae3fe0" stream-id="aws_20fe45670f08363326bd" codec="unknown" bitrate="0",CJET-FM Country 92.3
 https://rogers-hls.leanstream.co/rogers/ott923.stream/48k/playlist.m3u8
-#EXTINF:-1 station-id="awb_8e978077913365897cb5" stream-id="aws_4e6055512cd1be0b3d02" codec="" bitrate="0",CJFN 102.7 'Country Rock Radio' Peguis, Manitoba
+#EXTINF:-1 station-id="awb_8e978077913365897cb5" stream-id="aws_4e6055512cd1be0b3d02" codec="mp3" bitrate="128",CJFN 102.7 'Country Rock Radio' Peguis, Manitoba
 https://cast4.my-control-panel.com/proxy/peguis1/stream
 #EXTINF:-1 station-id="awb_e85583a0a526761bcec9" stream-id="aws_2fa933609cef11174646" codec="mp3" bitrate="192",CJFO 'Unique FM'
 http://stream2.statsradio.com:8038/stream
@@ -1565,7 +1563,7 @@ https://live.leanstream.co/CKDJFM
 https://live.leanstream.co/CKDJFM-MP3
 #EXTINF:-1 station-id="awb_a2cd9b3448445b4b94d2" stream-id="aws_44cf47cbec57932666a4" codec="mp3" bitrate="128",CKDK 103.9 'Country 104' Woodstock, ON
 http://live.leanstream.co/CKDKFM-MP3
-#EXTINF:-1 station-id="awb_4419644a89038cc0c34d" stream-id="aws_f500c15dac88124f5d40" codec="" bitrate="0",CKDM 730 Dauphin, Manitoba
+#EXTINF:-1 station-id="awb_4419644a89038cc0c34d" stream-id="aws_f500c15dac88124f5d40" codec="mp3" bitrate="48",CKDM 730 Dauphin, Manitoba
 https://ckdm.smartstreamingsolutions.ca/ssl/CKDM
 #EXTINF:-1 station-id="awb_1a5a62bf184502c649ae" stream-id="aws_4245392c41b38b948c30" codec="aac+" bitrate="128",CKDO 1580 & 107.7 Oshawa, ON
 http://26733.live.streamtheworld.com:3690/CKDOFMAAC_SC
@@ -2963,6 +2961,8 @@ https://stream.zeno.fm/qgaxw53e4zhvv
 https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303
 #EXTINF:-1 station-id="awb_18107de328a02495d350" stream-id="aws_c4440ac937ba500f8d13" codec="mp3" bitrate="128",Мегаполис Торонто
 https://c25.radioboss.fm:8297/stream
+#EXTINF:-1 station-id="awb_e9777fb9cbbbda9e3284" stream-id="aws_bdb692dd51b84fbb8411" codec="mp3" bitrate="0",Пончо FM
+https://ponchofm.com/poncho
 #EXTINF:-1 station-id="awb_b39712d1e9d60ec16efb" stream-id="aws_14a15903a04068f0bf24" codec="mp3" bitrate="0",إذاعة القرآن الكريم
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 station-id="awb_bcba6d5908045684f73b" stream-id="aws_6528a122dfeb7dfa59ff" codec="aac" bitrate="48",加拿大中文电台FM.96.1

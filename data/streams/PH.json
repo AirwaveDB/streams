@@ -172,7 +172,7 @@
       "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_3c7e940cc23bca4019ab",
@@ -4726,6 +4726,25 @@
     "lastCheckedAt": "2026-10-27T16:09:18Z"
   },
   {
+    "id": "aws_b7893a8b76a185c2c7f6",
+    "stationId": "awb_ec317a88293de7c8f304",
+    "name": "Channel [V] Radio 101.9 DWDB-FM",
+    "country": "PH",
+    "url": "https://listen.radioking.com/radio/453221/stream/508076",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f6760204-12c7-4e80-b5e1-644725611486"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-31T04:36:48Z"
+  },
+  {
     "id": "aws_6c769c2e44aaa79f4710",
     "stationId": "awb_225191af17855cf7df52",
     "name": "Christmas Radio Philippines",
@@ -7083,7 +7102,7 @@
       "dd41710f-3627-47c4-84fb-d857869420c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T18:02:00Z"
+    "lastCheckedAt": "2026-10-30T19:19:51Z"
   },
   {
     "id": "aws_abd767b125eb03451ba3",
@@ -7102,7 +7121,7 @@
       "8c3edeb3-33a3-4fef-b070-aa185a0f4152"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T18:02:00Z"
+    "lastCheckedAt": "2026-10-30T19:19:52Z"
   },
   {
     "id": "aws_1baf23d09d94e8f7fd66",
@@ -7691,8 +7710,8 @@
     "name": "iFM Davao",
     "country": "PH",
     "url": "http://livestream.rmn.ph:8000/ifmdavao",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 96,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -7702,7 +7721,7 @@
       "85a9e0d4-b84d-449c-9dd7-eeea2463ffcc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_d7cbcfdd7c8a124a1a6f",

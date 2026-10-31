@@ -197,9 +197,9 @@ https://radio12.shoutcast.net.au:8000/stream
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac
 #EXTINF:-1 station-id="awb_27e606424c775ec8c32d" stream-id="aws_597a47ccbe891691c02c" codec="mp3" bitrate="128",2ST - Nowra - 91.7 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2ST.mp3
-#EXTINF:-1 station-id="awb_13afc8694b641e4993ad" stream-id="aws_75b74b327ce5318f2049" codec="aac+" bitrate="64",2ST - Southern Highlands - 102.9 FM (AAC)
-http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac
 #EXTINF:-1 station-id="awb_3dd8e681af85d65e3d21" stream-id="aws_ed248d8ab99b81ba0f5a" codec="aac+" bitrate="64",2ST - Southern Highlands - 102.9 FM (AAC)
+http://19273.live.streamtheworld.com/BOW_2STAAC.aac
+#EXTINF:-1 station-id="awb_13afc8694b641e4993ad" stream-id="aws_75b74b327ce5318f2049" codec="aac+" bitrate="64",2ST - Southern Highlands - 102.9 FM (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac
 #EXTINF:-1 station-id="awb_5399b6c6b550e20c0012" stream-id="aws_03631206a2196f390910" codec="mp3" bitrate="128",2ST - Southern Highlands - 102.9 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3
@@ -1825,7 +1825,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA.mp3
 http://stream.zeno.fm/fn0vb5ss008uv
 #EXTINF:-1 station-id="awb_aa320c6c6946df2cba9a" stream-id="aws_113da6b2cc0d249e641e" codec="mp3" bitrate="128",Fleurieu FM Victor Harbour
 https://stream04.sigile.net/fleurieufm-128-mp3
-#EXTINF:-1 station-id="awb_aff3df33689112a2e8b0" stream-id="aws_3c6abc2e32f32bf3dbc5" codec="" bitrate="0",flipfloppy's web cafe
+#EXTINF:-1 station-id="awb_aff3df33689112a2e8b0" stream-id="aws_3c6abc2e32f32bf3dbc5" codec="mp3" bitrate="192",flipfloppy's web cafe
 https://flipfloppy.net/radio
 #EXTINF:-1 station-id="awb_118e201c01e9ceec25c6" stream-id="aws_3b6d8757739f5475ff52" codec="mp3" bitrate="128",Flow FM Australia (MP3)
 http://uksoutha.streaming.broadcast.radio/flow-fm
@@ -2139,7 +2139,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
 #EXTINF:-1 station-id="awb_9282ef00af418c92da3e" stream-id="aws_8b0641dfa3f5dc7840ba" codec="mp3" bitrate="128",La Playa Radio - Sydney (MP3)
 http://stream.zeno.fm/tb7u3ey20ehvv
-#EXTINF:-1 station-id="awb_4e4c9283d6ea9a660e7d" stream-id="aws_550c499ba386a46ded5e" codec="" bitrate="0",labrat.party radio
+#EXTINF:-1 station-id="awb_4e4c9283d6ea9a660e7d" stream-id="aws_550c499ba386a46ded5e" codec="mp3" bitrate="192",labrat.party radio
 https://labrat.party/radio
 #EXTINF:-1 station-id="awb_1258073ccf4c985428b4" stream-id="aws_3c204fdc4fe847953b86" codec="aac+" bitrate="64",LAFM - Launceston - 89.3 FM (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFMAAC.aac

@@ -1916,6 +1916,25 @@
     "lastCheckedAt": "2026-10-27T20:25:06Z"
   },
   {
+    "id": "aws_ed248d8ab99b81ba0f5a",
+    "stationId": "awb_3dd8e681af85d65e3d21",
+    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+    "country": "AU",
+    "url": "http://19273.live.streamtheworld.com/BOW_2STAAC.aac",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dc6b1a66-997e-4e0d-9502-8641f052d044"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-10-30T19:19:48Z"
+  },
+  {
     "id": "aws_75b74b327ce5318f2049",
     "stationId": "awb_13afc8694b641e4993ad",
     "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
@@ -1933,25 +1952,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-27T02:12:33Z"
-  },
-  {
-    "id": "aws_ed248d8ab99b81ba0f5a",
-    "stationId": "awb_3dd8e681af85d65e3d21",
-    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc6b1a66-997e-4e0d-9502-8641f052d044"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T18:02:00Z"
   },
   {
     "id": "aws_03631206a2196f390910",
@@ -5470,7 +5470,7 @@
       "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-31T04:36:48Z"
   },
   {
     "id": "aws_5bba1a2d48e5c836a247",
@@ -15732,7 +15732,7 @@
       "3de0ed72-b752-41df-99f9-26c5d95befe1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T00:27:24Z"
+    "lastCheckedAt": "2026-10-31T04:36:48Z"
   },
   {
     "id": "aws_265c4046fccf20060509",
@@ -16994,7 +16994,7 @@
       "2ba2b5c2-90e7-40f5-99c9-250639e4be80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T15:31:59Z"
+    "lastCheckedAt": "2026-10-30T19:19:51Z"
   },
   {
     "id": "aws_690135e4f704f0e09f5d",
@@ -17224,7 +17224,7 @@
       "36108a02-ecdd-4fb7-ab90-70967ea4089a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T00:42:25Z"
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_d4f3f898ef98f0ea9365",
@@ -17502,8 +17502,8 @@
     "name": "flipfloppy's web cafe",
     "country": "AU",
     "url": "https://flipfloppy.net/radio",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -17513,7 +17513,7 @@
       "251be461-9e61-473b-bdc5-34ddc076845c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_3b6d8757739f5475ff52",
@@ -18783,7 +18783,7 @@
       "eee408cd-7d2d-45bd-a20c-3467c6c88202"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T00:27:24Z"
+    "lastCheckedAt": "2026-10-31T00:34:13Z"
   },
   {
     "id": "aws_4fe6cedc79ca59ae9bf8",
@@ -19186,7 +19186,7 @@
       "7dd79327-d4fb-4f34-a914-1a8688345306"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T20:47:44Z"
+    "lastCheckedAt": "2026-10-31T00:13:50Z"
   },
   {
     "id": "aws_a75b2bcd4a9cef6bb8ad",
@@ -20523,8 +20523,8 @@
     "name": "labrat.party radio",
     "country": "AU",
     "url": "https://labrat.party/radio",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -20534,7 +20534,7 @@
       "22712005-24d5-4e3b-8338-a0ad756740d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-30T23:17:52Z"
   },
   {
     "id": "aws_3c204fdc4fe847953b86",
@@ -23823,7 +23823,7 @@
       "277ec83d-4628-45ae-b436-e474f8505440"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T15:31:59Z"
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_35f8e20aee9e293c9146",
@@ -27171,7 +27171,7 @@
       "6508b94b-bb72-4645-a8ac-e0910cff5ab9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T08:16:01Z"
+    "lastCheckedAt": "2026-10-31T08:38:14Z"
   },
   {
     "id": "aws_4556fe7a8762a3679fec",
@@ -32397,7 +32397,7 @@
       "44220107-c921-4890-8a2c-93538b620079"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T08:16:01Z"
+    "lastCheckedAt": "2026-10-31T08:38:14Z"
   },
   {
     "id": "aws_bfff1892f7e0786ac5c5",

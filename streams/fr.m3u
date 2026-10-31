@@ -211,11 +211,11 @@ https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 https://webradio1.ice.infomaniak.ch/webradio4-128.mp3
 #EXTINF:-1 station-id="awb_059642375036eac62e59" stream-id="aws_6b1cd8c1b0cd486ec901" codec="mp3" bitrate="128",Africa Radio Selecta Webradio
 https://webradio6.ice.infomaniak.ch/webradio6-128.mp3
-#EXTINF:-1 station-id="awb_7250e6cff211fb44f7ff" stream-id="aws_454fdce69f71753c3a1e" codec="mp3" bitrate="0",AfriOnde
+#EXTINF:-1 station-id="awb_7250e6cff211fb44f7ff" stream-id="aws_454fdce69f71753c3a1e" codec="mp3" bitrate="128",AfriOnde
 https://live.afrionde.fr/afrionde1
 #EXTINF:-1 station-id="awb_188fa7bad855d607b11f" stream-id="aws_8567fa869b138cf124d7" codec="mp3" bitrate="0",AfriOnde Abidjan
 https://live.afrionde.fr/afrionde4
-#EXTINF:-1 station-id="awb_04ad7bc9662e5248ffc5" stream-id="aws_a2babe6aeb940584f959" codec="mp3" bitrate="0",AfriOnde Afrobeat
+#EXTINF:-1 station-id="awb_04ad7bc9662e5248ffc5" stream-id="aws_a2babe6aeb940584f959" codec="mp3" bitrate="128",AfriOnde Afrobeat
 https://live.afrionde.fr/afrionde8
 #EXTINF:-1 station-id="awb_83924ddf96edb300e0f5" stream-id="aws_6f6a8e9fb4143c1c99de" codec="mp3" bitrate="128",AfriOnde cefran
 https://live.afrionde.fr/afrionde2
@@ -5445,6 +5445,8 @@ http://hosting.studioradiomedia.fr:2520/stream
 https://sanef.ice.infomaniak.ch/sanef1077-est.mp3
 #EXTINF:-1 station-id="awb_ed4ac48eb6a393ecd764" stream-id="aws_e428d9b74347f0cbcca2" codec="mp3" bitrate="128",Sanef 107.7 - Île-de-France
 http://sanef.ice.infomaniak.ch/sanef1077-idf.mp3
+#EXTINF:-1 station-id="awb_bf7e693373c9d38a853a" stream-id="aws_32c7c7e16390dbf1a194" codec="mp3" bitrate="320",Saravadio
+https://radio.saravadio.fr/studio.mp3
 #EXTINF:-1 station-id="awb_f2930a35d81e6e7d6952" stream-id="aws_f5c5b93a570ec1751346" codec="mp3" bitrate="128",Satellite FM Paris
 https://manager11.streamradio.fr:2935/stream
 #EXTINF:-1 station-id="awb_5b1776c7954774b95967" stream-id="aws_2d071e68c28e284f50f0" codec="mp3" bitrate="0",Sea FM
@@ -5525,7 +5527,7 @@ https://listen.soulradio.eu/eu
 https://listen.soulradio.eu/eu
 #EXTINF:-1 station-id="awb_cd90a4c8c0ba95bb7975" stream-id="aws_e67a27c67dc1abd77699" codec="mp3" bitrate="192",Soulmet Radio
 http://91.121.59.45:10184/stream
-#EXTINF:-1 station-id="awb_3b8a28cb73fa41cfdf44" stream-id="aws_ce95d08c06c0598e9960" codec="" bitrate="0",Stars Mixx
+#EXTINF:-1 station-id="awb_3b8a28cb73fa41cfdf44" stream-id="aws_ce95d08c06c0598e9960" codec="mp3" bitrate="192",Stars Mixx
 https://stream10.vestaradio.com/starsmixx
 #EXTINF:-1 station-id="awb_4406e9fa49eaf5658a13" stream-id="aws_f549f70472617514c62e" codec="mp3" bitrate="96",Starsystem FM (Gérard)
 http://radiosurle.net:8765/radiogerard
@@ -5883,6 +5885,8 @@ http://voltagelounge.ice.infomaniak.ch/voltagelounge-128.mp3
 http://voltagelove.ice.infomaniak.ch/voltagelove-128.mp3
 #EXTINF:-1 station-id="awb_c7ac9312716e8a22b8ce" stream-id="aws_2d883c7d6e7f3ff91855" codec="mp3" bitrate="128",Voltige Radio
 https://listen.radioking.com/radio/184318/stream/226369
+#EXTINF:-1 station-id="awb_32cfde61cfd2dd4912b5" stream-id="aws_09d11630f7c656fb6e05" codec="mp3" bitrate="128",Voltige Radio Dance
+https://flux.radioflow.fr/voltige/stream
 #EXTINF:-1 station-id="awb_149339d521ec7bbad641" stream-id="aws_f1c31fab80b43d7c713d" codec="mp3" bitrate="0",VorteX | Radio
 https://az11.yesstreaming.net:8530/radio.mp3
 #EXTINF:-1 station-id="awb_7de1e00d87cf3b504229" stream-id="aws_a67f2672994fd122aeff" codec="mp3" bitrate="128",Vosges FM Bruyères

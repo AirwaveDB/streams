@@ -1072,7 +1072,7 @@
       "c6d2c435-0e91-4c63-b56f-919edebc93fd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-25T20:47:44Z"
+    "lastCheckedAt": "2026-10-30T23:17:52Z"
   },
   {
     "id": "aws_2d96a85c08d540580fb2",
@@ -2031,25 +2031,6 @@
     "lastCheckedAt": "2026-10-27T06:13:07Z"
   },
   {
-    "id": "aws_da5aca621327fdf07e7f",
-    "stationId": "awb_c44ab4140025d50d0785",
-    "name": "Reichmann AudioVersity",
-    "country": "IL",
-    "url": "https://1062onair.runi.ac.il/idc123.mp3",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d49053be-1450-42f7-94dc-fbc6406c719e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_fc48b77718cb4edae9a7",
     "stationId": "awb_a358ec7b71c742ac4f4c",
     "name": "Star 33 Radiostation",
@@ -2564,8 +2545,8 @@
     "name": "כאן 88",
     "country": "IL",
     "url": "https://27943.live.streamtheworld.com/KAN_88.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2575,26 +2556,7 @@
       "4eaa23cb-9fe0-4cfe-ad2e-a87454fec609"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
-    "id": "aws_7872e3f8a19562e19bf2",
-    "stationId": "awb_4ff3354d5802dbc8c593",
-    "name": "כאן 88",
-    "country": "IL",
-    "url": "https://www.kan.org.il/content/kan/kan-88/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e2f12ad-7c41-42ea-9ce8-cf567d308b0a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-10-30T15:45:10Z"
   },
   {
     "id": "aws_2b759820237a93d05c64",
