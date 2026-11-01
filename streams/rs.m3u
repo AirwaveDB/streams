@@ -107,8 +107,6 @@ http://109.206.96.18:8020/;stream.nsv
 https://mojaudio.stream/proxy/lidradio/stream
 #EXTINF:-1 station-id="awb_a0485ed6c00fae2112b2" stream-id="aws_825b470ad9b6d6600386" codec="mp3" bitrate="128",Laguna
 https://live.radiolaguna.rs/laguna
-#EXTINF:-1 station-id="awb_96b2097006124497cc27" stream-id="aws_31a6610724c13f199874" codec="mp3" bitrate="128",LiD Radio
-http://213.239.205.210:8064/
 #EXTINF:-1 station-id="awb_72fd0dd1ba408e53beb6" stream-id="aws_3ab64d25acfa8c2401ca" codec="mp3" bitrate="128",Lolipop
 https://streaming.tdiradio.com/lollipop.mp3
 #EXTINF:-1 station-id="awb_7f55cefc64a6cce7ed59" stream-id="aws_52118ef8cbfeefdf9d87" codec="mp3" bitrate="128",Lotel Radio
@@ -423,8 +421,8 @@ https://stream.zeno.fm/mhuilnb3yoxuv
 https://mars.streamerr.co/8280/stream
 #EXTINF:-1 station-id="awb_602e53a0996de6eaaa9b" stream-id="aws_ff5c0446a03ef8dda90c" codec="mp3" bitrate="128",Radio Krajina 019
 https://cmr-hosting.com:7021/;
-#EXTINF:-1 station-id="awb_4077560989662cac4ce4" stream-id="aws_a0119af62277a11596f7" codec="mp3" bitrate="320",RADIO KROV
-https://radio.dckrov.rs/listen/krov/radio.mp3
+#EXTINF:-1 station-id="awb_4077560989662cac4ce4" stream-id="aws_a0119af62277a11596f7" codec="ogg" bitrate="128",RADIO KROV
+https://radio.dckrov.rs/listen/krov/radio.flac
 #EXTINF:-1 station-id="awb_9b1dd4bd60d1795d53e7" stream-id="aws_5b38e313d827ea8938ad" codec="mp3" bitrate="96",Radio Kruševac 93.2
 https://krusevac.ipradio.rs:9014/;stream.mp3
 #EXTINF:-1 station-id="awb_a3f4abc1c5689eb9a9ad" stream-id="aws_d601e7c75a83a0c3727b" codec="mp3" bitrate="256",Radio Kulska Komuna
@@ -533,7 +531,7 @@ https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8
 https://stream.radios.rs:9076/stream
 #EXTINF:-1 station-id="awb_8b1683e2f467e9877484" stream-id="aws_98ae133f66f0e56b5798" codec="aac" bitrate="43",Radio S Južni
 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8
-#EXTINF:-1 station-id="awb_fdd514d47fed234e2fbe" stream-id="aws_a3c0af0d1341d12ed1e1" codec="aac+" bitrate="36",Radio S Južni
+#EXTINF:-1 station-id="awb_fdd514d47fed234e2fbe" stream-id="aws_a3c0af0d1341d12ed1e1" codec="aac+" bitrate="32",Radio S Južni
 https://stream.radios.rs:9038/stream
 #EXTINF:-1 station-id="awb_82ac66410c8f952138af" stream-id="aws_acf42f82eb8d8435b810" codec="aac" bitrate="43",Radio S Kids
 https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kids/playlist.m3u8
@@ -672,7 +670,7 @@ http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1 station-id="awb_89863fb2692456e2f3c4" stream-id="aws_4cfd0d0ee4691fe6e87a" codec="mp3" bitrate="128",Radio Zlatousti
 http://stream.unlimited.rs:8076/live
 #EXTINF:-1 station-id="awb_6703e9402f79a042de4a" stream-id="aws_f85242912ad27d041827" codec="mp3" bitrate="0",RADIO.D59B
-http://n05.radiojar.com/gn6dqzhf9mzuv
+http://n0c.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1 station-id="awb_ac38d2b43d4b74e65a8f" stream-id="aws_d9be3c78f879d584a355" codec="mp3" bitrate="192",Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1 station-id="awb_6bd321bece6b796e1f6f" stream-id="aws_abe0db86cb6a2f410657" codec="mp3" bitrate="128",Resavski radio

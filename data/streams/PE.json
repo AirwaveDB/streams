@@ -25,7 +25,7 @@
     "country": "PE",
     "url": "http://panel.innovatestream.pe:7058/;",
     "codec": "aac+",
-    "bitrate": 64,
+    "bitrate": 72,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -35,7 +35,7 @@
       "98254cd7-c1b8-446d-9387-6ff2e7cabc5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:10:31Z"
+    "lastCheckedAt": "2026-11-01T02:16:44Z"
   },
   {
     "id": "aws_34f4a023e2c213d7ee0a",
@@ -54,7 +54,7 @@
       "6cce98e6-f858-4c4a-a1e4-ec2900c0393f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:59:22Z"
+    "lastCheckedAt": "2026-11-01T00:24:52Z"
   },
   {
     "id": "aws_9b4441a51bcb25d0f017",
@@ -62,8 +62,8 @@
     "name": "Antena Sur 90.3 FM",
     "country": "PE",
     "url": "https://stream.zeno.fm/tu63bf6g31zuv",
-    "codec": "mp3",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -73,7 +73,7 @@
       "34318401-7918-4516-a7cd-660d2cd3abc3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:42:25Z"
+    "lastCheckedAt": "2026-11-01T07:26:21Z"
   },
   {
     "id": "aws_20d35bcc9b29cf89deec",
@@ -111,7 +111,7 @@
       "4b97e8c9-5185-47d3-a706-1d199acc5945"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:15:37Z"
+    "lastCheckedAt": "2026-10-31T23:23:35Z"
   },
   {
     "id": "aws_b02daef364df1ac731bf",
@@ -189,7 +189,7 @@
       "e72b83b5-8ced-4d35-bf70-ab7e830f1913"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:35:24Z"
+    "lastCheckedAt": "2026-11-01T09:53:47Z"
   },
   {
     "id": "aws_6fe3e05f70e7b19de455",
@@ -227,7 +227,7 @@
       "843afe00-77dd-4e31-a04b-1a6e3440e2dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:50:12Z"
+    "lastCheckedAt": "2026-11-01T04:04:38Z"
   },
   {
     "id": "aws_822c787ca30bcc8976fe",
@@ -269,7 +269,7 @@
       "PE:conexion-kpop-girls-groups"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:03:43Z"
+    "lastCheckedAt": "2026-11-01T02:12:24Z"
   },
   {
     "id": "aws_2bfa37c564a39a463f55",
@@ -364,7 +364,7 @@
       "5b970d7e-fabf-4aad-ae30-ccfe322a6f32"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:46:14Z"
+    "lastCheckedAt": "2026-11-01T09:58:01Z"
   },
   {
     "id": "aws_7c756f561c54d16f13b1",
@@ -394,7 +394,7 @@
     "country": "PE",
     "url": "https://stream-142.zeno.fm/93kksqvkeg8uv?zs=N9EUqjz8RdOQAaV215SUFg",
     "codec": "aac",
-    "bitrate": 224,
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -404,7 +404,7 @@
       "f4a86a51-8964-4372-bf4c-8e3ede656a59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:15:37Z"
+    "lastCheckedAt": "2026-10-31T22:28:56Z"
   },
   {
     "id": "aws_7352788bb442862721ad",
@@ -423,7 +423,7 @@
       "7507532c-e1e3-471b-9064-4117e8e76712"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:13:39Z"
+    "lastCheckedAt": "2026-11-01T08:31:02Z"
   },
   {
     "id": "aws_4b0d275dde163026eef7",
@@ -431,7 +431,7 @@
     "name": "Estación 90's Radio.com",
     "country": "PE",
     "url": "https://radio.ismaplay.com:8084/stream",
-    "codec": "aac+",
+    "codec": "mp3",
     "bitrate": 320,
     "protocol": "https",
     "hls": false,
@@ -442,7 +442,7 @@
       "08a7b671-4c7e-456e-a6b6-cb5cf62786b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:49:09Z"
+    "lastCheckedAt": "2026-10-31T22:21:24Z"
   },
   {
     "id": "aws_f7e091e8b06761c7b181",
@@ -481,25 +481,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
-  },
-  {
-    "id": "aws_71443105a4f6444463ed",
-    "stationId": "awb_96eb1e09aabf2ce1b309",
-    "name": "Exitosa Noticias Chiclayo",
-    "country": "PE",
-    "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e843ca45-4a53-4217-8822-f8958ecaf3a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:36:12Z"
   },
   {
     "id": "aws_45cd56a833d8461f6d3c",
@@ -558,7 +539,7 @@
       "a24cde02-7041-4c99-b756-a3f362a61a94"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:55:58Z"
+    "lastCheckedAt": "2026-11-01T07:00:25Z"
   },
   {
     "id": "aws_4faa917aa9715a2ce0ab",
@@ -579,7 +560,7 @@
       "PE:filarmonia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:19:49Z"
+    "lastCheckedAt": "2026-10-31T22:28:57Z"
   },
   {
     "id": "aws_89480b6aa7f23ff4086b",
@@ -680,7 +661,7 @@
       "PE:frecuencia-100-101-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:45:26Z"
+    "lastCheckedAt": "2026-11-01T06:14:12Z"
   },
   {
     "id": "aws_d63a7f400ea11653b9c9",
@@ -701,7 +682,7 @@
       "PE:frecuencia-1330-am-parque-azangaro-miraflores-lu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:10:43Z"
+    "lastCheckedAt": "2026-11-01T00:47:25Z"
   },
   {
     "id": "aws_4450c6f458685b6bdb58",
@@ -815,7 +796,7 @@
       "805ab70e-d93a-4347-9922-13bdee1992fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:21:00Z"
+    "lastCheckedAt": "2026-11-01T04:46:48Z"
   },
   {
     "id": "aws_18d4655da7b1978c8e85",
@@ -834,7 +815,7 @@
       "1a34daf5-70e8-4800-bf15-c4aa8d9a4487"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:42:48Z"
+    "lastCheckedAt": "2026-11-01T09:02:33Z"
   },
   {
     "id": "aws_009c90d15b253367b5ef",
@@ -860,7 +841,7 @@
     "stationId": "awb_3b1e22936aecaea3e0e1",
     "name": "JVM la Estación",
     "country": "PE",
-    "url": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-10-27_07-16-59&uuid=460d0065-cb99-4e78-94c0-543c9aec7ff9",
+    "url": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?uuid=3d17c2e8-6e94-a863-7717-a7a801ddb3a4&t302=2026-11-01_07-26-42",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -872,7 +853,7 @@
       "5ee9bf79-c6c0-4c6d-b835-17100d8517fe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:18:49Z"
+    "lastCheckedAt": "2026-11-01T06:28:34Z"
   },
   {
     "id": "aws_f5a3f7b9289d2d4f91d2",
@@ -929,7 +910,7 @@
       "b00133ae-a218-43a8-91ae-83e927a2f331"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:25:24Z"
+    "lastCheckedAt": "2026-11-01T00:14:53Z"
   },
   {
     "id": "aws_e1181a5c11a2afde2804",
@@ -1015,26 +996,6 @@
   {
     "id": "aws_dd65008701e62e8bee3e",
     "stationId": "awb_3c0db48bc3d509978626",
-    "name": "La Inolvidable",
-    "country": "PE",
-    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c5db9aa8-887a-428e-9a3a-9f0fc01f5caa",
-      "f35944d7-424b-437b-a577-971bb3fccfbd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T16:56:20Z"
-  },
-  {
-    "id": "aws_4b72004554e1662e8e1e",
-    "stationId": "awb_9b8e195fe5115fa7c8ac",
     "name": "La Inolvidable 93.7 FM",
     "country": "PE",
     "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
@@ -1046,11 +1007,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0d2f7431-a133-4d8b-b4ed-9c06a8578e2f",
-      "ec940e1a-ceb8-4c7a-849a-44d9a1830593"
+      "f35944d7-424b-437b-a577-971bb3fccfbd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T10:51:00Z"
+    "lastCheckedAt": "2026-10-27T16:56:20Z"
   },
   {
     "id": "aws_16e72ffe32737ee8f89a",
@@ -1069,7 +1029,7 @@
       "a24b7e8c-d627-434e-ab61-61ab7b31ccec"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:23:53Z"
+    "lastCheckedAt": "2026-11-01T05:47:30Z"
   },
   {
     "id": "aws_d2b973c8d1d47a51572a",
@@ -1130,7 +1090,7 @@
       "fb96f767-c155-41f5-b25f-1b6628d772e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:22:27Z"
+    "lastCheckedAt": "2026-11-01T03:30:56Z"
   },
   {
     "id": "aws_ff428ae9d148490a9d0e",
@@ -1170,7 +1130,7 @@
       "PE:la-nube-91-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:46:14Z"
+    "lastCheckedAt": "2026-11-01T09:58:01Z"
   },
   {
     "id": "aws_84fba5a89652f1237736",
@@ -1192,6 +1152,25 @@
     "lastCheckedAt": "2026-10-28T01:09:22Z"
   },
   {
+    "id": "aws_cfe99e962278d5198ba4",
+    "stationId": "awb_6fb09e5827ece90fa3b7",
+    "name": "La unica Tropical",
+    "country": "PE",
+    "url": "https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxHcFMzNGhKVHNXTUZHTHNFWGZWRWciLCJpYXQiOjE3OTM1MjI2NDEsImV4cCI6MTc5MzUyMjcwMX0.HnMqAwidCR1GbmDJymg1AZNN4qUIdIYaTKUa4LdCC8o",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8481703a-c170-4cca-b2ce-1cde3b638211"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-01T08:45:54Z"
+  },
+  {
     "id": "aws_0a28770e49064d576191",
     "stationId": "awb_6fb09e5827ece90fa3b7",
     "name": "La unica Tropical",
@@ -1211,25 +1190,6 @@
     "lastCheckedAt": "2026-10-27T13:51:46Z"
   },
   {
-    "id": "aws_cfe99e962278d5198ba4",
-    "stationId": "awb_6fb09e5827ece90fa3b7",
-    "name": "La unica Tropical",
-    "country": "PE",
-    "url": "https://stream-289.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlHci1ySHp3UnlLbFlvS0swRkR0SUEiLCJpYXQiOjE3OTMwOTA0MTAsImV4cCI6MTc5MzA5MDQ3MH0.YM8KWrCEjUBbMDUeqi7WEE2Xdu9lf0WHmFz3Qchjzy4",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8481703a-c170-4cca-b2ce-1cde3b638211"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:42:48Z"
-  },
-  {
     "id": "aws_29905327c4828cdf12fb",
     "stationId": "awb_259b30993ca88454b6a2",
     "name": "La zona Lima",
@@ -1246,7 +1206,7 @@
       "36bc8b2a-ecd5-48fe-986a-ce35e326aafd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:23:52Z"
+    "lastCheckedAt": "2026-11-01T09:33:29Z"
   },
   {
     "id": "aws_3c4fdeca37cf713a825e",
@@ -1288,7 +1248,7 @@
       "PE:levelhits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:10:06Z"
+    "lastCheckedAt": "2026-11-01T06:01:44Z"
   },
   {
     "id": "aws_d66a29645e89983e0e0f",
@@ -1404,7 +1364,7 @@
       "00086fb1-8120-4280-991a-c70f9a32cd52"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:41:15Z"
+    "lastCheckedAt": "2026-11-01T01:43:57Z"
   },
   {
     "id": "aws_b864a785690f7dc8a028",
@@ -1463,7 +1423,7 @@
       "0f4f620b-612c-4f34-97de-a3b8236bb7be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:15:07Z"
+    "lastCheckedAt": "2026-11-01T06:25:16Z"
   },
   {
     "id": "aws_d587b92dc60bd9723e36",
@@ -1482,7 +1442,7 @@
       "ab21a670-5d48-4369-976d-313df87cf791"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:38:27Z"
+    "lastCheckedAt": "2026-11-01T00:54:06Z"
   },
   {
     "id": "aws_a490c6e08e4a17752069",
@@ -1503,7 +1463,7 @@
       "f509a810-13e6-4d19-bd21-c1bc009678e2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:54:17Z"
+    "lastCheckedAt": "2026-11-01T01:04:34Z"
   },
   {
     "id": "aws_2e6e9bbb16bf0d705760",
@@ -1522,7 +1482,7 @@
       "bc53e466-22f6-42f9-a336-bff0c9502975"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:30:19Z"
+    "lastCheckedAt": "2026-11-01T05:40:12Z"
   },
   {
     "id": "aws_e1c523ea60a464bfbbb4",
@@ -1541,7 +1501,7 @@
       "d9e2d981-f982-42a9-a03d-edb76dba8167"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:39:37Z"
+    "lastCheckedAt": "2026-10-31T23:23:35Z"
   },
   {
     "id": "aws_d04e7abb7f25f941e144",
@@ -1562,7 +1522,7 @@
       "PE:onda-cero-te-activa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:00:55Z"
+    "lastCheckedAt": "2026-11-01T00:17:56Z"
   },
   {
     "id": "aws_c63f4d4eaa2c73685969",
@@ -1623,7 +1583,7 @@
       "PE:onda-popular-cajamarca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T10:01:50Z"
+    "lastCheckedAt": "2026-11-01T10:19:30Z"
   },
   {
     "id": "aws_aac037f0b01edfd87e65",
@@ -1683,7 +1643,7 @@
       "b31425e7-8988-433b-8162-ba66af7e1c45"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:34:53Z"
+    "lastCheckedAt": "2026-11-01T03:11:47Z"
   },
   {
     "id": "aws_490bcc6a0f05c61510ba",
@@ -1725,7 +1685,7 @@
       "edcb99be-9c5b-42a2-a30a-d5962cbda26f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:27:41Z"
+    "lastCheckedAt": "2026-11-01T03:37:30Z"
   },
   {
     "id": "aws_6ff87d8155cb5a214f44",
@@ -1746,7 +1706,7 @@
       "PE:panamericana-salsa-power"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:53:12Z"
+    "lastCheckedAt": "2026-10-31T23:56:07Z"
   },
   {
     "id": "aws_f43aac462824508636e8",
@@ -1765,7 +1725,7 @@
       "47ac23a8-6420-4dde-9355-5f9a7bdf4272"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:22:10Z"
+    "lastCheckedAt": "2026-10-31T21:40:03Z"
   },
   {
     "id": "aws_a5538321a1b13b4ce88b",
@@ -1805,7 +1765,7 @@
       "c4d96664-6f34-4fd4-b6b0-0a5b46bede35"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:14:46Z"
+    "lastCheckedAt": "2026-11-01T03:35:33Z"
   },
   {
     "id": "aws_a7ee20329e1891aa9da2",
@@ -1959,7 +1919,7 @@
       "PE:radio-1160-peru"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:39:22Z"
+    "lastCheckedAt": "2026-11-01T05:34:03Z"
   },
   {
     "id": "aws_34626f35d00580d13962",
@@ -1978,7 +1938,7 @@
       "c08bdf87-7d4b-45b0-abe5-e62655fe9cb6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:37:51Z"
+    "lastCheckedAt": "2026-11-01T00:20:56Z"
   },
   {
     "id": "aws_1a23bfada9358c0a08dc",
@@ -1997,7 +1957,7 @@
       "aed4d9f8-06d3-4bfe-b690-44bcbd74747e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T21:58:22Z"
+    "lastCheckedAt": "2026-10-31T22:20:02Z"
   },
   {
     "id": "aws_e7e9c75bcb1fe04f0906",
@@ -2065,7 +2025,7 @@
     "country": "PE",
     "url": "https://stream.zeno.fm/wgs6m5ewe48uv",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2075,7 +2035,7 @@
       "22d9d28d-eb45-4a6c-8642-239b913d1535"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:15:37Z"
+    "lastCheckedAt": "2026-10-31T23:19:13Z"
   },
   {
     "id": "aws_f2dfe850838112cecdb5",
@@ -2153,7 +2113,7 @@
       "PE:radio-abn-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:09:03Z"
+    "lastCheckedAt": "2026-11-01T01:04:34Z"
   },
   {
     "id": "aws_d2b40d1278df22830bc7",
@@ -2271,7 +2231,7 @@
       "8edc3ffb-0252-48e2-bd71-6a1c1c42e824"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:43:27Z"
+    "lastCheckedAt": "2026-11-01T02:21:06Z"
   },
   {
     "id": "aws_5a7133eab7529d2e6939",
@@ -2332,7 +2292,7 @@
       "c9f1f972-bda4-41c4-87a8-edd0b4c2998f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:41:15Z"
+    "lastCheckedAt": "2026-11-01T02:08:06Z"
   },
   {
     "id": "aws_cf82c7c111fd3951707b",
@@ -2431,7 +2391,7 @@
       "PE:radio-camana"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T11:22:25Z"
+    "lastCheckedAt": "2026-11-01T02:46:30Z"
   },
   {
     "id": "aws_7b4389834adb6294babd",
@@ -2452,7 +2412,7 @@
       "cb89f8f8-7912-40d6-8c73-cc8d896a863a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:08:34Z"
+    "lastCheckedAt": "2026-11-01T01:31:04Z"
   },
   {
     "id": "aws_2a47d67dbca1d5d6f502",
@@ -2531,7 +2491,7 @@
       "61f1a455-2dfe-4f68-b3df-155990caa8f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:18:00Z"
+    "lastCheckedAt": "2026-11-01T04:58:30Z"
   },
   {
     "id": "aws_4edc3a5b8705ddf94200",
@@ -2609,7 +2569,7 @@
       "PE:radio-coral-97-5-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:59:36Z"
+    "lastCheckedAt": "2026-11-01T10:09:54Z"
   },
   {
     "id": "aws_b5fc0924e11df5fa7225",
@@ -2630,7 +2590,7 @@
       "PE:radio-corazon-94-3-fm-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:50:12Z"
+    "lastCheckedAt": "2026-11-01T04:40:03Z"
   },
   {
     "id": "aws_ae085ff0947291dc3f39",
@@ -2691,7 +2651,7 @@
       "54b789d6-bbc9-491f-8f89-34adbf23b963"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:45:23Z"
+    "lastCheckedAt": "2026-11-01T02:16:44Z"
   },
   {
     "id": "aws_e8af4f9b3ef6e668602b",
@@ -2710,7 +2670,7 @@
       "a93aa2de-ef41-4e8c-9bb6-114d97c27ba3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:15:36Z"
+    "lastCheckedAt": "2026-11-01T08:27:06Z"
   },
   {
     "id": "aws_4ffa0cc537796763a09a",
@@ -2826,7 +2786,7 @@
       "27c39f9c-b402-4452-a0cf-f11834c378aa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T09:25:06Z"
+    "lastCheckedAt": "2026-10-31T11:05:10Z"
   },
   {
     "id": "aws_1f228da9df56dbebc529",
@@ -2921,7 +2881,7 @@
       "7982762e-379b-4dab-b39d-3f4d52881844"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:17:58Z"
+    "lastCheckedAt": "2026-11-01T07:40:19Z"
   },
   {
     "id": "aws_b0b3d0ec3445ce837f41",
@@ -2980,7 +2940,7 @@
       "PE:radio-estrella-trujillo-102-7-trujillo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:34:53Z"
+    "lastCheckedAt": "2026-11-01T02:43:54Z"
   },
   {
     "id": "aws_aba74572507f2dc1895e",
@@ -2997,68 +2957,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "05d97dd4-27f4-41cb-a62b-f28da950e637",
-      "PE:radio-exitosa"
+      "PE:radio-exitosa",
+      "a29da81b-602e-4d1f-b27a-44823d94e1ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:49:25Z"
-  },
-  {
-    "id": "aws_84a8d931b443f7cf3711",
-    "stationId": "awb_8a8a1d6ac87c7ab251e0",
-    "name": "Radio Exitosa 95.5 f.m",
-    "country": "PE",
-    "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3082efbb-32e9-4830-980b-bcc725e92fb7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:13:12Z"
-  },
-  {
-    "id": "aws_745e5e32f59ec7e592d0",
-    "stationId": "awb_6cf7e8b72bd77b004759",
-    "name": "Radio Exitosa 95.5 FM",
-    "country": "PE",
-    "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4568a8f9-9198-427d-991c-1ec3b0f8c861"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T23:28:49Z"
-  },
-  {
-    "id": "aws_5a17af67fbb003e5481b",
-    "stationId": "awb_26eb368b460f8aaf956e",
-    "name": "Radio Exitosa Noticias",
-    "country": "PE",
-    "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a9247ffc-227d-456f-9180-a10122b6943c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:05:37Z"
+    "lastCheckedAt": "2026-11-01T03:07:35Z"
   },
   {
     "id": "aws_65813432f291b9bfa5b5",
@@ -3119,7 +3022,7 @@
       "6c976221-39eb-4418-b959-c9a9699a6473"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:19:24Z"
+    "lastCheckedAt": "2026-11-01T02:24:53Z"
   },
   {
     "id": "aws_089e7a95ab466ab6e10f",
@@ -3138,7 +3041,7 @@
       "94a4f061-2a91-41ba-a7dc-40a6f621c453"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:26:26Z"
+    "lastCheckedAt": "2026-11-01T07:28:36Z"
   },
   {
     "id": "aws_d7c93a6ad5d262fdf0d0",
@@ -3159,7 +3062,7 @@
       "PE:radio-fiesta-mix"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:04:36Z"
+    "lastCheckedAt": "2026-11-01T09:08:23Z"
   },
   {
     "id": "aws_a8717bd3d8adba4de37c",
@@ -3235,7 +3138,7 @@
       "5c352d0d-eeaf-4321-8f96-8bb53a47fc16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:31:10Z"
+    "lastCheckedAt": "2026-11-01T00:36:04Z"
   },
   {
     "id": "aws_2f6c04bf887462a181ed",
@@ -3273,7 +3176,7 @@
       "ad239b28-e857-4108-ab8f-b1e99d653ddd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:44:34Z"
+    "lastCheckedAt": "2026-10-31T23:54:00Z"
   },
   {
     "id": "aws_83ddac0edbed85e82a71",
@@ -3353,7 +3256,7 @@
       "PE:radio-huancayo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T16:12:19Z"
+    "lastCheckedAt": "2026-11-01T06:49:55Z"
   },
   {
     "id": "aws_f8744ba04e5c7657e640",
@@ -3375,25 +3278,6 @@
     "lastCheckedAt": "2026-10-27T11:48:01Z"
   },
   {
-    "id": "aws_0a840f26eb6206d84f74",
-    "stationId": "awb_58274a4e2f34b57e7e94",
-    "name": "Radio Huanta 2000",
-    "country": "PE",
-    "url": "http://servistream.info:9152/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5557fd5b-c137-4266-a42a-62a578f47b03"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:24:08Z"
-  },
-  {
     "id": "aws_7d7e4c38c0cff88ec09c",
     "stationId": "awb_58274a4e2f34b57e7e94",
     "name": "Radio Huanta 2000",
@@ -3410,7 +3294,7 @@
       "b1c74a76-4cd2-4573-9f5a-db361ce41d5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:38:27Z"
+    "lastCheckedAt": "2026-11-01T00:41:10Z"
   },
   {
     "id": "aws_5ecd116cac3d98b92340",
@@ -3430,7 +3314,7 @@
       "d7d20807-ea25-4e75-af43-cbee0207c2cc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:19:19Z"
+    "lastCheckedAt": "2026-11-01T00:20:56Z"
   },
   {
     "id": "aws_a7f10bafc4e4e2c9b01f",
@@ -3451,7 +3335,7 @@
       "PE:radio-imperial-2-am"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:14:46Z"
+    "lastCheckedAt": "2026-11-01T03:20:44Z"
   },
   {
     "id": "aws_ce22c31c28d222922ae9",
@@ -3491,7 +3375,7 @@
       "6e8dd489-8910-4866-b9d2-5b7f57ea7de3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:56:34Z"
+    "lastCheckedAt": "2026-11-01T08:25:57Z"
   },
   {
     "id": "aws_983f9444d650b041ba46",
@@ -3512,7 +3396,7 @@
       "PE:radio-intiraymi-del-cusco-830-am"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:24:22Z"
+    "lastCheckedAt": "2026-11-01T03:28:51Z"
   },
   {
     "id": "aws_97a5260076426c52d64b",
@@ -3573,7 +3457,7 @@
       "64bb4672-51b9-453a-9d9f-ced2912f5e57"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:08:34Z"
+    "lastCheckedAt": "2026-11-01T01:10:39Z"
   },
   {
     "id": "aws_d10f5b3f0ce5123e6506",
@@ -3634,7 +3518,7 @@
       "PE:radio-la-cheverisima-utcubamba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:22:09Z"
+    "lastCheckedAt": "2026-11-01T02:37:49Z"
   },
   {
     "id": "aws_f10412c16adfbcb55041",
@@ -3696,46 +3580,6 @@
     "lastCheckedAt": "2026-10-27T20:09:02Z"
   },
   {
-    "id": "aws_52d5c9ea2849bc02a753",
-    "stationId": "awb_75550fa94d70106fcb01",
-    "name": "Radio La Inolvidable 93.7 fm",
-    "country": "PE",
-    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "236bb6b3-59fe-4641-88f8-12fbe327fb11",
-      "df111e20-9941-4bc3-ae59-ae86afe7c22c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T22:01:48Z"
-  },
-  {
-    "id": "aws_5529c4aa019e42658703",
-    "stationId": "awb_e39ca5b1d73e142c8935",
-    "name": "Radio La Inolvidable 93.7 FM - MDSTRM",
-    "country": "PE",
-    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a4a59a0-15b0-4e37-ac9c-7509fb89b12b",
-      "5f713186-1dba-4ec9-8f74-97b14030c6a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T12:50:12Z"
-  },
-  {
     "id": "aws_09d31f600feb799fca7c",
     "stationId": "awb_34131950c16b6b62e051",
     "name": "Radio la inolvidable fm",
@@ -3773,7 +3617,7 @@
       "PE:radio-la-mega"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:41:18Z"
+    "lastCheckedAt": "2026-11-01T06:33:14Z"
   },
   {
     "id": "aws_860d5dd260131c2db25c",
@@ -3832,7 +3676,7 @@
       "aa1f2e5a-2905-44a8-8e34-4a76b6eb9ab3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:16:49Z"
+    "lastCheckedAt": "2026-11-01T03:33:53Z"
   },
   {
     "id": "aws_2ea7d583f160cc3c6b7a",
@@ -3851,7 +3695,7 @@
       "d26f7482-c561-11e9-8502-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:26:20Z"
+    "lastCheckedAt": "2026-11-01T02:27:41Z"
   },
   {
     "id": "aws_f6e27c874bd5be2a640f",
@@ -3872,7 +3716,7 @@
       "b461321f-26de-4e05-98fb-61e1a105e21a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T23:34:57Z"
+    "lastCheckedAt": "2026-11-01T05:45:34Z"
   },
   {
     "id": "aws_35e24b087bd2cfd9ed27",
@@ -3893,7 +3737,7 @@
       "PE:radio-la-unika"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:45:48Z"
+    "lastCheckedAt": "2026-11-01T08:39:52Z"
   },
   {
     "id": "aws_65b85d4a62d3a1b18306",
@@ -3933,7 +3777,7 @@
       "PE:radio-la-voz-del-nor-oriente-utcubamba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:22:43Z"
+    "lastCheckedAt": "2026-11-01T08:31:02Z"
   },
   {
     "id": "aws_fb2c40551203af34bff5",
@@ -3954,7 +3798,7 @@
       "PE:radio-la-zona-90-5-fm-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:10:06Z"
+    "lastCheckedAt": "2026-11-01T04:30:39Z"
   },
   {
     "id": "aws_6b7aed58da27051c6850",
@@ -4074,7 +3918,7 @@
       "96374bda-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:17:29Z"
+    "lastCheckedAt": "2026-11-01T01:28:57Z"
   },
   {
     "id": "aws_a4361c88d3f9d1a7ce1d",
@@ -4163,7 +4007,7 @@
     "country": "PE",
     "url": "https://sp.dattavolt.com:7080/;",
     "codec": "mp3",
-    "bitrate": 64,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -4173,7 +4017,7 @@
       "20d71088-8f9d-48c5-98eb-90f758ccc7df"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:28:17Z"
+    "lastCheckedAt": "2026-11-01T09:51:22Z"
   },
   {
     "id": "aws_c12811d1947b93e63b4d",
@@ -4211,7 +4055,7 @@
       "e9d19041-a925-4973-8fb1-838ffe2fd358"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:07:54Z"
+    "lastCheckedAt": "2026-11-01T06:45:49Z"
   },
   {
     "id": "aws_e406c1086048c3a32962",
@@ -4388,7 +4232,7 @@
       "1701f864-b4a1-4666-a90c-4abaa7093b0b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:44:51Z"
+    "lastCheckedAt": "2026-11-01T08:57:31Z"
   },
   {
     "id": "aws_b6f2014087b0c4aea8d1",
@@ -4426,7 +4270,7 @@
       "dc4fba7e-98d9-4e67-92c8-e69bdc071ce6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:30:06Z"
+    "lastCheckedAt": "2026-11-01T00:00:27Z"
   },
   {
     "id": "aws_0dc031639083e35370e5",
@@ -4447,7 +4291,7 @@
       "dd63f132-c614-46f9-8a0e-d17cd29d97cb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:13:37Z"
+    "lastCheckedAt": "2026-11-01T00:00:27Z"
   },
   {
     "id": "aws_3c19b9e426c192c4a5e2",
@@ -4468,7 +4312,7 @@
       "PE:radio-nova"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:04:21Z"
+    "lastCheckedAt": "2026-11-01T08:25:57Z"
   },
   {
     "id": "aws_3965af20206c12b28bc4",
@@ -4508,7 +4352,7 @@
       "00d12cb3-d78d-4b4f-8e3f-5300af5663cc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:50:06Z"
+    "lastCheckedAt": "2026-11-01T10:09:54Z"
   },
   {
     "id": "aws_af783d198152acf38598",
@@ -4648,7 +4492,7 @@
       "ecdf7075-c593-4d42-8947-2d2c3b4bab74"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T21:05:57Z"
+    "lastCheckedAt": "2026-11-01T07:15:08Z"
   },
   {
     "id": "aws_7564f82d5333db66f9d5",
@@ -4689,7 +4533,7 @@
       "PE:radio-pirata-97-7-tu-radio-retro"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T06:18:49Z"
+    "lastCheckedAt": "2026-11-01T06:20:55Z"
   },
   {
     "id": "aws_7b2e89fb5aafabbe6092",
@@ -4708,7 +4552,7 @@
       "1ff0acc3-e72f-4d9d-9939-bea30eea70d8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:39:13Z"
+    "lastCheckedAt": "2026-11-01T04:26:11Z"
   },
   {
     "id": "aws_97efc9e6ec80b2ea090e",
@@ -4748,7 +4592,7 @@
       "1f4c1b03-a287-4bc4-b95b-1b007a67fc80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:59:17Z"
+    "lastCheckedAt": "2026-11-01T07:56:55Z"
   },
   {
     "id": "aws_9bfed4440ebb845e8aca",
@@ -4786,7 +4630,7 @@
       "21f6e569-7ae2-47a5-9793-70c0ae6ec129"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:33:17Z"
+    "lastCheckedAt": "2026-11-01T09:33:29Z"
   },
   {
     "id": "aws_765fb6994fd0e7b3d35f",
@@ -4806,7 +4650,7 @@
       "ff01d412-7a67-48ee-9b3d-1826f00537ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T23:17:52Z"
+    "lastCheckedAt": "2026-11-01T02:05:52Z"
   },
   {
     "id": "aws_244c3f7c419b6a562986",
@@ -4825,7 +4669,7 @@
       "0092e6be-c962-4691-998a-6a7393038c01"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:37:51Z"
+    "lastCheckedAt": "2026-11-01T00:06:25Z"
   },
   {
     "id": "aws_6d734a70cee3f949ecdc",
@@ -4846,7 +4690,7 @@
       "PE:radio-retro"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:24:36Z"
+    "lastCheckedAt": "2026-11-01T01:08:40Z"
   },
   {
     "id": "aws_f25aaae9dc7af2365f14",
@@ -4867,14 +4711,14 @@
       "PE:radio-ritmo-romantica"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:53:12Z"
+    "lastCheckedAt": "2026-11-01T00:09:34Z"
   },
   {
     "id": "aws_0e5121555d3e0e9b7c86",
     "stationId": "awb_b92d760a57ba304532c4",
     "name": "Radio Románticas Inolvidables (FMLima)",
     "country": "PE",
-    "url": "https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImE4QkVHSDlKUV9tLTE2RnFoUUFfd0EiLCJpYXQiOjE3OTMwOTAyOTUsImV4cCI6MTc5MzA5MDM1NX0.f5rz8GH6TeHHKuYJ1EutW9leW37uaaHtMHbp0tG-Vnk",
+    "url": "https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imhab2lqdjVGU0lHcWE4Vk1VN1dUdWciLCJpYXQiOjE3OTM1MjI5MDYsImV4cCI6MTc5MzUyMjk2Nn0.MG7wDl7wFx8hoxwXpcLO2uGwr1ZtbZH4m2MfVmyL0IU",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -4886,7 +4730,7 @@
       "aad5e132-1c15-43dd-9972-b810e8a22a71"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T08:39:57Z"
+    "lastCheckedAt": "2026-11-01T08:48:39Z"
   },
   {
     "id": "aws_7b0700e01a7a4d451273",
@@ -4949,7 +4793,7 @@
       "e284a064-a070-4ebe-91f7-9258e60a2c30"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:08:46Z"
+    "lastCheckedAt": "2026-11-01T00:28:43Z"
   },
   {
     "id": "aws_7edb3a3b4f8e4d53aea2",
@@ -5143,7 +4987,7 @@
       "49260d39-d36e-4d62-b7e8-0c1d5fe836e9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:34:39Z"
+    "lastCheckedAt": "2026-11-01T09:37:07Z"
   },
   {
     "id": "aws_6c3d2ff30ad49e7da202",
@@ -5162,7 +5006,7 @@
       "23f2ae09-b645-4e59-ac8a-f8a5b5d774b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:19:27Z"
+    "lastCheckedAt": "2026-11-01T04:22:07Z"
   },
   {
     "id": "aws_4e3fb2e85e6f0026664e",
@@ -5181,7 +5025,7 @@
       "05714870-2b6d-4abd-9b46-55444b584af4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:58:34Z"
+    "lastCheckedAt": "2026-11-01T05:59:52Z"
   },
   {
     "id": "aws_55839b88a51b1106593e",
@@ -5307,7 +5151,7 @@
       "b8a06157-46d6-4295-a3b7-a5de57b15ec8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:36:52Z"
+    "lastCheckedAt": "2026-11-01T01:48:20Z"
   },
   {
     "id": "aws_e7b018d8ed65c611550d",
@@ -5366,7 +5210,7 @@
       "57244147-b4f2-4828-8bf0-5e91addd4e24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:21:40Z"
+    "lastCheckedAt": "2026-11-01T04:40:03Z"
   },
   {
     "id": "aws_e0d7b528c26741461245",
@@ -5385,7 +5229,7 @@
       "99e5a09f-dcf5-4749-b2b2-b849b5521769"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:22:27Z"
+    "lastCheckedAt": "2026-11-01T03:33:53Z"
   },
   {
     "id": "aws_0ee2207eca0abc40d863",
@@ -5451,7 +5295,7 @@
     "stationId": "awb_4b79688d257d9ed6a2ab",
     "name": "Radio TV. Sureña - Puno, Juliaca",
     "country": "PE",
-    "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlIxYjByTlhnVHYtMHlMaTZ3THBoQnciLCJpYXQiOjE3OTMwNTY4NDUsImV4cCI6MTc5MzA1NjkwNX0.ZDsTlGgQxgr_ZnVG1HxBzd78efhcw2AzNBnywdOfOf0",
+    "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFYa0FvYks0UlpXWThrb21MOGRtQXciLCJpYXQiOjE3OTM0OTUyMDksImV4cCI6MTc5MzQ5NTI2OX0.Se0qgfII9uYcyshfyPxZzMS6r93S0PzaWNWVE_kaTi4",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -5463,7 +5307,7 @@
       "efaab0e4-0bd3-437d-a32a-5125d5ee2141"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T23:22:21Z"
+    "lastCheckedAt": "2026-11-01T01:08:40Z"
   },
   {
     "id": "aws_dade7ffa46611349d2d1",
@@ -5522,7 +5366,7 @@
       "ac66e81c-79fd-4bc4-ac79-44bc90135375"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:55:38Z"
+    "lastCheckedAt": "2026-11-01T06:58:55Z"
   },
   {
     "id": "aws_59886acd0abf306b1602",
@@ -5541,7 +5385,7 @@
       "6e9fced5-a5dd-4fa9-a219-5fbfe93fea1e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T10:28:19Z"
+    "lastCheckedAt": "2026-11-01T10:36:14Z"
   },
   {
     "id": "aws_e98e4d5143176be76da7",
@@ -5560,7 +5404,7 @@
       "6ff081a3-67ee-401a-b3d1-693d24de7941"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T01:43:27Z"
+    "lastCheckedAt": "2026-11-01T02:03:40Z"
   },
   {
     "id": "aws_4b8530f9252737c7c0d7",
@@ -5600,7 +5444,7 @@
       "PE:radio-yaravi"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:26:26Z"
+    "lastCheckedAt": "2026-11-01T07:56:55Z"
   },
   {
     "id": "aws_56138762b4d368783041",
@@ -5658,7 +5502,7 @@
       "9dccedd8-3aa8-4a74-b86c-f3689290bc97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:47:54Z"
+    "lastCheckedAt": "2026-11-01T09:55:58Z"
   },
   {
     "id": "aws_a391698c5ba40e92f71f",
@@ -5741,7 +5585,7 @@
     "stationId": "awb_76968a2bf340e33ca531",
     "name": "RAM Cusco",
     "country": "PE",
-    "url": "http://ramcusco.stream.laut.fm/ramcusco?t302=2026-10-26_23-07-15&uuid=e99f64af-7763-3d2b-f938-9270cae4e2d4",
+    "url": "http://ramcusco.stream.laut.fm/ramcusco?uuid=32194079-9b5f-98ce-6b32-d02cfcb2cd9e&t302=2026-11-01_00-10-08",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "http",
@@ -5753,7 +5597,7 @@
       "85904315-03af-45c8-a248-7ade92affae3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-26T22:09:12Z"
+    "lastCheckedAt": "2026-10-31T23:11:53Z"
   },
   {
     "id": "aws_a75dfbbd3f5ec2059433",
@@ -5772,7 +5616,7 @@
       "bc3bf0f5-abd6-413d-a6ff-9baf7bd007bb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:17:55Z"
+    "lastCheckedAt": "2026-11-01T09:58:01Z"
   },
   {
     "id": "aws_042bdb791673f0b72cfa",
@@ -5929,7 +5773,7 @@
       "b895c3bb-d170-449e-87b4-7e858476c052"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T04:18:45Z"
+    "lastCheckedAt": "2026-11-01T04:40:03Z"
   },
   {
     "id": "aws_b765f24de150fef25867",
@@ -5948,7 +5792,7 @@
       "0c77a509-a379-4518-956e-9e2491935876"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T07:13:40Z"
+    "lastCheckedAt": "2026-11-01T07:42:38Z"
   },
   {
     "id": "aws_115d19644f19cd4eacc5",
@@ -5967,7 +5811,7 @@
       "947e8b45-a62c-4f03-8a1e-54f4a233b68b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:12:43Z"
+    "lastCheckedAt": "2026-11-01T03:20:44Z"
   },
   {
     "id": "aws_55345a61e0d955ff6f07",
@@ -6146,7 +5990,7 @@
       "PE:studio-92-92-5-fm-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T09:17:54Z"
+    "lastCheckedAt": "2026-11-01T10:04:30Z"
   },
   {
     "id": "aws_89858a4c603d250119a6",
@@ -6165,7 +6009,7 @@
       "029f0c1e-a0c7-464d-9db0-2c67c345909d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T00:22:03Z"
+    "lastCheckedAt": "2026-11-01T00:28:43Z"
   },
   {
     "id": "aws_5044cebf85de0d286e01",
@@ -6203,7 +6047,7 @@
       "73848a57-eed4-4abc-a663-4325809876a9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T05:49:35Z"
+    "lastCheckedAt": "2026-11-01T07:09:46Z"
   },
   {
     "id": "aws_f2ea0f46302c583bb52d",
@@ -6342,7 +6186,7 @@
       "0451aed7-7513-4f9f-85e8-2fb0fd61edd2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T03:59:17Z"
+    "lastCheckedAt": "2026-11-01T05:47:30Z"
   },
   {
     "id": "aws_78ccbaecaace522957b5",
@@ -6382,7 +6226,7 @@
       "PE:z-rock-pop"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:55:47Z"
+    "lastCheckedAt": "2026-11-01T10:04:30Z"
   },
   {
     "id": "aws_e764827a836bf34231a4",
@@ -6422,6 +6266,6 @@
       "PE:zona-5-93-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T02:37:06Z"
+    "lastCheckedAt": "2026-11-01T02:55:53Z"
   }
 ]

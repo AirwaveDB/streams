@@ -31,8 +31,8 @@ http://radio2.tirek.hu:8000/agnusradio
 https://agnusradio.ro/radio-stream/
 #EXTINF:-1 station-id="awb_edd181c0406cbc3be787" stream-id="aws_b668717e2d27e5dfedb9" codec="mp3" bitrate="320",Alien Club Fantasy
 http://radio.club-fantasy-hub.ro:8000/;
-#EXTINF:-1 station-id="awb_47d9336a3cec001f34a4" stream-id="aws_ae91116669dab174e900" codec="mp3" bitrate="320",Altfel FM
-https://azuralive.streams.ovh/listen/radioaltfel/320.mp3
+#EXTINF:-1 station-id="awb_47d9336a3cec001f34a4" stream-id="aws_ae91116669dab174e900" codec="aac+" bitrate="64",Altfel FM
+https://azuralive.streams.ovh/listen/radioaltfel/64.aac
 #EXTINF:-1 station-id="awb_39079b639f00160f70ca" stream-id="aws_a06094f6b1e735f3172c" codec="mp3" bitrate="128",Ambiento
 https://ambiento-adradio.radioca.st/128
 #EXTINF:-1 station-id="awb_e86668c78c1f67af8b51" stream-id="aws_a2bde0d36de088136a67" codec="mp3" bitrate="128",Anișoara Radio
@@ -107,8 +107,6 @@ https://live.radioboom.ro/live-tv/liveboomtv.m3u8
 https://stream.8ounce.ro/listen/radio_bounce/radio.mp3
 #EXTINF:-1 station-id="awb_1ad86167e5ef1c764ff5" stream-id="aws_e3c4d45ac33e225d0d4e" codec="aac+" bitrate="96",Bucuresti FM
 https://stream4.srr.ro:8443/bucuresti-fm
-#EXTINF:-1 station-id="awb_cf9402d988d5b8a717cf" stream-id="aws_0491cc2b3afbd6310e01" codec="aac+" bitrate="48",Buzz FM -Buzău 87.9 FM
-https://radio.sonicpanel.ro/8034/stream
 #EXTINF:-1 station-id="awb_7e377252c8fcfb0aa7a5" stream-id="aws_7b1d5da39d0617f9f424" codec="mp3" bitrate="128",Campus Buzău -Buzău 98.0 FM
 https://radio.campusbuzau.ro:8443/CAMPUS.mp3
 #EXTINF:-1 station-id="awb_50fc6421ae601b570497" stream-id="aws_b96596637b8e30f05738" codec="mp3" bitrate="128",Campus Transilvania -Brașov
@@ -779,7 +777,7 @@ http://89.238.227.6:8032/;stream/1
 http://live.radiocafe.ro:8048/live.aac
 #EXTINF:-1 station-id="awb_78c9eb0cac191174cfe3" stream-id="aws_201a338aaadd8827d881" codec="aac+" bitrate="88",Radio Cafe Romania
 http://live.radiocafe.ro:8048/live.aac
-#EXTINF:-1 station-id="awb_78c9eb0cac191174cfe3" stream-id="aws_db44384ecfc2a60dc8d2" codec="aac+" bitrate="56",Radio Cafe Romania
+#EXTINF:-1 station-id="awb_78c9eb0cac191174cfe3" stream-id="aws_db44384ecfc2a60dc8d2" codec="aac+" bitrate="64",Radio Cafe Romania
 https://live.radiocafe.ro/live.aac
 #EXTINF:-1 station-id="awb_ff9f6f1f9139fb1cbb1d" stream-id="aws_69d55e488dc9029f41b9" codec="mp3" bitrate="128",Radio Calarasi
 https://stream.zeno.fm/rhavl7oblunvv
@@ -1096,9 +1094,7 @@ http://asculta.radionebunya.ro:7575/
 #EXTINF:-1 station-id="awb_0756988331cc13a671de" stream-id="aws_49ef2cdfa249c3369295" codec="mp3" bitrate="128",Radio Nebunya Manele
 http://asculta.radionebunya.ro:7575/
 #EXTINF:-1 station-id="awb_fba3c3867ca898708760" stream-id="aws_ad9c7ba5b375482066ed" codec="mp3" bitrate="128",RADIO NEWS ROMÂNIA FM -Botoșani
-https://stream-175.surfernetwork.com/7aawq7feqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YWF3cTdmZXFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjFNRnRGcHpCVEx1b1ZwbWc2akNKY0EiLCJpYXQiOjE3OTMwOTE1MDAsImV4cCI6MTc5MzA5MTU2MH0.zK1NhJ6oTeqczUDOr2UZaP0JOxN50Xqhzh4vLS0MPWs
-#EXTINF:-1 station-id="awb_02e716b4961b4c11538f" stream-id="aws_c7d711e3db26d7b1f9f6" codec="mp3" bitrate="128",Radio Noise
-http://live.radionoise.ro:9100/;
+https://stream-175.surfernetwork.com/7aawq7feqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YWF3cTdmZXFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik03WUFLanlEUjY2LWpLQnUwNE9zQ1EiLCJpYXQiOjE3OTM1MjYwMjksImV4cCI6MTc5MzUyNjA4OX0.K2iwKSu2MrjkGphW-tF0aaT8mZ7unfbPcB2qxGO2wsg
 #EXTINF:-1 station-id="awb_01c204962c4f432670ee" stream-id="aws_3f8a27e1c38c6b58acfe" codec="mp3" bitrate="128",Radio Noise 2000s
 https://2000slive.radionoise.ro:9122/stream
 #EXTINF:-1 station-id="awb_eb2154cb47d14665df0f" stream-id="aws_5a5eef72de7d5736e231" codec="mp3" bitrate="128",Radio Noise 2010s
@@ -1117,8 +1113,6 @@ https://edmlive.radionoise.ro:9116/stream
 https://eurodancelive.radionoise.ro:9128/stream
 #EXTINF:-1 station-id="awb_af6956f6428ff9925234" stream-id="aws_4f0b96f52308554235df" codec="mp3" bitrate="128",Radio Noise Gold
 https://goldlive.radionoise.ro:9170/stream
-#EXTINF:-1 station-id="awb_af6956f6428ff9925234" stream-id="aws_57836de26af3212794ac" codec="mp3" bitrate="128",Radio Noise Gold
-https://radio.sonicpanel.ro:9170/
 #EXTINF:-1 station-id="awb_ff2546c1fb4fbed7302c" stream-id="aws_7f1a7b7ed8fbf4c9e1c8" codec="mp3" bitrate="128",Radio Noise Greatest Hits
 https://greatesthitslive.radionoise.ro:9010/stream
 #EXTINF:-1 station-id="awb_c2f67f48502b17e469a9" stream-id="aws_3a1685a9d4999dabbc0d" codec="mp3" bitrate="128",Radio Noise Hip-Hop
@@ -1145,14 +1139,8 @@ https://manelelive.radionoise.ro:9162/stream
 https://mixlive.radionoise.ro:9190/stream
 #EXTINF:-1 station-id="awb_5cc8a7211f6ded2a1da6" stream-id="aws_3c1cb69098c4271d31f8" codec="mp3" bitrate="128",Radio Noise Opera
 https://operalive.radionoise.ro:9126/stream
-#EXTINF:-1 station-id="awb_9734fea37c70d89951a8" stream-id="aws_e91775e2ca40d9f15a79" codec="mp3" bitrate="128",Radio Noise Party
-https://partylive.radionoise.ro:9160/
 #EXTINF:-1 station-id="awb_9734fea37c70d89951a8" stream-id="aws_ab84f1f19ed2a64faa42" codec="mp3" bitrate="128",Radio Noise Party
 https://partylive.radionoise.ro:9160/stream
-#EXTINF:-1 station-id="awb_9734fea37c70d89951a8" stream-id="aws_4d1e7dd6570e6a2f2bfe" codec="mp3" bitrate="128",Radio Noise Party
-https://radio.sonicpanel.ro:9160/
-#EXTINF:-1 station-id="awb_e10ac10b911a8506826d" stream-id="aws_969996abdedeed4ca0d5" codec="mp3" bitrate="128",Radio Noise Retro
-https://radio.sonicpanel.ro:9120/
 #EXTINF:-1 station-id="awb_e10ac10b911a8506826d" stream-id="aws_4120ff1750153d27970d" codec="mp3" bitrate="128",Radio Noise Retro
 https://retrolive.radionoise.ro:9120/stream
 #EXTINF:-1 station-id="awb_4d9d679be44fa754bf0b" stream-id="aws_f0e2e38333e2f9990b8d" codec="mp3" bitrate="128",Radio Noise Rock
@@ -1177,8 +1165,6 @@ https://welove80slive.radionoise.ro:9080/stream
 https://welove90slive.radionoise.ro:9090/stream
 #EXTINF:-1 station-id="awb_3e8768a7ba02dcf8902f" stream-id="aws_599fb1fac99d88c5ec42" codec="mp3" bitrate="128",Radio Noise XMAS
 https://xmaslive.radionoise.ro:9150/stream
-#EXTINF:-1 station-id="awb_546c1f0aebd05b226fd3" stream-id="aws_dfb12accbcb79ef7d983" codec="aac+" bitrate="224",Radio Nova22
-http://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 station-id="awb_41e6d54cac3c2e4e53cf" stream-id="aws_73c680d9687b8bdb2f99" codec="mp3" bitrate="192",RADIO OK -Cluj Napoca
 https://radio.sonicpanel.ro/8058/stream
 #EXTINF:-1 station-id="awb_8e09f48d9c1a4c0fa427" stream-id="aws_93b508b4ad439068b7db" codec="mp3" bitrate="128",Radio Oldies
@@ -1401,8 +1387,6 @@ http://live1.radiovip.ro:8969/;
 https://listen.radioking.com/radio/494884/stream/551902
 #EXTINF:-1 station-id="awb_34db6b6c959f849a433f" stream-id="aws_b455abc7530dc3016be2" codec="mp3" bitrate="128",Radio Vocea Evangheliei RVE Oradea
 http://162.244.80.32:6700/
-#EXTINF:-1 station-id="awb_f9221a505134566caf2b" stream-id="aws_b84ad1f6a358ae728000" codec="mp3" bitrate="48",Radio Vocea Evangheliei Suceava - RVE
-http://s9.yesstreaming.net:7014/stream
 #EXTINF:-1 station-id="awb_979aebc3c929adf30eb7" stream-id="aws_8fc6ec7e06ce5d56d6a7" codec="mp3" bitrate="128",Radio Vocea Speranței RVS
 https://live.rvs.ro/play
 #EXTINF:-1 station-id="awb_cbff298d6579831669be" stream-id="aws_93e134da60165105d76a" codec="mp3" bitrate="128",Radio Voces Campi
@@ -1753,10 +1737,10 @@ http://asculta.radiotequila.ro:7000/
 https://colinde.radiotequila.ro/8989/stream
 #EXTINF:-1 station-id="awb_ee778e34725450fc0a1f" stream-id="aws_8283591e1f172b3d53f5" codec="mp3" bitrate="128",Tequila România -Radio Petrecere
 https://petrecere.radiotequila.ro/7000/stream
+#EXTINF:-1 station-id="awb_01e0888965fe59d2f5b8" stream-id="aws_1f47613bf76dd00a7302" codec="aac+" bitrate="128",Terra FM
+https://cloud.radiosonicpanel.ro/8020/stream
 #EXTINF:-1 station-id="awb_0946adf10d6bd3bbb281" stream-id="aws_681fe1758679a5959cbd" codec="aac+" bitrate="56",TERRA FM
 https://radiosentir.sytes.net/stream?1774626668225
-#EXTINF:-1 station-id="awb_01e0888965fe59d2f5b8" stream-id="aws_1f47613bf76dd00a7302" codec="aac" bitrate="112",Terra FM
-https://stream.terrafm.ro/stream
 #EXTINF:-1 station-id="awb_1c9b3648205b53436d85" stream-id="aws_39d53880fe9fb6e67f29" codec="mp3" bitrate="320",Terra Radio -Medgidia 97.5 FM
 http://188.26.110.59:8000/terra_hq.mp3
 #EXTINF:-1 station-id="awb_ccab62de43d16308463d" stream-id="aws_11632d6419cf0dab3f76" codec="mp3" bitrate="128",Terra Radio -Murfatlar 97.5 FM

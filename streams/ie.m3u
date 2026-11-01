@@ -81,6 +81,8 @@ https://c6.radioboss.fm:8225/stream
 https://c6.radioboss.fm:8225/autodj
 #EXTINF:-1 station-id="awb_a9f7ec370937e66dcd85" stream-id="aws_bd58fec22fa5a9e2e220" codec="mp3" bitrate="128",Community Radio Youghal
 http://142.132.158.102:8221/stream
+#EXTINF:-1 station-id="awb_ae5a4bab542536b653a7" stream-id="aws_8aef5d5041669dd6b811" codec="mp3" bitrate="112",Cool FM Belfast
+https://stream-al.hellorayo.co.uk/coolfm.mp3?direct=true&aw_0_1st.skey=1602676850&rp_source=1
 #EXTINF:-1 station-id="awb_0bee7939ad1044a70b52" stream-id="aws_52aa600e37bd69ed048e" codec="aac" bitrate="127",Cork 96 FM
 http://wg.cdn.tibus.net/96fm
 #EXTINF:-1 station-id="awb_af8515d226dcf6dad53a" stream-id="aws_b011cceec03bd61909fe" codec="mp3" bitrate="128",Cork's RedFM
@@ -105,9 +107,9 @@ https://dublin-digital-radio.radiocult.fm/stream
 https://live-bauerie.sharp-stream.com/98
 #EXTINF:-1 station-id="awb_9da795b83e64702e4ec9" stream-id="aws_f1c9209cf10478af533c" codec="mp3" bitrate="192",Dublin's 98FM
 https://stream.audioxi.com/98
-#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_5a1ba89f683a3865afaf" codec="aac" bitrate="127",Dublin's FM104
+#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_5a1ba89f683a3865afaf" codec="aac" bitrate="128",Dublin's FM104
 https://onic.dublin.live.stream.broadcasting.news/stream-fm104
-#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_61ed660359f6df34c3a2" codec="aac" bitrate="127",Dublin's FM104
+#EXTINF:-1 station-id="awb_c24cb8be39ca7d7676b3" stream-id="aws_61ed660359f6df34c3a2" codec="aac" bitrate="128",Dublin's FM104
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:-1 station-id="awb_7d2a9e5478984038ab39" stream-id="aws_6611638c0f4dfb7a7465" codec="aac" bitrate="128",Dublin's Q102
 https://onic.dublin.live.stream.broadcasting.news/stream-q102
@@ -201,8 +203,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.m
 http://tx.sharp-stream.com/http_live.php?i=midwestfmie2.aac&device=website
 #EXTINF:-1 station-id="awb_a1e122fb3c6722a42c9d" stream-id="aws_5b7d7932d301c026716d" codec="aac+" bitrate="128",Midwest Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8
-#EXTINF:-1 station-id="awb_a0905243cdd22be8d336" stream-id="aws_3e9539e31c8fc2e7ee10" codec="aac" bitrate="192",Midwest Radio [AAC]
-http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac
 #EXTINF:-1 station-id="awb_a0905243cdd22be8d336" stream-id="aws_cb07ffb5f53df2734310" codec="aac+" bitrate="128",Midwest Radio [AAC]
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac
 #EXTINF:-1 station-id="awb_b57646033fba1dd852c0" stream-id="aws_c5f1ebc8db94508cc03e" codec="mp3" bitrate="192",Midwest Radio [MP3]
@@ -223,8 +223,6 @@ https://listen.openstream.co/6517/audio
 https://listen.openstream.co/6517/audio
 #EXTINF:-1 station-id="awb_a04778cb171bb84452a7" stream-id="aws_0312803c707b5f58bcf8" codec="mp3" bitrate="192",Mixlive.net - Psybient Sunset
 https://strw3.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%26publisherId%3D956%26k%3D1789010429
-#EXTINF:-1 station-id="awb_ada3f4c03d8ae46082a4" stream-id="aws_f23fd218175fb731541c" codec="aac+" bitrate="48",MPB Radio 1
-https://sc.mpbnl.nl/radio1
 #EXTINF:-1 station-id="awb_ada3f4c03d8ae46082a4" stream-id="aws_b2d509f273252b7b2f40" codec="aac+" bitrate="320",MPB Radio 1
 https://sc.mpbnl.nl/radio1.mp3
 #EXTINF:-1 station-id="awb_a44327735b7952495ef8" stream-id="aws_77819840213ad3ac7303" codec="aac+" bitrate="384",MPB Radio 1 Dance
@@ -276,7 +274,7 @@ https://live.onic.ie/stream-rnb?_=890764
 #EXTINF:-1 station-id="awb_da9408bb7d92f0727b55" stream-id="aws_a095aa1c2ce062b61b09" codec="aac" bitrate="128",Onic Rock
 https://live.onic.ie/stream-rock?_=630901
 #EXTINF:-1 station-id="awb_c33bd33844f1f185bbf3" stream-id="aws_3763a796f8cc68023ab9" codec="aac" bitrate="128",Over the West Online Radio
-http://fast.citrus3.com:8302/stream
+https://fast.citrus3.com:8302/stream
 #EXTINF:-1 station-id="awb_4d832c74b7b97b36efcc" stream-id="aws_e198e49f8ee84a9e57ff" codec="mp3" bitrate="256",Pacific FM
 https://radiozender.mpbnetwerken.nl/pacificfm
 #EXTINF:-1 station-id="awb_5e59c5ae9a0c0ea48652" stream-id="aws_988ee1ad9564dd0092e6" codec="mp3" bitrate="128",Phantom Radio Ireland
