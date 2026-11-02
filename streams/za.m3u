@@ -4,7 +4,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/5FM
 #EXTINF:-1 station-id="awb_a88754c389c94f7b7d24" stream-id="aws_6a009bef1d3c88fcf134" codec="aac+" bitrate="48",5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac
 #EXTINF:-1 station-id="awb_311dff2df7476a643558" stream-id="aws_0770ad3c3ad5c2da8c04" codec="mp3" bitrate="64",702 Johannesburg
-http://21633.live.streamtheworld.com/FM702_SC
+http://25453.live.streamtheworld.com:3690/FM702_SC
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_f09811e7e2a9f6f56194" codec="aac" bitrate="0",919
 https://edge.iono.fm/xice/112_low.aac
 #EXTINF:-1 station-id="awb_30fb361e8ad23f7aa4e8" stream-id="aws_94fcb4697645263fde32" codec="aac" bitrate="0",919
@@ -14,7 +14,7 @@ http://27943.live.streamtheworld.com:3690/FM947AAC_SC
 #EXTINF:-1 station-id="awb_c0ba137d0ae5dd6d7181" stream-id="aws_1c4d77e8f5e9ebf59a9c" codec="mp3" bitrate="64",94.7 Highveld Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC
 #EXTINF:-1 station-id="awb_b227b713b04bc9f4d8b1" stream-id="aws_f134015c33de69a2c2f5" codec="mp3" bitrate="64",947
-http://27753.live.streamtheworld.com/FM947_SC
+http://29344.live.streamtheworld.com:3690/FM947_SC
 #EXTINF:-1 station-id="awb_4392e2b48d02726b6479" stream-id="aws_801aef2658cfe147a3f5" codec="mp3" bitrate="128",African Praise Radio
 https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 #EXTINF:-1 station-id="awb_28b4d0d76632f79061d3" stream-id="aws_139509d4cc0eca348a0c" codec="mp3" bitrate="128",Afrobeat N1 FM
@@ -165,6 +165,8 @@ https://servidor17.brlogic.com:7012/live
 https://edge.iono.fm/xice/51_medium.aac
 #EXTINF:-1 station-id="awb_1e785cbfca3d5a6f8d76" stream-id="aws_dfa7f037cb84c6e4863f" codec="aac" bitrate="0",Jozi FM (HiFi aac)
 https://edge.iono.fm/xice/51_high.aac
+#EXTINF:-1 station-id="awb_b6a2afff8db51fc4ae86" stream-id="aws_b367e731582cbfe561af" codec="mp3" bitrate="128",JustGospelRadio
+https://stream.zeno.fm/yfr50tzge0hvv
 #EXTINF:-1 station-id="awb_5b713c4af3614b4173fa" stream-id="aws_c50076226529f0b266b1" codec="mp3" bitrate="128",Kakarela FM
 https://stream.zeno.fm/845opvifkhytv
 #EXTINF:-1 station-id="awb_d1457d6c217ffb8ac240" stream-id="aws_e6f0e87f88e1ce21ef69" codec="mp3" bitrate="0",Kaleidoscope Online
@@ -359,7 +361,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.a
 https://listen.radioking.com/radio/326599/stream/374668?fbclid=IwAR3lWR7ZdVVmZBSBedW_Cv1xF_Q7KzGmUQ0stgVCc_A7kx8Cf3Ncek1ntxk
 #EXTINF:-1 station-id="awb_a4e65a4d3d73497e91f8" stream-id="aws_417259af43dbf81f6c17" codec="mp3" bitrate="0",The Grind Radio
 https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3
-#EXTINF:-1 station-id="awb_e3ed2b73764fe9078d9d" stream-id="aws_e8c3989d6dc9358d05cf" codec="mp3" bitrate="128",The Grind Radio
+#EXTINF:-1 station-id="awb_e3ed2b73764fe9078d9d" stream-id="aws_e8c3989d6dc9358d05cf" codec="mp3" bitrate="0",The Grind Radio
 https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3
 #EXTINF:-1 station-id="awb_60ac93c92ec57f020c21" stream-id="aws_36ccb48f18cbe73fe8e7" codec="unknown" bitrate="0",The Voice of the Cape
 https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg

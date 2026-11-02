@@ -186,7 +186,7 @@ http://stream.goldfm.be:1061/station.mp3
 #EXTINF:-1 station-id="awb_5ccf1dfae3535e8b6879" stream-id="aws_f76856014e704ade2a65" codec="mp3" bitrate="256",GOLD FM
 https://onair.goldfm.be:8000/stream
 #EXTINF:-1 station-id="awb_2955e490d44739ed1775" stream-id="aws_0e59054b67d54ded504a" codec="mp3" bitrate="128",Goldies Radio
-http://goldiesradio.radioca.st:8565/stream
+http://eu1.reliastream.com:7064/stream
 #EXTINF:-1 station-id="awb_845daa98f297a65b8036" stream-id="aws_29b442d2228bab6ada72" codec="mp3" bitrate="128",Gothville radio
 http://streams.radio.co/s62583474c/listen
 #EXTINF:-1 station-id="awb_188ec05ba7334151c132" stream-id="aws_3908c4dfe20346da0d83" codec="aac+" bitrate="128",Grand Prix Radio
@@ -227,7 +227,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
 https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3
 #EXTINF:-1 station-id="awb_216d2aa62b344e9c53a9" stream-id="aws_a34db7e89b6bfff3668d" codec="mp3" bitrate="128",Joe 80's & 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3
-#EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_c51acb69584f2e8049a0" codec="aac+" bitrate="95",Joe 80s & 90s
+#EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_c51acb69584f2e8049a0" codec="aac+" bitrate="96",Joe 80s & 90s
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_c538263004cc2364cf6f" stream-id="aws_af3dd7fcef5c48052865" codec="mp3" bitrate="128",JOE 80s & 90s
 https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3
@@ -419,7 +419,7 @@ http://radios.rtbf.be/pure-128.mp3
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
 #EXTINF:-1 station-id="awb_5a78c1b2000a5bfd2da4" stream-id="aws_c9fbb1a85ded7858baba" codec="mp3" bitrate="128",Q-Allstars
 https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3
-#EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_23e0b231b2fff6634830" codec="aac+" bitrate="95",Q-Foute Radio
+#EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_23e0b231b2fff6634830" codec="aac+" bitrate="96",Q-Foute Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_410ea4c2981409342698" stream-id="aws_b8fc621f88385d0d86df" codec="mp3" bitrate="128",Q-Foute Radio
 https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3
@@ -798,7 +798,7 @@ https://radios.rtbf.be/wr-m3-jazz-128.mp3
 #EXTINF:-1 station-id="awb_efa9bd774539d013d740" stream-id="aws_ef1a0bccfafba4710da2" codec="mp3" bitrate="192",scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1 station-id="awb_9cae38d685db81f97c0f" stream-id="aws_e4dac8bc16356d8dd7a8" codec="mp3" bitrate="192",Slow Radio
-http://stream3.slowradio.com/
+http://stream1.slowradio.com/
 #EXTINF:-1 station-id="awb_f2ea5e6a1c56c379399f" stream-id="aws_481bab846854d03cd343" codec="mp3" bitrate="192",Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1 station-id="awb_b0e2ec717a1753411030" stream-id="aws_463a246810652f618fe2" codec="mp3" bitrate="192",Sport FM Hoeselt
@@ -1023,11 +1023,11 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 #EXTINF:-1 station-id="awb_e2635908b154dd85b4ec" stream-id="aws_fadeefc7a0cdc1d71b3b" codec="aac+" bitrate="96",Willy
 https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
-#EXTINF:-1 station-id="awb_48c603ea044e9559d929" stream-id="aws_67fabf10a6dbd08f95d6" codec="aac+" bitrate="96",Willy - aac
+#EXTINF:-1 station-id="awb_48c603ea044e9559d929" stream-id="aws_67fabf10a6dbd08f95d6" codec="aac+" bitrate="95",Willy - aac
 https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
 #EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_f8e5f869fb9b2ffd218a" codec="aac+" bitrate="95",Willy Class X
 https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
-#EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_13e09d4594d0468b6a34" codec="aac+" bitrate="96",Willy Class X
+#EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_13e09d4594d0468b6a34" codec="aac+" bitrate="95",Willy Class X
 https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
 #EXTINF:-1 station-id="awb_ed5377b472fb39d7424e" stream-id="aws_b1872a9c12759a0a612d" codec="mp3" bitrate="128",Willy Classix
 https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3

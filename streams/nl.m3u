@@ -93,7 +93,7 @@ http://server-06.stream-server.nl:8600/
 https://stream.accentfm.nl/
 #EXTINF:-1 station-id="awb_3f39da14b18fbd1c1c44" stream-id="aws_7743f1c7655dea106691" codec="mp3" bitrate="320",AFM Alblasserdam
 https://mscp3.live-streams.nl:8042/live
-#EXTINF:-1 station-id="awb_0bef81980fb709d1dede" stream-id="aws_8823dc104fa84b163966" codec="mp3" bitrate="128",AFM Alblasserdam Low
+#EXTINF:-1 station-id="awb_3f39da14b18fbd1c1c44" stream-id="aws_8823dc104fa84b163966" codec="mp3" bitrate="320",AFM Alblasserdam
 https://mscp3.live-streams.nl:8042/low
 #EXTINF:-1 station-id="awb_c9c03332069a2c43624c" stream-id="aws_7204831c8752da77b508" codec="mp3" bitrate="320",After Hours – Melodic House & DnB
 https://r.bgp.rodeo/listen/after_hours/radio.mp3
@@ -238,9 +238,9 @@ http://178.19.116.3:8016/stream
 #EXTINF:-1 station-id="awb_d388e24ccf20b6177235" stream-id="aws_87fc8cb75c42ee1e23e4" codec="mp3" bitrate="128",Candelight
 https://22323.live.streamtheworld.com/CANDLELIGHT_SC
 #EXTINF:-1 station-id="awb_d388e24ccf20b6177235" stream-id="aws_fc4d57a5e442607ffed0" codec="mp3" bitrate="128",Candelight
-https://22673.live.streamtheworld.com/CANDLELIGHT_SC
+https://28983.live.streamtheworld.com/CANDLELIGHT_SC
 #EXTINF:-1 station-id="awb_c86b6a83297db0a46835" stream-id="aws_3714d788d4449ee63148" codec="mp3" bitrate="128",Candlelight
-https://25243.live.streamtheworld.com/CANDLELIGHT_SC
+https://22713.live.streamtheworld.com/CANDLELIGHT_SC
 #EXTINF:-1 station-id="awb_207e70f42ff64e4e26d4" stream-id="aws_8e91139bf2a9ee92b2fa" codec="mp3" bitrate="128",Candlelight Radio
 https://candlelight.nl/candlelight.mp3
 #EXTINF:-1 station-id="awb_792e4802bff07a5e7e90" stream-id="aws_da78280412ed2da51974" codec="mp3" bitrate="192",Capital Radio Netherlands
@@ -303,7 +303,7 @@ http://onair.coastlinefm.nl/live
 https://server-67.stream-server.nl:8496/stream
 #EXTINF:-1 station-id="awb_77ce70a5076a2b042f51" stream-id="aws_7f0a4e3a14da7fb795f2" codec="mp3" bitrate="192",Colinblackburn1980
 http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
-#EXTINF:-1 station-id="awb_6d66f14f2067c97bec61" stream-id="aws_d1726a4bf12835273e7a" codec="mp3" bitrate="256",Columbia AM 1395
+#EXTINF:-1 station-id="awb_6d66f14f2067c97bec61" stream-id="aws_d1726a4bf12835273e7a" codec="mp3" bitrate="192",Columbia AM 1395
 https://caster04.streampakket.com/proxy/8031/stream
 #EXTINF:-1 station-id="awb_1893626fd3bc80cf6fa3" stream-id="aws_483ddf61ee362eb6800e" codec="mp3" bitrate="192",Concertgebouworkest Webradio
 https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c
@@ -585,9 +585,9 @@ https://stream.gigantfm.nl/gigantfm
 https://playerservices.streamtheworld.com/api/livestream-redirect/GIRLPOWER.mp3
 #EXTINF:-1 station-id="awb_94220811020aeb46340f" stream-id="aws_17603ad473a5807d7fd2" codec="aac+" bitrate="320",GL8 Media
 http://stream.stream.delivery/gl8media
-#EXTINF:-1 station-id="awb_a9353dde4be2059741c3" stream-id="aws_cbd0e48d69844d82fbd9" codec="mp3" bitrate="320",GlassRock
+#EXTINF:-1 station-id="awb_a9353dde4be2059741c3" stream-id="aws_cbd0e48d69844d82fbd9" codec="unknown" bitrate="0",GlassRock
 http://mscp3.live-streams.nl:8090/stream
-#EXTINF:-1 station-id="awb_a9353dde4be2059741c3" stream-id="aws_a46c0f3d85188253d71e" codec="mp3" bitrate="320",GlassRock
+#EXTINF:-1 station-id="awb_a9353dde4be2059741c3" stream-id="aws_a46c0f3d85188253d71e" codec="unknown" bitrate="0",GlassRock
 https://mscp3.live-streams.nl:8092/stream
 #EXTINF:-1 station-id="awb_ddcd4b72316a8c08d03f" stream-id="aws_75f9008f373f8dc9b8b8" codec="mp3" bitrate="192",Glind Radio
 https://live.glindradio.nl/
@@ -711,26 +711,18 @@ http://server-28.stream-server.nl:8840/stream
 http://mediaserv30.live-streams.nl:8088/stream
 #EXTINF:-1 station-id="awb_fae8df8e8f1bed013f33" stream-id="aws_b7c734f14b5ba8baaa3f" codec="mp3" bitrate="320",Hi On Line Jazz Radio
 http://mediaserv38.live-streams.nl:8006/
-#EXTINF:-1 station-id="awb_b8d5f0aaaa3271fdbd5a" stream-id="aws_4bc75795667484f97abf" codec="mp3" bitrate="320",Hi On Line Latin Radio
-http://mediaserv33.live-streams.nl:8034/
 #EXTINF:-1 station-id="awb_6760247efd7648356ed5" stream-id="aws_e583ca1b4b0c72d1fc47" codec="mp3" bitrate="320",Hi On Line Lounge Radio
 http://mediaserv33.live-streams.nl:8036/live
 #EXTINF:-1 station-id="awb_3d97f79e487c19b252b6" stream-id="aws_9c280f6dcaed9cedc0b4" codec="mp3" bitrate="320",Hi On Line Radio - Classical
 http://mediaserv30.live-streams.nl:8088/live
 #EXTINF:-1 station-id="awb_3d97f79e487c19b252b6" stream-id="aws_a9ebcf17cc2e3049999f" codec="mp3" bitrate="320",Hi On Line Radio - Classical
 http://mediaserv30.live-streams.nl:8088/stream
-#EXTINF:-1 station-id="awb_f982969a3f3e8a10187b" stream-id="aws_4b73417f6f1088dd329d" codec="mp3" bitrate="320",Hi On Line Radio - France
-http://mediaserv21.live-streams.nl:8000/live
 #EXTINF:-1 station-id="awb_4e0005eac8f05291a102" stream-id="aws_8a8bcf92c1e8246cba55" codec="mp3" bitrate="320",Hi On Line Radio - Gold
 http://mediaserv30.live-streams.nl:8000/stream
 #EXTINF:-1 station-id="awb_6d99e8d444056bcb7721" stream-id="aws_061c5e7834b57dbfc72d" codec="mp3" bitrate="320",Hi On Line Radio - Jazz
 http://mediaserv38.live-streams.nl:8006/live
-#EXTINF:-1 station-id="awb_691d967cbbef655f2c0c" stream-id="aws_fb952ac2e2f72b330ea2" codec="mp3" bitrate="320",Hi On Line Radio - Latin
-http://mediaserv33.live-streams.nl:8034/live
 #EXTINF:-1 station-id="awb_579685414a5d37dbb6e9" stream-id="aws_2bb232ac2c7317399db2" codec="mp3" bitrate="320",Hi On Line Radio - Lounge
 http://mediaserv33.live-streams.nl:8036/stream
-#EXTINF:-1 station-id="awb_053648d350c89b0d7323" stream-id="aws_52683c47fa007c647622" codec="mp3" bitrate="320",Hi On Line World Radio
-http://mediaserv38.live-streams.nl:8027/live
 #EXTINF:-1 station-id="awb_d8081f90973ade2f2e2d" stream-id="aws_114f6188711edfb4b38f" codec="mp3" bitrate="128",HiNRG-24/7 Dance Classics
 http://185.2.175.194:8000/live
 #EXTINF:-1 station-id="awb_8b023f529d7433c48671" stream-id="aws_fe9a634e9a3cffb8d34b" codec="mp3" bitrate="128",Hit Radio Loz
@@ -913,7 +905,7 @@ https://stream.jazzradiobymaestro.com/swingin
 https://stream.jeyradio.nl/JEY
 #EXTINF:-1 station-id="awb_2920bbda86697c12bde1" stream-id="aws_e39741b03e588ac27bce" codec="aac" bitrate="192",Jinglegek
 https://server-26.stream-server.nl:8632/stream
-#EXTINF:-1 station-id="awb_11c1014b5d622ccaef3d" stream-id="aws_207bfad6955f021ea43f" codec="aac+" bitrate="95",Joe
+#EXTINF:-1 station-id="awb_11c1014b5d622ccaef3d" stream-id="aws_207bfad6955f021ea43f" codec="aac+" bitrate="96",Joe
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac?aw_0_1st.skey=1728963448&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_54e2f23ac370cd954ba4" stream-id="aws_a3f7a7c6ef5154daded5" codec="mp3" bitrate="128",Joe
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect
@@ -923,7 +915,7 @@ https://stream.joe.nl/joe/aachigh
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
 #EXTINF:-1 station-id="awb_95c2122bebcb723e5d1c" stream-id="aws_3888fa9ea190382a6fd6" codec="aac+" bitrate="96",Joe 70s & 80s
 https://stream.joe.nl/joe/aachigh
-#EXTINF:-1 station-id="awb_0e35a74be3ee44cc256e" stream-id="aws_6052577cb4d7859b643e" codec="aac+" bitrate="95",Joe 70s and 80s
+#EXTINF:-1 station-id="awb_0e35a74be3ee44cc256e" stream-id="aws_6052577cb4d7859b643e" codec="aac+" bitrate="96",Joe 70s and 80s
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
 #EXTINF:-1 station-id="awb_5fb3dfd02c1416fff0a8" stream-id="aws_0c97da71c20ec037a00b" codec="mp3" bitrate="128",JOE mp3
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
@@ -943,8 +935,8 @@ https://stream.joyradio.nl/joyradio
 https://chat.jungletrain.net/streamtest/;stream/1
 #EXTINF:-1 station-id="awb_10e884f8880a2c03fdae" stream-id="aws_8610ce24e4d4761ef836" codec="mp3" bitrate="256",jungletrain.net - 24/7 drum and bass m3u
 http://stream1.jungletrain.net:8000/
-#EXTINF:-1 station-id="awb_99986c2cfc0425e6c4c6" stream-id="aws_19411cbee25912eb4f97" codec="mp3" bitrate="192",K-Rock Europe
-https://tv.radiohosting.online:8982/stream
+#EXTINF:-1 station-id="awb_99986c2cfc0425e6c4c6" stream-id="aws_19411cbee25912eb4f97" codec="aac+" bitrate="192",K-Rock Europe
+https://s12.myradiostream.com/7958/listen.mp3
 #EXTINF:-1 station-id="awb_a62e7a6ac9fb1301619d" stream-id="aws_4b0ac45b9663f231b2df" codec="mp3" bitrate="320",Kaas FM
 https://kaas-fm.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_bfc6a0ac9ecf61a79161" stream-id="aws_e24a4dcd2c8b68a529b7" codec="aac" bitrate="80",KBC Radio
@@ -968,7 +960,7 @@ http://mediaserv30.live-streams.nl:8013/low
 #EXTINF:-1 station-id="awb_195594cae973cb5a07d7" stream-id="aws_038454e621c7d72a3c5d" codec="aac" bitrate="96",KilRock
 http://mediaserv30.live-streams.nl:8013/medium
 #EXTINF:-1 station-id="awb_d8dbc29b81289b9d9df3" stream-id="aws_37e3beb1b8f6e928da17" codec="aac+" bitrate="96",KINK
-https://22603.live.streamtheworld.com/KINKAAC2_SC
+https://22343.live.streamtheworld.com/KINKAAC2_SC
 #EXTINF:-1 station-id="awb_d8dbc29b81289b9d9df3" stream-id="aws_07d688f547aedffb42ed" codec="mp3" bitrate="192",KINK
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
 #EXTINF:-1 station-id="awb_d8dbc29b81289b9d9df3" stream-id="aws_23539f07b4d202bebc38" codec="aac+" bitrate="96",KINK
@@ -978,15 +970,13 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
 #EXTINF:-1 station-id="awb_c43262caa4c177c3e3fb" stream-id="aws_843808ea2e161ab74d29" codec="aac" bitrate="128",KINK 128k aac
 https://22533.live.streamtheworld.com/KINKAAC_SC
 #EXTINF:-1 station-id="awb_c43262caa4c177c3e3fb" stream-id="aws_117e4eb070d9ac8f1ac5" codec="aac+" bitrate="128",KINK 128k aac
-https://25223.live.streamtheworld.com/KINKAAC_SC
+https://25253.live.streamtheworld.com/KINKAAC_SC
 #EXTINF:-1 station-id="awb_5e672717ffdc7a8298a9" stream-id="aws_a84a94d3884d18cdeb53" codec="mp3" bitrate="192",Kink 192k mp3
 http://22343.live.streamtheworld.com:3690/KINK_SC
 #EXTINF:-1 station-id="awb_3b3fcb845eea9247fada" stream-id="aws_54d312f74c9581923ed0" codec="aac" bitrate="96",KINK 64kbps
 https://22553.live.streamtheworld.com/KINKAAC2_SC
 #EXTINF:-1 station-id="awb_3b3fcb845eea9247fada" stream-id="aws_199ac0997497e471245b" codec="aac+" bitrate="96",KINK 64kbps
 https://25243.live.streamtheworld.com/KINKAAC2_SC
-#EXTINF:-1 station-id="awb_34425cff27b5dd217e78" stream-id="aws_283d4adfbdfd64637a92" codec="mp3" bitrate="192",Kink 90's
-https://22343.live.streamtheworld.com/KINK_90S_SC
 #EXTINF:-1 station-id="awb_34425cff27b5dd217e78" stream-id="aws_2492a27125f2c7f2f726" codec="mp3" bitrate="192",Kink 90's
 https://25233.live.streamtheworld.com/KINK_90S_SC
 #EXTINF:-1 station-id="awb_c682151263d5176cd22b" stream-id="aws_1745af0ce2ce0a60213e" codec="mp3" bitrate="192",KINK CLASSICS
@@ -996,7 +986,7 @@ https://22333.live.streamtheworld.com/KINK_DISTORTION_SC
 #EXTINF:-1 station-id="awb_9a5805510d3da44559f9" stream-id="aws_4d795b8e66023e321dde" codec="mp3" bitrate="192",KINK Distortion
 https://22603.live.streamtheworld.com/KINK_DISTORTION_SC
 #EXTINF:-1 station-id="awb_dc15e8b1dc074706fae0" stream-id="aws_01518f2c56bca976b4c6" codec="aac+" bitrate="128",KINK DISTORTION
-https://22723.live.streamtheworld.com/KINK_DISTORTIONAAC_SC
+https://29033.live.streamtheworld.com/KINK_DISTORTIONAAC_SC
 #EXTINF:-1 station-id="awb_a27f2d7de71f150f9f75" stream-id="aws_cd1e0acbb2a4491486a3" codec="aac+" bitrate="128",KINK DNA
 http://22663.live.streamtheworld.com/KINK_DNAAAC_SC
 #EXTINF:-1 station-id="awb_ab7204845bbf0c2c888b" stream-id="aws_52545b5dbd2992b7f6ea" codec="mp3" bitrate="192",KINK80s
@@ -1113,6 +1103,8 @@ https://a7.asurahosting.com:8050/radio.mp3
 https://a7.asurahosting.com/listen/melodeath.ai_radio_station/radio.mp3
 #EXTINF:-1 station-id="awb_c5b80789154fec1791f4" stream-id="aws_5561dffe6ccca60f03cf" codec="mp3" bitrate="0",MFM Brabant
 https://nlpo.stream.vip/brabant/mp3-192/nlpo.stream.vip/
+#EXTINF:-1 station-id="awb_c991c98715727e979399" stream-id="aws_62d9170693e3072559fc" codec="mp3" bitrate="320",michael zevenhuzien
+https://stream.rschosting.nl:8004/stream
 #EXTINF:-1 station-id="awb_428522bb5330420d8fd7" stream-id="aws_ba036611531fbfaf0ff7" codec="mp3" bitrate="128",Michel Grevink
 http://stream.twentestad.eu/twentestad.mp3
 #EXTINF:-1 station-id="awb_428522bb5330420d8fd7" stream-id="aws_067207b8770ff802d9f9" codec="mp3" bitrate="128",Michel Grevink
@@ -1539,7 +1531,7 @@ http://progressieverock.nl/luisteren
 https://progressieverock.nl/flac
 #EXTINF:-1 station-id="awb_c84d5e568dd148882d01" stream-id="aws_19d15889413bf7320306" codec="mp3" bitrate="320",Progressieve Rock
 https://progressieverock.nl/luisteren
-#EXTINF:-1 station-id="awb_207b336bd057ef0c67ec" stream-id="aws_dbe54e3761271957ad2b" codec="mp3" bitrate="128",Pure Classix Radio
+#EXTINF:-1 station-id="awb_207b336bd057ef0c67ec" stream-id="aws_dbe54e3761271957ad2b" codec="mp3" bitrate="320",Pure Classix Radio
 http://mscp4.live-streams.nl:8140/live.mp3
 #EXTINF:-1 station-id="awb_f22fbac54a949cdc5976" stream-id="aws_59b6fd8bc5f1c5c79a86" codec="mp3" bitrate="0",Pure Lounge Radio
 https://mscp4.live-streams.nl:8142/lounge.mp3
@@ -1561,7 +1553,7 @@ http://stream.zeno.fm/wfafmjdyhrrvv
 http://stream.zeno.fm/nqtl8hjdqzxvv
 #EXTINF:-1 station-id="awb_2565c30303c390c683e0" stream-id="aws_d07dfb82644c8b305e3a" codec="aac+" bitrate="96",Q music Nederland
 https://stream.qmusic.nl/qmusic/aachigh
-#EXTINF:-1 station-id="awb_58c9fb3eff47e05a7c4d" stream-id="aws_988e74e92d9871d7adaa" codec="aac+" bitrate="96",Q Musik Top40 NL
+#EXTINF:-1 station-id="awb_58c9fb3eff47e05a7c4d" stream-id="aws_988e74e92d9871d7adaa" codec="aac+" bitrate="95",Q Musik Top40 NL
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac
 #EXTINF:-1 station-id="awb_d090651de79ea794b7c5" stream-id="aws_e0577bc52276f54619de" codec="aac+" bitrate="96",Q-dance Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
@@ -1577,13 +1569,13 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3
 #EXTINF:-1 station-id="awb_2953a151fe18bfc80ab3" stream-id="aws_80d8a53683dde410625f" codec="aac+" bitrate="96",Qmusic
 https://stream.qmusic.nl/qmusic/aac
-#EXTINF:-1 station-id="awb_d0bfb4f7ded01497335c" stream-id="aws_a68d1b04112d2231a9d9" codec="aac+" bitrate="96",Qmusic 10s
+#EXTINF:-1 station-id="awb_d0bfb4f7ded01497335c" stream-id="aws_a68d1b04112d2231a9d9" codec="aac+" bitrate="95",Qmusic 10s
 https://stream.qmusic.nl/10s/aac
 #EXTINF:-1 station-id="awb_65c90fe18ef2fc1f1073" stream-id="aws_2cef12de76491a459079" codec="aac+" bitrate="96",Qmusic 90's & 00's (64k aac)
 https://stream.qmusic.nl/90s-00s/aaclow
 #EXTINF:-1 station-id="awb_1e6085d128c296633d47" stream-id="aws_535e316144561c63cad9" codec="aac+" bitrate="95",QMUSIC 90's & 00's (96k aac)
 https://stream.qmusic.nl/90s-00s/aachigh
-#EXTINF:-1 station-id="awb_a61955c3e50d43ec2117" stream-id="aws_eab6db3b36b43f9183db" codec="aac+" bitrate="95",Qmusic 90s & 00s
+#EXTINF:-1 station-id="awb_a61955c3e50d43ec2117" stream-id="aws_eab6db3b36b43f9183db" codec="aac+" bitrate="96",Qmusic 90s & 00s
 https://stream.qmusic.nl/90s-00s/aac
 #EXTINF:-1 station-id="awb_633da706d95461c92611" stream-id="aws_ead060e101d0b24636a5" codec="aac+" bitrate="96",Qmusic Foute Uur
 https://stream.qmusic.nl/fouteuur/aac
@@ -1601,7 +1593,7 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
 #EXTINF:-1 station-id="awb_e86a9dcfe7142c92d51c" stream-id="aws_64a71587389493edf25a" codec="aac+" bitrate="96",Qmusic Non-stop
 https://stream.qmusic.nl/nonstop/aac
-#EXTINF:-1 station-id="awb_a8260c5552519ca45805" stream-id="aws_b3a083516c0ffa5e2e16" codec="aac+" bitrate="95",Qmusic Summer
+#EXTINF:-1 station-id="awb_a8260c5552519ca45805" stream-id="aws_b3a083516c0ffa5e2e16" codec="aac+" bitrate="96",Qmusic Summer
 https://stream.qmusic.nl/thema/aac
 #EXTINF:-1 station-id="awb_a8260c5552519ca45805" stream-id="aws_0191e42c9767195ecc7f" codec="mp3" bitrate="128",Qmusic Summer
 https://stream.qmusic.nl/thema/mp3
@@ -1674,7 +1666,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01aac.m3u
 #EXTINF:-1 station-id="awb_8d679544ea3e75218b52" stream-id="aws_43a56b688769a00f0f43" codec="mp3" bitrate="128",Radio 538 Hitzone
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
 #EXTINF:-1 station-id="awb_c3a630f1e33082332b3e" stream-id="aws_6e9ccfd3862b29514bbe" codec="mp3" bitrate="128",Radio 538 Ibiza
-http://29093.live.streamtheworld.com:3690/TLPSTR19_SC
+http://22613.live.streamtheworld.com/TLPSTR19_SC
 #EXTINF:-1 station-id="awb_bfa821274a6a77d47a8a" stream-id="aws_51b92b66008605038174" codec="mp3" bitrate="128",Radio 538 Nonstop
 http://20133.live.streamtheworld.com/TLPSTR09_SC
 #EXTINF:-1 station-id="awb_bfa821274a6a77d47a8a" stream-id="aws_05ac4a895185661f0b3b" codec="mp3" bitrate="128",Radio 538 Nonstop
@@ -1719,7 +1711,7 @@ https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
 https://radio-bildtstar.nl/luisteren
 #EXTINF:-1 station-id="awb_6fd1f3a044f1660d1878" stream-id="aws_0aec67a545aa092c7d6d" codec="mp3" bitrate="224",Radio Bildtstar
 https://radio-bildtstar.nl/luisteren
-#EXTINF:-1 station-id="awb_7f0342588e8e0511554c" stream-id="aws_0b7acae966ecb8158e7c" codec="mp3" bitrate="80",Radio Bloemendaal
+#EXTINF:-1 station-id="awb_7f0342588e8e0511554c" stream-id="aws_0b7acae966ecb8158e7c" codec="mp3" bitrate="96",Radio Bloemendaal
 http://audio.radiobloemendaal.nl/mp3
 #EXTINF:-1 station-id="awb_ad6d552fb09ec6c037b1" stream-id="aws_233230c1dec4adaeff3c" codec="mp3" bitrate="192",Radio BNT
 https://stream.radiobnt.nl/radiobnt.mp3
@@ -1761,7 +1753,7 @@ https://stream.radiocontinu.nl/radiocontinu
 http://radio.dyne.org/radiocybernet.mp3?_=1
 #EXTINF:-1 station-id="awb_c4e61a3143642daeddb8" stream-id="aws_c47dca158d137834bbc8" codec="mp3" bitrate="192",Radio de Branding
 https://server-28.stream-server.nl:8814/stream
-#EXTINF:-1 station-id="awb_665b049bc1431f3a04ed" stream-id="aws_d8d37e7fb58d76c3ac12" codec="mp3" bitrate="192",Radio De Musketiers
+#EXTINF:-1 station-id="awb_665b049bc1431f3a04ed" stream-id="aws_d8d37e7fb58d76c3ac12" codec="mp3" bitrate="128",Radio De Musketiers
 https://loa.beheerstream.nl:8022/stream
 #EXTINF:-1 station-id="awb_cada19b74b667e23eb2a" stream-id="aws_44a1a150a994c65f28ba" codec="mp3" bitrate="192",Radio De Stemmingmaker
 https://server-28.stream-server.nl:8894/stream
@@ -1791,8 +1783,6 @@ http://server-28.stream-server.nl:8888/stream
 http://radioexclusiefpijnacker.nl:8000/mp3
 #EXTINF:-1 station-id="awb_24eda983d14d7513fdf0" stream-id="aws_7a265a32bdae77365d08" codec="mp3" bitrate="192",Radio Experience 1008AM
 https://totaal-streaming.de:8030/radio2
-#EXTINF:-1 station-id="awb_ac1cc78aad3e13307497" stream-id="aws_089adf0746845f7be32a" codec="mp3" bitrate="320",Radio eXtra
-http://91.227.77.124/extra
 #EXTINF:-1 station-id="awb_5a225077a59193c6ee7c" stream-id="aws_cfd0707b7fea3d638160" codec="mp3" bitrate="192",Radio Fantasy Rotterdam
 http://213.202.241.199:8024/stream
 #EXTINF:-1 station-id="awb_e6d1398be0f5b3b6763a" stream-id="aws_2e60376a70da831be4ea" codec="unknown" bitrate="0",Radio Free Amsterdam
@@ -2007,13 +1997,11 @@ http://193.242.108.93:8060/stream
 http://whsh4u-server.com:11100/transcoder2
 #EXTINF:-1 station-id="awb_2db22f0a56ea5b9b3d1b" stream-id="aws_339d57ba9ab3f6072579" codec="mp3" bitrate="192",Radio Weststellingwerf Centraal
 https://mcp-2.mm-stream.nl:8017/stream
-#EXTINF:-1 station-id="awb_66b15fadd4877d74cb1e" stream-id="aws_2a1389436414b89ac6ce" codec="mp3" bitrate="192",Radio Wopke
-https://stream.wopke.net/stream
 #EXTINF:-1 station-id="awb_79516defd4813c573854" stream-id="aws_40aad4929f5ab980ae21" codec="mp3" bitrate="320",Radio WORM
 https://origin.streamnerd.nl/worm/worm/icecast.audio
 #EXTINF:-1 station-id="awb_567205a9a0fde2e2123a" stream-id="aws_e5d07b4f977b3ad9e2ee" codec="mp3" bitrate="0",Radio ZO-NWS
 https://nlpo.stream.vip/zonws/mp3-192/nlpo/
-#EXTINF:-1 station-id="awb_adfbf889481073bdcaca" stream-id="aws_a790cca2f41bb3373185" codec="mp3" bitrate="160",Radio Zuyd
+#EXTINF:-1 station-id="awb_adfbf889481073bdcaca" stream-id="aws_a790cca2f41bb3373185" codec="mp3" bitrate="192",Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1 station-id="awb_8027e3ea313a426c32f7" stream-id="aws_4cae54ee705c6a69a1d2" codec="mp3" bitrate="320",Radio-Goldenwave
 http://mscp3.live-streams.nl:8070/radio
@@ -2069,6 +2057,8 @@ https://58c04fb1d143f.streamlock.net/rararadio/rararadio/chunklist_w697961126.m3
 https://streaming.radio.co/s1226d636a/listen
 #EXTINF:-1 station-id="awb_6e2c84c96afec0183c58" stream-id="aws_d670a361ec3bb1e7024e" codec="aac+" bitrate="128",RaZO Amsterdam
 https://s42.myradiostream.com/33512/listen.mp3
+#EXTINF:-1 station-id="awb_487ef7ecf5a9685ca27d" stream-id="aws_6174ee676763f61eb823" codec="mp3" bitrate="192",Real Hardstyle Radio
+http://server-23.stream-server.nl:8326/
 #EXTINF:-1 station-id="awb_487ef7ecf5a9685ca27d" stream-id="aws_2ef05ce75051a945be1d" codec="mp3" bitrate="192",Real Hardstyle Radio
 https://stream.realhardstyle.nl/
 #EXTINF:-1 station-id="awb_f68732d41bdb5f028fa2" stream-id="aws_98e2c089a87c792c508a" codec="mp3" bitrate="192",RealDanceRadio
@@ -2115,7 +2105,7 @@ http://77.165.92.45:8000/audio.mp3
 https://mscp3.live-streams.nl:8022/radio
 #EXTINF:-1 station-id="awb_92075a733d9340b1903f" stream-id="aws_0601ffe1f76de13b257e" codec="mp3" bitrate="0",Ridder radio
 http://mp3.ridderradio.com/
-#EXTINF:-1 station-id="awb_4a09ed0fd4f428ef561b" stream-id="aws_f87c73bd5a57df765343" codec="mp3" bitrate="192",Rijnstreek FM Wageningen
+#EXTINF:-1 station-id="awb_4a09ed0fd4f428ef561b" stream-id="aws_f87c73bd5a57df765343" codec="mp3" bitrate="320",Rijnstreek FM Wageningen
 https://stream.rtvrijnstreek.nl:1973/rtvrstreek
 #EXTINF:-1 station-id="awb_c31f671dddca5306a7bc" stream-id="aws_7ff5c114fb726e0f6f20" codec="ogg" bitrate="2000",Riverside Radio
 https://stream.and-stuff.nl:8443/riverside
@@ -2131,7 +2121,7 @@ https://server-28.stream-server.nl:8802/stream
 http://stream.stream.delivery/rn7
 #EXTINF:-1 station-id="awb_ec63e6d240884fd98eff" stream-id="aws_4dc78192e70c7efdcbf6" codec="mp3" bitrate="320",RN7nl
 http://stream.stream.delivery/rn7nl
-#EXTINF:-1 station-id="awb_5f1c724c7510a107faa5" stream-id="aws_878c70ce1ea2cffa61db" codec="mp3" bitrate="320",Rob Stenders stream
+#EXTINF:-1 station-id="awb_5f1c724c7510a107faa5" stream-id="aws_878c70ce1ea2cffa61db" codec="mp3" bitrate="192",Rob Stenders stream
 http://streams.robstenders.nl:8063/bonanza_mp3
 #EXTINF:-1 station-id="awb_e4d3f648e5c40d79620c" stream-id="aws_c4e3b7322d5dbc5b5890" codec="mp3" bitrate="192",Robintimo Radio
 https://stream.robintimo.nl:8000/radio.mp3
@@ -2183,7 +2173,7 @@ https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3
 http://streams.rtvoost.nl/audio/oost/mp3
 #EXTINF:-1 station-id="awb_c31d87de95ec5c82f9d8" stream-id="aws_514d889a79efade00a9d" codec="mp3" bitrate="192",RTV Parkstad
 https://stream.rtvparkstad.nl/rtvparkstad.mp3
-#EXTINF:-1 station-id="awb_97f3850536bf2972edde" stream-id="aws_9d3deadfb27745eb2d23" codec="mp3" bitrate="192",RTV Rijnstreek
+#EXTINF:-1 station-id="awb_97f3850536bf2972edde" stream-id="aws_9d3deadfb27745eb2d23" codec="mp3" bitrate="320",RTV Rijnstreek
 https://stream.rtvrijnstreek.nl:1973/rtvrstreek
 #EXTINF:-1 station-id="awb_af983436fc099059b5b3" stream-id="aws_360214283b8740a63d97" codec="mp3" bitrate="0",RTV Seaport
 https://nlpo.stream.vip/seaport/mp3-192/nlpo.stream.vip/
@@ -2252,9 +2242,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
 #EXTINF:-1 station-id="awb_2b594cee3b3af3a64f45" stream-id="aws_2fcb220731f4d42071fa" codec="mp3" bitrate="128",Sky Radio Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
 #EXTINF:-1 station-id="awb_c6991415ee1fec99cc02" stream-id="aws_b8aa4978dae2b2db6b6f" codec="aac+" bitrate="64",Sky Radio Lounge
-http://22613.live.streamtheworld.com/SRGSTR07AAC_SC
+http://29033.live.streamtheworld.com:3690/SRGSTR07AAC_SC
 #EXTINF:-1 station-id="awb_19c2069baf0b5a329bdf" stream-id="aws_c0dcefbf6f3e0c9d2dc5" codec="aac+" bitrate="64",Sky Radio Lovesongs
-http://22613.live.streamtheworld.com/SRGSTR03AAC_SC
+http://22723.live.streamtheworld.com:3690/SRGSTR03AAC_SC
 #EXTINF:-1 station-id="awb_19c2069baf0b5a329bdf" stream-id="aws_d4dc456d406420047769" codec="aac+" bitrate="64",Sky Radio Lovesongs
 https://25233.live.streamtheworld.com/SRGSTR03AAC.aac?dist=onlineradiobox
 #EXTINF:-1 station-id="awb_67cd5f1c131c77f2a616" stream-id="aws_e784f357dbecff466265" codec="mp3" bitrate="128",Sky Radio Nederland
@@ -2317,10 +2307,10 @@ http://listen.soulradio.com/SOULRADIOAAC.aac
 http://soulradio02.live-streams.nl/live
 #EXTINF:-1 station-id="awb_480ea5dc37542df507af" stream-id="aws_e3d38242935e4e923c0f" codec="mp3" bitrate="128",Soul Show NL
 https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073
+#EXTINF:-1 station-id="awb_1fbaf0d5c85b4e4c121b" stream-id="aws_d116e40bcb0c5840aa01" codec="aac+" bitrate="96",SoulRadio
+https://22723.live.streamtheworld.com/SOULRADIOAAC_SC
 #EXTINF:-1 station-id="awb_1fbaf0d5c85b4e4c121b" stream-id="aws_51c206a2f467d5b4d566" codec="aac" bitrate="96",SoulRadio
 https://28983.live.streamtheworld.com/SOULRADIOAAC_SC
-#EXTINF:-1 station-id="awb_1fbaf0d5c85b4e4c121b" stream-id="aws_d116e40bcb0c5840aa01" codec="aac+" bitrate="96",SoulRadio
-https://29093.live.streamtheworld.com/SOULRADIOAAC_SC
 #EXTINF:-1 station-id="awb_1f72df36dacd48ed49a2" stream-id="aws_1e60978552e9cca179e5" codec="mp3" bitrate="128",Soulshow Radio
 https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3
 #EXTINF:-1 station-id="awb_f1e0036c3f01b37ea787" stream-id="aws_5853c686afd3867a1768" codec="mp3" bitrate="128",Soundtrack Radio Station
@@ -2395,6 +2385,8 @@ https://audiostreamen.nl/twente
 http://arabnights-prod.live-streams.nl:8020/live
 #EXTINF:-1 station-id="awb_882cad1a5a6dbd378207" stream-id="aws_fafead6ac37652450b7d" codec="mp3" bitrate="128",The Best House Rhythms from Amsterdam.
 http://radio.a1lounge.com/
+#EXTINF:-1 station-id="awb_8fec65525f1a259574e8" stream-id="aws_23ba10671abf35ecdb3e" codec="mp3" bitrate="0",the dutch eagles
+https://paneel.streambudget.nl/listen/thedutcheagles/stream
 #EXTINF:-1 station-id="awb_4fcb223af3dbc37e30ae" stream-id="aws_f7bfb2e25a1156a8866f" codec="mp3" bitrate="192",The Finest Amsterdam
 https://ex52.voordeligstreamen.nl/8206/stream
 #EXTINF:-1 station-id="awb_4fcb223af3dbc37e30ae" stream-id="aws_b959b444813182923a95" codec="aac" bitrate="256",The Finest Amsterdam

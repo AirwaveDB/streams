@@ -7,6 +7,8 @@ https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 https://stream.alandsradio.ax/stream.ogg
 #EXTINF:-1 station-id="awb_6e1e58fa7f973d5c1ecc" stream-id="aws_c65b480e290cf5948a74" codec="aac" bitrate="64",Basso
 https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 station-id="awb_9fb4b3dccf3379b98118" stream-id="aws_54913a271866799914b0" codec="aac" bitrate="128",Christmas FM Non-stop!
+https://xmas-node1.zip.wf/live.aac
 #EXTINF:-1 station-id="awb_fff3d9c0c82030e4784b" stream-id="aws_ea71d4f20fa98c89423a" codec="unknown" bitrate="0",Classic Hits
 https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1 station-id="awb_fd6df60dcd4ad431d4e9" stream-id="aws_a05eced79deab1ffa596" codec="mp3" bitrate="192",Doubleclap Radio
@@ -37,6 +39,8 @@ https://broadcast.idaidaida.net:8000/stream
 https://jarviradio.radiotaajuus.fi:9000/jr
 #EXTINF:-1 station-id="awb_5f9b7f984911fc0e4511" stream-id="aws_cfe248acdafccc4c0b22" codec="mp3" bitrate="128",Järviradio Puhe
 https://jarviradio.radiotaajuus.fi:9000/jrpuhe
+#EXTINF:-1 station-id="awb_8cbc193f56de10b4989c" stream-id="aws_54ad704068ae2eca4937" codec="aac" bitrate="137",Jouluradio
+https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8
 #EXTINF:-1 station-id="awb_757f325b925e09724287" stream-id="aws_c794139a054e4e50a201" codec="mp3" bitrate="0",Kaaos Radio 24h Chill
 http://stream.kaaosradio.fi:8000/chill
 #EXTINF:-1 station-id="awb_6fd814d87682693f0466" stream-id="aws_2c519c61bd8006d9f805" codec="mp3" bitrate="0",Kaaos Radio Chiptune
@@ -91,7 +95,7 @@ https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_l
 https://streaming.radioplay.fi/fi_auranaallot_128.mp3
 #EXTINF:-1 station-id="awb_b32b4d16acf3bf88e4f7" stream-id="aws_dea10e7fc438ed8292c5" codec="mp3" bitrate="256",Radio Boofi
 https://radio.iranian.fi/listen/vip/radio.mp3
-#EXTINF:-1 station-id="awb_08d6d1d7ef37f872aaca" stream-id="aws_d7f65edd539b8ceb5d66" codec="aac" bitrate="64",Radio City
+#EXTINF:-1 station-id="awb_08d6d1d7ef37f872aaca" stream-id="aws_d7f65edd539b8ceb5d66" codec="aac" bitrate="63",Radio City
 https://stream-redirect.bauermedia.fi/radiocity/radiocity_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_dc20f61b2104865627c2" stream-id="aws_39e1e36c66b60033f072" codec="mp3" bitrate="128",Radio City
 https://streaming.radioplay.fi/fi_radiocity_128.mp3
@@ -221,7 +225,7 @@ https://s3.myradiostream.com/4976/listen.mp3
 http://s3.myradiostream.com:4976/;
 #EXTINF:-1 station-id="awb_799c541e529db23d562e" stream-id="aws_31c4c964efad87dd37ba" codec="mp3" bitrate="128",SuomiRap
 https://streaming.radioplay.fi/fi_suomirap_128.mp3
-#EXTINF:-1 station-id="awb_7bb7226bd35aa46ed880" stream-id="aws_2a4cf0cc772df184ea89" codec="aac" bitrate="304",Sveriges Radio - SR Sisuradio
+#EXTINF:-1 station-id="awb_7bb7226bd35aa46ed880" stream-id="aws_2a4cf0cc772df184ea89" codec="aac" bitrate="288",Sveriges Radio - SR Sisuradio
 https://live1.sr.se/finska-aac-320
 #EXTINF:-1 station-id="awb_0c6fc4f3614c195b3bba" stream-id="aws_ad9f51dd76e3b914e9d4" codec="aac+" bitrate="64",Tampereen Kiakkoradio: Tappara
 https://st.downtime.fi/kiakko-tappara.aac
@@ -274,7 +278,7 @@ https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
 #EXTINF:-1 station-id="awb_ebf7568a41f41f03c748" stream-id="aws_1ebf7c952169fc8e69bd" codec="aac+" bitrate="0",Yle Radio1HIFI 256 Kb/s
 http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
 #EXTINF:-1 station-id="awb_b4bdd8027bd400f8205a" stream-id="aws_6e7f8f283372489b65cb" codec="aac+" bitrate="0",Yle Sámi Radio
-https://icecast.live.yle.fi/radio/YleSami/icecast.audio
+http://icecast.live.yle.fi/radio/YleSami/icecast.audio
 #EXTINF:-1 station-id="awb_b94de56ebf70737f9d42" stream-id="aws_7b15d263446ca0bd07b6" codec="aac+" bitrate="0",Yle Vega Åboland
 https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio
 #EXTINF:-1 station-id="awb_e6701288fb3edb548617" stream-id="aws_ddb37e260f9db7cc1ecf" codec="aac+" bitrate="0",Yle Vega Österbotten

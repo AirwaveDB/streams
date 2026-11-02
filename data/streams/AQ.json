@@ -35,7 +35,7 @@
       "2a9f73f8-6e73-4650-a1d4-50e7bf9b085f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T18:24:54Z"
+    "lastCheckedAt": "2026-11-01T18:27:51Z"
   },
   {
     "id": "aws_32147a8c9089f151b78d",
@@ -54,7 +54,7 @@
       "7adf48b1-93a1-44d7-a0a0-97863b1fd692"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T19:38:44Z"
+    "lastCheckedAt": "2026-11-01T19:40:53Z"
   },
   {
     "id": "aws_a86bb28e887652633267",
@@ -99,7 +99,7 @@
     "stationId": "awb_82cb97116bafb0936626",
     "name": "kbs",
     "country": "AQ",
-    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNzAzNjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=A01oz7Vhs43nDl08CUHcSJ6pA1lNDj8fPazBKW4XkFZxD7dM5BZaG08-POCrCIBEVbT86DylG1m6Kc-ClD5a-RzU382FBs548PwZyMY3rs~M4zYjEboxx4NwF0jw70bYRT8z3Secrm6TNPkRLiXF2rc4mLsrvZPjFbV6rvaOWkjdyr~zgnClkfsX3aeky4fEtkCvdUDE2mN4IL6SN7JBsk-OIr8OTzm3cBplYiRPE-3OdBqMprqqKlep1qoiZoMvLsOV0gwhC6ZmZlg9o0hR6tNu5PtXL63gd2-gyqNVV7PDMFfNlQf4JQZHhCTNslhFFAzcXT6n~7DYiAHy4u9Xtw__",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3MDQ3NTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=brrU~fF0QpHradtCWr7M7yBhemDR4JUbH9kPPaZmTBaXCM2yvVDm7CQj6xuElI5jDRRMFxDKJnXTtbIcm5lE-RCjMIPWfb6-tD1TGEgSK-dj2~I-qfSldiUKhvFxnsX5gdyRQx6G~iGwfjG~6G2aHLlqKlW-JtNHLr09q3FKc2QPD9h9eNwWgrM02OlQHqKK5CluY0KCDSKRZ5t9kPlwhg4f4fsRCmTjPYwjwa49J3hVcGDubDqFOYHiHgkBUm-uFf~niqQDdx6GFkZ1X6dUyl0h4vvpqnHDTlqNqotYhHTJHNLD0PMfrn92HWy5lVP6AcGcd1YLk0uqx~-XZfZBwQ__",
     "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
@@ -111,7 +111,7 @@
       "b46ca30c-c28d-4cb9-89a8-d207440d1b78"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T10:48:37Z"
+    "lastCheckedAt": "2026-11-01T11:36:45Z"
   },
   {
     "id": "aws_2191ebcf9eb33bb02fd2",
@@ -130,7 +130,7 @@
       "63d2c9ae-afe8-4694-b442-11d0dd833093"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:23:40Z"
+    "lastCheckedAt": "2026-11-01T17:32:17Z"
   },
   {
     "id": "aws_be6fca5e9e107bfc1356",
@@ -151,7 +151,7 @@
       "AQ:pastacast"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T21:17:50Z"
+    "lastCheckedAt": "2026-11-01T21:41:55Z"
   },
   {
     "id": "aws_18f00db0a21f0957f205",
@@ -173,6 +173,25 @@
     "lastCheckedAt": "2026-11-01T00:11:33Z"
   },
   {
+    "id": "aws_169cb5ffed763cea3965",
+    "stationId": "awb_b46701e8f09083fa5329",
+    "name": "RadiumFM World",
+    "country": "AQ",
+    "url": "https://stream.radiumfm.com/world",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ee563214-2945-4fa8-abd5-3104ba8ad194"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-01T12:39:32Z"
+  },
+  {
     "id": "aws_a9d871afb3df03536054",
     "stationId": "awb_c60322c4f8d07b812206",
     "name": "UKNova",
@@ -189,6 +208,6 @@
       "25b7f90e-d455-4981-a9f2-7a2954a96716"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T17:36:38Z"
+    "lastCheckedAt": "2026-11-01T17:47:02Z"
   }
 ]

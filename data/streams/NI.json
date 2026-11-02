@@ -75,7 +75,7 @@
       "NI:fiesta-latina-89-1-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T15:44:56Z"
+    "lastCheckedAt": "2026-11-01T16:24:51Z"
   },
   {
     "id": "aws_12036db373694ab3840a",
@@ -94,7 +94,7 @@
       "ee918038-7624-461b-8b2a-29aadf2bc872"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T13:42:33Z"
+    "lastCheckedAt": "2026-11-01T13:59:47Z"
   },
   {
     "id": "aws_bc9b7e083950f93a9e44",
@@ -132,7 +132,7 @@
       "c97a0d0e-029f-4741-ad6d-d7f6f98c73f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T14:03:05Z"
+    "lastCheckedAt": "2026-11-01T14:14:35Z"
   },
   {
     "id": "aws_785fb95e2f9e90abda0a",
@@ -151,7 +151,7 @@
       "1af06d7e-2255-48e0-8e8d-836a23c71013"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T14:01:30Z"
+    "lastCheckedAt": "2026-11-01T14:07:13Z"
   },
   {
     "id": "aws_0c59681189b2079149fd",
@@ -189,16 +189,16 @@
       "0a6b9357-3657-4cd2-a0e0-8aafc6a22c56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T16:48:03Z"
+    "lastCheckedAt": "2026-11-01T16:51:07Z"
   },
   {
     "id": "aws_2a9fb46cbc5038071aa0",
     "stationId": "awb_3e9483b34dff56c0a57e",
     "name": "Radio Conexión Romántica",
     "country": "NI",
-    "url": "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9DOTU0Y3ZuVHEyeGpMUko0ZTZPM1EiLCJpYXQiOjE3OTMxMTQ3OTYsImV4cCI6MTc5MzExNDg1Nn0.vIedkg6OsmxlJepTcl7UWSGRIx_X9hppkh2bm1-1iB0",
+    "url": "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImpQQ3poUklKUTdLSi1vcGFtZUlWeFEiLCJpYXQiOjE3OTM1NDc0NDIsImV4cCI6MTc5MzU0NzUwMn0.z-M_2q6ybcy6tRQQjZvrRqvOB_RU0Ici2yscOPTU5kI",
     "codec": "mp3",
-    "bitrate": 320,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -208,7 +208,7 @@
       "3f0404e4-0873-41c4-aa4e-fbf58ebe4c40"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T15:27:38Z"
+    "lastCheckedAt": "2026-11-01T15:37:57Z"
   },
   {
     "id": "aws_10a3b6a6267c1b49b9ac",
@@ -228,7 +228,7 @@
       "5dc6ee46-7ce8-4392-8219-ae37ed805a00"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:25:19Z"
+    "lastCheckedAt": "2026-11-01T20:56:10Z"
   },
   {
     "id": "aws_01bb90fcbdb420323b78",
@@ -268,7 +268,7 @@
       "NI:radio-estrella-del-mar"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:23:05Z"
+    "lastCheckedAt": "2026-11-01T23:51:24Z"
   },
   {
     "id": "aws_c3e9524696ac632be20f",
@@ -327,7 +327,7 @@
       "NI:radio-juan-pablo-segundo-97-7-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:15:20Z"
+    "lastCheckedAt": "2026-11-01T20:17:08Z"
   },
   {
     "id": "aws_1f5ede2fe74f90e4e402",
@@ -365,7 +365,7 @@
       "7e11d1d6-102e-4d99-8450-2d44856a89df"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T18:48:05Z"
+    "lastCheckedAt": "2026-11-01T18:54:15Z"
   },
   {
     "id": "aws_1be55485f1cd52dd4e29",
@@ -378,13 +378,15 @@
     "protocol": "https",
     "hls": false,
     "sources": [
+      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NI:radio-stereo-mundo-91-9-fm"
+      "NI:radio-stereo-mundo-91-9-fm",
+      "ff5a1baa-b1af-4157-b8bf-c9100a41831d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-08-23"
+    "lastCheckedAt": "2026-11-01T10:11:59Z"
   },
   {
     "id": "aws_18ca31993941caa2c33c",
@@ -403,7 +405,7 @@
       "349e1ca6-d008-4f84-8952-8d50561d82f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T11:30:51Z"
+    "lastCheckedAt": "2026-11-01T11:36:45Z"
   },
   {
     "id": "aws_9aa19cbfd1b02866affa",
@@ -424,7 +426,7 @@
       "NI:rock-fm-105-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:20:58Z"
+    "lastCheckedAt": "2026-11-02T00:24:14Z"
   },
   {
     "id": "aws_056e676f9afd876b9518",
@@ -462,7 +464,7 @@
       "31ba63ff-0c6e-4065-88b9-123a083ee542"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T01:18:08Z"
+    "lastCheckedAt": "2026-11-02T01:20:51Z"
   },
   {
     "id": "aws_42598c8295209aaf391f",

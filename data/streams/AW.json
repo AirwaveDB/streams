@@ -19,25 +19,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_d99de8dae45be9a43606",
-    "stationId": "awb_db9d6b8915cb544e2cb6",
-    "name": "Bo Guia 88.9 FM",
-    "country": "AW",
-    "url": "http://whooshserver.net:9880/live",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff9a5046-1a1a-4b7b-878c-6e6d16a5d0b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:08:12Z"
-  },
-  {
     "id": "aws_6ec165eb57714425281f",
     "stationId": "awb_21c79da06edc2ec684d7",
     "name": "Canal90 FM",
@@ -56,7 +37,7 @@
       "AW:canal90-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T16:41:33Z"
+    "lastCheckedAt": "2026-11-01T16:55:42Z"
   },
   {
     "id": "aws_c356f39cbc622667d36e",
@@ -75,7 +56,7 @@
       "3e89e76c-888d-44d5-92ce-ac2307ef7a22"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T13:49:41Z"
+    "lastCheckedAt": "2026-11-01T14:30:00Z"
   },
   {
     "id": "aws_907fef5374b4928cd02a",
@@ -94,7 +75,7 @@
       "962a0a81-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T23:58:49Z"
+    "lastCheckedAt": "2026-11-02T00:03:37Z"
   },
   {
     "id": "aws_22be9a2eb3d4658ff5e5",
@@ -142,8 +123,8 @@
     "name": "Massive Aruba",
     "country": "AW",
     "url": "http://surilive.com:8350/",
-    "codec": "mp3",
-    "bitrate": 192,
+    "codec": "aac+",
+    "bitrate": 104,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -153,7 +134,7 @@
       "0da60682-ef91-46ce-a50b-d8b9a08c2339"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T13:57:25Z"
+    "lastCheckedAt": "2026-11-01T14:22:47Z"
   },
   {
     "id": "aws_2263113330f5468b4921",
@@ -161,8 +142,8 @@
     "name": "Massive Aruba",
     "country": "AW",
     "url": "https://surilive.com:8350/",
-    "codec": "mp3",
-    "bitrate": 192,
+    "codec": "aac+",
+    "bitrate": 104,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -172,7 +153,7 @@
       "a8179336-6750-49d5-a1ac-04674ac0c1f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-27T20:25:06Z"
+    "lastCheckedAt": "2026-11-01T20:29:29Z"
   },
   {
     "id": "aws_fde9b0b145fab4924e5e",
@@ -191,6 +172,6 @@
       "8b3905b1-3cfd-483b-a162-2c854c5cb615"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T00:05:17Z"
+    "lastCheckedAt": "2026-11-02T00:10:41Z"
   }
 ]

@@ -144,7 +144,7 @@ https://eilo.org/streamer.php?ch=mixotic
 #EXTINF:-1 station-id="awb_70fc963c5abd9fa7ba1d" stream-id="aws_1eb13158de7adb0f7cbf" codec="mp3" bitrate="128",EILO Psychedelic Radio
 https://eilo.org/streamer.php?ch=psychedelic
 #EXTINF:-1 station-id="awb_33c34455ae0c2dc32edd" stream-id="aws_9b6ea9c886e8f2e19cb6" codec="mp3" bitrate="128",Eilo Radio - Progressive Radio
-https://eilo.org/streamer.php?ch=progressive
+http://eilo.org:8000/progressive
 #EXTINF:-1 station-id="awb_8e8452b27d9de618f6cd" stream-id="aws_fe6dbb55c5c660f021ad" codec="mp3" bitrate="128",EILO Techno Radio
 https://eilo.org/streamer.php?ch=techno
 #EXTINF:-1 station-id="awb_12bca78782fa631b4673" stream-id="aws_d2d2e788eea9e50a6f93" codec="mp3" bitrate="128",EILO Trance Radio
@@ -347,8 +347,6 @@ http://62.204.158.5:8081/live
 https://c32.radioboss.fm:8853/stream
 #EXTINF:-1 station-id="awb_386acaa3eb08d02fe7bb" stream-id="aws_39870ff69ffaf95ea5fb" codec="mp3" bitrate="128",Radio AXE Project
 http://79.98.108.170:8004/autodj
-#EXTINF:-1 station-id="awb_5f90fbf693a9c8437e61" stream-id="aws_d026a3b93594a4c57a06" codec="aac+" bitrate="64",Radio Balkanika
-https://ssl120.radyotelekom.com.tr/8122/stream
 #EXTINF:-1 station-id="awb_76a1b86b2f3c005505bb" stream-id="aws_4891cc73d29160fdeb26" codec="mp3" bitrate="192",Radio Beatport
 http://79.98.108.170:8014/autodj
 #EXTINF:-1 station-id="awb_010bef760c7bf2f6db54" stream-id="aws_2de1d18ecb1c072a9f7e" codec="mp3" bitrate="48",Radio Beinsa Duno
@@ -373,8 +371,6 @@ http://play.global.audio/city64
 http://play.global.audio/city_low.ogg
 #EXTINF:-1 station-id="awb_7d74b89a05387be38dc7" stream-id="aws_de94f18641b6d49ed7ea" codec="mp3" bitrate="128",Radio Contact
 https://listen.radioking.com/radio/490082/stream/546899
-#EXTINF:-1 station-id="awb_a5dc00c23f80c413fea7" stream-id="aws_aa9756ac3fd82f579572" codec="mp3" bitrate="0",Radio Cyberfolk
-http://91.227.77.124/cyberfolk
 #EXTINF:-1 station-id="awb_b3c41f5a612d8c118269" stream-id="aws_0ada7d7376a5ce316293" codec="mp3" bitrate="128",Radio Dance With Me
 http://g5.turbohost.eu:8002/stream128
 #EXTINF:-1 station-id="awb_931f7e45a59c9a4021bc" stream-id="aws_7314d8350f2112a454eb" codec="mp3" bitrate="320",Radio Dance With Me (MP3 320)
@@ -471,7 +467,7 @@ https://mpc.my-control-panel.eu:8002/stream
 https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
 #EXTINF:-1 station-id="awb_fd91ccef0daef323dc66" stream-id="aws_394654b0bce52f0a9ae5" codec="aac" bitrate="224",Radio Pianica
 http://mpc1.mediacp.eu:8024/
-#EXTINF:-1 station-id="awb_caafb055479570498eec" stream-id="aws_4cbb354737a073465907" codec="mp3" bitrate="128",Radio Rashi
+#EXTINF:-1 station-id="awb_d177eb3ea464fa91ca3b" stream-id="aws_ac85e193f7b8ad7ddc7e" codec="mp3" bitrate="128",Radio Rashi online
 https://s2.free-shoutcast.com/stream/18214
 #EXTINF:-1 station-id="awb_eb981e3837e714a64130" stream-id="aws_d1e496c97a84b7e9f8ff" codec="mp3" bitrate="128",Radio Retro Folk
 http://79.98.108.170:8053/
@@ -547,8 +543,6 @@ http://79.98.108.173:8006/
 http://a1.virtualradio.eu:8000/discoradio
 #EXTINF:-1 station-id="awb_0092e44ca2f02fcb0123" stream-id="aws_92869fd85f951227b1c8" codec="mp3" bitrate="128",Raimos Rock Radio
 http://a1.virtualradio.eu:8000/rockradio
-#EXTINF:-1 station-id="awb_2dad41764e8e7b9694a5" stream-id="aws_c208dd5d50ec68e50f29" codec="mp3" bitrate="128",Rashi Edno
-https://s2.free-shoutcast.com/stream/18214
 #EXTINF:-1 station-id="awb_fe90935d082ea5a0efe4" stream-id="aws_0bc7eea6bef07e95eca3" codec="mp3" bitrate="128",Rila Folk
 https://play-radio6.jump.bg:7016/play;
 #EXTINF:-1 station-id="awb_a0b9c738ce965d6f96fd" stream-id="aws_8cc266f4a9fee5ca2f72" codec="mp3" bitrate="320",Rosen Dimitrov
@@ -615,8 +609,6 @@ http://193.108.24.6:8000/zrock
 http://193.108.24.6:8000/zrock
 #EXTINF:-1 station-id="awb_7db7f6e86c254ba0852b" stream-id="aws_34766d280455e6e0cbf1" codec="mp3" bitrate="192",Zetra
 http://79.98.108.170:8092/;
-#EXTINF:-1 station-id="awb_d091b01b6e77938ff8a9" stream-id="aws_f7340b80b970ba3342b4" codec="mp3" bitrate="128",zig zag
-https://radyo.yayin.com.tr:4474/stream
 #EXTINF:-1 station-id="awb_951ebcdf816ef4786898" stream-id="aws_5579e66f34aa7db0076d" codec="aac" bitrate="128",Авто Радио
 http://stream80.metacast.eu/avtoradiohi.aac
 #EXTINF:-1 station-id="awb_19bfcc8b68ef2961b187" stream-id="aws_b7159ce0618d6a8fc1c2" codec="ogg" bitrate="0",Авторадио
