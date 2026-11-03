@@ -10400,7 +10400,7 @@
       "fccdf1da-21c1-46cf-aabf-d28934b0b965"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T03:40:31Z"
+    "lastCheckedAt": "2026-11-03T04:23:38Z"
   },
   {
     "id": "aws_78d5376a4573e4b98441",
@@ -11527,7 +11527,7 @@
       "819d1b08-ea3d-471f-ab3c-5e2e051241a6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T03:40:31Z"
+    "lastCheckedAt": "2026-11-03T04:23:38Z"
   },
   {
     "id": "aws_7d2606d018521debc804",
@@ -16540,7 +16540,7 @@
       "a9430598-6b22-48d0-a421-57a6adf72ea0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T15:43:41Z"
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
   },
   {
     "id": "aws_d32459187151a2b50e7d",
@@ -20155,7 +20155,7 @@
       "e1acc817-4627-40dc-a688-7078917df20c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
   },
   {
     "id": "aws_a83edf8a44f9f5ebe284",
@@ -20711,7 +20711,7 @@
       "42441cb5-d519-4ca9-ae03-2f1c5db5e002"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T03:40:31Z"
+    "lastCheckedAt": "2026-11-03T04:23:38Z"
   },
   {
     "id": "aws_d4de2b2c77b7597d90fc",
@@ -21099,7 +21099,7 @@
       "4691f398-5790-4384-ad67-6ce4ab0253c1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T03:40:31Z"
+    "lastCheckedAt": "2026-11-03T06:50:20Z"
   },
   {
     "id": "aws_26505e0519b965e7db8f",
@@ -24482,6 +24482,26 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
+    "id": "aws_22a969a6895fb5c5fc14",
+    "stationId": "awb_d3a0470408cf622de5ca",
+    "name": "Radio Downtown",
+    "country": "CA",
+    "url": "https://uksoutha.streaming.broadcast.radio/radiodowntownca",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5c9a8bfe-a3d7-4c18-ab59-20ab99e1dbb5",
+      "9711d46f-fb54-4f01-9b7e-c19f62472cbb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
+  },
+  {
     "id": "aws_26effce139ac3af7baca",
     "stationId": "awb_130237ae25500e989966",
     "name": "Radio Emily.ca - Emily Carr University of Art & Design - Vancouver, BC",
@@ -26056,7 +26076,7 @@
       "ed98c6aa-0118-443b-9eef-b5033048221b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_586065d257cfb82b5a61",
@@ -26137,6 +26157,63 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T23:43:56Z"
+  },
+  {
+    "id": "aws_7266ba826b67ce083aa8",
+    "stationId": "awb_4d2fdb7f26e5b7c60733",
+    "name": "SFM",
+    "country": "CA",
+    "url": "http://eagle.streemlion.com:4313/1",
+    "codec": "aac+",
+    "bitrate": 104,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7847d39d-9610-408d-bf41-d5ff89a5d437"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
+  },
+  {
+    "id": "aws_f2aa2508f2e8d74d2d3b",
+    "stationId": "awb_4d2fdb7f26e5b7c60733",
+    "name": "SFM",
+    "country": "CA",
+    "url": "http://eagle.streemlion.com:4313/stream",
+    "codec": "aac+",
+    "bitrate": 104,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5ccfa446-f84e-4705-872f-ee0a6aadd65a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
+  },
+  {
+    "id": "aws_5974fbeae32ddda17a92",
+    "stationId": "awb_4d2fdb7f26e5b7c60733",
+    "name": "SFM",
+    "country": "CA",
+    "url": "https://stream.rcast.net/68024",
+    "codec": "aac+",
+    "bitrate": 104,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cd4d298b-92f2-4e69-b267-e1ee2366f7e8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_3a4490aad33a7da1ff91",
@@ -27295,7 +27372,7 @@
       "339d3591-c1ca-44ec-925d-5ea20802a319"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
   },
   {
     "id": "aws_270a4f2e7484f35b0f02",

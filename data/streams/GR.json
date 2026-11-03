@@ -2816,7 +2816,7 @@
       "GR:alpha-98-9-athens"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T14:20:55Z"
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
   },
   {
     "id": "aws_42c50c4dcefb07469a38",
@@ -3717,7 +3717,7 @@
       "fffa0320-34a0-406e-b3d1-3e93dd2c630d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T02:46:05Z"
+    "lastCheckedAt": "2026-11-03T03:00:16Z"
   },
   {
     "id": "aws_27a124dc940e3cda2e66",
@@ -5468,7 +5468,7 @@
       "a78a0fd1-b137-465a-88d4-73e9ab4846d6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T15:43:41Z"
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
   },
   {
     "id": "aws_0265a171f830f93e61e5",
@@ -8416,6 +8416,25 @@
     "lastCheckedAt": "2026-11-02T01:33:02Z"
   },
   {
+    "id": "aws_987ec41076914a8327db",
+    "stationId": "awb_7f039231332c5d8c099f",
+    "name": "Era sport",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-erasport",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5577d166-26f5-4831-8da5-f6203e99a812"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T09:57:26Z"
+  },
+  {
     "id": "aws_bd9bb86ad62499274071",
     "stationId": "awb_ee593587a93827427d81",
     "name": "ERA Trito Programma",
@@ -8567,10 +8586,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "2886cf09-7afb-4ace-bd40-4991a7ac3635",
       "464eaf39-57f9-459a-ba0a-7b5d17d6fd6b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T15:37:09Z"
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
   },
   {
     "id": "aws_4125f87c02421177fd1b",
@@ -8968,10 +8988,11 @@
       "radio-browser"
     ],
     "sourceIds": [
+      "01fce0ae-2e09-4d14-84fb-3f730c9ec523",
       "786e440b-8c41-4f20-9838-77eaf36514da"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T23:59:08Z"
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
   },
   {
     "id": "aws_23b3fc38b401c9f50e8c",
@@ -9048,6 +9069,272 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T15:27:45Z"
+  },
+  {
+    "id": "aws_035ea286e18366d83553",
+    "stationId": "awb_89a4730f6f222476a6b6",
+    "name": "ERT-102fm",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-102fm",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7ca50710-b88f-48bd-8095-00aaf211b1b2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_2f7e440d2036507a35e2",
+    "stationId": "awb_bfbbdf879dbce8ffdebd",
+    "name": "ERT-deftero",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-deftero",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1551b70b-62b9-488f-b465-a4d1f309ef53"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
+  },
+  {
+    "id": "aws_eebcb283ddcf526e0a08",
+    "stationId": "awb_e474b739ef8678f76ba5",
+    "name": "ERT-deftero-laika",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-talaika",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "92100967-e32f-4c74-b6f3-f8427a9fef82"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_5473df56352006e6174c",
+    "stationId": "awb_13d9b30c6a9c6f445ee9",
+    "name": "ERT-eraspor",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-erasport",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "26ad811f-fd9b-4d61-90ca-abae2a29cd12"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_4fedfac05a50682fdb33",
+    "stationId": "awb_9c0970f60196df4d7bd7",
+    "name": "ERT-ertnewsradio",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-proto",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "86e499a9-0209-4ad6-8b38-fc43cb093bb5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_a782e69ad268d42f5c09",
+    "stationId": "awb_7db88887ed600d630741",
+    "name": "ERT-i-foni-tis-elladas",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-voiceofgreece",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "02495eb1-7194-43ea-ab74-1a6580e684f2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
+  },
+  {
+    "id": "aws_6abbe1644912ab58d05b",
+    "stationId": "awb_7063baa9886b96b332e6",
+    "name": "ERT-kosmos",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-kosmos",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b50f335d-79b9-4db7-8e91-ba2b3cdb00ae"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_c34e81d4a996e0891449",
+    "stationId": "awb_6f6abb26cfc8ad160f9f",
+    "name": "ERT-kosmos-jazz",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-webjazz",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58161b5c-e11d-40db-893a-96e0bcdd0b10"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_38edcda86dd12d2e99c5",
+    "stationId": "awb_46de2b4bfa91469cc9e2",
+    "name": "ERT-nowhitsradio",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/hits-radio",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cf93b80a-d3be-4b72-bf6f-abab19023298"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_677b48dd871dbb335081",
+    "stationId": "awb_65f5b6ba0ae4d6b4027c",
+    "name": "ERT-radio80s",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/radio-80s",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "035cdbcf-e67e-4754-804a-a0c7ed66dab3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_a183ed8443ca39f0ed8e",
+    "stationId": "awb_f8c6342fcd0f6ee4c509",
+    "name": "ERT-radio90s",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/radio-90s",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "34e478a5-b11a-4e36-9d65-57cdf84e4648"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_2eec57d69e99c18c4e29",
+    "stationId": "awb_e248d38d9ff11a34734b",
+    "name": "ERT-trito",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-trito",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1eed18d2-a0ce-4ffb-9db1-bda0361732d3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
+  },
+  {
+    "id": "aws_c14dae2abae2680b1377",
+    "stationId": "awb_e121afd60fc124073fcc",
+    "name": "ERT-vintageradio",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/vintage-radio",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "07986da5-fbfb-4eb8-a574-4fbe15d8a612"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
+  },
+  {
+    "id": "aws_bbf6a929fcb0a7dc3a7a",
+    "stationId": "awb_dbf39f52a134151a0541",
+    "name": "ERT-zeppelin",
+    "country": "GR",
+    "url": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e8c517bb-0b6b-4ec9-be8a-d55ee6ee2b14"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
   },
   {
     "id": "aws_38e063f415b15e122a44",
@@ -10003,7 +10290,7 @@
       "78e8c2fd-0860-4f8f-a6a3-c1b432ec58f9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_b2930fc3608863b76b71",
@@ -10022,7 +10309,7 @@
       "c494d859-670f-4a5f-bc8b-d741b10d16a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_390542da8514b4c23150",
@@ -14667,6 +14954,25 @@
     "lastCheckedAt": "2026-11-01T18:20:33Z"
   },
   {
+    "id": "aws_2dcdefcab4083e724fd6",
+    "stationId": "awb_9d5f9f64abaabb0da2d8",
+    "name": "Magic FM Agrinio",
+    "country": "GR",
+    "url": "https://sonic.streams.ovh/9500/;",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5569fe1c-9f70-4f66-a355-02503c58ebe4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
+  },
+  {
     "id": "aws_d3f0c55e40e22a12ecb0",
     "stationId": "awb_cf01bc2aecf3428c0d87",
     "name": "Makedonia 1386",
@@ -15030,6 +15336,25 @@
     "lastCheckedAt": "2026-11-01T19:34:18Z"
   },
   {
+    "id": "aws_df349569027bfbd59a00",
+    "stationId": "awb_87c15d3c353432da76f0",
+    "name": "Melodia Kerkyra",
+    "country": "GR",
+    "url": "https://i2.streams.ovh/ic/melodiakerkyra/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bca1cd4f-0185-4f59-928e-c5016097a834"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
+  },
+  {
     "id": "aws_5833d154a3a2ca000bc7",
     "stationId": "awb_023af2b8d5412fb76eb0",
     "name": "Melodies Web Radio",
@@ -15207,6 +15532,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T08:19:27Z"
+  },
+  {
+    "id": "aws_40ac84cd8512f08adcc8",
+    "stationId": "awb_6fd6987d4328fc52458c",
+    "name": "Memory GR",
+    "country": "GR",
+    "url": "https://i2.streams.ovh:2200/ssl/radiomem?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "79d81625-d09e-48b3-99e9-d82bd665f2db"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
   },
   {
     "id": "aws_7bbd978b6ecfab684239",
@@ -15397,6 +15741,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T00:30:52Z"
+  },
+  {
+    "id": "aws_a5e21c590e7cc9a08f73",
+    "stationId": "awb_138634ab82c6c23b2697",
+    "name": "Metal Radio GR",
+    "country": "GR",
+    "url": "https://cast2.asurahosting.com/proxy/devoqtec/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4a4f979d-b3e6-48c8-9957-cd3a263023c3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_0483d2b17991163e4557",
@@ -16443,6 +16806,25 @@
     "lastCheckedAt": "2026-11-01T02:35:01Z"
   },
   {
+    "id": "aws_edf7a40076cbdbc2a148",
+    "stationId": "awb_5b463e47b2b325d06031",
+    "name": "Music Galaxy GR",
+    "country": "GR",
+    "url": "https://rdst.win:37474/;",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "35a08fdf-3cb2-4c3f-9eaa-2ad4fc162047"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
+  },
+  {
     "id": "aws_de197f4d39345aabd0b0",
     "stationId": "awb_09e7db9e42fee97cadf8",
     "name": "MUSIC LIFE 95.1",
@@ -16614,6 +16996,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T23:10:06Z"
+  },
+  {
+    "id": "aws_b01e3836cd7f3105c716",
+    "stationId": "awb_78ff23b9385a22459e57",
+    "name": "Musix Channel",
+    "country": "GR",
+    "url": "https://i4.streams.ovh:8059/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "90e250bb-b34b-461c-a5fc-2e578a48d691"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_227532dcff2add551d45",
@@ -16882,6 +17283,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T19:15:14Z"
+  },
+  {
+    "id": "aws_d98af48aa6b6019bfd95",
+    "stationId": "awb_d615584f53ff93132547",
+    "name": "Mystiko Radio",
+    "country": "GR",
+    "url": "https://m1.mystiko-radio.eu/listen/mystiko_radio/mystikoradio.mp3?",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9556f92f-85aa-4681-9641-fe8fef013dd0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
   },
   {
     "id": "aws_5c6423a76093bb5b96ca",
@@ -23799,7 +24219,7 @@
       "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T04:23:38Z"
   },
   {
     "id": "aws_3b59adb9c8c347692070",
@@ -24356,7 +24776,7 @@
       "807f192b-7302-41f7-be2e-d162b54092ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-03T03:00:16Z"
   },
   {
     "id": "aws_7a6a9210d1d394850cbe",
@@ -28319,7 +28739,7 @@
       "6becc048-ebd3-45b2-a571-a8f923bfeafd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T08:39:44Z"
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_e70543aef374ea330d70",
@@ -32082,7 +32502,7 @@
       "b5168cf2-0dcf-48d5-a327-7e2dec0b22a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-02T22:42:38Z"
   },
   {
     "id": "aws_208f794aa926bd43a794",
@@ -33814,7 +34234,7 @@
       "58b11901-9d7c-4afc-893d-498e5ace458a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T22:40:48Z"
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
   },
   {
     "id": "aws_7364d761bcdd033500c3",
@@ -35972,6 +36392,25 @@
     "lastCheckedAt": "2026-11-01T20:21:17Z"
   },
   {
+    "id": "aws_8339ad134420187c1da9",
+    "stationId": "awb_e1be4578fc1cc08abd92",
+    "name": "Μικρασιάτης",
+    "country": "GR",
+    "url": "https://stream.radio.co/s584f20f45/listen",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8529ada2-55ea-4fc7-93a5-b103985c5128"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T02:13:30Z"
+  },
+  {
     "id": "aws_d9618223e2544801c22f",
     "stationId": "awb_96b83b1ed1344197a5ad",
     "name": "Μοίρες 97.1",
@@ -36388,7 +36827,7 @@
       "977782d3-75cb-45a0-96f5-2231042f7d6d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T02:46:05Z"
+    "lastCheckedAt": "2026-11-03T03:00:16Z"
   },
   {
     "id": "aws_6aee24d7fba672832773",
@@ -36502,7 +36941,7 @@
       "14544540-61b2-47aa-bb80-86fe6c09aa1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T15:43:41Z"
+    "lastCheckedAt": "2026-11-02T16:09:39Z"
   },
   {
     "id": "aws_a3dc04790b5dfb8fd1b1",
@@ -39459,7 +39898,7 @@
       "760dce2d-f17e-4b21-b4e1-53c88fd86f16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-28T14:20:55Z"
+    "lastCheckedAt": "2026-11-02T14:32:49Z"
   },
   {
     "id": "aws_256ef385db9a1d55e094",
@@ -39630,7 +40069,7 @@
       "e22ce601-b5fc-4d13-a699-9ac70d5eca9e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T02:46:05Z"
+    "lastCheckedAt": "2026-11-03T03:00:16Z"
   },
   {
     "id": "aws_932322abdf55bcccdf3c",
