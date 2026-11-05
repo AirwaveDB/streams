@@ -759,8 +759,6 @@ https://waw.ic.smcdn.pl/2240-1.aac
 https://ic1.smcdn.pl/2400-1.mp3
 #EXTINF:-1 station-id="awb_86679ab224797031e237" stream-id="aws_4ecb53e699e65bc649e5" codec="mp3" bitrate="128",Radio Eska Tarnów
 https://ic1.smcdn.pl/2210-1.mp3
-#EXTINF:-1 station-id="awb_a18643f7a99390a2b487" stream-id="aws_baef596ab1e34356f14a" codec="mp3" bitrate="128",Radio Eska Warszawa
-http://ic2.smcdn.pl/2980-1.mp3
 #EXTINF:-1 station-id="awb_ab4602265e63812b1891" stream-id="aws_3097a569c95d6f5789a7" codec="mp3" bitrate="128",Radio Eska Warszawa
 http://waw.ic.smcdn.pl/2380-1.mp3
 #EXTINF:-1 station-id="awb_ab4602265e63812b1891" stream-id="aws_dbdae3bfd80a993649f9" codec="aac+" bitrate="48",Radio ESKA Warszawa
@@ -887,6 +885,8 @@ https://s3.slotex.pl/shoutcast/7016/stream
 https://streaming.g-news.pl:8030/rk2
 #EXTINF:-1 station-id="awb_244693608eb64d0c02f9" stream-id="aws_a6020ac8eb28c9e91ee8" codec="aac" bitrate="194",RADIO KIEROWCÓW
 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+#EXTINF:-1 station-id="awb_0597257f19da6c9df7df" stream-id="aws_af2e40cc99d8c01ec28b" codec="aac+" bitrate="64",Radio KISS FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISS_FMAAC.aac
 #EXTINF:-1 station-id="awb_5d01027f9d2bb97d2ca2" stream-id="aws_b19d23b187670dadc248" codec="mp3" bitrate="192",Radio Kolobrzeg
 http://graj.radiokolobrzeg.pl:8000/
 #EXTINF:-1 station-id="awb_5d01027f9d2bb97d2ca2" stream-id="aws_e6b3be443419aa8e3b76" codec="mp3" bitrate="192",Radio Kolobrzeg
@@ -1907,6 +1907,8 @@ http://stream3.polskieradio.pl:8904/
 http://stream3.polskieradio.pl:8904/
 #EXTINF:-1 station-id="awb_3f8a9f0844587ec91f81" stream-id="aws_9f0ec9b6b4815dfd84a0" codec="mp3" bitrate="192",Trójka mp3
 http://mp3.polskieradio.pl:8904/
+#EXTINF:-1 station-id="awb_b240d1030bc0db11851e" stream-id="aws_2ab2c476ba376eef671e" codec="mp3" bitrate="0",TUROWSKY RADIO
+https://stream.turowsky.com/studio.mp3
 #EXTINF:-1 station-id="awb_7896850eb0dc2726e256" stream-id="aws_ef85529b27b02111de40" codec="mp3" bitrate="128",Twoja Polska Stacja
 https://sluchaj2.radiopark.biz.pl:8443/tpsapp
 #EXTINF:-1 station-id="awb_da50826fe5a987d127cf" stream-id="aws_d006679c9bf5e5e21ebc" codec="ogg" bitrate="128",Twoje Radio Szczecin

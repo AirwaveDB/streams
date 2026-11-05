@@ -213,13 +213,13 @@ https://webradio1.ice.infomaniak.ch/webradio4-128.mp3
 https://webradio6.ice.infomaniak.ch/webradio6-128.mp3
 #EXTINF:-1 station-id="awb_7250e6cff211fb44f7ff" stream-id="aws_454fdce69f71753c3a1e" codec="mp3" bitrate="128",AfriOnde
 https://live.afrionde.fr/afrionde1
-#EXTINF:-1 station-id="awb_188fa7bad855d607b11f" stream-id="aws_8567fa869b138cf124d7" codec="mp3" bitrate="0",AfriOnde Abidjan
+#EXTINF:-1 station-id="awb_188fa7bad855d607b11f" stream-id="aws_8567fa869b138cf124d7" codec="mp3" bitrate="128",AfriOnde Abidjan
 https://live.afrionde.fr/afrionde4
 #EXTINF:-1 station-id="awb_04ad7bc9662e5248ffc5" stream-id="aws_a2babe6aeb940584f959" codec="mp3" bitrate="128",AfriOnde Afrobeat
 https://live.afrionde.fr/afrionde8
 #EXTINF:-1 station-id="awb_83924ddf96edb300e0f5" stream-id="aws_6f6a8e9fb4143c1c99de" codec="mp3" bitrate="128",AfriOnde cefran
 https://live.afrionde.fr/afrionde2
-#EXTINF:-1 station-id="awb_fe99bb3776e2de4afe44" stream-id="aws_7e4f45a5188e4adc2b62" codec="mp3" bitrate="0",AfriOnde classic
+#EXTINF:-1 station-id="awb_fe99bb3776e2de4afe44" stream-id="aws_7e4f45a5188e4adc2b62" codec="mp3" bitrate="128",AfriOnde classic
 https://live.afrionde.fr/afrionde10
 #EXTINF:-1 station-id="awb_a7f7518bc567e37109d4" stream-id="aws_fa4a74dbaef6ca7111a6" codec="mp3" bitrate="192",AfriOnde Conakry
 https://live.afrionde.fr/afrionde5
@@ -955,6 +955,8 @@ https://stream.tiennot.net/comtoise.aac
 http://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1 station-id="awb_f7e1114372d7b0a8c4de" stream-id="aws_bca21e821532729860e0" codec="mp3" bitrate="128",Cool Radio
 https://listen.radioking.com/radio/530131/stream/588580
+#EXTINF:-1 station-id="awb_08318b3d50e6c7995e91" stream-id="aws_4bbe56f0da2376333107" codec="mp3" bitrate="128",Corail Radio
+https://listen.radioking.com/radio/409087/stream/461632
 #EXTINF:-1 station-id="awb_2916719db9e82d2251c5" stream-id="aws_6dddf9ff7736210075df" codec="mp3" bitrate="0",coran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 station-id="awb_4a4ebdfb20971ba8fb37" stream-id="aws_bfc3764c6ce59cae6e07" codec="mp3" bitrate="128",Corsica Radio
@@ -1853,6 +1855,8 @@ http://icecast.funradio.fr/fun-1-44-128
 https://icecast.funradio.fr/fun-1-44-128
 #EXTINF:-1 station-id="awb_ff995901c6f177b51693" stream-id="aws_7ff250176b277783aa42" codec="mp3" bitrate="128",Fun Radio France
 http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+#EXTINF:-1 station-id="awb_7a02dcada44bc92096ca" stream-id="aws_7c67429976d105689db5" codec="mp3" bitrate="128",FunAdos
+https://funados.ice.infomaniak.ch/funados.mp3
 #EXTINF:-1 station-id="awb_3f1c80c3c81662c75b2e" stream-id="aws_5c9e289e9ff28d12a1b8" codec="mp3" bitrate="0",Funk Machine Radio 69.9
 http://82.65.103.36:8000/funk-machine
 #EXTINF:-1 station-id="awb_6c798ebf9d6dae2ce8da" stream-id="aws_f9d1958c2322e2e10cdb" codec="mp3" bitrate="320",FunkaGroove
@@ -1863,6 +1867,10 @@ https://radio.funvibe.fr/listen/funvibe/radio.mp3
 http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3
 #EXTINF:-1 station-id="awb_3293a35322fcb5388fd0" stream-id="aws_6da46a16ade19e4af527" codec="mp3" bitrate="192",Fusion FM
 http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3
+#EXTINF:-1 station-id="awb_c96acabcbf0b7bfcd808" stream-id="aws_76f4e4c1f8814023d27b" codec="mp3" bitrate="128",Futuradio Bands-Camp
+https://futuradiorock.ice.infomaniak.ch/frrock-128.mp3
+#EXTINF:-1 station-id="awb_8a1e769ec750eac8ab9d" stream-id="aws_4a7495caa03dfbf69a35" codec="mp3" bitrate="128",Futuradio Hits
+https://futuradiohits.ice.infomaniak.ch/frhits-128.mp3
 #EXTINF:-1 station-id="awb_2a3a6b57725f979142e4" stream-id="aws_43ac6f3f7afe71dac0b6" codec="mp3" bitrate="128",G One Radio
 https://radio.garden/api/ara/content/listen/pahlMAe0/channel.mp3?1726401108732
 #EXTINF:-1 station-id="awb_2a3a6b57725f979142e4" stream-id="aws_ee1de289faf82cc4b3d7" codec="mp3" bitrate="128",G One Radio
@@ -2367,6 +2375,8 @@ https://icecast.radiofrance.fr/fbchansonfrancaise-hifi.aac
 http://icecast.radiofrance.fr/fb100pour100annees80-hifi.aac
 #EXTINF:-1 station-id="awb_d5cc819d017ca1ef3543" stream-id="aws_761cb3ad9d4eaaf7b3d8" codec="mp3" bitrate="128",ici Armorique
 https://icecast.radiofrance.fr/fbarmorique-midfi.mp3
+#EXTINF:-1 station-id="awb_9820b97a3f45afe191ea" stream-id="aws_e06d776378cb801de719" codec="unknown" bitrate="0",ici Azur
+https://stream.radiofrance.fr/fbazur/fbazur_hifi.m3u8?id=radiofrance
 #EXTINF:-1 station-id="awb_dfd6e62197485ac34433" stream-id="aws_c13dfde50fa170385477" codec="aac" bitrate="107",ICI Breizh Izel
 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8
 #EXTINF:-1 station-id="awb_20246088a0f1bb203276" stream-id="aws_35ce40f1700dcb954377" codec="mp3" bitrate="128",Ici Drome Ardecche
@@ -3053,6 +3063,8 @@ https://ecmanager.pro-fhi.net:1455/stream
 https://ecmanager5.pro-fhi.net:1060/stream
 #EXTINF:-1 station-id="awb_2f4966f9b238b8b4fbfa" stream-id="aws_ecd62969fdd92ede1856" codec="mp3" bitrate="128",MixFeever
 https://listen.mixfeever.com/feevermix
+#EXTINF:-1 station-id="awb_0efd9ea513718382ad12" stream-id="aws_6339fdb79dca6ae90b09" codec="mp3" bitrate="128",MIXIA RADIO
+https://radiomixia.fr/stream/mixia.mp3
 #EXTINF:-1 station-id="awb_71b5eba281dfedd1fdce" stream-id="aws_e698e51f0f60b4134d94" codec="mp3" bitrate="0",MIXTRAL.COM
 https://live.mixtral.com/mixtral
 #EXTINF:-1 station-id="awb_c73fe2a2e7f6aaa75fec" stream-id="aws_21259283989a038a3bc3" codec="aac" bitrate="192",Modular-Station
@@ -3177,6 +3189,8 @@ https://ecmanager.pro-fhi.net:1455/stream
 https://stream.rcs.revma.com/gnn6u7czd8uvv
 #EXTINF:-1 station-id="awb_0c0203f09ec6075e4215" stream-id="aws_991c58142cfe0ae5c1c3" codec="aac+" bitrate="128",N' Radio
 http://radio.ice.infomaniak.ch/nradio-48aac.aac
+#EXTINF:-1 station-id="awb_5e6c8abee2dce81b3ac2" stream-id="aws_b03c72328396dcef12fa" codec="mp3" bitrate="128",Nebulah Radio
+https://listen.radioking.com/radio/314507/stream/361754
 #EXTINF:-1 station-id="awb_8408fc47859f59175382" stream-id="aws_1e373e4681a3eae96bd1" codec="mp3" bitrate="256",Neptune FM
 https://diffusion.lafrap.fr/neptune.mp3
 #EXTINF:-1 station-id="awb_d1e21b8aed7c429576c5" stream-id="aws_663f9d1db0c1b6f0936a" codec="mp3" bitrate="128",Néric Collection
@@ -4543,6 +4557,8 @@ http://stream.rcs.revma.com/1z19ak79n98uv
 https://radiofg.impek.com/ufg.mp3
 #EXTINF:-1 station-id="awb_1a2c63efdff90b1dfb33" stream-id="aws_4e18a1d840f9d8f318af" codec="mp3" bitrate="0",Radio FG Work
 https://stream.rcs.revma.com/2v1zz979n98uv
+#EXTINF:-1 station-id="awb_8fdbcb57de683a0f1942" stream-id="aws_f6474da264f2d9a17b2a" codec="mp3" bitrate="170",Radio Fidélité
+http://diffusion.lafrap.fr/fidelite.mp3
 #EXTINF:-1 station-id="awb_855d62cb2e581b01de35" stream-id="aws_12a55772114454f22b03" codec="mp3" bitrate="128",Radio Fil de l'eau
 https://hosting.studioradiomedia.fr:2495/stream
 #EXTINF:-1 station-id="awb_7b128a21a86b1c293c0b" stream-id="aws_6ec906983e252835fab6" codec="mp3" bitrate="0",Radio Flash (Montpellier)
@@ -5045,8 +5061,6 @@ http://str0.creacast.com/radio_vinci_autoroutes_3
 http://str0.creacast.com/radio_vinci_autoroutes_3
 #EXTINF:-1 station-id="awb_2e4c37813377f683419f" stream-id="aws_a14187879600eb54cd12" codec="mp3" bitrate="128",Radio VINCI Autoroutes Ouest Centre
 https://sc.creacast.com/rva-cofiroute-1
-#EXTINF:-1 station-id="awb_be1451c86d5da07c8951" stream-id="aws_8d7fa82cbce31ea88900" codec="mp3" bitrate="128",Radio Wa3 (راديو وع)
-https://stream.wa3.live/wa3.mp3
 #EXTINF:-1 station-id="awb_df2039d64d8d300a1562" stream-id="aws_57c0bc3e7e0a6a692c1f" codec="mp3" bitrate="128",Radio Welsass
 http://welsass.fr/play
 #EXTINF:-1 station-id="awb_ec1fc65b5811e289582c" stream-id="aws_4047fc093b9b616bf265" codec="mp3" bitrate="128",Radio YAN
@@ -5499,6 +5513,8 @@ https://slowenglish.fm/live.mp3
 https://stream.slowlyradio.com/
 #EXTINF:-1 station-id="awb_e5e0e3216229ed94e376" stream-id="aws_5773fd64425bb2d78b9b" codec="mp3" bitrate="0",SLY Radio
 https://stream.masirasolutions.com/live
+#EXTINF:-1 station-id="awb_054f57bd043c05c9b6e3" stream-id="aws_cb358b086f5de6130723" codec="mp3" bitrate="128",Smile Radio
+https://listen.radioking.com/radio/600328/stream/661519
 #EXTINF:-1 station-id="awb_d36449d15756804e1b2c" stream-id="aws_43b1b88326522142a4f6" codec="mp3" bitrate="128",Sofaradios - MIA Jazzanova
 http://91.121.51.19:8042/
 #EXTINF:-1 station-id="awb_4b337ac38e9657a5506b" stream-id="aws_74e9f7bcf18b1ec8642a" codec="mp3" bitrate="128",Sofaradios - MIA StepUp
@@ -5781,6 +5797,8 @@ http://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3
 http://vibrationlounge.ice.infomaniak.ch/vibrationlounge.mp3
 #EXTINF:-1 station-id="awb_3b77d05cbdef5d02c788" stream-id="aws_bf9658ce5a1ebfd6c423" codec="mp3" bitrate="128",Vibration Love
 http://vibrationlove.ice.infomaniak.ch/vibrationlove.mp3
+#EXTINF:-1 station-id="awb_915cc7f527c955d7e12e" stream-id="aws_df8aadd3cb67ef4785aa" codec="mp3" bitrate="320",Vibzic Radio
+https://radio10.pro-fhi.net/live/Vibzic%20radio
 #EXTINF:-1 station-id="awb_e3e150f364fc0d1e4907" stream-id="aws_034a7b4e21c148bfa48d" codec="ogg" bitrate="0",Vicecity.fr
 https://vicecity.fr/icecast/bG9maQ==.ogg
 #EXTINF:-1 station-id="awb_e5ecac656bef647da481" stream-id="aws_79da5e798f893efc6fee" codec="mp3" bitrate="320",VIKLAND Radio

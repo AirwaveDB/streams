@@ -628,7 +628,7 @@
       "96697826-72f1-4ccb-aa96-90eea2219367"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:07:18Z"
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_3bf07751ce83e2085b97",
@@ -1617,7 +1617,7 @@
       "497c68be-2cfd-443c-86f8-79c097f94094"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_3ca0c62ef8b74f227fe8",
@@ -2571,6 +2571,25 @@
     "lastCheckedAt": "2026-11-01T19:33:43Z"
   },
   {
+    "id": "aws_3300d5afe4b5abb4a431",
+    "stationId": "awb_d2841d427d6b81ed8277",
+    "name": "103.1 PlayaFm",
+    "country": "MX",
+    "url": "https://sonic24.instainternet.com/8088/stream",
+    "codec": "aac+",
+    "bitrate": 208,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8652c69a-2fd9-4070-80e4-2cc80d9c770b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T20:05:03Z"
+  },
+  {
     "id": "aws_72b16e5a8e181a37c254",
     "stationId": "awb_7a6d00a2c5a120ec37f1",
     "name": "103.1 Retro (Mérida) - 103.1 FM - XHPYM-FM - Cadena RASA - Mérida, Yucatán",
@@ -2607,6 +2626,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T21:24:34Z"
+  },
+  {
+    "id": "aws_8c022523dd3955272a2e",
+    "stationId": "awb_7d011c3028b461701d93",
+    "name": "103.3 Grupo Fórmula (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
+    "country": "MX",
+    "url": "https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8",
+    "codec": "aac",
+    "bitrate": 131,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "155c9fbb-f150-4a10-a724-056b8a439556"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
   },
   {
     "id": "aws_dca01d5d190ae06c4023",
@@ -3595,6 +3633,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T00:06:25Z"
+  },
+  {
+    "id": "aws_c08fbcc926c7c5d6efb7",
+    "stationId": "awb_74b43e593bd2cb245b81",
+    "name": "105.3 105 Digital (Aguascalientes) - 105.3 FM - XHUZ-FM - Radiogrupo - Aguascalientes, Aguascalientes",
+    "country": "MX",
+    "url": "http://201.159.48.106:8080/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "47201c02-9d15-4512-a4d0-cd2257a10296"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_b682ae6625a883c98d2d",
@@ -5171,7 +5228,7 @@
       "61a93e16-a313-4904-89e7-27069ea592fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T21:05:57Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_c50f0e41747132f1f6e8",
@@ -6371,6 +6428,25 @@
     "lastCheckedAt": "2026-11-01T02:05:52Z"
   },
   {
+    "id": "aws_576f1a4052e13b959b45",
+    "stationId": "awb_41a796a7d2af5bfa607d",
+    "name": "88.5 Arroba FM (Chihuahua) - 88.5 FM - XHDI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua",
+    "country": "MX",
+    "url": "https://stream.zeno.fm/hv5u0bg9d78uv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7bac387b-dda0-42b0-9a04-1b662cb474b5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
+  },
+  {
     "id": "aws_0220eec2abbe7f880c4d",
     "stationId": "awb_62e1c529747649856bda",
     "name": "88.5 Arya (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán",
@@ -6425,7 +6501,7 @@
       "d816fce4-a7af-43c8-a6b7-6228cf35889c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T00:49:08Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_6f224233990820e9c274",
@@ -9580,7 +9656,7 @@
       "26e335d8-cf8d-44ff-9ac4-c1a8f04ad941"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_b1cfe2d5a334bc149747",
@@ -9694,7 +9770,7 @@
       "d8c0637b-a072-4e2b-a7b8-ef287333dc5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
   },
   {
     "id": "aws_d21b854cfb9ca004af27",
@@ -9925,6 +10001,25 @@
     "lastCheckedAt": "2026-11-01T18:43:49Z"
   },
   {
+    "id": "aws_527d50ba20bc0cd08f13",
+    "stationId": "awb_68f4610e033dc2590c5d",
+    "name": "96.1 El Kuino FM (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán",
+    "country": "MX",
+    "url": "https://live.zuperdns.net/1961/stream",
+    "codec": "mp3",
+    "bitrate": 24,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "68c82126-71f3-4348-b601-483799251022"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
+  },
+  {
     "id": "aws_4b7992222bf629a29a2a",
     "stationId": "awb_e6a8603eea3605fdf02f",
     "name": "96.1 Factor (San Luis Potosí) - 96.1 FM - XHOB-FM - MG Comunicación - San Luis Potosí, San Luis Potosí",
@@ -9961,6 +10056,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T06:29:16Z"
+  },
+  {
+    "id": "aws_7ada9324b2b394c3a413",
+    "stationId": "awb_c30879d868501a34a583",
+    "name": "96.1 Radio Unam (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
+    "country": "MX",
+    "url": "https://tv.radiohosting.online:9484/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "87dda034-b46f-4d0e-9b0b-c299e2b95ea0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_cc85a99d0fe79b175e8c",
@@ -10417,6 +10531,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T01:28:57Z"
+  },
+  {
+    "id": "aws_1100343f6f913e58a7a7",
+    "stationId": "awb_ff63cfffe2ecd19bfbdd",
+    "name": "97.7 Maxima (Ciudad Obregón) - 97.7 FM - XHHO-FM - Radio SA - Ciudad Obregón, Sonora",
+    "country": "MX",
+    "url": "https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8",
+    "codec": "aac",
+    "bitrate": 131,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c16fc048-c46a-423a-be45-41664cedcf21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_3c630bbc6ad689feda86",
@@ -12092,7 +12225,7 @@
       "221f8b81-9e16-44da-8b7b-7312dd3045c4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T16:58:02Z"
   },
   {
     "id": "aws_27af9165a2a4045fa0b7",
@@ -12436,7 +12569,7 @@
       "a7a10889-e3af-4085-b800-1868e8cc8085"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T14:22:47Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_d18982f86eabffa39a34",
@@ -14999,7 +15132,7 @@
       "1a22ab9c-a89a-481c-b5eb-12c5d32112a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T19:19:51Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_5d4e6ca2c806dd99fdb3",
@@ -15122,7 +15255,7 @@
     "stationId": "awb_687d3bc087a2ea790d05",
     "name": "Bonanza Tu Radio y Televisión",
     "country": "MX",
-    "url": "http://n12.radiojar.com/c1ywcfhv08nwv",
+    "url": "http://n0b.radiojar.com/c1ywcfhv08nwv",
     "codec": "mp3",
     "bitrate": 0,
     "protocol": "http",
@@ -15134,7 +15267,7 @@
       "5937e2ed-de1e-4bed-887d-a5b3a35a9b69"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_5b8a70c2c9005cb2206d",
@@ -16619,7 +16752,7 @@
       "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_babfe3773eddde22b5ae",
@@ -18534,6 +18667,25 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
+    "id": "aws_b74d4705dd2795830000",
+    "stationId": "awb_f4c4da97bb1ad656dc68",
+    "name": "EL FONÓGRAFO 690 (CDMX) - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México",
+    "country": "MX",
+    "url": "https://26423.live.streamtheworld.com/XEN_AMAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "82400e2c-4448-46c6-876b-641a14f869bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
+  },
+  {
     "id": "aws_bab5c775c1ff077f2b28",
     "stationId": "awb_1ecf577db2207a273fdb",
     "name": "EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad",
@@ -18684,6 +18836,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T13:45:53Z"
+  },
+  {
+    "id": "aws_95cb0b4b2cfd3408e528",
+    "stationId": "awb_0d94e2dc5dc8c9114d7f",
+    "name": "EL HERALDO RADIO 94.1 (Acapulco) - 94.1 FM - XHCSAB-FM - Heraldo Media Group - Acapulco, Guerrero",
+    "country": "MX",
+    "url": "https://stream.radiojar.com/4xsen8k61gpwv",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "91a6af56-fbb9-4e1b-8567-a706961a40da"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_eeb7ae494e7b6d7bc953",
@@ -18912,6 +19083,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T03:30:56Z"
+  },
+  {
+    "id": "aws_bb953b5a14a2c27b6fa5",
+    "stationId": "awb_7507eb2e7d6b490cddd8",
+    "name": "EL PATRÓN 94.5 (Córdoba) - 94.5 FM - XHYV-FM - Oliva Radio - Córdoba, Veracruz",
+    "country": "MX",
+    "url": "http://scc.cnwks.ws:8688/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58759a2d-3505-4130-9ba2-d8c19a83eb33"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
   },
   {
     "id": "aws_749032972ff06a0acd8c",
@@ -19177,7 +19367,7 @@
       "72db1082-d5cb-4744-8368-9893d9f67c27"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
   },
   {
     "id": "aws_b33ecd9240fb96bdbedd",
@@ -20157,7 +20347,7 @@
       "72331819-dfcb-44f6-9e94-92f1a28b3965"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:35:43Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_224656f67e5ef89978bb",
@@ -20737,7 +20927,7 @@
       "37f1e1db-20cf-4944-abd9-05535f895928"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_d9005eef058a40bfb310",
@@ -21332,7 +21522,7 @@
       "250d1d0a-2f94-432a-be7f-8d085b8ab6a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T00:13:50Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_2b1d0803f4d8728ec8fa",
@@ -27172,7 +27362,7 @@
       "fa534b84-b3ba-4f66-bc88-f4172b2e7060"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_0987c82e04876767ad3e",
@@ -27231,7 +27421,7 @@
       "ef2da451-1285-40a9-9ae6-daaf7eb192fb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T00:49:08Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_89d9b51030c94af98730",
@@ -28261,7 +28451,7 @@
       "0c4e46db-7b40-4943-8f88-500bfd23ab88"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T04:36:48Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_e9edb9fcc8ebd4cefe4e",
@@ -28945,7 +29135,7 @@
       "634fd365-033b-46a1-b660-a50d8390429f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_691611c806d8de9e6c2b",
@@ -32888,7 +33078,7 @@
       "49619256-18be-4f40-8d20-9def802f8c33"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T21:05:57Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_5ee06bcfc72343c55121",
@@ -39389,7 +39579,7 @@
       "431ade01-6897-4244-8adc-1a67caa7f22d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_609973ccf67256539612",
@@ -39867,7 +40057,7 @@
       "d19cfc3a-97ce-4de1-a8a0-4fd32223fbf5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T13:29:33Z"
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
     "id": "aws_b111c285c1bfce475a00",
@@ -39925,6 +40115,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T03:16:14Z"
+  },
+  {
+    "id": "aws_d2beca90f890cf3a2198",
+    "stationId": "awb_654f8c2a13e0df1f2962",
+    "name": "PlayaFm",
+    "country": "MX",
+    "url": "https://vdo6.instainternet.com:3229/live/playatvlive.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a9bd2131-1b64-4e38-8258-7d8a672bf9f7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T16:58:02Z"
   },
   {
     "id": "aws_fe0c821d50de1101ae48",
@@ -40116,7 +40325,7 @@
       "404c6360-08d7-4270-9c02-6149300f6454"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_89ece3627ff4ad187c25",
@@ -40558,7 +40767,7 @@
   {
     "id": "aws_8f52c1ba25ab18d85429",
     "stationId": "awb_01b672ad7c89f2de5513",
-    "name": "Radio Activa 89.7 FM Hermosillo, Sonora",
+    "name": "RADIO ACTIVA 89.7 FM ⚡ Hermosillo, Sonora",
     "country": "MX",
     "url": "https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8",
     "codec": "aac",
@@ -40569,10 +40778,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9eb18850-1841-4672-9429-f47d40f1ad58"
+      "9eb18850-1841-4672-9429-f47d40f1ad58",
+      "ca8b9768-9c2c-4a0a-8e1d-05e82e979576"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T21:08:29Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_273e801a6a30a6fef739",
@@ -40783,7 +40993,7 @@
       "bc09174c-02a3-4102-abbe-858312c7a0bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T08:38:14Z"
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_557dabddaf559a8f51e6",
@@ -42223,7 +42433,7 @@
     "stationId": "awb_5c85b30d7c654a728717",
     "name": "Radio Fest Tehuacán",
     "country": "MX",
-    "url": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRLT1ZwNTg2UXdTLUpCclB4cW9LWVEiLCJpYXQiOjE3OTMzOTQzMTksImV4cCI6MTc5MzM5NDM3OX0.DuyYLqRYExcGDbQqYmH-oOM-ETaA7ezZ7_yD_8sAAYA",
+    "url": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijc2RmpvZXd3U0IyeFBHaXZpcVRnWUEiLCJpYXQiOjE3OTM4MjY5NzksImV4cCI6MTc5MzgyNzAzOX0.yDbGdPtYOdrc3sldKtLAqz37LJv33Qk9HGniWyi0IFY",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -42235,7 +42445,7 @@
       "aca6e13a-f563-46ac-ae91-bede2856c4bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T21:05:57Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_3b4fc5bb2dcc95b5c0eb",
@@ -43341,7 +43551,7 @@
       "3a333264-9a09-45f5-81e2-800423bc0834"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T19:19:51Z"
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
     "id": "aws_3a97a175dd04654208f8",
@@ -44295,7 +44505,7 @@
       "b7717fda-dabb-4d58-817e-e1d1519d6270"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T19:19:51Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_05379c1a25122eb9195b",
@@ -44945,6 +45155,25 @@
     "lastCheckedAt": "2026-11-01T04:26:11Z"
   },
   {
+    "id": "aws_b3b54d086009f31f4383",
+    "stationId": "awb_46ef7bc63d90183b7576",
+    "name": "RADIO UJAT 96.1 (Villahermosa) - 96.1 FM - XHUJAT-FM - UJAT (Universidad Juárez Autónoma de Tabasco) - Villahermosa, Tabasco",
+    "country": "MX",
+    "url": "https://streamingcwsradio30.com/8212/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "90aa34b9-a333-45a7-b82a-e321604d7812"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_f6c691e5c43679556d9f",
     "stationId": "awb_e3222ed5c38c11ebbda5",
     "name": "RADIO UNAM (AM): Experiencia Sonora",
@@ -44981,6 +45210,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T10:52:46Z"
+  },
+  {
+    "id": "aws_a0cf2c4c02afc3f524f3",
+    "stationId": "awb_6331d524bfe6134b0aa8",
+    "name": "RADIO UNAM 860 (CDMX) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México",
+    "country": "MX",
+    "url": "https://tv.radiohosting.online:9486/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "439d244c-dc2a-4d82-9d83-5025ff1701ab"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_3c4d1b8e0927c3aa6a46",
@@ -45341,7 +45589,7 @@
       "5f2b0d0c-f5aa-4fc0-9d95-fa92a1fda9e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
   },
   {
     "id": "aws_b60cd37ebdd6a42b50d4",
@@ -47553,7 +47801,7 @@
       "261289bc-e417-4fdd-82d2-c95be675ae3b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:05:03Z"
   },
   {
     "id": "aws_dae40e434af1f07c3ae9",

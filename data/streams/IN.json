@@ -842,7 +842,7 @@
       "088aa625-41a3-40d2-915a-25147df6ff1c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
   },
   {
     "id": "aws_fe029c0787ed094322db",
@@ -861,7 +861,7 @@
       "06d444be-52ab-4be4-bd81-68a7e707703b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_625df4aa1acba2632275",
@@ -937,7 +937,7 @@
       "a842fabe-c0a2-48b0-95dd-01cb4949bb50"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:13:38Z"
+    "lastCheckedAt": "2026-11-03T21:25:30Z"
   },
   {
     "id": "aws_dae664534895e80f182a",
@@ -3718,7 +3718,7 @@
       "b36dacea-9f5d-490a-a4a2-5224c92f242c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T19:47:42Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_62073ef2f01f2166f229",
@@ -4314,7 +4314,7 @@
       "fce74d2f-b975-4fdd-888e-e4db23ac4663"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T00:49:08Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_7045d2b07c16325a77b0",
@@ -8089,7 +8089,7 @@
       "8c89084d-a7fb-4d2d-b5c1-00013e151623"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T16:58:02Z"
   },
   {
     "id": "aws_7eaa223a657e6702c7f8",
@@ -8735,7 +8735,7 @@
       "97f4ca7a-7571-4aeb-b325-d98166a76153"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T21:05:58Z"
+    "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
     "id": "aws_3dc3242fb8bda17b1865",
@@ -9103,8 +9103,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "aef7a671-ab0b-407a-bce3-b22daf7b1053",
-      "da1e64fd-b928-48a4-aa1b-a6cb99c381af"
+      "aef7a671-ab0b-407a-bce3-b22daf7b1053"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-10-31T10:59:05Z"
@@ -10057,7 +10056,7 @@
       "33f175ce-e140-44ff-8c9d-257522a8bfca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T23:17:52Z"
+    "lastCheckedAt": "2026-11-05T00:25:13Z"
   },
   {
     "id": "aws_021f9f3b852ca90d679f",
@@ -11690,7 +11689,7 @@
       "7bd22d8e-d795-41ef-b1bb-fe931b7e897b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:13:38Z"
+    "lastCheckedAt": "2026-11-03T21:25:30Z"
   },
   {
     "id": "aws_486a367033ad91ed20d9",
@@ -12120,7 +12119,7 @@
       "b8de31a7-5eec-43b5-ad77-761b4baa92c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T21:41:55Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_599ea795cd802d5d1b5c",
@@ -12976,7 +12975,7 @@
       "4bbf26ef-bcea-4646-af3f-e2b5ab606649"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:05:03Z"
   },
   {
     "id": "aws_0f174a907a1eaa7abeb9",
@@ -13655,6 +13654,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-02T00:45:10Z"
+  },
+  {
+    "id": "aws_5e2f0df5a4caaab12d37",
+    "stationId": "awb_ed4595482009ea08d205",
+    "name": "Radio Sangwari",
+    "country": "IN",
+    "url": "https://servidor19-4.brlogic.com:7002/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "481b991b-14f4-4777-b146-1853f19ae7ab"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_980be7a948467f86a884",
@@ -17891,7 +17909,7 @@
     "country": "IN",
     "url": "https://centova1.dribbcast.com/proxy/vaigaifm/stream",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -17901,7 +17919,7 @@
       "b785e08f-e01a-4603-ad22-04616839a4c1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T19:56:31Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_852214da785e13cf15db",
@@ -18173,7 +18191,7 @@
       "3c8b42bb-f1ae-4fea-802a-facdb2d8ad6c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T03:40:31Z"
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_a8b745e74dd5773b4a8a",

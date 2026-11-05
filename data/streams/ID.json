@@ -2266,6 +2266,25 @@
     "lastCheckedAt": "2026-11-01T21:12:07Z"
   },
   {
+    "id": "aws_9ffe002038857fab9900",
+    "stationId": "awb_44ca6c59042111bdb680",
+    "name": "Galuh FM Bali",
+    "country": "ID",
+    "url": "https://a12.siar.us:8390/stream",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3cec9ee6-2c33-451a-b60b-e486fac48263"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
+  },
+  {
     "id": "aws_c44d44d066434e3f5887",
     "stationId": "awb_3778e9b5f5c3e9a3b8cc",
     "name": "Galuh Media Streaming Cianjur Indonesia",
@@ -2401,6 +2420,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T13:56:21Z"
+  },
+  {
+    "id": "aws_b6b156c80ab3d0b34242",
+    "stationId": "awb_d45283beb1fcabb13062",
+    "name": "Gen 98.7 FM (Jakarta)",
+    "country": "ID",
+    "url": "https://ic2.mari.co.id:8443/genfm",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "eb1d559c-dd70-4688-a6a2-48b2fd45f64d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_0f1db85f057ddecfe4d4",
@@ -3545,6 +3583,25 @@
     "lastCheckedAt": "2026-11-01T21:04:07Z"
   },
   {
+    "id": "aws_6dc7a65ef5da2d052a48",
+    "stationId": "awb_03aec5bb273da274f7d7",
+    "name": "Jak 101 FM",
+    "country": "ID",
+    "url": "https://ic2.mari.co.id:8443/jakfm",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "185a0d63-6bf8-42b8-8756-95cdc3870b80"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
+  },
+  {
     "id": "aws_a6748058d9eed1d6602a",
     "stationId": "awb_96e729b1c300eb727b02",
     "name": "Jak FM 101",
@@ -4132,6 +4189,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T21:47:02Z"
+  },
+  {
+    "id": "aws_fe551d2ad302ef89ef05",
+    "stationId": "awb_4e1b7ed062ccdfe6b27b",
+    "name": "Kuta Radio 106 FM",
+    "country": "ID",
+    "url": "https://a7.siar.us/listen/radiokutafm/stream",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4d856ef2-2a81-4aed-aa7d-69ecd158be5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_68a2d66ed6c37ed067a8",
@@ -5875,6 +5951,25 @@
     "lastCheckedAt": "2026-11-01T22:11:01Z"
   },
   {
+    "id": "aws_14f399d95aa48345c0a4",
+    "stationId": "awb_1c9a7b9403b8bb80b4d3",
+    "name": "Pinguin FM Bali",
+    "country": "ID",
+    "url": "https://live.radiopinguinfm.com:8350/;stream.mp3",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "25a85877-ddcd-42b5-86d1-42c69a88da32"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
+  },
+  {
     "id": "aws_dc2fae091363ed844f40",
     "stationId": "awb_1a6f5ddfdd84f03afd9f",
     "name": "POLARIS FM",
@@ -5985,8 +6080,8 @@
     "name": "Prambors Semarang",
     "country": "ID",
     "url": "https://stream.tujuhcahaya.com/radio/8020/radio.mp3",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -5996,7 +6091,7 @@
       "a167711e-ed46-4f44-a3dd-cba8ae390439"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-03T16:58:02Z"
   },
   {
     "id": "aws_6218077f14ca9a04c27c",
@@ -7445,6 +7540,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T20:18:39Z"
+  },
+  {
+    "id": "aws_6874ec39612f2f00b4b5",
+    "stationId": "awb_7f9b90a17e5c598aa19d",
+    "name": "Radio Ntala Gewang",
+    "country": "ID",
+    "url": "https://live.radiostream.id/listen/radiontalagewang/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e26f8d53-61a8-4f38-83b3-add8bb847d12"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_1be2ec2c6355bb674d37",
@@ -9349,7 +9463,7 @@
       "ddfa0c91-d74d-4271-8f46-af32951e7fb9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_53546d1364e0d66a78b3",
@@ -9958,6 +10072,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T03:11:47Z"
+  },
+  {
+    "id": "aws_36b9a281f1ed3bcd4b46",
+    "stationId": "awb_a0b88b6818f4b8b107b2",
+    "name": "Suara Salatiga",
+    "country": "ID",
+    "url": "https://icecast.salatiga.go.id:8443/stream.ogg",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9de389fa-d2f9-424e-9967-d4a4787dc6bd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_67e5168ab4284a02ce83",

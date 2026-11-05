@@ -3228,7 +3228,7 @@
       "222698e2-3b3e-4a44-a7a6-48a50c2689d5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_c9a7767b18ee9ed4cec4",
@@ -4118,7 +4118,7 @@
       "912f55b4-3506-4aff-85be-9bc42310c262"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T08:38:14Z"
+    "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
     "id": "aws_8d87f524314bbc764045",
@@ -8416,6 +8416,25 @@
     "lastCheckedAt": "2026-11-01T21:46:17Z"
   },
   {
+    "id": "aws_7a92c356c82099976b6d",
+    "stationId": "awb_9189e0bca1b194916077",
+    "name": "Radio Doxologia",
+    "country": "RO",
+    "url": "https://rlive.doxologia.ro/stream.mp3",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "57143c59-a283-4a4a-b07b-efe4553ed46d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T20:07:01Z"
+  },
+  {
     "id": "aws_7051b7e5734c20f38866",
     "stationId": "awb_dfd6c50d42e1f925ebeb",
     "name": "Radio Doza Manele",
@@ -12502,6 +12521,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T00:44:07Z"
+  },
+  {
+    "id": "aws_b4d7011b256166d8e490",
+    "stationId": "awb_56ece0dddd5d895129aa",
+    "name": "Radio Super Manele",
+    "country": "RO",
+    "url": "https://asculta.muzicaok.de:8046/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "95ebfafc-55a1-4abb-bacf-7dc7b8bab45b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T21:25:30Z"
   },
   {
     "id": "aws_dd587f2da310d3548e66",

@@ -543,7 +543,7 @@
       "dcbd792b-1547-440b-82ae-23b6f926283e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:53:00Z"
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
   },
   {
     "id": "aws_2bff254543d91e09ab2c",
@@ -562,7 +562,7 @@
       "34ccc82a-2ee3-4f71-b9b4-11bf66ef07bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T21:13:38Z"
+    "lastCheckedAt": "2026-11-03T21:25:30Z"
   },
   {
     "id": "aws_a93c57836fd603947322",
@@ -1079,7 +1079,7 @@
     "stationId": "awb_8b3eb786d74712b6c5ba",
     "name": "Radio Angelika",
     "country": "IL",
-    "url": "https://radioangelika.com/stream",
+    "url": "https://radioangelika.com:8443/live",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -1091,7 +1091,7 @@
       "c6d2c435-0e91-4c63-b56f-919edebc93fd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T23:17:52Z"
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_2d96a85c08d540580fb2",
@@ -2050,6 +2050,25 @@
     "lastCheckedAt": "2026-11-01T06:18:48Z"
   },
   {
+    "id": "aws_da5aca621327fdf07e7f",
+    "stationId": "awb_c44ab4140025d50d0785",
+    "name": "Reichmann AudioVersity",
+    "country": "IL",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d49053be-1450-42f7-94dc-fbc6406c719e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
+  },
+  {
     "id": "aws_fc48b77718cb4edae9a7",
     "stationId": "awb_a358ec7b71c742ac4f4c",
     "name": "Star 33 Radiostation",
@@ -2575,7 +2594,7 @@
       "4eaa23cb-9fe0-4cfe-ad2e-a87454fec609"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_2b759820237a93d05c64",

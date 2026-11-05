@@ -1644,6 +1644,25 @@
     "lastCheckedAt": "2026-11-01T02:10:08Z"
   },
   {
+    "id": "aws_b1b7ca470750c5152210",
+    "stationId": "awb_f4fe3bddfd9396030265",
+    "name": "2RPH Sydney 1224",
+    "country": "AU",
+    "url": "https://23203.live.streamtheworld.com/2RPH.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "92b52957-1098-4373-95a9-1ab953bf991b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
+  },
+  {
     "id": "aws_cea69483fa0dcad9e10b",
     "stationId": "awb_d73566f75d738288ef7a",
     "name": "2RRR - Ryde - 88.5 FM (AAC)",
@@ -1895,25 +1914,6 @@
     "lastCheckedAt": "2026-11-01T20:29:29Z"
   },
   {
-    "id": "aws_ed248d8ab99b81ba0f5a",
-    "stationId": "awb_3dd8e681af85d65e3d21",
-    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
-    "country": "AU",
-    "url": "http://19273.live.streamtheworld.com/BOW_2STAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc6b1a66-997e-4e0d-9502-8641f052d044"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T19:19:48Z"
-  },
-  {
     "id": "aws_75b74b327ce5318f2049",
     "stationId": "awb_13afc8694b641e4993ad",
     "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
@@ -1931,6 +1931,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T02:42:00Z"
+  },
+  {
+    "id": "aws_ed248d8ab99b81ba0f5a",
+    "stationId": "awb_3dd8e681af85d65e3d21",
+    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+    "country": "AU",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dc6b1a66-997e-4e0d-9502-8641f052d044"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
     "id": "aws_03631206a2196f390910",
@@ -2045,6 +2064,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T08:47:57Z"
+  },
+  {
+    "id": "aws_70fda343afaf03e69673",
+    "stationId": "awb_92debe7e4c14f235bc02",
+    "name": "2UE 954 AM Sydney",
+    "country": "AU",
+    "url": "https://sa46.scastream.com.au/live/2ue_128.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 130,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e8819c64-214d-4d75-941a-c91308cb6b28"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_9ab62595c45eacc603ac",
@@ -3465,7 +3503,7 @@
       "72452618-dcd0-4e72-adf2-a3df331956e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T00:49:08Z"
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_5d20c9daad8cb99dab91",
@@ -3603,6 +3641,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T12:47:18Z"
+  },
+  {
+    "id": "aws_23c7757134b089b9da56",
+    "stationId": "awb_42744c9c4d235e623a34",
+    "name": "6DBY Larrkadi Radio 97.9",
+    "country": "AU",
+    "url": "https://firstnationsmedia.stream/8042/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "204f9ed6-5a56-4c38-a5c6-1bbf98ebf5df"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_842d64057618f9ee3b26",
@@ -3888,7 +3945,7 @@
       "b053c7be-2ead-4139-be64-f3733ed80631"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T20:05:03Z"
   },
   {
     "id": "aws_f812f3e8cfc1ba3334ed",
@@ -5449,7 +5506,7 @@
       "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T04:36:48Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_5bba1a2d48e5c836a247",
@@ -8012,7 +8069,7 @@
       "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T00:49:08Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_e12a6e41968036dfee29",
@@ -15711,7 +15768,7 @@
       "3de0ed72-b752-41df-99f9-26c5d95befe1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T04:36:48Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_265c4046fccf20060509",
@@ -15902,6 +15959,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T04:09:45Z"
+  },
+  {
+    "id": "aws_8a00746ef27d54e82811",
+    "stationId": "awb_1aadefb9801f6cab39bc",
+    "name": "CHY FM 104.1 Coffs Harbour",
+    "country": "AU",
+    "url": "https://14533.live.streamtheworld.com/2CHYAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "287e4ffe-9ad8-4f0c-bf87-f579a5168ba4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_e427d8935d0cae1c3a09",
@@ -16992,7 +17068,7 @@
       "2ba2b5c2-90e7-40f5-99c9-250639e4be80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T19:19:51Z"
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
     "id": "aws_690135e4f704f0e09f5d",
@@ -17222,7 +17298,7 @@
       "36108a02-ecdd-4fb7-ab90-70967ea4089a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_d4f3f898ef98f0ea9365",
@@ -17263,6 +17339,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T18:27:51Z"
+  },
+  {
+    "id": "aws_ca1278b7ba38c26a0c1c",
+    "stationId": "awb_a078f1fc05c609bbc1fe",
+    "name": "Faith FM Australia",
+    "country": "AU",
+    "url": "http://stream1.faithfm.com.au/FaithFM.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e983cac5-6838-4b9c-a611-51e342153b22"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_db4ea7374855df033742",
@@ -17511,7 +17606,7 @@
       "251be461-9e61-473b-bdc5-34ddc076845c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_3b6d8757739f5475ff52",
@@ -18770,7 +18865,7 @@
     "country": "AU",
     "url": "https://hq3.yesstreaming.net/happyradio/stream",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 0,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -18781,7 +18876,7 @@
       "eee408cd-7d2d-45bd-a20c-3467c6c88202"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T00:34:13Z"
+    "lastCheckedAt": "2026-11-05T00:43:24Z"
   },
   {
     "id": "aws_4fe6cedc79ca59ae9bf8",
@@ -19168,6 +19263,25 @@
     "lastCheckedAt": "2026-11-01T11:41:03Z"
   },
   {
+    "id": "aws_d846dd49e31927e87d75",
+    "stationId": "awb_7557b5d54a7f7c03dcf9",
+    "name": "Hope 103.2 Sydney",
+    "country": "AU",
+    "url": "https://28853.live.streamtheworld.com/2CBAAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c39c4033-487a-4f89-9d41-bbb0fde522e8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-03T22:03:13Z"
+  },
+  {
     "id": "aws_97e245bd1913385219df",
     "stationId": "awb_72a0a73adfcb488e4452",
     "name": "Hope St Radio",
@@ -19184,7 +19298,7 @@
       "7dd79327-d4fb-4f34-a914-1a8688345306"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T00:13:50Z"
+    "lastCheckedAt": "2026-11-05T00:25:13Z"
   },
   {
     "id": "aws_a75b2bcd4a9cef6bb8ad",
@@ -20364,6 +20478,25 @@
     "lastCheckedAt": "2026-11-02T08:44:56Z"
   },
   {
+    "id": "aws_a11f196508fde08e492a",
+    "stationId": "awb_23d5a6b1bf4d27ff3042",
+    "name": "Kool FM Innisfail 98.3",
+    "country": "AU",
+    "url": "https://stream03.syd.hostgeek.com.au/koolfm/stream",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a59574bb-4a1b-41f3-9d93-8719dbdf9359"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_f3a990bf452f41b5110d",
     "stationId": "awb_108f1213d7e762c34a54",
     "name": "Kool Muzik",
@@ -20551,7 +20684,7 @@
       "22712005-24d5-4e3b-8338-a0ad756740d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T23:17:52Z"
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_3c204fdc4fe847953b86",
@@ -23106,6 +23239,25 @@
     "lastCheckedAt": "2026-11-01T06:09:37Z"
   },
   {
+    "id": "aws_671e46667ba556c51bec",
+    "stationId": "awb_607188b5957dd2826723",
+    "name": "Live Radio Tirol",
+    "country": "AU",
+    "url": "https://stream.liferadio.tirol/live/mp3-192/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "05450f7d-0bd5-40aa-adf4-06acb583eba6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
+  },
+  {
     "id": "aws_283c5e275378cf6360dd",
     "stationId": "awb_5debbfae1aae9cf03b65",
     "name": "Lofty Community Media",
@@ -23435,6 +23587,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T06:23:09Z"
+  },
+  {
+    "id": "aws_1508df9544901b58a67e",
+    "stationId": "awb_f99335b10d12788e288b",
+    "name": "Middle East Radio 87.6 FM Melbourne",
+    "country": "AU",
+    "url": "http://hyades.shoutca.st:8998/live",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c93bd5ba-c34b-42fa-aaeb-988fc8728b72"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_3861fb8f3a70613c00c5",
@@ -23840,7 +24011,7 @@
       "277ec83d-4628-45ae-b436-e474f8505440"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-30T15:45:10Z"
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_35f8e20aee9e293c9146",
@@ -25190,7 +25361,7 @@
       "5da9e61c-add8-47d5-b648-3f4420fc4b60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-29T16:43:29Z"
+    "lastCheckedAt": "2026-11-03T16:58:02Z"
   },
   {
     "id": "aws_1b61cb12e796826f00f5",
@@ -26250,6 +26421,25 @@
     "lastCheckedAt": "2026-11-01T17:32:17Z"
   },
   {
+    "id": "aws_ba9d778f280b853a635e",
+    "stationId": "awb_4656b15145297117c66e",
+    "name": "Radio Dungog 107.9",
+    "country": "AU",
+    "url": "https://28853.live.streamtheworld.com/RADIO_DUNGOGAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "776c09a3-bf92-40f4-adf0-ab32d33c0051"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T16:57:56Z"
+  },
+  {
     "id": "aws_91bc8a6c0a786f104216",
     "stationId": "awb_7ff6c7794015817706fe",
     "name": "Radio Eastern FM - Croydon, Melbourne - 98.1 FM (AAC+)",
@@ -27178,7 +27368,7 @@
     "country": "AU",
     "url": "https://regfm.radioca.st/stream",
     "codec": "aac+",
-    "bitrate": 224,
+    "bitrate": 160,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -27188,7 +27378,7 @@
       "6508b94b-bb72-4645-a8ac-e0910cff5ab9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T08:38:14Z"
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
   },
   {
     "id": "aws_4556fe7a8762a3679fec",
@@ -27863,6 +28053,25 @@
     "lastCheckedAt": "2026-11-01T18:41:19Z"
   },
   {
+    "id": "aws_093241f51cd6247f7132",
+    "stationId": "awb_adcecb9b578d809b38fc",
+    "name": "Sapphire FM Merimbula 97.5",
+    "country": "AU",
+    "url": "https://stream.sapphirefm.au/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "12e3de71-7cde-4e9b-a677-0a047fef1d65"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
+  },
+  {
     "id": "aws_dc524ad7a3c2f0b4b0da",
     "stationId": "awb_910dc627fc1e5da423e6",
     "name": "Savage Hits (MP3)",
@@ -28134,6 +28343,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T00:07:21Z"
+  },
+  {
+    "id": "aws_15eba67034da2cfe55dd",
+    "stationId": "awb_6e05c0646011cdba3896",
+    "name": "Sky Sports Radio",
+    "country": "AU",
+    "url": "https://sky-new.akamaized.net/hls/live/2036960/radiotab/index_webradiotab.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "802b9245-21a6-4f7d-a1e2-a2c72d749133"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_5df5b80e171aac94dbe2",
@@ -30715,6 +30943,25 @@
     "lastCheckedAt": "2026-11-02T01:55:51Z"
   },
   {
+    "id": "aws_7845c3dde658a328c626",
+    "stationId": "awb_05cd887900c7a85dfd37",
+    "name": "TMFM 95.5 Tamworth",
+    "country": "AU",
+    "url": "https://usa21.fastcast4u.com:1040/;",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "38e39f46-6946-4de1-b991-9316edccf9d4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_638c37074a4b6b1916a3",
     "stationId": "awb_a8c2135abf13019786f6",
     "name": "Todays Country 94One - Gosford - 94.1 FM (AAC)",
@@ -31889,6 +32136,25 @@
     "lastCheckedAt": "2026-11-01T15:07:34Z"
   },
   {
+    "id": "aws_0503e624f1607a32ba54",
+    "stationId": "awb_63ed37c11b4cb9ff0d11",
+    "name": "Tune FM",
+    "country": "AU",
+    "url": "https://28793.live.streamtheworld.com/2UNEAAC.aac",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ee7eee56-7b29-4594-8620-f610a9eeed7d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
+  },
+  {
     "id": "aws_92c8b10469991b9ee489",
     "stationId": "awb_0d9db1969d1f9a45c99f",
     "name": "UCFM - Canberra - 87.8 FM (MP3)",
@@ -31925,6 +32191,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T05:38:55Z"
+  },
+  {
+    "id": "aws_fc9a0e256ee312a1adb0",
+    "stationId": "awb_330102c34c7819e3ef26",
+    "name": "Ultra 106.5 Hobart",
+    "country": "AU",
+    "url": "https://stream2.cnmns.net/106five",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1d631856-7c57-4a36-b178-8ce6965f4afa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_bab2f80487ab332c5e0c",
