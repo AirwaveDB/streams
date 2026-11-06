@@ -71,7 +71,7 @@ http://live.leanstream.co/CJDVFM
 https://cob.leanstream.co/CKMBFM-MP3?args=mobile_02
 #EXTINF:-1 station-id="awb_ea4ea9d284efe3fbb940" stream-id="aws_2115230b879e50f71e56" codec="mp3" bitrate="128",4lobos bollywood radio
 http://puma.streemlion.com:4130/stream
-#EXTINF:-1 station-id="awb_2ae30af971cbd7a5d5a3" stream-id="aws_f56ff79a6bef48fe0c77" codec="unknown" bitrate="0",570 News Kitchener
+#EXTINF:-1 station-id="awb_2ae30af971cbd7a5d5a3" stream-id="aws_f56ff79a6bef48fe0c77" codec="aac+" bitrate="48",570 News Kitchener
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_f8fd23f15ac33bbd0ec4" stream-id="aws_d9d0881c76b86d755e50" codec="aac+" bitrate="64",620 CKRM The Source
 https://ais-sa1.streamon.fm/7267_64k.aac
@@ -95,7 +95,7 @@ https://puma.streemlion.com:2910/stream
 https://puma.streemlion.com:2910/stream
 #EXTINF:-1 station-id="awb_7c838ad9c179f1e54e6c" stream-id="aws_de7b0a62f8f0ac85a69d" codec="aac" bitrate="95",88.9 Shine FM
 https://shinefm.streamguys1.com/cjsi
-#EXTINF:-1 station-id="awb_c482708728b0a05319f4" stream-id="aws_223cbd60ac3cb8f47ed7" codec="aac" bitrate="129",90.3 AMP Radio
+#EXTINF:-1 station-id="awb_c482708728b0a05319f4" stream-id="aws_223cbd60ac3cb8f47ed7" codec="aac" bitrate="130",90.3 AMP Radio
 https://stingray.leanstream.co/CKMPFM-MP3?args=mobile_02
 #EXTINF:-1 station-id="awb_3959cbb0d9bcf6ac81a4" stream-id="aws_319eb27b59cf7d181ad6" codec="aac+" bitrate="32",91.7 CIXL Giant FM Classic Rock
 https://mybroadcasting.streamb.live/SB00329
@@ -117,7 +117,7 @@ https://stream.jpbgdigital.com/CHNW/HEAAC/48k/playlist.m3u8
 https://mbsradio.leanstream.co/CKPEFM-MP3
 #EXTINF:-1 station-id="awb_d13c7933eaa7b0519a5a" stream-id="aws_7158991737818679bd24" codec="aac+" bitrate="98",95.5 Hits FM
 https://starboard.streamb.live/SB00160
-#EXTINF:-1 station-id="awb_b224417f9dea5db196e7" stream-id="aws_55a4f045c5eee0dda832" codec="mp3" bitrate="71",95.7 Cruz FM Edmonton
+#EXTINF:-1 station-id="awb_b224417f9dea5db196e7" stream-id="aws_55a4f045c5eee0dda832" codec="mp3" bitrate="64",95.7 Cruz FM Edmonton
 https://ais-sa1.streamon.fm/7263_64k.mp3
 #EXTINF:-1 station-id="awb_67c4f6fb32b602076756" stream-id="aws_69a971fd3f7cbe9285f6" codec="aac+" bitrate="128",96 KOOL FM
 https://66.23.226.85/proxy/cfahd1/stream
@@ -173,6 +173,8 @@ https://kathy.torontocast.com:2525/stream
 https://jenny.torontocast.com:8050/stream
 #EXTINF:-1 station-id="awb_b37a82bb7b49c15539b7" stream-id="aws_7c753099d4a92ced41bd" codec="mp3" bitrate="128",Alternative Rock Variety
 https://streaming.live365.com/a18329/playlist.m3u8?playerid=esPlayer
+#EXTINF:-1 station-id="awb_3a8a7e5ac3d89ab6071d" stream-id="aws_193f917cff4bec533e51" codec="aac+" bitrate="57",AM 1150 Talk Radio in Kelowna
+https://vistaradio.streamb.live/SB00399?args=web_01
 #EXTINF:-1 station-id="awb_22058593f1543ac7f5e8" stream-id="aws_076b52dca257f6704419" codec="unknown" bitrate="0",Amazing Discoveries TV
 http://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w817917838.m3u8
 #EXTINF:-1 station-id="awb_65330d76fe900a8ffcf4" stream-id="aws_6c9ccf047bf67c0a62d5" codec="mp3" bitrate="128",Ambient Art Sound
@@ -187,8 +189,6 @@ https://mediaserv73.live-streams.nl:18058/stream
 http://192.34.153.102:8000/AMGRadio.mp3
 #EXTINF:-1 station-id="awb_217b4fb33e93a2d3f0ad" stream-id="aws_580ac54a293246d5b6e9" codec="mp3" bitrate="128",Asia DREAM Radio - Japan Hits
 https://quincy.torontocast.com:2020/;
-#EXTINF:-1 station-id="awb_b1a35b491c777897be55" stream-id="aws_ed18b12f5c4b890d774b" codec="mp3" bitrate="0",ATOMIC FM
-https://atomicfm.duckdns.org/listen/atomic_fm/radio.mp3
 #EXTINF:-1 station-id="awb_4b060931fbff7b29a3b9" stream-id="aws_a77ff99cf430c453ea8b" codec="mp3" bitrate="320",Audiofumes Radio
 https://audiofumes.ca:8443/AudiofumesRadio
 #EXTINF:-1 station-id="awb_9944a7bf3b165fe532c1" stream-id="aws_3e88044337935b08d6e7" codec="mp3" bitrate="64",AVR 97.7
@@ -296,7 +296,7 @@ http://streams.calmradio.com/api/59/128/stream
 #EXTINF:-1 station-id="awb_1c861db48ca4b75172d9" stream-id="aws_eb8f8d90612f4093c6b6" codec="mp3" bitrate="128",Calmradio Rossini
 https://proxy.calmradio.com:14128/;
 #EXTINF:-1 station-id="awb_b2a6ed41201fe59ed7a1" stream-id="aws_32e7b981d60abde7dad5" codec="mp3" bitrate="128",CALMRADIO.COM - Sleep Channel
-http://streams.calmradio.com:30628/stream
+https://streams.calmradio.com/api/39/128/stream
 #EXTINF:-1 station-id="awb_32b59de3e7a5f3ab44e4" stream-id="aws_65cce75e717f10dab950" codec="mp3" bitrate="128",CALMRADIO.COM - Zen
 http://streams.calmradio.com:14028/stream/1/
 #EXTINF:-1 station-id="awb_c729dc87f080eea9088e" stream-id="aws_f25f6036819dc51fc4fe" codec="mp3" bitrate="128",CamoesRadio.com - Toronto, ON
@@ -313,8 +313,10 @@ https://27033.live.streamtheworld.com/CBR1FM_CBC.mp3
 https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
 #EXTINF:-1 station-id="awb_de1248e9a158dd21503d" stream-id="aws_1e40892528ad031fd1c4" codec="mp3" bitrate="128",CBC Music (Central) - Winnipeg, MB
 https://22983.live.streamtheworld.com/CBWFM_CBC_SC
+#EXTINF:-1 station-id="awb_de1248e9a158dd21503d" stream-id="aws_1e0599ed5540aecba854" codec="mp3" bitrate="128",CBC Music (Central) - Winnipeg, MB
+https://27033.live.streamtheworld.com/CBWFM_CBC_SC
 #EXTINF:-1 station-id="awb_31facfc433e77e0ee232" stream-id="aws_f91ce11b6f4916c3403d" codec="mp3" bitrate="128",CBC Music Atlantic (Halifax) MP3 Stream
-https://26183.live.streamtheworld.com/CBH_CBC_SC
+https://17813.live.streamtheworld.com/CBH_CBC_SC
 #EXTINF:-1 station-id="awb_31facfc433e77e0ee232" stream-id="aws_d741d3c77091c3d704a1" codec="mp3" bitrate="128",CBC Music Atlantic (Halifax) MP3 Stream
 https://26283.live.streamtheworld.com/CBH_CBC_SC
 #EXTINF:-1 station-id="awb_adc9811339cae92ebe16" stream-id="aws_f960f548fbcf68b17f1d" codec="unknown" bitrate="0",CBC Music Central (Winnipeg) - AAC Stream
@@ -333,10 +335,10 @@ https://26373.live.streamtheworld.com/CBLFM_CBC_SC
 https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 #EXTINF:-1 station-id="awb_c1661989d1d8318c3cae" stream-id="aws_310eac11461ca7122fb5" codec="aac" bitrate="48",CBC Music Pacific
 https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8
+#EXTINF:-1 station-id="awb_57711f15a83423dce3b1" stream-id="aws_5e08d47e981a824f6f7d" codec="mp3" bitrate="128",CBC Music Pacific (Vancouver) MP3 Stream
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
 #EXTINF:-1 station-id="awb_57711f15a83423dce3b1" stream-id="aws_01aaab07ea9c6732dc0e" codec="mp3" bitrate="128",CBC Music Pacific (Vancouver) MP3 Stream
 https://26283.live.streamtheworld.com/CBUFM_CBC_SC
-#EXTINF:-1 station-id="awb_57711f15a83423dce3b1" stream-id="aws_5e08d47e981a824f6f7d" codec="mp3" bitrate="128",CBC Music Pacific (Vancouver) MP3 Stream
-https://26733.live.streamtheworld.com/CBUFM_CBC_SC
 #EXTINF:-1 station-id="awb_021e61d82ed18fa63129" stream-id="aws_23f267e75b9b0776a94f" codec="mp3" bitrate="128",CBC North - Iqaluit, NU
 https://27033.live.streamtheworld.com/CFFBAM_CBC_SC
 #EXTINF:-1 station-id="awb_15c4b5ae3879e6a499ae" stream-id="aws_1fe3164625afc890bd57" codec="aac" bitrate="48",CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
@@ -362,27 +364,27 @@ https://cbcradiolive.akamaized.net/hls/live/2041045/ES_R1NGB/master.m3u8
 #EXTINF:-1 station-id="awb_6e8a23e7f324733db337" stream-id="aws_86c4db6a320854c0c38c" codec="mp3" bitrate="128",CBC Radio One - Charlottetown, PE
 https://26733.live.streamtheworld.com/CBCTFM_CBC_SC
 #EXTINF:-1 station-id="awb_5afb84df9bf3f324813e" stream-id="aws_1a8590fa0b7fa1bfec62" codec="mp3" bitrate="128",CBC Radio One - Corner Brook, NL (MP3 Stream)
-https://17813.live.streamtheworld.com/CBYAM_CBC_SC
+https://26733.live.streamtheworld.com/CBYAM_CBC_SC
 #EXTINF:-1 station-id="awb_25bb05d8ac5468063f95" stream-id="aws_c621c3da8c19fd5b9e93" codec="mp3" bitrate="128",CBC Radio One - Fredericton, NB (MP3 stream)
 https://26733.live.streamtheworld.com/CBZFFM_CBC_SC
 #EXTINF:-1 station-id="awb_8ed67db27b7e4fa4fb9d" stream-id="aws_be7e77c72a02af17aafb" codec="mp3" bitrate="128",CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)
 https://17813.live.streamtheworld.com/CBGAM_CBC_SC
 #EXTINF:-1 station-id="awb_c91cc240ad118871e386" stream-id="aws_f7824c999841319bb65f" codec="mp3" bitrate="128",CBC Radio One - Halifax, NS (MP3 stream)
-https://26183.live.streamtheworld.com/CBHA_CBC_SC
+https://26733.live.streamtheworld.com/CBHA_CBC_SC
 #EXTINF:-1 station-id="awb_d9cdeec74b3e6fa5abb6" stream-id="aws_ddb6d5bbdc1aca9dfe77" codec="mp3" bitrate="128",CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
 https://26733.live.streamtheworld.com/CFGB_CBC_SC
 #EXTINF:-1 station-id="awb_0640e2a9e19e554095d0" stream-id="aws_dfbe970c387440d6361c" codec="mp3" bitrate="128",CBC Radio One - Inuvik, NT (MP3 stream)
-https://27033.live.streamtheworld.com/CHAK_CBC_SC
+https://22983.live.streamtheworld.com/CHAK_CBC_SC
 #EXTINF:-1 station-id="awb_dbf6b11c3e5d618aaa3f" stream-id="aws_e5f48f6429009770cbc7" codec="mp3" bitrate="128",CBC Radio One - Kamloops, BC (MP3 stream)
-https://22983.live.streamtheworld.com/CBYKFM_CBC_SC
+https://27033.live.streamtheworld.com/CBYKFM_CBC_SC
 #EXTINF:-1 station-id="awb_c41ac69495c30322f3e8" stream-id="aws_db181f0426095afdbec2" codec="mp3" bitrate="128",CBC Radio One - Kelowna, BC (MP3 stream)
 https://22983.live.streamtheworld.com/CBTKFM_CBC_SC
 #EXTINF:-1 station-id="awb_308bc4b42c8da9543929" stream-id="aws_3c0b4f888254d845dd72" codec="mp3" bitrate="128",CBC Radio One - Kingston, ON (MP3 stream)
-https://18493.live.streamtheworld.com/CBCKFM_CBC_SC
+https://17813.live.streamtheworld.com/CBCKFM_CBC_SC
 #EXTINF:-1 station-id="awb_264c3fc52c288bd8f38a" stream-id="aws_8872a234a852a5118825" codec="mp3" bitrate="128",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
 https://26183.live.streamtheworld.com/CBLAFM2_CBC_SC
 #EXTINF:-1 station-id="awb_d51761978cdf697462de" stream-id="aws_8efb52d01a662b543c72" codec="mp3" bitrate="128",CBC Radio One - London, ON (MP3 stream)
-https://18853.live.streamtheworld.com/CBCLFM_CBC_SC
+https://26183.live.streamtheworld.com/CBCLFM_CBC_SC
 #EXTINF:-1 station-id="awb_925cfffe4000a7811ee2" stream-id="aws_80ed17c4d6ba96a5dd86" codec="mp3" bitrate="128",CBC Radio One - Moncton, NB (MP3 stream)
 https://18493.live.streamtheworld.com/CBAMFM_CBC_SC
 #EXTINF:-1 station-id="awb_143c99dbeb67cfbae5f0" stream-id="aws_7d4d924fa78a043e1381" codec="mp3" bitrate="128",CBC Radio One - Montreal, QC (MP3 stream)
@@ -398,7 +400,7 @@ https://22983.live.streamtheworld.com/CBYGFM_CBC_SC
 #EXTINF:-1 station-id="awb_b4c6054c404ab86b93ad" stream-id="aws_7d8a510c77ddd6ee26a6" codec="mp3" bitrate="128",CBC Radio One - Quebec City, QC (MP3)
 https://22983.live.streamtheworld.com/CBVEFM_CBC_SC
 #EXTINF:-1 station-id="awb_d5a45c608768717608d1" stream-id="aws_5f5db2bdc0825227eaeb" codec="mp3" bitrate="128",CBC Radio One - Regina, SK (MP3 stream)
-https://27033.live.streamtheworld.com/CBKRFM_CBC_SC
+https://26373.live.streamtheworld.com/CBKRFM_CBC_SC
 #EXTINF:-1 station-id="awb_52037458276120cc36f4" stream-id="aws_e3a687cd1a5eea885977" codec="mp3" bitrate="128",CBC Radio One - Saint John, NB (MP3 stream)
 https://17813.live.streamtheworld.com/CBDFM_CBC_SC
 #EXTINF:-1 station-id="awb_fb6af9a1b587eb1f438f" stream-id="aws_9c9ce6f0933d924b8967" codec="mp3" bitrate="128",CBC Radio One - Saskatoon, SK (MP3 stream)
@@ -418,15 +420,15 @@ https://27033.live.streamtheworld.com/CBU2FM_CBC_SC
 #EXTINF:-1 station-id="awb_b7c5fdd6847af3caf65f" stream-id="aws_ea9d4921487f4a0eb07f" codec="mp3" bitrate="128",CBC Radio One - Victoria, BC (MP3 stream)
 https://26373.live.streamtheworld.com/CBCVFM_CBC_SC
 #EXTINF:-1 station-id="awb_a4ae263b9ff237683b02" stream-id="aws_9e4b3d3955b33798d046" codec="mp3" bitrate="128",CBC Radio One - Whitehorse (MP3 Stream)
-https://22983.live.streamtheworld.com/CFWH_CBC_SC
+https://26373.live.streamtheworld.com/CFWH_CBC_SC
 #EXTINF:-1 station-id="awb_f3bf6edcac74221e3dc6" stream-id="aws_28f2ed87c05c5790d98b" codec="mp3" bitrate="128",CBC Radio One - Windsor, ON (MP3 stream)
 https://26733.live.streamtheworld.com/CBEWFM_CBC_SC
 #EXTINF:-1 station-id="awb_370a5a698f5317a737f3" stream-id="aws_d4b20d693c86f613a80f" codec="mp3" bitrate="128",CBC Radio One - Winnipeg, MB (MP3 stream)
 https://22983.live.streamtheworld.com/CBWAM_CBC_SC
 #EXTINF:-1 station-id="awb_062e2258dd400976c920" stream-id="aws_938f183be091b117fc45" codec="mp3" bitrate="128",CBC Radio One - Yellowknife, NT (MP3)
-https://22983.live.streamtheworld.com/CFYKFM_CBC_SC
+https://26373.live.streamtheworld.com/CFYKFM_CBC_SC
 #EXTINF:-1 station-id="awb_6842e3db5db00553ab62" stream-id="aws_e7703c428df7ec9b2446" codec="mp3" bitrate="128",CBC Radio One Edmonton
-https://26373.live.streamtheworld.com/CBXAM_CBC_SC
+https://22983.live.streamtheworld.com/CBXAM_CBC_SC
 #EXTINF:-1 station-id="awb_e32c2f055125f7a675b2" stream-id="aws_1257d562f7dca26b952b" codec="aac" bitrate="48",CBC Radio One London 93.5
 https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8
 #EXTINF:-1 station-id="awb_70330f0a86f942e5dcc5" stream-id="aws_fd5f46c43383998caa3d" codec="aac" bitrate="48",CBC Radio One Montréal
@@ -475,7 +477,7 @@ https://vistaradio.streamb.live/SB00079
 https://onair.cfcr.ca/hifi.mp3
 #EXTINF:-1 station-id="awb_25e42a83ef0e62e0e633" stream-id="aws_5d497edc54085f1dae69" codec="aac" bitrate="130",CFCW '840 CFCW' Edmonton / Camrose AB
 http://newcap.leanstream.co/CFCWAM
-#EXTINF:-1 station-id="awb_c92a5981d9e6f1675c48" stream-id="aws_9772a079939b3e476d28" codec="aac" bitrate="130",CFCW 'New Country 98.1' Camrose, AB
+#EXTINF:-1 station-id="awb_c92a5981d9e6f1675c48" stream-id="aws_9772a079939b3e476d28" codec="aac" bitrate="131",CFCW 'New Country 98.1' Camrose, AB
 http://newcap.leanstream.co/CFCWFM
 #EXTINF:-1 station-id="awb_083b53dda7dac62d5dd5" stream-id="aws_f063f555995da54a0adf" codec="mp3" bitrate="64",CFCY 95.1 Charlottetown, PE
 http://mbsradio.leanstream.co/CFCYFM-MP3
@@ -497,10 +499,10 @@ http://cfex.streamon.fm/stream/CFEX-64k.aac
 http://trentradio.ca:8800/hi-fi
 #EXTINF:-1 station-id="awb_2136dbdf7369996e1b43" stream-id="aws_2471239be0d2ff7260bf" codec="aac+" bitrate="57",CFFM 'The Goat' 97.5 Williams Lake, 99.7 100 Mile House, 94.9 Quesnel, BC
 https://vistaradio.streamb.live/SB00074
-#EXTINF:-1 station-id="awb_abe0f360a4e0dfa9f8f8" stream-id="aws_6c40ebd339e3c984811f" codec="aac+" bitrate="47",CFFR '660 News' Calgary, AB
+#EXTINF:-1 station-id="awb_abe0f360a4e0dfa9f8f8" stream-id="aws_6c40ebd339e3c984811f" codec="unknown" bitrate="0",CFFR '660 News' Calgary, AB
 https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8bb110c4a6a616bd0f04" stream-id="aws_910669ae3c66beb4a062" codec="aac+" bitrate="40",CFGO 'TSN 1200' Ottawa, ON
-http://14133.live.streamtheworld.com/CFGOAMAAC_SC
+http://20593.live.streamtheworld.com/CFGOAMAAC_SC
 #EXTINF:-1 station-id="awb_3d487e5c00ed77c2f667" stream-id="aws_84db3bb4cd40b2b7e6df" codec="aac+" bitrate="47",CFGP '97.7 Rock' Grande Prairie, AB
 https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_c30b58ae646371ee9ac3" stream-id="aws_7023370c84740737e0d6" codec="mp3" bitrate="128",CFGQ 107.3 'Q107' Calgary, AB
@@ -509,9 +511,9 @@ http://live.leanstream.co/CFGQFM-MP3
 http://live.leanstream.co/CFGQFM-MP3
 #EXTINF:-1 station-id="awb_e4646893d4c794b61605" stream-id="aws_b3777050ed41c3b6f9cb" codec="aac+" bitrate="64",CFGW 94.1 'Fox FM' Yorkton, SK
 http://cfgw.streamon.fm/stream/CFGW-64k.aac
-#EXTINF:-1 station-id="awb_5082278f8abf17be1cc2" stream-id="aws_567d552938ca525bce06" codec="aac+" bitrate="47",CFGX 99.9 Sarnia, ON
+#EXTINF:-1 station-id="awb_5082278f8abf17be1cc2" stream-id="aws_567d552938ca525bce06" codec="aac+" bitrate="48",CFGX 99.9 Sarnia, ON
 http://live.leanstream.co/CFGXFM
-#EXTINF:-1 station-id="awb_e7901687b8f5e0378f05" stream-id="aws_317e9c624848cab094e0" codec="aac" bitrate="145",CFHI 'Boom 104.9' Hinton, AB
+#EXTINF:-1 station-id="awb_e7901687b8f5e0378f05" stream-id="aws_317e9c624848cab094e0" codec="aac" bitrate="133",CFHI 'Boom 104.9' Hinton, AB
 https://newcap.leanstream.co/CFHIFM
 #EXTINF:-1 station-id="awb_f35bac83a564dce6f005" stream-id="aws_ae059936046f6c2a4ca5" codec="mp3" bitrate="128",CFHK 103.1 'Fresh Radio' St. Thomas, ON
 http://live.leanstream.co/CFHKFM-MP3?args=web_02
@@ -521,11 +523,11 @@ https://corus.leanstream.co/CFIQAM-MP3
 https://goldenwest.leanstream.co/CFITFM
 #EXTINF:-1 station-id="awb_33cc3c2a3095da984ecb" stream-id="aws_c0180ccac6975791fc95" codec="aac+" bitrate="40",CFIX 'Rouge 96.9' Saguenay, QC
 https://26373.live.streamtheworld.com/CFIXFMAAC_SC
+#EXTINF:-1 station-id="awb_28dea1897821a2eca51e" stream-id="aws_6f1e87592eeb1f4adb3e" codec="aac+" bitrate="40",CFIX-FM 'Rouge FM 96.9' Saguenay, QC
+https://22983.live.streamtheworld.com/CFIXFMAAC_SC
 #EXTINF:-1 station-id="awb_28dea1897821a2eca51e" stream-id="aws_415dbd235572abe584ab" codec="aac" bitrate="40",CFIX-FM 'Rouge FM 96.9' Saguenay, QC
 https://26373.live.streamtheworld.com/CFIXFMAAC_SC
-#EXTINF:-1 station-id="awb_28dea1897821a2eca51e" stream-id="aws_6f1e87592eeb1f4adb3e" codec="aac+" bitrate="40",CFIX-FM 'Rouge FM 96.9' Saguenay, QC
-https://27033.live.streamtheworld.com/CFIXFMAAC_SC
-#EXTINF:-1 station-id="awb_5e923dd11fcb3395a49a" stream-id="aws_1b85281b76bdad4f402c" codec="aac+" bitrate="96",CFJB-FM 95.7 'Rock 95' Barrie, ON
+#EXTINF:-1 station-id="awb_5e923dd11fcb3395a49a" stream-id="aws_1b85281b76bdad4f402c" codec="aac+" bitrate="95",CFJB-FM 95.7 'Rock 95' Barrie, ON
 https://cob-ais.leanstream.co/CFJBFM
 #EXTINF:-1 station-id="awb_3d4a1b7bcca43a3f1aad" stream-id="aws_f5554e8c2440754c8734" codec="mp3" bitrate="128",CFJU 90.1 'Route 17' Kedgewick, NB
 http://stream2.statsradio.com:8040/stream
@@ -599,7 +601,7 @@ http://live.leanstream.co/CFPLAM-MP3
 http://live.leanstream.co/CFPLFM-MP3
 #EXTINF:-1 station-id="awb_d5e953a196b6365ec964" stream-id="aws_8caa315172308ac1047b" codec="aac" bitrate="64",CFPS -FM '97.9 The Bruce' Port Elgin, ON (AAC Stream)
 http://bayshore-ais.leanstream.co/CFPSFM
-#EXTINF:-1 station-id="awb_bb278659781839cdb142" stream-id="aws_d9f6557a0ae9dba33ac3" codec="aac" bitrate="64",CFPS 97.9 '98 The Beach' Port Elgin, ON
+#EXTINF:-1 station-id="awb_bb278659781839cdb142" stream-id="aws_d9f6557a0ae9dba33ac3" codec="aac" bitrate="63",CFPS 97.9 '98 The Beach' Port Elgin, ON
 http://bayshore.leanstream.co/CFPSFM
 #EXTINF:-1 station-id="awb_8268d9924bce30fd1d08" stream-id="aws_54c37da9acffb0f135c8" codec="mp3" bitrate="128",CFPS-FM '97.9 The Bruce' Port Elgin, ON (MP3 Stream)
 http://bayshore-ais.leanstream.co/CFPSFM-MP3
@@ -614,7 +616,7 @@ https://stream.jpbgdigital.com/CFQX.m3u8
 #EXTINF:-1 station-id="awb_7e9c58d84a7ca2d4b1bd" stream-id="aws_4057584f4dea03211664" codec="aac+" bitrate="40",CFRA 'News Talk Radio 580' Ottawa, ON
 http://14543.live.streamtheworld.com/CFRAAMAAC_SC
 #EXTINF:-1 station-id="awb_b96bbb651392066050d7" stream-id="aws_7f7db587a96894ed1177" codec="aac+" bitrate="56",CFRB News/Talk 1010 (Toronto, ON)
-http://29324.live.streamtheworld.com/CFRBAMAAC_SC
+http://29324.live.streamtheworld.com:3690/CFRBAMAAC_SC
 #EXTINF:-1 station-id="awb_c320568db2920421b2e5" stream-id="aws_72568996453e9a106b99" codec="aac" bitrate="192",CFRC 101.9fm - Queen's University, Kingston, ON
 https://audio.cfrc.ca/stream
 #EXTINF:-1 station-id="awb_07132a2c084415e3e6bb" stream-id="aws_8e90ca53a5a2b4a8c36d" codec="aac" bitrate="133",CFRK 'New Country 92.3' Fredericton, NB
@@ -623,7 +625,7 @@ http://newcap.leanstream.co/CFRKFM
 https://sboucher.radioca.st/stream
 #EXTINF:-1 station-id="awb_db3a019a79180e203f4d" stream-id="aws_c9eb4927fe7e47bce050" codec="mp3" bitrate="128",CFRO Vancouver Cooperative Radio
 https://listen-coopradio.sharp-stream.com/coopradio.mp3
-#EXTINF:-1 station-id="awb_ae8f3f6222066ab7b08c" stream-id="aws_97072c923c46ce4c3393" codec="aac" bitrate="134",CFRQ 104.3 'Q104' Halifax,NS
+#EXTINF:-1 station-id="awb_ae8f3f6222066ab7b08c" stream-id="aws_97072c923c46ce4c3393" codec="aac" bitrate="132",CFRQ 104.3 'Q104' Halifax,NS
 http://newcap.leanstream.co/CFRQFM
 #EXTINF:-1 station-id="awb_392a66d572a39cd4eb65" stream-id="aws_efa0bab6e7f6781c4147" codec="mp3" bitrate="128",CFRU 93.3
 https://listen.cfru.ca/
@@ -661,17 +663,17 @@ http://newcap.leanstream.co/CFXEFM
 http://newcap.leanstream.co/CFXJFM
 #EXTINF:-1 station-id="awb_eba8a3ba40e5a227b6af" stream-id="aws_e66bc1bc83cb1384c5f8" codec="aac" bitrate="130",CFXJ 93.5 'Today Radio' Toronto, ON
 http://newcap.leanstream.co/CFXJFM
-#EXTINF:-1 station-id="awb_b57eef07244721cace16" stream-id="aws_a0391f2a3ca64f6012cf" codec="aac" bitrate="131",CFXL 103.1 'XL103' Calgary, AB
+#EXTINF:-1 station-id="awb_b57eef07244721cace16" stream-id="aws_a0391f2a3ca64f6012cf" codec="aac" bitrate="130",CFXL 103.1 'XL103' Calgary, AB
 http://newcap.leanstream.co/CFXLFM-MP3
 #EXTINF:-1 station-id="awb_0f3c5b6bd84e7da25b75" stream-id="aws_eb933cc3d6c5b985530c" codec="aac+" bitrate="64",CFXM 104.9 'M 105' Granby, QC
-http://26733.live.streamtheworld.com:3690/CFXMFMAAC_SC
+http://26183.live.streamtheworld.com:3690/CFXMFMAAC_SC
 #EXTINF:-1 station-id="awb_6e86f1c8d8812bfe149d" stream-id="aws_738c69892632b9afb660" codec="aac+" bitrate="57",CFXN
 https://vistaradio.streamb.live/SB00100?=&&___cb=27428096384366
 #EXTINF:-1 station-id="awb_c733dd967ec09171a9c2" stream-id="aws_b5100d82e3dd59c732ea" codec="aac+" bitrate="57",CFXN 106.3 'Jet FM' North Bay, ON
 https://vistaradio.streamb.live/SB00100
 #EXTINF:-1 station-id="awb_a9a7e38849052c32a86a" stream-id="aws_a0766221ced58ce1722c" codec="aac+" bitrate="64",CFXO-FM 99.7 'Sun Country' High River, AB
 https://fsn-ais-relay4.leanstream.co/goldenwest/CFXOFM.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_acf5efe984ef36834782" stream-id="aws_1c4ce6bd7d182d2c00bd" codec="aac" bitrate="132",CFXW 'Boom 96.7' Whitecourt, AB
+#EXTINF:-1 station-id="awb_acf5efe984ef36834782" stream-id="aws_1c4ce6bd7d182d2c00bd" codec="aac" bitrate="133",CFXW 'Boom 96.7' Whitecourt, AB
 http://newcap.leanstream.co/CFXWFM
 #EXTINF:-1 station-id="awb_0d478a0b2e683d51e198" stream-id="aws_d40397e7bea70d38f903" codec="mp3" bitrate="192",CFYT 106.9 Dawson City, YT
 https://stream.cfyt.ca/listen/stream/radio.mp3
@@ -679,9 +681,9 @@ https://stream.cfyt.ca/listen/stream/radio.mp3
 http://stream.statsradio.com:8048/stream
 #EXTINF:-1 station-id="awb_f6b6bef3e02b1682cb94" stream-id="aws_a44292755644fca2ba23" codec="aac+" bitrate="57",CFZN-FM '93.5 Moose FM' Haliburton, ON
 https://vistaradio.streamb.live/SB00113
-#EXTINF:-1 station-id="awb_c4668f40418cd95ae52e" stream-id="aws_6c4db6cff748d2b4c344" codec="aac+" bitrate="64",CHAB 800 Moose Jaw, SK
+#EXTINF:-1 station-id="awb_c4668f40418cd95ae52e" stream-id="aws_6c4db6cff748d2b4c344" codec="aac+" bitrate="63",CHAB 800 Moose Jaw, SK
 https://goldenwest.leanstream.co/CHABAM
-#EXTINF:-1 station-id="awb_3d70d2d6f4bf12744f15" stream-id="aws_f2a710fe16e915ea2852" codec="mp3" bitrate="72",CHAH 'My Radio 580' Edmonton, AB
+#EXTINF:-1 station-id="awb_3d70d2d6f4bf12744f15" stream-id="aws_f2a710fe16e915ea2852" codec="mp3" bitrate="74",CHAH 'My Radio 580' Edmonton, AB
 https://ais-sa1.streamon.fm/7681_64k.mp3
 #EXTINF:-1 station-id="awb_5a0e45bf1ca8dbf1e9b2" stream-id="aws_5076176138f1fcc1dade" codec="mp3" bitrate="0",Chameleon Radio
 https://app.aloncast.com/api/stream/chameleon-radio-816700
@@ -695,7 +697,7 @@ http://live.leanstream.co/CHAYFM-MP3
 http://newcap.leanstream.co/CHBMFM
 #EXTINF:-1 station-id="awb_11fd831f4cb40926ae7c" stream-id="aws_16ef67af8cde015cb22d" codec="aac+" bitrate="48",CHBN-FM 'KISS 91.7' Edmonton, AB
 https://rogers-hls.leanstream.co/rogers/edm917.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_ed9e57e347f113825026" stream-id="aws_1812f97cdf2256c0fbc0" codec="aac+" bitrate="64",CHBO 107.5 'Bolt FM' Humboldt, SK
+#EXTINF:-1 station-id="awb_ed9e57e347f113825026" stream-id="aws_1812f97cdf2256c0fbc0" codec="aac+" bitrate="63",CHBO 107.5 'Bolt FM' Humboldt, SK
 https://goldenwest.leanstream.co/CHBOFM
 #EXTINF:-1 station-id="awb_758e6447ae0a8fed82be" stream-id="aws_49166a16843cd6bfc521" codec="aac+" bitrate="48",CHBW 94.5 'Rewind Radio' Rocky Mountain House, AB
 https://stream.jpbgdigital.com/CHBW/HEAAC/48k/playlist.m3u8
@@ -737,9 +739,9 @@ http://bayshore.leanstream.co/CHGBFM
 https://vistaradio.streamb.live/SB00106
 #EXTINF:-1 station-id="awb_8ed787df8afc954224ee" stream-id="aws_69f0be733832bf9b8ae4" codec="mp3" bitrate="0",CHHA 1610 'Voces Latinas' Toronto, ON
 http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
-#EXTINF:-1 station-id="awb_56fd336d4abfff8a1cb3" stream-id="aws_5310d81790bf3bc23f62" codec="aac" bitrate="134",CHHI '95.9 Sun FM' Miramichi, NB
+#EXTINF:-1 station-id="awb_56fd336d4abfff8a1cb3" stream-id="aws_5310d81790bf3bc23f62" codec="aac" bitrate="133",CHHI '95.9 Sun FM' Miramichi, NB
 http://newcap.leanstream.co/CHHIFM
-#EXTINF:-1 station-id="awb_1349ea30875e0f4ca4ec" stream-id="aws_d358e7a0d736eaa43cd2" codec="aac" bitrate="130",CHHI-FM 'Rewind 95.9' Miramichi, NB
+#EXTINF:-1 station-id="awb_1349ea30875e0f4ca4ec" stream-id="aws_d358e7a0d736eaa43cd2" codec="aac" bitrate="135",CHHI-FM 'Rewind 95.9' Miramichi, NB
 http://newcap.leanstream.co/CHHIFM
 #EXTINF:-1 station-id="awb_985dee5c377bcaab2b7c" stream-id="aws_b19d1140284c59c5b8e4" codec="mp3" bitrate="128",CHHR-FM 94.7 MHz
 https://sheetharbour.out.airtime.pro/sheetharbour_a
@@ -763,21 +765,21 @@ https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_34c37771daac760b52d0" stream-id="aws_57749ff17c290b10c972" codec="aac+" bitrate="47",CHKS 'K-106.3' Sarnia, ON
 http://live.leanstream.co/CHKSFM
-#EXTINF:-1 station-id="awb_16929dbd324fefdb78e0" stream-id="aws_baeb58d287fe8201ab48" codec="aac+" bitrate="47",CHKS-FM 'Cool 106.3' Sarnia, ON
+#EXTINF:-1 station-id="awb_16929dbd324fefdb78e0" stream-id="aws_baeb58d287fe8201ab48" codec="aac+" bitrate="48",CHKS-FM 'Cool 106.3' Sarnia, ON
 http://live.leanstream.co/CHKSFM
 #EXTINF:-1 station-id="awb_c9ba9b3855f64eb65bd0" stream-id="aws_6f1671b65027e5cd6d85" codec="aac" bitrate="50",CHKT 1430 'Fairchild Radio' Toronto, ON
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_862e9a8a9a78418dadd7" stream-id="aws_1a8e5acff60fcec413f3" codec="aac" bitrate="50",CHKT AM1430 FairChild
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_1160ffb45d8f185f0fe0" stream-id="aws_5b37ddd353a8a2a94dd9" codec="aac+" bitrate="128",CHKX 'KX-94.7' Hamilton, ON
-http://18373.live.streamtheworld.com:3690/CHKXFMAAC_SC
+http://18233.live.streamtheworld.com:3690/CHKXFMAAC_SC
 #EXTINF:-1 station-id="awb_e7f5dfd8fcd6623b1932" stream-id="aws_7b36bb0fc2ad76fdcdfe" codec="aac+" bitrate="48",CHLB-FM 'Wild 95.5' Lethbridge, AB
 https://redirect.jpbgdigital.com/CHLB.m3u8
 #EXTINF:-1 station-id="awb_2d97b29e07d9f524758b" stream-id="aws_872c7d1de0ed4da576ba" codec="mp3" bitrate="256",CHLC-FM 'FM 97.1 La radio des hits' Baie-Comeau, QC
 https://stream2.statsradio.com:8120/stream
 #EXTINF:-1 station-id="awb_c3dcedb0f3ca9c1252c5" stream-id="aws_710dc4f6b978c9b2c8d8" codec="aac" bitrate="132",CHLG 104.3 'LG104' Vancouver, BC
 http://newcap.leanstream.co/CHLGFM
-#EXTINF:-1 station-id="awb_8c52ad91016a0cd80ff2" stream-id="aws_e71dce4ecf9f0dce04ba" codec="aac" bitrate="140",CHLG-FM 104.3 'The Breeze' - Vancouver, BC
+#EXTINF:-1 station-id="awb_8c52ad91016a0cd80ff2" stream-id="aws_e71dce4ecf9f0dce04ba" codec="aac" bitrate="132",CHLG-FM 104.3 'The Breeze' - Vancouver, BC
 http://newcap.leanstream.co/CHLGFM
 #EXTINF:-1 station-id="awb_be5af4dee49a9501c254" stream-id="aws_464e7d5a9b0649d8da51" codec="mp3" bitrate="64",CHLQ 93.1 'Q93' Charlottetown, PE
 http://mbsradio.leanstream.co/CHLQFM-MP3
@@ -823,7 +825,7 @@ http://newcap.leanstream.co/CHNIFM
 http://newcap.leanstream.co/CHNIFM
 #EXTINF:-1 station-id="awb_f592fe5e383987be4fee" stream-id="aws_0031e5c4a99471ebe90a" codec="aac+" bitrate="56",CHNL 610 'Radio NL' Kamloops, BC
 http://newcap.leanstream.co/CHNLAM
-#EXTINF:-1 station-id="awb_a16b0729930c1cf208ef" stream-id="aws_9c540131ff54f7741aee" codec="aac" bitrate="135",CHNO 'Rewind 103.9' Sudbury, ON
+#EXTINF:-1 station-id="awb_a16b0729930c1cf208ef" stream-id="aws_9c540131ff54f7741aee" codec="aac" bitrate="132",CHNO 'Rewind 103.9' Sudbury, ON
 http://newcap.leanstream.co/CHNOFM
 #EXTINF:-1 station-id="awb_55141610bc7883f99b2d" stream-id="aws_7cc6294251930d413b1d" codec="mp3" bitrate="64",CHNS 89.9 'The Wave' Halifax, NS
 http://mbsradio.leanstream.co/CHNSFM-MP3
@@ -919,9 +921,9 @@ http://usa17.fastcast4u.com:5508/stream
 http://ice7.securenetsystems.net/CHRY
 #EXTINF:-1 station-id="awb_a9fcc27420d03ed4432a" stream-id="aws_ff78a29fd0358ee35cd9" codec="aac" bitrate="128",CHSJ-FM 94.1 'Country 94' Saint John, NB
 https://ais-sa1.streamon.fm/7230_128k.aac/playlist.m3u8
-#EXTINF:-1 station-id="awb_538e1a814f4b6fdd0e0e" stream-id="aws_1962c3af616d65cdc6fe" codec="aac" bitrate="137",CHSL-FM 'Boom 92.7'' Slave Lake , AB
+#EXTINF:-1 station-id="awb_538e1a814f4b6fdd0e0e" stream-id="aws_1962c3af616d65cdc6fe" codec="aac" bitrate="132",CHSL-FM 'Boom 92.7'' Slave Lake , AB
 http://newcap.leanstream.co/CHSLFM
-#EXTINF:-1 station-id="awb_b8f50e5a7e16cae44404" stream-id="aws_912a46efc2f3ac4d49a7" codec="aac" bitrate="130",CHSP 'Real Country 97.7' St. Paul, AB
+#EXTINF:-1 station-id="awb_b8f50e5a7e16cae44404" stream-id="aws_912a46efc2f3ac4d49a7" codec="aac" bitrate="135",CHSP 'Real Country 97.7' St. Paul, AB
 http://newcap.leanstream.co/CHSPFM
 #EXTINF:-1 station-id="awb_e4fe8ef1812eb6d15821" stream-id="aws_fe896effb5493c33ee5f" codec="mp3" bitrate="128",CHSR-FM 97.9
 http://usa6.fastcast4u.com/proxy/chsrbroa?mp=/stream
@@ -940,20 +942,20 @@ https://stream.jpbgdigital.com/CHUB.m3u8
 #EXTINF:-1 station-id="awb_45c758f9d1be37b98a8d" stream-id="aws_da3e1dacbf22ce47bd71" codec="aac+" bitrate="48",CHUB-FM 105.5 Big 105
 https://redirect.jpbgdigital.com/CHUB.m3u8?
 #EXTINF:-1 station-id="awb_9b9a3deec9740131515f" stream-id="aws_adee2f7fdec6c41b6ea2" codec="aac+" bitrate="40",CHUM TSN 1050 Toronto
-http://26153.live.streamtheworld.com:3690/CHUMAMAAC_SC
+http://26103.live.streamtheworld.com:3690/CHUMAMAAC_SC
 #EXTINF:-1 station-id="awb_7067887eb5d1b2376347" stream-id="aws_dc3fb38845988f43fb30" codec="mp3" bitrate="128",CHUP 'Soft Rock 97.7' Calgary, AB
 http://rawlco.leanstream.co/CHUPFM-MP3
 #EXTINF:-1 station-id="awb_0731cc4d98ce522f4404" stream-id="aws_febe9ac997c47e59dbe0" codec="aac+" bitrate="48",CHUR-FM 'KISS 100.5' North Bay, ON
 https://rogers-hls.leanstream.co/rogers/nor1005.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_edf10a55564334f73b7e" stream-id="aws_8d3877f9f4c8bae38148" codec="aac+" bitrate="63",CHVN-FM
+#EXTINF:-1 station-id="awb_edf10a55564334f73b7e" stream-id="aws_8d3877f9f4c8bae38148" codec="aac+" bitrate="64",CHVN-FM
 https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_a9459d73d301f3a31cc5" stream-id="aws_db1a5fa968bb4dda9f7d" codec="aac" bitrate="133",CHVO 'New Country 103.9' Carbonear, NL
 http://newcap.leanstream.co/CHVOFM
 #EXTINF:-1 station-id="awb_25c5d682f33546507836" stream-id="aws_71c7c01edf6153664c5b" codec="aac" bitrate="130",CHVO 103.9 'KIXX Country' Carbonear, NL
 http://newcap.leanstream.co/CHVOFM
-#EXTINF:-1 station-id="awb_38143453589e3c2b7345" stream-id="aws_b5f23f1e34427ba2536b" codec="aac" bitrate="64",CHWC '104.9 The Beach' Goderich, ON
+#EXTINF:-1 station-id="awb_38143453589e3c2b7345" stream-id="aws_b5f23f1e34427ba2536b" codec="aac" bitrate="63",CHWC '104.9 The Beach' Goderich, ON
 http://bayshore.leanstream.co/CHWCFM
-#EXTINF:-1 station-id="awb_0b8eac32d71a08368930" stream-id="aws_3c70f609aef47c38e549" codec="aac" bitrate="65",CHWC-FM 'Country 104.9' Goderich, ON (AAC Stream)
+#EXTINF:-1 station-id="awb_0b8eac32d71a08368930" stream-id="aws_3c70f609aef47c38e549" codec="aac" bitrate="64",CHWC-FM 'Country 104.9' Goderich, ON (AAC Stream)
 http://bayshore-ais.leanstream.co/CHWCFM
 #EXTINF:-1 station-id="awb_0d5c0fc4e53d8240e924" stream-id="aws_7d74ec2c3f8f3ced2580" codec="mp3" bitrate="128",CHWC-FM 'Country 104.9' Goderich, ON (MP3 Stream)
 http://bayshore-ais.leanstream.co/CHWCFM-MP3
@@ -963,11 +965,11 @@ https://stream.jpbgdigital.com/CHWF.m3u8
 https://stream.jpbgdigital.com/CHWK.m3u8
 #EXTINF:-1 station-id="awb_f4d8ccd1a7d48e24dcd6" stream-id="aws_c2d092ad448d751ee3ec" codec="aac" bitrate="128",CHWV-FM 97.3 'The Wave' Saint John, NB
 https://ais-sa1.streamon.fm/7227_128k.aac/playlist.m3u8
-#EXTINF:-1 station-id="awb_7ff8eccf5fb0c243868f" stream-id="aws_6343a1529352b4ad76a1" codec="aac+" bitrate="63",CHWY-FM 106.7 'Big 106' Weyburn, SK
+#EXTINF:-1 station-id="awb_7ff8eccf5fb0c243868f" stream-id="aws_6343a1529352b4ad76a1" codec="aac+" bitrate="64",CHWY-FM 106.7 'Big 106' Weyburn, SK
 https://hel-ais-relay1.leanstream.co/goldenwest/CHWYFM.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_bb8771a97926a40e8ae2" stream-id="aws_34c13135716a6d1a13fd" codec="mp3" bitrate="128",CHYK 'Le Loup' 104.1 Timmins, 92.9 Hearst, 93.7 Kapuskasing, ON
 https://chyk104.radioca.st/stream
-#EXTINF:-1 station-id="awb_4db6f2ed056d31de311c" stream-id="aws_f9b10c586f2baace2b9b" codec="aac+" bitrate="48",CHYM 96.7
+#EXTINF:-1 station-id="awb_4db6f2ed056d31de311c" stream-id="aws_f9b10c586f2baace2b9b" codec="aac+" bitrate="47",CHYM 96.7
 https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4daef3d7f181152e1e15" stream-id="aws_c26eb9e2b3d0a52d7bba" codec="aac+" bitrate="48",CHYR 'MIX 96.7' Leamington, ON
 http://live.leanstream.co/CHYRFM
@@ -983,9 +985,9 @@ https://stream.jpbgdigital.com/CIBH/HEAAC/48k/playlist.m3u8
 https://stream.statsradio.com:8050/stream
 #EXTINF:-1 station-id="awb_2faea7c152bdfe740527" stream-id="aws_ef83468509e069fe2031" codec="aac" bitrate="145",CIBQ 105.7 'Real Country' Brooks, AB
 http://newcap.leanstream.co/CIBQFM-MP3
-#EXTINF:-1 station-id="awb_cf5191ed50f77f46fa2c" stream-id="aws_b250058e5ec4be0dab5d" codec="aac+" bitrate="48",CIBU 'Classic Rock 94.5' Wingham, ON
+#EXTINF:-1 station-id="awb_cf5191ed50f77f46fa2c" stream-id="aws_b250058e5ec4be0dab5d" codec="aac+" bitrate="47",CIBU 'Classic Rock 94.5' Wingham, ON
 http://live.leanstream.co/CIBUFM
-#EXTINF:-1 station-id="awb_3083a627deba288576f8" stream-id="aws_c5efcdb1518d23d22214" codec="aac+" bitrate="48",CIBU-FM 'Cool 94.5' Wingham, ON (AAC Stream)
+#EXTINF:-1 station-id="awb_3083a627deba288576f8" stream-id="aws_c5efcdb1518d23d22214" codec="aac+" bitrate="47",CIBU-FM 'Cool 94.5' Wingham, ON (AAC Stream)
 http://live.leanstream.co/CIBUFM
 #EXTINF:-1 station-id="awb_a282ff58465fcfc92353" stream-id="aws_c85ab9892ffc41564c40" codec="mp3" bitrate="96",CIBU-FM 'Cool 94.5' Wingham, ON (MP3 Stream)
 http://live.leanstream.co/CIBUFM-MP3
@@ -1007,11 +1009,11 @@ https://stream.jpbgdigital.com/CIFM/HEAAC/48k/playlist.m3u8
 http://live.leanstream.co/CIGLFM-MP3
 #EXTINF:-1 station-id="awb_7dcf222b19d6bb2a5281" stream-id="aws_e6424e3631e3b21309f7" codec="aac" bitrate="131",CIGM 'Hot 93.5' Sudbury, ON
 http://newcap.leanstream.co/CIGMFM
-#EXTINF:-1 station-id="awb_1b64303c61441a272b99" stream-id="aws_989ccfe78a98c81fb5fe" codec="aac" bitrate="131",CIGV 'New Country 100.7' Penticton, BC
+#EXTINF:-1 station-id="awb_1b64303c61441a272b99" stream-id="aws_989ccfe78a98c81fb5fe" codec="aac" bitrate="132",CIGV 'New Country 100.7' Penticton, BC
 http://newcap.leanstream.co/CIGVFM
 #EXTINF:-1 station-id="awb_10961862a2f5dd2b5634" stream-id="aws_d4a3cbc57f707e971740" codec="aac" bitrate="135",CIHI 'Up 93.1' Fredericton, NB
 http://newcap.leanstream.co/CIHIFM
-#EXTINF:-1 station-id="awb_71e553e177ee5dd9a592" stream-id="aws_813d315bcd9b6567aa38" codec="aac" bitrate="131",CIHI-FM 'Rewind 93.1' - Fredericton, NB
+#EXTINF:-1 station-id="awb_71e553e177ee5dd9a592" stream-id="aws_813d315bcd9b6567aa38" codec="aac" bitrate="134",CIHI-FM 'Rewind 93.1' - Fredericton, NB
 http://newcap.leanstream.co/CIHIFM
 #EXTINF:-1 station-id="awb_4abf90ab25cf01171a03" stream-id="aws_1ba64403441e3a750c6d" codec="mp3" bitrate="128",CIHO 'Charlevoix 96.3' Saint-Hilarion, QC
 http://stream.cloudmjs.com:8000/ciho.mp3
@@ -1021,7 +1023,7 @@ http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac
 http://newcap.leanstream.co/CIHTFM
 #EXTINF:-1 station-id="awb_2bfde9fb0672e07aa566" stream-id="aws_766ae53b04ada23c227c" codec="aac" bitrate="132",CIJK 89.3 'K-Rock' Kentville, NS
 http://newcap.leanstream.co/CIJKFM
-#EXTINF:-1 station-id="awb_f8eabccb4a95e4c88ad0" stream-id="aws_e826b35cafd40f0949a9" codec="aac" bitrate="132",CIJK-FM 'Rewind 89.3' - New Minas, NS
+#EXTINF:-1 station-id="awb_f8eabccb4a95e4c88ad0" stream-id="aws_e826b35cafd40f0949a9" codec="aac" bitrate="139",CIJK-FM 'Rewind 89.3' - New Minas, NS
 http://newcap.leanstream.co/CIJKFM
 #EXTINF:-1 station-id="awb_f5a3400c54d90c6f09de" stream-id="aws_0f74504e978d9156f5ee" codec="aac+" bitrate="48",CIKR 'K-Rock 105.7' Kingston, ON
 https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8
@@ -1041,11 +1043,11 @@ http://live.leanstream.co/CILQFM
 https://goldenwest.leanstream.co/CILTFM
 #EXTINF:-1 station-id="awb_58dc5defea96edd02471" stream-id="aws_6760f288d8e4a970e852" codec="mp3" bitrate="96",CILU 102.7 'LU Radio' Lakehead University - Thunder Bay, ON
 http://luradio-server.lakeheadu.ca:8000/stereo128
-#EXTINF:-1 station-id="awb_a4dee31ba0dba6c760a0" stream-id="aws_cbeda94938740f0d3d59" codec="aac" bitrate="132",CILV-FM 88.5 'Live Eighty Eight Five' - Ottawa, ON
+#EXTINF:-1 station-id="awb_a4dee31ba0dba6c760a0" stream-id="aws_cbeda94938740f0d3d59" codec="aac" bitrate="133",CILV-FM 88.5 'Live Eighty Eight Five' - Ottawa, ON
 https://newcap.leanstream.co/CILVFM
 #EXTINF:-1 station-id="awb_7ffbabf8293d29a2e4fe" stream-id="aws_dbabf00ddd1707817026" codec="aac+" bitrate="55",CIMA 92.1 'FM 92 South Simcoe' Alliston, ON
 https://localradio.streamb.live/SB00097
-#EXTINF:-1 station-id="awb_0255761750fba382c1fe" stream-id="aws_1a6a93da73bb939bc743" codec="aac+" bitrate="64",CIMG-FM 'The Eagle 94.1' Swift Current, SK
+#EXTINF:-1 station-id="awb_0255761750fba382c1fe" stream-id="aws_1a6a93da73bb939bc743" codec="aac+" bitrate="63",CIMG-FM 'The Eagle 94.1' Swift Current, SK
 https://lax-live2-ais-relay1.leanstream.co/goldenwest/CIMGFM.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_30da35ad21645ba87327" stream-id="aws_af1722f3392599a10599" codec="mp3" bitrate="128",CIMJ 106.1 'Magic 106' Guelph, ON
 http://live.leanstream.co/CIMJFM-MP3
@@ -1075,7 +1077,7 @@ http://live.leanstream.co/CINGFM-MP3
 https://ais-sa1.streamon.fm/7091_32k.aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_03e0cb5012c34c4b304f" stream-id="aws_04a456af4fcd9349501f" codec="mp3" bitrate="128",CINZ NET Radio
 https://stream.cinz.net/
-#EXTINF:-1 station-id="awb_fd8fde379dc328bfa7e8" stream-id="aws_086375a093b28b2ca11d" codec="aac+" bitrate="48",CIOC 'Ocean 98.5' Victoria, BC
+#EXTINF:-1 station-id="awb_fd8fde379dc328bfa7e8" stream-id="aws_086375a093b28b2ca11d" codec="aac+" bitrate="47",CIOC 'Ocean 98.5' Victoria, BC
 https://rogers-hls.leanstream.co/rogers/vic985.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_26fda42235c1853cee9a" stream-id="aws_6d9625835bf4ef920ab8" codec="mp3" bitrate="112",CIOE 97.5 FM
 https://radio01.websavers.ca/proxy/qmyiqygl/stream
@@ -1099,7 +1101,7 @@ https://vistaradio.streamb.live/SB00078
 https://s5.radio.co/sec326ff8a/listen
 #EXTINF:-1 station-id="awb_67c197212f4a49a69e65" stream-id="aws_c551e439e274b522501d" codec="aac+" bitrate="48",CIRF-AM 1350 'Radio Humsafar' Brampton, ON
 https://ice66.securenetsystems.net/CIRF
-#EXTINF:-1 station-id="awb_5d3995e846ffff6b7f9a" stream-id="aws_66090c782c36f926e599" codec="aac" bitrate="134",CIRK 97.3 'K-97' Edmonton, AB
+#EXTINF:-1 station-id="awb_5d3995e846ffff6b7f9a" stream-id="aws_66090c782c36f926e599" codec="aac" bitrate="132",CIRK 97.3 'K-97' Edmonton, AB
 http://newcap.leanstream.co/CIRKFM
 #EXTINF:-1 station-id="awb_8c7fe01ff10cfddccf5f" stream-id="aws_b15650500b9504d0b94e" codec="aac" bitrate="32",CIRV 88.9 Toronto, ON
 http://ice5.securenetsystems.net/CIRV
@@ -1125,7 +1127,7 @@ http://live.leanstream.co/CISNFM-MP3
 http://bayshore-ais.leanstream.co/CISOFM
 #EXTINF:-1 station-id="awb_51bd0e831925bd871f6e" stream-id="aws_b9e9e8a977b162740998" codec="mp3" bitrate="128",CISO-FM 89.1 'MAX FM' Orillia, ON (MP3 Stream)
 http://bayshore-ais.leanstream.co/CISOFM-MP3
-#EXTINF:-1 station-id="awb_013c74e3f3df7e5033eb" stream-id="aws_2490129ad2f43d27f5f4" codec="aac+" bitrate="48",CISQ 107.1 'Mountain FM' Squamish, BC
+#EXTINF:-1 station-id="awb_013c74e3f3df7e5033eb" stream-id="aws_2490129ad2f43d27f5f4" codec="aac+" bitrate="47",CISQ 107.1 'Mountain FM' Squamish, BC
 https://rogers-hls.leanstream.co/rogers/squ1071.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_8ccacb62c8df6789c3d3" stream-id="aws_8358a805d30e6e84af38" codec="aac" bitrate="198",CISS - Kiss FM 105.3 Ottawa
 https://rogers.leanstream.co/rogers/ott1053.stream/icy
@@ -1147,7 +1149,7 @@ http://137.82.188.97:8000/live.mp3
 http://live.citr.ca:8000/live.mp3
 #EXTINF:-1 station-id="awb_b463e2ce649090fd5495" stream-id="aws_3febac2f24ed8acf837c" codec="aac+" bitrate="47",CityNews 101.1 Ottawa
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01
-#EXTINF:-1 station-id="awb_cb3a117a7a5526d76400" stream-id="aws_eefb8db9054f4969542e" codec="aac+" bitrate="47",CityNews 570 Kitchener
+#EXTINF:-1 station-id="awb_cb3a117a7a5526d76400" stream-id="aws_eefb8db9054f4969542e" codec="aac+" bitrate="48",CityNews 570 Kitchener
 https://rogers-hls.leanstream.co/rogers/kit570.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1 station-id="awb_d7b9c823cd65f07ee0a1" stream-id="aws_9933f3a6aec4a35b32cb" codec="aac+" bitrate="48",CityNews 95.7 Halifax
 http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01
@@ -1200,7 +1202,7 @@ http://newcap.leanstream.co/CIZZFM
 #EXTINF:-1 station-id="awb_30dca0a17b4b14dc44be" stream-id="aws_d05faa2f6fc0c701a17a" codec="aac+" bitrate="40",CJAB-FM 'Energie Saguenay-Lac-Saint-Jean 94.5' Saguenay, QC
 http://27033.live.streamtheworld.com:3690/CJABFMAAC_SC
 #EXTINF:-1 station-id="awb_cef7dad45b95466288d5" stream-id="aws_adde1bbba12701e56691" codec="mp3" bitrate="48",CJAD 800
-https://15313.live.streamtheworld.com/CJADAM_SC
+https://26113.live.streamtheworld.com/CJADAM_SC
 #EXTINF:-1 station-id="awb_1e5691a048a05c7dce2a" stream-id="aws_8774642b647ff519cfa7" codec="mp3" bitrate="128",CJAI 101.3 'Island Radio' - Stella, Ontario
 https://audio-edge-es6pf.mia.g.radiomast.io/949b775a-ba1f-4344-9d6f-b4c614892263
 #EXTINF:-1 station-id="awb_c6dd7ffc0dfc922ea4e9" stream-id="aws_7d2606d018521debc804" codec="aac+" bitrate="48",CJAM
@@ -1235,7 +1237,7 @@ https://mbsradio.leanstream.co/CJCBAM-MP3
 https://vistaradio.streamb.live/SB00088
 #EXTINF:-1 station-id="awb_428478b3a8ab49b97bc0" stream-id="aws_b5af3b7cb3c5d3284b8d" codec="aac+" bitrate="57",CJCI 97.3 'Country 97' Prince George, BC
 https://vistaradio.streamb.live/SB00040
-#EXTINF:-1 station-id="awb_6b95494e742a28592b76" stream-id="aws_96ed312cfc788ade2637" codec="aac+" bitrate="47",CJCL Sportsnet 590 The Fan
+#EXTINF:-1 station-id="awb_6b95494e742a28592b76" stream-id="aws_96ed312cfc788ade2637" codec="aac+" bitrate="48",CJCL Sportsnet 590 The Fan
 https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4f07a201e12e524cb2a6" stream-id="aws_01f15f91a07cd131fc64" codec="aac+" bitrate="48",CJCL Sportsnet 590 The Fan (Alt Stream)
 https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
@@ -1271,7 +1273,7 @@ https://cast4.my-control-panel.com/proxy/peguis1/stream
 http://stream2.statsradio.com:8038/stream
 #EXTINF:-1 station-id="awb_976fe96fe5efd4eae65c" stream-id="aws_df30382acf70c5859538" codec="mp3" bitrate="192",CJFO 94.5 'Unique FM' Ottawa, ON
 http://stream2.statsradio.com:8038/stream
-#EXTINF:-1 station-id="awb_ce60e34b18ea5eb39264" stream-id="aws_8522ac1b06ac23d8d613" codec="aac+" bitrate="48",CJGB-FM 'LITE 99.3' Meaford, ON
+#EXTINF:-1 station-id="awb_ce60e34b18ea5eb39264" stream-id="aws_8522ac1b06ac23d8d613" codec="aac+" bitrate="47",CJGB-FM 'LITE 99.3' Meaford, ON
 https://evanov.streamb.live/SB00234
 #EXTINF:-1 station-id="awb_46990d468c9ec0cf9407" stream-id="aws_94a39a6a70d0c58151a3" codec="mp3" bitrate="128",CJGV 'Peggy @ 99.1' Winnipeg, MB
 http://live.leanstream.co/CJGVFM-MP3
@@ -1293,7 +1295,7 @@ https://vistaradio.streamb.live/SB00099
 https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 station-id="awb_e2fc347d460b4ba76ab6" stream-id="aws_df016191f88ef4d1e1fa" codec="aac+" bitrate="48",CJJR 93.7 JR Country
 https://redirect.jpbgdigital.com/CJJR?player_type=mytuner
-#EXTINF:-1 station-id="awb_433c693b8d51df8ce625" stream-id="aws_05dca87eafabc926a592" codec="aac" bitrate="132",CJKC 103.1 'Country 103' Kamloops, BC
+#EXTINF:-1 station-id="awb_433c693b8d51df8ce625" stream-id="aws_05dca87eafabc926a592" codec="aac" bitrate="145",CJKC 103.1 'Country 103' Kamloops, BC
 http://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03
 #EXTINF:-1 station-id="awb_7e04fdf0dc8b7177b47d" stream-id="aws_04b0a1b712533d248fd2" codec="mp3" bitrate="128",CJKL-FM 101.5 Kirkland Lake, ON
 https://connelly.radioca.st/cjkl
@@ -1303,7 +1305,7 @@ http://live.leanstream.co/CJKRFM-MP3
 http://18503.live.streamtheworld.com:3690/CJKXFMAAC_SC
 #EXTINF:-1 station-id="awb_9290a40dbcf43bf9928c" stream-id="aws_279a493713f065b6caec" codec="ogg" bitrate="0",CJLF 'LIFE 100.3' Barrie, ON
 https://netstream.lifeonline.fm/CJLF/ogg_high
-#EXTINF:-1 station-id="awb_33818e28fdaf0a36200d" stream-id="aws_33667cfc784359b979a4" codec="aac" bitrate="95",CJLI am700 The Light
+#EXTINF:-1 station-id="awb_33818e28fdaf0a36200d" stream-id="aws_33667cfc784359b979a4" codec="aac" bitrate="96",CJLI am700 The Light
 https://shinefm.streamguys1.com/cjli
 #EXTINF:-1 station-id="awb_a662e4f0cffd6c61ecaa" stream-id="aws_9ca148a5ef603ba972af" codec="aac+" bitrate="32",CJLL 97.9 'CHIN Radio Ottawa', ON
 http://ice7.securenetsystems.net/CJLLFM
@@ -1331,7 +1333,7 @@ http://rawlco.leanstream.co/CJMEAM-MP3
 http://29319.live.streamtheworld.com/CJMKFMAAC_SC
 #EXTINF:-1 station-id="awb_7e3c4b7b21db5d9dd4e4" stream-id="aws_dd3b5ec8e1d1bdb2dbce" codec="aac+" bitrate="56",CJML-FM 101.3 'FM 101' Milton, ON
 https://localradio.streamb.live/SB00095
-#EXTINF:-1 station-id="awb_b0df17bc8be1b2fbd715" stream-id="aws_cf49f864653292451f07" codec="aac" bitrate="138",CJMO 103.1 'C103' Moncton, NB
+#EXTINF:-1 station-id="awb_b0df17bc8be1b2fbd715" stream-id="aws_cf49f864653292451f07" codec="aac" bitrate="136",CJMO 103.1 'C103' Moncton, NB
 http://newcap.leanstream.co/CJMOFM
 #EXTINF:-1 station-id="awb_bb7053e9c12eba6ea53e" stream-id="aws_1000095f30641b330f5d" codec="aac" bitrate="134",CJMO-FM 103.1 'Q103' - Moncton, NB
 http://newcap.leanstream.co/CJMOFM
@@ -1371,7 +1373,7 @@ http://live.leanstream.co/CJOYAM
 https://listen.radioking.com/radio/11310/stream/22574
 #EXTINF:-1 station-id="awb_70bd7d1141c7f330f7c9" stream-id="aws_7b4a069b04c6075fb533" codec="aac+" bitrate="63",CJPG-FM 'Mix 96.5' Portage la Prairie, MB
 https://goldenwest.leanstream.co/CJPGFM
-#EXTINF:-1 station-id="awb_1d9f17cf0a5580138312" stream-id="aws_9f1329b2e3065e645094" codec="aac" bitrate="133",CJPR 94.9 'Real Country Southwest' Blairmore, AB
+#EXTINF:-1 station-id="awb_1d9f17cf0a5580138312" stream-id="aws_9f1329b2e3065e645094" codec="aac" bitrate="132",CJPR 94.9 'Real Country Southwest' Blairmore, AB
 http://newcap.leanstream.co/CJPRFM-MP3
 #EXTINF:-1 station-id="awb_acddcddca63f4c4a3387" stream-id="aws_2e47cb80f8d1a2af7299" codec="mp3" bitrate="128",CJQC 99.3 Queen's County Community Radio - Liverpool, NS
 http://us3.streamingpulse.com:8074/
@@ -1395,7 +1397,7 @@ http://ryerson.out.airtime.pro:8000/ryerson_a
 http://mbsradio.leanstream.co/CJRWFM-MP3
 #EXTINF:-1 station-id="awb_a88bbf4ee837209ac7e2" stream-id="aws_7e849227d143ab74ed50" codec="mp3" bitrate="64",CJRW 102.1 'Spud FM' Summerside, PE
 https://mbsradio.leanstream.co/CJRWFM-MP3
-#EXTINF:-1 station-id="awb_ebe5e4834f8a44592dbc" stream-id="aws_662b51ae11118d0cae44" codec="aac+" bitrate="47",CJRX '106.7 Rock' Lethbridge, AB
+#EXTINF:-1 station-id="awb_ebe5e4834f8a44592dbc" stream-id="aws_662b51ae11118d0cae44" codec="aac+" bitrate="48",CJRX '106.7 Rock' Lethbridge, AB
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_b1838361aecc83fc8dfc" stream-id="aws_fe544ed8e7414c9c30de" codec="aac" bitrate="96",CJRY 105.9 Shinefm
 https://shinefm.streamguys1.com/cjry
@@ -1458,16 +1460,16 @@ http://nap.casthost.net:8428/stream?type=.mp3
 #EXTINF:-1 station-id="awb_4f34210e3e3b7311401d" stream-id="aws_83f3ba5cec1fbe8afc20" codec="aac+" bitrate="31",CJWV Oldies 96.7 FM
 https://mybroadcasting.streamb.live/SB00335
 #EXTINF:-1 station-id="awb_3102bdc635780f965944" stream-id="aws_bf8994760e2e1d3f37bc" codec="aac+" bitrate="32",CJWW 'Country 600' Saskatoon, SK
-http://26373.live.streamtheworld.com:3690/CJWWAMAAC_SC
+http://22983.live.streamtheworld.com/CJWWAMAAC_SC
 #EXTINF:-1 station-id="awb_9e8bfa789275df45fbf7" stream-id="aws_abfcee0aaf7e9127a524" codec="aac" bitrate="130",CJXK 95.3 'K-Rock' Cold Lake, AB
 http://newcap.leanstream.co/CJXKFM
 #EXTINF:-1 station-id="awb_a5dd78c875f89481d76c" stream-id="aws_3f34afcd9fc9ac67ea43" codec="aac" bitrate="132",CJXK-FM 'Boom 95.3' - Cold Lake, AB
 http://newcap.leanstream.co/CJXKFM
 #EXTINF:-1 station-id="awb_70c189dddd9ee8e31fd3" stream-id="aws_22d2de544a7c98512896" codec="aac" bitrate="130",CJXL 'New Country 96.9' Moncton, NB
 http://newcap.leanstream.co/CJXLFM
-#EXTINF:-1 station-id="awb_16ab997a53cea05b278a" stream-id="aws_3e5b3a4a433c372abf98" codec="aac" bitrate="130",CJXL 96.1 'XL 96' Moncton, NB
+#EXTINF:-1 station-id="awb_16ab997a53cea05b278a" stream-id="aws_3e5b3a4a433c372abf98" codec="aac" bitrate="133",CJXL 96.1 'XL 96' Moncton, NB
 http://newcap.leanstream.co/CJXLFM
-#EXTINF:-1 station-id="awb_9b327583ff7cd1544a65" stream-id="aws_88a56bea90cf669e8289" codec="aac+" bitrate="63",CJXR 107.7 'Country 107' Steinbach, MB
+#EXTINF:-1 station-id="awb_9b327583ff7cd1544a65" stream-id="aws_88a56bea90cf669e8289" codec="aac+" bitrate="64",CJXR 107.7 'Country 107' Steinbach, MB
 https://goldenwest.leanstream.co/goldenwest/CJXRFM.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_c0de96e5061d42020448" stream-id="aws_8355b9ce272abd459957" codec="aac+" bitrate="48",CJXX-FM 'Big Country 93.1' Grand Prairie, AB
 https://stream.jpbgdigital.com/CJXX.m3u8
@@ -1475,14 +1477,14 @@ https://stream.jpbgdigital.com/CJXX.m3u8
 http://live.leanstream.co/CJXYFM-MP3
 #EXTINF:-1 station-id="awb_5fea2af359e07ae4bdc4" stream-id="aws_f0209b921f39dc2650ef" codec="mp3" bitrate="96",CJYC 98.9 'Kool 98' Saint John, NB
 https://mbsradio.leanstream.co/CJYCFM-MP3
-#EXTINF:-1 station-id="awb_307434df195f4d093e33" stream-id="aws_83b284ce7b915d852848" codec="aac" bitrate="132",CJYQ '930 KIXX Country' St. John's, NL
+#EXTINF:-1 station-id="awb_307434df195f4d093e33" stream-id="aws_83b284ce7b915d852848" codec="aac" bitrate="134",CJYQ '930 KIXX Country' St. John's, NL
 http://newcap.leanstream.co/CJYQAM
 #EXTINF:-1 station-id="awb_3669a079e70511aeaded" stream-id="aws_c142327b269fe2017cb2" codec="aac" bitrate="143",CJYQ 'New Country 930' St. John's, NL
 http://newcap.leanstream.co/CJYQAM
 #EXTINF:-1 station-id="awb_62f1f5795ef959ea4042" stream-id="aws_c10429b85a3ede38fe20" codec="aac+" bitrate="48",CJZN 91.3 FM Victoria, BC
 http://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 station-id="awb_2aaa135fb568f036460c" stream-id="aws_00bce7df3169fe922a08" codec="unknown" bitrate="0",CKAC 730 'Radio Circulation' Montreal
-https://17563.live.streamtheworld.com/CKACAMAAC_SC
+https://26353.live.streamtheworld.com/CKACAMAAC_SC
 #EXTINF:-1 station-id="awb_5e57866975e1766ed476" stream-id="aws_5013c9b7972e6a6867a9" codec="unknown" bitrate="0",CKAC Montréal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC.aac
 #EXTINF:-1 station-id="awb_ba4fcf473da87bf7731f" stream-id="aws_c8d7a20512df5dc3e16f" codec="mp3" bitrate="128",CKAJ 92.5 & 99.7 Saguenay, QC
@@ -1587,14 +1589,14 @@ https://newcap.leanstream.co/CKEZFM
 https://stream.radiojar.com/yc0zykcd898uv
 #EXTINF:-1 station-id="awb_9602976a787bae1b034a" stream-id="aws_774af77424b46d3fd7da" codec="aac+" bitrate="64",CKFI-FM 'Magic 97.1' Swift Current, SK
 https://goldenwest.leanstream.co/CKFIFM
-#EXTINF:-1 station-id="awb_aaf2ed0f4732b8a396d1" stream-id="aws_4a32e6e5157bde729c08" codec="aac+" bitrate="56",CKFT 'Mix 107.9' Fort Saskatchewan, AB
+#EXTINF:-1 station-id="awb_aaf2ed0f4732b8a396d1" stream-id="aws_4a32e6e5157bde729c08" codec="aac+" bitrate="55",CKFT 'Mix 107.9' Fort Saskatchewan, AB
 https://goldenwest.leanstream.co/CKFTFM
 #EXTINF:-1 station-id="awb_440039a3c8169a5b51f5" stream-id="aws_5519236f62fe14400c53" codec="aac+" bitrate="48",CKFX-FM '101.9 Rock' North Bay, ON
 https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_2cfc659c36bedf69f7ae" stream-id="aws_9d7e63ad1a3c31629b2f" codec="aac" bitrate="198",CKGB-FM 99.3 'Kiss 99.3 Timmins'
 http://rogers.leanstream.co/rogers/tim993.stream/icy
 #EXTINF:-1 station-id="awb_4a21ef36fc481bccc61e" stream-id="aws_1cee472b4f1f07c849ac" codec="aac+" bitrate="128",CKGE 94.9 'The Rock' Oshawa, ON
-http://14133.live.streamtheworld.com:3690/CKGEFMAAC_SC
+http://20593.live.streamtheworld.com/CKGEFMAAC_SC
 #EXTINF:-1 station-id="awb_0b2a7a60de2d309c7263" stream-id="aws_4eb52d84c80006d9d070" codec="mp3" bitrate="96",CKGF 102.3 'Juice FM' Grand Forks, BC
 https://vistaradio.streamb.live/SB00084
 #EXTINF:-1 station-id="awb_529b040171b9faa91f11" stream-id="aws_94abd56c5d89f4d9a7bf" codec="aac+" bitrate="48",CKGL
@@ -1612,16 +1614,16 @@ http://newcap.leanstream.co/CKGYFM-MP3
 #EXTINF:-1 station-id="awb_52c2e6af8ce060bfe76a" stream-id="aws_93cbee24154acc262751" codec="aac" bitrate="135",CKGY-FM 95.5 Real Country 95.5
 http://newcap.leanstream.co/CKGYFM-MP3
 #EXTINF:-1 station-id="awb_7c8694cee714f8fc398f" stream-id="aws_ab9da510a920f6b49498" codec="aac+" bitrate="64",CKHA 100.9 'Canoe FM' Haliburton, ON
-http://26153.live.streamtheworld.com/CKHAFMAAC_SC
+http://17803.live.streamtheworld.com:3690/CKHAFMAAC_SC
 #EXTINF:-1 station-id="awb_1df52d0aa7672b754b71" stream-id="aws_56c58e1f8749fd70cb0f" codec="aac" bitrate="128",CKHY-FM 105.1 'Surge 105' Dartmouth, NS
 https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_9c2feb80114bdb5011f3" stream-id="aws_badb2149ea94fd44b19d" codec="aac" bitrate="128",CKHZ-FM 'Hot Country 103.5' Halifax, NS
 https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_1353f39517b86a578a1e" stream-id="aws_5a86d734cca3d99753c1" codec="mp3" bitrate="192",CKIA 88.3 'Radio Urbaine' Quebec City, QC
 https://stream2.statsradio.com/8148/stream
-#EXTINF:-1 station-id="awb_8d11f3c0b6bef1b44cc9" stream-id="aws_495c39630570443cc634" codec="aac+" bitrate="48",CKIS 'KISS 92.5' Toronto, ON
+#EXTINF:-1 station-id="awb_8d11f3c0b6bef1b44cc9" stream-id="aws_495c39630570443cc634" codec="aac+" bitrate="47",CKIS 'KISS 92.5' Toronto, ON
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_45fbe391540f20496bd6" stream-id="aws_4423d27ac1f24222cac8" codec="aac" bitrate="132",CKIX 99.1 'Hits FM' St. John's, NL
+#EXTINF:-1 station-id="awb_45fbe391540f20496bd6" stream-id="aws_4423d27ac1f24222cac8" codec="aac" bitrate="130",CKIX 99.1 'Hits FM' St. John's, NL
 http://newcap.leanstream.co/CKIXFM
 #EXTINF:-1 station-id="awb_805f15d547c29910c325" stream-id="aws_108055d88ab4beb39517" codec="aac" bitrate="134",CKIX-FM 'Hot 99.1' St. John's, NL
 http://newcap.leanstream.co/CKIXFM
@@ -1654,7 +1656,7 @@ https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_f9c1d91cd459dd82ce0a" stream-id="aws_a012e9b386e33d9a4c61" codec="aac+" bitrate="48",CKKS-FM 107.5 'Sonic' Chilliwack, BC
 https://rogers-hls.leanstream.co/rogers/van1049.stream/48k/playlist.m3u8
 #EXTINF:-1 station-id="awb_e93e1188fece3a75382e" stream-id="aws_137eb62d9f85ba235b1e" codec="aac+" bitrate="32",CKKX 106.1 'KIX 106' Peace River, AB
-http://13683.live.streamtheworld.com/CKKXFMAAC_SC
+http://29327.live.streamtheworld.com/CKKXFMAAC_SC
 #EXTINF:-1 station-id="awb_2a7152a48cedbf571ad1" stream-id="aws_afc5c4efbde2014425ef" codec="aac" bitrate="130",CKKY 'Boom 101.9' Wainwright, AB
 http://newcap.leanstream.co/CKKYFM
 #EXTINF:-1 station-id="awb_788d8f2647dc666e6c9f" stream-id="aws_64229b626e3e6760414c" codec="aac" bitrate="96",CKLB 101.9 Yellowknife, NT
@@ -1669,7 +1671,7 @@ https://stream.jpbgdigital.com/CKLF/HEAAC/48k/playlist.m3u8
 https://26183.live.streamtheworld.com/CKLKFMAAC_SC
 #EXTINF:-1 station-id="awb_ed0e304cfced641c5f9c" stream-id="aws_fe6a504fb0945798c73c" codec="aac+" bitrate="57",CKLM '106.1 FM The Goat' Lloydminster, AB
 https://vistaradio.streamb.live/SB00090
-#EXTINF:-1 station-id="awb_ff50c2834a7b3bc0bd29" stream-id="aws_988cbe0d986cb5a6961b" codec="aac" bitrate="128",CKLN 'New Country 97.1' Clarenville, NL
+#EXTINF:-1 station-id="awb_ff50c2834a7b3bc0bd29" stream-id="aws_988cbe0d986cb5a6961b" codec="aac" bitrate="129",CKLN 'New Country 97.1' Clarenville, NL
 http://newcap.leanstream.co/CKLNFM
 #EXTINF:-1 station-id="awb_b2aa2ed2fbf435a9da62" stream-id="aws_fa2fd521b51b7d2c641a" codec="aac" bitrate="130",CKLN 97.1 'KIXX Country' Clarenville, NL
 http://newcap.leanstream.co/CKLNFM
@@ -1688,7 +1690,7 @@ http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:-1 station-id="awb_91cb484c7bd0b4c13f69" stream-id="aws_15f3c6ce8a5515c27452" codec="mp3" bitrate="0",CKLU 96.7 Laurentian University - Sudbury, ON
 http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:-1 station-id="awb_cb3c731d5f8630f4c1ed" stream-id="aws_06b08ef6daf071dbb54e" codec="aac+" bitrate="40",CKLW 'AM 800' Windsor, ON
-http://29314.live.streamtheworld.com/CKLWAMAAC_SC
+http://18003.live.streamtheworld.com:3690/CKLWAMAAC_SC
 #EXTINF:-1 station-id="awb_8310085f79be33ed2d40" stream-id="aws_73b91d440b0bb8ded5e1" codec="aac+" bitrate="48",CKLZ-FM 104.7 'The Lizard' Kelowna, BC
 https://stream.jpbgdigital.com/CKLZ.m3u8
 #EXTINF:-1 station-id="awb_ef72ba80ede8b1298863" stream-id="aws_c94f74837a47d86820d3" codec="aac+" bitrate="95",CKMB 107.5 'KOOL FM' Barrie, ON
@@ -1703,7 +1705,7 @@ https://localradio.streamb.live/SB00096
 http://newcap.leanstream.co/CKMPFM
 #EXTINF:-1 station-id="awb_abe0e70f0bdb80d5ffa5" stream-id="aws_475204da1a7950a133c1" codec="aac+" bitrate="48",CKMQ-FM 101.1 'Q101' Merritt, BC
 https://stream.jpbgdigital.com/CKMQ.m3u8
-#EXTINF:-1 station-id="awb_cffac145fa5ba0b00e74" stream-id="aws_83f29712cc8f7f831ebf" codec="aac+" bitrate="64",CKMR-FM 104.5 'More Country' Strathmore, AB
+#EXTINF:-1 station-id="awb_cffac145fa5ba0b00e74" stream-id="aws_83f29712cc8f7f831ebf" codec="aac+" bitrate="63",CKMR-FM 104.5 'More Country' Strathmore, AB
 https://bhs-live2-ais-relay1.leanstream.co/goldenwest/CKMRFM.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_06224c3c788039208f05" stream-id="aws_190fd8639c28da14a1e3" codec="mp3" bitrate="128",CKMS-FM Radio Waterloo DI
 https://radiowaterloo.ca/stream
@@ -1727,7 +1729,7 @@ https://redirect.jpbgdigital.com/CKNO.m3u8
 https://stream.jpbgdigital.com/CKNO/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 station-id="awb_6d390bf0331e678e3051" stream-id="aws_d32459187151a2b50e7d" codec="aac+" bitrate="57",CKNR 94.1 'Moose FM' Elliot Lake, ON
 https://vistaradio.streamb.live/SB00098
-#EXTINF:-1 station-id="awb_7f424e82958d785a3343" stream-id="aws_3a65d6918463cb9c5436" codec="aac+" bitrate="48",CKNX-AM 920 Wingham, ON
+#EXTINF:-1 station-id="awb_7f424e82958d785a3343" stream-id="aws_3a65d6918463cb9c5436" codec="aac+" bitrate="47",CKNX-AM 920 Wingham, ON
 http://live.leanstream.co/CKNXAM
 #EXTINF:-1 station-id="awb_ed6e91b29974188bdf5d" stream-id="aws_4e583464bb2d9a40a68b" codec="aac+" bitrate="48",CKNX-FM 101.7 'The One' Wingham, ON
 http://live.leanstream.co/CKNXFM
@@ -1752,7 +1754,7 @@ https://mybroadcasting.streamb.live/SB00444
 #EXTINF:-1 station-id="awb_e00e3c1c8fdf07d39d8f" stream-id="aws_65f991d0bee5e14e6069" codec="aac+" bitrate="49",CKOU 'K Country 93.7' Georgina, ON
 https://torres-media.streamb.live/SB00191
 #EXTINF:-1 station-id="awb_f88d0be0f20cdeeff7aa" stream-id="aws_ce9653679acb17548ce2" codec="unknown" bitrate="0",CKOY '107.7 FM Estrie' Sherbrooke, QC
-https://26353.live.streamtheworld.com/CKOYFMAAC_SC
+https://29319.live.streamtheworld.com/CKOYFMAAC_SC
 #EXTINF:-1 station-id="awb_a7a4b3c8cd22d7eb6c13" stream-id="aws_6b03492d07c33003523c" codec="aac+" bitrate="47",CKPC 'Lite 92'
 https://evanov.streamb.live/SB00226?
 #EXTINF:-1 station-id="awb_15023a8e403064b10e04" stream-id="aws_6facb580f8555bb3d2b3" codec="mp3" bitrate="64",CKPE 'The Cape 94.9' Sydney, NS
@@ -1795,7 +1797,7 @@ http://stream2.statsradio.com:8078/stream
 http://live.leanstream.co/CKRUFM-MP3
 #EXTINF:-1 station-id="awb_9956d8c02da9d91de049" stream-id="aws_99a3ae721847f98af3c0" codec="aac" bitrate="132",CKRV '97.5 The River' Kamloops, BC
 http://newcap.leanstream.co/CKRVFM
-#EXTINF:-1 station-id="awb_7c98ccc2e3f98fac1ce4" stream-id="aws_f7975e6218d24f2560bc" codec="aac" bitrate="129",CKRV-FM 'K 97.5 Classic Rock' Kamloops, BC
+#EXTINF:-1 station-id="awb_7c98ccc2e3f98fac1ce4" stream-id="aws_f7975e6218d24f2560bc" codec="aac" bitrate="130",CKRV-FM 'K 97.5 Classic Rock' Kamloops, BC
 http://newcap.leanstream.co/CKRVFM-MP3
 #EXTINF:-1 station-id="awb_194cf57c965d919f566c" stream-id="aws_8ac522e95de90736e375" codec="aac" bitrate="96",CKRW 96.1 'The Rush' Whitehorse, YT
 http://ckrw.streamon.fm:8000/CKRW-32k.aac
@@ -1805,7 +1807,7 @@ http://live.leanstream.co/CKRYFM-MP3
 https://stream2.statsradio.com:8132/stream
 #EXTINF:-1 station-id="awb_fdfcc338e8f057125312" stream-id="aws_209fed31194fdfe5025e" codec="aac" bitrate="131",CKSA 95.9 'Real Country Lloydminster', AB
 http://newcap.leanstream.co/CKSAFM
-#EXTINF:-1 station-id="awb_00f1840c360a2ce0078c" stream-id="aws_65aff368a1b82e5bdab1" codec="aac+" bitrate="64",CKSE 106.1 'Rock 106' Estevan, SK
+#EXTINF:-1 station-id="awb_00f1840c360a2ce0078c" stream-id="aws_65aff368a1b82e5bdab1" codec="aac+" bitrate="63",CKSE 106.1 'Rock 106' Estevan, SK
 https://goldenwest.leanstream.co/CKSEFM
 #EXTINF:-1 station-id="awb_e6640de9effc7601eb53" stream-id="aws_31f273383d2fcbd288ca" codec="aac" bitrate="134",CKSQ 93.3 'Real Country Stettler', AB
 http://newcap.leanstream.co/CKSQFM
@@ -1813,7 +1815,7 @@ http://newcap.leanstream.co/CKSQFM
 https://rogers-hls.leanstream.co/rogers/chi983.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_6da2355c7c3c863b1b8c" stream-id="aws_dac5d2efc92a5d6538ac" codec="aac+" bitrate="64",CKSW 570 Swift Current, SK
 https://lax-live1-ais-relay1.leanstream.co/goldenwest/CKSWAM.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_504019421a24b0d4d1a8" stream-id="aws_7522e363a1f927ff92cb" codec="aac+" bitrate="63",CKSW 570am
+#EXTINF:-1 station-id="awb_504019421a24b0d4d1a8" stream-id="aws_7522e363a1f927ff92cb" codec="aac+" bitrate="64",CKSW 570am
 http://goldenwest.leanstream.co/goldenwest/CKSWAM.stream
 #EXTINF:-1 station-id="awb_b75f8b8160d375c8c051" stream-id="aws_a5890f23a31696529bb6" codec="aac+" bitrate="47",CKSY 94.3 Chatham, ON
 http://live.leanstream.co/CKSYFM
@@ -1829,13 +1831,13 @@ https://centova.radioservers.biz/proxy/cktpradi/stream
 https://ais-sa1.streamon.fm/7000_64k.mp3
 #EXTINF:-1 station-id="awb_59fa02e63ad6370bdcdd" stream-id="aws_0b58989f91a1a8b341b5" codec="aac" bitrate="96",CKUA Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
-#EXTINF:-1 station-id="awb_46df7e6dfece4c5f1905" stream-id="aws_381cca2d2a79a1b2883c" codec="aac+" bitrate="48",CKUE 'Cool 95.1' Chatham, ON
+#EXTINF:-1 station-id="awb_46df7e6dfece4c5f1905" stream-id="aws_381cca2d2a79a1b2883c" codec="aac+" bitrate="47",CKUE 'Cool 95.1' Chatham, ON
 http://live.leanstream.co/CKUEFM
 #EXTINF:-1 station-id="awb_989a28f5c1e2f2df51ad" stream-id="aws_df738783f8bb16238762" codec="aac+" bitrate="47",CKUE-FM2 'Cool 100.7' Windsor, ON
 http://live.leanstream.co/CKUEF2
-#EXTINF:-1 station-id="awb_cc41e850c2387ac591a6" stream-id="aws_3234269bed4b93db26c3" codec="aac" bitrate="132",CKUL 'Mix 96.5' Halifax, NS
+#EXTINF:-1 station-id="awb_cc41e850c2387ac591a6" stream-id="aws_3234269bed4b93db26c3" codec="aac" bitrate="129",CKUL 'Mix 96.5' Halifax, NS
 http://newcap.leanstream.co/CKULFM
-#EXTINF:-1 station-id="awb_48a97c1ad36473b0a35f" stream-id="aws_28ab8d56f743cdded2b9" codec="aac" bitrate="130",CKUL-FM 'The Breeze 96.5' Halifax, NS
+#EXTINF:-1 station-id="awb_48a97c1ad36473b0a35f" stream-id="aws_28ab8d56f743cdded2b9" codec="aac" bitrate="132",CKUL-FM 'The Breeze 96.5' Halifax, NS
 http://newcap.leanstream.co/CKULFM
 #EXTINF:-1 station-id="awb_52a902f86df14955f0a3" stream-id="aws_ade18089ff4f9a72b2d2" codec="mp3" bitrate="192",CKUT 90.3 FM
 https://ckut.out.airtime.pro/ckut_a
@@ -1869,7 +1871,7 @@ https://vistaradio.streamb.live/SB00108
 https://vistaradio.streamb.live/SB00108
 #EXTINF:-1 station-id="awb_611a492a30a4a823ecc6" stream-id="aws_233dbc46e683e1c2d36a" codec="aac+" bitrate="63",CKVX-FM 104.9 'Country 104' Kindersley, SK
 https://hel-ais-relay3.leanstream.co/goldenwest/CKVXFM.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_13628494f258255ca537" stream-id="aws_df183b01ee8a88384e4f" codec="aac" bitrate="132",CKWB 'Real Country 97.9' Westlock, AB
+#EXTINF:-1 station-id="awb_13628494f258255ca537" stream-id="aws_df183b01ee8a88384e4f" codec="aac" bitrate="142",CKWB 'Real Country 97.9' Westlock, AB
 http://newcap.leanstream.co/CKWBFM
 #EXTINF:-1 station-id="awb_a103f8df56237960812f" stream-id="aws_6806cd7a3b41469c2f81" codec="aac+" bitrate="48",CKWD-FM 'Wild 95.3' Calgary, AB
 https://stream.jpbgdigital.com/CKWD.m3u8
@@ -1893,7 +1895,7 @@ https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 http://newcap.leanstream.co/CKWYFM
 #EXTINF:-1 station-id="awb_4e3adc64633f379a96aa" stream-id="aws_96a4c9bff40b0005a15a" codec="aac" bitrate="132",CKWY-FM 'Hot 93.7' Wainwright, AB
 http://newcap.leanstream.co/CKWYFM
-#EXTINF:-1 station-id="awb_99f2d8ddfb3d7128c1d6" stream-id="aws_a2388dbdb3c647bf72a6" codec="aac" bitrate="130",CKXD 98.7 'K Rock' Gander, NL
+#EXTINF:-1 station-id="awb_99f2d8ddfb3d7128c1d6" stream-id="aws_a2388dbdb3c647bf72a6" codec="aac" bitrate="132",CKXD 98.7 'K Rock' Gander, NL
 http://newcap.leanstream.co/CKXDFM
 #EXTINF:-1 station-id="awb_f45391e7a6506cced9c7" stream-id="aws_cf0b70727644536e49e1" codec="aac" bitrate="131",CKXG 102.3 'K-Rock' Grand Falls-Windsor, NL
 http://newcap.leanstream.co/CKXGFM
@@ -1921,7 +1923,7 @@ https://26313.live.streamtheworld.com/CKYQ_FM_SC
 https://ice10.securenetsystems.net/CKYR
 #EXTINF:-1 station-id="awb_6b1fe643952b17485d85" stream-id="aws_1ae600d0d33fa8f4e0f6" codec="aac+" bitrate="47",CKYX '97.9 Rock' Fort McMurray, AB
 http://rogers-hls.leanstream.co:8000/rogers/for979.stream/48k/playlist.m3u8
-#EXTINF:-1 station-id="awb_ab929b21b3c37a853859" stream-id="aws_36bb39aa480b0315b080" codec="aac" bitrate="130",CKZZ 'Z95.3' Vancouver, BC
+#EXTINF:-1 station-id="awb_ab929b21b3c37a853859" stream-id="aws_36bb39aa480b0315b080" codec="aac" bitrate="134",CKZZ 'Z95.3' Vancouver, BC
 http://newcap.leanstream.co/CKZZFM
 #EXTINF:-1 station-id="awb_8773720dca22617e7b01" stream-id="aws_092a6b19963fdbc652ac" codec="mp3" bitrate="128",Cladrite Radio at Live365
 http://streaming.live365.com/a43564
@@ -2019,7 +2021,7 @@ http://io.etn.fm:8200/trance-mp3-128
 https://azuracast.myautodj.com/listen/euro_nation/radio.mp3
 #EXTINF:-1 station-id="awb_9ae91e49ba8f948fa26d" stream-id="aws_e6e4cd3a243b12dbe9eb" codec="mp3" bitrate="128",Eurodance Classic ... Pure - Classic - Addictive
 http://quincy.torontocast.com:2380/stream
-#EXTINF:-1 station-id="awb_447337ddde11371e0a53" stream-id="aws_47e57a33d1289964a010" codec="aac" bitrate="4244",EWTN Canada
+#EXTINF:-1 station-id="awb_447337ddde11371e0a53" stream-id="aws_47e57a33d1289964a010" codec="aac" bitrate="4278",EWTN Canada
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_7e286db007bfce403eb9" stream-id="aws_2cfcaeb68663d60f7ed4" codec="mp3" bitrate="128",Exclusively Buddy Holly
 https://streaming.exclusive.radio/er/buddyholly/icecast.audio
@@ -2027,7 +2029,7 @@ https://streaming.exclusive.radio/er/buddyholly/icecast.audio
 https://streaming.exclusive.radio/er/erasure/icecast.audio
 #EXTINF:-1 station-id="awb_7ecdc2d7a569685bc92e" stream-id="aws_ff2ca78faab53ffa7bb3" codec="mp3" bitrate="128",Exlusively Eurythmics
 https://streaming.exclusive.radio/er/eurythmics/icecast.audio
-#EXTINF:-1 station-id="awb_d378222d1b33be0d675b" stream-id="aws_4bf98eba9a55be3588c1" codec="aac+" bitrate="50",fairchildren radio
+#EXTINF:-1 station-id="awb_d378222d1b33be0d675b" stream-id="aws_4bf98eba9a55be3588c1" codec="aac+" bitrate="49",fairchildren radio
 http://icecast01.eseenet.com:8000/am1430
 #EXTINF:-1 station-id="awb_3bd24f88a50baa5b9bce" stream-id="aws_8506f023fb9be26067a1" codec="aac" bitrate="32",FAITH 99.9 CHJX
 https://ice7.securenetsystems.net/CHJXFM
@@ -2217,7 +2219,7 @@ http://eagle.streemlion.com:4580/stream
 https://corus.leanstream.co/CKQBFM?args=web_01&startTime=1718541471
 #EXTINF:-1 station-id="awb_60989c5562ad680c64e1" stream-id="aws_82d4abee47e1e15ca808" codec="aac+" bitrate="47",K-Rock 105.7 Kingston's Rock Station
 https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8?environment=web&args=app_03
-#EXTINF:-1 station-id="awb_e7c2c1e95833e85be0fd" stream-id="aws_8160e3719cef4ed356a6" codec="aac" bitrate="130",K-Rock 975
+#EXTINF:-1 station-id="awb_e7c2c1e95833e85be0fd" stream-id="aws_8160e3719cef4ed356a6" codec="aac" bitrate="132",K-Rock 975
 https://stingray.leanstream.co/VOCMFM?args=web_01&uid=7be41d13-aefe-4a00-897f-bb1bcdf4ceb3&user_hash=WrTpTctZfd0OzP0fyM9fT4YTkv38e4aM&aw_0_req.gdpr=true&gdpr=true
 #EXTINF:-1 station-id="awb_f7cc66ce08fe3d6222f8" stream-id="aws_4020b2a7e0bdfbefee89" codec="mp3" bitrate="24",Kamloops Fire Rescue Scanner
 http://icecast0.scanbc.com/kamloops
@@ -2383,7 +2385,7 @@ https://radio.mammothradio.com/radio/8000/radio.mp3
 https://mybroadcasting.streamb.live/SB00315
 #EXTINF:-1 station-id="awb_6643d2b54ff7f666413d" stream-id="aws_f00f1eff9a96b64d24a1" codec="aac+" bitrate="31",myFM88.1
 https://mybroadcasting.streamb.live/SB00315
-#EXTINF:-1 station-id="awb_a8148d1ad9f4024411ae" stream-id="aws_db49dd6f18a589a8a06c" codec="mp3" bitrate="72",MyRadio 580am
+#EXTINF:-1 station-id="awb_a8148d1ad9f4024411ae" stream-id="aws_db49dd6f18a589a8a06c" codec="mp3" bitrate="74",MyRadio 580am
 http://ais-sa1.streamon.fm/7681_64k.mp3
 #EXTINF:-1 station-id="awb_11c86ffee2c881fa0270" stream-id="aws_cbafdf3c441f39e8e7ee" codec="mp3" bitrate="128",MyRadio.Kicks-Ass.net
 http://myradio.kicks-ass.net:8000/radio.mp3
@@ -2427,7 +2429,7 @@ https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8
 https://newcap.leanstream.co/CIHTFM?args=web_01
 #EXTINF:-1 station-id="awb_fa2c3e4abe947b1ed1a4" stream-id="aws_5fd008c3aed70f04a89f" codec="aac+" bitrate="47",Ottawa KiSS 105.3 FM (CISSFM)
 https://rogers-hls.leanstream.co/rogers/ott1053.stream/48k/playlist.m3u8
-#EXTINF:-1 station-id="awb_2146dcc1996a2083363f" stream-id="aws_8e51b234cbf4fd5b122d" codec="aac" bitrate="132",Ottawa Live 885 (CLIVFM)
+#EXTINF:-1 station-id="awb_2146dcc1996a2083363f" stream-id="aws_8e51b234cbf4fd5b122d" codec="aac" bitrate="131",Ottawa Live 885 (CLIVFM)
 https://newcap.leanstream.co/CILVFM-MP3?args=web_03
 #EXTINF:-1 station-id="awb_a9dcaeade2236399a7df" stream-id="aws_2e8935ee2a4204beda29" codec="mp3" bitrate="96",OZ FM Newfoundland
 https://ozfm.streamb.live/SB00174
@@ -2479,8 +2481,8 @@ https://stream-cjpx-rr01.leclerccom.com/cjpx.aac
 http://ice66.securenetsystems.net/R42N
 #EXTINF:-1 station-id="awb_cf382fe62cb9b653c02b" stream-id="aws_008942f9a1904e5407d2" codec="mp3" bitrate="128",Radio 854
 https://jenny.torontocast.com:8034/stream
-#EXTINF:-1 station-id="awb_42c46a774b2461d3d452" stream-id="aws_abc177736b97c2729819" codec="aac" bitrate="64",Radio Addictive 50s
-https://quincy.torontocast.com:2945/stream
+#EXTINF:-1 station-id="awb_42c46a774b2461d3d452" stream-id="aws_abc177736b97c2729819" codec="mp3" bitrate="128",Radio Addictive 50s
+http://quincy.torontocast.com:2920/stream
 #EXTINF:-1 station-id="awb_30d6393d6dd51f9076a9" stream-id="aws_dec64967c5a099a8a46a" codec="mp3" bitrate="128",Radio Beatles (MP3)
 http://stream.zeno.fm/mfmzpwnhd78uv
 #EXTINF:-1 station-id="awb_afe998e1ff69e7fa892f" stream-id="aws_8e64a3c24333ccd899bd" codec="mp3" bitrate="128",Radio Bellissima Christmas
@@ -2721,7 +2723,7 @@ http://listen.rpgamers.net/rpgn
 http://listen.rpgamers.net/rpgn
 #EXTINF:-1 station-id="awb_4a3a5452aa65d5dca87b" stream-id="aws_2606531e5480fbccf03d" codec="mp3" bitrate="80",Rumsey Retro Radio
 https://jenny.torontocast.com:8042/stream
-#EXTINF:-1 station-id="awb_788906f10868098a2daf" stream-id="aws_d856b5c73c65c26d21bc" codec="mp3" bitrate="160",Rythme 100,1 Mauricie
+#EXTINF:-1 station-id="awb_788906f10868098a2daf" stream-id="aws_d856b5c73c65c26d21bc" codec="mp3" bitrate="128",Rythme 100,1 Mauricie
 https://s33.myradiostream.com/15364/listen.mp3
 #EXTINF:-1 station-id="awb_c90b701925e769df2d9b" stream-id="aws_8d3f3e9aecfefbf48f61" codec="mp3" bitrate="128",Sandblast Channel
 https://servidor31-2.brlogic.com:7052/live?identifier=Streaming%20on%20Sandblast%20Channel&source=6692
@@ -2771,7 +2773,7 @@ https://stream.smoothradio.net/live
 http://154.38.165.78:3406/128K
 #EXTINF:-1 station-id="awb_1021633b162ca0ff26d6" stream-id="aws_7c3295276ad6322c4d85" codec="mp3" bitrate="320",SomehowJazz
 https://443-1.autopo.st/36/320K/;&type=mp3
-#EXTINF:-1 station-id="awb_e04f5a720ca42d93159e" stream-id="aws_dd79ba17b7c7e4866175" codec="aac+" bitrate="47",Sonic 102.9
+#EXTINF:-1 station-id="awb_e04f5a720ca42d93159e" stream-id="aws_dd79ba17b7c7e4866175" codec="aac+" bitrate="48",Sonic 102.9
 https://rogers.leanstream.co/rogers/edm1029.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1 station-id="awb_5d82290ee40e157fc311" stream-id="aws_14d041e86ada09b02946" codec="mp3" bitrate="128",Soul Good Radio
 http://c3.radioboss.fm:8090/autodj
@@ -2793,7 +2795,7 @@ https://mbsradio-ais.leanstream.co/CJRWFM-MP3?args=mobile_02&uid=d0c97a6c-4bdf-4
 http://s25.myradiostream.com:10092/stream
 #EXTINF:-1 station-id="awb_1744c4d2b22397055d02" stream-id="aws_7c74c76d95398bd458ba" codec="mp3" bitrate="192",Squirrel FM
 http://s25.myradiostream.com:10092/stream/1/listen.mp3
-#EXTINF:-1 station-id="awb_88ae6711e01eef5f2086" stream-id="aws_20463a8893a6ff38c8db" codec="aac+" bitrate="64",Stainbah online AM 1250
+#EXTINF:-1 station-id="awb_88ae6711e01eef5f2086" stream-id="aws_20463a8893a6ff38c8db" codec="aac+" bitrate="63",Stainbah online AM 1250
 https://goldenwest.leanstream.co/goldenwest/CHSMAM.stream/playlist.m3u8?args=app_02
 #EXTINF:-1 station-id="awb_77bb0bbac77e77fa5a81" stream-id="aws_0b6dee2846a5d4fe788c" codec="aac" bitrate="690",Stingray ''Classic Rock''
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -2805,9 +2807,9 @@ https://streams.radiomast.io/fa7ff97e-4b53-4cc8-939c-43aadc971a4c
 https://jenny.torontocast.com:2000/stream/suitejazzradio
 #EXTINF:-1 station-id="awb_a326a6640bc3ff2caa91" stream-id="aws_23559ca312990e0a2e57" codec="aac+" bitrate="57",Summit 95.7 (Trail)
 https://vistaradio.streamb.live/SB00388?args=web_01&=&&___cb=601347251811485
-#EXTINF:-1 station-id="awb_4c0669f34e1fd4c20348" stream-id="aws_7e348264a05fb1c52c3f" codec="aac+" bitrate="63",Sun Country 97.7 FM (High River, CFXO-FM)
+#EXTINF:-1 station-id="awb_4c0669f34e1fd4c20348" stream-id="aws_7e348264a05fb1c52c3f" codec="aac+" bitrate="64",Sun Country 97.7 FM (High River, CFXO-FM)
 https://hel-ais-relay3.leanstream.co/goldenwest/CFXOFM.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_465517c91019838f335b" stream-id="aws_a52200bcba46e92e0422" codec="aac+" bitrate="104",SuperFM
+#EXTINF:-1 station-id="awb_465517c91019838f335b" stream-id="aws_a52200bcba46e92e0422" codec="aac+" bitrate="96",SuperFM
 https://eagle.streemlion.com/proxy/ed123/stream
 #EXTINF:-1 station-id="awb_c5cf1359013f136e201c" stream-id="aws_d77f7bb8237ed6fb0ed4" codec="aac" bitrate="128",Surge 105
 https://ais-sa1.streamon.fm/7737_128k.aac
@@ -2841,6 +2843,8 @@ https://s45.myradiostream.com/:15204/listen.mp3/;
 https://streaming.live365.com/a57200/playlist.m3u8?playerid=esPlayer
 #EXTINF:-1 station-id="awb_7c19577188c420d30eac" stream-id="aws_ebf5e71f512d2a8739b0" codec="aac" bitrate="132",The Giant 101.9
 https://newcap.leanstream.co/CHRKFM
+#EXTINF:-1 station-id="awb_ec8c48bb9c2853ae8142" stream-id="aws_8bbb2aeeebde274bc814" codec="mp3" bitrate="320",The HUB - Nanton Radio
+https://usa20.fastcast4u.com:1280/;?type=http
 #EXTINF:-1 station-id="awb_65f956baf50fb2201d58" stream-id="aws_017180429cbb38a46dac" codec="aac+" bitrate="48",The Lounge 99.9
 https://redirect.jpbgdigital.com/CHPQ
 #EXTINF:-1 station-id="awb_d40368ae6fec595fd740" stream-id="aws_e5626d954bd5f7ce1de9" codec="aac+" bitrate="48",The Lounge CHPQ-FM 99.9 Parksville
@@ -2855,8 +2859,6 @@ https://disco-lynxradio.radioca.st/stream
 http://80s-lynxradio.radioca.st/stream
 #EXTINF:-1 station-id="awb_632aa6511ea9c15c8d01" stream-id="aws_4d062ae4e92e24d533fc" codec="mp3" bitrate="320",THE LYNX SUPER 70S
 http://70s-lynxradio.radioca.st/stream
-#EXTINF:-1 station-id="awb_740a1bbea329ca5c78e8" stream-id="aws_5e188c33a66c4ddb383e" codec="mp3" bitrate="128",The Mixtape
-https://eagle.streemlion.com/proxy/trevor1?mp=/stream
 #EXTINF:-1 station-id="awb_30574084fdc5b41abbf5" stream-id="aws_bbf3b85d25a8f367f87d" codec="aac+" bitrate="57",The Moose Smithers
 https://vistaradio.streamb.live/SB00077
 #EXTINF:-1 station-id="awb_f4e3a57bb0d70870c080" stream-id="aws_7a6a833be17a47bdad85" codec="mp3" bitrate="192",The Oasis Modern Easy Listening
@@ -2899,6 +2901,8 @@ https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream
 https://london-dedicated.myautodj.com:3199/proxy/trance/stream
 #EXTINF:-1 station-id="awb_7e418787a1a8ae6c351f" stream-id="aws_11317f0b184d3b055873" codec="mp3" bitrate="128",Trik Trak Radio
 https://cast3.my-control-panel.com/proxy/triktrak/stream
+#EXTINF:-1 station-id="awb_b554d958452af6027c5c" stream-id="aws_699cc2797fd58ab7c826" codec="mp3" bitrate="0",Triple C Radio
+https://stream.triplec.fm/stream.mp3
 #EXTINF:-1 station-id="awb_207348f05e7739db775c" stream-id="aws_8d4588c0bb61eec0eb9b" codec="mp3" bitrate="320",Tripletail FM
 https://radio.blueberry.coffee/listen/tripletail/radio.mp3
 #EXTINF:-1 station-id="awb_a39acba2afe27d6501c9" stream-id="aws_f06a0ef948709313c4a3" codec="mp3" bitrate="320",trixfm
@@ -2908,7 +2912,7 @@ http://canada1.reliastream.com:8052/live
 #EXTINF:-1 station-id="awb_d688f31763e801f4eb60" stream-id="aws_81d088b74825d4336ba9" codec="mp3" bitrate="320",TruSkOOlBreAkz
 https://ec2.yesstreaming.net:4450/stream
 #EXTINF:-1 station-id="awb_82dab925e170101f1403" stream-id="aws_e561ccb16d490d228555" codec="aac+" bitrate="40",TSN 1200
-http://29317.live.streamtheworld.com:3690/CFGOAMAAC_SC
+http://29317.live.streamtheworld.com/CFGOAMAAC_SC
 #EXTINF:-1 station-id="awb_3e135f5656bdff45063d" stream-id="aws_5849204700056ed753c4" codec="aac" bitrate="96",Tuff City Radio
 https://stream.aiir.com/zzrrqgywgaptv
 #EXTINF:-1 station-id="awb_67360f3aa12fc9725014" stream-id="aws_ebdc869914aa04f85770" codec="mp3" bitrate="0",Tuneria

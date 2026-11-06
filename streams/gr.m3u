@@ -623,7 +623,7 @@ http://solid1.streamupsolutions.com:11004/coolfmnet?type=http&nocache=1258317
 https://s6.citrus3.com/stream/coolradio
 #EXTINF:-1 station-id="awb_c68593af96df0db96579" stream-id="aws_3a10d81d6df02a008b86" codec="mp3" bitrate="192",Corfu Dee Jay 97.5
 https://sh.onweb.gr:7083/stream?type=http&nocache=35812
-#EXTINF:-1 station-id="awb_7aa6ef275896edb47ff4" stream-id="aws_754a4d168fb616cc2a77" codec="mp3" bitrate="128",Cosmoradio 95,1
+#EXTINF:-1 station-id="awb_7aa6ef275896edb47ff4" stream-id="aws_754a4d168fb616cc2a77" codec="mp3" bitrate="96",Cosmoradio 95,1
 http://eco.onestreaming.com:8689/
 #EXTINF:-1 station-id="awb_7aa6ef275896edb47ff4" stream-id="aws_1de1da8af8b2df69aaa8" codec="mp3" bitrate="128",Cosmoradio 95.1
 https://eco.onestreaming.com/proxy/cosmoradio/stream
@@ -653,7 +653,7 @@ https://sc2.streamwithq.com:2000/stream/offifans
 https://sc2.streamwithq.com:2000/stream/offifans
 #EXTINF:-1 station-id="awb_3c2c23298aaaaccd4e47" stream-id="aws_6cbb11326e9cd3ec516a" codec="mp3" bitrate="320",Creta Radio
 https://everest.streams.ovh:1145/stream?x=1741852250498
-#EXTINF:-1 station-id="awb_d2e9375bad2f56e4a718" stream-id="aws_6baa56a120bf586d7af7" codec="aac,h.264" bitrate="1558",Creta TV
+#EXTINF:-1 station-id="awb_d2e9375bad2f56e4a718" stream-id="aws_6baa56a120bf586d7af7" codec="aac,h.264" bitrate="1408",Creta TV
 https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 station-id="awb_4283123b0b6561fc9f81" stream-id="aws_bd8c53bca8201f59b787" codec="mp3" bitrate="192",CretaOne FM 102.3
 https://netradio.live24.gr/radio1023crete?1600.mp3
@@ -1395,6 +1395,8 @@ http://live.radiokiss.gr/kissfm1006hq.mp3
 https://kiss-89-kalamata.live24.gr/kiss89kalamata
 #EXTINF:-1 station-id="awb_a36d408e4cd078c959d5" stream-id="aws_1d1689c379edd6567710" codec="mp3" bitrate="128",Kiss Fm 91.1 Ioannina
 http://168.119.74.185:9110/stream
+#EXTINF:-1 station-id="awb_64ac23f99f15529fd24f" stream-id="aws_ea3b5867c736f365fef5" codec="mp3" bitrate="128",Kiss fm karditsa 100.4
+https://sp2.streams.ovh:7047/stream
 #EXTINF:-1 station-id="awb_5997bf2fa4b708352818" stream-id="aws_7af3e28fd3f1552e40bb" codec="mp3" bitrate="128",Kiss MJT 101.5
 http://eco.onestreaming.com:8550/;
 #EXTINF:-1 station-id="awb_f560e580877b29290712" stream-id="aws_8b50e6e2b3b204c86563" codec="aac" bitrate="192",KISSmas
@@ -2045,8 +2047,6 @@ http://netradio.live24.gr/politica898
 http://s1.onweb.gr:8422/stream?type=http&nocache=75401
 #EXTINF:-1 station-id="awb_43ffafdaf6083df917ed" stream-id="aws_0279e1073bae44289dbf" codec="mp3" bitrate="128",Power 100.2
 http://s1.onweb.gr:8854/stream?type=http&nocache=113055
-#EXTINF:-1 station-id="awb_22b4a274fb86204102a1" stream-id="aws_3ea1151077ca83e15b01" codec="mp3" bitrate="128",Power 90.2
-https://eco.onestreaming.com/proxy/powerkaterini/stream
 #EXTINF:-1 station-id="awb_4d8d95391cafca2d2fbf" stream-id="aws_02800fd645bee8fe822d" codec="mp3" bitrate="192",Power 92.3
 https://neos.win:59230/stream
 #EXTINF:-1 station-id="awb_9b6f022b6031a94501b0" stream-id="aws_366dbf2f4f5eed5d8f7d" codec="mp3" bitrate="192",Power 93.2
@@ -3433,7 +3433,7 @@ https://sc2.streamwithq.com:8124/stream?type=http&nocache=239
 https://n07-eu1.rcs.revma.com/10q3enqxbfhvv
 #EXTINF:-1 station-id="awb_776b44fc96e4b84c12a7" stream-id="aws_6b66c93277fbec866677" codec="aac+" bitrate="159",Δρομοσ 89,8 | Dromos 89,8
 http://netradio.live24.gr/dromos2
-#EXTINF:-1 station-id="awb_81b4c2f08501922edbd0" stream-id="aws_138fe403ef249e962786" codec="aac+" bitrate="159",Δρόμος 89,8 FM
+#EXTINF:-1 station-id="awb_81b4c2f08501922edbd0" stream-id="aws_138fe403ef249e962786" codec="aac+" bitrate="160",Δρόμος 89,8 FM
 http://netradio.live24.gr/dromos2
 #EXTINF:-1 station-id="awb_0a16a8cf44e5f0a11602" stream-id="aws_2aceafe1039ad6fb73be" codec="mp3" bitrate="0",Δυτικά 92.8
 https://cast5.asurahosting.com/proxy/sinidisi/stream
@@ -3789,8 +3789,6 @@ https://sh.onweb.gr/8610/stream
 https://sp1.19cloudsnetwork.gr/8002/stream
 #EXTINF:-1 station-id="awb_a7c72ea451b97d2c1410" stream-id="aws_b88250d612939ffcf015" codec="aac" bitrate="0",Μελωδία 99.2
 https://stream.rcs.revma.com/8tdwa6ez1duvv
-#EXTINF:-1 station-id="awb_e6b1c0408ded89b781f0" stream-id="aws_98d4e802b9f8514db1da" codec="mp3" bitrate="128",Μελωδία Θεσσαλονίκης 98
-https://netradio.live24.gr/north98thess
 #EXTINF:-1 station-id="awb_ed1d0d288d04cbae346d" stream-id="aws_7aa370510e7f8d299088" codec="mp3" bitrate="0",Μελωδία Κασέτες
 https://stream.rcs.revma.com/h9mge780ubuvv
 #EXTINF:-1 station-id="awb_62e2ff232fe894c4a34d" stream-id="aws_54586cd9b104e81ec7ba" codec="mp3" bitrate="128",Μελωδία Πάτρας 100.4

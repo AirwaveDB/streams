@@ -27,17 +27,15 @@
     "codec": "aac",
     "bitrate": 67,
     "protocol": "https",
-    "hls": true,
+    "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9d4d4eef-d7e3-4a96-bc8f-550d9b6962e4",
       "KR:bsod-mbc-mini-all-that-music"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:06:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e91b1d8ae5a4857cc692",
@@ -132,7 +130,7 @@
       "03750ff6-6222-4672-8817-864830fac0eb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:09:47Z"
+    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_2028f081a0cff63948d6",
@@ -170,7 +168,7 @@
       "dad75d66-3246-434f-b16c-83854fe573a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:55:53Z"
+    "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
     "id": "aws_1c272d32cf9aaed0ec09",
@@ -238,7 +236,7 @@
     "country": "KR",
     "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 2275,
+    "bitrate": 2215,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -248,7 +246,7 @@
       "b1339480-2b71-11e9-a35e-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:28:10Z"
+    "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
     "id": "aws_5de702f909ba9dbf7f7f",
@@ -257,7 +255,7 @@
     "country": "KR",
     "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 1286,
+    "bitrate": 1262,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -267,7 +265,7 @@
       "75092107-2a1f-11e9-96d1-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:07:18Z"
+    "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
     "id": "aws_6aaddcc95ad03e8f9504",
@@ -314,7 +312,7 @@
     "country": "KR",
     "url": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 96,
+    "bitrate": 97,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -324,7 +322,7 @@
       "9b8512b7-436d-4da8-8777-633ad9b6671f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:29:08Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_2606449875bfc67d4145",
@@ -440,7 +438,7 @@
       "3058649c-068d-43e8-8c47-4a5a89dbdc4c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:47:25Z"
+    "lastCheckedAt": "2026-11-06T00:48:15Z"
   },
   {
     "id": "aws_aa76973f23e56607b53b",
@@ -467,7 +465,7 @@
     "stationId": "awb_5a527a8b040bfd2538c5",
     "name": "CPBC",
     "country": "KR",
-    "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTI0MjMsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NzQzNmU3Ny1mNWJhLTRjZGQtYjUwOC1mMTYyMzllODE1YWEiLCJpYXQiOjE3OTM1MDkyMjN9.JFWnNAKyIKd1x7icQIzX3GLfAPrp5G5sfChyaIULwhQ",
+    "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5ODQ0MjEsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzOWQ3Zjk2ZC01YzcwLTRmOWEtYWMwMi1jNjU0ZjJjYjIyYjYiLCJpYXQiOjE3OTM5NDEyMjF9.2cQIV2_xk2WLsR-eQg59ut5jDlAKqxA8k3-8l2IjxEE",
     "codec": "aac",
     "bitrate": 192,
     "protocol": "https",
@@ -479,7 +477,7 @@
       "38b5da3e-1859-47f3-9fb3-38e34741a84a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:06:57Z"
+    "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
     "id": "aws_e07b2d9c2b7f7a647c26",
@@ -498,7 +496,7 @@
       "c649b05d-2a19-11e9-96d1-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:07:35Z"
+    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_c140cfc781ff9cab3bf7",
@@ -564,7 +562,7 @@
     "country": "KR",
     "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 1149,
+    "bitrate": 1152,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -574,7 +572,7 @@
       "066839bb-e428-11e8-a9cc-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:16:14Z"
+    "lastCheckedAt": "2026-11-06T03:34:56Z"
   },
   {
     "id": "aws_3da29f6440255044f576",
@@ -640,7 +638,7 @@
     "country": "KR",
     "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 1147,
+    "bitrate": 1140,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -650,7 +648,7 @@
       "323d45ac-e429-11e8-a9cc-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:19:30Z"
+    "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
     "id": "aws_a1a171290eff0d978de7",
@@ -707,7 +705,7 @@
       "44dc6d1c-abe5-402a-be20-3545a0a13101"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:07:40Z"
+    "lastCheckedAt": "2026-11-06T10:20:52Z"
   },
   {
     "id": "aws_d5cbb916f368add92e22",
@@ -747,7 +745,7 @@
       "2f47d2d9-ac17-49cd-9e1c-b5b295800e37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:37:51Z"
+    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_16db79c3ffd844c6cb15",
@@ -785,7 +783,7 @@
       "e849a616-e2ff-4427-a2f6-a1071d2a073a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:09:36Z"
+    "lastCheckedAt": "2026-11-06T03:12:30Z"
   },
   {
     "id": "aws_d841f8b88e5d12548fa4",
@@ -813,7 +811,7 @@
     "country": "KR",
     "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 4422,
+    "bitrate": 4420,
     "protocol": "http",
     "hls": true,
     "sources": [
@@ -823,7 +821,7 @@
       "4e050a3d-b7c9-11e9-acb2-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:04:04Z"
+    "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
     "id": "aws_30de9903f50b874a62fa",
@@ -899,7 +897,7 @@
       "0164bed4-d071-4b85-bc61-dd2f29783c64"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:33:53Z"
+    "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
     "id": "aws_b4df0ddafc7a5fd6c2f6",
@@ -946,7 +944,7 @@
     "stationId": "awb_3d846ff7788d519d4e24",
     "name": "KBS 1Radio",
     "country": "KR",
-    "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzY5NjM4MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kaVuof3zZ71CkFHyxNd69O~qD1fnpfDRs~UedNhkMf4po1l7V0ht7GNtefxszGX85Ym0DruadEBhM6EGZTAzqqGQzVGnOa5iAi20z4Wo--MHccI7DUygt6bl0BBzjXMQfW44scqPN1JMRlijjmFP7IZVyv8jA97pIbpBt-YkOH1PuIa1sJYwfrf8AgH7EDM6v~2TUPrYQs4KBg-gl8as7UQZ3OwMa45YjBKS0YlB76jU3J248HRQydYINIKGTp2dLOCzK5P8rf6drOvWbQQMfMhUEvl5Pr~C1Mf164A4yQqFb727DJWeWvw6MPjEd-EOFvo1KSV-slwKJO3ft0OHew__",
+    "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDEyOTU5Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=iuNprM-kmzIs3v44fdDDXSY9-tVxo~6G7MbzR8SLsrDIFi7goVjAqa4wRYp0FlhTojCapKDZlVouZIG2GWWP7A1bk-WnabZSe5UTCnHpIiK8rVLdbCBT9L3mlkZUpJqnn9Y7QpPfu6hZVrlD47zXgS6Kp28PCjNEGNCW30DQqbcpMt3fbd~P7SUn5kBg6zkFf8Bmf-0c0VxymxBppkAszbzFTBw9~20GwQpPErC8C531gwesQzcGRy-fUVOIjbYFlh4CqCgTMqGaIpiwf9bgwKDSaRWcDIsSW3DvYzlj6UHyaJ~BVrf2JGdroLuCkIdr6Dbf1MaV4-YVqBDrSyrnVQ__",
     "codec": "unknown",
     "bitrate": 0,
     "protocol": "https",
@@ -958,7 +956,7 @@
       "9b3576ec-7f67-11e9-aa30-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:17:12Z"
+    "lastCheckedAt": "2026-11-06T09:37:50Z"
   },
   {
     "id": "aws_1d67067403f035106bbc",
@@ -1020,63 +1018,6 @@
     "lastCheckedAt": "2026-11-01T17:40:02Z"
   },
   {
-    "id": "aws_aa0e967e28dbf5b7bcd6",
-    "stationId": "awb_5a5630757c4f6889de48",
-    "name": "kbs classic fm",
-    "country": "KR",
-    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2Njc1NjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DAXdgHBnWLd0BgwhYlwO23p6sJHq1YHuEGBPCohSv743o0iICyCjP4koKOyl71Uj47N31C-4I-1MdjyZP87og9Pz821bPjQPKSanao86SoACQlVBvdgFMjtJFTjxCjIFXjkCw2i41hZK0w1exw3qPUk9fKmbZoy7THZN~HLQ7QTN-PxiNfEPQus2r86Xm7tDCTxrwFL0spSufN9tjM9lJjLTwfID-8oipKLn7MOPCUJZ~DcABqA5R9~UijXkd2FgwodRchoD7hqHi83p28WB3ZG-mN8-zR7YvkYToeD23pU0qkwaidl3CMqUrKvXP5KupiIDgPUe0w4oS-8Xsrhhaw__",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4be766ba-038c-4795-87b0-04be87b1e712"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:08:40Z"
-  },
-  {
-    "id": "aws_70487c5c774c31f00199",
-    "stationId": "awb_8bdf64342a7c9ce4f582",
-    "name": "KBS Classic FM",
-    "country": "KR",
-    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NzgzOTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nZk4tXIZP2vAT77B0qkqUFU83wdASgj5eseWijT4yh0IniIZZnh7VketzSW01~3H6imOR-Zv1h1tsTggh1H1x8LyxzE9Sai4vO~pjbcVctfhU6QaqRAQ0WrOIGXm2EWENXmPaNYWm-OX~1H8bp7TWt-961WekfMf3yhemJlPpsF9902-oFIGFHT1SDLzbdyGeDkMCRJOZmkRWYt4CZwmBU8BJmVTRjV9ZEjjjzKLk5RpocwkYgOUglfNRbZ0mU~0Tr6o0hoSf-am5ZM0AEdGKJ6KSnibi4UdR0c1Q-5rx~Ig8U5ZkZ~lsQY8DzbsKsY~Yz-sT5SLu2rKuBJQc1GYWA__",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c038a859-7be1-11e9-aa30-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:12:53Z"
-  },
-  {
-    "id": "aws_592c2b9a5b0876273584",
-    "stationId": "awb_5a5630757c4f6889de48",
-    "name": "KBS Classic FM",
-    "country": "KR",
-    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NzUzNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ewuChlY0aCfNyZEUVV-NbXO70s9kJFWeZeN6FOOsKpLLGbBy3ebbd0hlHKHzzvr~WKnL4jW~HhCZVbe0n7rV5R4CJ0~BZcpYIZqaEw0qzZHov-o904zyUlv7h0oQzwsWNxETAzKNKDB-u5DwVs3LQbAuVKQN6vJubXIjMrraCVT8EqywHnKM7LVFaJ5fq3JSj7L6N0K9Says5Oh0CrDpQQeK5VHbndWkXU-Lxm3S3kLBUUJBIgr9-WkrFTirFVzc9AVbwDuhFHqE8gSD5CnBrDYESfZLxGOiYpXhpQ6s4XFWomRZavhxZYoLX6HFSSxLXI1rnATbkugRfrKTlVSHvA__",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e0df5138-3057-4f08-b1e9-1a6b72e0f4ad"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:45:34Z"
-  },
-  {
     "id": "aws_4413c5d99b253e34ece0",
     "stationId": "awb_9cf73178a232721d7390",
     "name": "KBS Classic FM",
@@ -1096,6 +1037,63 @@
     "lastCheckedAt": "2026-11-01T13:30:35Z"
   },
   {
+    "id": "aws_aa0e967e28dbf5b7bcd6",
+    "stationId": "awb_5a5630757c4f6889de48",
+    "name": "kbs classic fm",
+    "country": "KR",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQwOTk1ODB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KexMIvyr8FpfjOxwI8gGWh-ZRG-hMtK6OMqk3IQrYowAwbAzVhxTyTam0o6kzp7j7s78~EXgi8bHpqD3emI~ib18EWlszLeujhGKWkBnbwkBuSLHgKWhf5YAvRYLRFFzglM9kqN0rhFMuLcLyzp5EMksNMvEd4m3C2oiNgoz8AnypIkuRQjl8cIV7q~-UP~BbUcSZJKihiFGNsVNx4YbPJSgjT-lmSHEwWdSELIPufTcjfzR6k5wcOQqT0l3S6HfbhymzRXjzPp7u8-HWBrgjJD10ebOBPbOdbCxn5pnFGfZOBacPfa4vUG~1A5GHBNn7gpZXlqIH6M9ZXA6YEwW-w__",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4be766ba-038c-4795-87b0-04be87b1e712"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
+  },
+  {
+    "id": "aws_592c2b9a5b0876273584",
+    "stationId": "awb_5a5630757c4f6889de48",
+    "name": "KBS Classic FM",
+    "country": "KR",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMDczOTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=cNmDZKjXWeWtHzAqyQWwWkljXh9LyoDp9pepXS0xUfoM8IDssXW2iFyKs4M1QzlvXXHlGNf8b4Fu7nmOL6xJTIkf-x6HMEhDqNyavJTRok479QjUpxMq4IMDWPn3eZ71LXaE8FviQUAY0WU7AagWC~6mAdxjs9vWRaQ~EVcmQVLlMxxGXCK7Qc-M5WVaWzAdIMXe9mjkhwrqDo3JaiBzj7xesV0gOuwAOEiBaTnQjRha3NxLgarAyZ~~BJPNJgNiIOvCQJrgvgpWzFCI~dQXGkWbsLAJVm7s0Vacu9bTwdAvNFLVHnDJfM2-stmyAG5gzqQ9PF9DlvcAxfnzSC6Zzw__",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e0df5138-3057-4f08-b1e9-1a6b72e0f4ad"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T05:49:38Z"
+  },
+  {
+    "id": "aws_70487c5c774c31f00199",
+    "stationId": "awb_8bdf64342a7c9ce4f582",
+    "name": "KBS Classic FM",
+    "country": "KR",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMTAzODN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Q-6D8qKpBUZwUyDRv43aZSdAtZayES-JV07vz1zTBLAV9dG3e0VdwDTNPZ55~89~BCgMI0QK4ATbYQ8ZjcWm~0UW3uGX0wQtF4Iz87qYmg77u7BWv6qs3F1BAcVEc0-I2nCcrDF9vYoRnVf973jped9TWmi66Wc9Eg1r6ZgiK2-hin5Ked0~bxg~hEwuiqYuOXl~-I2EClps2JG1o9Yru6oD1vLoTBubFYsLcdJIqpga0jUJW3idgxR7uakuJiO01grtN0KAvIJdhaYXV7HdTtU2rPf~TEUoi3QykXo7QRYOhPaiPdOFZR8mF4dpmLJGINa~dkL40~~nKv1sdQSbgw__",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c038a859-7be1-11e9-aa30-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T04:14:28Z"
+  },
+  {
     "id": "aws_289bd36cf3c85836e1ae",
     "stationId": "awb_9cf73178a232721d7390",
     "name": "KBS Classic FM",
@@ -1112,7 +1110,7 @@
       "bd8fb526-2493-4849-a686-88fbcaa2f144"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:28:10Z"
+    "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
     "id": "aws_615ea29cbde5dfd8d1b9",
@@ -1131,7 +1129,7 @@
       "7d011452-9249-4d30-936b-36ebec3dce50"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:31:04Z"
+    "lastCheckedAt": "2026-11-06T01:32:34Z"
   },
   {
     "id": "aws_217302003bbf6e5b6ed1",
@@ -1151,44 +1149,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-02T00:33:04Z"
-  },
-  {
-    "id": "aws_ed0d147fc94146962f59",
-    "stationId": "awb_f281ee621aff4c56f7dc",
-    "name": "KBS Cool FM",
-    "country": "KR",
-    "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NTkxNjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=K971H~TYyRfroye4mfqpGrRI-oW1rXzrb30u6V9YbagzyvPPfWXg3RkyWzmrLQBZvn0vfc2DsXt0vL3XfkmO2OooAN4cl6UpAXybxYzYKj2CsAy~~BjCdQbDURZs-90p3zejrBX61BbutZkZYtKCUV1j8T2jzvbG8avxF0YYDotDL2CAoxb-M70XqafqkLHK9iT1RVoFbSKHI5N7Ng3Mc2c0ylhXB9Nit3YvkzNd25Ldtl3YBrOcdi2scWffTN4BiwUNpolCMZGcLLRUcbntjtBJK8dmodjbxU6EH3BGf2O2z~A2TRyRScg8yNnmsRDUQ2ahfGkZV~NTWi~LD6ciMw__",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5cfee8db-7be2-11e9-aa30-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:03:23Z"
-  },
-  {
-    "id": "aws_4fcea2013966c6024430",
-    "stationId": "awb_f281ee621aff4c56f7dc",
-    "name": "KBS Cool FM",
-    "country": "KR",
-    "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2OTUyMDF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bVrNQ2iOXlPxXAQaJXsNRf1JLGLZ4sHqLwfP9MRf574jiffLwiRt4oXYa420v5qCSN9gVd4A~n9eiQxf-zwwXgswkwZKnniGgowDAiEjmH0gvN9-wAhXl0RQLpuZFtEzCPh71AvGWPtH0HvpVNukSxQYXG5nYNO-sBLlIRo~Wz~ZuoUOH291eXyUKpRxqJP2kce6NNgelBE~RQ9-kHnyy~gjukjAJ1eh0iDIAzx02y9qUtCA9oGhVNfWPz31CSWm0iRhO-kKN5DWxOpptwWDp-ErpCWAZdmFi7O0QF7LNr6LlHcIhYFGLV0kzTuWUNjOnVwXlPbbiHCepgB8KrqS1w__",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d06a6392-127d-40f8-b52d-fc610bc97178"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:52:20Z"
   },
   {
     "id": "aws_d65d69de75564433e24a",
@@ -1246,6 +1206,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-02T01:01:56Z"
+  },
+  {
+    "id": "aws_ed0d147fc94146962f59",
+    "stationId": "awb_f281ee621aff4c56f7dc",
+    "name": "KBS Cool FM",
+    "country": "KR",
+    "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQwOTIzOTR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=C85jy7mKLZS7m5eb4hIXWKqN41hPtPovPwkvRrC-Hu~nMJWtm1xyUGKo06I7Clgc171a0JvPHdwbk58HMWlShYL36fcg0zCO9PwlkdqSneOZTLHH~QyZb0NTa219ZLoA~cGwjt8mD87BE7l8YaBPOh49lhXRJZ4-HheOjuZC584xyfj-XpwiZBz4iJ7peEp1BJD0Cpgo2F5GuWEIqz7l9Trqq7y2Xwnz7-FpiLXssWQtEFK~6SGNTx~WQp1cAK4O2~kulu21L2-TOI8mrgKAOw53ZggQhwqfwcLhWW5RELHFTJpKQ~XFB-cTJKbxpbIfRgf3u5nG1eGxG~StJylv2Q__",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5cfee8db-7be2-11e9-aa30-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T23:05:46Z"
+  },
+  {
+    "id": "aws_4fcea2013966c6024430",
+    "stationId": "awb_f281ee621aff4c56f7dc",
+    "name": "KBS Cool FM",
+    "country": "KR",
+    "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMjcyMDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KIxC~FrTsOXu3bhAq1hNkwZnlW9WAWRgh9QHU9U0D6k9e2sqm0oEUBXHiQ4mxACfDr2uvoooGktTdTWyqkuETFeFw~qsbIqHWreR5rJSvWck5Jo2e-HXk5MDMP0tiSR7xwp4inT4iefcy~0EuDuBHhZIILeEFi0JBSrayQwh2wCe5wKAh3GrZ9Tfl7uymDVMZCuxxY~~8Fz92J~~Sou2TVMcEM8d~hu-a9SGyL-fBUrQx-IjeS4IC-CmJ6GCAm~u3iMvOh4Wzt0hBW5hiKazQAzBDC2Q~rTlZUlG7T9ECP25rKrV3LgZE8HA0TzkwIHMszGuJXvq4bydBJV3WE5l2g__",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d06a6392-127d-40f8-b52d-fc610bc97178"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
     "id": "aws_0030bc3cfdb426ac6ebe",
@@ -1363,7 +1361,7 @@
       "KR:listen-moe-kpop-mp3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:50:29Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_5f879249b5b961808926",
@@ -1382,7 +1380,7 @@
       "157bcaf5-d718-4ddf-bd97-adf23c78edc7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:18:40Z"
+    "lastCheckedAt": "2026-11-06T03:32:21Z"
   },
   {
     "id": "aws_9cd699d004eb9a0a26e6",
@@ -1401,7 +1399,7 @@
       "1c5e70a7-491a-455a-b1b3-48f4b8241155"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:40:49Z"
+    "lastCheckedAt": "2026-11-06T00:08:01Z"
   },
   {
     "id": "aws_d4030796aa15f3919670",
@@ -1427,7 +1425,7 @@
     "stationId": "awb_96e8f5788b30ca5e69b4",
     "name": "MBC FM for you",
     "country": "KR",
-    "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6BA1BD1463EA32042D4115453591D84A05BD39757F05522737B034aA36E03FF639a823493342B545A088381134b3B16C1BAB8017F2A2B244480E2DBBB9C195D82CAB126A850E8AA17EEDA1E364709A818FDB0AA5DB1FF5280CB3F1EF3431638F5B1956A1FC802143EDABF686FD413C91",
+    "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6BD10A1353C53F64DC42B52C3101A24B35593845DF0462CD3CF062a9B64D355650aBF33D3202B948901E3F1105b201AB98AFE36EFA378E1AF3E761051C40CA57FEA5FFEED52C40B1431DFF10FFBF246BA4066DA03A03422C18CE304280900149C3FC9F8293B5716479A27678973C5341",
     "codec": "aac",
     "bitrate": 65,
     "protocol": "https",
@@ -1439,7 +1437,7 @@
       "730d9f95-57a3-4eec-94a2-ed270baa64c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:40:29Z"
+    "lastCheckedAt": "2026-11-06T00:48:15Z"
   },
   {
     "id": "aws_54e7ea37ae2f0b6abf49",
@@ -1484,7 +1482,7 @@
     "stationId": "awb_f29d4f68444b2c949894",
     "name": "MBC 올댓뮤직",
     "country": "KR",
-    "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6A71131C038E39F49540D5E63ED1584085D733055909928333D051a196FF3B76AEaAC3B83782B549F0233CE1F5bAC180FA8CD728C8806F606043C9216F103A59C6862DD5A545E567774298503DEA20FE843CEC51F6F3D62FB745E6ED2328D6F040153655E9C909A101E1638D548D0A4C",
+    "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6C21801243293DE45148C53635F1E248D5D531F5DA06829B3170F1aDB6E43A9658a023E63892774DE00F35F114bCF1150115DA12FCD197E73A502B2E37F8B0DC38F047ABDE7622EC12E89957D2BB9F2869FD1FAA6C26EC29AC35DC69EB62E959A18152906E2E1FF80E479C15A34B5563",
     "codec": "aac",
     "bitrate": 67,
     "protocol": "https",
@@ -1496,7 +1494,7 @@
       "01335461-d022-4ad8-9fbc-1bd3ef534def"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:36:32Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_a33c8492a6c525d1fa30",
@@ -1515,7 +1513,7 @@
       "db7b598f-2428-4b7f-bae3-677091ab4648"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:45:34Z"
+    "lastCheckedAt": "2026-11-06T05:59:13Z"
   },
   {
     "id": "aws_f789ad824a91371390fe",
@@ -1534,7 +1532,7 @@
       "3a6cf532-d730-4b92-91bf-f3d5434a2159"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:04:05Z"
+    "lastCheckedAt": "2026-11-06T06:05:50Z"
   },
   {
     "id": "aws_00424f7cde97357bdf59",
@@ -1543,7 +1541,7 @@
     "country": "KR",
     "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 134,
+    "bitrate": 136,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -1553,7 +1551,7 @@
       "c60ab0ce-723c-43a9-85a4-ff544710f27f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:19:36Z"
+    "lastCheckedAt": "2026-11-06T05:29:45Z"
   },
   {
     "id": "aws_7d1685674537b6097078",
@@ -1596,25 +1594,6 @@
     "lastCheckedAt": "2026-11-02T16:09:39Z"
   },
   {
-    "id": "aws_9f351f43c0d8c407cfef",
-    "stationId": "awb_b9ed1e0f3da801482b69",
-    "name": "SBS Love FM",
-    "country": "KR",
-    "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1MzIwMDksInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMGRlMTZiNDAtY2QwOC00YWE3LTlmMzItNjMwMTdmY2U2YWRmIiwiaWF0IjoxNzkzNDg4ODA5fQ.zf9ccNbG4dsNoGSXfjhnfPdjsOyeifxWhIYV7u5aaoU",
-    "codec": "aac",
-    "bitrate": 145,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e6bc48f7-7be2-11e9-aa30-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:29:38Z"
-  },
-  {
     "id": "aws_094ffe105bbc01e823bb",
     "stationId": "awb_b9ed1e0f3da801482b69",
     "name": "SBS Love FM",
@@ -1634,11 +1613,30 @@
     "lastCheckedAt": "2026-11-01T16:39:34Z"
   },
   {
+    "id": "aws_9f351f43c0d8c407cfef",
+    "stationId": "awb_b9ed1e0f3da801482b69",
+    "name": "SBS Love FM",
+    "country": "KR",
+    "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5NjUyMTAsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMzNiZTIzODgtY2NhOS00NmEyLTg5NDAtNTlmNzVlNjM3ZGJkIiwiaWF0IjoxNzkzOTIyMDEwfQ.65i79TrMp7Roo5IjzfSkP_IsHacFtbNl05jxzG3knP0",
+    "codec": "aac",
+    "bitrate": 145,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e6bc48f7-7be2-11e9-aa30-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T23:51:28Z"
+  },
+  {
     "id": "aws_4b66c0012b61eba56793",
     "stationId": "awb_0909a0c16f3b9f3627da",
     "name": "SBS Power FM",
     "country": "KR",
-    "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTEyMDUsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImM1MmU1MTYzLTAxN2MtNDEyYi1hMzExLWUxMWYwY2FjMGI0YyIsImlhdCI6MTc5MzUwODAwNX0.SqeLhr52pGzha977F63zywtDhY4fQ5-QYIYPomy4tSM",
+    "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5ODMyMDcsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImMzNjgwM2E5LTFlMjktNDMxMC1iYWE4LTRjYzk4MmE5NDJmNSIsImlhdCI6MTc5Mzk0MDAwN30.FTR0W6RYHq40WGd3Dj3PvMqXVFnpw70RzzmaUEd13o0",
     "codec": "aac",
     "bitrate": 146,
     "protocol": "https",
@@ -1650,7 +1648,7 @@
       "1cc29b79-7be3-11e9-aa30-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:48:54Z"
+    "lastCheckedAt": "2026-11-06T04:51:03Z"
   },
   {
     "id": "aws_e5e7f0ae2022ad70e191",
@@ -1764,7 +1762,7 @@
       "e89958f1-bc76-44fe-b681-841b5ec4ceae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:16:11Z"
+    "lastCheckedAt": "2026-11-05T23:31:17Z"
   },
   {
     "id": "aws_6591905186bcab320a85",
@@ -1802,7 +1800,7 @@
       "8bf0d36b-ed07-4ccd-8142-4a2c59400fbe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:29:07Z"
+    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_ae095533f5e2b1d44518",
@@ -1821,7 +1819,7 @@
       "1cedd673-4904-412b-aed2-6eca20cb2240"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:47:19Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_a9106eb81ae4f9224e04",
@@ -1992,7 +1990,7 @@
       "31675cc2-9b83-48bf-89f0-f3f9ecf3c201"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:00:25Z"
+    "lastCheckedAt": "2026-11-06T07:03:44Z"
   },
   {
     "id": "aws_c425a64fa1553b29738e",
@@ -2032,6 +2030,6 @@
       "656c6a0b-f0a8-4c8f-a0ef-97c72d130eef"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:38:21Z"
+    "lastCheckedAt": "2026-11-06T00:05:01Z"
   }
 ]

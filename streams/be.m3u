@@ -8,7 +8,7 @@ https://cast1.torontocast.com:4605/stream
 #EXTINF:-1 station-id="awb_d04e8d35a00c620cbfb5" stream-id="aws_31344fbfb554594c7f29" codec="mp3" bitrate="128",'tis Vloms - Affligem, be (ns)
 https://cast1.torontocast.com:4605/stream
 #EXTINF:-1 station-id="awb_9b3eff41f529033ac6b5" stream-id="aws_7bbaf77395d58b625417" codec="mp3" bitrate="96",'name': ''undefined' -> 'AFN 360 Benelux'',
-http://25453.live.streamtheworld.com:3690/AFNE_BLX_SC
+http://25603.live.streamtheworld.com:3690/AFNE_BLX_SC
 #EXTINF:-1 station-id="awb_be812a3979a1087e5858" stream-id="aws_6f38bc1c6db73e9aed3f" codec="mp3" bitrate="128",1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
 #EXTINF:-1 station-id="awb_8028705ba4e3bfd84b16" stream-id="aws_ca49926fe0e290fbee1a" codec="aac+" bitrate="47",100,5
@@ -28,7 +28,7 @@ https://stream.48fm.com:8000/listen
 #EXTINF:-1 station-id="awb_a44a17b5e36dee6ef2a0" stream-id="aws_64aa28749725a58b55b4" codec="mp3" bitrate="192",Accent Radio
 https://www.clubfmserver.be/accent.mp3
 #EXTINF:-1 station-id="awb_057188b1c072cb7771ce" stream-id="aws_ad8d62f33bc94c9a6b0e" codec="mp3" bitrate="96",AFN 360 Benelux
-http://27863.live.streamtheworld.com:3690/AFNE_BLX_SC
+http://14153.live.streamtheworld.com:3690/AFNE_BLX_SC
 #EXTINF:-1 station-id="awb_e90aeac072deb5def3ec" stream-id="aws_f9a1dfacb40fa9393c9d" codec="mp3" bitrate="0",Afrikana Radio – Live African
 https://admin.afrikanabestsounds.com/listen/live_african/radio.mp3
 #EXTINF:-1 station-id="awb_e90aeac072deb5def3ec" stream-id="aws_4a803eefb6214599ca34" codec="mp3" bitrate="0",Afrikana Radio – Live African
@@ -143,6 +143,8 @@ http://stream.noordzee105.be:8000/zomer
 http://stream.vbro.be:9200/ElisaFM
 #EXTINF:-1 station-id="awb_24b97e8ca97ab91a925a" stream-id="aws_f8ce5c24f109541bb406" codec="mp3" bitrate="192",Emotion
 http://stream.radioemotion.be/;stream.mp3
+#EXTINF:-1 station-id="awb_b62e7448a5a8e8be4398" stream-id="aws_2b3402c7597b8b2e30bc" codec="mp3" bitrate="320",Enjoy
+https://flux.radioflow.fr/enjoyradio/stream?t=1793895586668
 #EXTINF:-1 station-id="awb_0c2bed2d2e900912e1bf" stream-id="aws_e6c85893c15f30b12271" codec="mp3" bitrate="192",Equinoxe, La Radio Découverte
 https://stream.equinoxenamur.be/Equinoxe.mp3
 #EXTINF:-1 station-id="awb_0cf295274de4c2b39a97" stream-id="aws_1e123a86cbef6f88f0dc" codec="mp3" bitrate="128",Evebase Radio
@@ -167,7 +169,7 @@ https://stream.fmgoud.be/fm-goud-noord-limburg
 https://stream.fmgoud.be/fm-goud-maasland
 #EXTINF:-1 station-id="awb_3b5ab8b14881e2aa9693" stream-id="aws_4ab275762dcb81212ec1" codec="mp3" bitrate="192",FM Goud Tenerife
 https://stream.fmgoud.be/fm-goud-tenerife
-#EXTINF:-1 station-id="awb_8ddd19bac1ce159b9d37" stream-id="aws_13bcc8c02ebb0d13ec1c" codec="aac" bitrate="128",Frequence Eghezee
+#EXTINF:-1 station-id="awb_8ddd19bac1ce159b9d37" stream-id="aws_13bcc8c02ebb0d13ec1c" codec="aac" bitrate="96",Frequence Eghezee
 http://stream.fr-eghezee.be:8054/FE
 #EXTINF:-1 station-id="awb_218b2ceeb7c95f6730af" stream-id="aws_dd17eb17ba2a10c017fe" codec="mp3" bitrate="192",Fréquence Plus Andenne
 http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3
@@ -239,7 +241,7 @@ https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3
 https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac
 #EXTINF:-1 station-id="awb_2975664e262473fb4b1b" stream-id="aws_cdc5cf0a5dd79d4157ad" codec="mp3" bitrate="128",JOE Gold
 https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
-#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_55e50434cecf6788a531" codec="aac+" bitrate="96",Joe Lage Landen
+#EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_55e50434cecf6788a531" codec="aac+" bitrate="95",Joe Lage Landen
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player
 #EXTINF:-1 station-id="awb_514c1118ad21818820a5" stream-id="aws_4b3c4cf519714e66b29d" codec="mp3" bitrate="128",Joe Lage Landen
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
@@ -429,7 +431,7 @@ https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
 #EXTINF:-1 station-id="awb_349285ac43c1a8d7111e" stream-id="aws_9a4d24956d2f46707d1e" codec="mp3" bitrate="128",Qmusic
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3
-#EXTINF:-1 station-id="awb_673f2141d85404e2f03c" stream-id="aws_050710bfa0fb4043d7a7" codec="aac+" bitrate="95",Qmusic BE
+#EXTINF:-1 station-id="awb_673f2141d85404e2f03c" stream-id="aws_050710bfa0fb4043d7a7" codec="aac+" bitrate="96",Qmusic BE
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1 station-id="awb_6d865d0d67bce864abb8" stream-id="aws_b3914399b58b70938cad" codec="aac+" bitrate="96",Qmusic Belgium
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
@@ -1029,13 +1031,13 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
 #EXTINF:-1 station-id="awb_48c603ea044e9559d929" stream-id="aws_67fabf10a6dbd08f95d6" codec="aac+" bitrate="95",Willy - aac
 https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
-#EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_f8e5f869fb9b2ffd218a" codec="aac+" bitrate="95",Willy Class X
+#EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_f8e5f869fb9b2ffd218a" codec="aac+" bitrate="96",Willy Class X
 https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
 #EXTINF:-1 station-id="awb_106021ee271ebbc21aa4" stream-id="aws_13e09d4594d0468b6a34" codec="aac+" bitrate="95",Willy Class X
 https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
 #EXTINF:-1 station-id="awb_ed5377b472fb39d7424e" stream-id="aws_b1872a9c12759a0a612d" codec="mp3" bitrate="128",Willy Classix
 https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3
-#EXTINF:-1 station-id="awb_00d578f2662be6bb40c6" stream-id="aws_4e0239315eea32d3fa38" codec="aac+" bitrate="95",Willy ClassX - AAC
+#EXTINF:-1 station-id="awb_00d578f2662be6bb40c6" stream-id="aws_4e0239315eea32d3fa38" codec="aac+" bitrate="96",Willy ClassX - AAC
 https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
 #EXTINF:-1 station-id="awb_6a0a72caa37e3cdd50f8" stream-id="aws_0e4fb4e19623fdf20d37" codec="mp3" bitrate="128",Willy Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3

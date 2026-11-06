@@ -9,12 +9,12 @@ https://stream-179.zeno.fm/jqhhzffjynbuv
 https://icy.unitedradio.it/105Miami.mp3
 #EXTINF:-1 station-id="awb_4de88a3c3587dbcfff5c" stream-id="aws_c1f51a651508080b115f" codec="mp3" bitrate="128",105 Story
 https://icy.unitedradio.it/105Story.mp3?aw_0_req.userConsentV2=&listenerId=e01becbe77271731a6ab06043a29ef98
+#EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_49d4eb4f5779a1708ee5" codec="mp3" bitrate="128",16Radio
+http://16radio.stream.laut.fm/16radio?t302=2026-11-06_10-49-40&uuid=16bbf456-da15-3e5b-9a75-3b1cb5596eac
 #EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_5ecda683ac76a2acedff" codec="mp3" bitrate="128",16Radio
 http://16radio.stream.laut.fm/16radio?uuid=6fb06887-ca5c-190a-b687-4f4c4ba9723b&t302=2026-11-01_14-58-34
 #EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_11a63595297d2e6bf6ba" codec="mp3" bitrate="128",16Radio
 http://16radio.stream.laut.fm/16radio?uuid=74c4a612-caa0-67a2-ed1b-f729d86c6279&t302=2026-11-02_01-18-42
-#EXTINF:-1 station-id="awb_6bef38ee5625d799b876" stream-id="aws_49d4eb4f5779a1708ee5" codec="mp3" bitrate="128",16Radio
-http://16radio.stream.laut.fm/16radio?uuid=c16c7bb1-9ddb-cbf7-eb10-553c88905639&t302=2026-11-01_10-33-44
 #EXTINF:-1 station-id="awb_1f3b52e6a734e373dc41" stream-id="aws_269f18ede103651f5c52" codec="mp3" bitrate="128",50s 60s RETRO HITS
 https://stream.zeno.fm/pxzwykxbluitv
 #EXTINF:-1 station-id="awb_be263cf79542cf000cb2" stream-id="aws_c0da25a839f39353b6ed" codec="aac,h.264" bitrate="2162",7 RadioVisione
@@ -47,7 +47,7 @@ https://nr7.newradio.it:19353/stream
 https://nr7.newradio.it:18003/stream
 #EXTINF:-1 station-id="awb_6f8531174f42bbb0d2e5" stream-id="aws_d0f94f7e3a2a6e75afaf" codec="mp3" bitrate="128",Aci Radio
 https://sphera.fluidstream.eu/company.mp3?FLID=1
-#EXTINF:-1 station-id="awb_4c4c1560b9cf42d29ba3" stream-id="aws_0b52843b36c964304dc3" codec="mp3" bitrate="128",ADORO CHILLIN'
+#EXTINF:-1 station-id="awb_4c4c1560b9cf42d29ba3" stream-id="aws_0b52843b36c964304dc3" codec="mp3" bitrate="0",ADORO CHILLIN'
 https://stream.deegay.fm/deegay3.mp3?id=Oa9irZz5Qm&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue
 #EXTINF:-1 station-id="awb_20dd7dae580cc1991526" stream-id="aws_95ab14c9d6ce78d78abd" codec="mp3" bitrate="0",ADORO CLASSIC
 https://stream.deegay.fm/deegay2.mp3?id=KeCYrcTWRj&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue
@@ -56,11 +56,11 @@ https://stream.deegay.fm/deegay1.mp3?id=m7eirxqSZx&FLID=1&aw_0_req.gdpr=true&lis
 #EXTINF:-1 station-id="awb_3704a825d7184522a24a" stream-id="aws_fb6536720dbd29e63c27" codec="aac+" bitrate="192",AdriaticFM
 https://www.myipcast.com/radio/adriatic
 #EXTINF:-1 station-id="awb_d00d6c3ae3c378bae376" stream-id="aws_7646f9ffdf8d89469ae3" codec="mp3" bitrate="96",AFN 360 Aviano
-http://28563.live.streamtheworld.com:3690/AFNE_AVN_SC
+http://27863.live.streamtheworld.com:3690/AFNE_AVN_SC
 #EXTINF:-1 station-id="awb_8a537e218919f1b293c3" stream-id="aws_090e1c3b98cbc78a20a9" codec="mp3" bitrate="96",AFN 360 Naples
 http://25503.live.streamtheworld.com/AFNE_NAP_SC
 #EXTINF:-1 station-id="awb_1d5100011f3750722f24" stream-id="aws_771f5f3f4a0069507552" codec="mp3" bitrate="96",AFN 360 Sigonella
-http://25633.live.streamtheworld.com:3690/AFNE_SIG_SC
+http://23543.live.streamtheworld.com:3690/AFNE_SIG_SC
 #EXTINF:-1 station-id="awb_7f4eb0ba4f83e55ef868" stream-id="aws_85444c094f5dd58e82b1" codec="mp3" bitrate="96",AFN 360 Vicenza
 http://22653.live.streamtheworld.com/AFNE_VIC_SC
 #EXTINF:-1 station-id="awb_9aea7b8a845b2b758523" stream-id="aws_235ba61c8a2f166c922e" codec="mp3" bitrate="128",Aldobaraldo - WebRadio
@@ -229,7 +229,7 @@ http://nr6.newradio.it:9270/stream
 http://usa1-vn.mixstream.net:9278/;stream.mp3
 #EXTINF:-1 station-id="awb_e2b1424098b4893bf473" stream-id="aws_0d6c7576701b5fa3b38f" codec="mp3" bitrate="128",Dimensione Radio
 http://dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3
-#EXTINF:-1 station-id="awb_a5ad9f208bab91e8de76" stream-id="aws_e6771c09dcbd84816b24" codec="aac" bitrate="65",Dimensione Suono Roma
+#EXTINF:-1 station-id="awb_a5ad9f208bab91e8de76" stream-id="aws_e6771c09dcbd84816b24" codec="aac" bitrate="67",Dimensione Suono Roma
 https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac64/playlist.m3u8
 #EXTINF:-1 station-id="awb_8589ba9687e47bbeacd5" stream-id="aws_e56db8b0e86778fba7eb" codec="aac" bitrate="65",Dimensione Suono Soft
 https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8
@@ -815,7 +815,7 @@ http://5.39.82.157:8054/steam/
 https://streaming.poliradio.it/hq
 #EXTINF:-1 station-id="awb_da50e1a0f0c46f5a8505" stream-id="aws_913354befd738df21893" codec="mp3" bitrate="128",Pop Prisma
 https://radio.celodex.com/stream/pop_prisma.mp3
-#EXTINF:-1 station-id="awb_cdbb210219dbaae42246" stream-id="aws_9272695e0320344af2da" codec="aac+" bitrate="104",PopWave Web Radio
+#EXTINF:-1 station-id="awb_cdbb210219dbaae42246" stream-id="aws_9272695e0320344af2da" codec="aac+" bitrate="80",PopWave Web Radio
 https://cast1.asurahosting.com/proxy/michelep/stream
 #EXTINF:-1 station-id="awb_7977f73e0f0008083825" stream-id="aws_b3704b868dc6ff2d0f88" codec="aac+" bitrate="256",Power 9 2 7
 http://91.121.104.139:1602/
@@ -855,7 +855,7 @@ http://icy.unitedradio.it/R1012000.aac
 http://icy.unitedradio.it/R10170.aac
 #EXTINF:-1 station-id="awb_1f495865fa1b2023ff25" stream-id="aws_752264225579bd79cc27" codec="aac" bitrate="96",R101 '80
 http://icy.unitedradio.it/R10180.aac
-#EXTINF:-1 station-id="awb_5f2f76f9d53191d14bdf" stream-id="aws_5269a806fdb5d9f1d42a" codec="aac" bitrate="95",R101 '90
+#EXTINF:-1 station-id="awb_5f2f76f9d53191d14bdf" stream-id="aws_5269a806fdb5d9f1d42a" codec="aac" bitrate="96",R101 '90
 http://icy.unitedradio.it/R10190.aac
 #EXTINF:-1 station-id="awb_1f495865fa1b2023ff25" stream-id="aws_56760677a2c1171b60b3" codec="aac" bitrate="96",R101 80
 https://icy.unitedradio.it/R10180.aac
@@ -1589,8 +1589,8 @@ http://onair18.xdevel.com:8098/;stream.mp3
 http://onair18.xdevel.com:8210/
 #EXTINF:-1 station-id="awb_64868aa8f40c7a28c4fd" stream-id="aws_554e12c5040a302becb6" codec="mp3" bitrate="0",Radio Gamma
 http://onair18.xdevel.com:8210/;stream.aac
-#EXTINF:-1 station-id="awb_f5d9a36737edd6fe053b" stream-id="aws_01d72e8b62ae4e8756ef" codec="aac+" bitrate="64",Radio Gamma 5
-http://ice09.fluidstream.net/fluid0902.aac?FLID=6
+#EXTINF:-1 station-id="awb_f5d9a36737edd6fe053b" stream-id="aws_01d72e8b62ae4e8756ef" codec="mp3" bitrate="128",Radio Gamma 5
+http://ice05.fluidstream.net/fluid0510.mp3?FLID=6
 #EXTINF:-1 station-id="awb_d473a5b3a93811b7c9e2" stream-id="aws_29abccc9fd6bcc394a28" codec="mp3" bitrate="0",Radio Gamma Canzoni e Sorrisi
 http://onair18.xdevel.com:8210/;
 #EXTINF:-1 station-id="awb_0264ab91510e13778a51" stream-id="aws_378379cd3427946a501e" codec="mp3" bitrate="128",Radio Gamma Gioiosa
@@ -1811,7 +1811,7 @@ https://ice09.fluidstream.net/lm_cagliari.mp3?FLID=8
 http://streaminglattemiele.lemcloud.net:12200/lembasilicata2.mp3
 #EXTINF:-1 station-id="awb_8fc6c7434f4b8d9ab773" stream-id="aws_5f64792e28c2bbf1946c" codec="mp3" bitrate="128",Radio LatteMiele Taranto
 https://s9.webradio-hosting.com/proxy/radiolat/stream
-#EXTINF:-1 station-id="awb_3fac82fa0f2e77dd5e42" stream-id="aws_33bf893829ae56d4a9a8" codec="aac,h.264" bitrate="1696",Radio Laziale
+#EXTINF:-1 station-id="awb_3fac82fa0f2e77dd5e42" stream-id="aws_33bf893829ae56d4a9a8" codec="aac,h.264" bitrate="1700",Radio Laziale
 https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_3565bf553c3acfd06595" stream-id="aws_9443b732e92575c2a2a8" codec="aac+" bitrate="0",Radio Laziale 88.100 FM
 https://stream9.xdevel.com/audio3s975363-2397/stream/icecast.audio
@@ -1841,7 +1841,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playl
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8
 #EXTINF:-1 station-id="awb_5f8ddc72e6e6ec7f85ea" stream-id="aws_b77e2917fffb10b616d3" codec="mp3" bitrate="64",Radio Linguaggio
 http://onair7.xdevel.com:8528/;
-#EXTINF:-1 station-id="awb_14c408b6ac78b9b0fc32" stream-id="aws_3b875a822ef9a57f8160" codec="mp3" bitrate="128",Radio Liscio
+#EXTINF:-1 station-id="awb_14c408b6ac78b9b0fc32" stream-id="aws_3b875a822ef9a57f8160" codec="mp3" bitrate="192",Radio Liscio
 https://ssl.audio1.meway.tv/proxy/radioliscio?mp=/stream
 #EXTINF:-1 station-id="awb_ade0d1a076d3bfa32ba5" stream-id="aws_2b346c9ab0092bbd5c48" codec="aac+" bitrate="0",Radio Lombardia
 http://onair11.xdevel.com:10014/;
@@ -1875,8 +1875,6 @@ https://stream.radioterlizzistereo.it/rmblecce
 https://mambo.newradio.it/stream
 #EXTINF:-1 station-id="awb_97174914d6d3b63f9193" stream-id="aws_0e6f25e349156970375c" codec="aac+" bitrate="0",Radio Manà Manà Sport Roma
 https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
-#EXTINF:-1 station-id="awb_4168ad032bcf4fde8697" stream-id="aws_8a117c470ddb6918dba7" codec="mp3" bitrate="128",Radio Manbassa
-http://91.121.90.186:8000/radiomanbassa
 #EXTINF:-1 station-id="awb_edfe69398d316a160392" stream-id="aws_e2ceb8e2bb6da0474290" codec="mp3" bitrate="128",Radio Manfredonia Centro
 http://nr1.newradio.it:9367/stream
 #EXTINF:-1 station-id="awb_ecd6690235ad17fdee8f" stream-id="aws_f82a8d35b3ec02d483cd" codec="mp3" bitrate="128",Radio Manila
@@ -1975,7 +1973,7 @@ https://icy.unitedradio.it/rmcweb008
 https://icy.unitedradio.it/rmcweb025
 #EXTINF:-1 station-id="awb_8967ff7e91b28b07e120" stream-id="aws_990eac674d7307f2b0d3" codec="aac+" bitrate="96",Radio Monte Carlo FM
 https://icy.unitedradio.it/RMC.aac
-#EXTINF:-1 station-id="awb_b7c7d7530cd8608b61b7" stream-id="aws_9ba368f640e1e1408f36" codec="aac" bitrate="95",Radio Monte Carlo Jazz
+#EXTINF:-1 station-id="awb_b7c7d7530cd8608b61b7" stream-id="aws_9ba368f640e1e1408f36" codec="aac" bitrate="96",Radio Monte Carlo Jazz
 http://edge.radiomontecarlo.net/rmcweb019
 #EXTINF:-1 station-id="awb_2d2c1240777b3d3ebe79" stream-id="aws_5f6d96ad839457ffb9a2" codec="mp3" bitrate="128",Radio Monte Carlo VIP Lounge
 https://icy.unitedradio.it/rmcweb020
@@ -2253,7 +2251,7 @@ https://ssl1.mediastreaming.it:7024/;?type=http&nocache=181
 http://wma02.fluidstream.net:9030/
 #EXTINF:-1 station-id="awb_279685297bd73ceda418" stream-id="aws_29871eb8cd1f540b9b82" codec="aac+" bitrate="96",Radio Reggio
 http://onair15.xdevel.com:9082/;
-#EXTINF:-1 station-id="awb_e1ddf34a3d29b08c34de" stream-id="aws_808831d1535941d03a87" codec="aac+" bitrate="194",RADIO RELAX Italia
+#EXTINF:-1 station-id="awb_e1ddf34a3d29b08c34de" stream-id="aws_808831d1535941d03a87" codec="aac+" bitrate="195",RADIO RELAX Italia
 https://radiorelax.streamingmedia.it/play
 #EXTINF:-1 station-id="awb_74b545df5b38ff90273e" stream-id="aws_3010b88d52022f18fc94" codec="aac+" bitrate="128",Radio Reporter 98
 https://radio.mediacp.eu/stream/radiomusicaitaliana/stream
@@ -2374,7 +2372,7 @@ http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a
 #EXTINF:-1 station-id="awb_15f66e2a98eeb6625556" stream-id="aws_41f886a7833c16092cb3" codec="mp3" bitrate="0",Radio Siena
 http://onair18.xdevel.com:8042/;
 #EXTINF:-1 station-id="awb_25913599a51bacfde135" stream-id="aws_9bd9f337284bd811c8a7" codec="mp3" bitrate="192",Radio Sieve
-https://ns3156088.ip-51-89-96.eu:8126/
+http://onair.radiosieve.it:8126/
 #EXTINF:-1 station-id="awb_b9a51daab4bb1d9c7535" stream-id="aws_5f10f2997604564fdbbd" codec="aac+" bitrate="128",Radio Silver Music
 http://nr9.newradio.it:9304/stream
 #EXTINF:-1 station-id="awb_ed370c41dc18593aa6d8" stream-id="aws_0b9130a7e0b5f8b859ba" codec="mp3" bitrate="256",Radio Sintony
@@ -2943,7 +2941,7 @@ http://edge.radiomontecarlo.net/rmcweb007
 http://edge.radiomontecarlo.net/rmcweb001
 #EXTINF:-1 station-id="awb_86d6de02e3c71357b137" stream-id="aws_495a1a124490c7331634" codec="mp3" bitrate="128",RMC Italia
 http://edge.radiomontecarlo.net/rmcweb005
-#EXTINF:-1 station-id="awb_a69eb9cecc1fc3f8fab9" stream-id="aws_d9d8a2e5d381eed48182" codec="aac" bitrate="95",RMC Jazz
+#EXTINF:-1 station-id="awb_a69eb9cecc1fc3f8fab9" stream-id="aws_d9d8a2e5d381eed48182" codec="aac" bitrate="96",RMC Jazz
 http://edge.radiomontecarlo.net/rmcweb019
 #EXTINF:-1 station-id="awb_d4257928f3a7091d2815" stream-id="aws_aa4f09680fee92f7d990" codec="mp3" bitrate="128",RMC Kay Kay
 http://edge.radiomontecarlo.net/rmcweb004
@@ -3007,8 +3005,6 @@ https://stream.radiojar.com/nvvyes7gud5tv
 https://vetrina.multi-radio.com/romanticaradio
 #EXTINF:-1 station-id="awb_d64f9d4b1be765fc448f" stream-id="aws_9d638a2f5c61793bbb43" codec="aac+" bitrate="64",ROMANTICA-RADIO
 https://vetrina.multi-radio.com/romanticaradio
-#EXTINF:-1 station-id="awb_a2506759d797eb42aecc" stream-id="aws_6213e979c088f3622e7b" codec="mp3" bitrate="128",RomaRadio - The Tube Station
-http://nr9.newradio.it:9021/stream
 #EXTINF:-1 station-id="awb_00e3650f140a26b7326d" stream-id="aws_ad3b9b49ec5b5e62950a" codec="mp3" bitrate="320",RSC Radio Senise
 https://stream.studiocentrale.it/radio/8020/radio.mp3?_=1
 #EXTINF:-1 station-id="awb_b9d2e0fa6fc3fc86fc1f" stream-id="aws_579d0c667f42026aed92" codec="mp3" bitrate="320",RSC Radio Senise Centrale
@@ -3121,7 +3117,7 @@ http://94.23.66.155:9250/srmhigh
 http://stream.laut.fm/stationitaly
 #EXTINF:-1 station-id="awb_65dd578b0ab347db9288" stream-id="aws_ab8cf2f004ca2fc9c1fd" codec="mp3" bitrate="128",Stazione Playlist
 https://stream.zeno.fm/5fnppy0ag0hvv
-#EXTINF:-1 station-id="awb_d271718db9ce7e28ffab" stream-id="aws_a1b30ec1ae1a58688026" codec="aac+" bitrate="112",Stella FM
+#EXTINF:-1 station-id="awb_d271718db9ce7e28ffab" stream-id="aws_a1b30ec1ae1a58688026" codec="aac+" bitrate="96",Stella FM
 http://178.32.138.88:8057/;stream.mp3
 #EXTINF:-1 station-id="awb_a5f6535de6fe23fe7f79" stream-id="aws_a84d9ac97e2dcd65afbf" codec="mp3" bitrate="128",Stella FM
 http://onair11.xdevel.com:8108/;stream.mp3

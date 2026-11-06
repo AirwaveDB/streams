@@ -73,7 +73,7 @@
       "7aeff8c5-2204-434f-b8ca-aed6cd8278f2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:59:52Z"
+    "lastCheckedAt": "2026-11-06T06:16:34Z"
   },
   {
     "id": "aws_c1e27f1b871d6cc4cc18",
@@ -151,7 +151,7 @@
       "deaee1b4-e654-4b75-a93f-40bd14f551a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:36:14Z"
+    "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
     "id": "aws_e2a37b3fdab55297c08c",
@@ -189,7 +189,7 @@
       "b12abe69-7421-4117-918a-cc993d871e31"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T17:29:18Z"
+    "lastCheckedAt": "2026-11-05T17:33:51Z"
   },
   {
     "id": "aws_d436f2b368d7006e7a54",
@@ -208,7 +208,7 @@
       "fb424191-aaad-41ff-838c-edcfffb6c0b6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T17:29:18Z"
+    "lastCheckedAt": "2026-11-05T21:16:26Z"
   },
   {
     "id": "aws_3220ea20172ad0b7bec7",
@@ -306,6 +306,25 @@
     "lastCheckedAt": "2026-11-02T00:06:54Z"
   },
   {
+    "id": "aws_18f4f1b843470a6bc50a",
+    "stationId": "awb_901c93b02252a0bcfd21",
+    "name": "91.8 İstanbul'un Sesi",
+    "country": "TR",
+    "url": "https://yayin.radyomadyo.com:9180/stream",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "609fb40e-f3e6-4998-9f8d-ad1267c964af"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T21:02:01Z"
+  },
+  {
     "id": "aws_fd21ebf80b0f19a3f568",
     "stationId": "awb_00785e40d88015adaaf5",
     "name": "95.1 TEMPO RADYO HATAY",
@@ -362,7 +381,7 @@
       "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:11:53Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_3812661fae5f3a672a69",
@@ -382,7 +401,26 @@
       "f6eac013-4af1-4a0c-a672-d1a2adb03a68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T02:18:13Z"
+    "lastCheckedAt": "2026-11-06T01:10:03Z"
+  },
+  {
+    "id": "aws_632df81c620550828ee9",
+    "stationId": "awb_69d34633a28766018389",
+    "name": "A News Radio",
+    "country": "TR",
+    "url": "https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58e3e4bd-7496-47d1-bb9e-a210dc01ba31"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T17:33:51Z"
   },
   {
     "id": "aws_8a62f260bd17973f8951",
@@ -401,7 +439,7 @@
       "728789a2-8938-4c40-890e-768208376fc0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:09:36Z"
+    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_11390f0c02e2201c0cad",
@@ -420,7 +458,7 @@
       "2ca9849a-ddde-411a-a79c-2a0ac728a4b9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:05:49Z"
+    "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
     "id": "aws_3c42bd5879b8067cd5ff",
@@ -440,6 +478,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-01T12:52:46Z"
+  },
+  {
+    "id": "aws_dac504b797f9eab04929",
+    "stationId": "awb_8b8e038309c37edbdaf4",
+    "name": "AÇS Radyo",
+    "country": "TR",
+    "url": "https://ip169.ozelip.com/8312/stream",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1742eb18-db42-44b6-8abd-ee84e5c45417"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T17:33:51Z"
+  },
+  {
+    "id": "aws_4af129cc2dc1e7ee9db1",
+    "stationId": "awb_6fb0480432e0c20ada93",
+    "name": "Ada FM 98.5",
+    "country": "TR",
+    "url": "https://radyo.yayin.com.tr:6040/stream",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "290eaa34-a405-4844-9351-607053e6012c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-05T17:33:51Z"
   },
   {
     "id": "aws_7d062c2313d1156e88c3",
@@ -465,7 +541,7 @@
     "stationId": "awb_58a09186cb1ce644e093",
     "name": "AFN 360 Incirlik",
     "country": "TR",
-    "url": "http://29344.live.streamtheworld.com:3690/AFNE_ICK_SC",
+    "url": "http://29103.live.streamtheworld.com/AFNE_ICK_SC",
     "codec": "mp3",
     "bitrate": 96,
     "protocol": "http",
@@ -477,7 +553,7 @@
       "963c3c6f-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:15:41Z"
+    "lastCheckedAt": "2026-11-06T00:26:36Z"
   },
   {
     "id": "aws_4dc7e7aebc07ae6c126a",
@@ -515,7 +591,7 @@
       "f5d89616-5673-46b8-934c-237ca22f0bcc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:41:47Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_edea886531781314e90b",
@@ -572,7 +648,7 @@
       "0767dea5-dd44-440a-b5bf-f4c58295ede4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:22:04Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_c96771d2d4131ae52b23",
@@ -592,7 +668,7 @@
       "ed407779-d155-4fd3-8c90-1ca898407b0c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:35:40Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_9ae5d839569add36a2d6",
@@ -613,7 +689,7 @@
       "a96f83d1-d225-4eda-91cd-1a99dc230032"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:17:18Z"
+    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_10b5c404b34177543eb6",
@@ -651,7 +727,7 @@
       "dcdcc68c-5116-48f3-a70b-7c923233d27c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:36:03Z"
+    "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
     "id": "aws_083c2ec4daec46428320",
@@ -689,7 +765,7 @@
       "8c01f241-6fe8-42b1-afd3-d6abf90ec78e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:42:41Z"
+    "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
     "id": "aws_42fb30a63f9f518e0ce7",
@@ -708,7 +784,7 @@
       "dd10f037-269c-42e0-9bfb-c22726aa8a7c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:33:29Z"
+    "lastCheckedAt": "2026-11-06T09:49:12Z"
   },
   {
     "id": "aws_e775e0a9bb1f3f27d7e0",
@@ -729,7 +805,7 @@
       "f505e181-cf93-4ab6-becc-e511e9c451e5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:56:55Z"
+    "lastCheckedAt": "2026-11-06T08:05:46Z"
   },
   {
     "id": "aws_29a7fbabd54326b5eb5c",
@@ -748,7 +824,7 @@
       "ce26d234-1413-4a97-8f7d-5a476bacf104"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:12:02Z"
+    "lastCheckedAt": "2026-11-06T06:32:41Z"
   },
   {
     "id": "aws_34bd98a012a0d7536139",
@@ -767,7 +843,7 @@
       "74accaed-3589-47b5-8190-54d10f9bf5f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:25:16Z"
+    "lastCheckedAt": "2026-11-06T06:32:41Z"
   },
   {
     "id": "aws_7dc5c923598289615de6",
@@ -863,7 +939,7 @@
       "1210df35-9d44-4f35-b70e-f3c81428cd27"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:30:39Z"
+    "lastCheckedAt": "2026-11-06T04:51:03Z"
   },
   {
     "id": "aws_e1154673a2716b72eba4",
@@ -903,7 +979,7 @@
       "TR:azadi-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:19:55Z"
+    "lastCheckedAt": "2026-11-06T01:22:59Z"
   },
   {
     "id": "aws_6fa9601fa40357e0d427",
@@ -923,7 +999,7 @@
       "c735707a-895b-4317-a173-f09a90f218ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:15:08Z"
+    "lastCheckedAt": "2026-11-06T07:32:42Z"
   },
   {
     "id": "aws_9243681cb771948b1c86",
@@ -961,7 +1037,7 @@
       "5af02e0b-d62e-4349-b315-107f51d6f1c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:40:03Z"
+    "lastCheckedAt": "2026-11-06T02:51:38Z"
   },
   {
     "id": "aws_716b096df41117c140bf",
@@ -1037,7 +1113,7 @@
       "086c79c1-5887-4d0e-9a96-7b5f0b96978a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:28:36Z"
+    "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
     "id": "aws_7e61ea646c19ee13988f",
@@ -1094,7 +1170,7 @@
       "cf7df722-f854-4fb8-99ba-c8d397d27027"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:33:53Z"
+    "lastCheckedAt": "2026-11-06T03:43:29Z"
   },
   {
     "id": "aws_b525f3b50e27150a5049",
@@ -1269,7 +1345,7 @@
       "e6a93687-45b2-4515-aaa0-f2eef0fe7561"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:31:02Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_5af2307aabcb11da2cc7",
@@ -1288,7 +1364,7 @@
       "cb8878d6-dca7-4375-ad7a-66e175ce9e73"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:19:55Z"
+    "lastCheckedAt": "2026-11-06T01:22:59Z"
   },
   {
     "id": "aws_63ffca3a54d578ee7d5a",
@@ -1366,7 +1442,7 @@
       "825de086-35f8-4a88-9f5f-e703c618f1e9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:54:06Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_9787776e041ed96348cd",
@@ -1404,7 +1480,7 @@
       "0b70b296-3335-4d7d-bb55-a60d2c4071b1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:05:08Z"
+    "lastCheckedAt": "2026-11-06T06:05:50Z"
   },
   {
     "id": "aws_224af386a157a3caff1f",
@@ -1423,7 +1499,7 @@
       "6045fff3-2b13-4fdb-8985-5950868f0675"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:26:26Z"
+    "lastCheckedAt": "2026-11-06T06:36:05Z"
   },
   {
     "id": "aws_697d11e9e7881427b9ba",
@@ -1444,7 +1520,7 @@
       "TR:bizim-fm-sile"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:37:52Z"
+    "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
     "id": "aws_008406afb023fbfcb228",
@@ -1463,7 +1539,7 @@
       "c361e986-4575-46c4-8021-4867daf1868e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:23:53Z"
+    "lastCheckedAt": "2026-11-06T08:35:39Z"
   },
   {
     "id": "aws_dbd9f3708fd554c53016",
@@ -1482,7 +1558,7 @@
       "2bacf060-eea9-4464-96f0-b229357944d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:17:18Z"
+    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_8aa500cd42ef76d33fb3",
@@ -1501,7 +1577,7 @@
       "3280070b-d541-4f37-9b5f-43491f422bd0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:46:48Z"
+    "lastCheckedAt": "2026-11-06T04:53:00Z"
   },
   {
     "id": "aws_6e23f8f10d5f5644f5ba",
@@ -1520,7 +1596,7 @@
       "1d1fd095-2d1b-43f4-be0e-de834631ec30"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:24:00Z"
+    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_cf5cb40e303e7a7626f9",
@@ -1615,7 +1691,7 @@
       "08b82bc9-67a0-49c8-a059-24c3d8948a90"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:03:14Z"
+    "lastCheckedAt": "2026-11-06T09:12:03Z"
   },
   {
     "id": "aws_2aadd4410f2c0df7a30b",
@@ -1731,7 +1807,7 @@
       "206ade91-1bcb-4ad9-aca1-863efdf5c5cc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:30:56Z"
+    "lastCheckedAt": "2026-11-06T03:31:44Z"
   },
   {
     "id": "aws_17a1fe22990db2362859",
@@ -1750,7 +1826,7 @@
       "2c1b76ea-4675-4e64-a282-50bdd4a9a238"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:03:23Z"
+    "lastCheckedAt": "2026-11-05T23:05:46Z"
   },
   {
     "id": "aws_305531bbc2156a6b7fd2",
@@ -1788,7 +1864,7 @@
       "800b985f-aed5-4ab6-adb9-854f774af2c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:53:31Z"
+    "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
     "id": "aws_63230db6bc4b8c981717",
@@ -1864,7 +1940,7 @@
       "2e29c25c-0ec4-42a4-be7f-6fe22911cf31"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:12:00Z"
+    "lastCheckedAt": "2026-11-06T07:24:28Z"
   },
   {
     "id": "aws_accd02d90b264a1b53ba",
@@ -1902,7 +1978,7 @@
       "1649ad6f-2da9-4ddf-bf00-3a28b19329ba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:31:02Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_482ead08e9720a0a96a7",
@@ -1960,7 +2036,7 @@
       "f035ba3b-6ec5-418a-ba73-9a504ab70c13"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T23:37:03Z"
+    "lastCheckedAt": "2026-11-06T09:57:38Z"
   },
   {
     "id": "aws_b83b1213542aa6c82c02",
@@ -1980,7 +2056,7 @@
       "a30ab711-5363-4db1-af70-733aee01e2c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:19:30Z"
+    "lastCheckedAt": "2026-11-06T10:20:52Z"
   },
   {
     "id": "aws_b1f20b2372d58d545040",
@@ -2018,7 +2094,7 @@
       "1ca0c477-cdb5-4e7e-a6b2-db854e6b311d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:44:49Z"
+    "lastCheckedAt": "2026-11-06T00:08:01Z"
   },
   {
     "id": "aws_46d8fea18ee1a69d7452",
@@ -2079,7 +2155,7 @@
       "TR:danceland-anthems"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:42:41Z"
+    "lastCheckedAt": "2026-11-06T10:45:22Z"
   },
   {
     "id": "aws_a1335ee52d64988ca7ef",
@@ -2138,7 +2214,7 @@
       "TR:dedemin-radyosu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:23:05Z"
+    "lastCheckedAt": "2026-11-06T10:32:09Z"
   },
   {
     "id": "aws_c3316bc761bec19b0cc2",
@@ -2157,7 +2233,7 @@
       "c7a30d78-9abb-42e9-9b89-72dba884f2f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:06:23Z"
+    "lastCheckedAt": "2026-11-06T07:07:39Z"
   },
   {
     "id": "aws_a2eda3ed444962d9c3c2",
@@ -2176,7 +2252,7 @@
       "ef7cf7f5-75de-4561-b7e3-fa8f04d4188a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:15:27Z"
+    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_f5f6f411a4610175155b",
@@ -2195,7 +2271,7 @@
       "84572182-00a9-4433-a71f-331e6a8f4858"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:11:53Z"
+    "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
     "id": "aws_25d06f70c7ef84bbccdd",
@@ -2216,7 +2292,7 @@
       "dd5c1e07-b1b0-47ee-8115-a83eac808807"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:16:11Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_7559afb75065fecd9a0a",
@@ -2254,7 +2330,7 @@
       "2815bbc7-2cbf-11e8-91bf-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:29:08Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_dff0634933c03302a013",
@@ -2274,7 +2350,7 @@
       "b4d2f7c7-8681-47ff-8bcf-71c06e60e750"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:04:31Z"
+    "lastCheckedAt": "2026-11-06T07:14:37Z"
   },
   {
     "id": "aws_d6fffb4797194a4d3f06",
@@ -2313,7 +2389,7 @@
       "45bb5fc8-84df-4561-b282-935bb5dd7c86"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T20:26:58Z"
+    "lastCheckedAt": "2026-11-05T23:33:02Z"
   },
   {
     "id": "aws_6ac4e0378f11b7eb1d47",
@@ -2352,7 +2428,7 @@
       "72adbb9a-b6c4-4cf3-8c7e-ba264f51b787"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:58:14Z"
+    "lastCheckedAt": "2026-11-06T00:05:51Z"
   },
   {
     "id": "aws_521a3d41183d8269c494",
@@ -2391,7 +2467,7 @@
       "1111c128-3215-49dd-9741-7858967455c4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T17:26:03Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_92912224e35334517185",
@@ -2410,7 +2486,7 @@
       "ce11fd33-2cbf-11e8-91bf-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:15:03Z"
+    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_101928b221af93a3a58e",
@@ -2468,7 +2544,7 @@
       "708f0a19-db7d-4f38-bee3-056ba560bff7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T20:20:14Z"
+    "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
     "id": "aws_5b772e5e602c8750f5f4",
@@ -2487,7 +2563,7 @@
       "0a736804-b6d2-4bf8-bd03-4b1021ef0248"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:23:09Z"
+    "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
     "id": "aws_4a24004efbe9e194c141",
@@ -2506,7 +2582,7 @@
       "d30dbc8f-0ed6-4cc1-8579-fd546b89c25a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:23:35Z"
+    "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
     "id": "aws_861a6e7715808fc2e231",
@@ -2544,7 +2620,7 @@
       "2d368ee6-ed68-4832-8cfc-302d11e1d9d1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:20:16Z"
+    "lastCheckedAt": "2026-11-06T10:21:53Z"
   },
   {
     "id": "aws_8efec4c4f49a4cf30cdd",
@@ -2563,7 +2639,7 @@
       "9626456e-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:06:06Z"
+    "lastCheckedAt": "2026-11-06T09:30:27Z"
   },
   {
     "id": "aws_dbd6dbe7c2c763ba9396",
@@ -2601,7 +2677,7 @@
       "f8431c20-4a96-40b0-90cf-d3dcfd1765af"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:40:29Z"
+    "lastCheckedAt": "2026-11-06T00:48:58Z"
   },
   {
     "id": "aws_019abcc5e00991341393",
@@ -2639,7 +2715,7 @@
       "370545c2-4e1f-4018-b57a-22d67b1ab1cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:26:17Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_e8bcb0074440af9e6ed6",
@@ -2810,7 +2886,7 @@
       "d9e9d5de-9c90-42d4-bb3c-44332e93bf04"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:35:01Z"
+    "lastCheckedAt": "2026-11-06T02:51:38Z"
   },
   {
     "id": "aws_8a3f37050c51e01019cd",
@@ -2831,7 +2907,7 @@
       "TR:elaz-g-mavi-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:42:41Z"
+    "lastCheckedAt": "2026-11-06T10:46:14Z"
   },
   {
     "id": "aws_fefaf1816cc365036ad9",
@@ -2850,7 +2926,7 @@
       "7f4814fc-09f6-4be0-ab7d-6b9320ff3538"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:51:22Z"
+    "lastCheckedAt": "2026-11-06T09:56:51Z"
   },
   {
     "id": "aws_5c64bc043a1158c094ea",
@@ -2888,7 +2964,7 @@
       "29664f25-1649-4725-b88b-89381616b55f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:07:18Z"
+    "lastCheckedAt": "2026-11-06T07:08:32Z"
   },
   {
     "id": "aws_33fb1d0b1f0020286c78",
@@ -2909,7 +2985,7 @@
       "ff361dae-f3c6-45fa-91f0-b74daea80c51"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:22:34Z"
+    "lastCheckedAt": "2026-11-06T00:34:11Z"
   },
   {
     "id": "aws_6a45d6d877efab8b1717",
@@ -2970,7 +3046,7 @@
       "TR:erkam-radyo-2nd-stream"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:44:07Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_f9b6720572b7244b16da",
@@ -2989,7 +3065,7 @@
       "70c634dc-e5a5-44ed-98c7-538e073a3237"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:26:00Z"
+    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_79728d18a10273eaf95d",
@@ -3050,7 +3126,7 @@
       "d3714737-f527-451f-a93d-a66368e188b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:35:40Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_e6ca1e69056125969329",
@@ -3128,7 +3204,7 @@
       "278713fd-f585-4d1c-b6bd-5e5baccae46f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:58:01Z"
+    "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
     "id": "aws_c7bf3d434d0fe8a5605f",
@@ -3263,7 +3339,7 @@
       "8d1a57d9-209b-440c-83a0-d1c45d307715"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:48:20Z"
+    "lastCheckedAt": "2026-11-06T01:55:46Z"
   },
   {
     "id": "aws_c2aca40f507f416cee79",
@@ -3320,7 +3396,7 @@
       "84d7f5da-b9d2-4092-be3b-1211690bcfdd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:58:55Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_ece20a8dc9d7fe041971",
@@ -3377,7 +3453,7 @@
       "acab9839-3b93-4a7c-a259-298a25e19979"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:12:50Z"
+    "lastCheckedAt": "2026-11-06T07:24:28Z"
   },
   {
     "id": "aws_c7f2107cfa77b22d78b0",
@@ -3417,7 +3493,7 @@
       "f0be7682-2aab-45b6-b66a-d4380897a6bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:13:59Z"
+    "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
     "id": "aws_e9ec7489c6a3fd1c6673",
@@ -3436,7 +3512,7 @@
       "f91c177e-7f45-4156-9699-d745993c6831"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:26:11Z"
+    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_c05810de3ae957100c94",
@@ -3512,7 +3588,7 @@
       "a16cfab9-0b44-4718-8e72-6ee209ecfe37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:44:07Z"
+    "lastCheckedAt": "2026-11-06T00:48:15Z"
   },
   {
     "id": "aws_ac0bdd0407bdf8e8b353",
@@ -3550,7 +3626,7 @@
       "90e5e9cb-7670-41cd-866a-1a60790a6d16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:40:49Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_0bdcbc7c93536eeaf298",
@@ -3588,7 +3664,7 @@
       "fa61e57b-cb22-4fcb-bdc9-57e1f1091605"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:36:38Z"
+    "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
     "id": "aws_2cde8e425be72340fa6f",
@@ -3607,7 +3683,7 @@
       "4095df64-42ef-4503-8832-0bc1dc24a13b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:41:54Z"
+    "lastCheckedAt": "2026-11-06T08:47:37Z"
   },
   {
     "id": "aws_74abed24f730c112936f",
@@ -3628,7 +3704,7 @@
       "TR:genc-kral-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:11:10Z"
+    "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
     "id": "aws_12a17b90ba0dcc2e2840",
@@ -3666,7 +3742,7 @@
       "89d50a21-18fa-483e-bfa6-1cee8519866e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:26:26Z"
+    "lastCheckedAt": "2026-11-06T06:33:26Z"
   },
   {
     "id": "aws_85e91662e2d01ccfed1d",
@@ -3687,7 +3763,7 @@
       "TR:gevas-sesi-radyosu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:41:47Z"
+    "lastCheckedAt": "2026-11-06T03:55:20Z"
   },
   {
     "id": "aws_d792b64e6556ed2f91a8",
@@ -3879,7 +3955,7 @@
       "e6549c43-15bd-4675-bc96-f39723bb6144"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:35:01Z"
+    "lastCheckedAt": "2026-11-06T02:36:16Z"
   },
   {
     "id": "aws_06eb0a47ad2b4d8e1d4b",
@@ -3917,7 +3993,7 @@
       "82235d36-424c-4e08-a1ec-7459e1a47946"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T11:05:10Z"
+    "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
     "id": "aws_e54966178bf1b03c888a",
@@ -3955,7 +4031,7 @@
       "0c61b20d-bfaa-4647-aa9b-3308087d5a4d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:31:53Z"
+    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_beefe5dea4cbd9ddf70d",
@@ -3974,7 +4050,7 @@
       "e86785a0-8148-4558-9104-c65ed31eabf8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:10:39Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_5fc1f61b5d80bee78aef",
@@ -4016,7 +4092,7 @@
       "TR:halk-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:39:52Z"
+    "lastCheckedAt": "2026-11-06T08:47:37Z"
   },
   {
     "id": "aws_83270c22162b7f2819f4",
@@ -4035,7 +4111,7 @@
       "f5b65b4d-66ba-438c-aba0-b91b69806c2a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:39:56Z"
+    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_7e5d463d194ad53bc2f6",
@@ -4073,7 +4149,7 @@
       "1ed57b78-c820-49d6-9053-ed15c67c25f9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:51:37Z"
+    "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
     "id": "aws_1c9ee923d1d1efe3a078",
@@ -4113,7 +4189,7 @@
       "TR:hayatmix"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:09:47Z"
+    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_ac3c31980dc65f439562",
@@ -4134,7 +4210,7 @@
       "a1cd74f5-1f8b-4fff-aab5-f0cbbddd2b77"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:11:25Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_1119160fee8f179c6a4d",
@@ -4155,7 +4231,7 @@
       "bef9a5a3-997a-42ed-a480-f0302253b7d5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:01:44Z"
+    "lastCheckedAt": "2026-11-06T06:12:35Z"
   },
   {
     "id": "aws_855caf3e182745334a12",
@@ -4214,7 +4290,7 @@
       "9c6ac454-b96b-440a-b5ce-6bfc52933dd2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:00:08Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_2cde401387e51b72a867",
@@ -4233,7 +4309,7 @@
       "b1760e2d-260e-477e-a31a-87028d4a44ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:14:53Z"
+    "lastCheckedAt": "2026-11-06T00:15:42Z"
   },
   {
     "id": "aws_af6912a66eb7be1c2b83",
@@ -4252,7 +4328,7 @@
       "2e4ee5d9-18ef-4073-8d6e-5582808216ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:31:11Z"
+    "lastCheckedAt": "2026-11-06T06:45:17Z"
   },
   {
     "id": "aws_967a8fca79dcadc0216b",
@@ -4271,7 +4347,7 @@
       "81510d4f-cd42-433e-b1ef-77d2b309fa5a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:37:56Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_78930ba5223d6972a579",
@@ -4350,7 +4426,7 @@
       "b5fda548-6745-4c8f-921a-1046aceee560"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T15:15:49Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_c905da20f8e319e812bc",
@@ -4390,7 +4466,7 @@
       "409a398d-f3d2-4f3d-8889-a8159ad451a6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T21:40:03Z"
+    "lastCheckedAt": "2026-11-05T21:46:02Z"
   },
   {
     "id": "aws_ccbb0e1bc6d28529feaa",
@@ -4485,7 +4561,7 @@
       "7eb0b049-9a60-4acb-9cc0-22074d6aee8a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:41:10Z"
+    "lastCheckedAt": "2026-11-06T00:48:58Z"
   },
   {
     "id": "aws_2383a80b713e2798bdef",
@@ -4523,7 +4599,7 @@
       "b80c5957-e97b-4d65-87fe-50f709e84516"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:39:03Z"
+    "lastCheckedAt": "2026-11-06T00:42:14Z"
   },
   {
     "id": "aws_2989a5d4fc6ef5026168",
@@ -4544,7 +4620,7 @@
       "TR:imaj-fm-erzurum"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:40:49Z"
+    "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
     "id": "aws_204b491546d909346af0",
@@ -4563,7 +4639,7 @@
       "015ea1ab-f1dd-4f20-8dcb-edd95c3cca59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:30:45Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_536db257b50bac64f04e",
@@ -4680,7 +4756,7 @@
       "6d8f8858-7f5f-4223-956a-73ecd2b23b21"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T18:54:15Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_638e6708b905c66bb38b",
@@ -4699,7 +4775,7 @@
       "39e9fafe-85ca-422b-b448-20f47c67c47c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:56:56Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_3151cae1c591d9fd4704",
@@ -4725,7 +4801,7 @@
     "stationId": "awb_f9224df9584f9ce7af4b",
     "name": "Joy Fm",
     "country": "TR",
-    "url": "http://27953.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+    "url": "http://25683.live.streamtheworld.com/JOY_FMAAC_SC",
     "codec": "aac+",
     "bitrate": 64,
     "protocol": "http",
@@ -4737,7 +4813,7 @@
       "4ead410e-2f33-411b-8a06-df9ff62efa56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:35:04Z"
+    "lastCheckedAt": "2026-11-06T09:53:31Z"
   },
   {
     "id": "aws_4c44f49e7b780dab38a6",
@@ -4798,7 +4874,7 @@
       "TR:joy-turk-rock-turkey"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:06:23Z"
+    "lastCheckedAt": "2026-11-06T07:08:32Z"
   },
   {
     "id": "aws_e0221014fba97edef9ea",
@@ -4838,7 +4914,7 @@
       "a7dc38d4-920a-4de2-8fac-5106abccf69e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:22:07Z"
+    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_bead83d0ded055f20643",
@@ -4896,7 +4972,7 @@
       "1b18ec67-9641-4c02-92b4-cfc9f3dd85d8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:55:53Z"
+    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_753b9741df72a940a709",
@@ -4905,7 +4981,7 @@
     "country": "TR",
     "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
     "codec": "aac+",
-    "bitrate": 64,
+    "bitrate": 63,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -4916,7 +4992,7 @@
       "494ac8c0-1729-4406-a779-b7430c3c5374"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T19:40:53Z"
+    "lastCheckedAt": "2026-11-06T00:37:59Z"
   },
   {
     "id": "aws_130b4d8a7a571383d29d",
@@ -4937,7 +5013,7 @@
       "TR:kafa-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:28:38Z"
+    "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
     "id": "aws_996f61da9d27604afc57",
@@ -4956,7 +5032,7 @@
       "51d0f041-acdf-44ab-aa2d-a2056aa3c640"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:28:16Z"
+    "lastCheckedAt": "2026-11-06T04:35:50Z"
   },
   {
     "id": "aws_937bea3fe749d50059ef",
@@ -4996,7 +5072,7 @@
       "0352d949-cfe9-4c89-8540-00069791b5d6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:02:27Z"
+    "lastCheckedAt": "2026-11-06T07:03:44Z"
   },
   {
     "id": "aws_a5f7a6b2501cb101a3ae",
@@ -5034,7 +5110,7 @@
       "30cd67be-8665-4596-a3ac-1345c547ff4d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:30:45Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_d99af57a1c8d8b3425fd",
@@ -5074,7 +5150,7 @@
       "7a441031-e02f-4726-b957-6c343c1935ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:14:11Z"
+    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_40916ab26c9b775e8048",
@@ -5093,7 +5169,7 @@
       "2ddf08ec-21fb-4613-9cd4-ec11a9e47f90"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:29:53Z"
+    "lastCheckedAt": "2026-11-06T10:59:49Z"
   },
   {
     "id": "aws_a5d63921db7527c6d1c4",
@@ -5169,7 +5245,7 @@
       "eadab7bc-b6d4-489b-a349-e6168fa78002"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:04:49Z"
+    "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
     "id": "aws_5b1668e6b68b84bdb1d7",
@@ -5188,7 +5264,7 @@
       "cad85f62-a486-4b1c-b90d-9a3a5956330b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:36:04Z"
+    "lastCheckedAt": "2026-11-06T00:36:57Z"
   },
   {
     "id": "aws_010a9b8fe3d8acb1e710",
@@ -5266,7 +5342,7 @@
       "TR:kiss-turk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:24:52Z"
+    "lastCheckedAt": "2026-11-06T00:34:55Z"
   },
   {
     "id": "aws_4d3f5c19c25abde6ddcb",
@@ -5445,7 +5521,7 @@
       "cab3a3a0-78b8-4f8d-bb40-ab3d5d717ce8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:50:51Z"
+    "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
     "id": "aws_7c8d5a8dff14c64f6b5a",
@@ -5483,7 +5559,7 @@
       "488e973a-39bc-4720-92c7-1cb0607fd0ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:35:04Z"
+    "lastCheckedAt": "2026-11-06T09:49:12Z"
   },
   {
     "id": "aws_9c12233efc067c0ff5fb",
@@ -5502,7 +5578,7 @@
       "429d64ec-d941-4b51-ac44-5f20e95f2f79"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:38:21Z"
+    "lastCheckedAt": "2026-11-06T00:08:01Z"
   },
   {
     "id": "aws_9b10f1cf6b6f7b1bd69b",
@@ -5602,7 +5678,7 @@
       "efee6296-e8b9-4997-9671-b4b7302f0148"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T15:32:56Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_be65b4efde5ae00a8f71",
@@ -5621,7 +5697,7 @@
       "f9fe2c7e-6f2f-4780-a682-8317604fe0ce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:20:44Z"
+    "lastCheckedAt": "2026-11-06T03:24:15Z"
   },
   {
     "id": "aws_effebb78ac9c273d8595",
@@ -5640,7 +5716,7 @@
       "1e090517-d381-49f4-bb54-9b18ea649b41"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:05:49Z"
+    "lastCheckedAt": "2026-11-06T08:19:17Z"
   },
   {
     "id": "aws_18200a9d7c90955fb47f",
@@ -5661,7 +5737,7 @@
       "TR:kral-turk-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:28:36Z"
+    "lastCheckedAt": "2026-11-06T07:32:42Z"
   },
   {
     "id": "aws_637c2088d60591247c83",
@@ -5682,7 +5758,7 @@
       "TR:ktu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:07:35Z"
+    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_14a55cca87b9e8e0b7ec",
@@ -5703,7 +5779,7 @@
       "c745e25e-0af7-431b-a0c2-ee20bd695893"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:35:33Z"
+    "lastCheckedAt": "2026-11-06T03:55:20Z"
   },
   {
     "id": "aws_7db7550df2e793c515f0",
@@ -5741,7 +5817,7 @@
       "c0aa78c7-8461-4c36-a85a-b651f2f5fa39"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:11:59Z"
+    "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
     "id": "aws_b8adf28443f5e2d8fec0",
@@ -5800,7 +5876,7 @@
       "f940cc74-1673-4bc8-adbc-832d5d51a012"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:05:52Z"
+    "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
     "id": "aws_1c7521b7c4de744139c4",
@@ -5840,7 +5916,7 @@
       "d6a8ae1d-75fc-490f-a9fe-4fcaacaf9ba6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:54:00Z"
+    "lastCheckedAt": "2026-11-06T00:13:23Z"
   },
   {
     "id": "aws_bc89bf21080a47b90ae1",
@@ -5859,7 +5935,7 @@
       "0cf0809b-618e-4464-8f9d-edb384282110"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:13:59Z"
+    "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
     "id": "aws_9279deb158a90bbfff51",
@@ -5897,7 +5973,7 @@
       "d220e7fc-cfc3-48c0-895a-ec109709936d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:02:20Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_37010976a7905dc30976",
@@ -5956,7 +6032,7 @@
       "5c49eb0a-c973-4260-9574-ac0875964645"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:40:29Z"
+    "lastCheckedAt": "2026-11-06T00:45:21Z"
   },
   {
     "id": "aws_2d2d4e5d9c23fdb8ca68",
@@ -6040,7 +6116,7 @@
       "b4c64aa8-9bf1-4015-bc8d-7e10ff1edce9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:58:55Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_4540234bab0909f110c4",
@@ -6078,7 +6154,7 @@
       "cd908e32-35c9-4eb3-9754-0331ed0f4d65"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:00:47Z"
+    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_ac9a405f3d7a551bd2f6",
@@ -6097,7 +6173,7 @@
       "7112f619-0ba3-4184-8fae-c8209b1f03b1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:05:28Z"
+    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_0e30f48b5db94791fa55",
@@ -6135,7 +6211,7 @@
       "d6d307f6-038b-4b88-b70c-753004b3adcb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:36:32Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_5698f53cd569b9a8f303",
@@ -6175,7 +6251,7 @@
       "TR:max-fm-95-8-maximum-music"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T16:38:56Z"
+    "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
     "id": "aws_64106ff1d3693b95be7a",
@@ -6194,7 +6270,7 @@
       "960e363d-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:01:37Z"
+    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_7b3a55c5dcab0ae6f505",
@@ -6213,7 +6289,7 @@
       "b1443978-7de0-11e8-b68b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:38:23Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_6689782063760b7f9220",
@@ -6291,7 +6367,7 @@
       "a404045e-bd13-4e15-a591-6c81b846b1b8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:15:03Z"
+    "lastCheckedAt": "2026-11-06T09:25:44Z"
   },
   {
     "id": "aws_008c57933d799c460c25",
@@ -6312,7 +6388,7 @@
       "dc8dcd60-8c02-49ab-b2bc-47a4599ae624"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:39:36Z"
+    "lastCheckedAt": "2026-11-06T03:46:59Z"
   },
   {
     "id": "aws_bdae390b7b9161cce7b1",
@@ -6350,7 +6426,7 @@
       "2a3b2fc2-37ac-4872-bab7-7c40920e0397"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:47:57Z"
+    "lastCheckedAt": "2026-11-06T08:50:25Z"
   },
   {
     "id": "aws_3b9d236bf66e6a98b4f2",
@@ -6487,7 +6563,7 @@
       "8456989c-06fb-445c-b4d9-9a4e84d608be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:21:43Z"
+    "lastCheckedAt": "2026-11-06T00:34:55Z"
   },
   {
     "id": "aws_91fd77544ad8aaa8a4c7",
@@ -6506,7 +6582,7 @@
       "3acd808a-e801-43bb-bdb3-16a8f4761f0d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:45:49Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_016335086ec3dfdb6417",
@@ -6603,7 +6679,7 @@
       "501a9eb4-023c-4fc2-befa-baa1e358b971"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:03:40Z"
+    "lastCheckedAt": "2026-11-06T02:29:19Z"
   },
   {
     "id": "aws_a79219bf607e7e683158",
@@ -6622,7 +6698,7 @@
       "288483da-41bd-466a-8282-d3f5dcc4c2d0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:30:09Z"
+    "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
     "id": "aws_c06bbbba187d756f7d24",
@@ -6641,7 +6717,7 @@
       "a42161db-0b63-4c66-8980-51208450d8dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:17:21Z"
+    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_efb7bdad5b3d9498621a",
@@ -6661,7 +6737,7 @@
       "64e3159f-54ab-47ef-9b04-2dbce8dd77d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T12:58:10Z"
+    "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
     "id": "aws_29622099924b70a0d2f7",
@@ -6701,7 +6777,7 @@
       "TR:mpl-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:23:09Z"
+    "lastCheckedAt": "2026-11-06T06:30:08Z"
   },
   {
     "id": "aws_8af3b86ce5f0d6495482",
@@ -6722,7 +6798,7 @@
       "TR:mydonose-turk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:14:33Z"
+    "lastCheckedAt": "2026-11-06T02:39:01Z"
   },
   {
     "id": "aws_c3344156e0b977ca71b7",
@@ -6760,7 +6836,7 @@
       "ad09398c-3f3d-4311-9344-c76395e46805"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:41:54Z"
+    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_d4bb1dadc1c320fdb626",
@@ -6802,7 +6878,7 @@
       "d9dc8607-d88d-48f2-bde0-1dc98c901f68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:50:51Z"
+    "lastCheckedAt": "2026-11-06T08:55:10Z"
   },
   {
     "id": "aws_9cae633194400bb1b86d",
@@ -6918,7 +6994,7 @@
       "TR:ostim-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:06:37Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_21b5a763476e0a41622b",
@@ -6939,7 +7015,7 @@
       "TR:oyunpiyat"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T21:08:29Z"
+    "lastCheckedAt": "2026-11-05T21:16:26Z"
   },
   {
     "id": "aws_701178ac01bb22775291",
@@ -6980,7 +7056,7 @@
       "3f713029-a9a9-468e-9fb9-c2870182b08f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T23:28:24Z"
+    "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
     "id": "aws_75df6e2ac410efea184f",
@@ -6999,7 +7075,7 @@
       "76305f20-509d-4e8c-a684-55967b51b276"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:06:37Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_1b4ba113ce0fd51a7f81",
@@ -7019,7 +7095,7 @@
       "f4121c74-9b1a-4051-8864-9db00eab2848"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T01:42:27Z"
+    "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
     "id": "aws_279afc9b8361db0f422d",
@@ -7039,7 +7115,7 @@
       "520bfe3e-2556-49f9-9846-e2c610978b60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T03:06:45Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_20dae30e14744f3c0822",
@@ -7048,7 +7124,7 @@
     "country": "TR",
     "url": "https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8",
     "codec": "aac+",
-    "bitrate": 127,
+    "bitrate": 128,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7058,7 +7134,7 @@
       "1f5379f5-4c5e-4de8-8939-3f8e80383989"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:54:06Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_6b8f7b141adf561a729d",
@@ -7077,7 +7153,7 @@
       "0edc51ea-fc6b-4ab8-a687-8dde4730007b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:14:11Z"
+    "lastCheckedAt": "2026-11-06T03:14:51Z"
   },
   {
     "id": "aws_c01c301ea851b5d4bb98",
@@ -7116,7 +7192,7 @@
       "2871e14f-254c-4b0a-b506-c59bc6175e43"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:14:53Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_f124992a3a4bca401e2a",
@@ -7135,7 +7211,7 @@
       "2b6a1628-dce1-48c4-bafc-9e2a37c25bd4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:17:18Z"
+    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_b72178f4ddf88163ceee",
@@ -7175,7 +7251,7 @@
       "TR:playdanceradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T19:35:53Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_82c2598ef5f8ec8724dc",
@@ -7220,7 +7296,7 @@
     "stationId": "awb_93fd041687729faa6923",
     "name": "pop 90 turkey",
     "country": "TR",
-    "url": "http://28573.live.streamtheworld.com:3690/POP90AAC_SC",
+    "url": "http://23623.live.streamtheworld.com:3690/POP90AAC_SC",
     "codec": "aac+",
     "bitrate": 64,
     "protocol": "http",
@@ -7232,7 +7308,7 @@
       "0dc6e3f7-b313-4bc4-a06a-94f05c51dff5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:08:40Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_19d402604d1ce1c3ea90",
@@ -7251,7 +7327,7 @@
       "0df8c795-6f20-4039-b484-8758fda040a3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:14:33Z"
+    "lastCheckedAt": "2026-11-06T02:24:45Z"
   },
   {
     "id": "aws_444b72b6cfedd3dc7699",
@@ -7270,7 +7346,7 @@
       "b0c4da87-e2f4-4057-aa6f-e863779b7a35"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:04:34Z"
+    "lastCheckedAt": "2026-11-06T01:22:59Z"
   },
   {
     "id": "aws_9239b6d81249a320a17a",
@@ -7289,7 +7365,7 @@
       "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:45:49Z"
+    "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
     "id": "aws_f3473cd0f455dc7291a7",
@@ -7348,7 +7424,7 @@
       "08c286ad-3d82-4d05-8c97-a83aca029dd9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:16:14Z"
+    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_25466fca3f83169ebf8b",
@@ -7387,7 +7463,7 @@
       "dd307ed2-052d-4373-85c6-24f15f96d89c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T11:03:33Z"
+    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_92ca9fb513920f567d43",
@@ -7396,7 +7472,7 @@
     "country": "TR",
     "url": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 278,
+    "bitrate": 277,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7406,7 +7482,7 @@
       "6fd08b58-6912-4296-ad08-093832e46df4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:24:16Z"
+    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_4c9ba59dfcbd2048883f",
@@ -7415,7 +7491,7 @@
     "country": "TR",
     "url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 2733,
+    "bitrate": 2766,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7425,7 +7501,7 @@
       "6e470640-f189-4a7f-9b90-af5bb9a56950"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:21:32Z"
+    "lastCheckedAt": "2026-11-06T03:31:44Z"
   },
   {
     "id": "aws_23099a2add55bf16084f",
@@ -7501,7 +7577,7 @@
       "fb1fd397-78fd-11ea-8a3b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:55:53Z"
+    "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
     "id": "aws_954cf5585274e0b54d9a",
@@ -7520,7 +7596,7 @@
       "25cf80e1-ccae-4433-8cc3-50a685bae3e2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:21:26Z"
+    "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
     "id": "aws_d636daa24cdf877e96c1",
@@ -7558,7 +7634,7 @@
       "8a38c064-f112-460d-8d61-c8f2974e33c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:33:25Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_7bd812ad8c4ee1565ca5",
@@ -7567,7 +7643,7 @@
     "country": "TR",
     "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 150,
+    "bitrate": 149,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7578,7 +7654,7 @@
       "43061315-2893-46fa-ae1e-96e767d5bce3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T02:03:58Z"
+    "lastCheckedAt": "2026-11-06T03:12:30Z"
   },
   {
     "id": "aws_dbd3e4f2a383192069d2",
@@ -7597,7 +7673,7 @@
       "5ebff522-556b-4c1c-8699-e9f6eddafdcd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:37:41Z"
+    "lastCheckedAt": "2026-11-06T06:43:54Z"
   },
   {
     "id": "aws_51c2b67e01a0b4126240",
@@ -7644,7 +7720,7 @@
     "country": "TR",
     "url": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 278,
+    "bitrate": 279,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7654,7 +7730,7 @@
       "2dea3c87-e0b1-47ad-8fcc-530bd3402010"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:21:32Z"
+    "lastCheckedAt": "2026-11-06T04:14:28Z"
   },
   {
     "id": "aws_29735cbc3f2af3e3a683",
@@ -7673,7 +7749,7 @@
       "6f239590-bf73-4c14-ba9c-ccedb73fd4d0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:27:37Z"
+    "lastCheckedAt": "2026-11-06T10:55:06Z"
   },
   {
     "id": "aws_b984c90ee23f50c98dab",
@@ -7682,7 +7758,7 @@
     "country": "TR",
     "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 149,
+    "bitrate": 150,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -7692,7 +7768,7 @@
       "54202ae3-a9b5-4eb0-8ebc-a0585a092256"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:09:47Z"
+    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_11536e299f56ad22fcec",
@@ -7731,7 +7807,7 @@
       "72da925c-049c-4639-acbe-ee7a0042a83e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T13:33:50Z"
+    "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
     "id": "aws_ace6c2b260edfb9c1fdf",
@@ -7771,7 +7847,7 @@
       "c4d91957-6013-4d21-9b8b-109b1453f791"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:19:13Z"
+    "lastCheckedAt": "2026-11-05T23:49:56Z"
   },
   {
     "id": "aws_e758a32fe96a9955c32d",
@@ -7830,7 +7906,7 @@
       "e3521638-7535-4327-865a-2c36e45f5f4c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:42:00Z"
+    "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
     "id": "aws_562cb612c04f6f72874a",
@@ -7870,7 +7946,7 @@
       "03dde242-e97b-4135-98c2-e75a4e434b95"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:23:53Z"
+    "lastCheckedAt": "2026-11-06T08:37:37Z"
   },
   {
     "id": "aws_1aa9a3914b9df2262377",
@@ -7889,7 +7965,7 @@
       "dfd64544-4dd7-49a9-8fd2-90a571b418ec"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:04:34Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_840a93630deb337403a4",
@@ -7948,7 +8024,7 @@
       "TR:radio-glamorize"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:40:03Z"
+    "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
     "id": "aws_ad95b23d06508f2e8c1e",
@@ -7967,7 +8043,7 @@
       "d380c39a-7074-4c94-984b-27bf098cbb96"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:36:14Z"
+    "lastCheckedAt": "2026-11-06T10:43:21Z"
   },
   {
     "id": "aws_afc0f9b7ebe1d9159c15",
@@ -8066,7 +8142,7 @@
       "4c58f80e-f4fa-4233-b336-17164cf934b9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:46:30Z"
+    "lastCheckedAt": "2026-11-06T02:51:38Z"
   },
   {
     "id": "aws_6d023002e7c5e702656f",
@@ -8085,7 +8161,7 @@
       "3d42ef6b-46e0-4780-b1cb-9d339db6a189"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:20:08Z"
+    "lastCheckedAt": "2026-11-06T04:25:50Z"
   },
   {
     "id": "aws_4e99a782eced47e5c251",
@@ -8106,7 +8182,7 @@
       "TR:radio-mydonose"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:40:25Z"
+    "lastCheckedAt": "2026-11-06T10:42:38Z"
   },
   {
     "id": "aws_2403a29fd4e31ef60003",
@@ -8125,7 +8201,7 @@
       "5f5eeda9-129f-11ea-a87e-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:48:09Z"
+    "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
     "id": "aws_84c5225b38319198e2ae",
@@ -8163,7 +8239,7 @@
       "abb57aa7-1106-4f63-95ba-608bfcc3ae3d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:54:38Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_8b06d024374547e2bfa1",
@@ -8229,7 +8305,7 @@
     "country": "TR",
     "url": "https://stream.radiotedu.com/energize",
     "codec": "aac",
-    "bitrate": 192,
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -8239,7 +8315,7 @@
       "0ed498cb-2091-4fdc-9aae-a301d9b19a16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:07:23Z"
+    "lastCheckedAt": "2026-11-06T06:19:33Z"
   },
   {
     "id": "aws_492df69d53255542d2dc",
@@ -8277,7 +8353,7 @@
       "12c8f4dd-2d71-4eb4-a1e1-69cf9817a2ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:19:21Z"
+    "lastCheckedAt": "2026-11-06T09:37:04Z"
   },
   {
     "id": "aws_2760e1c25b9c41923b43",
@@ -8305,7 +8381,7 @@
     "country": "TR",
     "url": "https://stream.radiotedu.com/rock",
     "codec": "aac",
-    "bitrate": 192,
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -8315,7 +8391,7 @@
       "5b8cfcd0-8f19-4401-95df-04eb344eebaf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:33:08Z"
+    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_f39ec28e7dbd7d9fec05",
@@ -8334,7 +8410,7 @@
       "741e2325-b859-428c-99c7-65bb3b2ffdcb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:04:49Z"
+    "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
     "id": "aws_b9f4f374b08be7682fe9",
@@ -8494,7 +8570,7 @@
       "f5f8cb35-3051-4128-8194-fbe9be548c12"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:01:44Z"
+    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_ca112c755cd824fb076d",
@@ -8514,7 +8590,7 @@
       "7e7f197f-6a5a-4d08-9b5b-52eee51bdae2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:58:01Z"
+    "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
     "id": "aws_8afda10f142e8f971d46",
@@ -8571,7 +8647,7 @@
       "27dc3e5e-8f61-47c8-9ce1-6d6e6b4d4a3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:13:15Z"
+    "lastCheckedAt": "2026-11-06T05:39:33Z"
   },
   {
     "id": "aws_7181a26bb9a786ab44e3",
@@ -8590,7 +8666,7 @@
       "02ad59d8-eeb6-41f0-b850-f453bc0401ae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:08:23Z"
+    "lastCheckedAt": "2026-11-06T09:25:44Z"
   },
   {
     "id": "aws_3b7ce95239681abc51bd",
@@ -8610,7 +8686,7 @@
       "ddded9d3-ae94-4856-b3bc-885995256c88"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:48:20Z"
+    "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
     "id": "aws_aa9f5d76d84c16403f16",
@@ -8650,7 +8726,7 @@
       "bf50b4fc-09ca-4eb3-9c08-86f8cd70eaec"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:00:38Z"
+    "lastCheckedAt": "2026-11-06T05:15:05Z"
   },
   {
     "id": "aws_127f169f3ad7a634a6d3",
@@ -8688,7 +8764,7 @@
       "b859da13-3af8-4d55-b7ee-45ad89cc8429"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:12:02Z"
+    "lastCheckedAt": "2026-11-06T06:16:34Z"
   },
   {
     "id": "aws_94f2410b1943a21f3c73",
@@ -8728,7 +8804,7 @@
       "d8ed6337-bc5c-4d37-80ec-efe75881796b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:35:40Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_aa961107241690e9b2f7",
@@ -8747,7 +8823,7 @@
       "06fcb681-fc8c-413d-828f-206e23cc0eac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:35:22Z"
+    "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
     "id": "aws_e6d0f1079d16e81229cc",
@@ -8766,7 +8842,7 @@
       "deb1f5f2-30fd-4879-b0a6-01ebc74a601e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:46:48Z"
+    "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
     "id": "aws_d3d2b25813e3422763d2",
@@ -8804,7 +8880,7 @@
       "a3c51aff-d982-4d07-873c-c9909864000f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:20:03Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_13685afc58efbae80c88",
@@ -8882,7 +8958,7 @@
       "TR:radyo-akdeniz"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:29:16Z"
+    "lastCheckedAt": "2026-11-06T06:55:24Z"
   },
   {
     "id": "aws_1634b7d2b1e296a28777",
@@ -8979,7 +9055,7 @@
       "4a070d1f-2f41-42dc-adac-c2282788ddec"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:33:53Z"
+    "lastCheckedAt": "2026-11-06T03:46:59Z"
   },
   {
     "id": "aws_954d7cf432fc270e03d7",
@@ -8998,7 +9074,7 @@
       "0316f522-5a00-499c-bcf0-aceb9076f33c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:26:17Z"
+    "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
     "id": "aws_96b93d67ccdeebc3215a",
@@ -9017,7 +9093,7 @@
       "82a8b94c-70f7-4a66-aa3e-9f690659104f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:37:40Z"
+    "lastCheckedAt": "2026-11-06T08:59:27Z"
   },
   {
     "id": "aws_ae8326e25e415a203696",
@@ -9055,7 +9131,7 @@
       "306970f9-8063-481d-9f6b-00b99833d206"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:00:38Z"
+    "lastCheckedAt": "2026-11-06T05:13:31Z"
   },
   {
     "id": "aws_f00dae9cf764b393e165",
@@ -9112,7 +9188,7 @@
       "c241bf86-15ea-4a29-9ad1-1e8b385ff8d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:51:37Z"
+    "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
     "id": "aws_d989233d5391280a5d64",
@@ -9169,7 +9245,7 @@
       "be9c35bc-dad3-423a-9f33-d77713277fc8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:28:16Z"
+    "lastCheckedAt": "2026-11-06T04:38:27Z"
   },
   {
     "id": "aws_4c61e6bd4b76440d4dee",
@@ -9207,7 +9283,7 @@
       "0fda3ea5-f974-4b23-a53c-c0f6cd30838d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:28:57Z"
+    "lastCheckedAt": "2026-11-06T01:39:21Z"
   },
   {
     "id": "aws_85f9ce9d28b707ede4d1",
@@ -9226,7 +9302,7 @@
       "0c12afb8-cc4d-4291-9d0f-5dbedc1690a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:09:34Z"
+    "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
     "id": "aws_bec195a4a1d04afeb83f",
@@ -9245,7 +9321,7 @@
       "0bafe970-0d05-4f37-a8a9-f87e95319f0f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:31:53Z"
+    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_743e39e98310e49197a3",
@@ -9264,7 +9340,7 @@
       "f6be81cf-5ce6-4eb4-8753-3fffec5fbdcf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:41:47Z"
+    "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
     "id": "aws_c17494bb71619d34c794",
@@ -9283,7 +9359,7 @@
       "bcf1eca1-d197-451b-bdd0-dde1e4bcaae1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:38:23Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_39167b2ac6ff1b1ba27c",
@@ -9359,7 +9435,7 @@
       "dd6a0a85-02de-406c-9733-f4bcbfb9c65c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:54:38Z"
+    "lastCheckedAt": "2026-11-06T01:07:43Z"
   },
   {
     "id": "aws_f24121db3da8f3c1a6ba",
@@ -9397,7 +9473,7 @@
       "8642f0aa-c15e-4321-8564-21420fb57799"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:57:14Z"
+    "lastCheckedAt": "2026-11-06T10:59:49Z"
   },
   {
     "id": "aws_2b10f4c47aa8c5268aa0",
@@ -9416,7 +9492,7 @@
       "8fa300ca-d563-4a5b-88e5-9caccecf43c1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:20:31Z"
+    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_01ca6420c017c7047282",
@@ -9456,7 +9532,7 @@
       "d1200755-0a89-4c2d-be25-cab6be56b56a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:23:35Z"
+    "lastCheckedAt": "2026-11-05T23:38:04Z"
   },
   {
     "id": "aws_9e0829b97c0a47b5f2b8",
@@ -9475,7 +9551,7 @@
       "770dde25-0160-4b24-85fa-a38cb99f1747"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:16:31Z"
+    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_73ba8ec1faf1c21ff5dc",
@@ -9513,7 +9589,7 @@
       "acac6c14-3e6e-44c8-9b36-485522b167a3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:00:38Z"
+    "lastCheckedAt": "2026-11-06T05:30:33Z"
   },
   {
     "id": "aws_162ffa914d861b5de0fe",
@@ -9553,7 +9629,7 @@
       "TR:radyo-duygusal"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:23:53Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_f8c25c11e67a62759ab9",
@@ -9572,7 +9648,7 @@
       "b8454af2-cfba-44dc-a75b-4e17e3a806ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:34:27Z"
+    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_d3f034c381e7962d65ca",
@@ -9612,7 +9688,7 @@
       "f4b4718c-aca0-45dd-bdce-b104dbc0b657"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:23:05Z"
+    "lastCheckedAt": "2026-11-06T10:46:14Z"
   },
   {
     "id": "aws_a270c4f1877630dccf52",
@@ -9691,7 +9767,7 @@
       "6399eac6-3a5c-4ce0-9f66-d50762f1543f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:33:08Z"
+    "lastCheckedAt": "2026-11-06T07:56:36Z"
   },
   {
     "id": "aws_ecf10ded32e878723236",
@@ -9731,7 +9807,7 @@
       "TR:radyo-esenler"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:35:33Z"
+    "lastCheckedAt": "2026-11-06T03:41:28Z"
   },
   {
     "id": "aws_9a5eadfa21e9cf090c70",
@@ -9750,7 +9826,7 @@
       "0a79a954-3e10-49a0-956c-9a7318e3bc04"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:35:22Z"
+    "lastCheckedAt": "2026-11-06T08:47:37Z"
   },
   {
     "id": "aws_e926efb5c8044f9f5f04",
@@ -9769,7 +9845,7 @@
       "6df43801-049a-4999-95c2-2b98bd9bd72c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:19:36Z"
+    "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
     "id": "aws_365b07859c5a88b0b057",
@@ -9830,7 +9906,7 @@
       "TR:radyo-fenomen-clubbin"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:07:35Z"
+    "lastCheckedAt": "2026-11-06T03:12:30Z"
   },
   {
     "id": "aws_1d54238a07b875e9c482",
@@ -9839,7 +9915,7 @@
     "country": "TR",
     "url": "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 149,
+    "bitrate": 147,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -9849,7 +9925,7 @@
       "fc8dcd89-2712-4f63-b674-43a39c216423"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:44:49Z"
+    "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
     "id": "aws_92228e5de01344950b7a",
@@ -9887,7 +9963,7 @@
       "7ea58b1d-e502-4e03-abb1-65b2408bab2d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:48:54Z"
+    "lastCheckedAt": "2026-11-06T05:13:31Z"
   },
   {
     "id": "aws_5d8beffff7c05cb97c20",
@@ -9906,26 +9982,7 @@
       "885af312-9daf-4e68-a174-3aa5d32700b6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:46:48Z"
-  },
-  {
-    "id": "aws_44157517e3e84981c0ad",
-    "stationId": "awb_3b34622ba70dcb207c38",
-    "name": "RADYO GERÇEK",
-    "country": "TR",
-    "url": "https://ssl120.radyotelekom.com.tr:8198/",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "710f33b9-d5b3-4b3e-be13-29215a69ee01"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:16:11Z"
+    "lastCheckedAt": "2026-11-06T04:53:00Z"
   },
   {
     "id": "aws_ab646c7d45193ff23109",
@@ -9946,7 +10003,7 @@
       "e1480c4f-467f-44ec-8b57-653abdfc7c7e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:07:59Z"
+    "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
     "id": "aws_72ce23600c92bed1d83f",
@@ -10024,7 +10081,7 @@
       "f6516fa9-1e5b-4bc6-a196-35f8dd745496"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:19:30Z"
+    "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
     "id": "aws_ed9d11e273f28f572d63",
@@ -10062,7 +10119,7 @@
       "ca724316-2482-4c33-b6fb-e3a8e78b31f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:41:32Z"
+    "lastCheckedAt": "2026-11-06T01:55:46Z"
   },
   {
     "id": "aws_31060b741c650e183831",
@@ -10258,7 +10315,7 @@
       "6dee7a97-1edf-41ba-b6a8-66851be209b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:41:47Z"
+    "lastCheckedAt": "2026-11-06T03:46:59Z"
   },
   {
     "id": "aws_7108d73a3b84ff449797",
@@ -10355,7 +10412,7 @@
       "1f7b6f97-3840-4f8c-9d2c-1347fc11106a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:20:08Z"
+    "lastCheckedAt": "2026-11-06T04:25:50Z"
   },
   {
     "id": "aws_671728c88aefeaac3b23",
@@ -10393,7 +10450,7 @@
       "817c8b2d-df4b-4191-93cc-be9c9d87da1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:17:18Z"
+    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_b08f79dc2809f3f4c3c1",
@@ -10412,7 +10469,7 @@
       "f6f727fc-4d42-4e77-af7f-8b506ef0adc8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:24:00Z"
+    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_2e742936d6a17253673c",
@@ -10421,7 +10478,7 @@
     "country": "TR",
     "url": "https://live.sinirsizhost.com.tr/8038/stream",
     "codec": "mp3",
-    "bitrate": 96,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -10431,7 +10488,7 @@
       "f85ee60b-db9a-46ed-a403-d8755e159cfa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:56:55Z"
+    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_aa528c52b2c192fd8142",
@@ -10511,7 +10568,7 @@
       "TR:radyo-mega"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:04:04Z"
+    "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
     "id": "aws_eebdefa612fc9f9217fe",
@@ -10530,7 +10587,7 @@
       "dd2c6c92-54b1-45fb-a464-e528c016a007"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:03:36Z"
+    "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
     "id": "aws_bff5cdc0ca5e93e64972",
@@ -10550,7 +10607,7 @@
       "a56b8f78-0ca0-4363-a326-97735b67482e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T16:20:49Z"
+    "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
     "id": "aws_676cddbc298664c3dbd7",
@@ -10569,7 +10626,7 @@
       "4d48c1bd-ec23-40ac-bdf2-000255a053bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:47:37Z"
+    "lastCheckedAt": "2026-11-05T23:49:56Z"
   },
   {
     "id": "aws_96ae0f5f56bd649ae0a3",
@@ -10609,7 +10666,7 @@
       "7a93dca8-3742-42d3-b581-8f04609d062c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:08:06Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_c800c91619c9cd12b1ed",
@@ -10843,7 +10900,7 @@
       "7ccb7f82-7dd6-11e8-b68b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:39:52Z"
+    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_eb2782edce04f8fee9d5",
@@ -10862,7 +10919,7 @@
       "aec438e2-74b3-11ea-b1cf-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:39:36Z"
+    "lastCheckedAt": "2026-11-06T03:46:59Z"
   },
   {
     "id": "aws_4273b052732af667d838",
@@ -10883,7 +10940,7 @@
       "e15a3233-3781-4056-831e-c07dd5fc60be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:23:53Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_538aaeb79ba428da49f5",
@@ -10902,7 +10959,7 @@
       "4aafd228-5266-4f76-a940-a07eb4014c1b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:03:40Z"
+    "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
     "id": "aws_16bfddd385d9878b6ee7",
@@ -10978,7 +11035,7 @@
       "472c014c-771e-479a-b2bd-6c535e43fe66"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:39:06Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_02e71d51f2f4d6d65297",
@@ -10997,7 +11054,7 @@
       "1c8bd5a0-3cd3-4596-bb0a-47a777cbf0dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:21:44Z"
+    "lastCheckedAt": "2026-11-06T05:36:11Z"
   },
   {
     "id": "aws_881f27fe05dd80d367ea",
@@ -11037,7 +11094,7 @@
       "ad4b38ec-ee71-4f15-8196-2cb71cbac328"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T01:32:08Z"
+    "lastCheckedAt": "2026-11-06T07:32:42Z"
   },
   {
     "id": "aws_f35ab2875bddf3ceb2a4",
@@ -11098,7 +11155,7 @@
       "3bc2e65e-76da-4b32-89f6-0fde42ec19c0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:22:04Z"
+    "lastCheckedAt": "2026-11-06T01:39:21Z"
   },
   {
     "id": "aws_59fdf913b1bc8be52a03",
@@ -11117,7 +11174,7 @@
       "960e5bb2-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:17:12Z"
+    "lastCheckedAt": "2026-11-06T09:33:53Z"
   },
   {
     "id": "aws_bcf746698c3a94e835ae",
@@ -11178,7 +11235,7 @@
       "b5981132-7fdd-43cf-9433-eaa712b8ee21"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:45:45Z"
+    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_26c29ee5e2deb29c8746",
@@ -11197,7 +11254,7 @@
       "22d9ea0f-9fcc-4a6c-9924-4396e3f51efd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:16:31Z"
+    "lastCheckedAt": "2026-11-06T06:19:33Z"
   },
   {
     "id": "aws_4799d83ec0c07074c62a",
@@ -11235,7 +11292,7 @@
       "32c900dc-1027-486b-8397-efd57ad5c2fb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:02:27Z"
+    "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
     "id": "aws_be06d183ca1b67a2ceda",
@@ -11275,7 +11332,7 @@
       "TR:radyo-trio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T15:32:56Z"
+    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_656ac77c77deb3ae5c3f",
@@ -11294,7 +11351,7 @@
       "103e4ac1-09ef-4d89-afe2-5f3ae92576ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:08:57Z"
+    "lastCheckedAt": "2026-11-06T04:15:22Z"
   },
   {
     "id": "aws_d2fefca78a1053e43f3f",
@@ -11353,7 +11410,7 @@
       "390fa352-d8bb-47fc-9d7a-867b5ba70486"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:56:55Z"
+    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_36987dd06f2e0209ba51",
@@ -11434,7 +11491,7 @@
       "9ba83d03-ea3e-4726-8a48-85408d58c44d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T17:55:04Z"
+    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_c00ced6a812bafc0a8e1",
@@ -11472,7 +11529,7 @@
       "d87dc8ce-7984-4189-98d8-6e7a3440e8ba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:06:23Z"
+    "lastCheckedAt": "2026-11-06T07:07:39Z"
   },
   {
     "id": "aws_abe04240303dbd3750a7",
@@ -11491,7 +11548,7 @@
       "cc84b14e-6f8d-45a1-b144-d7f25242c9d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:43:54Z"
+    "lastCheckedAt": "2026-11-06T03:12:30Z"
   },
   {
     "id": "aws_c9c7eeb0a515cdee353e",
@@ -11548,7 +11605,7 @@
       "0e1f221a-2ff0-458e-b3eb-d124052b96f2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:43:57Z"
+    "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
     "id": "aws_c28e6a9ef053048285af",
@@ -11569,7 +11626,7 @@
       "TR:radyo-yalova"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:20:16Z"
+    "lastCheckedAt": "2026-11-06T10:43:21Z"
   },
   {
     "id": "aws_b589e778875d41241e63",
@@ -11607,7 +11664,7 @@
       "f98e9c03-6014-4a91-b19d-a44e13130d7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:36:03Z"
+    "lastCheckedAt": "2026-11-05T23:56:27Z"
   },
   {
     "id": "aws_7f7fafbb3c89f8be339b",
@@ -11647,7 +11704,7 @@
       "75f4faad-b3e8-4601-a895-5a5ec8981343"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:41:10Z"
+    "lastCheckedAt": "2026-11-06T00:45:21Z"
   },
   {
     "id": "aws_c00f647c2b86b0f1b7fb",
@@ -11706,7 +11763,7 @@
       "84e38e40-cd43-459e-9562-0c9685e94c34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:34:03Z"
+    "lastCheckedAt": "2026-11-06T05:36:11Z"
   },
   {
     "id": "aws_4c95514f48606d945b09",
@@ -11725,7 +11782,7 @@
       "061dc385-109f-4dea-bf49-1336012c99a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:56:55Z"
+    "lastCheckedAt": "2026-11-06T08:05:46Z"
   },
   {
     "id": "aws_0efc1d31fe40c1723c3b",
@@ -11744,7 +11801,7 @@
       "323812ef-371d-47d1-afe9-6de04f009fce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:05:08Z"
+    "lastCheckedAt": "2026-11-06T06:08:42Z"
   },
   {
     "id": "aws_bc6794a1d7ccfb9a1779",
@@ -11763,7 +11820,7 @@
       "5fd8b6b8-0e1f-4c91-ba5f-e6e1427a878f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:38:55Z"
+    "lastCheckedAt": "2026-11-06T05:41:46Z"
   },
   {
     "id": "aws_f50802590d19d6268460",
@@ -11843,7 +11900,7 @@
       "43b61654-8c90-11e9-ad01-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:39:06Z"
+    "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
     "id": "aws_09be1a5672c153a8de98",
@@ -11881,7 +11938,7 @@
       "396990b5-cff9-47a3-b26f-ed35b405962d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:15:03Z"
+    "lastCheckedAt": "2026-11-06T09:30:27Z"
   },
   {
     "id": "aws_455e84c08bcddf25eeea",
@@ -11900,7 +11957,7 @@
       "f46991cd-9e4c-46ff-9f67-2f0da2f288f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:30:39Z"
+    "lastCheckedAt": "2026-11-06T04:42:42Z"
   },
   {
     "id": "aws_4f7d2b6e923ceb3f3bd7",
@@ -11961,7 +12018,7 @@
       "f39f52d9-2c9f-4f31-8f46-68ade8bdc2e6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:59:01Z"
+    "lastCheckedAt": "2026-11-06T06:04:07Z"
   },
   {
     "id": "aws_6236bf7df2cfb8e15020",
@@ -11980,7 +12037,7 @@
       "63410135-4ae6-11e8-9b06-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:15:27Z"
+    "lastCheckedAt": "2026-11-06T08:19:17Z"
   },
   {
     "id": "aws_26418429cc8fd50cbc94",
@@ -11999,7 +12056,7 @@
       "6177cf2e-d597-43d3-9cde-6cfb1089e4fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:31:04Z"
+    "lastCheckedAt": "2026-11-06T01:32:34Z"
   },
   {
     "id": "aws_f1f093255fe22e169689",
@@ -12057,7 +12114,7 @@
       "f9655ac2-b82c-49f4-b6d3-617bf41c26c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T11:04:15Z"
+    "lastCheckedAt": "2026-11-06T02:36:16Z"
   },
   {
     "id": "aws_e66b75d7c383a75fa0bc",
@@ -12097,7 +12154,7 @@
       "d9eb277b-f0d6-4c02-aeaa-273521944bec"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T09:15:03Z"
+    "lastCheckedAt": "2026-11-06T09:30:27Z"
   },
   {
     "id": "aws_5dc1cf1aa9043d72a516",
@@ -12116,7 +12173,7 @@
       "0c8bca4e-f472-4821-a502-ce8a39ae22f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:17:56Z"
+    "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
     "id": "aws_957fc00746ff721d8b42",
@@ -12135,7 +12192,7 @@
       "cc0b79fe-209b-4b75-ae2e-0f1dc24e7caf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T03:53:31Z"
+    "lastCheckedAt": "2026-11-06T04:14:28Z"
   },
   {
     "id": "aws_0f9d70b913c0ad968591",
@@ -12173,7 +12230,7 @@
       "2f8c9009-4a7f-46eb-bf5e-0dcff537d09f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:29:53Z"
+    "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
     "id": "aws_8d15555bbab205901a08",
@@ -12192,7 +12249,7 @@
       "ddf94722-dd93-4fb5-ac19-ad42649a30e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:56:55Z"
+    "lastCheckedAt": "2026-11-06T06:08:42Z"
   },
   {
     "id": "aws_7b37f41b36bfaf1d614d",
@@ -12291,7 +12348,7 @@
       "c230aa86-0eea-45df-a243-ae25ba23898c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T01:16:46Z"
+    "lastCheckedAt": "2026-11-06T06:55:24Z"
   },
   {
     "id": "aws_39e9613533e768c29a58",
@@ -12310,7 +12367,7 @@
       "7f1ef327-ff1c-4027-b679-59e5cf2739c6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:40:03Z"
+    "lastCheckedAt": "2026-11-06T02:53:23Z"
   },
   {
     "id": "aws_0701edebf10ee7af0a22",
@@ -12349,7 +12406,7 @@
       "83ff951e-113e-4a50-9be7-3a730f472e05"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:12:09Z"
+    "lastCheckedAt": "2026-11-06T08:19:17Z"
   },
   {
     "id": "aws_ced6c881a4bb72bba0c8",
@@ -12410,26 +12467,7 @@
       "TR:slow-turk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T18:41:19Z"
-  },
-  {
-    "id": "aws_790877287ab2c10996ac",
-    "stationId": "awb_01e5c26693d7384c47d1",
-    "name": "SOFT RADYO",
-    "country": "TR",
-    "url": "https://radyo.softradyo.com/1140/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4ecde206-b5bd-48df-afeb-c13224ed05fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:23:05Z"
+    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_7c1c2d5839fce24f9589",
@@ -12514,7 +12552,7 @@
     "stationId": "awb_dd7890e036c7225609d5",
     "name": "Süper FM",
     "country": "TR",
-    "url": "http://27913.live.streamtheworld.com/SUPER_FMAAC_SC",
+    "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
     "codec": "aac+",
     "bitrate": 64,
     "protocol": "http",
@@ -12526,7 +12564,7 @@
       "159e4625-43d8-4cda-b98c-819edfad8667"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:41:10Z"
+    "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
     "id": "aws_768078fdc85d63b40330",
@@ -12627,7 +12665,7 @@
       "433d61d2-07f2-445e-ba8b-9bb80e547d53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:14:12Z"
+    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_406cef91c7b8fdb98afd",
@@ -12669,7 +12707,7 @@
       "ea36dc14-cf97-4e57-b0e0-9b21a52344e6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:56:07Z"
+    "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
     "id": "aws_136ce0ca62ab50242df2",
@@ -12688,7 +12726,7 @@
       "d9b7bdc3-3140-43be-bb70-b5a664cf3699"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:14:12Z"
+    "lastCheckedAt": "2026-11-06T06:21:16Z"
   },
   {
     "id": "aws_556cdffba2f408d8d736",
@@ -12707,7 +12745,7 @@
       "cb88da85-37d9-4d62-ad11-e9b8a7fd5b75"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:57:31Z"
+    "lastCheckedAt": "2026-11-06T08:59:28Z"
   },
   {
     "id": "aws_0844d6bafe4762b4fbc2",
@@ -12726,7 +12764,7 @@
       "86f7abc5-a65e-43ac-817f-e3b87f734fa1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:31:11Z"
+    "lastCheckedAt": "2026-11-06T06:33:26Z"
   },
   {
     "id": "aws_a1ad24a2d1d2ed523fe5",
@@ -12766,7 +12804,7 @@
       "ff3b8372-1f59-4b18-a4fc-2240b8ab5417"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:31:02Z"
+    "lastCheckedAt": "2026-11-06T08:34:42Z"
   },
   {
     "id": "aws_2d97708637482a09e177",
@@ -12804,7 +12842,7 @@
       "39ef6b9b-e5e4-4f3f-af5b-340448cbadd3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T22:11:25Z"
+    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_8aebe097b368cfd78360",
@@ -12823,7 +12861,7 @@
       "172f5b80-a44b-4218-b5ad-703bafad417c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:58:55Z"
+    "lastCheckedAt": "2026-11-06T07:03:44Z"
   },
   {
     "id": "aws_046ee798c1e15e6aefec",
@@ -12842,7 +12880,7 @@
       "e6b49745-baa3-41b5-9c43-9cb8284139dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:42:55Z"
+    "lastCheckedAt": "2026-11-05T23:49:56Z"
   },
   {
     "id": "aws_5a21fcd5c71cd05932ec",
@@ -12861,7 +12899,7 @@
       "c800a509-eaa3-419a-a49c-b59261a8ba68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:21:43Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_dc4ab2cf5c2d5ea370ff",
@@ -12880,7 +12918,7 @@
       "106c740c-1852-4b7b-82e1-927656bdf465"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:44:22Z"
+    "lastCheckedAt": "2026-11-06T05:49:38Z"
   },
   {
     "id": "aws_7212f0b2bfeb76c8a3d1",
@@ -12899,7 +12937,7 @@
       "1875f45a-e465-4b0f-88cf-c6ebc305d9cc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:24:53Z"
+    "lastCheckedAt": "2026-11-06T02:26:30Z"
   },
   {
     "id": "aws_2b54ade2bb4fb0aedd08",
@@ -12918,7 +12956,7 @@
       "1bcee7d4-7c70-4f26-b56d-e2f9095d0e3e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T06:45:49Z"
+    "lastCheckedAt": "2026-11-06T06:51:19Z"
   },
   {
     "id": "aws_df9e37f7a5c9dfa9de4b",
@@ -12956,7 +12994,7 @@
       "8e74c7ea-691a-4f48-b0cd-b9321d263ab9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:19:30Z"
+    "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
     "id": "aws_1a10f35fe54ad3c64018",
@@ -12965,7 +13003,7 @@
     "country": "TR",
     "url": "https://trt.radyotvonline.net/trtfm",
     "codec": "aac+",
-    "bitrate": 129,
+    "bitrate": 130,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -12977,7 +13015,7 @@
       "TR:trt-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T21:46:17Z"
+    "lastCheckedAt": "2026-11-06T01:40:01Z"
   },
   {
     "id": "aws_19c31109ee2f26724799",
@@ -12986,7 +13024,7 @@
     "country": "TR",
     "url": "https://trt.radyotvonline.net/trthaber",
     "codec": "aac+",
-    "bitrate": 132,
+    "bitrate": 130,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -12996,7 +13034,7 @@
       "b00cbc7c-427c-4c5d-a98f-2055a3628ac3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:39:52Z"
+    "lastCheckedAt": "2026-11-06T08:59:28Z"
   },
   {
     "id": "aws_2a7ef6c44618a62f8446",
@@ -13034,7 +13072,7 @@
       "a2a5e434-cb89-428c-9abc-d741f600a06f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:12:50Z"
+    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_53c5c9e713e6f60b8ee9",
@@ -13053,7 +13091,7 @@
       "dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:32:48Z"
+    "lastCheckedAt": "2026-11-06T02:45:20Z"
   },
   {
     "id": "aws_2dd6ea36f741f89d931e",
@@ -13074,7 +13112,7 @@
       "TR:trt-radyo-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:13:38Z"
+    "lastCheckedAt": "2026-11-06T01:23:52Z"
   },
   {
     "id": "aws_00480c50b4bb384e9ae4",
@@ -13093,7 +13131,7 @@
       "f2bce1ef-81b1-41cd-9052-8d3213ae2031"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:23:45Z"
+    "lastCheckedAt": "2026-11-06T05:30:33Z"
   },
   {
     "id": "aws_914f003cd366661be4c5",
@@ -13171,7 +13209,7 @@
       "b9d6e583-8e08-4d70-a589-8b15fc4563c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:12:08Z"
+    "lastCheckedAt": "2026-11-06T08:30:58Z"
   },
   {
     "id": "aws_e63607c23fcc5835a401",
@@ -13190,7 +13228,7 @@
       "9ae4d719-d27f-455e-9005-9df94718c08f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:39:52Z"
+    "lastCheckedAt": "2026-11-06T08:50:25Z"
   },
   {
     "id": "aws_8f182b062b28f497ac43",
@@ -13228,7 +13266,7 @@
       "4a59d1f8-8496-4197-b4b4-37febe87cf9b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:02:20Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_d8c65f5247793de5d45b",
@@ -13285,7 +13323,7 @@
       "b287ab0e-3cb6-40b3-8da1-efa2a8f0433a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:32:48Z"
+    "lastCheckedAt": "2026-11-06T02:53:23Z"
   },
   {
     "id": "aws_510b207aeba6be830007",
@@ -13323,7 +13361,7 @@
       "811d9ec1-4b69-4759-8af6-682f5161eada"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T11:05:10Z"
+    "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
     "id": "aws_5ae91b566553303dfee3",
@@ -13365,7 +13403,7 @@
       "TR:turkiyem-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T00:49:47Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_b8b608caced6e2ddb296",
@@ -13424,7 +13462,7 @@
       "c7219824-110c-4d30-b6dd-c60a39ea7907"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:04:38Z"
+    "lastCheckedAt": "2026-11-06T04:09:40Z"
   },
   {
     "id": "aws_8bca8f49f08d6c8fba66",
@@ -13444,7 +13482,7 @@
       "43419b09-da78-4b2f-816d-3c7e0a60e528"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T20:19:36Z"
+    "lastCheckedAt": "2026-11-06T03:43:29Z"
   },
   {
     "id": "aws_45425f9866091d3ae352",
@@ -13522,7 +13560,7 @@
       "3cb7e617-ead1-4a88-9239-802050b33a13"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:50:51Z"
+    "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
     "id": "aws_8228313dbf27a5ad862b",
@@ -13638,7 +13676,7 @@
       "12bfad45-0b08-41d0-a7d0-675856a7be50"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:05:20Z"
+    "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
     "id": "aws_d7fde1bb0e5eeda4f8d4",
@@ -13676,7 +13714,7 @@
       "62402197-6bcd-4bba-8577-ef025800b453"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:33:10Z"
+    "lastCheckedAt": "2026-11-06T08:35:38Z"
   },
   {
     "id": "aws_915de08db806aa8d96f0",
@@ -13695,7 +13733,45 @@
       "69b2765c-6654-4b45-a591-3c508b735075"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T05:38:55Z"
+    "lastCheckedAt": "2026-11-06T05:41:46Z"
+  },
+  {
+    "id": "aws_2beb14d43709fdaf90ca",
+    "stationId": "awb_bab0732e8a93f5538afe",
+    "name": "Virgin Radio Türkiye",
+    "country": "TR",
+    "url": "http://25443.live.streamtheworld.com:3690/VIRGIN_RADIO_SC",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "960969eb-0601-11e8-ae97-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T01:44:50Z"
+  },
+  {
+    "id": "aws_fcfec91e0419748a442e",
+    "stationId": "awb_bab0732e8a93f5538afe",
+    "name": "Virgin Radio Türkiye",
+    "country": "TR",
+    "url": "http://25643.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "14e157f8-3804-4b74-9086-0a168b8719e1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T02:26:30Z"
   },
   {
     "id": "aws_06b1127c698489b5c021",
@@ -13715,45 +13791,7 @@
       "d40a095c-63dd-4c25-ab89-8bc33505786c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T08:27:06Z"
-  },
-  {
-    "id": "aws_2beb14d43709fdaf90ca",
-    "stationId": "awb_bab0732e8a93f5538afe",
-    "name": "Virgin Radio Türkiye",
-    "country": "TR",
-    "url": "http://29344.live.streamtheworld.com:3690/VIRGIN_RADIO_SC",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960969eb-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:33:25Z"
-  },
-  {
-    "id": "aws_fcfec91e0419748a442e",
-    "stationId": "awb_bab0732e8a93f5538afe",
-    "name": "Virgin Radio Türkiye",
-    "country": "TR",
-    "url": "http://29344.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14e157f8-3804-4b74-9086-0a168b8719e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T02:23:20Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_c2eff10549c94ae845cf",
@@ -13772,7 +13810,7 @@
       "82c18698-9cf7-4bf3-a737-998a47b02407"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-10-31T23:21:26Z"
+    "lastCheckedAt": "2026-11-05T23:33:02Z"
   },
   {
     "id": "aws_5ebfea1307198a3a8ef0",
@@ -13791,7 +13829,7 @@
       "afb22103-298e-4407-bc40-6a16cbb50465"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T01:13:38Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_4dde964ab8df14e2c5c6",
@@ -13800,7 +13838,7 @@
     "country": "TR",
     "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
     "codec": "aac+",
-    "bitrate": 127,
+    "bitrate": 128,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -13810,7 +13848,7 @@
       "ff876840-a4d3-49a6-ab6e-b879a22bd88c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T04:16:42Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_8a84c23727c97ea025a8",
@@ -13888,7 +13926,7 @@
       "TR:x-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T12:01:53Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_18e82bb89ea1e0940a41",
@@ -13985,7 +14023,7 @@
       "da574b9d-d86a-4cef-81a2-fde612759a0d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T10:27:37Z"
+    "lastCheckedAt": "2026-11-06T10:42:38Z"
   },
   {
     "id": "aws_fed4b59f27d2520026e5",
@@ -14004,7 +14042,7 @@
       "3fdf15a4-685f-422c-bfee-49af64f5dbd1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-01T07:06:23Z"
+    "lastCheckedAt": "2026-11-06T07:08:32Z"
   },
   {
     "id": "aws_36dae08c8fb7e4037b9c",

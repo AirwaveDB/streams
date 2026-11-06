@@ -375,7 +375,7 @@ https://s6.myradiostream.com:48146/listen.mp3
 https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8?source=web
 #EXTINF:-1 station-id="awb_c9165c2b830689163232" stream-id="aws_96133a3bd6daa4ca78fa" codec="aac" bitrate="115",666 ABC Canberra
 https://streaming.abc-cdn.net.au/audio/hls/localcanberra.m3u8?source=web
-#EXTINF:-1 station-id="awb_42744c9c4d235e623a34" stream-id="aws_23c7757134b089b9da56" codec="" bitrate="0",6DBY Larrkadi Radio 97.9
+#EXTINF:-1 station-id="awb_42744c9c4d235e623a34" stream-id="aws_23c7757134b089b9da56" codec="mp3" bitrate="128",6DBY Larrkadi Radio 97.9
 https://firstnationsmedia.stream/8042/stream
 #EXTINF:-1 station-id="awb_19f138791d1db465d09f" stream-id="aws_842d64057618f9ee3b26" codec="mp3" bitrate="48",6PR - Perth - 882 AM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3
@@ -409,7 +409,7 @@ https://stream2.cnmns.net/wayfm-mp3
 https://27163.live.streamtheworld.com/QUE_7XSAAC_SC
 #EXTINF:-1 station-id="awb_0c4a6bb2628cb42a4150" stream-id="aws_f812f3e8cfc1ba3334ed" codec="mp3" bitrate="192",8-bit Remix Radio
 https://terminal-dystopia.com/radio/stream.mp3
-#EXTINF:-1 station-id="awb_8b6bb977e85c1c6bf113" stream-id="aws_f8c136ed1f4cb89d5f0a" codec="aac+" bitrate="192",80s 90s Super Pop Hits
+#EXTINF:-1 station-id="awb_8b6bb977e85c1c6bf113" stream-id="aws_f8c136ed1f4cb89d5f0a" codec="mp3" bitrate="192",80s 90s Super Pop Hits
 https://s4.myradiostream.com:7344/listen.mp3?
 #EXTINF:-1 station-id="awb_f4c1ec457c2a0caf8bdb" stream-id="aws_5ec3accb137d427e5f89" codec="mp3" bitrate="320",88.3 Southern FM
 https://stream.swifthosting.com.au/;
@@ -429,6 +429,8 @@ https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
 http://playerservices.streamtheworld.com/api/livestream-redirect/8CCCAAC.aac
 #EXTINF:-1 station-id="awb_cea1de47baf2ca6be53b" stream-id="aws_143a1b927b306f84d638" codec="mp3" bitrate="128",8CCC - Alice Springs / Tennant Creek - 102.1 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/8CCC.mp3
+#EXTINF:-1 station-id="awb_15196bcdac1689dda700" stream-id="aws_7ec461e7c3d7a7eaac41" codec="aac" bitrate="128",8KIN CAAMA Radio
+https://streamer.radio.co:80/sa67d9a81d/listen
 #EXTINF:-1 station-id="awb_5e8fbbabc4cca3bc3e9f" stream-id="aws_18246f8d6ce878e7a4d4" codec="mp3" bitrate="128",90.1 Happy Fm
 https://stream.sigile.net/happyfm-128-mp3?1692452622660
 #EXTINF:-1 station-id="awb_44ddaa63acabcd773309" stream-id="aws_a4b2e8eb29722ea0628a" codec="mp3" bitrate="64",90.1 NBC FM - Narwee - 90.1 FM (AAC)
@@ -494,7 +496,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FM.mp
 #EXTINF:-1 station-id="awb_b35a63be5df5f8b54591" stream-id="aws_48f7f539642158858832" codec="mp3" bitrate="192",98.9 TYGA FM New Norfolk
 https://radio12.shoutcast.net.au:2020/stream/8012
 #EXTINF:-1 station-id="awb_52ea3648653a67b0541e" stream-id="aws_9f8ee15caf7a4ec0ac9a" codec="aac+" bitrate="128",99.7 Bridge FM
-http://14533.live.streamtheworld.com/997BRIDGEFMAAC_SC
+http://28863.live.streamtheworld.com/997BRIDGEFMAAC_SC
 #EXTINF:-1 station-id="awb_e3c6b27f9b0e0508ca75" stream-id="aws_703dd4aa2626c290477a" codec="aac+" bitrate="128",99.7 Bridge FM - Redcliffe - 99.7 FM (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFMAAC.aac
 #EXTINF:-1 station-id="awb_1ccea3fbc62240890457" stream-id="aws_88ee817ab2cf474b4094" codec="mp3" bitrate="128",99.7 Bridge FM - Redcliffe - 99.7 FM (MP3)
@@ -1809,7 +1811,7 @@ https://streaming.alastair.tech/listen/edgeradio/live
 https://emfm-https.rezuru.com:9300/;
 #EXTINF:-1 station-id="awb_35d0dc3aed80dbda7fee" stream-id="aws_363c54fbbab44bbdac6c" codec="mp3" bitrate="192",Equinox Radio
 https://equinoxradio.app/stream.mp3
-#EXTINF:-1 station-id="awb_a078f1fc05c609bbc1fe" stream-id="aws_ca1278b7ba38c26a0c1c" codec="" bitrate="0",Faith FM Australia
+#EXTINF:-1 station-id="awb_a078f1fc05c609bbc1fe" stream-id="aws_ca1278b7ba38c26a0c1c" codec="mp3" bitrate="96",Faith FM Australia
 http://stream1.faithfm.com.au/FaithFM.mp3
 #EXTINF:-1 station-id="awb_85c59cedbf1c42e0499e" stream-id="aws_db4ea7374855df033742" codec="mp3" bitrate="0",FBi Radio
 https://streamer.fbiradio.com/stream
@@ -1971,8 +1973,6 @@ http://s2.stationplaylist.com:7082/listen.aac
 https://hq3.yesstreaming.net/happyradio/stream
 #EXTINF:-1 station-id="awb_4c8218b54a13a5d4bc8a" stream-id="aws_4fe6cedc79ca59ae9bf8" codec="mp3" bitrate="48",Harman Radio Australia
 http://harmanradio.net:8000/main_48.mp3
-#EXTINF:-1 station-id="awb_4c8218b54a13a5d4bc8a" stream-id="aws_f5bbfa0143ff219808df" codec="aac+" bitrate="48",Harman Radio Australia
-https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3
 #EXTINF:-1 station-id="awb_c22f62c501ed91af5974" stream-id="aws_4590070ef8e71b467bf0" codec="mp3" bitrate="48",Harman Radio Australia HQ
 http://harmanradio.net:8000/channel1_HQ.mp3
 #EXTINF:-1 station-id="awb_2d87ded89fb2a5b16439" stream-id="aws_d08eab39e2f8b9bd4535" codec="mp3" bitrate="128",HarryOnCountryRadio - Brisbane (MP3)
@@ -2135,7 +2135,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.a
 http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3
 #EXTINF:-1 station-id="awb_410360caea6d569e3b12" stream-id="aws_a3016c7eecec21e3d87b" codec="aac+" bitrate="32",KLFM Bendigo 96.5
 https://streamer5.rightclickitservices.com:18006/aac
-#EXTINF:-1 station-id="awb_23d5a6b1bf4d27ff3042" stream-id="aws_a11f196508fde08e492a" codec="" bitrate="0",Kool FM Innisfail 98.3
+#EXTINF:-1 station-id="awb_23d5a6b1bf4d27ff3042" stream-id="aws_a11f196508fde08e492a" codec="mp3" bitrate="128",Kool FM Innisfail 98.3
 https://stream03.syd.hostgeek.com.au/koolfm/stream
 #EXTINF:-1 station-id="awb_108f1213d7e762c34a54" stream-id="aws_f3a990bf452f41b5110d" codec="mp3" bitrate="96",Kool Muzik
 http://51.75.118.75:20257/groove
@@ -2164,6 +2164,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFM.mp3
 #EXTINF:-1 station-id="awb_4bbd79553d9a3744aedc" stream-id="aws_344820631a7cf5f2d076" codec="mp3" bitrate="128",Lainchan Radio Main
 https://radio.lainchan.org/listen/lainchan_radio_main/radio.mp3
 #EXTINF:-1 station-id="awb_f93610307dab5e12883b" stream-id="aws_fc62423ff0466e0c6729" codec="aac+" bitrate="32",Lake Macquarie FM - Lake Macquarie - 97.3 FM (AAC+)
+http://lmfm.f1.net.au:10768/;
+#EXTINF:-1 station-id="awb_ddc7170f125b9d48b55f" stream-id="aws_06df34781844844a1343" codec="aac+" bitrate="32",Lake Macquarie FM 97.3
 http://lmfm.f1.net.au:10768/;
 #EXTINF:-1 station-id="awb_2ece20f82044c45eeb70" stream-id="aws_8c04a2bafe5bea50aed2" codec="mp3" bitrate="128",Latinos FM
 https://colombiawebs.com.co/proxy/latinosf/stream
@@ -2195,19 +2197,19 @@ http://sa46.scastream.com.au/live/790ssoftpop_128.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/afrobeats.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_d1df92db72605ae45cec" stream-id="aws_96f810aeb42945652340" codec="aac" bitrate="130",LiSTNR - Almost Acoustic (HLS)
 http://sa46.scastream.com.au/live/7almostacoustic_128.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_f5901eda8ce7577cfa0c" stream-id="aws_91c21134b371f2de06e6" codec="aac+" bitrate="63",LiSTNR - Almost Acoustic: Pop (HLS)
+#EXTINF:-1 station-id="awb_f5901eda8ce7577cfa0c" stream-id="aws_91c21134b371f2de06e6" codec="aac+" bitrate="64",LiSTNR - Almost Acoustic: Pop (HLS)
 http://sa47.scastream.com.au/live/aa-pop.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_053d6944cd7d1bf6cbfc" stream-id="aws_c62ef9f7470bf3e93854" codec="unknown" bitrate="0",LiSTNR - Aussie Dance
 https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_6cc594ca09bb39b0d52d" stream-id="aws_8639345c4a8ead48a508" codec="aac+" bitrate="64",LiSTNR - Aussie Dance (HLS)
 http://sa46.scastream.com.au/live/aussiedance.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_63591b02bc7d9555598b" stream-id="aws_20a4ca8faa90ef5d6888" codec="aac+" bitrate="64",LiSTNR - Aussie Hip Hop (HLS)
+#EXTINF:-1 station-id="awb_63591b02bc7d9555598b" stream-id="aws_20a4ca8faa90ef5d6888" codec="aac+" bitrate="63",LiSTNR - Aussie Hip Hop (HLS)
 http://sa46.scastream.com.au/live/aus-hiphop.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_decaeda86665adc0200a" stream-id="aws_2b57f147d3ae928fb251" codec="aac" bitrate="130",LiSTNR - Aussie Pub Rock (HLS)
 http://sa46.scastream.com.au/live/7mushroom50_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4047e1582da56f9abce8" stream-id="aws_63d2773b475fd7d5e60b" codec="unknown" bitrate="0",LiSTNR - Backyard BBQ (HLS)
 http://wz0liw.scahw.com.au/live/backyard-bbq.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_6000897e9984abb3ff36" stream-id="aws_8bb7589df723de1ef5a4" codec="aac+" bitrate="64",LiSTNR - big sad (HLS)
+#EXTINF:-1 station-id="awb_6000897e9984abb3ff36" stream-id="aws_8bb7589df723de1ef5a4" codec="aac+" bitrate="63",LiSTNR - big sad (HLS)
 http://sa47.scastream.com.au/live/big-sad.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4bbfc21a9ebc92f72acc" stream-id="aws_9c67076f685fd4c3867f" codec="unknown" bitrate="0",LiSTNR - Billion Streams Club
 http://wz0liw.scahw.com.au/live/billion-streams.stream/playlist.m3u8
@@ -2215,7 +2217,7 @@ http://wz0liw.scahw.com.au/live/billion-streams.stream/playlist.m3u8
 http://sa46.scastream.com.au/live/billion-streams.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_66a174b2b9ef856004f0" stream-id="aws_8716471b27c540774356" codec="aac+" bitrate="64",LiSTNR - Brit Rock Essentials (HLS)
 http://sa47.scastream.com.au/live/intro-britpop.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_9ae847202faca1a7978d" stream-id="aws_1a9a495a86586d2483f9" codec="aac+" bitrate="63",LiSTNR - Broadway Bound (HLS)
+#EXTINF:-1 station-id="awb_9ae847202faca1a7978d" stream-id="aws_1a9a495a86586d2483f9" codec="aac+" bitrate="64",LiSTNR - Broadway Bound (HLS)
 http://sa47.scastream.com.au/live/broadway-bound.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_b6e3150095ede3adca65" stream-id="aws_ef3b0bea52118e911733" codec="aac" bitrate="130",LiSTNR - Buddha (HLS)
 http://sa46.scastream.com.au/live/2buddha_128.stream/playlist.m3u8
@@ -2259,11 +2261,11 @@ http://wz0liw.scahw.com.au/live/easy-office-vibes.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/essential-emo.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_9bb532a73c03f65532f3" stream-id="aws_e10eddb633cfe5fda0a7" codec="aac+" bitrate="64",LiSTNR - Essential Emo (HLS)
 http://sa46.scastream.com.au/live/essential-emo.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_002cec42ac313460e0c1" stream-id="aws_5e230da46212f1c837bc" codec="aac+" bitrate="64",LiSTNR - Euro Summer (HLS)
+#EXTINF:-1 station-id="awb_002cec42ac313460e0c1" stream-id="aws_5e230da46212f1c837bc" codec="aac+" bitrate="63",LiSTNR - Euro Summer (HLS)
 http://sa47.scastream.com.au/live/euro-summer.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_f23ca58f10e9d8f88999" stream-id="aws_6c91b55b33188c24e92e" codec="unknown" bitrate="0",LiSTNR - Fans of Ed Sheeran (HLS)
 http://wz0liw.scahw.com.au/live/fans-of-ed-sheeran.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_51721603e1baf874076f" stream-id="aws_33a28964e2da0f31f10b" codec="aac+" bitrate="64",LiSTNR - Fans of FISHER (HLS)
+#EXTINF:-1 station-id="awb_51721603e1baf874076f" stream-id="aws_33a28964e2da0f31f10b" codec="aac+" bitrate="63",LiSTNR - Fans of FISHER (HLS)
 http://sa47.scastream.com.au/live/fisher.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_6e7662158f1b3b229fb5" stream-id="aws_995a2b4ad17bfc63b8bc" codec="unknown" bitrate="0",LiSTNR - Fans of Lady Gaga (HLS)
 http://wz0liw.scahw.com.au/live/gaga.stream/playlist.m3u8
@@ -2323,7 +2325,7 @@ http://sa46.scastream.com.au/live/7firstnations_128.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_10a7e8b7a071c9a429d4" stream-id="aws_52e29f05989eae48a558" codec="aac+" bitrate="63",LiSTNR - K-Pop (HLS)
 http://sa46.scastream.com.au/live/k-pop.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_4b9fab714fa397c18b13" stream-id="aws_36f5e64883bdbaf7150e" codec="aac+" bitrate="64",LiSTNR - Key Ingredient (HLS)
+#EXTINF:-1 station-id="awb_4b9fab714fa397c18b13" stream-id="aws_36f5e64883bdbaf7150e" codec="aac+" bitrate="63",LiSTNR - Key Ingredient (HLS)
 http://sa47.scastream.com.au/live/key-ingredient.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_6602a32e5abcae9c2262" stream-id="aws_2b4502eefd7dfe702b0f" codec="unknown" bitrate="0",LiSTNR - Kids Hits (HLS)
 http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8
@@ -2373,7 +2375,7 @@ http://wz0liw.scahw.com.au/live/rainforest_128.stream/playlist.m3u8
 http://sa47.scastream.com.au/live/rainforest_128.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_cdd16b1cd3b42578bb42" stream-id="aws_8fd6b3f9564848db678b" codec="unknown" bitrate="0",LiSTNR - Rap Revolution
 http://wz0liw.scahw.com.au/live/rap-revolution.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_2b22c79c17587857450a" stream-id="aws_41ea466456a3e7a24fa6" codec="aac+" bitrate="63",LiSTNR - Rap Revolution (HLS)
+#EXTINF:-1 station-id="awb_2b22c79c17587857450a" stream-id="aws_41ea466456a3e7a24fa6" codec="aac+" bitrate="64",LiSTNR - Rap Revolution (HLS)
 http://sa47.scastream.com.au/live/rap-revolution.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_97dd2723908953211e85" stream-id="aws_f493a40ce7aff0d69236" codec="aac+" bitrate="64",LiSTNR - Rap Royalty (HLS)
 http://sa46.scastream.com.au/live/rap-royalty.stream/playlist.m3u8
@@ -2391,7 +2393,7 @@ http://sa47.scastream.com.au/live/rock-101.stream/playlist.m3u8
 http://wz0liw.scahw.com.au/live/romcom.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_0a7dedd50de899a8d17a" stream-id="aws_b57c86045b84fc2d9397" codec="unknown" bitrate="0",LiSTNR - Run Club
 http://wz0liw.scahw.com.au/live/run-club.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_c1969a5cb0a086832d3a" stream-id="aws_cf5433b7485400816070" codec="aac+" bitrate="64",LiSTNR - Run Club (HLS)
+#EXTINF:-1 station-id="awb_c1969a5cb0a086832d3a" stream-id="aws_cf5433b7485400816070" codec="aac+" bitrate="63",LiSTNR - Run Club (HLS)
 http://sa47.scastream.com.au/live/run-club.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_eb9996716041c24a57fa" stream-id="aws_de545bbfc288113271c2" codec="unknown" bitrate="0",LiSTNR - Sleep (HLS)
 http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8
@@ -2417,7 +2419,7 @@ http://wz0liw.scahw.com.au/live/wind-down.stream/playlist.m3u8
 http://sa47.scastream.com.au/live/wfh-3pm.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_00ea6bfbcb9e7f693ccf" stream-id="aws_17b0c810500429dbbd35" codec="aac+" bitrate="64",LiSTNR - Work From Home: 9am Coffee (HLS)
 http://sa47.scastream.com.au/live/wfh-9am.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_c1e716897796e3fd8bb3" stream-id="aws_60e449fa10c2017e5832" codec="aac+" bitrate="63",LiSTNR - Y2K Party (HLS)
+#EXTINF:-1 station-id="awb_c1e716897796e3fd8bb3" stream-id="aws_60e449fa10c2017e5832" codec="aac+" bitrate="64",LiSTNR - Y2K Party (HLS)
 http://sa47.scastream.com.au/live/y2k-party.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_4e88cbc0cdac6b3dd95d" stream-id="aws_3fe816dc9b11204fa063" codec="aac" bitrate="130",LiSTNR - Yacht Rock (HLS)
 http://sa47.scastream.com.au/live/7yachtrock_128.stream/playlist.m3u8
@@ -2736,7 +2738,7 @@ https://play.radioking.io/radio432/849906
 #EXTINF:-1 station-id="awb_a2f1e16176ff03cf8e4f" stream-id="aws_b718fd358d5a92610aa0" codec="aac+" bitrate="64",Radio 4CC - AM 927 - Gladstone, QLD
 http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac
 #EXTINF:-1 station-id="awb_0b6eecb4266ae7ed88cf" stream-id="aws_cde20be3744270f84d16" codec="aac+" bitrate="128",Radio 4YOU 98.5 FM
-http://28863.live.streamtheworld.com/4YOUAAC_SC
+http://14533.live.streamtheworld.com/4YOUAAC_SC
 #EXTINF:-1 station-id="awb_68744d1f4705544c4e30" stream-id="aws_25aa1c1892ff8be905a8" codec="aac+" bitrate="128",RADIO ADELAIDE
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADEAAC.aac
 #EXTINF:-1 station-id="awb_a51e01f0bc7ba891953e" stream-id="aws_ce309dccd5de896dd2b7" codec="aac+" bitrate="128",Radio Adelaide - Adelaide - 101.5 FM (AAC+)
@@ -2857,7 +2859,7 @@ http://s8.yesstreaming.net:7099/RblCNQ
 https://regfm.radioca.st/stream
 #EXTINF:-1 station-id="awb_0af8d8ab4a1fc4921949" stream-id="aws_4556fe7a8762a3679fec" codec="ogg" bitrate="0",Rekt Network
 https://stream.rekt.network/rekt.ogg
-#EXTINF:-1 station-id="awb_a028e37854fface8d875" stream-id="aws_7109e6e1e4609228aa0a" codec="mp3" bitrate="64",Rete Italia
+#EXTINF:-1 station-id="awb_a028e37854fface8d875" stream-id="aws_7109e6e1e4609228aa0a" codec="aac+" bitrate="64",Rete Italia
 https://nicherad.radioca.st/stream
 #EXTINF:-1 station-id="awb_f2d7733509b66d20f567" stream-id="aws_a5331a8d3c77afa45a29" codec="mp3" bitrate="128",Retro FM
 https://cast6.asurahosting.com/proxy/retrofmp/stream?ver=663457
@@ -2909,7 +2911,7 @@ https://streaming.radio.co/sfbd79db12/listen
 http://streaming.radio.co/sfbd79db12/listen
 #EXTINF:-1 station-id="awb_475eb01e64b75783358d" stream-id="aws_c98e716e9a0d0a5d25cb" codec="aac" bitrate="65",RSN 927 Racing & Sport
 https://dg6dce7w867bz.cloudfront.net/playlist.m3u8
-#EXTINF:-1 station-id="awb_511da69ef0c691bcafaa" stream-id="aws_d575ca863ed146c89505" codec="aac" bitrate="65",RSN Extra
+#EXTINF:-1 station-id="awb_511da69ef0c691bcafaa" stream-id="aws_d575ca863ed146c89505" codec="aac" bitrate="66",RSN Extra
 https://d1j02mmlpi2jw3.cloudfront.net/playlist.m3u8
 #EXTINF:-1 station-id="awb_d0fc3542ec3a61dfa932" stream-id="aws_ac4a30709f95370d6854" codec="aac+" bitrate="64",RTR FM 92.1
 https://live.rtrfm.com.au/stream1
@@ -2955,8 +2957,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAA
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
 #EXTINF:-1 station-id="awb_24665ae4d173f0e9d40b" stream-id="aws_8440a0e3339642b23ca4" codec="mp3" bitrate="128",Sky News Australia Radio (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWS.mp3
-#EXTINF:-1 station-id="awb_6e05c0646011cdba3896" stream-id="aws_15eba67034da2cfe55dd" codec="" bitrate="0",Sky Sports Radio
-https://sky-new.akamaized.net/hls/live/2036960/radiotab/index_webradiotab.m3u8
 #EXTINF:-1 station-id="awb_2fe8bb8c6457f317899f" stream-id="aws_5df5b80e171aac94dbe2" codec="mp3" bitrate="128",Sky.FM Radio (MP3)
 http://stream.zeno.fm/7tswe28kxrhvv
 #EXTINF:-1 station-id="awb_17dd3bf31700acffdd91" stream-id="aws_f9c30ccb06021d753502" codec="mp3" bitrate="128",Skylab Radio
@@ -3140,7 +3140,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SWRFM.mp3
 #EXTINF:-1 station-id="awb_75549adf986b60c021ad" stream-id="aws_42150afe43fd01d96ad3" codec="aac" bitrate="128",SYN FM
 https://14533.live.streamtheworld.com/3SYNAAC_SC
 #EXTINF:-1 station-id="awb_75549adf986b60c021ad" stream-id="aws_ef8751a0b0a24186cbb7" codec="aac+" bitrate="128",SYN FM
-https://23153.live.streamtheworld.com/3SYNAAC_SC
+https://27273.live.streamtheworld.com/3SYNAAC_SC
 #EXTINF:-1 station-id="awb_93cd52138091fcef7644" stream-id="aws_c9a38fd20300dd7c5d8d" codec="mp3" bitrate="256",Systrum Sistum - SSR1
 https://systrum.net:8443/SSR1
 #EXTINF:-1 station-id="awb_13c606cc9be94072f902" stream-id="aws_dbd3cb77afd0cd4c3460" codec="mp3" bitrate="256",Systrum Sistum - SSR2
@@ -3225,7 +3225,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT16AAC.
 http://s7.viastreaming.net:8880/;
 #EXTINF:-1 station-id="awb_e436392e2133a46baae8" stream-id="aws_6b624b3a72c5c4cf4a25" codec="aac+" bitrate="96",TLC FM The Lower Clarence Valley Yamba NSW Australia
 http://s7.viastreaming.net:8880/;?_=0.0037967189374782384
-#EXTINF:-1 station-id="awb_05cd887900c7a85dfd37" stream-id="aws_7845c3dde658a328c626" codec="" bitrate="0",TMFM 95.5 Tamworth
+#EXTINF:-1 station-id="awb_05cd887900c7a85dfd37" stream-id="aws_7845c3dde658a328c626" codec="mp3" bitrate="128",TMFM 95.5 Tamworth
 https://usa21.fastcast4u.com:1040/;
 #EXTINF:-1 station-id="awb_a8c2135abf13019786f6" stream-id="aws_638c37074a4b6b1916a3" codec="aac" bitrate="128",Todays Country 94One - Gosford - 94.1 FM (AAC)
 http://audio-edge-d34v9.syd.o.radiomast.io/70cbd986-0f98-4506-a84d-6d8eeff50bc6
