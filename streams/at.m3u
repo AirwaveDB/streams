@@ -261,7 +261,7 @@ http://onair.krone.at/kronehit.mp3
 http://onair-ha1.krone.at/kronehit1058.mp3
 #EXTINF:-1 station-id="awb_4dd994df6501b7561549" stream-id="aws_4151a3d836ad27d7ed9c" codec="aac" bitrate="0",Kronehit Hardstyle
 https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
-#EXTINF:-1 station-id="awb_2c6cc1abfbacbdff0a4b" stream-id="aws_93634c8c51224139434c" codec="aac+" bitrate="64",KroneHit Radio
+#EXTINF:-1 station-id="awb_2c6cc1abfbacbdff0a4b" stream-id="aws_93634c8c51224139434c" codec="aac+" bitrate="63",KroneHit Radio
 http://onair-ha1.krone.at/kronehit.aac
 #EXTINF:-1 station-id="awb_2c6cc1abfbacbdff0a4b" stream-id="aws_4be182f56930e9f4fda6" codec="aac" bitrate="163",KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
@@ -447,14 +447,14 @@ http://stream01.zogl.net:8906/stream
 https://radio.eduneu.eu:8020/radio.mp3
 #EXTINF:-1 station-id="awb_3dcb4537826180f73725" stream-id="aws_11a3ce2db76b8dfcdd46" codec="mp3" bitrate="128",radio 88.6
 http://radio886.at/streams/radio_88.6/mp3
-#EXTINF:-1 station-id="awb_3f6eff6d172bb02123ae" stream-id="aws_627f60d32a679dde3a15" codec="mp3" bitrate="192",Radio Agora
-https://livestream.agora.at/agora
 #EXTINF:-1 station-id="awb_530b7bc803ec90e80432" stream-id="aws_23070c0ed21490dcbeb0" codec="mp3" bitrate="192",Radio Agora 105,5
 https://livestream.agora.at/agora
 #EXTINF:-1 station-id="awb_3c57a886c366a12b5676" stream-id="aws_2073c0fabace8552bad2" codec="mp3" bitrate="192",Radio Alpenstar
 http://streamplus62.leonex.de:22674/;
 #EXTINF:-1 station-id="awb_64744a2976648d986470" stream-id="aws_750eb823545666a52297" codec="aac" bitrate="0",Radio Arabella Oberösterreich
 https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein
+#EXTINF:-1 station-id="awb_c3b6802cdcee7a20c30d" stream-id="aws_4be5b55b5af3dd60b459" codec="mp3" bitrate="256",Radio B138
+https://73713.streamerr.co:8443/main?.mp3
 #EXTINF:-1 station-id="awb_c3b6802cdcee7a20c30d" stream-id="aws_5e7bfa376414b5b76033" codec="mp3" bitrate="256",Radio B138
 https://webstream.radiob138.at/
 #EXTINF:-1 station-id="awb_2b975e6ee37cc5813ca9" stream-id="aws_54d0e947dac927cbd1c2" codec="mp3" bitrate="128",Radio Balkan EU
@@ -483,8 +483,8 @@ https://live.radioflamingo.at/rfhoamat
 https://live.radioflamingo.at/rfpartyschlager
 #EXTINF:-1 station-id="awb_3cb6fd5275a7cb34a7c8" stream-id="aws_8fd7fb7a4736ba6c2c57" codec="aac+" bitrate="56",Radio Freequenns
 http://livestream.freequenns.at/live
-#EXTINF:-1 station-id="awb_a8ceb6bc3d304b14ef0c" stream-id="aws_e573a0497a4721fd3322" codec="ogg" bitrate="131",Radio FRO
-http://www.fro.at:8008/fro-128.ogg
+#EXTINF:-1 station-id="awb_a8ceb6bc3d304b14ef0c" stream-id="aws_3000ad78dba20566fb6b" codec="mp3" bitrate="320",Radio FRO
+https://stream.fro.at/fro320.mp3
 #EXTINF:-1 station-id="awb_8867138835f250084025" stream-id="aws_6ee35f757a612fb2a4c0" codec="mp3" bitrate="128",Radio GÖD
 https://radiogoed.securestream.kapper.net/stream
 #EXTINF:-1 station-id="awb_511cbbacfc68678206a4" stream-id="aws_8feee0fdab04f8024e78" codec="mp3" bitrate="128",Radio Grün Weiß
@@ -586,7 +586,7 @@ https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1 station-id="awb_1307c4b37c411f55a7eb" stream-id="aws_bd23555d9ffaee52b033" codec="mp3" bitrate="128",Rock Antenne Österreich
 https://s5-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1 station-id="awb_00be448592e75ae6611b" stream-id="aws_c113aeca94691287591f" codec="aac" bitrate="0",Rock Antenne Österreich (AAC)
-https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
+https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
 #EXTINF:-1 station-id="awb_00be448592e75ae6611b" stream-id="aws_5ecb23626ec81b6e7ded" codec="aac" bitrate="0",Rock Antenne Österreich (AAC)
 https://s6-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
 #EXTINF:-1 station-id="awb_1692dd14651a32da86ed" stream-id="aws_1c2ca89e979d2fe7ef0f" codec="aac" bitrate="0",Rockantenne Österreich live
@@ -664,7 +664,7 @@ https://stream.vogalfunk.com/stream/vogalfm/vogalfm.mp3
 #EXTINF:-1 station-id="awb_bc563c7020ca98030ec9" stream-id="aws_b7153a79d345b83c75da" codec="aac" bitrate="0",Vorarlberg 80s
 https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer
 #EXTINF:-1 station-id="awb_00c78925d1038531dd6b" stream-id="aws_c9c9e875f431d44bcff7" codec="mp3" bitrate="128",WEL 105,5
-https://wel105point5.stream.laut.fm/wel105point5
+http://wel105point5.stream.laut.fm/wel105point5
 #EXTINF:-1 station-id="awb_10444e04f9f5f6f6d59d" stream-id="aws_42f464eed7bacecb17df" codec="mp3" bitrate="128",WELLE 1 - Oberöstereich
 https://live.welle1.at:17128/stream
 #EXTINF:-1 station-id="awb_62b1e34db162540be2df" stream-id="aws_bf2ad42fdf79b5171ee7" codec="mp3" bitrate="256",WELLE 1 - Oberösterreich - HQ

@@ -123,10 +123,10 @@ http://158.69.227.214:8137/stream
 https://listen.moe/fallback
 #EXTINF:-1 station-id="awb_8f3a531476c43e9ddbca" stream-id="aws_e2438174f81ab7df7b8c" codec="ogg" bitrate="192",Listen.Moe JPop Vorbis
 https://listen.moe/stream
-#EXTINF:-1 station-id="awb_95295012f7234c7ac399" stream-id="aws_e0ff0a62e2b701e21d7c" codec="aac" bitrate="320",Miku Radio
-https://miku.fm/listen/miku/aac-320
 #EXTINF:-1 station-id="awb_95295012f7234c7ac399" stream-id="aws_131524b76ee871f8e613" codec="mp3" bitrate="128",Miku Radio
 https://miku.fm/listen/miku/mp3-128
+#EXTINF:-1 station-id="awb_95295012f7234c7ac399" stream-id="aws_e0ff0a62e2b701e21d7c" codec="mp3" bitrate="320",Miku Radio
+https://miku.fm/listen/miku/mp3-320
 #EXTINF:-1 station-id="awb_a5027a27d841ef3dad2b" stream-id="aws_042710691caf8e24e41a" codec="aac" bitrate="211",MILCpod
 https://radio.milradio.info:9000/milcpod.m3u8
 #EXTINF:-1 station-id="awb_24e63c633663db392dda" stream-id="aws_e24edf4b2d447f2ffced" codec="mp3" bitrate="128",Moon Mission Recordings
