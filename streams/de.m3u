@@ -1893,6 +1893,8 @@ http://stream.antenne.com/antenne-nds-event01/mp3-192/linux/
 http://stream.antenne.de/antenne-nrw/stream/aacp
 #EXTINF:-1 station-id="awb_513919fe3fa7c935bd29" stream-id="aws_41d8fc00c6074b199cd8" codec="aac+" bitrate="47",Antenne NRW
 https://stream.antenne.de/antenne-nrw/stream/aacp
+#EXTINF:-1 station-id="awb_47d589f64072f7dc1808" stream-id="aws_c521072fcafcd337e77d" codec="aac+" bitrate="48",Antenne NRW 70er Hits
+https://stream.antenne.nrw/antenne-nrw-70er-hits/stream/aacp
 #EXTINF:-1 station-id="awb_6bdb35e1e62a2bd1910e" stream-id="aws_ed30833b1160bc6efa26" codec="mp3" bitrate="192",Antenne NRW Karneval
 http://stream.antenne.de/antenne-nrw-karneval/stream/mp3
 #EXTINF:-1 station-id="awb_3ef44e1471b545f07826" stream-id="aws_2ce8a5c00973c51bdce8" codec="mp3" bitrate="192",Antenne NRW Weihnachtshits
@@ -2753,6 +2755,8 @@ http://charthits-high.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzkzOTk0N
 https://chartradio24.stream.laut.fm/chartradio24?uuid=6868d629-bfe6-17d2-c864-4d147ebe61f3&t302=2026-11-06_23-37-07
 #EXTINF:-1 station-id="awb_37c474d2c5eac3387642" stream-id="aws_61d85dd8e93679e9916a" codec="mp3" bitrate="128",Chat-Fire
 http://stream.laut.fm/chat-fire
+#EXTINF:-1 station-id="awb_4f6d9862da29510d86ed" stream-id="aws_8decb0d19d94c2b1634e" codec="mp3" bitrate="128",Chill Out Zone
+https://stream.laut.fm/chilloutzone
 #EXTINF:-1 station-id="awb_bf473d078e536660d543" stream-id="aws_4e7e3668be5897229446" codec="mp3" bitrate="192",Chillen
 http://player.ffn.de/auszeitFM.m3u
 #EXTINF:-1 station-id="awb_bf473d078e536660d543" stream-id="aws_8b1efa15a2b44c152cef" codec="mp3" bitrate="192",Chillen
@@ -4437,6 +4441,8 @@ https://streaming.funklust.de:8443/mp3
 https://a6.asurahosting.com/listen/funstudio/radio.mp3
 #EXTINF:-1 station-id="awb_f38f32a4007dc3183def" stream-id="aws_128641fe4dce2ca3021a" codec="mp3" bitrate="128",furry radio by laut.fm
 https://furryradio.stream.laut.fm/furryradio?uuid=497694c3-f8f4-f5b2-5177-63e1a1222219&t302=2026-11-06_17-54-22
+#EXTINF:-1 station-id="awb_9bc87770a08e5c3016a1" stream-id="aws_8bace1472fa453cf1eb2" codec="mp3" bitrate="128",FurryFM
+https://radio.rawrr.dev/listen/uwu_radio/icecast_128.mp3
 #EXTINF:-1 station-id="awb_823d8da66eb5364dc6b0" stream-id="aws_b2ff5b7fc7c168b0e927" codec="mp3" bitrate="128",Furryradio
 http://furryradio.stream.laut.fm/furryradio?uuid=6ba37749-c833-e5fa-2251-978c218a97da&t302=2026-11-06_06-31-05
 #EXTINF:-1 station-id="awb_7b14e36f8c43fccccd24" stream-id="aws_744db036a359b7cfc6e8" codec="mp3" bitrate="128",Fußball-Bundesliga 2: Konferenz
@@ -7345,6 +7351,8 @@ http://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6nrr
 http://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6nrr7p1o%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794014235
 #EXTINF:-1 station-id="awb_b39693098f1fb0088488" stream-id="aws_a3a28e8c9eab0e17fdb5" codec="mp3" bitrate="0",R.SA Hinhörkanal
 http://streams.rsa-sachsen.de/rsa-hinhoer/mp3-128/streams.rsa-sachsen.de/
+#EXTINF:-1 station-id="awb_a379117ab349236aedc0" stream-id="aws_d096d454873f023ba354" codec="mp3" bitrate="0",R.SA Italo Disco
+https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-128-5550303?
 #EXTINF:-1 station-id="awb_b8e8ad42c10a92540245" stream-id="aws_62f13267140f9e4b599e" codec="mp3" bitrate="0",R.SA LEIPZIG
 https://rsa.streamabc.net/regc-rsalivesnlpz-mp3-192-9658437
 #EXTINF:-1 station-id="awb_f50a9b36b274c19d7879" stream-id="aws_9b24ca5e1bb635bd4cdc" codec="mp3" bitrate="0",R.SA LEIPZIG
@@ -7961,6 +7969,8 @@ http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
 http://stream.lokalradio.nrw/rbrs
 #EXTINF:-1 station-id="awb_1a9bfa1e22a39567f3cd" stream-id="aws_f4910159cd48bac5b397" codec="mp3" bitrate="192",Radio Bonn / Rhein-Sieg
 https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
+#EXTINF:-1 station-id="awb_4c9ec2132f9a6e5a837f" stream-id="aws_47c74a5e596979770215" codec="mp3" bitrate="128",Rádió Bözsike Hamburg
+https://s2.radio.co/s4ad6d1902/listen
 #EXTINF:-1 station-id="awb_b52ac61558c70a97ada9" stream-id="aws_628f0becf3f198cab91b" codec="mp3" bitrate="320",Radio Breidenbach
 http://radiobreidenbach.spcast.eu/stream
 #EXTINF:-1 station-id="awb_b52ac61558c70a97ada9" stream-id="aws_0c89588e773f28b58d5a" codec="aac" bitrate="64",Radio Breidenbach
@@ -8800,7 +8810,7 @@ https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6nrq9
 #EXTINF:-1 station-id="awb_5ec91259e480d7276a89" stream-id="aws_89bee40f99e17d19051b" codec="mp3" bitrate="0",Radio PSR 2000er
 https://streams.radiopsr.de/2000er/mp3-192/www.radio-browser.info/
 #EXTINF:-1 station-id="awb_e2c0eae7e40da0b69e22" stream-id="aws_e82c092f7b9c4f510589" codec="mp3" bitrate="0",RADIO PSR 80er
-https://regiocast.streamabc.net/regc-psr80er2173775-mp3-192-2606798?sABC=6nr89ro8%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1793629880
+https://regiocast.streamabc.net/regc-psr80er2173775-mp3-192-2606798?sABC=6nrs3886%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794062470
 #EXTINF:-1 station-id="awb_e2c0eae7e40da0b69e22" stream-id="aws_70a024a4998a348e4f5a" codec="mp3" bitrate="192",RADIO PSR 80er
 https://streams.radiopsr.de/psr-80er/mp3-192/www.radio-browser.info/play.m3u8
 #EXTINF:-1 station-id="awb_13ccee4269b0aaa91ea2" stream-id="aws_f70f3188228f744e28b6" codec="mp3" bitrate="0",RADIO PSR 90er
@@ -11901,6 +11911,8 @@ https://xjazz.api.radiosphere.io/channels/supreme-electronic/stream.mp3?quality=
 https://xjazz.api.radiosphere.io/channels/supreme-movin-jazz/stream.mp3
 #EXTINF:-1 station-id="awb_7260a5a4426594b1cd44" stream-id="aws_26c989fee3f47b2e02bd" codec="mp3" bitrate="0",XJAZZ! - Voices
 https://xjazz.api.radiosphere.io/channels/supreme-jazz-voices/stream.mp3
+#EXTINF:-1 station-id="awb_3232709fe664dd7e409a" stream-id="aws_9e19ed76b36222e34e84" codec="mp3" bitrate="128",XmasFM
+https://xmasfm.stream.laut.fm/xmasfm
 #EXTINF:-1 station-id="awb_b806b95a5a48caed51a2" stream-id="aws_8bddeaf4ffeaa65dc31f" codec="mp3" bitrate="128",XXL-Radio
 https://audio.xxl-radio.de:8000/radio.mp3
 #EXTINF:-1 station-id="awb_80278ac6ddcaa341f010" stream-id="aws_96f5524465b3c0ce9ba8" codec="mp3" bitrate="128",Yah FM

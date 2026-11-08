@@ -273,6 +273,8 @@ http://stream2.hippynet.co.uk:8013/;
 http://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:-1 station-id="awb_1883977650a816519499" stream-id="aws_d360dadf49d1d874cb70" codec="aac+" bitrate="0",ALL FM 96.9
 http://uksoutha.streaming.broadcast.radio:15870/allfm
+#EXTINF:-1 station-id="awb_3e8699b654f8b5f26831" stream-id="aws_499eee8ed82af6d9516e" codec="mp3" bitrate="192",allsoundsradio
+https://servidor31-5.brlogic.com:7036/live
 #EXTINF:-1 station-id="awb_ebfe18d0d1887c91cbe8" stream-id="aws_787236388c2ff6363b55" codec="aac" bitrate="128",Allstar Youth Radio
 http://stream3.themediasite.co.uk:8270/stream
 #EXTINF:-1 station-id="awb_d45c6d692f61ed67ec6e" stream-id="aws_c9d3862b03b70e83c7ae" codec="mp3" bitrate="320",Alpha Wave Radio
@@ -1769,6 +1771,8 @@ https://radio.hearme.fm:9810/stream
 https://radio.hearme.fm:8250/stream
 #EXTINF:-1 station-id="awb_e9d653e3728374422747" stream-id="aws_0d87e1a9f05c36c56174" codec="mp3" bitrate="0",HearMe - Classic Rock
 https://radio.hearme.fm:8270/stream
+#EXTINF:-1 station-id="awb_d392824ec4561c711daa" stream-id="aws_297f1f7cdc204287ff02" codec="mp3" bitrate="0",HearMe - Indie Rock
+https://radio.hearme.fm:8056/stream
 #EXTINF:-1 station-id="awb_00d18ff1b9fcaa4c3833" stream-id="aws_aa85c7a0d29f143addc7" codec="mp3" bitrate="0",HearMe - Love songs
 https://radio.hearme.fm:8140/stream
 #EXTINF:-1 station-id="awb_e45d09353cb224021ac7" stream-id="aws_74577e12b981c032ee77" codec="mp3" bitrate="0",HearMe - trance
@@ -2125,6 +2129,8 @@ https://justhousemusic.radioca.st/stream
 https://justhousemusic.radioca.st/stream
 #EXTINF:-1 station-id="awb_a798e7b9b92b474606c3" stream-id="aws_9ffe7353469b83d4a8de" codec="mp3" bitrate="0",just.witter Radio
 https://radio.justwitter.com/k7idQ
+#EXTINF:-1 station-id="awb_1fdfed752580f2b8f99b" stream-id="aws_de738661f56a4d15e574" codec="mp3" bitrate="128",KA radio
+https://listen.nobexradio.com/station_karadio?ref=radiobrowser
 #EXTINF:-1 station-id="awb_5c0ea3894dba72e700d3" stream-id="aws_e48f0c9fdb427db7213a" codec="mp3" bitrate="256",Kafka Chill
 http://kafka.icu:8181/stream
 #EXTINF:-1 station-id="awb_d4a8a74ebbe3d338cc32" stream-id="aws_c4572c2f8f6778acf47e" codec="mp3" bitrate="128",Kaos Sound
@@ -3995,7 +4001,7 @@ https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
 https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3
 #EXTINF:-1 station-id="awb_0d25063e81aa6b98edbd" stream-id="aws_81b3fdfa78b01fdbe084" codec="mp3" bitrate="192",Totally Wired Radio
 https://totallywired.out.airtime.pro/totallywired_a
-#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="4900",Totalmusic 2000s
+#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="4890",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 station-id="awb_f3015bb3f66b77d6c2e6" stream-id="aws_8ab31bb7e3b400d2114e" codec="mp3" bitrate="128",TotalRock
 https://s3.citrus3.com:8056/stream

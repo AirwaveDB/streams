@@ -887,7 +887,7 @@
       "5170a1f4-d481-4ff0-b13d-b267efb87fb7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T16:09:39Z"
+    "lastCheckedAt": "2026-11-07T16:12:19Z"
   },
   {
     "id": "aws_b27730f16672a3fc1e64",
@@ -907,6 +907,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
+  },
+  {
+    "id": "aws_aca47be14fae0a0fd2d6",
+    "stationId": "awb_ea9609fca58cf68dc2da",
+    "name": "Radio Moldova Comrat",
+    "country": "MD",
+    "url": "https://radiolive.trm.md/hls_comrat/comrat.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e338a160-f2c4-462e-ade6-05b36e050d2b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
     "id": "aws_f668ef0263fd9f943441",
@@ -1127,7 +1146,7 @@
       "8b879437-84c8-4fa9-8c35-56dd10e8fd12"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-02T16:09:39Z"
+    "lastCheckedAt": "2026-11-08T00:32:06Z"
   },
   {
     "id": "aws_7ebdf7406f69761c0214",
@@ -1250,6 +1269,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:51:00Z"
+  },
+  {
+    "id": "aws_fa218930ff85113a5880",
+    "stationId": "awb_bd814b1df5346c923b3f",
+    "name": "Radio ROKS - Acoustic Rock",
+    "country": "MD",
+    "url": "https://radio6.dixi.md/listen/acoustic/radio.aac",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c61b4874-9a0a-4843-94dd-ebff18e7be0a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
     "id": "aws_438a3c8685a6135366f1",
