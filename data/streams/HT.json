@@ -107,15 +107,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "HT:hhh",
-      "a9a38979-c8cc-4200-9d4a-272ff394a3a6"
+      "HT:hhh"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_b610856fc2102b2e89af",
@@ -212,7 +210,7 @@
       "7c0cefe6-19f6-4c77-a414-9f00089bfd2a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_c1e34095403f4b9247b0",
@@ -350,25 +348,6 @@
     "lastCheckedAt": "2026-11-06T03:43:29Z"
   },
   {
-    "id": "aws_9a1302f43cd09bfb5acd",
-    "stationId": "awb_9a2e5f22be8050df1288",
-    "name": "Radio Humilite",
-    "country": "HT",
-    "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inhqb1Y2bnVaVEJPSm94bnhCTm9vS1EiLCJpYXQiOjE3OTQwMTgwMDMsImV4cCI6MTc5NDAxODA2M30.OCu2EmhXyAiziOH5UL3gqU-kOHBErjnJkDkewrS3WRE",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f288200c-0093-4a5f-8aac-9e043879b7d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
-  },
-  {
     "id": "aws_178144ea2f8bf1d9888c",
     "stationId": "awb_a436b9aa9a0f23c3a4f6",
     "name": "Radio Jamesen Show",
@@ -439,7 +418,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3d51e3ed-bea9-4b68-a935-378b96e4256c",
       "48cb593c-2a9b-4258-bad3-0478b0e0eb70"
     ],
     "lastCheckOk": true,

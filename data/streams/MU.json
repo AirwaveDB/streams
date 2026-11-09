@@ -19,25 +19,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_e2c69e179d601f2cf2fe",
-    "stationId": "awb_85664162ab88967bdbf5",
-    "name": "MBC Best FM",
-    "country": "MU",
-    "url": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3c1ee308-0937-4a27-84fc-bc53cc36297e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
-  },
-  {
     "id": "aws_4107b471b46ea0c56a21",
     "stationId": "awb_ef75d7d963bf23a82ed4",
     "name": "MBC Kool FM",
@@ -95,25 +76,6 @@
     "lastCheckedAt": "2026-11-06T00:42:14Z"
   },
   {
-    "id": "aws_b94c93bd2904a8c4c174",
-    "stationId": "awb_622410828f3435e86ed0",
-    "name": "MBC Taal FM",
-    "country": "MU",
-    "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abcd1a7b-8b0a-4bc4-a8c4-4a02352760a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
-  },
-  {
     "id": "aws_9055e68d06595b6b1381",
     "stationId": "awb_a0a9d18d30035b3153a9",
     "name": "OUi Radio",
@@ -146,11 +108,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "385b3d31-8952-464f-a1f1-a86b68d3c35e",
-      "91be8181-df6c-4874-8f1a-dabd6fdc943e"
+      "385b3d31-8952-464f-a1f1-a86b68d3c35e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:30:48Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_504738726c2fb38524e4",
@@ -268,15 +229,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "464fc4cc-3c6e-4b5d-92a8-9e4646c2f1da",
       "MU:sensuelle-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:40:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_83fc6f5a13ba7c5f0e9f",

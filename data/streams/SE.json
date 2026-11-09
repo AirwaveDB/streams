@@ -38,25 +38,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_328f7fe386b0603cca46",
-    "stationId": "awb_2bd29b0cbb172db2abde",
-    "name": "24/7 Continuous Music",
-    "country": "SE",
-    "url": "https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eee524af-4690-4e43-984a-fc62b20b08f4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:44:50Z"
-  },
-  {
     "id": "aws_93b0f5f781859e7026a8",
     "stationId": "awb_f66a5dd1de917355cafb",
     "name": "24/7 Cotinuous Music",
@@ -71,8 +52,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2e8eed71-d123-4572-a36b-0d19c36a26b1",
-      "SE:24-7-cotinuous-music"
+      "SE:24-7-cotinuous-music",
+      "e05592ac-2bbd-431f-8c52-c7aced93a0d7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:03:21Z"
@@ -472,25 +453,6 @@
     "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
-    "id": "aws_c4dc5244c6c5c7b7077f",
-    "stationId": "awb_336c7ef15eaba37b5eda",
-    "name": "Borås Närradioförening",
-    "country": "SE",
-    "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ca4c790-7797-4b00-afa0-19e276302d64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
-  },
-  {
     "id": "aws_a73546efe3ba8f0eab88",
     "stationId": "awb_81ac59ce8684113ed106",
     "name": "BozRadio",
@@ -687,6 +649,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
+  },
+  {
+    "id": "aws_37db4560bafc396dee23",
+    "stationId": "awb_05a37f945ea1f2a97bb7",
+    "name": "delusions",
+    "country": "SE",
+    "url": "http://icy.aweradio.app/delusions/music",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "62d964d1-e4ac-4576-984d-7b29fb997bc3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_42479bf4da2853fe0206",
@@ -1815,7 +1796,7 @@
     ],
     "sourceIds": [
       "SE:p4-varmland",
-      "e3400276-f47e-4f63-94d4-c4f82aee184b"
+      "e3c2d110-90f6-41e7-a6b8-8f92d646a007"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:36:57Z"
@@ -1917,8 +1898,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6a4f38ed-3c22-45b1-a2f3-5da0c8f47c2d",
-      "SE:pain"
+      "SE:pain",
+      "f6962d71-ceab-47e7-8cbd-0fddb7074a27"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:00:23Z"
@@ -2392,25 +2373,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
-    "id": "aws_ac2d56ffa5af322a565d",
-    "stationId": "awb_f8773b4e87b3e34fa913",
-    "name": "Radio Haninge",
-    "country": "SE",
-    "url": "http://213.115.49.175:1157/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cda260eb-ede7-4417-97f6-55dea02abd80"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:05:50Z"
   },
   {
     "id": "aws_8bf34129228273d787e9",
@@ -3001,30 +2963,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a1d8945-08fe-4092-96c4-019ac9a38022",
-      "50d2c7dd-dec7-4169-84a1-a2f1614278ad"
+      "0a1d8945-08fe-4092-96c4-019ac9a38022"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:16:08Z"
-  },
-  {
-    "id": "aws_05775b111aa77727a4d9",
-    "stationId": "awb_74a7c1c496272e51ebf0",
-    "name": "RIX FM",
-    "country": "SE",
-    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1620588-c6f3-4e40-a828-a0fd3f945c07"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:03:28Z"
   },
   {
     "id": "aws_7e39a129b4d61093b7a9",
@@ -3377,25 +3319,6 @@
     "lastCheckedAt": "2026-11-06T03:51:08Z"
   },
   {
-    "id": "aws_a1aef603050748c5f2c0",
-    "stationId": "awb_db9a46fa9f4fc19d8e64",
-    "name": "SR P2",
-    "country": "SE",
-    "url": "https://live1.sr.se/p2-flac",
-    "codec": "ogg",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0826eaef-59e4-4761-b3e8-31670421a753"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:30:48Z"
-  },
-  {
     "id": "aws_73524c45785238c4fd86",
     "stationId": "awb_7a519b934e922545d8a6",
     "name": "SR P2 (128k HLS)",
@@ -3444,15 +3367,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "613dbc09-c205-4285-bb0f-7e71a67015dd",
       "SE:sr-p4-malmohus"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:08:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a2ce6bdff801df09f55b",
@@ -3685,25 +3606,6 @@
     "lastCheckedAt": "2026-11-06T15:32:27Z"
   },
   {
-    "id": "aws_2532f8661acc7a9364fc",
-    "stationId": "awb_24372198757892016545",
-    "name": "Stockholm FM 101.1 MHz Sweden",
-    "country": "SE",
-    "url": "http://live.narradio.se:8030/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a1fa39a-15b6-47d5-9b1f-f1680eebc0d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
-  },
-  {
     "id": "aws_9eb9393be27a97dcddfd",
     "stationId": "awb_795dd64c067f10cec9fa",
     "name": "Stockholm FM 88,0 Sweden",
@@ -3721,44 +3623,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:44:05Z"
-  },
-  {
-    "id": "aws_b8a0ec26efa7f629694c",
-    "stationId": "awb_321d7349920c547b677c",
-    "name": "Stockholm FM 88.0 MHz Sweden",
-    "country": "SE",
-    "url": "http://live.narradio.se:8010/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "311274b6-e55a-41dc-a0d9-f9af449aba2a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
-    "id": "aws_a8a0fbc741e187445a86",
-    "stationId": "awb_c68ba6958f7a8e6abc76",
-    "name": "Stockholm FM 95.3 MHz Sweden",
-    "country": "SE",
-    "url": "http://live.narradio.se:8020/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a786a585-319c-4da9-ac13-794e805f1529"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
   },
   {
     "id": "aws_c76ed20297ef2d71b13e",
@@ -3860,25 +3724,6 @@
     "lastCheckedAt": "2026-11-06T06:34:06Z"
   },
   {
-    "id": "aws_720da7339847a94fd47e",
-    "stationId": "awb_77ef220724b1fa8bb6c6",
-    "name": "Sveriges Kristna Radio",
-    "country": "SE",
-    "url": "https://s2.radio.co/sfbf5f5b85/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a58e0e1-7718-4d9a-8179-c9c95a255fd6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
-  },
-  {
     "id": "aws_6d50050a9519a3cb00ad",
     "stationId": "awb_96c917dc93d3519d3264",
     "name": "Sveriges Radio - Ekot sänder direkt",
@@ -3940,25 +3785,6 @@
     "lastCheckedAt": "2026-11-07T02:21:58Z"
   },
   {
-    "id": "aws_0dd6d4b545257e6935cf",
-    "stationId": "awb_2bc6ad1d849928292673",
-    "name": "Sveriges Radio - P2",
-    "country": "SE",
-    "url": "https://edge1.sr.se/p2-flac",
-    "codec": "ogg",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "697e5012-5cdc-46b5-abe6-18cebd3b3dd1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
-  },
-  {
     "id": "aws_8959643bcbd7da9c349b",
     "stationId": "awb_2bc6ad1d849928292673",
     "name": "Sveriges Radio - P2",
@@ -3978,25 +3804,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:15:15Z"
-  },
-  {
-    "id": "aws_d10897bfeee0e12d7286",
-    "stationId": "awb_007dc6df1bfb369a0b98",
-    "name": "Sveriges Radio - P2 Klassiskt",
-    "country": "SE",
-    "url": "https://live1.sr.se/p2-aac-320",
-    "codec": "aac",
-    "bitrate": 312,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "287a4851-de0c-4184-8255-b435d6b62e0b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:46:14Z"
   },
   {
     "id": "aws_ebda3b04c25e72f206e4",
@@ -4039,25 +3846,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:19:58Z"
-  },
-  {
-    "id": "aws_92ac9b21b96fdbaee780",
-    "stationId": "awb_90deb178091c42f29f45",
-    "name": "Sveriges Radio - P3",
-    "country": "SE",
-    "url": "https://live1.sr.se/p3-mp3-96",
-    "codec": "mp3",
-    "bitrate": 164,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4f6d392-f704-4cf0-8d26-9c931cebeaf6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
     "id": "aws_0bfce3763dd74140b0c5",
@@ -4207,25 +3995,6 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
-    "id": "aws_7d7877a919053c3d70b3",
-    "stationId": "awb_fac7ddbda4c593ecd832",
-    "name": "Sveriges Radio -P4 Stockholm",
-    "country": "SE",
-    "url": "https://live1.sr.se/p4sth-aac-32",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "478c1254-cd56-472d-8f12-24f110d76d8d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:09:17Z"
-  },
-  {
     "id": "aws_ca1a0e6970ad99baa3c9",
     "stationId": "awb_1ae58b46ba9ea2628268",
     "name": "Sveriges Radio P1",
@@ -4272,18 +4041,17 @@
     "country": "SE",
     "url": "https://live1.sr.se/p1-mp3-96",
     "codec": "mp3",
-    "bitrate": 184,
+    "bitrate": 140,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "103287d0-4702-4c26-862d-cc4ce78e598f",
-      "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
+      "103287d0-4702-4c26-862d-cc4ce78e598f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
+    "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
     "id": "aws_2706f6b526197d2fa82b",
@@ -4324,25 +4092,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:32:21Z"
-  },
-  {
-    "id": "aws_2d9bc677f3e9633ce9ac",
-    "stationId": "awb_7da7b68019d9dbcbcf97",
-    "name": "Sveriges Radio P2 flac",
-    "country": "SE",
-    "url": "https://edge1.sr.se/p2-flac",
-    "codec": "ogg",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8c4a599-7230-4a08-997d-36c74b08c2ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:00:42Z"
   },
   {
     "id": "aws_f6a4bd913991e9af560e",
@@ -4667,25 +4416,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_87387fa84f6be5fed773",
-    "stationId": "awb_94d866d2c3992b6455b6",
-    "name": "The ERICADE Radio Network",
-    "country": "SE",
-    "url": "https://radio.ericade.net/sc/stream/1/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6dfb955d-609a-4c53-af79-39f9660a408d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
     "id": "aws_9bde070c39d1e31680ca",
     "stationId": "awb_0ca5d348e8dd6d067cb8",
     "name": "The ERICADE Radio Network",
@@ -4696,15 +4426,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5dde70fa-c630-4ad5-840c-8af6bddb145a",
       "SE:the-ericade-radio-network"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_056180511758da7b08ea",
@@ -4895,19 +4623,17 @@
     "name": "ZERGAN RADYO (47an)",
     "country": "SE",
     "url": "https://sslyayin.netyayin.net/radyozergan/;",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "052b8916-ad5d-4ae4-8cb5-1c137e10e4ca",
       "SE:zergan-radyo-47an"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:29:34Z"
+    "lastCheckedAt": "2026-08-24"
   }
 ]

@@ -70,11 +70,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "39126779-a0a4-424e-89b4-d7c9a2f84952",
       "e05c63bb-1e04-4f5e-8b81-010b3fadaba5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
+    "lastCheckedAt": "2026-11-06T05:13:31Z"
   },
   {
     "id": "aws_9310bca4a6bfe3060931",
@@ -340,11 +339,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "29608d24-dda0-446d-a691-dc05ac8d6ec1",
+      "4a2aca23-f665-4d84-b1e4-d1d92c359050",
       "RO:ambiento"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
+    "lastCheckedAt": "2026-11-06T03:14:51Z"
   },
   {
     "id": "aws_a2bde0d36de088136a67",
@@ -686,15 +685,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:atmospheric-dnb-s0urce",
-      "c4eb7648-e867-4545-bdda-71b1368db779"
+      "RO:atmospheric-dnb-s0urce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:19:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_eb512e63c8b97a12fd79",
@@ -733,25 +730,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:33:53Z"
-  },
-  {
-    "id": "aws_dec085c4bf4574cae713",
-    "stationId": "awb_d1979e570ddfc7a3f0fd",
-    "name": "Balada Radio -Bistrița 89,3 FM",
-    "country": "RO",
-    "url": "http://94.52.142.229:85/broadwave.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0671075e-82df-4fa0-875a-3330716b9e66"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_5383e58ce6cf9c3cf8c8",
@@ -861,15 +839,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "59b837fb-7e8e-4253-8954-9db7ec5d1602",
       "RO:bistrita-fm-92-6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ada8478b2c0b29d31d49",
@@ -1201,25 +1177,6 @@
     "lastCheckedAt": "2026-11-06T23:19:36Z"
   },
   {
-    "id": "aws_2a9870da3d6ad07708a4",
-    "stationId": "awb_23622a898468e200c203",
-    "name": "City Rádió",
-    "country": "RO",
-    "url": "http://live.city-radio.ro:8800/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964c376f-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:12:07Z"
-  },
-  {
     "id": "aws_86aaff1f86ad35ed8e6c",
     "stationId": "awb_dd190adac4645ef64320",
     "name": "City Radio Romania",
@@ -1351,25 +1308,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:30:27Z"
-  },
-  {
-    "id": "aws_b9010ca3d5e2ceae02aa",
-    "stationId": "awb_f0974ead51977c5c1b56",
-    "name": "Clasic Radio_Bach -București",
-    "country": "RO",
-    "url": "https://live.radioclasic.com/listen/radio_clasic_bach/live.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a1270e5-9b96-4db9-91ba-527c320963c2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
   },
   {
     "id": "aws_1e37689b64007ee487ab",
@@ -2076,7 +2014,7 @@
       "RO:cross-one-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:59:09Z"
+    "lastCheckedAt": "2026-11-06T05:16:39Z"
   },
   {
     "id": "aws_5044fe2804f2c0eb55f2",
@@ -2117,25 +2055,6 @@
     "lastCheckedAt": "2026-11-06T16:57:46Z"
   },
   {
-    "id": "aws_c6abb70b0414c4ca79bf",
-    "stationId": "awb_5a7fc790c35a0116bd4f",
-    "name": "Dance FM",
-    "country": "RO",
-    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "97991c3a-688a-48c8-afb5-56761ecd5ad5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
-  },
-  {
     "id": "aws_1ad3dcd06d45626b57d6",
     "stationId": "awb_5a7fc790c35a0116bd4f",
     "name": "Dance FM",
@@ -2155,25 +2074,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:48:11Z"
-  },
-  {
-    "id": "aws_134a5f085ff9d6736085",
-    "stationId": "awb_7ebca411d82d534692da",
-    "name": "Dance FM 89.5 Bucharest",
-    "country": "RO",
-    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9618ea0c-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:01:29Z"
   },
   {
     "id": "aws_1189a41b1606de527b4e",
@@ -2416,15 +2316,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:digi-fm",
-      "ea2bd72b-71e2-42f3-8a56-aa2b3d445ea3"
+      "RO:digi-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_909ea2ebeadd35cf6c1e",
@@ -2456,15 +2354,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "73ee836b-e9f2-4758-9cd6-2886da6db476",
       "RO:digi24fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:49:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d86bd0e38d1d31e54113",
@@ -2526,25 +2422,6 @@
     "lastCheckedAt": "2026-11-06T18:06:26Z"
   },
   {
-    "id": "aws_f162dc716ee62a80b9a2",
-    "stationId": "awb_905c26f988474d2d5093",
-    "name": "Doxologia",
-    "country": "RO",
-    "url": "http://rlive.doxologia.ro/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f4048df9-a46c-4e6b-aa87-3e33c6cf92eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
-  },
-  {
     "id": "aws_1674e979a8fc472bb409",
     "stationId": "awb_886dbe4b29b9228a3e0c",
     "name": "Dream FM -Onești 92,2 FM",
@@ -2602,25 +2479,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
-    "id": "aws_60ec4d0e0515b38c937c",
-    "stationId": "awb_d2b99bd618419b5c2c24",
-    "name": "DuxRadio -Brașov",
-    "country": "RO",
-    "url": "https://radio.duxradio.ro:8002/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6fa1616a-df70-41e9-b5a5-8a96a70cbb08"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:59:13Z"
   },
   {
     "id": "aws_fe05fe7a4b581cdf1a53",
@@ -2855,26 +2713,6 @@
     "lastCheckedAt": "2026-11-06T15:54:07Z"
   },
   {
-    "id": "aws_02c15bdf49b67567c2b6",
-    "stationId": "awb_5f9ebb23d938796a52fb",
-    "name": "ERCIS FM",
-    "country": "RO",
-    "url": "https://stream.zeno.fm/ehbuv5erws8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a22c996-672b-4e6e-bd00-e0c79b57bee2",
-      "4e7e7c46-2aba-40f1-bca4-b5b97ebc39e8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:41:16Z"
-  },
-  {
     "id": "aws_70c9e431015c854dba43",
     "stationId": "awb_2ec491439f68c0b9821e",
     "name": "ERCIS FM -Iasi 94,4 FM",
@@ -2987,11 +2825,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0e293d19-fd98-49da-9f0c-5f85f263ffc9",
-      "ae95e589-75e9-4fda-9792-aa36ed34a0fc"
+      "0e293d19-fd98-49da-9f0c-5f85f263ffc9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:48Z"
+    "lastCheckedAt": "2026-11-06T04:25:50Z"
   },
   {
     "id": "aws_ac9ccf563265daefd600",
@@ -3015,7 +2852,7 @@
   {
     "id": "aws_1a5c0077759ad2c70bff",
     "stationId": "awb_12d55bc774a2de099cea",
-    "name": "EUROPA FM",
+    "name": "Europa FM",
     "country": "RO",
     "url": "https://astreaming.edi.ro:8443/EuropaFM_aac",
     "codec": "aac",
@@ -3026,11 +2863,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "10ccc464-cf4c-4643-afad-5123b6a4e863",
-      "3abea4dd-b270-430b-b18e-8954bbafbe12"
+      "1746e2b4-6382-4f8f-aa62-e027813d2516"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
+    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_279ebf0b31dedfc3f382",
@@ -3043,15 +2879,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:europa-fm-romania",
-      "c63f7402-f143-4f92-9cc9-e2d49f2a0bc5"
+      "RO:europa-fm-romania"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T03:04:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_37bab764dc610ddd49ef",
@@ -3459,25 +3293,6 @@
     "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
-    "id": "aws_71bd600f799f05422c0b",
-    "stationId": "awb_be51cd70164307ec99a0",
-    "name": "Folclor Muntenia -Buzău",
-    "country": "RO",
-    "url": "https://live.radiofolclormuntenia.ro:8008/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "97ab31d6-bf46-4774-bb40-3852f32389de"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:56:51Z"
-  },
-  {
     "id": "aws_84b48f334d98f1f3bf35",
     "stationId": "awb_524eb9912692a83a78f4",
     "name": "Folk Bun",
@@ -3510,11 +3325,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "31910163-151e-4f9f-b243-d556059aafc4",
       "5bf1b4f7-7469-4ded-bfe5-b9f9cc7bad1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T00:32:06Z"
+    "lastCheckedAt": "2026-11-05T17:33:51Z"
   },
   {
     "id": "aws_46f6de6c68e7689933e9",
@@ -3553,25 +3367,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:11:47Z"
-  },
-  {
-    "id": "aws_abe25b376e4cfc658fb1",
-    "stationId": "awb_d1f7c437a9ff072f9dbc",
-    "name": "Free FM Bucaresti",
-    "country": "RO",
-    "url": "https://rocafmadrid.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d4248885-ed44-4c07-8328-7ca0a0c78510"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:36:11Z"
   },
   {
     "id": "aws_c3a5b27896949b734832",
@@ -3690,25 +3485,6 @@
     "lastCheckedAt": "2026-11-06T15:11:47Z"
   },
   {
-    "id": "aws_672e1b414cea6a9b9220",
-    "stationId": "awb_82d33068a4ab7fc343d2",
-    "name": "GHERLA",
-    "country": "RO",
-    "url": "https://listen.streamaudio.co/proxy/gherlafm/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d4a01be4-5f65-4be7-94de-88bfd3a64ca3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:17:37Z"
-  },
-  {
     "id": "aws_d2f0c098bb08832f54c1",
     "stationId": "awb_8cc5024ec2932824b12e",
     "name": "Gherla FM",
@@ -3726,25 +3502,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:10:09Z"
-  },
-  {
-    "id": "aws_7be47e14bdd79db176b4",
-    "stationId": "awb_327b512e2e51caed9adb",
-    "name": "Gherla FM -Gherla 102,2 FM",
-    "country": "RO",
-    "url": "http://89.39.189.52:8000/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "df594943-7fb3-435c-ae83-75ffa8313c0e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
     "id": "aws_0231a2ba3230d44bcae5",
@@ -3918,11 +3675,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "cbb2ea6b-d9f0-419f-a941-52def49098b7",
       "f56ca6aa-685d-48e1-bf89-549f4584afd1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
+    "lastCheckedAt": "2026-11-06T13:59:08Z"
   },
   {
     "id": "aws_6b0c8b7cb71684688b22",
@@ -4138,25 +3894,6 @@
     "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
-    "id": "aws_8d87f524314bbc764045",
-    "stationId": "awb_3a51fbc5dd981ca6dd8f",
-    "name": "HIT FM -Brașov 94,2 FM Zărnești 94,2 FM",
-    "country": "RO",
-    "url": "https://radio.sonicpanel.ro/8082/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f0c3833e-f294-484c-9b46-569ce5fff57a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:54:08Z"
-  },
-  {
     "id": "aws_3daea8dcd5f9350695d1",
     "stationId": "awb_40b051618b964406686c",
     "name": "HIT FM Alba -Alba Iulia 88,6 FM",
@@ -4266,7 +4003,7 @@
     ],
     "sourceIds": [
       "0e02407b-177f-4736-ab23-e11a6c8ffc0c",
-      "ceddaaf9-e322-4ceb-a3e9-d2025f9f9747"
+      "7836855a-e40b-476d-8f60-a72463635a71"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:09:30Z"
@@ -4405,26 +4142,6 @@
     "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
-    "id": "aws_818000b4ae3316210948",
-    "stationId": "awb_72012081713fe7474289",
-    "name": "Kiss Fm",
-    "country": "RO",
-    "url": "https://live.kissfm.ro/kissfm.aacp",
-    "codec": "aac",
-    "bitrate": 80,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06fe3f3e-9bb1-4d96-9aa7-c103af2817c2",
-      "5c7a7785-6f77-4819-87c0-8776138fe996"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
-  },
-  {
     "id": "aws_890f55f94d079f25bb1d",
     "stationId": "awb_83d3df06bcb34804310d",
     "name": "Kiss fm • rock athems",
@@ -4558,11 +4275,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "156a711e-4e0e-4e44-a82f-8586d0a31f54",
-      "964c313e-0601-11e8-ae97-52543be04c81"
+      "156a711e-4e0e-4e44-a82f-8586d0a31f54"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:02:34Z"
+    "lastCheckedAt": "2026-11-06T00:26:36Z"
   },
   {
     "id": "aws_2e6ea5abe67668c44d17",
@@ -4578,8 +4294,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "29495082-85fc-47c5-ae5d-f169e67e5732",
-      "8dde21b9-e269-4d49-a38b-29c3b46de088"
+      "29495082-85fc-47c5-ae5d-f169e67e5732"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:53:47Z"
@@ -4674,11 +4389,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "03fca594-1c7f-495a-9619-f2981d35bd3f",
       "91cca356-4fc0-4f89-8f18-838929094d59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:19:22Z"
+    "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
     "id": "aws_541a9ad1bac706dc5944",
@@ -4713,8 +4427,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b1769b54-d186-455c-b71f-0c339f8f004f",
-      "fc1c76bf-9493-49cf-b1f4-4517edd50898"
+      "b1769b54-d186-455c-b71f-0c339f8f004f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:09:21Z"
@@ -4852,7 +4565,7 @@
     ],
     "sourceIds": [
       "162edc5a-2882-4958-9063-44a51b430e06",
-      "d33eb5f1-6250-4a28-a39a-b5f85f12c92a"
+      "da2706a1-8aa7-46f4-907f-aee51b56dfad"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:02:01Z"
@@ -5039,25 +4752,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:09:40Z"
-  },
-  {
-    "id": "aws_47f2a226c5270349eadb",
-    "stationId": "awb_8e1cf9990c7a502a4af0",
-    "name": "Magic FM Romania",
-    "country": "RO",
-    "url": "https://live.magicfm.ro/magicfm.aacp",
-    "codec": "aac",
-    "bitrate": 80,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e7667bc-98db-4772-be99-cf6e2e10d73f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
     "id": "aws_8416e021fbe2f63d2c33",
@@ -5441,15 +5135,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:minimal-techno-radio-track-discovery-rominimal-c",
-      "f7a27449-af1b-470e-aa50-bc5f1df79f4e"
+      "RO:minimal-techno-radio-track-discovery-rominimal-c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c856cd864d32dbe296b8",
@@ -5481,34 +5173,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5c2baa18-f4a2-4510-a961-d924aedccdb1",
       "RO:moinesti-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:07:26Z"
-  },
-  {
-    "id": "aws_208f60a14262712290b4",
-    "stationId": "awb_8250f372c9190788bedd",
-    "name": "Moinești FM - 100,8 FM",
-    "country": "RO",
-    "url": "https://listen.moinestifm.ro/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bf55217f-a042-4266-99af-a7d57f073027"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2b5f52d589de42fb834a",
@@ -5549,25 +5220,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:56:51Z"
-  },
-  {
-    "id": "aws_8bab9dd537e24998add7",
-    "stationId": "awb_336cebc06dadec03cbe8",
-    "name": "Muscel FM 94.1",
-    "country": "RO",
-    "url": "http://188.27.135.199:8000/muscelfm",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "596f7373-e9e9-4f7e-a85c-9f5b3eb3cef3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
   },
   {
     "id": "aws_0091de730092c4ff97bb",
@@ -5621,11 +5273,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "51757906-c5c9-427e-b213-6443f9297feb",
       "7fa133f0-3a32-4607-8b50-cfa52b4f98c0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
+    "lastCheckedAt": "2026-11-05T23:05:46Z"
   },
   {
     "id": "aws_813d5607cbc656633975",
@@ -5806,20 +5457,18 @@
     "name": "Nostalgia Radio",
     "country": "RO",
     "url": "https://live.radionostalgia.ro:8443/nostalgia.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "563c1b55-4e3e-4bc1-b32c-a8336bf571d3",
       "RO:nostalgia-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9095ea591bf0eb2ad915",
@@ -5892,11 +5541,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2d1c0692-c71f-403c-8f65-078f6fb8934d",
-      "7c6c391a-88f9-4e73-a1df-f8f86adfc2ae"
+      "2d1c0692-c71f-403c-8f65-078f6fb8934d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
+    "lastCheckedAt": "2026-11-06T12:40:44Z"
   },
   {
     "id": "aws_f93f9850b4014ae0f84f",
@@ -6171,44 +5819,6 @@
     "lastCheckedAt": "2026-11-06T18:39:55Z"
   },
   {
-    "id": "aws_f12435d253f2fbacc92d",
-    "stationId": "awb_5a9597cfd7ebd448d349",
-    "name": "Play 90 Constanta",
-    "country": "RO",
-    "url": "https://live.playradio.org:8443/FMHD",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2510d5d2-8b9c-45cf-8033-a7b4dab168b6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:42:28Z"
-  },
-  {
-    "id": "aws_6eb21beef5966da647b1",
-    "stationId": "awb_b0e22632cc8fa5cb757d",
-    "name": "Play 90's",
-    "country": "RO",
-    "url": "http://live.playradio.org:9090/90HD",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b162d016-5628-42cf-8fb1-22866ba5f065"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
     "id": "aws_2de5b0ab2326238c4477",
     "stationId": "awb_fe7960eb33403ea6c74e",
     "name": "Play 90s - “Ritmul Anilor Tăi”",
@@ -6354,15 +5964,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8571d3ac-77c7-4620-8300-cc47f6f56d3a",
       "RO:plusz-fm-margitta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1da18acd0be84ec7c218",
@@ -6375,15 +5983,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "830086b4-8d1a-44b9-8610-792225db7f36",
       "RO:plusz-fm-nagyvarad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8be9c2a8cc2c743eba25",
@@ -6462,44 +6068,6 @@
     "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
-    "id": "aws_2ffc111d0a51cb20e538",
-    "stationId": "awb_f8578a19582176681619",
-    "name": "Pro FM",
-    "country": "RO",
-    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960ee76f-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:50Z"
-  },
-  {
-    "id": "aws_d71d60ecb3fd09316977",
-    "stationId": "awb_ba4cba6ef6416667b972",
-    "name": "Pro FM -Brașov 89,9 FM",
-    "country": "RO",
-    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e6551935-1b3a-40e8-9841-bc4b2a9a4559"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:22:19Z"
-  },
-  {
     "id": "aws_0363a6980bae673b5047",
     "stationId": "awb_a7b7a67886dce6613638",
     "name": "Pro FM -stația Cluj Napoca 99,8 FM",
@@ -6519,25 +6087,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:19:17Z"
-  },
-  {
-    "id": "aws_a0902cb36426ecca8744",
-    "stationId": "awb_194972e54fed10fc4c88",
-    "name": "ProB Radio",
-    "country": "RO",
-    "url": "http://live.radioprob.ro:8888/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e1651914-bd89-4cbb-a80a-18892f8a2757"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_eb028b6ca19471a56c76",
@@ -6652,44 +6201,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:32:54Z"
-  },
-  {
-    "id": "aws_d8ac9847150cbc4dbb4e",
-    "stationId": "awb_58e31e1bc0768f0cea70",
-    "name": "Radio 1 Manele România -Brașov",
-    "country": "RO",
-    "url": "https://ssl.omegahost.ro/8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4684538e-2f1d-4ee7-ac55-f5b88c73f495"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:32:42Z"
-  },
-  {
-    "id": "aws_c224257ecefdbfb1b4fc",
-    "stationId": "awb_e2e17490195186873466",
-    "name": "radio 1 pitesti",
-    "country": "RO",
-    "url": "https://ssl.radios.show/8050/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9e723718-74a7-4174-8c51-dbe3458e5050"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:12:02Z"
   },
   {
     "id": "aws_07bb850999f23c715647",
@@ -7263,15 +6774,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:radio-boom-energy",
-      "a729b1ff-376c-4bd7-8b67-b951ea1609b4"
+      "RO:radio-boom-energy"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:18:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_afbf264ba5b556c2d758",
@@ -7455,25 +6964,6 @@
     "lastCheckedAt": "2026-11-06T11:36:35Z"
   },
   {
-    "id": "aws_f0954b7b219a5fe1e033",
-    "stationId": "awb_a2b074495b3def817372",
-    "name": "Radio Brașov -87,8 FM",
-    "country": "RO",
-    "url": "https://live.radiobrasov.ro/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07f91cc6-244e-4598-bb0c-26731149982b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
-  },
-  {
     "id": "aws_47584fb54e004c03ec24",
     "stationId": "awb_35a4ca09c8f6d99d87a3",
     "name": "Radio Bucovina",
@@ -7529,26 +7019,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
-    "id": "aws_201a338aaadd8827d881",
-    "stationId": "awb_78c9eb0cac191174cfe3",
-    "name": "Radio Cafe Romania",
-    "country": "RO",
-    "url": "http://live.radiocafe.ro:8048/live.aac",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d77d6bb3-8a1a-11e9-ad01-52543be04c81",
-      "f90ef2e5-4681-493a-bfa0-15627e3fb248"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
   },
   {
     "id": "aws_db44384ecfc2a60dc8d2",
@@ -7621,7 +7091,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b443a7e-b6b7-444d-9e6c-fa9c07d9c418",
       "649400f5-b925-49dd-aafd-63fd4be17de4"
     ],
     "lastCheckOk": true,
@@ -7685,6 +7154,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:23:54Z"
+  },
+  {
+    "id": "aws_98d4dec7109271a05318",
+    "stationId": "awb_542ceebab4395d3253b4",
+    "name": "Radio Click Romania",
+    "country": "RO",
+    "url": "https://live.radioclick.ro:8008/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b849bf99-8991-4f0a-93ac-500346e19b6b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_52a4401e84839cd28373",
@@ -7877,25 +7365,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:07:47Z"
-  },
-  {
-    "id": "aws_2853a128d4f6e80d59cd",
-    "stationId": "awb_9f6558ee9bb67132945f",
-    "name": "Radio Costesti Arges Online",
-    "country": "RO",
-    "url": "http://play.wrhradios.com:8024/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3723f7eb-560b-4a46-8c9c-4977a558a72b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
   },
   {
     "id": "aws_e3ab463658496a369c9c",
@@ -8145,25 +7614,6 @@
     "lastCheckedAt": "2026-11-06T00:34:11Z"
   },
   {
-    "id": "aws_a21c30b0e560babde43b",
-    "stationId": "awb_12e4381f95cd5679a274",
-    "name": "Radio Damblagii",
-    "country": "RO",
-    "url": "https://radio.rodnuk.com/hls/radio_damblagii/Radio-Damblagii.m3u8",
-    "codec": "aac",
-    "bitrate": 52,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d0855aee-dc7c-4140-bf60-6323c8bde7b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
-  },
-  {
     "id": "aws_15410fbb3d1f427eb4c8",
     "stationId": "awb_6b49ff10cb84387fd980",
     "name": "Radio DEEA",
@@ -8356,25 +7806,6 @@
     "lastCheckedAt": "2026-11-06T07:03:44Z"
   },
   {
-    "id": "aws_86a040dc4a9f4ee192d7",
-    "stationId": "awb_9298ce5a5f9f94967f30",
-    "name": "Radio Domeldo Movie",
-    "country": "RO",
-    "url": "https://radiodomeldo.ro/movie",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "13970f13-48ea-483e-b281-d615d34479f4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:35:39Z"
-  },
-  {
     "id": "aws_8ad5701c0ef94ad6953b",
     "stationId": "awb_93095c63f12e733a531f",
     "name": "Radio Domeldo Movie -Cluj Napoca",
@@ -8426,11 +7857,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "647a7717-ed8c-49dc-a9ed-56ef6ef1ef17",
-      "e1327ba8-cbb4-11e9-8502-52543be04c81"
+      "647a7717-ed8c-49dc-a9ed-56ef6ef1ef17"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:53:27Z"
+    "lastCheckedAt": "2026-11-06T15:03:28Z"
   },
   {
     "id": "aws_7a92c356c82099976b6d",
@@ -8449,7 +7879,7 @@
       "57143c59-a283-4a4a-b07b-efe4553ed46d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_7051b7e5734c20f38866",
@@ -8492,7 +7922,7 @@
   {
     "id": "aws_6656b77d13ba50925665",
     "stationId": "awb_92bb66de03fcdb93d707",
-    "name": "Radio EASY -Bacău",
+    "name": "RADIO EASY BACĂU",
     "country": "RO",
     "url": "https://ssl.asculta.live/8108/stream",
     "codec": "mp3",
@@ -8503,8 +7933,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8dc785ae-81b6-4cb6-ba0d-cc5fd8b26603",
-      "b8889749-a69b-42fb-bf45-74dfdf9be268"
+      "8dc785ae-81b6-4cb6-ba0d-cc5fd8b26603"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:37:23Z"
@@ -8882,25 +8311,6 @@
     "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
-    "id": "aws_a4b10fdc5464afbe1385",
-    "stationId": "awb_f0b13f2deb4f2ea279e0",
-    "name": "Radio Folclor Buzău FM -Buzău",
-    "country": "RO",
-    "url": "https://live.radiofolclorbuzaufm.ro:8910/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "29e9a882-98c2-4c5d-884d-ad9cb0129bcb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
-  },
-  {
     "id": "aws_d208d95f0984738f0099",
     "stationId": "awb_be6182a1138b11b6f1a5",
     "name": "Radio Folclor Muntenia",
@@ -8939,44 +8349,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:12:22Z"
-  },
-  {
-    "id": "aws_76b1ea70c9575035a68a",
-    "stationId": "awb_7de451bf2eded99fff59",
-    "name": "Radio Gaga",
-    "country": "RO",
-    "url": "http://rc.radiogaga.ro:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06749e9d-9412-498d-86f3-c9ebae5dc58f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:55Z"
-  },
-  {
-    "id": "aws_92d586777e91f3574f01",
-    "stationId": "awb_de0eb9f08023baa5ce25",
-    "name": "Rádió Gaga",
-    "country": "RO",
-    "url": "http://rc.radiogaga.ro:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2da7b8ab-d486-4649-b78a-68b8a08e9a2d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
     "id": "aws_6195c6ea9fb263e801b7",
@@ -9203,8 +8575,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "349eb141-0bed-4fc9-a923-0076f0c8c0c0",
-      "cd2ff65c-4efc-4074-a75a-fabdba74fbdb"
+      "aff54a6e-1d1c-43f7-a3cb-d29129ec84b7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:00:54Z"
@@ -9520,25 +8891,6 @@
     "lastCheckedAt": "2026-11-06T14:31:57Z"
   },
   {
-    "id": "aws_afc8fbcab8425ff1758d",
-    "stationId": "awb_4654f531ca224f38dd8b",
-    "name": "Radio Guerrilla",
-    "country": "RO",
-    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961ae516-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
-  },
-  {
     "id": "aws_febd0a02d873de7a01b3",
     "stationId": "awb_4654f531ca224f38dd8b",
     "name": "Radio Guerrilla",
@@ -9653,25 +9005,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:12:19Z"
-  },
-  {
-    "id": "aws_6f9a6788ba0034cfc341",
-    "stationId": "awb_c1b107581379cae063d9",
-    "name": "Radio Impuls Romania",
-    "country": "RO",
-    "url": "https://live.radio-impuls.ro/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "00d1815f-8752-472b-8e1f-805431e96952"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:39:01Z"
   },
   {
     "id": "aws_4428c8f4b77698b06b5e",
@@ -9807,25 +9140,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
-  },
-  {
-    "id": "aws_3fec2ba7fb72d9b7fa3a",
-    "stationId": "awb_c7616bfd9d3855341724",
-    "name": "Rádió Koko",
-    "country": "RO",
-    "url": "https://az10.yesstreaming.net:8210/radiokoko",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e454f75a-3ca2-4def-88b9-0dcaf2961bda"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
   },
   {
     "id": "aws_f54540410fb80f6e56d9",
@@ -10180,44 +9494,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
-  },
-  {
-    "id": "aws_21fe97a2721d8564cbb7",
-    "stationId": "awb_60767818ee2cd5f2757e",
-    "name": "Radio Manele FM",
-    "country": "RO",
-    "url": "http://a.fmradiomanele.ro:8054/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9641c132-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:20:18Z"
-  },
-  {
-    "id": "aws_d3806935a777a62559d1",
-    "stationId": "awb_8ad331b549e3cf099593",
-    "name": "RADIO MANELE PETRECERE",
-    "country": "RO",
-    "url": "https://ssl.servereradio.ro/8123/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc5a46e8-a73f-43eb-8aa3-84107dc123be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
     "id": "aws_70271481cea782789756",
@@ -10640,11 +9916,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5cd4666f-e2cc-43e2-9337-03cef1c36b7a",
-      "a080d414-3057-4ec9-bdb9-bf12b4a9e8a4"
+      "5cd4666f-e2cc-43e2-9337-03cef1c36b7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
+    "lastCheckedAt": "2026-11-06T05:16:39Z"
   },
   {
     "id": "aws_5a5eef72de7d5736e231",
@@ -11639,63 +10914,6 @@
     "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
-    "id": "aws_8cfb5bb78fa4d01583fd",
-    "stationId": "awb_43d54c5dda5125b77027",
-    "name": "Radio Reîntregirea",
-    "country": "RO",
-    "url": "https://live.reintregirea.ro/",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "502083b9-6a7a-4fc8-be35-52079c0104c5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:57:46Z"
-  },
-  {
-    "id": "aws_7b70a46b219e48ec5c27",
-    "stationId": "awb_a765a93a0e61346d6cf9",
-    "name": "Radio Renasterea",
-    "country": "RO",
-    "url": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "43a56ab6-d0a8-48ca-ac98-22184bf79371"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_11092583a2c49481099b",
-    "stationId": "awb_fe3daa66d1cc8395761f",
-    "name": "Radio Renașterea -Bistrița 102 FM",
-    "country": "RO",
-    "url": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2750ae68-3600-451d-a370-633097cd9613"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
     "id": "aws_0ebe8860530ec9a1c252",
     "stationId": "awb_f516bde115dd2352f2bc",
     "name": "Radio Renașterea -Cluj Napoca 91,0 FM",
@@ -11793,25 +11011,6 @@
     "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
-    "id": "aws_51d46daa14def2abb73c",
-    "stationId": "awb_7fa6aae93891ef536d69",
-    "name": "Radio România 3 Net",
-    "country": "RO",
-    "url": "http://media.3netmedia.ro:8000/Live128",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f5f7550d-33b5-4502-af3c-aa08c8d8d79f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:50:01Z"
-  },
-  {
     "id": "aws_9df8f581d1cabbc38a7d",
     "stationId": "awb_3c4fcb2bc69deca41c9f",
     "name": "Radio România 3Net",
@@ -11874,20 +11073,18 @@
     "name": "Radio România Actualități",
     "country": "RO",
     "url": "https://stream4.srr.ro:8443/romania-actualitati",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8158142a-c13e-4073-ace3-ab574f0285bb",
       "RO:radio-romania-actualitati"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:45:22Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_93b145600a7ed18d4af5",
@@ -12232,26 +11429,6 @@
     "lastCheckedAt": "2026-11-06T04:51:03Z"
   },
   {
-    "id": "aws_496f11b2acb435f63f08",
-    "stationId": "awb_394c1eb73691f419e513",
-    "name": "Radio Romantic",
-    "country": "RO",
-    "url": "https://radio-romantic.ro/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "701fcd20-6e49-4cc4-8623-a3d7be03b5d8",
-      "e20bf96a-cee9-42a2-aa07-89034f2933eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
-  },
-  {
     "id": "aws_4083e79b8d5d40ac0889",
     "stationId": "awb_a0baf1efb0a512aede17",
     "name": "Radio Romantic Modern Talking - Blue Systems",
@@ -12265,8 +11442,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bde76f46-8a6b-414a-9df3-041f718f110f",
-      "da0d0db7-6079-4397-a219-0ddea468fb46"
+      "bde76f46-8a6b-414a-9df3-041f718f110f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:55:45Z"
@@ -12329,25 +11505,6 @@
     "lastCheckedAt": "2026-11-06T15:10:10Z"
   },
   {
-    "id": "aws_adecd167663807f97c8e",
-    "stationId": "awb_1421f3d8c70006f8469a",
-    "name": "Radio Sighet FM",
-    "country": "RO",
-    "url": "http://89.238.227.6:8390/%7CRadio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2671a778-a95d-499f-8e4e-fe1cb3da88e4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:30:25Z"
-  },
-  {
     "id": "aws_cbd49190206a571281e1",
     "stationId": "awb_f4cf47fc3c6358836be9",
     "name": "Radio Sky FM",
@@ -12384,25 +11541,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:59:09Z"
-  },
-  {
-    "id": "aws_4817c9e4d9a53a2fdf4b",
-    "stationId": "awb_eff697b9bbe9b486aad6",
-    "name": "radio SOMEȘ",
-    "country": "RO",
-    "url": "https://radio.mediacp.eu/stream/radiosomes",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "65f006a6-7f3d-42ba-8550-51261ae53c6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:28Z"
   },
   {
     "id": "aws_d4133f19f6c75167d7d3",
@@ -12554,26 +11692,7 @@
       "95ebfafc-55a1-4abb-bacf-7dc7b8bab45b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
-  },
-  {
-    "id": "aws_dd587f2da310d3548e66",
-    "stationId": "awb_5fd8ec51bcb3b24c4588",
-    "name": "Radio Supersonic -Buzău",
-    "country": "RO",
-    "url": "https://s5.radio.co/s08e5c5875/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c0da841-1ca8-4210-a229-e62a31da14e8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_518478a9d5624e1c4a6b",
@@ -12671,25 +11790,6 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
-    "id": "aws_8e4b09fd69dc6fbf7815",
-    "stationId": "awb_761329828ce9e0cdf2a1",
-    "name": "Radio Tequila Hip-Hop",
-    "country": "RO",
-    "url": "http://necenzurat.radiotequila.ro:7000/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "126d3c92-54b9-4d3d-af82-aa554b27c1ad"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
-  },
-  {
     "id": "aws_67e96328f86a45c61ab6",
     "stationId": "awb_f5549b28dc8677c74f68",
     "name": "Radio Tequila Manele",
@@ -12707,25 +11807,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:26:36Z"
-  },
-  {
-    "id": "aws_e7445c3f197b1d11eccc",
-    "stationId": "awb_dfbd41e60bd0e07109bb",
-    "name": "Radio Tequila Manele Romania",
-    "country": "RO",
-    "url": "https://petrecere.radiotequila.ro/7000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dcae60bc-ffb7-403b-9a42-30be18b42fc0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
   },
   {
     "id": "aws_5b3c35fa275e8cc07ce4",
@@ -12764,25 +11845,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:50:00Z"
-  },
-  {
-    "id": "aws_46786d57db4f0d3dd807",
-    "stationId": "awb_083660e0ef42e6ba0f6f",
-    "name": "Radio Terra",
-    "country": "RO",
-    "url": "http://188.26.110.59:8000/terra_hq.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc94b893-e362-4db3-bea3-b479a59af728"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
   },
   {
     "id": "aws_3177706ad97f3e2dcd20",
@@ -12890,15 +11952,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5a597723-62af-477b-9cd1-8a666ee72b5c",
       "RO:radio-transilvania-cluj"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_bd98a93f59e823d389f5",
@@ -12918,25 +11978,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:22:43Z"
-  },
-  {
-    "id": "aws_209d6d150082941678cd",
-    "stationId": "awb_fda2f42ef1bc7091a56d",
-    "name": "Radio Transilvania -Cluj Napoca 94,5 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Cluj",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da60a4ac-02a1-4718-887e-606f65e8120d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
   },
   {
     "id": "aws_1376bf9380092b44558e",
@@ -12977,25 +12018,6 @@
     "lastCheckedAt": "2026-11-06T03:14:51Z"
   },
   {
-    "id": "aws_4950c433bcc1dd447772",
-    "stationId": "awb_6a1070bdd80dc0abac0c",
-    "name": "Radio Transilvania (📌 Beiuș 📡 88,0 FM)",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Oradea",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96b7b6c6-9920-40dc-b387-d4a685a6be7a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:15:26Z"
-  },
-  {
     "id": "aws_d5a903ad3af243dbce9f",
     "stationId": "awb_23bfc8db2d2fa428117c",
     "name": "Radio Trib",
@@ -13030,8 +12052,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "84b42f26-95ee-4852-aa23-f791296b0430",
-      "961326aa-0601-11e8-ae97-52543be04c81"
+      "c89b4546-9e9d-48fd-ba8b-f5188636f0eb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:49:18Z"
@@ -13423,25 +12444,6 @@
     "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
-    "id": "aws_8ead2e19047822e10328",
-    "stationId": "awb_be3ca0c314afc76cf367",
-    "name": "Radio Voces Campi -Oltenița 94,0 FM",
-    "country": "RO",
-    "url": "http://vocescampi.ro:8001/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c2005876-ceaf-4826-89ef-18f62d1e28f7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:12:22Z"
-  },
-  {
     "id": "aws_52e5bbe9499a9f0aa6de",
     "stationId": "awb_4e9e9e783bd160a48255",
     "name": "Radio Xtream",
@@ -13499,28 +12501,9 @@
     "lastCheckedAt": "2026-11-06T14:15:33Z"
   },
   {
-    "id": "aws_fa8e8a67d1c14e393e13",
-    "stationId": "awb_da15cae6b3d1cc4fc850",
-    "name": "Radio Zu",
-    "country": "RO",
-    "url": "http://zuicast.digitalag.ro:9420/zu",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70d48cfd-eedd-400a-8b7a-881e7015fc3f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
-  },
-  {
     "id": "aws_369f6468ac16c4a2a666",
     "stationId": "awb_da15cae6b3d1cc4fc850",
-    "name": "Radio ZU",
+    "name": "Radio ZU!",
     "country": "RO",
     "url": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
     "codec": "unknown",
@@ -13531,7 +12514,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7912ccbd-e75d-425c-85b9-0b2ac2a4b213",
       "85f02a44-6c0e-4cfa-aa1e-e1f194c1235f"
     ],
     "lastCheckOk": true,
@@ -13555,26 +12537,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:48:16Z"
-  },
-  {
-    "id": "aws_e72f483a71a86e10bc6e",
-    "stationId": "awb_99b3dc091d860a2268a0",
-    "name": "RadioClick",
-    "country": "RO",
-    "url": "http://live.radioclick.ro:8008/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "67ca3c3b-6bb1-45dd-9c35-9f01f4286343",
-      "75f28776-0332-4c97-aab7-d82221ec9a9f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:18:39Z"
   },
   {
     "id": "aws_81922f4c33376a9ceff2",
@@ -13794,25 +12756,6 @@
     "lastCheckedAt": "2026-11-06T09:56:51Z"
   },
   {
-    "id": "aws_29569897ca8127036ae9",
-    "stationId": "awb_08ee75a0dceedcd69a55",
-    "name": "RadioTrandafirulRoșul",
-    "country": "RO",
-    "url": "https://stream.zeno.fm/46mdd8ebdchvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "099bfe39-13f7-4af1-b31f-5e72d07dea19"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:52:21Z"
-  },
-  {
     "id": "aws_2d5be9c9f46c044d2824",
     "stationId": "awb_b98d9b80501597e5c696",
     "name": "Realitatea FM",
@@ -13849,25 +12792,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:55:06Z"
-  },
-  {
-    "id": "aws_77b47d61ec204f6744d5",
-    "stationId": "awb_0d878952d951b53d006b",
-    "name": "Reintregirea",
-    "country": "RO",
-    "url": "https://live.reintregirea.ro/",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4e335b7e-4ceb-4786-a9e1-07969ab42f54"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
   },
   {
     "id": "aws_dfb83540f38724503c54",
@@ -13940,11 +12864,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5782d204-ba9f-4857-b1b1-cd8aaa407c75",
-      "a764ec3b-e258-4b51-9bea-20ab95b09370"
+      "5782d204-ba9f-4857-b1b1-cd8aaa407c75"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:11:32Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_3ab0cb37d8157c8a85c3",
@@ -14052,15 +12975,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:rock-fm-ballads",
-      "e6ab32a3-e8be-4f42-92e9-6bfbfb641da5"
+      "RO:rock-fm-ballads"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3019cc3f15dffc484c33",
@@ -14094,34 +13015,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2eb897a7-b86b-4bb2-b245-94a43829b7e5",
       "RO:rock-fm-hard-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
-  },
-  {
-    "id": "aws_317cb2cd83b49cad53f1",
-    "stationId": "awb_93140d6b5ce854fbe2c0",
-    "name": "Rock FM Romania",
-    "country": "RO",
-    "url": "https://live.rockfm.ro/rockfm.aacp",
-    "codec": "aac",
-    "bitrate": 80,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "83a18260-6d4f-4859-b7a0-30b41d0dc9e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:51:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0559611d0245cd6c973f",
@@ -14138,8 +13038,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "866ed686-a224-4e5c-b306-0f5a6bdc5714",
-      "RO:rock-now-radio"
+      "RO:rock-now-radio",
+      "ec2d1be9-019f-4819-a08a-a28e2c90bf0c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:41:40Z"
@@ -14163,7 +13063,7 @@
       "RO:rockfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
+    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_c2a609154187bd6c01bf",
@@ -14267,44 +13167,23 @@
     "lastCheckedAt": "2026-11-06T14:15:33Z"
   },
   {
-    "id": "aws_e981f8d4cdc8d6847dd0",
-    "stationId": "awb_d26a98935314c5fee627",
-    "name": "ROMÂNIA Actualități",
-    "country": "RO",
-    "url": "https://stream4.srr.ro:8443/romania-actualitati",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a11eaf83-9f07-4fad-9b1f-d7b6ee57ab85"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:53:36Z"
-  },
-  {
     "id": "aws_70850f48fd42f1fa0c20",
     "stationId": "awb_58de8e5c0f9c4acbedf5",
     "name": "ROMÂNIA Antena Satelor",
     "country": "RO",
     "url": "https://stream4.srr.ro:8443/antena-satelor",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "701e5bbd-5384-468a-a564-179de50e5544",
       "RO:romania-antena-satelor"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_11067ff3ef25a4701154",
@@ -14554,25 +13433,6 @@
     "lastCheckedAt": "2026-11-07T00:40:01Z"
   },
   {
-    "id": "aws_5f06df9399b005d16bda",
-    "stationId": "awb_1bb4a3a95362ab658998",
-    "name": "Schitul Sfântul Neagoe Vodă Basarab",
-    "country": "RO",
-    "url": "https://radio.schitulvladestiarges.uk/live",
-    "codec": "ogg",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49bf809e-b678-49a0-8701-85b801d70621"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:07:26Z"
-  },
-  {
     "id": "aws_f9271b899214f21db6cc",
     "stationId": "awb_f285847493f9523e7c68",
     "name": "Schitul Sfântul Neagoe Vodă Basarab, Vlădești, Argeș",
@@ -14590,26 +13450,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:38:17Z"
-  },
-  {
-    "id": "aws_388ac8e866a1cd600f59",
-    "stationId": "awb_f0a852ed03f1e05ef247",
-    "name": "Schitul Vladesti Arges",
-    "country": "RO",
-    "url": "https://radio.schitulvladestiarges.uk/live",
-    "codec": "ogg",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49e22d42-1f4d-485d-a8fa-95a24946a6c4",
-      "552f5c3f-b61d-4bc8-afef-c8befdb53aac"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
   },
   {
     "id": "aws_027b3904b7408b1c3de3",
@@ -14688,25 +13528,6 @@
     "lastCheckedAt": "2026-11-06T15:19:31Z"
   },
   {
-    "id": "aws_f8b89564a2f3b9eff697",
-    "stationId": "awb_afe6efc8724ab961234e",
-    "name": "Siculus Rádió -Kézdivásárhely/Târgu Secuiesc 95.0 FM",
-    "country": "RO",
-    "url": "http://46.214.17.202:8000/radioac3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f3b2d997-64ef-4f52-804d-5fbc8de79e64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:37:05Z"
-  },
-  {
     "id": "aws_521139af91b981f9b3a7",
     "stationId": "awb_3bb90f5d284a5ebdbcb2",
     "name": "Sighet FM -Sighetu Marmației 89.3 FM",
@@ -14726,25 +13547,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:12:27Z"
-  },
-  {
-    "id": "aws_807758f19362c6667532",
-    "stationId": "awb_89a605bcbd3cfd8811f3",
-    "name": "Sighet FM 89.3",
-    "country": "RO",
-    "url": "https://radio.zifer.ro/SighetFM",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "32e5ee6d-1f76-4353-a9aa-f37252b1a878"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
   },
   {
     "id": "aws_152b0d44b62b0d677fa1",
@@ -14869,25 +13671,6 @@
     "lastCheckedAt": "2026-11-06T09:58:53Z"
   },
   {
-    "id": "aws_bcd24448165fe8a0ebd0",
-    "stationId": "awb_b6639253cc30e2ed91e5",
-    "name": "Smart FM",
-    "country": "RO",
-    "url": "http://live.smartradio.ro:9128/live",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "91f5bcf5-896b-46ca-afae-7c767b7ce0e2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
-  },
-  {
     "id": "aws_9a7f8d38035b4847e0cf",
     "stationId": "awb_2ba48ea6f78c917af8ff",
     "name": "Smart N'Roll",
@@ -14905,25 +13688,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:47:37Z"
-  },
-  {
-    "id": "aws_b754a25f2ba904d547c1",
-    "stationId": "awb_a8893a806493bf000ef7",
-    "name": "Smart Radio",
-    "country": "RO",
-    "url": "https://live.smartradio.ro:8443/live",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b92d9907-2880-4a99-9052-8d4792133506"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
   },
   {
     "id": "aws_f9385ac9b35e4e205c3c",
@@ -15078,25 +13842,6 @@
     "lastCheckedAt": "2026-11-07T00:11:50Z"
   },
   {
-    "id": "aws_96ebf50e03087bd11f05",
-    "stationId": "awb_efbb78d03519fda014d9",
-    "name": "Smart Radio -Smart n'Roll",
-    "country": "RO",
-    "url": "https://web.smartradio.ro:8443/smartnroll",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cd6f3462-9ac2-4fe1-afd0-26b05c68a35f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
-  },
-  {
     "id": "aws_8639139b04700deeef35",
     "stationId": "awb_f8511d890ae615a7da1f",
     "name": "Smart Radio -Smart on Soundtrack",
@@ -15240,110 +13985,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5eeb1b61-9472-4305-90ce-c6afe9d429d8",
       "RO:soft-rock-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:42:28Z"
-  },
-  {
-    "id": "aws_981216fa6cb40625a53b",
-    "stationId": "awb_d8405061e943e476c50e",
-    "name": "Someș Radio -Bistrițai 96.6 FM",
-    "country": "RO",
-    "url": "https://radio.mediacp.eu/stream/radiosomes",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "33bbaa8a-d362-4d4d-88b4-888644ac5cbf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_c01064e3d69da1451138",
-    "stationId": "awb_5a7742d9df316eab1d23",
-    "name": "Son Radio -Luduș 94.2 FM",
-    "country": "RO",
-    "url": "http://89.33.243.3:8000/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0fb4ef4a-9945-4101-9887-50af4a93a250"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:22:54Z"
-  },
-  {
-    "id": "aws_05464c054dd176b15fce",
-    "stationId": "awb_de11fd5604f323a9ef86",
-    "name": "Son Radio -Reghin 87.8 FM",
-    "country": "RO",
-    "url": "http://89.33.243.3:8000/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4499bcc6-e1bd-4311-be7d-2ef9bc5e261a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:00:42Z"
-  },
-  {
-    "id": "aws_78268444ccb35a03b29f",
-    "stationId": "awb_1d50587d2715ec20af0e",
-    "name": "Son Radio -Sighișoara 89.5 FM",
-    "country": "RO",
-    "url": "http://89.33.243.3:8000/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b985f4ea-407f-4805-8be9-8d0e2ff898ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
-  },
-  {
-    "id": "aws_d8e7016a34b1aa500615",
-    "stationId": "awb_57bc5ce6cddc35452a56",
-    "name": "Son Radio -Sovata 89.2 FM",
-    "country": "RO",
-    "url": "http://89.33.243.3:8000/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abcfec54-4678-405d-a9c9-0d3bd3df2c3b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ae7f2a1301f079a14436",
@@ -15363,25 +14011,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:23:54Z"
-  },
-  {
-    "id": "aws_227260898dc394b83b95",
-    "stationId": "awb_87a3c578f5f86166efba",
-    "name": "Son Radio -Toplița 104.3 FM",
-    "country": "RO",
-    "url": "http://89.33.243.3:8000/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6e488634-dc21-4d4e-8e4b-94d9feccb268"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:12Z"
   },
   {
     "id": "aws_7f711b471c53e06d7b1b",
@@ -15460,25 +14089,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
-    "id": "aws_427d645fd9a92d7703cd",
-    "stationId": "awb_d8ee21940acc8ce538c5",
-    "name": "Space FM",
-    "country": "RO",
-    "url": "http://stream.radioparadise.com/world-etc-192",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da757bb8-d985-4477-bc3d-af7773eb2904"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
   },
   {
     "id": "aws_a0685a446d2ea390a660",
@@ -15599,25 +14209,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
-    "id": "aws_8d94120aae0095438dc8",
-    "stationId": "awb_d2a2e245236efcc8039a",
-    "name": "Squad Radio",
-    "country": "RO",
-    "url": "https://a7.asurahosting.com:8190/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fa81981e-9fee-4c71-879c-cc7611c76397"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_91569ceebd113c9c79db",
@@ -15793,25 +14384,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:52:13Z"
-  },
-  {
-    "id": "aws_fd427e873788e15caaf2",
-    "stationId": "awb_10d09724bf4ffdf0e433",
-    "name": "Star Rádió -Székelyudvarhely/Odorheiu Secuiesc 100.8 FM",
-    "country": "RO",
-    "url": "https://online.webcastradio.ro/star",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "171b2d6a-1c3c-41fb-83d4-f2f747b55bbe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:47:16Z"
   },
   {
     "id": "aws_1e5660eaebb4f36d88bb",
@@ -16109,20 +14681,18 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2ab0f5db-f677-11e9-bbf2-52543be04c81",
       "RO:super-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:24:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_29f04a6b4824078728d2",
     "stationId": "awb_849650fe7771be683f17",
-    "name": "Super FM -Brașov 93,8 FM",
+    "name": "Super FM -Brașov 93.8 FM",
     "country": "RO",
     "url": "https://live.superfm.ro/stream.mp3",
     "codec": "mp3",
@@ -16133,8 +14703,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "72cbb426-5481-4a9a-b07c-ca6c37dc6977",
-      "e561e946-673d-4363-ad6a-e51a7e804f69"
+      "72cbb426-5481-4a9a-b07c-ca6c37dc6977"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:50:25Z"
@@ -16235,25 +14804,6 @@
     "lastCheckedAt": "2026-11-06T03:28:02Z"
   },
   {
-    "id": "aws_04c622768eeed1935539",
-    "stationId": "awb_f776d304cd01054802a0",
-    "name": "Super Popular",
-    "country": "RO",
-    "url": "https://stream.zeno.fm/8epw07pzm7zuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2d38b2e8-e66d-412e-87c4-0b49693296cf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
-  },
-  {
     "id": "aws_092414f6b137266c3294",
     "stationId": "awb_d1913bfd584eddb4782f",
     "name": "Super Radio",
@@ -16326,10 +14876,10 @@
     ],
     "sourceIds": [
       "RO:supersonic-radio",
-      "a923100c-8c7a-4323-83ed-52e0c93cb6c8"
+      "e4ed8cd5-aa8e-40ca-bc02-94a4c588f8a6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:56:42Z"
+    "lastCheckedAt": "2026-11-06T08:35:39Z"
   },
   {
     "id": "aws_f782d359f758b1539b23",
@@ -16369,7 +14919,7 @@
       "RO:supravibe-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
+    "lastCheckedAt": "2026-11-06T07:32:42Z"
   },
   {
     "id": "aws_c220cbd4df513aaa6816",
@@ -16391,25 +14941,6 @@
     "lastCheckedAt": "2026-11-06T06:36:05Z"
   },
   {
-    "id": "aws_6babff2b0dc4d3d5cfda",
-    "stationId": "awb_33af3eaed2d168656de1",
-    "name": "Sweet FM Romania",
-    "country": "RO",
-    "url": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b8112c7-0d19-4ffd-be0c-21f7c9473bb2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
     "id": "aws_3a6fd2cb157eddb1807c",
     "stationId": "awb_4a0a0e3649a1918a38d5",
     "name": "Sweet Vibes Radio",
@@ -16429,25 +14960,6 @@
     "lastCheckedAt": "2026-11-07T02:17:36Z"
   },
   {
-    "id": "aws_cd79e2578bac3ed752e2",
-    "stationId": "awb_e7ba834be711b0023fb7",
-    "name": "Székely Rádió Gyergyói",
-    "country": "RO",
-    "url": "http://szekelyradio.top:8000/;",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "30a18245-32ba-423f-b495-cd312480638c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
-  },
-  {
     "id": "aws_b9289e55f54c8f4e2310",
     "stationId": "awb_73f1ef31eb7c2bed4816",
     "name": "Szépvíz FM",
@@ -16458,15 +14970,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "85160a6a-7bd3-4a7b-b1c8-1f6fa57841db",
       "RO:szepviz-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d97a5e2ea2c1d23caddf",
@@ -17079,25 +15589,6 @@
     "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
-    "id": "aws_f1e028976b779b115ce3",
-    "stationId": "awb_a8e1f9e7ec88f15e235b",
-    "name": "Transilvania -statia Aleșd 95.8 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Oradea",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c908787-110b-48c3-9cfb-0207099e45a2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:47:13Z"
-  },
-  {
     "id": "aws_55df072394db60f3233e",
     "stationId": "awb_58d56dcbc4034085328e",
     "name": "Transilvania -statia Baia Mare 106.1 FM",
@@ -17136,63 +15627,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
-    "id": "aws_5ee7eda529463125b8ac",
-    "stationId": "awb_381c081e3b6b437ad349",
-    "name": "Transilvania -statia Beiuș 88.0 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Oradea",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31fc1997-1afb-4a01-bb54-2e43dd232903"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:32:38Z"
-  },
-  {
-    "id": "aws_42ec8ec68e720ba5a295",
-    "stationId": "awb_4a5134d178ad2550ce4e",
-    "name": "Transilvania -statia Carei 95.2 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/SatuMare",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "356795ef-57b2-4949-bdde-e6e8f9f5389a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:15:25Z"
-  },
-  {
-    "id": "aws_c0dd900516e640ecf467",
-    "stationId": "awb_611ac86a78e04d3ead85",
-    "name": "Transilvania -statia Cluj Napoca 94.5 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Cluj",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5229e29b-8003-4274-be91-4a8e4cb19d5f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
   },
   {
     "id": "aws_fa688fcf8f243265a6b6",
@@ -17243,15 +15677,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "558c5171-165b-464b-af5c-bb378fd1972d",
       "RO:transilvania-statia-oradea-97-2-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:39:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_069d0a206c6ed96b5ee6",
@@ -17275,25 +15707,6 @@
     "lastCheckedAt": "2026-11-06T11:01:43Z"
   },
   {
-    "id": "aws_6f53f3200cb9726e3482",
-    "stationId": "awb_2865daa78ca407e96581",
-    "name": "Transilvania -statia Turda 89.9 FM",
-    "country": "RO",
-    "url": "https://stream2.radiotransilvania.ro/Cluj",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a572e90c-79eb-482a-9820-bb64b8875131"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:18:39Z"
-  },
-  {
     "id": "aws_dc6f6715198fc029e680",
     "stationId": "awb_3e65eabbb8f550066d03",
     "name": "Transilvania -statia Zalău 94.6 FM",
@@ -17313,25 +15726,6 @@
     "lastCheckedAt": "2026-11-06T10:09:21Z"
   },
   {
-    "id": "aws_2c3c0985c0205ace5a2d",
-    "stationId": "awb_7dfc8448028a729e577e",
-    "name": "Transilvania statia Bistrița 94.1 FM",
-    "country": "RO",
-    "url": "http://stream2.radiotransilvania.ro/Bistrita",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "618bdfaa-cf41-4ffd-848b-b3e297e991c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:32:21Z"
-  },
-  {
     "id": "aws_dcae5ab3e7a1a2e6e383",
     "stationId": "awb_45f772e652da0b79e11e",
     "name": "Transylvania -Hits",
@@ -17342,15 +15736,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RO:transylvania-hits",
-      "b8b72afa-739e-40c9-a51b-fafd87eb045f"
+      "RO:transylvania-hits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:22:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_281c6237174b67fae632",
@@ -17429,25 +15821,6 @@
     "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
-    "id": "aws_ca850bcbfdddd6a90dcd",
-    "stationId": "awb_a145d4fd87a78c53e7a6",
-    "name": "Trib Radio",
-    "country": "RO",
-    "url": "https://streams.radio.co/s78f983952/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7754b5a9-90bd-41f6-8898-3388d58a4565"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:12:19Z"
-  },
-  {
     "id": "aws_e3f8238fcf5ec279c97a",
     "stationId": "awb_8f096c38214c59971d57",
     "name": "Trinitas Radio (București 88.5 FM)",
@@ -17469,7 +15842,7 @@
   {
     "id": "aws_85c59dbe72c0e665a01a",
     "stationId": "awb_8c58d1b71fc265acb0b8",
-    "name": "UBB Radio -Universitatea Babeș Bolyai Cluj Napoca",
+    "name": "UBB Radio (Universitatea Babeș Bolyai) -Cluj Napoca",
     "country": "RO",
     "url": "http://stream.radio.ubbcluj.ro:8000/ubb.mp3",
     "codec": "mp3",
@@ -17480,11 +15853,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "503902d8-6942-42cf-a1af-5e5bd8b6dd4d",
       "815f9544-aee1-4f69-9630-d3a876381ba9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:22:54Z"
+    "lastCheckedAt": "2026-11-06T03:41:28Z"
   },
   {
     "id": "aws_53cabbb032ca5124276b",
@@ -17858,25 +16230,6 @@
     "lastCheckedAt": "2026-11-06T02:22:51Z"
   },
   {
-    "id": "aws_1309939874092bc38c4c",
-    "stationId": "awb_ff88ed06ab8ad62f07f0",
-    "name": "Virgin Radio România",
-    "country": "RO",
-    "url": "http://astreaming.virginradio.ro:8000/virgin_aacp_64k",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "09123903-d7b2-45b6-b366-38459c0fc926"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
-  },
-  {
     "id": "aws_67908bf7e96e10427c72",
     "stationId": "awb_045be9b6bb69eed7bca1",
     "name": "Virgin Radio Romania",
@@ -18147,25 +16500,6 @@
     "lastCheckedAt": "2026-11-06T13:15:15Z"
   },
   {
-    "id": "aws_600fd1ea6be534b9c3e5",
-    "stationId": "awb_eb7cafc4b7a26fa19160",
-    "name": "Vocea Creștinilor",
-    "country": "RO",
-    "url": "https://listen.radioking.com/radio/494884/stream/551902",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c32d6855-4772-4de4-887d-7bcbd7e6a325"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
-  },
-  {
     "id": "aws_5d6723fe689f8c62235d",
     "stationId": "awb_7747e64797415e4bbc94",
     "name": "Vocea Speranței",
@@ -18183,44 +16517,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:15:39Z"
-  },
-  {
-    "id": "aws_b8508cef3b6750dcbcb0",
-    "stationId": "awb_b2f4a31845259d6eb448",
-    "name": "Vocea Speranței -lb. maghiara",
-    "country": "RO",
-    "url": "https://live.rvs.ro/mg",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8bf3fb10-2972-4bf3-8d86-7dc0d5ab50fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
-    "id": "aws_5e36604e1ad07e6f8d6f",
-    "stationId": "awb_aefbd141e210d0bbbd4a",
-    "name": "Voces Campi -Călărași",
-    "country": "RO",
-    "url": "https://vocescampi.ro:8443/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f6ec66f4-3ffc-45b6-91a6-478b7ded744f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:56:46Z"
   },
   {
     "id": "aws_298ebb297896014a73ab",
@@ -18274,8 +16570,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "396f120c-31c8-4c2d-83c7-d8e101e311c9",
-      "ea3e27fd-ac44-470b-a5c7-4f8d70c1594f"
+      "396f120c-31c8-4c2d-83c7-d8e101e311c9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:01:47Z"
@@ -18416,25 +16711,6 @@
     "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
-    "id": "aws_0e04bce2e8983ef96074",
-    "stationId": "awb_d3c859418cd37fefaeea",
-    "name": "X Radio",
-    "country": "RO",
-    "url": "https://stream.zeno.fm/rd0bc4zkbm0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bc1156ed-8dc1-4e2d-b457-a1b6b28e219e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:32:34Z"
-  },
-  {
     "id": "aws_e9cd412f190e9e3fb6c5",
     "stationId": "awb_8a8a4dcfe2e50ee4ab8f",
     "name": "X Radio -Oradea",
@@ -18492,25 +16768,6 @@
     "lastCheckedAt": "2026-11-06T22:30:50Z"
   },
   {
-    "id": "aws_ab383fe4e392d4d24129",
-    "stationId": "awb_b8e72d4ede33043849ff",
-    "name": "Xtream Romania",
-    "country": "RO",
-    "url": "https://asculta.radioxtream.com/8022/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1818640-fc07-42e2-8b65-698e3b048d16"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:32:21Z"
-  },
-  {
     "id": "aws_8ccb6f27d470c0819b2c",
     "stationId": "awb_d725beb2e796a026a843",
     "name": "YOU FM România",
@@ -18528,26 +16785,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:05:51Z"
-  },
-  {
-    "id": "aws_c3daba33ee93195dd23b",
-    "stationId": "awb_120d37af330193657b43",
-    "name": "ZC Radio (Ziua de Cluj)",
-    "country": "RO",
-    "url": "https://sonicssl.namehost.ro:8020/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "736e1017-aa12-4361-8205-08240f2673a3",
-      "da471ce9-8773-4aec-932c-859b83eca958"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:59:49Z"
   },
   {
     "id": "aws_a11d02063da465201618",

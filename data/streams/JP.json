@@ -203,11 +203,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1adf1539-e647-44c3-85d8-b437b768fb8c",
-      "d57fca45-a811-48f9-b672-7047ac984b91"
+      "38930961-d11a-451b-b8ee-cdadce9057ba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:15:25Z"
+    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_9e453fcb27fef2491e0f",
@@ -292,7 +291,7 @@
   {
     "id": "aws_736c3da513d7bd68be83",
     "stationId": "awb_d2da10957b87ffde5d84",
-    "name": "Big B Radio - Jpop",
+    "name": "Big B Radio #JPOP",
     "country": "JP",
     "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
     "codec": "mp3",
@@ -304,8 +303,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "37d1f4fb-0812-432d-af30-e91ca28ae05c",
-      "JP:big-b-radio-jpop"
+      "JP:big-b-radio-jpop",
+      "ce46492b-3512-48e5-bf12-e992df4b4906"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:47:15Z"
@@ -325,11 +324,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "30b09043-9b67-43d7-b9c6-b4401e5cb636",
+      "90cbb60b-5a04-4e3a-aa30-5dc9307070e7",
       "JP:box-japan-city-pop"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
+    "lastCheckedAt": "2026-11-06T11:37:13Z"
   },
   {
     "id": "aws_9ce90341b1845c36f704",
@@ -364,11 +363,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1dc4dfd4-a8fb-4e76-a339-9fcb478c5769",
-      "44875c1d-b7b7-4aeb-b7ee-c02a90364509"
+      "1dc4dfd4-a8fb-4e76-a339-9fcb478c5769"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:22Z"
+    "lastCheckedAt": "2026-11-06T17:54:43Z"
   },
   {
     "id": "aws_8b1a4ff3add9b06938a0",
@@ -438,15 +436,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:fm",
-      "fad42bb6-2865-4854-94a7-96152e881800"
+      "JP:fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:01:25Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_bbb530b277eec3e26612",
@@ -470,44 +466,6 @@
     "lastCheckedAt": "2026-11-06T10:43:21Z"
   },
   {
-    "id": "aws_bb4cbc9fba16a1a55b57",
-    "stationId": "awb_ce002d864dbc3fef96f6",
-    "name": "Free FM Tokyo",
-    "country": "JP",
-    "url": "https://rocafmadrid.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af566e6b-3d2b-4b96-92ca-a9cb183e6fd8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:34:44Z"
-  },
-  {
-    "id": "aws_65e5d089acb27c53a573",
-    "stationId": "awb_ce002d864dbc3fef96f6",
-    "name": "Free FM Tokyo",
-    "country": "JP",
-    "url": "https://rocafmadrid.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b641d7ab-4548-426f-92ba-c0b65bff204d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:48:02Z"
-  },
-  {
     "id": "aws_f435b19c85f9901e7b02",
     "stationId": "awb_98967aa3dd9006b7348e",
     "name": "Gensokyo Radio",
@@ -529,25 +487,6 @@
     "lastCheckedAt": "2026-11-06T06:31:20Z"
   },
   {
-    "id": "aws_3461a00cfe40e46ab1b2",
-    "stationId": "awb_eae731af99da79986397",
-    "name": "Gensokyo Radio (Enhanced)",
-    "country": "JP",
-    "url": "https://stream.gensokyoradio.net/3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6512cd8-9b4d-4b25-82a6-3fcd9a6273c6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
-  },
-  {
     "id": "aws_e985d247d7a98c202282",
     "stationId": "awb_9b2d7a99e8589cd73416",
     "name": "Gensokyo Radio (OGG)",
@@ -558,15 +497,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:gensokyo-radio-ogg",
-      "e0763775-fdb9-4f6d-b88e-057165cb283c"
+      "JP:gensokyo-radio-ogg"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_14d05157ba0e47e0a1d8",
@@ -579,15 +516,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:gensokyo-radio-original",
-      "e219fec2-ee95-4c12-86fb-34142143f562"
+      "JP:gensokyo-radio-original"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ddeffc18ac5efe24ded3",
@@ -600,15 +535,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:gotanno-fm-89-2",
-      "fdffc27f-a096-4be8-b3bf-2c51a943a1d1"
+      "JP:gotanno-fm-89-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:28:09Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_365cd577feda81eb7c4d",
@@ -643,11 +576,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "09983f06-279c-497a-8e96-8e1057fa094a",
       "deff64de-b1f4-442e-832c-1180917ac894"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:51:47Z"
+    "lastCheckedAt": "2026-11-06T18:25:14Z"
   },
   {
     "id": "aws_bbd2a6eed440951c7c2b",
@@ -660,15 +592,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:j-club-club-bandstand",
-      "a36cb1a5-f9b5-4739-a86a-987d256b7d0e"
+      "JP:j-club-club-bandstand"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e96881dc3cfe08fe6c79",
@@ -747,8 +677,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "84551b58-cc37-4ec2-8712-b29002804be9",
-      "cf0ab710-020b-4e3f-99af-2bf059466d36"
+      "84551b58-cc37-4ec2-8712-b29002804be9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:39:20Z"
@@ -815,25 +744,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:32:04Z"
-  },
-  {
-    "id": "aws_967fea3bdab653747beb",
-    "stationId": "awb_5de7473f21941f1bb5a0",
-    "name": "J-Pop Sakura",
-    "country": "JP",
-    "url": "http://quincy.torontocast.com:2070/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ce03f456-47f6-447f-8834-19cf0b808fc8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
   },
   {
     "id": "aws_15606a704f7adfa60e7c",
@@ -915,7 +825,7 @@
       "JP:j-rock-powerplay-asia-dream-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:12:19Z"
+    "lastCheckedAt": "2026-11-06T06:16:34Z"
   },
   {
     "id": "aws_47f310e50b6c77b885eb",
@@ -1009,30 +919,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e0f2f4cb-d4c3-48ee-8668-333329e158e0",
       "f281de6d-4daf-4b29-b3f9-683f361907da"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:18:09Z"
-  },
-  {
-    "id": "aws_e54440c7b98777f76f84",
-    "stationId": "awb_17bb2dc76512922ed0d4",
-    "name": "Japan2",
-    "country": "JP",
-    "url": "http://quincy.torontocast.com:2070/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2e726c1-9cae-4a1f-baa8-da29be891dec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
     "id": "aws_ce3952803e3b99080302",
@@ -1092,25 +982,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:55:24Z"
-  },
-  {
-    "id": "aws_433f5cee68bd50841bb4",
-    "stationId": "awb_21e8984acad00ec0cc91",
-    "name": "JPHiP Radio",
-    "country": "JP",
-    "url": "http://radio.jphip.com:8800/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9142c884-33a5-4277-8bac-e299c0c1c18c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
   },
   {
     "id": "aws_0d61948838d20914b02e",
@@ -1203,15 +1074,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:listen-moe-j-pop-mp3",
-      "e698b1df-bd9c-4084-9c21-22a452b27664"
+      "JP:listen-moe-j-pop-mp3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:37:13Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e2438174f81ab7df7b8c",
@@ -1345,11 +1214,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8bf571a1-1926-4c31-aa81-80f0574d8d0b",
       "c3b639cc-ccc6-4c1d-bd3d-c6f46a8c6a16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:29:54Z"
+    "lastCheckedAt": "2026-11-06T18:31:19Z"
   },
   {
     "id": "aws_dda639b0fa31ebc308e5",
@@ -1812,7 +1680,7 @@
   {
     "id": "aws_4cd1b9b7bc770723f410",
     "stationId": "awb_0fe456d7b6addc5c26e8",
-    "name": "Only Hits Japan",
+    "name": "OnlyHits Japan",
     "country": "JP",
     "url": "https://j.onlyhit.us/play",
     "codec": "mp3",
@@ -1820,15 +1688,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3ab8903d-117f-4f25-802e-d048dcdd0675",
       "JP:onlyhits-japan"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_387a2dfb523ac02d62a6",
@@ -1984,7 +1850,7 @@
       "838460ee-30f9-4aa6-92b0-0bdc4b9bd621"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_f52ca2558a1212492246",
@@ -2003,7 +1869,7 @@
       "67e19fba-0617-4ac8-9f94-3cc90a0b2c14"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_1cd1043282886d977d25",
@@ -2155,7 +2021,7 @@
       "32ea3bdb-9010-43fa-be37-160f11c1c897"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_ca430ccf277e04282a21",
@@ -2289,8 +2155,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2396ce2c-9fde-4353-98a8-7e307daefddc",
-      "45ea052e-37c2-403e-be57-8bf66daa86af"
+      "2396ce2c-9fde-4353-98a8-7e307daefddc"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:11:50Z"
@@ -2315,25 +2180,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:05:28Z"
-  },
-  {
-    "id": "aws_7eb823908de5d93a0a10",
-    "stationId": "awb_f1ec40072aae79a86fc8",
-    "name": "Retro PC GAME MUSIC Streaming Radio",
-    "country": "JP",
-    "url": "http://gyusyabu.ddo.jp:8000/",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f9cc220-3462-11e8-bb9b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
     "id": "aws_c8ea745e22f63ae3f8b0",
@@ -2393,6 +2239,25 @@
     "lastCheckedAt": "2026-11-08T02:39:24Z"
   },
   {
+    "id": "aws_f170b1676e916c00d90a",
+    "stationId": "awb_0b251ca3797b1e45b104",
+    "name": "Retro-Ko Radio",
+    "country": "JP",
+    "url": "https://radio.retroko.com/listen/retroko/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "426fda08-21d0-4e1e-96a4-9e028d1e26c9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_97b113ba7293453884a1",
     "stationId": "awb_b3e362c8b47f4942b8e3",
     "name": "SHMUPRADIO",
@@ -2403,15 +2268,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "JP:shmupradio",
-      "fc7ccfdf-6e00-4d68-bb57-c8bf881510a0"
+      "JP:shmupradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:09:30Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9ea5f56fefbe92e2675e",
@@ -2431,25 +2294,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:28:03Z"
-  },
-  {
-    "id": "aws_b6fa63e939283addc634",
-    "stationId": "awb_0e13f90bbb7bedb01226",
-    "name": "Shonan Beach FM 78.9 湘南ビーチ",
-    "country": "JP",
-    "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "121df42c-e7a1-4a57-ab0b-a5149ae3956f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
   },
   {
     "id": "aws_70a8514e7931dfaadd8c",
@@ -2483,34 +2327,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "138a0d94-617d-45c6-9164-fe393c140a88",
       "JP:stereo-anime"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:53:31Z"
-  },
-  {
-    "id": "aws_095d86dcdace742fb242",
-    "stationId": "awb_6cb5d0fe5247928602fe",
-    "name": "stereoanime",
-    "country": "JP",
-    "url": "https://radio.stereoanime.com/listen/stereoanime/128",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ad5f4036-0f69-4327-ab2a-b481eea0edcd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:27Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_3fd3abe5d49f0c073b8b",
@@ -2553,25 +2376,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:35:38Z"
-  },
-  {
-    "id": "aws_69c2358581acab2b4e09",
-    "stationId": "awb_7c7724ec87cb6d290d2f",
-    "name": "Vaporwave",
-    "country": "JP",
-    "url": "http://radio.plaza.one/ogg",
-    "codec": "ogg",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6d1d23d9-50d9-412d-83e2-d4c087d121d8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
     "id": "aws_8bfda7c9bb1c80907a0e",
@@ -2662,15 +2466,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "987dffac-52d9-4ca7-98c9-e5ac1088e1df",
       "JP:wvvv-v96-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:40:01Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_3b51abd5e17b6b96a3df",

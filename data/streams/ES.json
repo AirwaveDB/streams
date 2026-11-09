@@ -74,7 +74,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "300e2ae1-effc-4fbb-afc4-3babd7d0da42",
       "d502a4f0-738a-45e1-b13b-113a505609fe"
     ],
     "lastCheckOk": true,
@@ -278,15 +277,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:1000-80s-hits",
-      "c0cf2679-0c4c-4bfe-a587-bed26909f705"
+      "ES:1000-80s-hits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:30:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4bbc645195d24c207044",
@@ -318,15 +315,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:1000-hits-classical",
-      "cf670706-e552-4ffd-b0fc-0a3b55315cf6"
+      "ES:1000-hits-classical"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_af7f1728329a42aa0143",
@@ -365,44 +360,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:23:55Z"
-  },
-  {
-    "id": "aws_39832ff0afa653f7eed7",
-    "stationId": "awb_e36f42f114c89a766aa3",
-    "name": "24h RTVE Original TELEVISION",
-    "country": "ES",
-    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "codec": "aac,h.264",
-    "bitrate": 3012,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "754ce9c9-5d7c-49de-acb9-48b673b973be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:03:32Z"
-  },
-  {
-    "id": "aws_3d428b6a6f6b959b9453",
-    "stationId": "awb_9833643cc4ce9a3cf737",
-    "name": "24h RTVE Televisión",
-    "country": "ES",
-    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "codec": "aac,h.264",
-    "bitrate": 3012,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e34d6ca5-d554-49e1-a673-a04d8930f303"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_7237f72c917289f968bd",
@@ -474,15 +431,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3495359d-41b4-4a42-88c8-77e5321083a0",
       "ES:80-hits-barcelona"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a3ed9101ec1435eed9a6",
@@ -584,25 +539,6 @@
     "lastCheckedAt": "2026-11-06T09:58:53Z"
   },
   {
-    "id": "aws_c501c5ac07c695453690",
-    "stationId": "awb_0cac60fd78f8ba2f9af9",
-    "name": "97 Irratia",
-    "country": "ES",
-    "url": "https://airtime.97irratia.info/radio-ssl.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "32fa4743-9d27-4d0d-96bb-cc69131afdf2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:23Z"
-  },
-  {
     "id": "aws_53f6fa60189e0eeac425",
     "stationId": "awb_d23218067328cf169fec",
     "name": "972'CostaBrava",
@@ -620,25 +556,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:37:36Z"
-  },
-  {
-    "id": "aws_6010b464fd45b451fae3",
-    "stationId": "awb_907e2ae1939d252ceb14",
-    "name": "99.9 Plaza Radio Valencia",
-    "country": "ES",
-    "url": "https://stream1.solstreaming.com:8112/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "473519f5-7432-4c69-ad89-f7c057025140"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
     "id": "aws_f11791d6caec98738a7c",
@@ -753,44 +670,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
-    "id": "aws_3fa1674c5f26fad834a9",
-    "stationId": "awb_04af880a943f8f0c4602",
-    "name": "Absolute Chillout",
-    "country": "ES",
-    "url": "http://edge4.peta.live365.net/b05055_128mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2b85feeb-2fb3-4144-af8e-d1df0b5d686b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:36:35Z"
-  },
-  {
-    "id": "aws_297c0551ff4c066c6f45",
-    "stationId": "awb_04af880a943f8f0c4602",
-    "name": "ABSOLUTE CHILLOUT",
-    "country": "ES",
-    "url": "http://streaming.live365.com/b05055_128mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "877a96d3-d26e-40ce-9713-05131868c006"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:49:38Z"
   },
   {
     "id": "aws_67541642e6b42ba5bc08",
@@ -1331,25 +1210,6 @@
     "lastCheckedAt": "2026-11-06T05:29:45Z"
   },
   {
-    "id": "aws_c11ed153bf730060ee75",
-    "stationId": "awb_83492b19929ade21dc67",
-    "name": "ARCO FM",
-    "country": "ES",
-    "url": "https://hisparadio.duckdns.org/stream/1/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "500e90ba-7b72-466e-b2be-db0e89a49ff3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
-  },
-  {
     "id": "aws_a720796ba0659bae5946",
     "stationId": "awb_0238a1da37cbcdce0fbf",
     "name": "ArcoFM",
@@ -1483,44 +1343,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:51:40Z"
-  },
-  {
-    "id": "aws_140135cdb82d3ae7319d",
-    "stationId": "awb_a5a53542f3dd5aebcb09",
-    "name": "Atlantis FM Lanzarote",
-    "country": "ES",
-    "url": "https://atlantisfm.radionetz.de/atlantisfm.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7cf69b52-c664-4569-9e06-a1d232373fa1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
-  },
-  {
-    "id": "aws_95f7ac5fa6e6883a9406",
-    "stationId": "awb_13a541a93fb8b24327a4",
-    "name": "AW Radio Gijón",
-    "country": "ES",
-    "url": "https://mars.streamerr.co/8066/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "29e20b8d-f303-460b-9ea9-5000adf882b8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
   },
   {
     "id": "aws_310d8fd6659a7c1aa72e",
@@ -1918,11 +1740,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "005d4865-d4a4-42bf-a4dd-a8127d9c59c5",
       "0f094a65-2d61-4873-a4a0-52c27c228761"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
+    "lastCheckedAt": "2026-11-06T22:55:11Z"
   },
   {
     "id": "aws_7e2debf94a559faba8ef",
@@ -2064,7 +1885,7 @@
   {
     "id": "aws_370a025f47ef7ff87db7",
     "stationId": "awb_ba22e2d14e5f64fd7460",
-    "name": "Cadena 100",
+    "name": "CADENA 100",
     "country": "ES",
     "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
     "codec": "unknown",
@@ -2075,11 +1896,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "75d308ec-104d-40f7-9592-8630d2573419",
-      "e29ee7e2-8bd6-454d-aae6-f54db3157fbd"
+      "75d308ec-104d-40f7-9592-8630d2573419"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:30:25Z"
+    "lastCheckedAt": "2026-11-06T11:41:25Z"
   },
   {
     "id": "aws_2d896fac0e56b0e18750",
@@ -2266,11 +2086,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "89feab45-c8db-47c2-93e2-394e09526673",
-      "970100f3-2b1a-4521-9d1d-4456e190f255"
+      "89feab45-c8db-47c2-93e2-394e09526673"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:24:12Z"
+    "lastCheckedAt": "2026-11-06T02:53:23Z"
   },
   {
     "id": "aws_4692f357bc354acebca0",
@@ -2617,44 +2436,6 @@
     "lastCheckedAt": "2026-11-06T16:40:45Z"
   },
   {
-    "id": "aws_0d852809b0a64f88e5a4",
-    "stationId": "awb_d2cbef9028c35256c0a8",
-    "name": "Cadena Ser + Bilbao",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_BILBAO.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a790914b-5ec5-4fc4-bb6e-2f345c2dbe9e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:41:40Z"
-  },
-  {
-    "id": "aws_7af5b83c8b364b0122c5",
-    "stationId": "awb_2287a1e61af206f0607b",
-    "name": "Cadena Ser + Cadiz",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_CADIZ.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36f6e5d0-d0c6-426e-8575-c687a61f458c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:50:00Z"
-  },
-  {
     "id": "aws_05446bd030d05074d96c",
     "stationId": "awb_53c95e136db398be1f05",
     "name": "Cadena Ser + Cadiz - 93.2 FM",
@@ -2691,25 +2472,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:59:28Z"
-  },
-  {
-    "id": "aws_ad822612e75c753b666c",
-    "stationId": "awb_f371895f209861d8b895",
-    "name": "Cadena Ser + Córdoba",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_CORDOBA.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a0b96c7-155b-44a6-bd54-36de98c6250e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:39:01Z"
   },
   {
     "id": "aws_c473bd3c16353cc54269",
@@ -3257,11 +3019,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a4510312-13f9-4996-b25b-be624838c38a",
       "cf2783e1-850b-4a7d-8a05-2da09c1d8239"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
+    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_341b8e2a8ad83ae05908",
@@ -3300,25 +3061,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:52:05Z"
-  },
-  {
-    "id": "aws_0194c6facb5f192ed04c",
-    "stationId": "awb_d96798dd30cef021db63",
-    "name": "Cadena SER España",
-    "country": "ES",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "692a3b69-0f68-11ea-a87e-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
   },
   {
     "id": "aws_b1e71500a2790e64b3f6",
@@ -3486,7 +3228,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b4ac14d-8a44-467b-bbd7-ab7ffdd1b9ee",
       "69401220-5797-4af0-b7fe-aeb5520c7247"
     ],
     "lastCheckOk": true,
@@ -3702,25 +3443,6 @@
     "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
-    "id": "aws_3c6d04e628ba050840af",
-    "stationId": "awb_8b55dd3058fe99b29fe4",
-    "name": "Cafe Del Mar",
-    "country": "ES",
-    "url": "https://streams.radio.co/se1a320b47/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "607cb03f-19d9-43ca-895a-86c6eaee0882"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:30:03Z"
-  },
-  {
     "id": "aws_fecca6050240053bc74c",
     "stationId": "awb_7a67765926d8128313f6",
     "name": "Café del Mar",
@@ -3731,15 +3453,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3fd18c3f-8157-11e9-aa30-52543be04c81",
       "ES:cafe-del-mar"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:08:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8debee579d2b465a3403",
@@ -3771,15 +3491,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6445c180-6a73-4e3f-834f-4ff6246d30fe",
       "ES:cafe-del-mar-calm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_af4ef6727b2c21a2c1a7",
@@ -3816,11 +3534,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "633cc18f-ee4a-4afe-a33f-c545a758d864",
-      "c38c5147-7508-40fc-b102-aa1a8fcff4ce"
+      "633cc18f-ee4a-4afe-a33f-c545a758d864"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:23:43Z"
+    "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
     "id": "aws_78c488fd443c50e57508",
@@ -4158,15 +3875,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4ae40853-8466-4187-ad49-c88b7b99edad",
       "ES:canarias-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3e573d15a02788eafbbc",
@@ -4394,34 +4109,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2087b4c4-820a-4545-9bd7-eaf28792f44a",
       "ES:catalunya-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:37:58Z"
-  },
-  {
-    "id": "aws_e5928fa8f5ea1704018e",
-    "stationId": "awb_0462e14c79f2bc391b84",
-    "name": "Catalunya Radio",
-    "country": "ES",
-    "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
-    "codec": "aac",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3253df03-98b5-44f0-b060-1aceebb53c4d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_03d98157a9d988c404ce",
@@ -4535,7 +4229,7 @@
       "175b6160-f88f-4883-8c6a-7258ed1f2a5b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_6b81fe3508aadab86e17",
@@ -4570,7 +4264,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22829c80-d6b9-4e48-a9df-2174abbcafde",
       "af29e9cb-eb31-4fd2-a971-892baa6dee45"
     ],
     "lastCheckOk": true,
@@ -4632,26 +4325,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:47:37Z"
-  },
-  {
-    "id": "aws_ddd2b1c4012969e3a20a",
-    "stationId": "awb_63b01aac1bb5df89f8e3",
-    "name": "Cinema Radio",
-    "country": "ES",
-    "url": "https://server5.mediasector.es:8090/cinemaradio",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1ddc999-7d68-4928-b96e-db9ce9595f84",
-      "f1ca5eb1-0a22-4153-a11c-7e83976d5c0a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_4a5e08c940bf685dc2bb",
@@ -5128,7 +4801,7 @@
       "c574f587-942b-40db-be02-40331e109f20"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_5e300e27ad7e3dbb5733",
@@ -5169,25 +4842,6 @@
     "lastCheckedAt": "2026-11-07T00:07:05Z"
   },
   {
-    "id": "aws_acef37f7007391597801",
-    "stationId": "awb_3a5863ca21fc08bbb679",
-    "name": "COPE Tenerife",
-    "country": "ES",
-    "url": "https://wecast05-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1406a3c-e278-4c07-81e2-3b9771094547"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:31:17Z"
-  },
-  {
     "id": "aws_291fd0f600b626ab16db",
     "stationId": "awb_3a5863ca21fc08bbb679",
     "name": "COPE Tenerife",
@@ -5205,25 +4859,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:30:22Z"
-  },
-  {
-    "id": "aws_5abbd9339b3e941ff17b",
-    "stationId": "awb_03c3f20f39b4b53ea224",
-    "name": "Cope Zaragoza",
-    "country": "ES",
-    "url": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf8e5cfb-d659-4f8a-8eab-719b27437d22"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:03:28Z"
   },
   {
     "id": "aws_4e213b29c8dfaa986b30",
@@ -5299,7 +4934,7 @@
       "982f249f-7fef-4dd1-a800-7754645f9481"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_2bb5e5f3f1418d13763e",
@@ -5380,25 +5015,6 @@
     "lastCheckedAt": "2026-11-06T10:20:52Z"
   },
   {
-    "id": "aws_4005976647946f82817c",
-    "stationId": "awb_2ed9e2ba0cde8204aa9e",
-    "name": "Costa Del Mar - Chillout (AAC 96kbps)",
-    "country": "ES",
-    "url": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f348d9f-5285-11e8-a4d1-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:53:19Z"
-  },
-  {
     "id": "aws_e3462841583721bd8fa4",
     "stationId": "awb_0423f2dc427f5d3c53b6",
     "name": "Costa Del Mar Dance",
@@ -5458,25 +5074,6 @@
     "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
-    "id": "aws_455ba5821cf33d787515",
-    "stationId": "awb_2347394aa29d6736451a",
-    "name": "Costa Madrid",
-    "country": "ES",
-    "url": "https://radio2.vip-radios.fm:18064/stream-RadioDNS-ST",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "602b1a60-83e2-4a0d-9eb6-c877b0490411"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
-  },
-  {
     "id": "aws_6dabb9b210b1a583c97a",
     "stationId": "awb_069497288787619a9272",
     "name": "Cristianos - Christen auf Spanisch",
@@ -5513,25 +5110,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
-    "id": "aws_313b1877e77cb82498ba",
-    "stationId": "awb_68990a1a9d4772b0136d",
-    "name": "CUAC FM (MP3)",
-    "country": "ES",
-    "url": "https://streaming.cuacfm.org/cuacfm-128k.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "035dee5f-7b5e-4d10-8180-768c8db2e5ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:33:49Z"
   },
   {
     "id": "aws_fe544742413fbfaf3dd8",
@@ -5604,11 +5182,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1dda6ddb-db9c-4b4f-ac89-b337dc5af20f",
       "b97cd9df-868d-49e2-8f4f-9a452b1f4512"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:42:52Z"
+    "lastCheckedAt": "2026-11-07T01:44:59Z"
   },
   {
     "id": "aws_94c5e7cf9f2009b5d68b",
@@ -5891,15 +5468,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8207ad87-a68c-4cf4-90cb-fce706436ac1",
       "ES:disco-music-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:56:46Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f56ac3b4c548eb15719b",
@@ -5919,25 +5494,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T02:39:24Z"
-  },
-  {
-    "id": "aws_5c300a459eb5bd5950ef",
-    "stationId": "awb_70128827bbbe36f8ac05",
-    "name": "DiscomanÍa",
-    "country": "ES",
-    "url": "https://server5.mediasector.es:8060/discomania",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc038ce7-5753-41f7-a16d-2bad27a42bec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:15:42Z"
   },
   {
     "id": "aws_cc44081c16dfe99baaca",
@@ -6170,25 +5726,6 @@
     "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
-    "id": "aws_90cb7e0d08790296efa6",
-    "stationId": "awb_aa781129e7616fbe9efb",
-    "name": "Dynamis Radio Madrid",
-    "country": "ES",
-    "url": "https://control.streaming-pro.com:8014/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b2bc259-6b9d-4340-968b-f5bf9fc571b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:55:46Z"
-  },
-  {
     "id": "aws_64ca04d9fcf62c6e8363",
     "stationId": "awb_e5579e58e2af5203158a",
     "name": "EAJ Radio",
@@ -6265,25 +5802,6 @@
     "lastCheckedAt": "2026-11-06T08:12:22Z"
   },
   {
-    "id": "aws_c6d0cf4eb0c0c0c634b0",
-    "stationId": "awb_f3a35dddcca7de46c472",
-    "name": "EDM FESTIVAL - Online Radio",
-    "country": "ES",
-    "url": "https://stream.0nlineradio.com/edm-festival?ref=radiobrowser",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "342d619d-0cb9-40e1-88ff-3034f11ceacb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:18:31Z"
-  },
-  {
     "id": "aws_d91509c1fd0f91b9a633",
     "stationId": "awb_f99e7cebf6f2ca728791",
     "name": "EDM Festival - Online Radio",
@@ -6341,25 +5859,6 @@
     "lastCheckedAt": "2026-11-06T17:06:38Z"
   },
   {
-    "id": "aws_4d6eb08991129a31c50d",
-    "stationId": "awb_8b527929468cbbd6ceb9",
-    "name": "EduNeu Radio 3: DJ Johnson Somerset Remixes",
-    "country": "ES",
-    "url": "https://radio.eduneu.eu:8020/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "593add69-4b7c-4709-829b-08414e23bde3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
-  },
-  {
     "id": "aws_b46aae9800666045276b",
     "stationId": "awb_9c874b5ff70ea4ece167",
     "name": "Efecto FM 89.0Mhz",
@@ -6411,11 +5910,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3f2a6ef5-9a1c-4e0f-b447-ed7424d0f8a4",
-      "f4c5c633-f289-4045-a72c-b3827f665324"
+      "3f2a6ef5-9a1c-4e0f-b447-ed7424d0f8a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
+    "lastCheckedAt": "2026-11-06T00:48:58Z"
   },
   {
     "id": "aws_09b70476341bf66b3fab",
@@ -6591,25 +6089,6 @@
     "lastCheckedAt": "2026-11-06T15:39:08Z"
   },
   {
-    "id": "aws_45829eb6fffac8f89cd4",
-    "stationId": "awb_38e3534f75597a2d747c",
-    "name": "EME Radio fm",
-    "country": "ES",
-    "url": "https://streaming.enacast.com/emeradiofmHD.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "526808a6-5e95-4b91-936f-14f249ea55d6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
     "id": "aws_706f18ae8ec32aa3ceea",
     "stationId": "awb_c8432a1f1f82f765c2eb",
     "name": "Emision moviles",
@@ -6783,25 +6262,6 @@
     "lastCheckedAt": "2026-11-06T02:45:20Z"
   },
   {
-    "id": "aws_d1b6119750f4ebe5aa96",
-    "stationId": "awb_cf7598a848e72cfef3ff",
-    "name": "es radio",
-    "country": "ES",
-    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4e260b64-1140-4b6d-82a7-2796bc627d4d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
     "id": "aws_458680238fad5dcd8314",
     "stationId": "awb_e27663e4b59c689fe8cb",
     "name": "ES Radio",
@@ -6950,11 +6410,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "766ab81f-1d7d-4fb4-b74c-ec952df6be3c",
-      "9611ecb1-0601-11e8-ae97-52543be04c81"
+      "766ab81f-1d7d-4fb4-b74c-ec952df6be3c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
+    "lastCheckedAt": "2026-11-06T14:02:32Z"
   },
   {
     "id": "aws_277f5c7ee6c453628219",
@@ -6993,25 +6452,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:15:39Z"
-  },
-  {
-    "id": "aws_70af8ca6db32816619fc",
-    "stationId": "awb_73cfd15a2c1127f78126",
-    "name": "esRadio",
-    "country": "ES",
-    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da251f83-1897-457c-8e88-3ca32180aeb2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
     "id": "aws_7ecf0a5dc80ccc013a3f",
@@ -7062,34 +6502,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "93db812b-3732-459e-ae33-1af18062066d",
       "ES:esradio-mp3-hq"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:01:43Z"
-  },
-  {
-    "id": "aws_70f997066d831fbaea13",
-    "stationId": "awb_b2833d6e4d279c1bce9b",
-    "name": "EsRadio Asturias",
-    "country": "ES",
-    "url": "http://server9.emitironline.com:8822/radio",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eeed2483-9eb5-432f-a710-5daa0d686c64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_bc446024c2fb558acdf7",
@@ -7244,25 +6663,6 @@
     "lastCheckedAt": "2026-11-07T00:07:05Z"
   },
   {
-    "id": "aws_db6393a6be4f69316453",
-    "stationId": "awb_e59c7596b21d67d97633",
-    "name": "esRadio Onda Requena",
-    "country": "ES",
-    "url": "https://sonic2.sistemahost.es/8068/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "811f4244-f0bb-4a9f-b3c2-7a97eafea78b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
     "id": "aws_c577aabf3bee8a12b4c5",
     "stationId": "awb_ca4495748cab8ced1bfb",
     "name": "esRadio Orihuela del Tremedal",
@@ -7292,15 +6692,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "55112aa4-5fca-4201-bc53-ae2b467ee087",
       "ES:esradio-principal"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6e30669c3d3c1f3c04f3",
@@ -7320,25 +6718,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:38:44Z"
-  },
-  {
-    "id": "aws_b454c6398572c37555a9",
-    "stationId": "awb_cf57bebb379a2fbe7ccb",
-    "name": "EsRadio Tenerife",
-    "country": "ES",
-    "url": "https://panel5.soydigital.fm/8024/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c4f826c4-0003-41c6-8002-8274b1a8ac28"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
   },
   {
     "id": "aws_2b312ba4bdd5c8a8fd00",
@@ -7455,25 +6834,6 @@
     "lastCheckedAt": "2026-11-06T15:13:49Z"
   },
   {
-    "id": "aws_6e03fb8430e19a4ef4ac",
-    "stationId": "awb_5dade0e48485fd34a238",
-    "name": "ETIB Euskal Kantak",
-    "country": "ES",
-    "url": "http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "26247ede-ba2d-4c64-80a9-c3bfb7f8d12f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
-  },
-  {
     "id": "aws_fd0883a4850c29534a19",
     "stationId": "awb_10683226ca32dd7b1cea",
     "name": "Europa FM Guipuzcoa",
@@ -7512,25 +6872,6 @@
     "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
-    "id": "aws_f2fafcbe04af4d2c831d",
-    "stationId": "awb_218ed255945a0e34d43b",
-    "name": "Euskadi irratia",
-    "country": "ES",
-    "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
-    "codec": "mp3",
-    "bitrate": 125,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96273192-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:34:05Z"
-  },
-  {
     "id": "aws_ec74d5a2f1ae3029fc17",
     "stationId": "awb_dfd0dbb495dbed0149a0",
     "name": "Euskadi Irratia",
@@ -7544,8 +6885,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "007f961c-5dd6-4b34-9e84-f26b35b09853",
-      "a2efa2d9-f9b6-456f-b499-fe4f6ac82746"
+      "007f961c-5dd6-4b34-9e84-f26b35b09853"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:27:12Z"
@@ -7589,25 +6929,6 @@
     "lastCheckedAt": "2026-11-07T01:18:51Z"
   },
   {
-    "id": "aws_5b96b93d64382eefcd13",
-    "stationId": "awb_4467fb4fa53b06c770a3",
-    "name": "Exa FM",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23a3d628-5753-4885-9016-2d6880cf6163"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:42:40Z"
-  },
-  {
     "id": "aws_02904cae7e3f7b8f6ec4",
     "stationId": "awb_bdcfa33cd3a2c82aafa7",
     "name": "Exito Radio",
@@ -7637,15 +6958,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:feel-good-radio-costa-del-sol",
-      "d2d9e0f4-d9ef-4903-9542-61f88abb0b7c"
+      "ES:feel-good-radio-costa-del-sol"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_264e52f52f9d3e8a6c8c",
@@ -7705,25 +7024,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_334963bb8aa5e1adb58d",
-    "stationId": "awb_db87f4ee53e232ce3253",
-    "name": "Fiesta 89.1 FM",
-    "country": "ES",
-    "url": "https://acp2.lorini.net:36050/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e856a510-f66c-4f18-9a3b-df75c01e3211"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_cfc7f91ab9cf71afca24",
@@ -7814,15 +7114,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "824f1de6-b473-45ad-9149-94d1ff573c84",
       "ES:flaixbac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7b6a908c7cc9c74d5966",
@@ -7882,25 +7180,6 @@
     "lastCheckedAt": "2026-11-07T00:47:55Z"
   },
   {
-    "id": "aws_07c66eab7e9a01327f31",
-    "stationId": "awb_7a76993a67e6e554ba9f",
-    "name": "Flamenco Radio Art",
-    "country": "ES",
-    "url": "http://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9d4b0896-3e8b-40fe-aa22-daf90656818b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:57:05Z"
-  },
-  {
     "id": "aws_7ad74adbf9645acfe3d6",
     "stationId": "awb_27037344cb6730c45543",
     "name": "Flash Radio",
@@ -7952,11 +7231,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2ae3784c-4c06-4962-bea4-1c8961656f72",
       "9a0d49b2-31e5-4872-bdd8-dca923566022"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:50Z"
+    "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
     "id": "aws_8973519dcc34029d1ce7",
@@ -7972,8 +7250,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3c985a79-ca1e-4b21-9064-ffa959389c73",
-      "90f5b12c-ba19-4da8-a813-633720f4c801"
+      "b611042e-37e6-4d50-8e99-cfd4d495b602"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
@@ -8152,25 +7429,6 @@
     "lastCheckedAt": "2026-11-06T08:59:28Z"
   },
   {
-    "id": "aws_b9b0733b1e33acf33097",
-    "stationId": "awb_2daa55e551926aacdf2c",
-    "name": "Free FM",
-    "country": "ES",
-    "url": "https://rocafmadrid.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "72eec378-2827-4f5c-a55f-5c5ebe73a494"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:36:15Z"
-  },
-  {
     "id": "aws_8021854c3a7ecd5eb0cb",
     "stationId": "awb_295cdb0b01785b5ba9d8",
     "name": "Free FM 80s",
@@ -8188,25 +7446,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
-    "id": "aws_a23b4354f1d3e388eef7",
-    "stationId": "awb_9460f1920da093fb7d9a",
-    "name": "Free FM Chill",
-    "country": "ES",
-    "url": "https://freefmchill.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0a7c6cdf-c22e-4a58-bc45-983b507d035b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
   },
   {
     "id": "aws_d0738d0f08b3f547cd82",
@@ -8295,53 +7534,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:free-fm-madrid",
-      "da1d6975-911a-42fa-8ead-8069097057d6"
+      "ES:free-fm-madrid"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T14:41:27Z"
-  },
-  {
-    "id": "aws_51ed1ffc0b0e8a3f3348",
-    "stationId": "awb_e77072775d980873540a",
-    "name": "Free FM Mdrid",
-    "country": "ES",
-    "url": "https://rocafmadrid.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "912a3000-f350-4195-a325-c7d7d49eae7b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:05:51Z"
-  },
-  {
-    "id": "aws_350199700b26fc94e8a0",
-    "stationId": "awb_f7428ee3b03966b9a53b",
-    "name": "Free FM Sports",
-    "country": "ES",
-    "url": "https://stream.zeno.fm/31nnibfpnxktv",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8d9dd410-d502-47f6-9754-ffd5ea8ee115"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:07:15Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a4513b056bfba899e07e",
@@ -8511,10 +7710,10 @@
     ],
     "sourceIds": [
       "ES:gente-radio",
-      "baf103ee-0bc7-492e-b2eb-5b19aff48ddc"
+      "c359d0b0-26c1-401d-ab68-339b660ef1a6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:48Z"
+    "lastCheckedAt": "2026-11-06T02:36:16Z"
   },
   {
     "id": "aws_bd6b0f4c74ead679f23f",
@@ -8686,7 +7885,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4248c9d8-5611-4d71-90df-6d25dc67ed2c",
       "ebe343fb-56bf-411f-99b3-344f8b7a2e95"
     ],
     "lastCheckOk": true,
@@ -8779,15 +7977,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:hit-fm",
-      "d9484397-31a2-45f0-baf8-3db8878e8bc0"
+      "ES:hit-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:20:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_43289b309901ace26bb6",
@@ -8807,25 +8003,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:11:50Z"
-  },
-  {
-    "id": "aws_fcf67c6ffa34c014e175",
-    "stationId": "awb_5f6ccd51dfe40f9ab6dc",
-    "name": "HitFM",
-    "country": "ES",
-    "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ef15ea2a-35ea-446c-9e21-388bc8af58ea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:21:41Z"
   },
   {
     "id": "aws_d098cd1b8e827e242afa",
@@ -9005,7 +8182,7 @@
   {
     "id": "aws_0238a3bc70277d88f4e4",
     "stationId": "awb_5ca5e100e6a8da2616fe",
-    "name": "HKM radio",
+    "name": "HKM Radio",
     "country": "ES",
     "url": "https://stream.zenolive.com/rhf9cqkz3yzuv.aac",
     "codec": "mp3",
@@ -9016,7 +8193,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "88865227-2472-444f-8c1e-997eddbce9a2",
       "d04c5afd-1cb7-4ca5-aac7-877e058f4bfc"
     ],
     "lastCheckOk": true,
@@ -9234,25 +8410,6 @@
     "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
-    "id": "aws_974bb8d726938b34e930",
-    "stationId": "awb_ca2d0578ed9afd2f3eca",
-    "name": "Ibiza - Chill",
-    "country": "ES",
-    "url": "https://radio2.vip-radios.fm:18018/stream-128kmp3-IbizaChill",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7fb4152a-c0ec-4bd5-9e64-d4ca1abc65e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
-  },
-  {
     "id": "aws_ebb4686c5c195c3c0a17",
     "stationId": "awb_87c4b33da0579ba085b8",
     "name": "Ibiza - Deep House",
@@ -9385,7 +8542,7 @@
       "66f33265-5bb4-4d5d-966c-f1e951347c7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_2d082e8cf52d914ddc27",
@@ -9445,64 +8602,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_f8ca674294dc317087a6",
-    "stationId": "awb_acb03166b31384f87f6e",
-    "name": "Ibiza Radios Deep House",
-    "country": "ES",
-    "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aec73334-6cc6-418b-8e3c-8acdb661f17c",
-      "eb27c8a7-50cf-410a-909c-8b160920305e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:58:04Z"
-  },
-  {
-    "id": "aws_1ef90a872ded9e51a142",
-    "stationId": "awb_d0861b83a1a0eb1ba145",
-    "name": "Ibiza Radios Hits",
-    "country": "ES",
-    "url": "https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d152db70-6102-444f-a9fb-ed00f74c2195"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
-  },
-  {
-    "id": "aws_c5444ca0250573f3b916",
-    "stationId": "awb_6d90204ca2c1aa1b5a72",
-    "name": "Ibiza Radios Relax",
-    "country": "ES",
-    "url": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0e28a390-ac86-433e-84fa-137ea5de9562"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
     "id": "aws_45298d9ed647a47b9a97",
@@ -9635,11 +8734,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4d98ac08-5f85-45ae-85b3-1ece9bad3fec",
+      "97225f88-4d24-4ecf-bb07-01238892df5b",
       "ES:ibiza-stardust-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:17Z"
+    "lastCheckedAt": "2026-11-06T06:40:25Z"
   },
   {
     "id": "aws_839817cc66f97eacfa49",
@@ -9684,9 +8783,9 @@
     "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
-    "id": "aws_9cfad50009cd77fc09b2",
-    "stationId": "awb_a417ec9aaa2b23a081fa",
-    "name": "Ibiza_Radios",
+    "id": "aws_f8ca674294dc317087a6",
+    "stationId": "awb_acb03166b31384f87f6e",
+    "name": "Ibiza_Radios/Deep House",
     "country": "ES",
     "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
     "codec": "mp3",
@@ -9697,10 +8796,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3115822c-1fff-48cf-80fe-6e069b772e17"
+      "aecac03b-ba3c-4158-9bd9-b05ef0300959"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
+    "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
     "id": "aws_19f2d791003308ef5306",
@@ -9821,27 +8920,6 @@
     "lastCheckedAt": "2026-11-06T22:04:41Z"
   },
   {
-    "id": "aws_ebcb80af5072a9211062",
-    "stationId": "awb_29f340cc8b9dbea9bea8",
-    "name": "INFORMA RADIO",
-    "country": "ES",
-    "url": "https://24x7.red:42045/informa",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "153777aa-209e-4769-bde5-46abafd375e7",
-      "ES:informa-radio"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:51:08Z"
-  },
-  {
     "id": "aws_6b4db3a694c72a12fa58",
     "stationId": "awb_ed8e42368cc2e9e078ad",
     "name": "Informa Radio",
@@ -9859,6 +8937,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:36:15Z"
+  },
+  {
+    "id": "aws_ebcb80af5072a9211062",
+    "stationId": "awb_29f340cc8b9dbea9bea8",
+    "name": "INFORMA RADIO",
+    "country": "ES",
+    "url": "https://24x7.red:42045/informa",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "ES:informa-radio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b04ed488960dbdc2e1c2",
@@ -9901,44 +8998,6 @@
     "lastCheckedAt": "2026-11-06T22:09:30Z"
   },
   {
-    "id": "aws_f36693bb98c39a45f5ec",
-    "stationId": "awb_c795efc9ee64a0761036",
-    "name": "Inselradio Mallorca",
-    "country": "ES",
-    "url": "http://addrad.io/445fxk9",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f3373cfb-c89a-44c6-94c4-35bf853c13e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
-  },
-  {
-    "id": "aws_52155347fc3adc9f57ce",
-    "stationId": "awb_28bc3b232b47107f9567",
-    "name": "Inthemix FM 96.2",
-    "country": "ES",
-    "url": "http://streaming.enantena.com:8000/radiosentmenat96.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "48bca02a-4224-48da-841a-6b5952288914"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
     "id": "aws_59c54a793a0b720f6945",
     "stationId": "awb_bf871fc78cb4d25ad245",
     "name": "Intimidad Radio",
@@ -9968,15 +9027,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "12197e7c-65c3-477d-8fb3-7c826fb77992",
       "ES:intimidad-relax"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:45:43Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ad98ca8d78bb17246805",
@@ -10057,25 +9114,6 @@
     "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
-    "id": "aws_ed53efc1ea1712c6c9c4",
-    "stationId": "awb_a9f495efe7328d862642",
-    "name": "JAM 66 Radio",
-    "country": "ES",
-    "url": "https://eu4.fastcast4u.com/proxy/jam66?mp=/1",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0a775573-a17a-4d6f-9b1c-f7d578d8f67d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:51:19Z"
-  },
-  {
     "id": "aws_c94339d1e7cbb37ed57a",
     "stationId": "awb_9ebcce3667de2b8f1b9c",
     "name": "Jarvis FM",
@@ -10092,7 +9130,7 @@
       "fd760390-fd42-4fd9-9949-b55b492f1548"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_382e4c0d540e69746ff5",
@@ -10323,11 +9361,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b696a0a3-59d7-4026-87d0-bf3fbe5fcfce",
       "f21e07bd-05fb-4102-b1db-74281596a15d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
+    "lastCheckedAt": "2026-11-06T13:43:20Z"
   },
   {
     "id": "aws_4c6378eee34328274702",
@@ -10343,11 +9380,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0da4f047-089f-4331-b30a-d0babea6a71d",
-      "a3d44b25-c17b-4ee1-bb2c-99bbc033f9f0"
+      "ffe71234-db25-4cdf-8e27-d544d2a2523b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_e53ba6b8b7dfbce28c9f",
@@ -10363,11 +9399,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0171da8c-103f-403e-8816-0587ebe3183c",
       "4dbc2f76-404a-49ed-936e-2ab69be6a180"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:46:26Z"
+    "lastCheckedAt": "2026-11-06T14:56:29Z"
   },
   {
     "id": "aws_3f1d4f64a177075ff227",
@@ -10402,11 +9437,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "71210d2c-cf12-4b05-98db-0550609ebcf2",
       "a4039d32-8771-4f86-a882-48eb46383adf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_5f9d9bdd9860accca056",
@@ -10476,15 +9510,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
       "ES:kiss-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c682f52e4a673f625d3a",
@@ -10500,8 +9532,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e94e8baa-7350-4938-9843-6b7f417d071e",
-      "fd684dc5-fd22-4815-8f9e-a2901d0ef87f"
+      "e94e8baa-7350-4938-9843-6b7f417d071e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:01:47Z"
@@ -10524,44 +9555,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:54:43Z"
-  },
-  {
-    "id": "aws_1fca19a8545ca2a49fa0",
-    "stationId": "awb_1cbb7c7dd217b809a58c",
-    "name": "Kiss Fm",
-    "country": "ES",
-    "url": "https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "01ed949f-4545-4d82-b547-308e9a7b73b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
-    "id": "aws_2ce28618e790b90bf987",
-    "stationId": "awb_1cbb7c7dd217b809a58c",
-    "name": "Kiss FM",
-    "country": "ES",
-    "url": "https://frontend.streamonkey.net/fhn-gong971/stream/mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "03ca007a-cc8d-4b31-93cf-28a6a10f922f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_fb45d6cfdcbaa378e44d",
@@ -10621,25 +9614,6 @@
     "lastCheckedAt": "2026-11-06T11:43:59Z"
   },
   {
-    "id": "aws_eefe4590d3820d3d557b",
-    "stationId": "awb_2143d7ab475e196e3a96",
-    "name": "Kiss FM España",
-    "country": "ES",
-    "url": "https://live.kissfm.ro/kissfm.aacp",
-    "codec": "aac",
-    "bitrate": 80,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a00d6706-790f-498f-af56-035138b831f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
-  },
-  {
     "id": "aws_87d467319f79c504c728",
     "stationId": "awb_c8c834a3efe97bbf394a",
     "name": "Kiss FM Galicia",
@@ -10676,25 +9650,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_bc226c4f1fb8b7ffd4fb",
-    "stationId": "awb_329e9bd58d0950c4c769",
-    "name": "Kiss-FM Madrid",
-    "country": "ES",
-    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aae29e02-707e-4cac-98f6-bfd325cecd87"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:41:41Z"
   },
   {
     "id": "aws_7384f65ae8cb8655eb2b",
@@ -10889,25 +9844,6 @@
     "lastCheckedAt": "2026-11-06T10:09:21Z"
   },
   {
-    "id": "aws_e4bbab907f6528ce3abd",
-    "stationId": "awb_cba6997d5558171677f1",
-    "name": "La Diez Capital Radio",
-    "country": "ES",
-    "url": "https://panel5.soydigital.fm/8030/stream",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70f54c52-7a53-4699-b03f-a26b519a492b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
     "id": "aws_31ca2971d3ae74549e25",
     "stationId": "awb_dceb697134f01c869c53",
     "name": "La Disco Radio",
@@ -10988,7 +9924,7 @@
   {
     "id": "aws_91cde51d3352bac5c8a6",
     "stationId": "awb_1432758752651638fcb0",
-    "name": "La Jungla Radio",
+    "name": "LA JUNGLA RADIO",
     "country": "ES",
     "url": "https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3",
     "codec": "mp3",
@@ -10999,11 +9935,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14c7e3ed-a1b9-4c46-b8a8-43aa714a02ce",
-      "b513bc26-93a5-453a-9877-725abcbc87da"
+      "14c7e3ed-a1b9-4c46-b8a8-43aa714a02ce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:50:00Z"
+    "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
     "id": "aws_97549dab668c8bc95b25",
@@ -11133,8 +10068,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "28acc889-437d-451f-bd36-741ecc220784",
-      "89067695-4efe-4237-a585-f6b092246be2"
+      "28acc889-437d-451f-bd36-741ecc220784"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:22:55Z"
@@ -11157,25 +10091,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:11:50Z"
-  },
-  {
-    "id": "aws_522c3ab26583b3a443fb",
-    "stationId": "awb_7a2cccf9435cfd724123",
-    "name": "La Nueva 87.9 FM (87.9 FM) Madrid",
-    "country": "ES",
-    "url": "https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fc5d9c8c-43b4-4c20-8a0c-b38013762f3b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
     "id": "aws_ed3a8cab6a9b75c4a4d5",
@@ -11215,7 +10130,7 @@
       "13620a89-1e4c-4459-8cd3-ea01d72ad268"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_59f9f0a49e23ef3d0811",
@@ -11465,44 +10380,6 @@
     "lastCheckedAt": "2026-11-06T14:22:08Z"
   },
   {
-    "id": "aws_ad7855f69de9bdb4a430",
-    "stationId": "awb_bd25d46d7e68662a4b20",
-    "name": "Loca FM",
-    "country": "ES",
-    "url": "https://s3.we4stream.com:2020/stream/locafm",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f0b0d7fc-b4ec-490c-be74-b4a446c8410f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
-  },
-  {
-    "id": "aws_5237e51fcd3022a248b4",
-    "stationId": "awb_b1c151eb1393ebb7e441",
-    "name": "LOCA FM 80s",
-    "country": "ES",
-    "url": "http://s02.fjperezdj.com:8075/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "52ea662c-f600-43e0-a583-ef4c3bea3f50"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:56:42Z"
-  },
-  {
     "id": "aws_a0dd3efda3bc94f36e4c",
     "stationId": "awb_e46d20291804a19fc9a1",
     "name": "Loca FM 80s",
@@ -11522,25 +10399,6 @@
     "lastCheckedAt": "2026-11-06T01:55:46Z"
   },
   {
-    "id": "aws_693022cefc57f89c4017",
-    "stationId": "awb_b70f9667b225b64536a6",
-    "name": "Loca FM Ambient",
-    "country": "ES",
-    "url": "http://s02.fjperezdj.com:8036/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a8684e07-0c7f-498b-a3f1-fedebf5826e6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:13:49Z"
-  },
-  {
     "id": "aws_44830659fdaa3f04ebb3",
     "stationId": "awb_6cc7b451c7c061a09352",
     "name": "LOCA FM Child Out",
@@ -11558,25 +10416,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:43:20Z"
-  },
-  {
-    "id": "aws_97a56339c1737f672a0f",
-    "stationId": "awb_5915b06c22f478ad477e",
-    "name": "Loca FM chillout",
-    "country": "ES",
-    "url": "http://s02.fjperezdj.com:8006/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3adc699b-c4e1-45dd-aa4a-13edb2b19cab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_9325b13bb9f5fa21799b",
@@ -11691,25 +10530,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:44:57Z"
-  },
-  {
-    "id": "aws_ac072dbdbcc50895c96a",
-    "stationId": "awb_9233742e3ed38d690a10",
-    "name": "LOCA FM Techno",
-    "country": "ES",
-    "url": "http://s02.fjperezdj.com:8050/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8ce502c2-5ba0-43ad-a2dc-462e34ac85df"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:52:06Z"
   },
   {
     "id": "aws_c619a1141c3c8215c0e6",
@@ -11925,26 +10745,6 @@
     "lastCheckedAt": "2026-11-06T15:11:47Z"
   },
   {
-    "id": "aws_5f9cd836d4489a611f72",
-    "stationId": "awb_b29af292ffa2e6d7ac63",
-    "name": "LOS 40",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4ec5a020-4a66-4d46-a13c-4a7ee4ff5320",
-      "7fd72110-aaa1-4f18-9dc9-6b0fcd2a3ca8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:33:02Z"
-  },
-  {
     "id": "aws_f23eb2c4c5c03b18e5b5",
     "stationId": "awb_6ade1bf27a1cead65ecc",
     "name": "Los 40 Asturias",
@@ -12042,25 +10842,6 @@
     "lastCheckedAt": "2026-11-05T23:38:04Z"
   },
   {
-    "id": "aws_16a806209f875f56e149",
-    "stationId": "awb_5738855e55cef0239e9a",
-    "name": "Los 40 españa",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f30775e-f191-4ed5-aded-b49a29ec114b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
     "id": "aws_b69aeb612c6b61b16956",
     "stationId": "awb_107036ddc748fe31d338",
     "name": "LOS 40 Lanzarote",
@@ -12078,25 +10859,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:43:29Z"
-  },
-  {
-    "id": "aws_ef9d55abe606dd283b74",
-    "stationId": "awb_73b1d8df2b68406144cc",
-    "name": "Los 40 Nacional",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "63fb77fb-4751-4cbe-96de-bfc7019d5ff3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:07Z"
   },
   {
     "id": "aws_5451cded51c3104998f4",
@@ -12128,15 +10890,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:los-40-principales-espana",
-      "b81c57c3-eb05-47ac-a0ea-eb01a6960cc4"
+      "ES:los-40-principales-espana"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:21:07Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_16c836d2356feda6ab07",
@@ -12179,27 +10939,6 @@
     "lastCheckedAt": "2026-11-06T17:55:24Z"
   },
   {
-    "id": "aws_d74d721d5424aa21a7d8",
-    "stationId": "awb_4af7d58109eee5165b72",
-    "name": "Los 40 Urban",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "8cc2da8b-ae85-4e37-9027-9ad765a1ea7a",
-      "ES:los-40-urban"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
     "id": "aws_1e5d9a38aa36ec0ce314",
     "stationId": "awb_1abad84e5a53134337db",
     "name": "LOS 40 URBAN",
@@ -12217,6 +10956,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:35:39Z"
+  },
+  {
+    "id": "aws_d74d721d5424aa21a7d8",
+    "stationId": "awb_4af7d58109eee5165b72",
+    "name": "Los 40 Urban",
+    "country": "ES",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "ES:los-40-urban"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_cb151e4404755a6b7f56",
@@ -12282,44 +11040,6 @@
     "lastCheckedAt": "2026-11-06T19:30:48Z"
   },
   {
-    "id": "aws_4141bac72a305a3143f9",
-    "stationId": "awb_801eefebf390983c2bed",
-    "name": "Los40 Dance",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3d8b1a37-3c59-4d8a-ada4-d436d7ab8e82"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
-    "id": "aws_cf0d498396ec5cb077fa",
-    "stationId": "awb_0c29cc3b21425a31ce47",
-    "name": "Los40 direct",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8c816621-8c03-44b0-b5b3-306cdb110b22"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
-  },
-  {
     "id": "aws_f29a3f2668c8cf14a5d8",
     "stationId": "awb_a14dd60fbcee9650fefc",
     "name": "LOS40 Madrid (93.9FM)",
@@ -12333,8 +11053,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8183ec3a-d8c3-4d62-b2b1-e115079eb36f",
-      "d5bba3a0-ef45-4cf0-a411-43b4de5bfda3"
+      "8183ec3a-d8c3-4d62-b2b1-e115079eb36f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:21:54Z"
@@ -12545,11 +11264,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8fe74dd1-d367-4117-b8ed-c25e26547d67",
       "c751a25a-e4bd-4c83-bff3-afa06bf3ac19"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
+    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_fe7c7038203cd488cd1b",
@@ -12584,11 +11302,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "aab3b0dd-726c-45f2-8f4d-cd003929d1cb",
-      "c51232ae-1ae8-4fdc-9af5-17cbd46658e0"
+      "b61ca1a6-d7b3-4165-b8e8-a8b3dc98af16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:32:54Z"
+    "lastCheckedAt": "2026-11-06T14:47:06Z"
   },
   {
     "id": "aws_824515de182453e26ae9",
@@ -12618,19 +11335,17 @@
     "country": "ES",
     "url": "https://media.profesionalhosting.com:8047/stream",
     "codec": "mp3",
-    "bitrate": 192,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "88a2899f-a42f-43ed-b2bc-6d5e40b8131c",
       "ES:mariskal-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_35c43450d46e884a7120",
@@ -12939,25 +11654,6 @@
     "lastCheckedAt": "2026-11-06T22:01:47Z"
   },
   {
-    "id": "aws_45c1c7c3add8442012ee",
-    "stationId": "awb_793518adf4a5c1bf5bac",
-    "name": "MEGA STAR FM",
-    "country": "ES",
-    "url": "https://megastar-cope.flumotion.com/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b19b79d4-fef0-44ff-934c-e9e0650266a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:53:23Z"
-  },
-  {
     "id": "aws_cd8da9efd3d156774967",
     "stationId": "awb_a91f6d8c161fcd1df056",
     "name": "MegaStarFM",
@@ -13011,11 +11707,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "98e39928-1801-414c-b6e7-dd7b58614dd6",
-      "ab6a1372-1364-4db8-848e-6bca16ef8523"
+      "98e39928-1801-414c-b6e7-dd7b58614dd6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_1021e6271d208b2a364b",
@@ -13096,25 +11791,6 @@
     "lastCheckedAt": "2026-11-06T16:01:38Z"
   },
   {
-    "id": "aws_260d0e8adf9c86d47380",
-    "stationId": "awb_f84e4ee088fa6eaf1a06",
-    "name": "Mix Radio Gran Canaria",
-    "country": "ES",
-    "url": "https://mixfm.radionetz.de/mixfm.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27a6509c-419b-4be5-b0c7-88ca9abeb640"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
     "id": "aws_ac925d3afb82183ed3ac",
     "stationId": "awb_177bf93ef9ab020b34f7",
     "name": "Mix80Radio",
@@ -13134,25 +11810,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
-    "id": "aws_c6861f29acd8f1f1c253",
-    "stationId": "awb_780038ac4744a7bf306c",
-    "name": "MixFM Gran Canaria",
-    "country": "ES",
-    "url": "https://mixfm.radionetz.de/mixfm.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3fa5a146-58a6-483a-b335-c39fae04a806"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:32:09Z"
   },
   {
     "id": "aws_894a53ab4ddbbd93e028",
@@ -13212,6 +11869,25 @@
     "lastCheckedAt": "2026-11-06T04:18:23Z"
   },
   {
+    "id": "aws_f55992c071541f80f2df",
+    "stationId": "awb_5497f5d2b8518abe2c0e",
+    "name": "Motiva FM",
+    "country": "ES",
+    "url": "https://stream.guadigo.es/listen/motiva/motiva.mp3",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "640a9745-416f-4c1b-ab22-28648f398cb8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
+  },
+  {
     "id": "aws_d9ad1613063157e2cfeb",
     "stationId": "awb_ab0f4a0a5eef14b10bd7",
     "name": "MotivaHit",
@@ -13244,8 +11920,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8ea6b3ba-65a7-4171-8091-9e7aa169a3f3",
-      "d65f451f-6abf-4d8a-a67c-49469b97be7d"
+      "8ea6b3ba-65a7-4171-8091-9e7aa169a3f3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:49:52Z"
@@ -13327,25 +12002,6 @@
     "lastCheckedAt": "2026-11-06T23:44:19Z"
   },
   {
-    "id": "aws_f79c61e4eb935de6e5ac",
-    "stationId": "awb_ee7f70a3f97855a1a591",
-    "name": "Muy buena",
-    "country": "ES",
-    "url": "https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1f3e27ba-6eab-4fcf-93f1-47f0d0bcbdf6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
-  },
-  {
     "id": "aws_e6044977c252f4ef91d5",
     "stationId": "awb_e31d7b7907872d9ff8ab",
     "name": "Muy buena Valencia",
@@ -13397,30 +12053,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "44203a70-a4dd-4290-80f7-f4b4bd352988",
-      "7eed07e1-5916-4a3f-a44e-7099ece65422"
+      "44203a70-a4dd-4290-80f7-f4b4bd352988"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:50:12Z"
-  },
-  {
-    "id": "aws_a6368d16e4ac1ccf6a08",
-    "stationId": "awb_799101055c0ee6b80256",
-    "name": "NEGOCIOS.COM",
-    "country": "ES",
-    "url": "https://negociostv-negociostv-samsunges.amagi.tv/ts-us-e2-n2/playlist/negociost-negociostv-samsunges/cb563b176573618684cc3d78d3f062c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d12768498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d06ffb294757ba0c3a0f64d5e50fb07004c183178a7e7f8ab0d4323e2c475fca590be4a65ca1f9e00b43bafa908b3e701480ecd6a273e3e669d892e138de12df28d335a7a085eef38c564ba3499f22f72606482707e6e8851a143cc4a2be663793623c4f1f15a9e3a0ff407cb542415debebc2be6bbd6aa62e902a0145d930ae35ea128b78bb1ca2a16dafb8b5cb50587bd7ac9cbff9c197c2b9c84f5b9a6febb7f3d67c7dd3917e1d15993d8976797bf89cba10b97f33f57e06a5cd6d4687ef7cb20442f8eecaa59f458c2085eaf59c2f4b4a59f463ec6d8f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f01a872cf0154399e7a3c35a50afc993763c6745ad4656daa0864c064f5aa29f3a8c3aa576ee79097308a05858203dcf20dbe7e7c0852c195026b051d2d9ebe1c485a1eee4afedac6ed767371cafedffbc65c20477457650585e6e86788cca70d1805ca4729707e7246c3e4b7b6638bf866795c27bbb5bd6415b30035a84a85d517/15/640x360_1020800/index.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ccaa8423-8d7d-4268-b815-b3a9f7fe63a0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
   },
   {
     "id": "aws_012a214e03d99171911f",
@@ -13611,25 +12247,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:23:43Z"
-  },
-  {
-    "id": "aws_f69d3c5b4068528f7cd7",
-    "stationId": "awb_de7e2017756601815356",
-    "name": "Olimpica Valencia",
-    "country": "ES",
-    "url": "https://sonicpanel.zonaradio.net/8320/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0334bd85-d617-4877-9e09-f3602a599224"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:59:13Z"
   },
   {
     "id": "aws_7f2b44f0152335b01c33",
@@ -13900,25 +12517,6 @@
     "lastCheckedAt": "2026-11-06T13:32:21Z"
   },
   {
-    "id": "aws_036c6fa1fd8ad2b3cb1c",
-    "stationId": "awb_8095d78631ce15401068",
-    "name": "ONDA CERO (España)",
-    "country": "ES",
-    "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b8601593-152a-429d-9cb2-5065cf7c0185"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:32:34Z"
-  },
-  {
     "id": "aws_0711793be27dd3955ede",
     "stationId": "awb_ebd7a15c268388662765",
     "name": "Onda Cero (Eventos 1)",
@@ -14049,7 +12647,7 @@
       "ae7f0191-17d1-4fbb-a66b-aa8f608ab279"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_b30f07ad9a0530e9ed2a",
@@ -14107,25 +12705,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
-  },
-  {
-    "id": "aws_dc8903e77af5fed92941",
-    "stationId": "awb_51856d46b373bee33b8d",
-    "name": "Onda Cero Granada",
-    "country": "ES",
-    "url": "https://atres-live.ondacero.es/live/delegaciones/oc/granada/bitrate_1.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "73fd1529-ee8b-408d-9ce9-6d77b39941f7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
   },
   {
     "id": "aws_a35c635d1ad7b9279689",
@@ -14236,11 +12815,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4389fec7-53d8-4ed2-a901-85a3322af73d",
       "f689bded-29d7-41f4-866d-55e0e18591db"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T04:24:14Z"
+    "lastCheckedAt": "2026-11-06T18:02:59Z"
   },
   {
     "id": "aws_9f7f2a240e1b0da12d16",
@@ -14298,25 +12876,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
-    "id": "aws_303eb2fd58b3f1ed515b",
-    "stationId": "awb_4da060b18e963be56d58",
-    "name": "Onda Cero Pontevedra",
-    "country": "ES",
-    "url": "https://atres-live.ondacero.es/live/delegaciones/oc/pontevedra/master.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de270391-ba27-4735-9913-59a71830827a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:59:13Z"
   },
   {
     "id": "aws_47c3719a2786a2c1e48a",
@@ -14601,7 +13160,7 @@
       "9cb08440-f948-41b2-b0c7-141114c24f27"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_9fc73155e42fb8469284",
@@ -14902,8 +13461,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13935adc-0cdf-429c-bc79-cff630a4e4db",
-      "f49d2d6a-50d8-4fdc-86eb-2bd4e5868110"
+      "f9159284-4f37-4291-9233-5c91828b1e74"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:53:47Z"
@@ -14960,8 +13518,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9a0ad5ce-974c-464f-82c5-e61e73aa61b0",
-      "c018a39f-6620-414e-b3c7-f6d080eb397e"
+      "9a0ad5ce-974c-464f-82c5-e61e73aa61b0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:50:26Z"
@@ -15079,6 +13636,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:55:20Z"
+  },
+  {
+    "id": "aws_3f05f49a73a17aa8ec1b",
+    "stationId": "awb_a5e069fb3b4bf64b9707",
+    "name": "ONE FM",
+    "country": "ES",
+    "url": "https://stream.onefm.es/listen/one_fm/onefm.mp3",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f9acf91c-4296-470b-a49b-f8f192331251"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_e718f6219e740000b990",
@@ -15220,25 +13796,6 @@
     "lastCheckedAt": "2026-11-06T21:32:54Z"
   },
   {
-    "id": "aws_3c8b357a0334d2a70595",
-    "stationId": "awb_641cbe2fc7f2e4d4c545",
-    "name": "PabloMix Music",
-    "country": "ES",
-    "url": "https://sonic2.sistemahost.es/8068/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7e8c68ff-b1dd-41fb-a1dc-6376d5ec490b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
-  },
-  {
     "id": "aws_f26771ecd843018f9a70",
     "stationId": "awb_a94ac6d785c7c92e36c3",
     "name": "Pakito FM",
@@ -15306,15 +13863,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "63dd5d75-855f-4e7e-9570-b8d3b338c016",
       "ES:perfect-deep-house"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:11Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6177f64cd963ed4b3ed9",
@@ -15625,25 +14180,6 @@
     "lastCheckedAt": "2026-11-08T00:32:06Z"
   },
   {
-    "id": "aws_678bd3ef5d2167998373",
-    "stationId": "awb_7b71f43282eaaea86e33",
-    "name": "Pollença",
-    "country": "ES",
-    "url": "https://stream.recasound.es/proxy/radiopollensa/stream",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fa4b63ad-70a4-46e4-9a83-1aa49580e3c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:48:15Z"
-  },
-  {
     "id": "aws_cbf10c935456b4214eb6",
     "stationId": "awb_4637b0a03ad709a1b476",
     "name": "Pontevedra Viva",
@@ -15661,25 +14197,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:37:13Z"
-  },
-  {
-    "id": "aws_0b6bfef20e189c2b00e0",
-    "stationId": "awb_f961ed93d906b5a5348f",
-    "name": "Pop Music Station [RU]",
-    "country": "ES",
-    "url": "https://stream.vyshka24.ru/radio24",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6af795e2-ae63-420d-8da0-f359d4087178"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
   },
   {
     "id": "aws_4dad3674362eff303fb8",
@@ -15720,26 +14237,6 @@
     "lastCheckedAt": "2026-11-06T11:13:11Z"
   },
   {
-    "id": "aws_32d4a35dd2fd426df815",
-    "stationId": "awb_fedb8348623e8568ba8f",
-    "name": "PS Audio",
-    "country": "ES",
-    "url": "https://octaverecords.out.airtime.pro/octaverecords_a",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3edcaa18-72a1-44e8-ab3f-1bd04205b0be",
-      "8e9052c1-f32a-4ef7-a28a-9d88220efca7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:05Z"
-  },
-  {
     "id": "aws_905fc32f93fcf8eddddb",
     "stationId": "awb_d17109c109b9dcc48b69",
     "name": "punk irratia",
@@ -15758,7 +14255,7 @@
       "ES:punk-irratia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:24:24Z"
+    "lastCheckedAt": "2026-11-06T20:47:15Z"
   },
   {
     "id": "aws_e51ef4b74ae7b063d840",
@@ -15794,11 +14291,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "26edc6b6-d221-4814-a6a9-0dd5d5d365d2",
+      "8b423272-a116-42a8-9d1c-d825bbb34134",
       "ES:pure-ibiza-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:31:39Z"
+    "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
     "id": "aws_35ee33aed583ce83ac76",
@@ -15860,7 +14357,7 @@
   {
     "id": "aws_40c71d30077678594b68",
     "stationId": "awb_a9f5be6fa5625eacf733",
-    "name": "RAC1",
+    "name": "Rac1",
     "country": "ES",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
     "codec": "mp3",
@@ -15872,7 +14369,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "38a33fc0-be05-4c98-8c6a-ba3869575bc1",
+      "4c289274-8f55-4e8e-b3e0-cbfff38df83b",
       "ES:rac1"
     ],
     "lastCheckOk": true,
@@ -15994,7 +14491,7 @@
       "1909ffdb-2b65-4246-a955-77458b60ebac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_1458548346b974a727c9",
@@ -16092,25 +14589,6 @@
     "lastCheckedAt": "2026-11-06T14:38:17Z"
   },
   {
-    "id": "aws_f155cd4360f920d568de",
-    "stationId": "awb_b5740e7d0c8bec0dc8cc",
-    "name": "Radio 90",
-    "country": "ES",
-    "url": "https://giss.tv:666/r90.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14468df9-fefd-49a1-828e-206d273d98b9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
     "id": "aws_e07578d646e1ea3a2b5e",
     "stationId": "awb_677499348e70fe51a3f9",
     "name": "Ràdio 90",
@@ -16147,25 +14625,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:31:39Z"
-  },
-  {
-    "id": "aws_b95390b4cc74f50175b8",
-    "stationId": "awb_d62c661f7d4f133a84a5",
-    "name": "Ràdio 90 (320k)",
-    "country": "ES",
-    "url": "https://giss.tv:666/r90.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "53379674-3ea4-446c-be0b-637294bbc08b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_51dca75fa794aeab4cf1",
@@ -16371,11 +14830,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "62f09fc0-a46c-4843-bbf5-767773403e83",
-      "8b8f077a-1b6c-4480-a6f5-a866214cddce"
+      "fff5284d-ffcb-4e98-889d-939021e20fe0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
+    "lastCheckedAt": "2026-11-06T16:51:28Z"
   },
   {
     "id": "aws_c6e02c2389fb969f9560",
@@ -16467,11 +14925,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1b50920f-49c6-4ef0-b95a-69b57f42141a",
-      "f94cda07-00f5-4118-868d-14cf44494d2a"
+      "1b50920f-49c6-4ef0-b95a-69b57f42141a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_8ff4936c922a1fd9714b",
@@ -16565,8 +15022,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "37ab1d05-7ec1-4b8e-8ae9-47c24e3cc132",
-      "f46229d0-d7d8-4c5e-860b-ed4e45b578c5"
+      "37ab1d05-7ec1-4b8e-8ae9-47c24e3cc132"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:13:48Z"
@@ -16589,25 +15045,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
-    "id": "aws_36cf22da96e7e247dc34",
-    "stationId": "awb_aa586e2310839a1043aa",
-    "name": "Ràdio Arrels",
-    "country": "ES",
-    "url": "http://stream.radios-arra.fr:8000/radioarrels",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bf3d9f69-25a8-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
   },
   {
     "id": "aws_b78ee3dc4e280c9621c7",
@@ -16680,30 +15117,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5f3d1cea-8f5a-4b13-8013-15280948c1f2",
-      "93e25fba-9122-4aeb-a6b2-25f46b1069c9"
+      "ffce7510-2566-4059-a681-c7572655bb88"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:44:59Z"
-  },
-  {
-    "id": "aws_2394a54b59da446cc713",
-    "stationId": "awb_df7ecbfde1c0754199bc",
-    "name": "Radio Atlantis Lanzarote",
-    "country": "ES",
-    "url": "https://atlantisfm.radionetz.de/atlantisfm.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e30ace49-01dc-4542-a583-8d4698c0f169"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:01:47Z"
   },
   {
     "id": "aws_d5adb9310c07e15cf164",
@@ -17189,25 +15606,6 @@
     "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
-    "id": "aws_3e53b8dece53a1bc74a7",
-    "stationId": "awb_21e2147f09346adef582",
-    "name": "Radio Clásica",
-    "country": "ES",
-    "url": "https://f141.rndfnk.com/star/crtve/rnerc/main/mp3/128/stream.mp3?cid=01GEM633TKTAHEB3GYTNAEZB90&sid=3Lkm3TS5p2RAmCaH2fCfLH3sGHF&token=TTqTW4r2gIK-sikrXvOrP6g0wSYBqOz6k6b3stVUCNg&tvf=mHQE5tCq5RhmMTQxLnJuZGZuay5jb20",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc6522c8-3508-4532-b7d8-4069babcef0b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
     "id": "aws_ff0f9807e88f03e2a29e",
     "stationId": "awb_a0081c5329aa31cd11a4",
     "name": "Radio Compañia",
@@ -17225,25 +15623,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:12:20Z"
-  },
-  {
-    "id": "aws_3e0ca84a0289de4f5337",
-    "stationId": "awb_f0d72ccdd1f05c2eff7d",
-    "name": "Radio Connect Romania",
-    "country": "ES",
-    "url": "https://live.radioconnect.ro/8052/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e5c89102-220c-4573-9240-e6a4d781581d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_e762194d3143559d0c20",
@@ -17417,25 +15796,6 @@
     "lastCheckedAt": "2026-11-06T21:38:44Z"
   },
   {
-    "id": "aws_1052ca3c24d8ae111059",
-    "stationId": "awb_9ec7273d0938f409663b",
-    "name": "Radio Dikela",
-    "country": "ES",
-    "url": "https://dikela.org/radio_stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8836d516-203f-4abc-8749-c234898e63bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
-  },
-  {
     "id": "aws_711e73e64153cd66ca82",
     "stationId": "awb_8620a54ca22227ffadcb",
     "name": "Radio Dikela (AAC+ Móvil)",
@@ -17452,7 +15812,7 @@
       "de5eecc3-5d16-43ef-a9c0-66c78a778679"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_807663d23acba2b5b507",
@@ -17803,25 +16163,6 @@
     "lastCheckedAt": "2026-11-06T21:30:03Z"
   },
   {
-    "id": "aws_efe850d83af1a6a73c20",
-    "stationId": "awb_73aed0fffa4be813b9f2",
-    "name": "Radio Euskadi",
-    "country": "ES",
-    "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
-    "codec": "mp3",
-    "bitrate": 125,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "376b9347-d2df-402c-9118-0da44056a930"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:12:30Z"
-  },
-  {
     "id": "aws_703e805d881607131d06",
     "stationId": "awb_c43bf789480cad2e565c",
     "name": "Radio Exterior de España",
@@ -17870,15 +16211,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "59752462-1c9f-448a-988c-96b11b2b177c",
       "ES:radio-faro-de-gracia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e7601a6cb53929de75d9",
@@ -17933,7 +16272,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "35b92fe1-ee81-46a6-bceb-1271b3fc22d3",
+      "8ab655f2-d710-4e66-a430-2dcd0187383e",
       "ES:radio-filispim"
     ],
     "lastCheckOk": true,
@@ -18013,7 +16352,7 @@
       "082556db-d971-4642-8fc2-1c78a98bfc77"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_272e470e9fd7b5bfcaf6",
@@ -18086,11 +16425,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24affb27-d0da-4e7d-bc6f-4d3773eba549",
       "e4770979-0f0d-4893-bbbd-c66676c45aa3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:30:54Z"
+    "lastCheckedAt": "2026-11-06T00:34:55Z"
   },
   {
     "id": "aws_536b49297df426be18e0",
@@ -18296,7 +16634,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0c4cedb6-710f-4078-8db3-659071371c70",
       "d36bcbbf-40ab-460a-8344-b1d5028f3725"
     ],
     "lastCheckOk": true,
@@ -18316,11 +16653,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6aad43d6-9555-4a98-a344-33cec8665a79",
       "c7d66685-c3a9-4f3a-9f27-fa8ce75a0f7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:22:54Z"
+    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_65c537b79036a4639d5f",
@@ -18414,11 +16750,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e52fb35-4a84-4b8a-9f7f-4c77fcccbe64",
       "f28e2b23-2f1a-4140-a5bf-3ad5f4d62b11"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
+    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_9a7a09fff22e772126b1",
@@ -18474,7 +16809,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "11f577b3-6036-46f1-a542-980d7669e877",
       "dc1f4ec9-0962-41a7-9f32-98d0565435d0"
     ],
     "lastCheckOk": true,
@@ -18551,11 +16885,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "25c38ea0-b223-4bff-899c-ad84b862fed9",
       "c335f8ab-ed5d-4d74-9cce-b04dfcb55c82"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
+    "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
     "id": "aws_11a339bdb2aa1d1ebb2d",
@@ -18575,25 +16908,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:47:55Z"
-  },
-  {
-    "id": "aws_7888fc44adea0cd817c0",
-    "stationId": "awb_ba4817b9ed8db4a1e89a",
-    "name": "Ràdio l'Hospitalet de l'Infant",
-    "country": "ES",
-    "url": "https://streaming.enacast.com/radiohospitalet56.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "45853b7e-83ad-49a4-aecd-2fa043a1ead6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:13:31Z"
   },
   {
     "id": "aws_907bb21a81fafdf5b399",
@@ -18687,11 +17001,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6e58e437-cdd2-419e-838e-c20139751e45",
       "e2776867-075f-400b-9746-51a037db4c42"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:37:13Z"
+    "lastCheckedAt": "2026-11-06T10:09:21Z"
   },
   {
     "id": "aws_202ac8fc64084384e489",
@@ -18920,31 +17233,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0612d046-0c4c-43a3-b577-8362378caeb7",
-      "29076e22-cdb9-424c-882a-88f53827ed63"
+      "0612d046-0c4c-43a3-b577-8362378caeb7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
-    "id": "aws_5c7bd4b83a66e86b9d2c",
-    "stationId": "awb_bdd6b2e8180b8368d15c",
-    "name": "Radio Linguas",
-    "country": "ES",
-    "url": "https://radiolinguas.eu:8001/radiolinguas",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b408a547-138d-41b7-9ab5-5c2f8e6d26a7",
-      "eecbb174-db4f-4bb1-95a2-96fc60312f84"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
+    "lastCheckedAt": "2026-11-06T16:31:06Z"
   },
   {
     "id": "aws_163d78a26b35ef2e4c80",
@@ -19152,10 +17444,10 @@
     ],
     "sourceIds": [
       "ES:radio-marca",
-      "b129bdd2-65bc-4363-8f74-14b474bc0500"
+      "c0944630-04b4-4b9a-9842-670d19ed36d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:04:07Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_f9189740a1c030ef7eb0",
@@ -19175,25 +17467,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:29:18Z"
-  },
-  {
-    "id": "aws_22a5e76ccf4f08633ab8",
-    "stationId": "awb_db172f9a8c093a24aa9f",
-    "name": "Radio MARCA",
-    "country": "ES",
-    "url": "https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb&gdpr_consent=CQjyS0AQjyS0AAHABBENCdFsAP_gAAAAAAAAMcNR_G__bXlr-bb36btkeYxf9_hr7sQxBgbJk24FzLvW7JwH32E7NAzatqYKmRIAu3TBIQNlHJDURUCgKIgVrzDMaE2U4TtKJ6BkiFMZY2tQCFxvm4tjeQCY4ur_9kd9mR-t7dr82dzy26hnv3a9fuS1UJCdIYetDfv8ZBOT-9IE9-x8v4v4_MbpEm8eS1n_tGtp4jc6Yvv_dBmxt-Tyff7Pn__rl_e7X__e_n3zv8oX37r7____f_-7___2b_-___7___7Z__u8GNIFQAOABmgGfAOkAlUBkIDRgHHgOfAdsA-0B-wEBgIIgQUAjSBHoCRAEkgJKASjAmGBP4CgoFFgKOAUfAqmBWACsgFbQLCAWrAt4BcAC64F2gLvAXsAxABjADGgAxKADAAEGOCkAGAAIMcDoAMAAQY4IQAYAAgxwEgAwABBjgtABgACDHAA.IMcNR_G__bXlv-bb36btkeYxf9_hr7sQxBgbJs24FzLvW7JwH32E7NEzatqYKmRIAu3TBIQNtHJjURUChKIgVrzDMaE2U4TtKJ-BkiHMZY2tQCFxvm4tjeQCZ4ur_9kd9mR-t7dr-2dzy27hnv3a9fuS1UJidKYetHfv8ZBOT-_IU9_x-_4v4_MbpEm8eS1v_tWtt43c64vv_dJuxt-Tyff7fv__73_e7X__e__33_-qX3_r7____________f_________7d___8AAA.f_wAAAAAAAAA",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "827a8d95-5305-43ed-921b-67be5bd587d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
     "id": "aws_67f84344e45e757845a1",
@@ -19232,25 +17505,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:02:29Z"
-  },
-  {
-    "id": "aws_b03a587d3bef25c5e092",
-    "stationId": "awb_15a614a26a177cfbe56e",
-    "name": "Radio Marca Barcelona 2",
-    "country": "ES",
-    "url": "https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a2433b6-a94b-42f8-9988-f89a25ff23c3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_04ce4da988eeff9299b6",
@@ -19598,7 +17852,7 @@
       "8439e2a3-17d9-453a-9b2f-e558650b3dad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_90a579f356d72f55a0a6",
@@ -19617,7 +17871,7 @@
       "6272163f-6d0e-452b-9ee5-65b1e4c81865"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_3983a2ae08ecbe15cab7",
@@ -19776,25 +18030,6 @@
     "lastCheckedAt": "2026-11-06T22:03:45Z"
   },
   {
-    "id": "aws_9b156556efb171c14055",
-    "stationId": "awb_3548cbaceb8ba8154352",
-    "name": "Radio Nacional de España - Valencia",
-    "country": "ES",
-    "url": "https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "79537ca3-05f9-41e2-9a1d-e69accf1a88b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:53:31Z"
-  },
-  {
     "id": "aws_8af584a439d48907e910",
     "stationId": "awb_38e454109a35d8294ac9",
     "name": "Radio Nature",
@@ -19827,11 +18062,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "87aa35fa-37b4-47bf-bb10-bceeb024a7d3",
       "bf5b804b-45ba-41ed-a1a7-41e0544e08e9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:05:50Z"
+    "lastCheckedAt": "2026-11-05T23:05:46Z"
   },
   {
     "id": "aws_88a1c2d6eb9e438a55ef",
@@ -19866,11 +18100,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9b952dc1-6e6f-4882-8bba-6cadbc9c7eeb",
-      "ac31acc8-4acc-488d-851c-19db501e8233"
+      "9b952dc1-6e6f-4882-8bba-6cadbc9c7eeb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
+    "lastCheckedAt": "2026-11-06T05:36:11Z"
   },
   {
     "id": "aws_8bd26aa7fda4c147e406",
@@ -20111,15 +18344,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6ad5e93f-869d-4165-a685-25e8363c1bf4",
       "ES:radio-planeta-costa-del-sol"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b78a8b764006fb052140",
@@ -20230,8 +18461,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "82f057b9-d705-4f52-9c6c-d1fccde9ac2d",
-      "ee8db91e-55ee-4db3-952d-f0cedd24d159"
+      "82f057b9-d705-4f52-9c6c-d1fccde9ac2d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:08:00Z"
@@ -20273,25 +18503,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:13:08Z"
-  },
-  {
-    "id": "aws_eaccff9e337970c24401",
-    "stationId": "awb_35823b917e67e77107b9",
-    "name": "Radio Primavera GC 107.3 FM",
-    "country": "ES",
-    "url": "https://stream.radio-pv.com/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be3b3d36-e761-4193-83a5-7d9fa95c2c12"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
   },
   {
     "id": "aws_06a2e95f69d9232e5b8d",
@@ -20804,7 +19015,7 @@
       "2bc72a9a-22ec-4a10-add3-2b66964b3eba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_e6547c8a3f077fbb25ec",
@@ -21111,25 +19322,6 @@
     "lastCheckedAt": "2026-11-04T19:37:59Z"
   },
   {
-    "id": "aws_dffa937d331d56662c79",
-    "stationId": "awb_9eda47e9ee8426feb819",
-    "name": "Radio Studio Più - Ibiza",
-    "country": "ES",
-    "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4e1a1d7-6a09-4ed8-9cc9-7f402c65148d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:51:28Z"
-  },
-  {
     "id": "aws_2a08f4e4b82ed26b880d",
     "stationId": "awb_ec42235fb50326388073",
     "name": "Radio Surco Tomelloso",
@@ -21144,11 +19336,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4dcce9d5-f195-42c1-bfb0-9e396deafa2e",
-      "ES:radio-surco-tomelloso"
+      "ES:radio-surco-tomelloso",
+      "b488f0eb-f75f-49bc-a3a3-b53d44824e18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
+    "lastCheckedAt": "2026-11-06T00:37:59Z"
   },
   {
     "id": "aws_85073dfc1bd1a1962f11",
@@ -21265,44 +19457,6 @@
     "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
-    "id": "aws_c3236c6be033c2fe860c",
-    "stationId": "awb_04fc821b88c2e761f3e0",
-    "name": "Radio The Club",
-    "country": "ES",
-    "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d8486f84-45a3-463c-8092-377fb0012281"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
-  },
-  {
-    "id": "aws_89544ababceaf38ceb65",
-    "stationId": "awb_1668492d26b1e2f3f8f8",
-    "name": "Radio THE CLUB - Mallorca 92.0 FM",
-    "country": "ES",
-    "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9bded5c4-6002-438a-9ca5-0087a92e9100"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:32:09Z"
-  },
-  {
     "id": "aws_810ec7b0c3a72d0b430a",
     "stationId": "awb_b73ce9b2e47b31875854",
     "name": "RADIO TINAMAR",
@@ -21339,25 +19493,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:49:52Z"
-  },
-  {
-    "id": "aws_a99749d4008a224e935b",
-    "stationId": "awb_65492b7b7f2b3abbb6cc",
-    "name": "Radio Tirso Libertaria (RTL)",
-    "country": "ES",
-    "url": "https://giss.tv:666/tirsolibertaria.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8c688cbb-c9d2-41f8-8649-180fd399b4a1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
   },
   {
     "id": "aws_71957e044de273c64193",
@@ -21658,7 +19793,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1f48bc62-6bfe-4adf-9c97-8d6e9baa1e2e",
       "d40d2942-f7e2-46f3-9c55-340348385f9f"
     ],
     "lastCheckOk": true,
@@ -21800,25 +19934,6 @@
     "lastCheckedAt": "2026-11-07T00:01:50Z"
   },
   {
-    "id": "aws_71d185aa7b8e24b5aa83",
-    "stationId": "awb_304d7923cb0c430e0f7a",
-    "name": "Radio Voz (A Coruña)",
-    "country": "ES",
-    "url": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5fc62f93-56f8-4df8-92b2-0bf285df6996"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:32:41Z"
-  },
-  {
     "id": "aws_360ea681838138ff012e",
     "stationId": "awb_dfa6b44ac829da605a85",
     "name": "Radio Voz (Compostela)",
@@ -21897,7 +20012,7 @@
   {
     "id": "aws_a14161e29a4c7f074725",
     "stationId": "awb_f3ddd5453be3fd9c853e",
-    "name": "RadioBlues Flac",
+    "name": "RadioBlues-Flac",
     "country": "ES",
     "url": "https://streams.radiomast.io/radioblues-flac",
     "codec": "ogg",
@@ -21910,10 +20025,10 @@
     ],
     "sourceIds": [
       "ES:radioblues-flac",
-      "c9d75db2-d044-465a-9ec6-ee46c8d20a0b"
+      "ce64b81a-e023-427e-a20f-22c713d04be2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
+    "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
     "id": "aws_30694575d46c80087fa8",
@@ -22011,25 +20126,6 @@
     "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
-    "id": "aws_5c99d16198c9d5aa9298",
-    "stationId": "awb_0f4f5e423365a838498e",
-    "name": "RadioMV Español",
-    "country": "ES",
-    "url": "https://stream.radiomv.com/spanish/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6dacb9d3-eb7c-4579-bce9-98b272835842"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
     "id": "aws_bc7f1fc8e694a4fb33d5",
     "stationId": "awb_496b114e0f66d52debe9",
     "name": "RadioMV Español El Antiguo Testamento",
@@ -22100,11 +20196,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1800fa0b-3e07-4c89-9610-aa34c6d1a8c5",
       "cfebf081-ff18-4a32-b053-726b0fcfe64f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:57:28Z"
+    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_0ed7408ff04db69f5206",
@@ -22126,25 +20221,6 @@
     "lastCheckedAt": "2026-11-06T12:23:55Z"
   },
   {
-    "id": "aws_c0dd10838142cc91b928",
-    "stationId": "awb_b27f92760fd843ff8b2a",
-    "name": "RadioRemember",
-    "country": "ES",
-    "url": "https://stream-164.zeno.fm/vth4gamdntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dGg0Z2FtZG50enV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBwMjdydG5LU1J5Uk1WdHVCSkJjcEEiLCJpYXQiOjE3NDA4NzY2ODksImV4cCI6MTc0MDg3Njc0OX0.C895dopT7rEuOlpWiF7fF2IwhjTj5Oje8WzcLOdV0G0",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "63d517b5-0d6b-4a7d-a6ee-c1dfbbe3bc63"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
-  },
-  {
     "id": "aws_0a15033468086c8cea0b",
     "stationId": "awb_27d30bb860683e188e7b",
     "name": "Radios Libres",
@@ -22155,15 +20231,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "13811715-e6ba-4212-a37c-4223137824e7",
       "ES:radios-libres"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:28:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6303bc6d2faa2c4b7990",
@@ -22506,11 +20580,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "961e65bf-0601-11e8-ae97-52543be04c81",
-      "ab1fb752-3897-4e5c-80e8-c6950b94e01c"
+      "961e65bf-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:01:25Z"
+    "lastCheckedAt": "2026-11-06T19:01:36Z"
   },
   {
     "id": "aws_e57f0c06b44175e9df0c",
@@ -22669,25 +20742,6 @@
     "lastCheckedAt": "2026-11-06T04:42:42Z"
   },
   {
-    "id": "aws_b79d1d32438be0592a99",
-    "stationId": "awb_686e71983abf46124c08",
-    "name": "RNE - Radio 5 Teruel",
-    "country": "ES",
-    "url": "https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f8a9b5f9-5390-4ad0-a11e-e1e5e96fc8f9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
-  },
-  {
     "id": "aws_63c30b88c27a9e41d018",
     "stationId": "awb_686e71983abf46124c08",
     "name": "RNE - Radio 5 Teruel",
@@ -22705,25 +20759,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:05:11Z"
-  },
-  {
-    "id": "aws_1683be13701a30da33a2",
-    "stationId": "awb_e55e2b937f5cdddcfd27",
-    "name": "RNE - Radio 5 Zaragoza",
-    "country": "ES",
-    "url": "https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7ca7241d-2147-4190-8a86-934e504cd1f4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
   },
   {
     "id": "aws_153bb531e4be40408b3e",
@@ -22781,25 +20816,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:45:20Z"
-  },
-  {
-    "id": "aws_190a350d46c83df94512",
-    "stationId": "awb_44e4e9987c1a492e1668",
-    "name": "RNE Andalucía",
-    "country": "ES",
-    "url": "https://f141.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3?cid=01GEPXW032X3Y2SXM6M4X4F1X4&sid=2ar1MBXpFkcnL6WuaxAXO1hEITa&token=L_nTm1RjUems0IjZMMQ_ZzFu3XQ_1_faFzfSM3OR5t8&tvf=06JeYFmsqRdmMTQxLnJuZGZuay5jb20",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff85018d-5ecf-4a37-ae86-5925d2af9611"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
   },
   {
     "id": "aws_dcb095820fefbb743f59",
@@ -23087,44 +21103,6 @@
     "lastCheckedAt": "2026-11-06T09:36:04Z"
   },
   {
-    "id": "aws_2bb0f51dc76f3a9f8ca7",
-    "stationId": "awb_ab053c361e376ff4927e",
-    "name": "Rock FM",
-    "country": "ES",
-    "url": "http://flucast05-o-cloud.flumotion.com/cope/rockfm-low.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9649dec5-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
-  },
-  {
-    "id": "aws_f2935199e0f59cf6e996",
-    "stationId": "awb_ab053c361e376ff4927e",
-    "name": "Rock FM",
-    "country": "ES",
-    "url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c88a6d2c-104f-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
-  },
-  {
     "id": "aws_f33106972f316e5a34fc",
     "stationId": "awb_ab053c361e376ff4927e",
     "name": "ROCK FM",
@@ -23201,44 +21179,6 @@
     "lastCheckedAt": "2026-11-06T15:00:31Z"
   },
   {
-    "id": "aws_5d4a5bab86a234977783",
-    "stationId": "awb_71382796998f7a9966c4",
-    "name": "Rock FM Espana 128",
-    "country": "ES",
-    "url": "https://rockfm-cope.flumotion.com/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "acd28111-3e56-4c7f-bd07-cfb05f08b15e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
-  },
-  {
-    "id": "aws_f897e7594773d55bc31b",
-    "stationId": "awb_5eebdcb44e56bc644853",
-    "name": "Rock FM Espana Hi-Res",
-    "country": "ES",
-    "url": "https://rockfm-cope.flumotion.com/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ba787931-b063-467e-88da-bfb5423f5e04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
     "id": "aws_a638d35b2bb2ce4151b9",
     "stationId": "awb_a3f2ca5eb6a35edc0cf3",
     "name": "Rock Radioo",
@@ -23296,25 +21236,6 @@
     "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
-    "id": "aws_48a31d9df31e0d9d25b8",
-    "stationId": "awb_b45ea433e0168d7ba214",
-    "name": "RockFM 101.7",
-    "country": "ES",
-    "url": "http://flucast04-h-cloud.flumotion.com/cope/rockfm.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "340e0bba-d897-11e8-a9cc-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:58:56Z"
-  },
-  {
     "id": "aws_6210da21a7e92a588de7",
     "stationId": "awb_33bb823e62fa0777427b",
     "name": "rockSateliteONE",
@@ -23368,11 +21289,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e70570a2-5f60-4665-9558-135945fc3110",
       "ecfac820-b13b-4a19-89b0-3be54999912e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
+    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_92d7e1e62f6fbc9d746d",
@@ -23394,25 +21314,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:52:06Z"
-  },
-  {
-    "id": "aws_5faa94150c082ee54d20",
-    "stationId": "awb_39df907c9f35998392d8",
-    "name": "RTPA",
-    "country": "ES",
-    "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27f975bc-855f-4a8d-97a6-a4b8e02c035d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
   },
   {
     "id": "aws_ff09efe8c159438de659",
@@ -23529,25 +21430,6 @@
     "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
-    "id": "aws_4599ef81f52f93cbbd66",
-    "stationId": "awb_8fe7082024a8fd2bc893",
-    "name": "S+ ibiza",
-    "country": "ES",
-    "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7a4c78ee-9a86-410d-97bf-83b99f59bc02"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
-  },
-  {
     "id": "aws_6447e7a08ab695e5cb7d",
     "stationId": "awb_d37f468d23b0a75141ac",
     "name": "Salsa FM",
@@ -23569,7 +21451,7 @@
   {
     "id": "aws_1d8ed5743418d6a94fee",
     "stationId": "awb_a7aa9b9befd586847e6f",
-    "name": "Salvaje FM",
+    "name": "salvaje fm",
     "country": "ES",
     "url": "http://164.138.208.21:8154/",
     "codec": "mp3",
@@ -23580,7 +21462,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "123fe1cf-3793-4864-a5d5-4e6741d15ecf",
       "adeb6327-f6b5-4623-baf2-9ed8b029f5da"
     ],
     "lastCheckOk": true,
@@ -23616,15 +21497,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6ea3b2ba-e590-4f58-86f6-e9a43521ce32",
       "ES:sangeet-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:40:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_65b91116309c83559a8a",
@@ -23661,7 +21540,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "63a8cbf4-63e5-4218-8267-8d8fd8e0e30f",
       "8c13d7d8-053c-4c9d-adfe-cfeabd092184"
     ],
     "lastCheckOk": true,
@@ -23700,11 +21578,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "654d7bf2-4364-41c2-95ce-5a7ddbca3764",
-      "f4c2a4ad-5aa7-495a-b090-ccd07ac398f9"
+      "654d7bf2-4364-41c2-95ce-5a7ddbca3764"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
+    "lastCheckedAt": "2026-11-06T14:35:39Z"
   },
   {
     "id": "aws_1d299f3e7d12f16f87b3",
@@ -23783,25 +21660,6 @@
     "lastCheckedAt": "2026-11-07T01:21:41Z"
   },
   {
-    "id": "aws_ebae448d6f743f351bf3",
-    "stationId": "awb_adb166ee12d6071b3702",
-    "name": "SER - Segovia (20241023)",
-    "country": "ES",
-    "url": "http://20103.live.streamtheworld.com/SER_ASO_SEGOVIA_SC",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9609d143-0f02-4289-a393-cf3db15b2acb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:22:54Z"
-  },
-  {
     "id": "aws_c519d73cbec34d0c2606",
     "stationId": "awb_adb166ee12d6071b3702",
     "name": "Ser - Segovia 20241023",
@@ -23856,7 +21714,7 @@
       "bce3a9e3-c293-4d5c-b440-e16c4bc27432"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_2366630638f13ffef879",
@@ -24027,7 +21885,7 @@
       "c527ff3f-4710-4101-b47e-e16fbba002ee"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_dea426943aa570396645",
@@ -24062,11 +21920,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0cd0331b-e57d-473f-827a-b3918dea317c",
-      "2dc9a47d-3085-41a5-ac15-54220f1d70fa"
+      "0cd0331b-e57d-473f-827a-b3918dea317c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:15:25Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_18411904805c7aaf8563",
@@ -24280,25 +22137,6 @@
     "lastCheckedAt": "2026-11-06T17:17:37Z"
   },
   {
-    "id": "aws_2a9672b9ec2042c22df3",
-    "stationId": "awb_35832ad5323b01420494",
-    "name": "Sonaos fm",
-    "country": "ES",
-    "url": "https://centova.streamrdm.com:4449/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "464d70ea-5940-4a7d-8fb9-8d79c45ecd17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:30:04Z"
-  },
-  {
     "id": "aws_df35932ff787efde5e99",
     "stationId": "awb_19f3a01770002f110625",
     "name": "Sonica Tribe",
@@ -24313,7 +22151,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1ec57dcc-6465-41af-ac22-11eea7d34c95",
+      "302576c1-d92b-42d8-9e07-5780bb49cb74",
       "ES:sonica-tribe"
     ],
     "lastCheckOk": true,
@@ -24493,25 +22331,6 @@
     "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
-    "id": "aws_de7baf009b157a119f78",
-    "stationId": "awb_96163212bf1c60200abb",
-    "name": "Star People",
-    "country": "ES",
-    "url": "http://2.139.144.101:8020/2?1508151505",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96314885-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:05:50Z"
-  },
-  {
     "id": "aws_cc8a3549ab9cc4053467",
     "stationId": "awb_0ba365e1997704209ff7",
     "name": "staronlineradio",
@@ -24645,25 +22464,6 @@
     "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
-    "id": "aws_94797bd3a25cd3c227c8",
-    "stationId": "awb_a48dea4defe8f9341e66",
-    "name": "Talk Radio Europe",
-    "country": "ES",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "569250a0-b6ed-4ad9-bfc4-ad9dd65dc917"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:12:27Z"
-  },
-  {
     "id": "aws_d87f3220ee07309be12c",
     "stationId": "awb_5fc02298350e19e88c5a",
     "name": "Talk Radio Europe",
@@ -24681,6 +22481,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:30:22Z"
+  },
+  {
+    "id": "aws_c8a9857162d7b2ccb360",
+    "stationId": "awb_fb5331f702642aced8a4",
+    "name": "TARDEO CLUB RADIO",
+    "country": "ES",
+    "url": "https://radio.playlist.tips/listen/tarde_club_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "df307263-0b98-461d-859d-6f95dba553a4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_84d0acd3114df3deb9f7",
@@ -24769,15 +22588,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ES:technolovers-edm",
-      "e4149287-f6a5-4938-a3e9-322dbc3ed845"
+      "ES:technolovers-edm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:43:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_64d7885bb6b343219ab7",
@@ -24796,7 +22613,7 @@
       "c50cc2f9-15f8-441a-a001-c5261b4c078e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_2fe819ca204ee483d4cb",
@@ -24869,8 +22686,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22951ba2-af5e-4a10-8abb-df66665228e3",
-      "655f4c4b-a2e3-46a1-92e1-48c167473aaa"
+      "22951ba2-af5e-4a10-8abb-df66665228e3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
@@ -25041,11 +22857,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2207dac9-6549-4d2f-85cc-c247bc0326bb",
       "c9290daa-a14b-4999-82a6-bd41b4113cb5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:17:17Z"
+    "lastCheckedAt": "2026-11-06T01:32:34Z"
   },
   {
     "id": "aws_ab8eff3da754e759200c",
@@ -25198,8 +23013,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0f67eaec-c26b-4053-9c79-a22140f73220",
-      "50aa95a7-68ce-4699-ae76-106db15e0cf4"
+      "0f67eaec-c26b-4053-9c79-a22140f73220"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:58:04Z"
@@ -25279,25 +23093,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:01:36Z"
-  },
-  {
-    "id": "aws_ffb75a2466795589b39f",
-    "stationId": "awb_122dc4c4ee6761f0a3e0",
-    "name": "Vive Radio Burgos",
-    "country": "ES",
-    "url": "https://streaming.viveradio.es/viveburgos",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f639e237-b342-40b5-938b-d061e681f6bb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
     "id": "aws_18661c91752ec3557f2c",
@@ -25547,25 +23342,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:21:17Z"
-  },
-  {
-    "id": "aws_6ad98195acc495cec016",
-    "stationId": "awb_b252d4b367443580d328",
-    "name": "YouTube Radio",
-    "country": "ES",
-    "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36b029bc-95c2-4cbb-8c91-ddb2200b703c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
   },
   {
     "id": "aws_7273a54afb1745c805f8",

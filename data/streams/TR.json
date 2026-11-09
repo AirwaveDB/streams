@@ -57,25 +57,6 @@
     "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
-    "id": "aws_02d1643fd2c61b46ad94",
-    "stationId": "awb_51ca9ce8f25c9650f751",
-    "name": "101.1Megasite",
-    "country": "TR",
-    "url": "http://37.247.98.8/stream/30/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7aeff8c5-2204-434f-b8ca-aed6cd8278f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:16:34Z"
-  },
-  {
     "id": "aws_c1e27f1b871d6cc4cc18",
     "stationId": "awb_02dd1212205d48612fad",
     "name": "101.4 HATAY TEMPO FM",
@@ -95,25 +76,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:20:18Z"
-  },
-  {
-    "id": "aws_c112a31f68554186a768",
-    "stationId": "awb_ba406e0f3c2c233c5af9",
-    "name": "102.1 Arabeskin Merkezi Fm",
-    "country": "TR",
-    "url": "http://canli.arabeskinmerkezi.com:9180/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "474b5f9f-6202-4928-a3c0-0a9068ce040e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:30:48Z"
   },
   {
     "id": "aws_de7d8f6b2f3fc24008aa",
@@ -173,63 +135,6 @@
     "lastCheckedAt": "2026-11-07T01:44:59Z"
   },
   {
-    "id": "aws_1843acf20b072396f1e7",
-    "stationId": "awb_ea73c8813c1649b16937",
-    "name": "90 LAR POP",
-    "country": "TR",
-    "url": "http://37.247.98.8/stream/166/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b12abe69-7421-4117-918a-cc993d871e31"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
-  },
-  {
-    "id": "aws_d436f2b368d7006e7a54",
-    "stationId": "awb_ea73c8813c1649b16937",
-    "name": "90 LAR POP",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fb424191-aaad-41ff-838c-edcfffb6c0b6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T21:16:26Z"
-  },
-  {
-    "id": "aws_3220ea20172ad0b7bec7",
-    "stationId": "awb_5a3ce669144b2a104728",
-    "name": "90 lar Pop",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f297888e-220b-4345-bf03-8cb094e78ce0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:23:06Z"
-  },
-  {
     "id": "aws_25463e14ae11c95697d4",
     "stationId": "awb_c9899eb14c0141889244",
     "name": "90'lar Türkçe Pop",
@@ -247,25 +152,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:30:25Z"
-  },
-  {
-    "id": "aws_d0c433175326ec55c989",
-    "stationId": "awb_ac71b2983a9eb1e5ff45",
-    "name": "90LAR",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6c412158-89e5-4c4f-affc-e2c3a05bd8c5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:49:18Z"
   },
   {
     "id": "aws_b9fb64a2648891e59066",
@@ -363,45 +249,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:36:36Z"
-  },
-  {
-    "id": "aws_04ace874b219968278d0",
-    "stationId": "awb_9d26c73930c1f18dbb96",
-    "name": "a HABER",
-    "country": "TR",
-    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:18:31Z"
-  },
-  {
-    "id": "aws_3812661fae5f3a672a69",
-    "stationId": "awb_c520cdef55b29de427ae",
-    "name": "A Haber Radyo",
-    "country": "TR",
-    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "acc68151-1a3c-4e82-8fb7-4f050b02a292",
-      "f6eac013-4af1-4a0c-a672-d1a2adb03a68"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:28:32Z"
   },
   {
     "id": "aws_632df81c620550828ee9",
@@ -651,26 +498,6 @@
     "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
-    "id": "aws_c96771d2d4131ae52b23",
-    "stationId": "awb_603cfd16c1f82810e90f",
-    "name": "Alem FM",
-    "country": "TR",
-    "url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4e758ac3-15ad-11e9-a80b-52543be04c81",
-      "ed407779-d155-4fd3-8c90-1ca898407b0c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:59:54Z"
-  },
-  {
     "id": "aws_9ae5d839569add36a2d6",
     "stationId": "awb_603cfd16c1f82810e90f",
     "name": "Alem Fm",
@@ -859,7 +686,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "96201b3d-0601-11e8-ae97-52543be04c81",
       "da5c3f55-c1df-4f49-8727-d59f1787784d"
     ],
     "lastCheckOk": true,
@@ -995,7 +821,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e3038cc-eafc-45d0-a2e5-ef4c5d40494a",
       "c735707a-895b-4317-a173-f09a90f218ab"
     ],
     "lastCheckOk": true,
@@ -1078,25 +903,6 @@
     "lastCheckedAt": "2026-11-07T01:22:19Z"
   },
   {
-    "id": "aws_ebcbc14cf18f753e1faa",
-    "stationId": "awb_4b9d0b68147788c06779",
-    "name": "Banko Fm 1",
-    "country": "TR",
-    "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f54760bf-3667-435f-b1db-6fb74ba25653"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
     "id": "aws_414028cdfbaac1f714fb",
     "stationId": "awb_960311808b95f3028c64",
     "name": "BARIŞ FM",
@@ -1171,25 +977,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:43:29Z"
-  },
-  {
-    "id": "aws_b525f3b50e27150a5049",
-    "stationId": "awb_33f363253ede36ba41d7",
-    "name": "Batı Radyo",
-    "country": "TR",
-    "url": "https://sslyayin.netyayin.net:10902/",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
   },
   {
     "id": "aws_4b7e5d864f16d14b4c1b",
@@ -1561,25 +1348,6 @@
     "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
-    "id": "aws_8aa500cd42ef76d33fb3",
-    "stationId": "awb_4ecf8bff997288a01b93",
-    "name": "Bizim iller Radyosu",
-    "country": "TR",
-    "url": "http://yayin.yayindakiler.com:4078/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3280070b-d541-4f37-9b5f-43491f422bd0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:53:00Z"
-  },
-  {
     "id": "aws_6e23f8f10d5f5644f5ba",
     "stationId": "awb_45654650eb6c3ec7b5a1",
     "name": "Bizim Radyo",
@@ -1943,25 +1711,6 @@
     "lastCheckedAt": "2026-11-06T07:24:28Z"
   },
   {
-    "id": "aws_accd02d90b264a1b53ba",
-    "stationId": "awb_e683a5187f4900ce123e",
-    "name": "Cnn Türk Radyo",
-    "country": "TR",
-    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e053f98a-e195-48f0-b07b-b2143c6e0964"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
-  },
-  {
     "id": "aws_7865fc0f5905f081ae69",
     "stationId": "awb_66a3cb1b24a272f4baad",
     "name": "Coastiva Radio",
@@ -2032,11 +1781,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "607dfcbd-0c9d-42bf-b715-c182446c0671",
-      "f035ba3b-6ec5-418a-ba73-9a504ab70c13"
+      "607dfcbd-0c9d-42bf-b715-c182446c0671"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
+    "lastCheckedAt": "2026-11-06T09:57:38Z"
   },
   {
     "id": "aws_b83b1213542aa6c82c02",
@@ -2052,8 +1800,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3a1acfc6-9002-427f-8532-aa10612cbc87",
-      "a30ab711-5363-4db1-af70-733aee01e2c8"
+      "3a1acfc6-9002-427f-8532-aa10612cbc87"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:20:52Z"
@@ -2156,25 +1903,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:45:22Z"
-  },
-  {
-    "id": "aws_a1335ee52d64988ca7ef",
-    "stationId": "awb_f4d884d8c7ddffc4a16f",
-    "name": "Danceland turkey",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "12151b64-b476-4516-b7db-c1263ae422db"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
   },
   {
     "id": "aws_4005b60010069e13339c",
@@ -2346,11 +2074,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "288fe97a-9b9f-4af1-814f-24eed6e264ae",
       "b4d2f7c7-8681-47ff-8bcf-71c06e60e750"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:14:37Z"
+    "lastCheckedAt": "2026-11-06T05:15:05Z"
   },
   {
     "id": "aws_d6fffb4797194a4d3f06",
@@ -2385,8 +2112,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3f3b3c42-3b2b-4384-a12a-bd14acd51461",
-      "45bb5fc8-84df-4561-b282-935bb5dd7c86"
+      "3f3b3c42-3b2b-4384-a12a-bd14acd51461"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:29:54Z"
@@ -2424,11 +2150,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "127006d6-f378-42d0-97b6-1c253a2f3d3e",
-      "72adbb9a-b6c4-4cf3-8c7e-ba264f51b787"
+      "127006d6-f378-42d0-97b6-1c253a2f3d3e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:05:51Z"
+    "lastCheckedAt": "2026-11-05T22:20:00Z"
   },
   {
     "id": "aws_521a3d41183d8269c494",
@@ -2463,11 +2188,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "04407d31-2cc0-11e8-91bf-52543be04c81",
       "1111c128-3215-49dd-9741-7858967455c4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:41:06Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_92912224e35334517185",
@@ -2540,11 +2264,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6420aa7b-70b7-4239-aa43-e3fb17638b0b",
       "708f0a19-db7d-4f38-bee3-056ba560bff7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
+    "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
     "id": "aws_5b772e5e602c8750f5f4",
@@ -3025,7 +2748,7 @@
       "TR:erkam-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
+    "lastCheckedAt": "2026-11-06T14:02:32Z"
   },
   {
     "id": "aws_dad14e559ab9549befa2",
@@ -3244,7 +2967,7 @@
       "653a063c-6d10-46da-af43-ceaeee50c933"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_863ba6be1cefef51c96f",
@@ -3496,25 +3219,6 @@
     "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
-    "id": "aws_e9ec7489c6a3fd1c6673",
-    "stationId": "awb_cf502c2affdcc0d19515",
-    "name": "FIND A CUTİE",
-    "country": "TR",
-    "url": "https://stream.zeno.fm/lyl2uv7fcvovv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f91c177e-7f45-4156-9699-d745993c6831"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
-  },
-  {
     "id": "aws_c05810de3ae957100c94",
     "stationId": "awb_0ca0fca7eb5f52b1bf41",
     "name": "FIND A CUTİE <3",
@@ -3570,25 +3274,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:27:12Z"
-  },
-  {
-    "id": "aws_51d0cc64cc551331d99c",
-    "stationId": "awb_b51b70c79472e34ab4ac",
-    "name": "FLOWRADYO",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a16cfab9-0b44-4718-8e72-6ee209ecfe37"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:48:15Z"
   },
   {
     "id": "aws_ac0bdd0407bdf8e8b353",
@@ -3958,25 +3643,6 @@
     "lastCheckedAt": "2026-11-06T02:36:16Z"
   },
   {
-    "id": "aws_06eb0a47ad2b4d8e1d4b",
-    "stationId": "awb_2418bbaaf4575f6ef754",
-    "name": "Gundi FM",
-    "country": "TR",
-    "url": "http://gundifm.ozelip.com:7830/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e07ce960-0fca-49c5-9f9f-4aa24feb77a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
     "id": "aws_0dfa5d6ada92d5e1c75c",
     "stationId": "awb_f1c9111427e963f1b56b",
     "name": "Gurbetçi FM",
@@ -4063,15 +3729,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "14db05f4-b028-40dc-a13f-c53d068d929e",
       "TR:haberturk-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_94e66f5d848160d151d5",
@@ -4223,15 +3887,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:hayatmix-slow",
-      "bef9a5a3-997a-42ed-a480-f0302253b7d5"
+      "TR:hayatmix-slow"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_855caf3e182745334a12",
@@ -4239,20 +3901,18 @@
     "name": "Heart FM 103.4",
     "country": "TR",
     "url": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "581882a7-a356-40c2-8462-34de075c088f",
       "TR:heart-fm-103-4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0466f2184bf297d4ffa9",
@@ -4271,7 +3931,7 @@
       "c63dc248-3bc8-4207-a9a8-f3e67bd445f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_7f541bcf0e807777bfa7",
@@ -4310,25 +3970,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:15:42Z"
-  },
-  {
-    "id": "aws_af6912a66eb7be1c2b83",
-    "stationId": "awb_ee2bbe7a1f1c4671de3d",
-    "name": "Hemdem Pop Radyo",
-    "country": "TR",
-    "url": "https://yayin.hemdemradyo.com/",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2e4ee5d9-18ef-4073-8d6e-5582808216ff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:17Z"
   },
   {
     "id": "aws_967a8fca79dcadc0216b",
@@ -4422,11 +4063,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "341e06c4-da16-475d-a013-ba296d52db13",
       "b5fda548-6745-4c8f-921a-1046aceee560"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:52:06Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_c905da20f8e319e812bc",
@@ -4607,20 +4247,18 @@
     "name": "imaj fm Erzurum",
     "country": "TR",
     "url": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "38ccbf1e-0938-4e36-a2df-76b7a4c559c4",
       "TR:imaj-fm-erzurum"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_204b491546d909346af0",
@@ -4682,25 +4320,6 @@
     "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
-    "id": "aws_5ff4342e204a9c131f71",
-    "stationId": "awb_2593dc612fee5f2e3879",
-    "name": "istanbul fm",
-    "country": "TR",
-    "url": "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 149,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "91c6a4b7-e345-4341-8d92-92c802f1532c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
     "id": "aws_1b5090a73247648870a5",
     "stationId": "awb_74fa9698f6e2e75e6d34",
     "name": "İstanbul FM",
@@ -4739,25 +4358,6 @@
     "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
-    "id": "aws_891c744c799f3db715ef",
-    "stationId": "awb_b80b01a5cc97c86dcf6d",
-    "name": "İTÜ Klasik",
-    "country": "TR",
-    "url": "http://160.75.86.29:8088/ituklasikmp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23f34553-6c06-46dd-9fe8-99cf0807c112"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:59:54Z"
-  },
-  {
     "id": "aws_638e6708b905c66bb38b",
     "stationId": "awb_55d7fa851a607a661b2d",
     "name": "İTÜ Radyosu Rock",
@@ -4794,25 +4394,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:53:31Z"
-  },
-  {
-    "id": "aws_3151cae1c591d9fd4704",
-    "stationId": "awb_f9224df9584f9ce7af4b",
-    "name": "Joy Fm",
-    "country": "TR",
-    "url": "http://28563.live.streamtheworld.com/JOY_FMAAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c7dadc87-3c43-46f5-aa24-91e0fa9a7643"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
   },
   {
     "id": "aws_4c44f49e7b780dab38a6",
@@ -4865,15 +4446,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "354ffe25-8a45-4534-888b-c900054c1ba7",
       "TR:joy-turk-rock-turkey"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:08:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e0221014fba97edef9ea",
@@ -4948,7 +4527,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2d122ba2-553e-45c5-8946-e41c60ace773",
       "e9a47f3e-1734-43b5-8c19-1fc05d2f35fe"
     ],
     "lastCheckOk": true,
@@ -4987,8 +4565,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "48da3d7a-7d3b-4c93-b2a4-fa1ebc3a8f37",
-      "494ac8c0-1729-4406-a779-b7430c3c5374"
+      "48da3d7a-7d3b-4c93-b2a4-fa1ebc3a8f37"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:00:37Z"
@@ -5117,20 +4694,18 @@
     "name": "KARMA TÜRK SLOW",
     "country": "TR",
     "url": "https://yayin.radyomadyo.com:8004/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:karma-turk-slow",
-      "ea6bf52b-e8b8-497c-a39c-ebd2d477d63d"
+      "TR:karma-turk-slow"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_fe3d3a2fc560494f3403",
@@ -5247,25 +4822,6 @@
     "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
-    "id": "aws_5b1668e6b68b84bdb1d7",
-    "stationId": "awb_246855523bc944a85014",
-    "name": "KİSS LOVE RADYO TURKEY",
-    "country": "TR",
-    "url": "https://anadolu.liderhost.com.tr:10964/",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cad85f62-a486-4b1c-b90d-9a3a5956330b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:36:57Z"
-  },
-  {
     "id": "aws_010a9b8fe3d8acb1e710",
     "stationId": "awb_c324e41a3dcac1941bb8",
     "name": "KİSS MUSİKİ",
@@ -5373,15 +4929,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:kiyi-muzik",
-      "cc06c583-3875-4d75-8b90-383c310f1ba8"
+      "TR:kiyi-muzik"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_08f422d957b3e3d1d70d",
@@ -5394,15 +4948,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:kiyi-turkce",
-      "c0f5e413-4c6a-4146-90d9-774ef452ee4b"
+      "TR:kiyi-turkce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ca0fa506bcdb823c26da",
@@ -5502,25 +5054,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
-    "id": "aws_3a167bfe75aaa5e0a850",
-    "stationId": "awb_b697402d91004879d832",
-    "name": "Kıyı Radyo",
-    "country": "TR",
-    "url": "https://kiyi.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cab3a3a0-78b8-4f8d-bb40-ab3d5d717ce8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
     "id": "aws_7c8d5a8dff14c64f6b5a",
@@ -5673,30 +5206,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "04e2933e-d0cf-4e2b-8f9f-33d977186222",
-      "efee6296-e8b9-4997-9671-b4b7302f0148"
+      "52c9cc10-217f-4a87-a3db-9a93f1a560b7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:39:08Z"
-  },
-  {
-    "id": "aws_be65b4efde5ae00a8f71",
-    "stationId": "awb_c42c47a374883c1f603b",
-    "name": "KRAL POP",
-    "country": "TR",
-    "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f9fe2c7e-6f2f-4780-a682-8317604fe0ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:24:15Z"
   },
   {
     "id": "aws_effebb78ac9c273d8595",
@@ -5732,11 +5245,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "09f8922f-56bb-41bd-ad35-a7e54c5520e3",
+      "77ff4907-dc68-4d3b-8d98-89b3e32a66dd",
       "TR:kral-turk-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:32:42Z"
+    "lastCheckedAt": "2026-11-06T07:14:37Z"
   },
   {
     "id": "aws_637c2088d60591247c83",
@@ -5779,25 +5292,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:55:20Z"
-  },
-  {
-    "id": "aws_7db7550df2e793c515f0",
-    "stationId": "awb_180bdc1742ecde804f6b",
-    "name": "KURAN VE MEAL",
-    "country": "TR",
-    "url": "http://82.145.41.8:19175/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ded7dfc-ef59-43ff-a982-b48e1cda3e6a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
   },
   {
     "id": "aws_ba8387f6b5ed8ee9d43a",
@@ -6015,25 +5509,6 @@
     "lastCheckedAt": "2026-11-07T00:12:44Z"
   },
   {
-    "id": "aws_1ad46a6987cbaced9905",
-    "stationId": "awb_e0985661d177469f662c",
-    "name": "loops radio",
-    "country": "TR",
-    "url": "https://progressive.ozelip.com/7670/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c49eb0a-c973-4260-9574-ac0875964645"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
     "id": "aws_2d2d4e5d9c23fdb8ca68",
     "stationId": "awb_51bd57c302fa114dc16e",
     "name": "Loops Radio Elektronica Station",
@@ -6246,30 +5721,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "30377852-8d25-4773-be20-5dc65ba6b4f2",
+      "455c485f-9d57-4b4a-a00d-c0d77347327c",
       "TR:max-fm-95-8-maximum-music"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:41:25Z"
-  },
-  {
-    "id": "aws_64106ff1d3693b95be7a",
-    "stationId": "awb_47e492b7eabd951aa1f5",
-    "name": "Max Fm 95.8 Maximum Music",
-    "country": "TR",
-    "url": "http://live2.radyotvonline.com:8025/",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960e363d-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_7b3a55c5dcab0ae6f505",
@@ -6379,15 +5835,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:mega-ask-fm",
-      "dc8dcd60-8c02-49ab-b2bc-47a4599ae624"
+      "TR:mega-ask-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:46:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_bdae390b7b9161cce7b1",
@@ -6426,25 +5880,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:50:25Z"
-  },
-  {
-    "id": "aws_3b9d236bf66e6a98b4f2",
-    "stationId": "awb_39ef2ab0e8c0c7eecfd1",
-    "name": "MEGA SİTE",
-    "country": "TR",
-    "url": "http://yayin.netradyom.com:7900/;stream.mp3",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e211532e-a87f-42d9-907c-f2fa08898348"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:37:30Z"
   },
   {
     "id": "aws_6a110d2baa3c5716cce9",
@@ -6732,11 +6167,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "45a00245-168f-4996-bb29-585969d7c7d7",
       "64e3159f-54ab-47ef-9b04-2dbce8dd77d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:01:14Z"
+    "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
     "id": "aws_29622099924b70a0d2f7",
@@ -7051,7 +6485,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0da692ab-2ee2-45e6-8303-26ff30949f91",
       "3f713029-a9a9-468e-9fb9-c2870182b08f"
     ],
     "lastCheckOk": true,
@@ -7090,11 +6523,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1fb229a7-2f29-430a-8bfb-8d344945ba46",
-      "f4121c74-9b1a-4051-8864-9db00eab2848"
+      "1fb229a7-2f29-430a-8bfb-8d344945ba46"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
+    "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
     "id": "aws_279afc9b8361db0f422d",
@@ -7110,8 +6542,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "30051636-01e2-4d04-97f0-baced7aaed0f",
-      "520bfe3e-2556-49f9-9846-e2c610978b60"
+      "30051636-01e2-4d04-97f0-baced7aaed0f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T05:24:33Z"
@@ -7161,18 +6592,17 @@
     "country": "TR",
     "url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
     "codec": "aac+",
-    "bitrate": 127,
+    "bitrate": 128,
     "protocol": "https",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "9bec7641-f013-42a2-8a12-e98c7fa2c059",
       "de24dd7d-b362-4153-aaaa-c35ecddf41ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_cd87bcda67748031a0c1",
@@ -7246,8 +6676,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "45c12674-0160-4fb7-a707-4a8b9ee6cb3d",
-      "TR:playdanceradio"
+      "TR:playdanceradio",
+      "d315094f-6af9-4e34-a274-920035f9b3b2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:51:47Z"
@@ -7308,25 +6738,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:13:57Z"
-  },
-  {
-    "id": "aws_19d402604d1ce1c3ea90",
-    "stationId": "awb_37becce355c42570027c",
-    "name": "POP 90 Turkiye",
-    "country": "TR",
-    "url": "http://23613.live.streamtheworld.com/POP90AAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0df8c795-6f20-4039-b484-8758fda040a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:24:45Z"
   },
   {
     "id": "aws_444b72b6cfedd3dc7699",
@@ -7458,11 +6869,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c7cca8f9-2e40-4f3e-9834-be8bc2bad704",
-      "dd307ed2-052d-4373-85c6-24f15f96d89c"
+      "c7cca8f9-2e40-4f3e-9834-be8bc2bad704"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
+    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_92ca9fb513920f567d43",
@@ -7598,25 +7008,6 @@
     "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
-    "id": "aws_d636daa24cdf877e96c1",
-    "stationId": "awb_0969d321b908a03f757d",
-    "name": "Power RB Hip Hop",
-    "country": "TR",
-    "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fb67362c-1a0e-45b2-8c53-dd84178f496a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
-  },
-  {
     "id": "aws_74f0f589508356e6c60f",
     "stationId": "awb_7d0f83d823e1b5a68efa",
     "name": "POWER TÜRK DANS TÜRKİYE",
@@ -7649,30 +7040,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3c6108ac-a12e-476b-8ce1-3f142485d6c9",
-      "43061315-2893-46fa-ae1e-96e767d5bce3"
+      "3c6108ac-a12e-476b-8ce1-3f142485d6c9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
-    "id": "aws_dbd3e4f2a383192069d2",
-    "stationId": "awb_133bc7c07f604a453674",
-    "name": "POWER TÜRK TAPTAZE",
-    "country": "TR",
-    "url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 278,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ebff522-556b-4c1c-8699-e9f6eddafdcd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:43:54Z"
   },
   {
     "id": "aws_51c2b67e01a0b4126240",
@@ -7751,25 +7122,6 @@
     "lastCheckedAt": "2026-11-06T10:55:06Z"
   },
   {
-    "id": "aws_b984c90ee23f50c98dab",
-    "stationId": "awb_fd6a73817cb2c2cb9e68",
-    "name": "POWERTÜRK FM TURKEY 2",
-    "country": "TR",
-    "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 150,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "54202ae3-a9b5-4eb0-8ebc-a0585a092256"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
-  },
-  {
     "id": "aws_11536e299f56ad22fcec",
     "stationId": "awb_7003a9466a4a694f0e0e",
     "name": "Powerturk R&B Hip Hop",
@@ -7795,18 +7147,17 @@
     "country": "TR",
     "url": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 278,
+    "bitrate": 277,
     "protocol": "https",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "41f64723-1277-49ac-aef1-7b91de781713",
       "72da925c-049c-4639-acbe-ee7a0042a83e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:43:20Z"
+    "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
     "id": "aws_ace6c2b260edfb9c1fdf",
@@ -7878,34 +7229,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "57d6c252-a148-4e96-9602-39f3d6f22eb1",
       "TR:radio-44"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:09:30Z"
-  },
-  {
-    "id": "aws_14c1eb05592bfbe60342",
-    "stationId": "awb_9c2d7271a35718b1a5d7",
-    "name": "Radio 44 Malatya",
-    "country": "TR",
-    "url": "https://radyo44.80.yayin.com.tr/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e3521638-7535-4327-865a-2c36e45f5f4c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_562cb612c04f6f72874a",
@@ -8125,25 +7455,6 @@
     "lastCheckedAt": "2026-11-06T19:01:36Z"
   },
   {
-    "id": "aws_f0d1a60c24e5a178cd1a",
-    "stationId": "awb_609df7a8c245f7ddfaa2",
-    "name": "radio megasite",
-    "country": "TR",
-    "url": "http://yayin.netradyom.com:7900/;",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c58f80e-f4fa-4233-b336-17164cf934b9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
     "id": "aws_6d023002e7c5e702656f",
     "stationId": "awb_609df7a8c245f7ddfaa2",
     "name": "Radio Megasite",
@@ -8220,25 +7531,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:23:54Z"
-  },
-  {
-    "id": "aws_4f4ad3be2d5396a4bc28",
-    "stationId": "awb_e66a68fb80780e24fc43",
-    "name": "Radioo Mega site",
-    "country": "TR",
-    "url": "http://mega.netradyom.com:7900/radio.mp3",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abb57aa7-1106-4f63-95ba-608bfcc3ae3d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_8b06d024374547e2bfa1",
@@ -8585,11 +7877,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "23fb9ea6-caa7-4fc0-9cf5-85531d1e0391",
-      "7e7f197f-6a5a-4d08-9b5b-52eee51bdae2"
+      "b6027daf-b96f-44a6-a337-cf5b265a8376"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:10:09Z"
+  },
+  {
+    "id": "aws_19b5d5b4d446976d23c0",
+    "stationId": "awb_d0b208cda0b89c8ebb11",
+    "name": "Radyo 44",
+    "country": "TR",
+    "url": "https://radyo.yayin.com.tr:3444/steram",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7def53e3-41df-43bb-99a4-afb314de391e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_8afda10f142e8f971d46",
@@ -8630,64 +7940,6 @@
     "lastCheckedAt": "2026-11-06T19:23:54Z"
   },
   {
-    "id": "aws_865cf0bb9d5254dbf041",
-    "stationId": "awb_900f8accabef69ab67c4",
-    "name": "Radyo 45’lik, 1970’ler, 1980’ler ve 1990’lar",
-    "country": "TR",
-    "url": "https://stream.radyo45lik.com:4545/",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27dc3e5e-8f61-47c8-9ce1-6d6e6b4d4a3a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:39:33Z"
-  },
-  {
-    "id": "aws_7181a26bb9a786ab44e3",
-    "stationId": "awb_fcad095f1ea3c0ea4eb7",
-    "name": "Radyo 45lik - 45'lik Radyo",
-    "country": "TR",
-    "url": "https://stream.radyo45lik.com:4545/",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02ad59d8-eeb6-41f0-b850-f453bc0401ae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
-  },
-  {
-    "id": "aws_3b7ce95239681abc51bd",
-    "stationId": "awb_2f138ccc2129e9159816",
-    "name": "Radyo 45lik Canlı Yayın - En İyi Türkçe Nostalji Şarkılar | 70ler 80ler ve 90lar",
-    "country": "TR",
-    "url": "https://stream.radyo45lik.com:4545/",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c3cf5a4e-6673-42d8-9fb6-e7635ec69f64",
-      "ddded9d3-ae94-4856-b3bc-885995256c88"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:49:44Z"
-  },
-  {
     "id": "aws_aa9f5d76d84c16403f16",
     "stationId": "awb_2e970649b7f74283e29b",
     "name": "Radyo 45lik yeni",
@@ -8702,8 +7954,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "585600d9-bdc4-4a2e-93c5-2421041cc55c",
-      "TR:radyo-45lik-yeni"
+      "TR:radyo-45lik-yeni",
+      "ae7b21fa-e664-4a31-ab98-1cc8c5b12064"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:11:47Z"
@@ -8844,25 +8096,6 @@
     "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
-    "id": "aws_d3d2b25813e3422763d2",
-    "stationId": "awb_b8b369181192071070e2",
-    "name": "Radyo 9",
-    "country": "TR",
-    "url": "https://radyo.yayin.com.tr:4010/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9cf8015c-8b88-476c-a2b8-093e52d75012"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
-  },
-  {
     "id": "aws_1f7a2c3beddd13f416fd",
     "stationId": "awb_c25956efb6bd7e09a210",
     "name": "RADYO 90",
@@ -8993,7 +8226,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3dfe8d72-9ba4-47f2-9f57-a16cd5b273df",
+      "43b00f9a-efb4-42b2-adbd-aaa4fa2c9c6d",
       "TR:radyo-alaturka"
     ],
     "lastCheckOk": true,
@@ -9342,25 +8575,6 @@
     "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
-    "id": "aws_c17494bb71619d34c794",
-    "stationId": "awb_71a3c5ef218ccab2d8fe",
-    "name": "Radyo D",
-    "country": "TR",
-    "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bcf1eca1-d197-451b-bdd0-dde1e4bcaae1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:52:18Z"
-  },
-  {
     "id": "aws_39167b2ac6ff1b1ba27c",
     "stationId": "awb_fd9aadde81b65e4b951a",
     "name": "RADYO D",
@@ -9703,11 +8917,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "123cba9a-ec7c-41d9-bd13-a678451dd1ac",
-      "ae32a05c-176d-4510-8ced-9a335cd13b03"
+      "123cba9a-ec7c-41d9-bd13-a678451dd1ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
+    "lastCheckedAt": "2026-11-06T14:01:41Z"
   },
   {
     "id": "aws_db09815f0fd04f89b605",
@@ -10258,25 +9471,6 @@
     "lastCheckedAt": "2026-11-06T16:33:08Z"
   },
   {
-    "id": "aws_512d30ad4cdcf240e164",
-    "stationId": "awb_d5b4dc80e0b2b956c52b",
-    "name": "Radyo Kaptan",
-    "country": "TR",
-    "url": "https://live.sinirsizhost.com.tr/8008/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "72be11e4-e127-448e-85f7-62b7a74dfbef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
-  },
-  {
     "id": "aws_3fdf9c59fda9947d737a",
     "stationId": "awb_25b0ae62a9baaaf48abf",
     "name": "Radyo Karadeniz",
@@ -10602,8 +9796,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1c5e50a7-ae07-4aae-b9d8-e167c2c2f5ec",
-      "a56b8f78-0ca0-4363-a326-97735b67482e"
+      "beb27462-45e9-48a5-82be-591c74347a12"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:33:08Z"
@@ -11327,11 +10520,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2484f562-2a83-4c6d-9f91-038644ceb11e",
-      "TR:radyo-trio"
+      "TR:radyo-trio",
+      "bbb718cc-1776-444e-9f78-e88540ca91b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
+    "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
     "id": "aws_656ac77c77deb3ae5c3f",
@@ -11486,7 +10679,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "097bda49-2be1-4306-a657-ce5bd922bd40",
       "9ba83d03-ea3e-4726-8a48-85408d58c44d"
     ],
     "lastCheckOk": true,
@@ -11731,19 +10923,17 @@
     "country": "TR",
     "url": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
     "codec": "mp3",
-    "bitrate": 320,
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:radyoaura",
-      "e68a6aea-3431-4f41-804f-dc7b0f9f0e8f"
+      "TR:radyoaura"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:49:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d56eaf7b0e7cc15d1413",
@@ -12096,26 +11286,6 @@
     "lastCheckedAt": "2026-11-06T19:21:07Z"
   },
   {
-    "id": "aws_5e437751778651ba4904",
-    "stationId": "awb_3f3dc623ad250607dfc3",
-    "name": "S1LHOUTTE ANKARA HAVALARI",
-    "country": "TR",
-    "url": "http://37.247.98.8/stream/30/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b09c0736-3656-4675-b83b-9c6d6c1f9aa7",
-      "f9655ac2-b82c-49f4-b6d3-617bf41c26c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:08:34Z"
-  },
-  {
     "id": "aws_e66b75d7c383a75fa0bc",
     "stationId": "awb_d5a275208eca140bde0e",
     "name": "S1lhoutte Arabesk FM",
@@ -12135,6 +11305,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:45:24Z"
+  },
+  {
+    "id": "aws_74d71b5d2afb29b02a23",
+    "stationId": "awb_3d7e761e7f2c06f240c0",
+    "name": "SadaQuran",
+    "country": "TR",
+    "url": "http://icy.aweradio.app/sadaquran/music",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "81dd7d70-e9a9-486c-856e-a44f8eaeef95"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_8442542040c56f68b665",
@@ -12232,25 +11421,6 @@
     "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
-    "id": "aws_8d15555bbab205901a08",
-    "stationId": "awb_e45324fba2f06dcbe989",
-    "name": "Serhat FM 91.5",
-    "country": "TR",
-    "url": "http://yayin.serhatfm.com:9150/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ddf94722-dd93-4fb5-ac19-ad42649a30e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:08:42Z"
-  },
-  {
     "id": "aws_7b37f41b36bfaf1d614d",
     "stationId": "awb_575e9c193ee15cffe25c",
     "name": "SES FM",
@@ -12302,11 +11472,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "06e0a4f2-107d-41ae-ad24-f57f4005c3ea",
-      "32005c9f-9f73-4dc7-82cd-14b4b0b866ee"
+      "06e0a4f2-107d-41ae-ad24-f57f4005c3ea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
+    "lastCheckedAt": "2026-11-06T20:41:28Z"
   },
   {
     "id": "aws_4977578ff9531796b0b8",
@@ -12343,8 +11512,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5c1055ea-bdbd-4a67-96d4-c6f52886b158",
-      "c230aa86-0eea-45df-a243-ae25ba23898c"
+      "5c1055ea-bdbd-4a67-96d4-c6f52886b158"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:25:53Z"
@@ -12401,7 +11569,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "37ba98b1-f055-4363-893a-b0efe305f6a4",
       "83ff951e-113e-4a50-9be7-3a730f472e05"
     ],
     "lastCheckOk": true,
@@ -12418,15 +11585,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:sizir-fm",
-      "b671cc05-ffac-4f72-b2e3-99d46c4c2781"
+      "TR:sizir-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:47:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_526711e799e462d0edec",
@@ -12462,11 +11627,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0d42ef06-c0a4-46f0-a4dd-d5455594c610",
+      "19af1cc7-2094-401c-9aa5-47402cb5fe39",
       "TR:slow-turk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
+    "lastCheckedAt": "2026-11-06T11:06:37Z"
   },
   {
     "id": "aws_7c1c2d5839fce24f9589",
@@ -12580,11 +11745,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "706def0c-7017-4601-8305-db1cdb2e9420",
-      "TR:super-fm"
+      "TR:super-fm",
+      "a413a04d-46b8-4a67-9690-a042fb95fb3d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:00:42Z"
+    "lastCheckedAt": "2026-11-06T14:01:41Z"
   },
   {
     "id": "aws_0d4855262d33c1ee743c",
@@ -12882,25 +12047,6 @@
     "lastCheckedAt": "2026-11-05T23:49:56Z"
   },
   {
-    "id": "aws_5a21fcd5c71cd05932ec",
-    "stationId": "awb_a9d0417c9278580d87f9",
-    "name": "trio",
-    "country": "TR",
-    "url": "https://radyotrio.radyotvonline.net/radyotrio",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c800a509-eaa3-419a-a49c-b59261a8ba68"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:07:44Z"
-  },
-  {
     "id": "aws_dc4ab2cf5c2d5ea370ff",
     "stationId": "awb_1fc6e28bd6cd266715b4",
     "name": "TRT Antalya",
@@ -13010,7 +12156,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0a2c3506-a136-40f2-b008-38daf2b12fd6",
+      "854b217a-2d13-466e-bbee-dcd24304c274",
       "TR:trt-fm"
     ],
     "lastCheckOk": true,
@@ -13111,7 +12257,7 @@
       "TR:trt-radyo-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
+    "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
     "id": "aws_00480c50b4bb384e9ae4",
@@ -13157,20 +12303,18 @@
     "name": "TRT Radyo Haber",
     "country": "TR",
     "url": "https://trt.radyotvonline.net/trthaber",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 132,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9ed85a92-9fb4-4ae8-baca-59347adc782c",
       "TR:trt-radyo-haber"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0a77c685aaecfd320cf8",
@@ -13434,15 +12578,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TR:turku-radyo",
-      "ead1ae8e-10ae-4f90-9b83-d6ab9b40830f"
+      "TR:turku-radyo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c4e536db6333d8a84f25",
@@ -13786,11 +12928,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "cc691852-21a7-4f96-bfed-6b208eb73f34",
-      "d40a095c-63dd-4c25-ab89-8bc33505786c"
+      "cc691852-21a7-4f96-bfed-6b208eb73f34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_c2eff10549c94ae845cf",
@@ -13829,25 +12970,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:42:13Z"
-  },
-  {
-    "id": "aws_4dde964ab8df14e2c5c6",
-    "stationId": "awb_c1ba2ec29498e66e56bd",
-    "name": "Vokal Tr",
-    "country": "TR",
-    "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff876840-a4d3-49a6-ab6e-b879a22bd88c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_8a84c23727c97ea025a8",
@@ -13925,26 +13047,7 @@
       "TR:x-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:23:55Z"
-  },
-  {
-    "id": "aws_18e82bb89ea1e0940a41",
-    "stationId": "awb_c8960d2cc63f77d0f437",
-    "name": "X RADYO",
-    "country": "TR",
-    "url": "https://stream.xradio.com.tr:8770/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "303013c9-2b10-4d0c-b184-407de1a1ac1f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_8b9f82204879cde5d319",

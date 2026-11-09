@@ -19,63 +19,6 @@
     "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
-    "id": "aws_9157d568dee1f1275a15",
-    "stationId": "awb_2321e09e8dad5ab2ee26",
-    "name": ".القرآن الكريم",
-    "country": "AE",
-    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d3dd7bf-4b22-48b4-b8ad-16faf7dd59f7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
-    "id": "aws_fb7b977d4338c3db6924",
-    "stationId": "awb_4484cdb5a10f0bb67004",
-    "name": "1-Exclusively Thin Lizzy",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/thinlizzy/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e67d9d39-65b5-48de-83c1-3b414aa6406c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
-    "id": "aws_8cfbff74e4f60c574b07",
-    "stationId": "awb_aa7bbd459b33aa1ab3f5",
-    "name": "Abdulwali Al-Arkani",
-    "country": "AE",
-    "url": "https://serverkw.quran-uni.com:8238/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "377389fd-d7e8-4740-8c3a-d46b9211ccde"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
-  },
-  {
     "id": "aws_9a522cc552e64fd0235b",
     "stationId": "awb_cb870fd97f337f393d41",
     "name": "Abdulwali Al-Arkani",
@@ -89,11 +32,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b7abc56-4b50-49a4-9321-0da57256b4e9",
       "ae5ae7aa-b82e-4b87-8970-f19200e0a5e9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_4199d034f3efc76595a3",
@@ -113,44 +55,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:37:23Z"
-  },
-  {
-    "id": "aws_8c45098b58cf4c10a3e9",
-    "stationId": "awb_731d21a7c69b0d10fbf9",
-    "name": "AC DC",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c0249c17-7228-42ee-a71d-1b6a6a4b0825"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
-  },
-  {
-    "id": "aws_1dd0ac3cdf4b2b45abb6",
-    "stationId": "awb_26c711b396eefc7662f9",
-    "name": "Adrian Boult - Classical Radio",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c7097c93-e025-4fe1-a311-c03a15d8f49a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:40Z"
   },
   {
     "id": "aws_ca8cf17110be8ceb1511",
@@ -191,25 +95,6 @@
     "lastCheckedAt": "2026-11-06T14:15:33Z"
   },
   {
-    "id": "aws_2cc521fa092b8a76f894",
-    "stationId": "awb_a63fe2a0752ee34c160f",
-    "name": "Andrea Bocelli - Classical Radio",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/crandreabocelli/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d945dcb6-98e0-4bad-9cbe-d99348af3685"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:13:31Z"
-  },
-  {
     "id": "aws_7571f1c84c2aa4bfdbc9",
     "stationId": "awb_3657a6bd702c28cabf99",
     "name": "Andrea Bocelli - Classical Radio",
@@ -220,34 +105,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AE:andrea-bocelli-classical-radio",
-      "b034e6c9-99f7-48b4-97d2-91f1b6c3e92d"
+      "AE:andrea-bocelli-classical-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
-  },
-  {
-    "id": "aws_1fe16c96bbdb5a55e756",
-    "stationId": "awb_749036880ea01c7f091e",
-    "name": "Aretha Franklin",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "68ebb0ea-02b2-456f-b530-26d5548fee47"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:07:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_16cccf9d30b1eec86706",
@@ -288,44 +152,6 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
-    "id": "aws_c97068f2028a818d6d99",
-    "stationId": "awb_9989a3b10c810c2ad75b",
-    "name": "Bavarian Radio Symphony Orchestra",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d0c78e57-f6f2-4973-978a-27aec797163f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:32:34Z"
-  },
-  {
-    "id": "aws_b85a8a886f0cfd175576",
-    "stationId": "awb_ba26740e61af7bcaba80",
-    "name": "Beethoven - Classical Radio",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/crbeethoven/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3cef4f77-06c4-4018-a4af-3d9f34d9f2b6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
-  },
-  {
     "id": "aws_0ca69439d97a0654da63",
     "stationId": "awb_d2121cfc09ecf741a22c",
     "name": "Berlin Philharmonic Orchestra - Classical Radio",
@@ -336,15 +162,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "450076e8-cd0c-4f7f-98b1-578cf8540d4d",
       "AE:berlin-philharmonic-orchestra-classical-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:29:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_fb21d28a9897f5b75019",
@@ -383,44 +207,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:50:59Z"
-  },
-  {
-    "id": "aws_7c0f49412d82885da362",
-    "stationId": "awb_1e43d39525ae1b0b2220",
-    "name": "Bob Dylan",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1627dc8-8fb4-40a0-ba35-6e0cfa7d192e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
-  },
-  {
-    "id": "aws_2cb4bafa723fe9165b7e",
-    "stationId": "awb_fa4c5a98a1247cf561cc",
-    "name": "Boomerang 20's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c70f30d-33ce-4710-8cfe-4a8b494c4e69"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_8696015fef2e72464d64",
@@ -480,25 +266,6 @@
     "lastCheckedAt": "2026-11-06T22:37:30Z"
   },
   {
-    "id": "aws_46cefbd41e90b2aac0b0",
-    "stationId": "awb_6b02b7c799a4159325c8",
-    "name": "Boomerang 30's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1930s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6e1a7ef-e629-4527-9317-789c81f798e6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:30:27Z"
-  },
-  {
     "id": "aws_0c5595bbe7f70a161adb",
     "stationId": "awb_8fd969bdf2139653ce97",
     "name": "Boomerang 40's",
@@ -516,44 +283,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:32:04Z"
-  },
-  {
-    "id": "aws_f721939edb105fdebfb7",
-    "stationId": "awb_fef6d19a6cb2506e6b3a",
-    "name": "Boomerang 50's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1950s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ca443e4c-59e9-44c6-a010-309d3b07d2f6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:42:45Z"
-  },
-  {
-    "id": "aws_d372feb67aa6a9caf986",
-    "stationId": "awb_1e0df7b01c573819f475",
-    "name": "Boomerang 60's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1960s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "470dcf79-a909-4797-be51-f93ac15fd1ab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:29:46Z"
   },
   {
     "id": "aws_44f55506fc4c8bb49e2f",
@@ -594,25 +323,6 @@
     "lastCheckedAt": "2026-11-06T17:24:03Z"
   },
   {
-    "id": "aws_2736cf8c25c0937d6ac6",
-    "stationId": "awb_aabcf2b4599455abb5de",
-    "name": "Boomerang 90s",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8196ad2b-3ff3-43c7-8552-3cf660f4311a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
     "id": "aws_b0ee8863fa177d22296f",
     "stationId": "awb_c9d24f2c363f40a9dba2",
     "name": "Bryn Terfel - Classical Radio",
@@ -626,8 +336,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a76cbd1e-55cd-47e5-9e76-389b9765ff99",
-      "d5e7a9f6-d5cd-4be6-814e-55b66f9be7c6"
+      "a76cbd1e-55cd-47e5-9e76-389b9765ff99"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:59:46Z"
@@ -1032,25 +741,6 @@
     "lastCheckedAt": "2026-11-07T01:21:41Z"
   },
   {
-    "id": "aws_dcd14b8576ba448590ed",
-    "stationId": "awb_aa55dac5b8348df9dd4f",
-    "name": "C.R. - Essential Classics",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/cressentialclassics/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8616d03-52d4-4e63-8d78-d509427023a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
-  },
-  {
     "id": "aws_180eac57e96647ebe108",
     "stationId": "awb_6ae1c0750c1f89e434a1",
     "name": "C.R. - Handel",
@@ -1102,7 +792,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2961b178-3a8c-4583-8a53-cd5edc42935e",
       "61d44e59-94e0-4c83-af92-eab047a20909"
     ],
     "lastCheckOk": true,
@@ -1274,8 +963,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8bd88b48-c0f9-41a8-a9aa-f766648dd5b0",
-      "cdb946e7-0cc2-4755-9d9d-92d79d1c01c2"
+      "8bd88b48-c0f9-41a8-a9aa-f766648dd5b0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:43:21Z"
@@ -1642,25 +1330,6 @@
     "lastCheckedAt": "2026-11-06T04:09:40Z"
   },
   {
-    "id": "aws_8ac4efdf3e52a046cca7",
-    "stationId": "awb_a5186097f4f3ec50f537",
-    "name": "C.R. - Sir Adrian Boult",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b9bca35e-b1de-4d5d-8fa1-f51b0a645773"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
-  },
-  {
     "id": "aws_4ead6d0d3393cd72fad0",
     "stationId": "awb_4dac288479ff36fe9810",
     "name": "C.R. - Strauss",
@@ -1794,25 +1463,6 @@
     "lastCheckedAt": "2026-11-06T22:15:31Z"
   },
   {
-    "id": "aws_cf14fbca18a14e813ada",
-    "stationId": "awb_e23c457ff7e25db436f7",
-    "name": "C.R. - Vladimir Horovitz",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ca201cd4-fb0a-4cb5-9b52-b28a0cd84a0e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
     "id": "aws_be9687f5f3959caa62f3",
     "stationId": "awb_53457ab5568b2c65a010",
     "name": "C.R. - Wagner",
@@ -1887,25 +1537,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:54:08Z"
-  },
-  {
-    "id": "aws_b5907c2a592e28ed7c91",
-    "stationId": "awb_f0382c5ef9a692d8c332",
-    "name": "Carpenters",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/carpenters/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "21c08eec-61db-4b0d-93bd-66b2eb35ca0d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:32:41Z"
   },
   {
     "id": "aws_16005c925efcd9a143d6",
@@ -2024,25 +1655,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
-    "id": "aws_a6bec9248178a41c8405",
-    "stationId": "awb_0f34759768dcf6c8e1e5",
-    "name": "Classical Radio - Andres Segovia",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crandressegovia/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f6cc23eb-9900-445e-8f62-28e1337c5ed0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
   },
   {
     "id": "aws_d7ebcfb68ae40b85de28",
@@ -2251,25 +1863,6 @@
     "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
-    "id": "aws_b94cab3ef385d94f8be8",
-    "stationId": "awb_5c33fb4ba0a8c058bfc7",
-    "name": "Classical Radio - Joan Sutherland",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crjoansutherland/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9933fbb1-5cbb-40d5-93fc-a85329624b04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
-  },
-  {
     "id": "aws_d23e29915feb42aad74f",
     "stationId": "awb_abc923b6de1985e551e3",
     "name": "Classical Radio - John Williams",
@@ -2310,25 +1903,6 @@
     "lastCheckedAt": "2026-11-06T22:12:27Z"
   },
   {
-    "id": "aws_2dd5fa95c23104c8b402",
-    "stationId": "awb_10a1b8e4b270c3a229e2",
-    "name": "Classical Radio - Katherine Jenkins",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "702a7a51-f7c2-460e-abbe-bffb3fb56964"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
     "id": "aws_3169703bb9db6c6c3d61",
     "stationId": "awb_1b154ff42f102dd58270",
     "name": "Classical Radio - Lang Lang",
@@ -2367,25 +1941,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:12:44Z"
-  },
-  {
-    "id": "aws_8fdd0ed29dd8e856cd80",
-    "stationId": "awb_fa92dbe0b4d0a69ccf3f",
-    "name": "Classical Radio - Liszt",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eadf344e-dd18-40e8-81a7-89001a7e3fd3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
   },
   {
     "id": "aws_db1c866b13e03617f948",
@@ -2459,15 +2014,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1dc6efa7-139b-4314-a990-dc954f55ed67",
       "AE:classical-radio-mozart"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9f5e30bf9b8adb91794b",
@@ -2622,30 +2175,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "38b92682-5a94-40a7-bcde-b1ec600d53d9",
       "d725bf04-4d00-4282-9479-16ec3a7bf982"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
-  },
-  {
-    "id": "aws_9ea061d1750c4eed0775",
-    "stationId": "awb_5091d2ec6f12dbaf9ddb",
-    "name": "Classical Radio - Sir Simon Rattle",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crsimonrattle/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "20c69083-95e5-4b21-9b46-a0f8732c364c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:48:28Z"
+    "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
     "id": "aws_d8bb9245569a97221ef9",
@@ -2987,27 +2520,6 @@
     "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
-    "id": "aws_40beb7cd5801b8d3c5f7",
-    "stationId": "awb_c5ebabd494b92719d9dd",
-    "name": "Easy 60s",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "AE:easy-60s",
-      "c3825fb4-dd0e-4577-a90e-6e7cb37b0b6b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:28:35Z"
-  },
-  {
     "id": "aws_87a461cd3495394f278a",
     "stationId": "awb_a4497a0f600cacccbf91",
     "name": "Easy 60s",
@@ -3025,6 +2537,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:35:25Z"
+  },
+  {
+    "id": "aws_40beb7cd5801b8d3c5f7",
+    "stationId": "awb_c5ebabd494b92719d9dd",
+    "name": "Easy 60s",
+    "country": "AE",
+    "url": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "AE:easy-60s"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_449f464650882f16b45f",
@@ -3807,15 +3338,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3eef853f-b1b8-4ceb-9dab-039de121801d",
       "AE:exclusive-radio-queen"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:04Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e4db7e266c7c66685039",
@@ -4173,11 +3702,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a6d36ea8-88e7-4676-b29e-bd158d9cea52",
-      "c4f4f009-51a6-41bd-95b2-4508b437de87"
+      "a6d36ea8-88e7-4676-b29e-bd158d9cea52"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:51:27Z"
+    "lastCheckedAt": "2026-11-05T00:43:24Z"
   },
   {
     "id": "aws_a20acb654c50fbe3515e",
@@ -4273,25 +3801,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:01:41Z"
-  },
-  {
-    "id": "aws_399585f1ab84973bc2ba",
-    "stationId": "awb_168767214e9269445763",
-    "name": "Exclusively - Keane",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/keane/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2235b588-402c-4f6c-b5f9-4d0cccbbae9b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
   },
   {
     "id": "aws_f0e326c4579d6bfb5c7e",
@@ -4782,30 +4291,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4fd38d29-cd7c-4048-a521-2dbe3701b0cf",
-      "d829de80-9870-4a4a-8930-e99f536379ac"
+      "db7a27ee-c188-4396-bb8e-593c864f9cdf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
-    "id": "aws_b47545564599700c568a",
-    "stationId": "awb_ec3d3cc1ae2eed673dee",
-    "name": "Exclusively - U2 Hits",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/u2hits/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e9b89e4f-c012-42f5-902e-137f64672eca"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_1206f53a6b823b24ec94",
@@ -4907,25 +4396,6 @@
     "lastCheckedAt": "2026-11-06T17:00:38Z"
   },
   {
-    "id": "aws_60a63ad5d2421cdc497b",
-    "stationId": "awb_d08ff4aed238a772352a",
-    "name": "Exclusively A-Ha",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/aha/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42589f37-786b-43d5-9ad5-f7b95d721cfd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:35:50Z"
-  },
-  {
     "id": "aws_575bf41371cdcba19673",
     "stationId": "awb_1c6d36065b91f556af48",
     "name": "Exclusively ABBA",
@@ -5004,25 +4474,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:43:20Z"
-  },
-  {
-    "id": "aws_826c3cd1f1f586ef7fff",
-    "stationId": "awb_cf668eb2c8ee51808bb3",
-    "name": "Exclusively Acdc Hits",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/acdchits/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "543f648e-2322-49be-93f2-b5e6b942892f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
   },
   {
     "id": "aws_498d21be7b8f6ebe9489",
@@ -5284,25 +4735,6 @@
     "lastCheckedAt": "2026-11-06T02:22:51Z"
   },
   {
-    "id": "aws_e4de5e6401496d8c8ca7",
-    "stationId": "awb_eb395e5eb20926610d95",
-    "name": "Exclusively Amy Wibehouse",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c43baffa-82c4-442c-bc49-cb9a6519db92"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:30:03Z"
-  },
-  {
     "id": "aws_2aeb9c3ffa07960d14ec",
     "stationId": "awb_80615aea6644e77b164b",
     "name": "Exclusively Amy Winehouse",
@@ -5322,25 +4754,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:15:15Z"
-  },
-  {
-    "id": "aws_f5c852a2c41144e25892",
-    "stationId": "awb_9c92a038f33b4646ac94",
-    "name": "Exclusively Amy Winehouse (Only Hits)",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/amywinehousehits/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a0b16d2-e6da-4235-b7b0-175ec43eae18"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
   },
   {
     "id": "aws_ee05f6b5749072e7beae",
@@ -5442,25 +4855,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:30:27Z"
-  },
-  {
-    "id": "aws_1c185510718de97b5f84",
-    "stationId": "awb_e8aa5ee5d90b4eb83f8c",
-    "name": "Exclusively Barbra Streisand",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/streisand/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "15a5bef1-a3fd-45a1-b4cd-1874a38357c5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:22:51Z"
   },
   {
     "id": "aws_e00f2f85df35ff84ec33",
@@ -5712,26 +5106,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
-    "id": "aws_db2f29c6cb4112ce0141",
-    "stationId": "awb_2fb7c10bcdaa8765f379",
-    "name": "Exclusively bollywood",
-    "country": "AE",
-    "url": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d92213bb-6650-48f0-bae1-3322292b6e1a",
-      "da7e3f51-5afb-4915-a3c8-20fbd4b57b48"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
   },
   {
     "id": "aws_28d43efa1a2085dca679",
@@ -6004,7 +5378,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "127e77a8-c2bf-4513-b564-77e31fbb3dfc",
       "6e167ffc-16a6-4fc0-b69f-7deedc6e7aa6"
     ],
     "lastCheckOk": true,
@@ -6088,7 +5461,7 @@
       "9f7571a6-c201-4ae6-9e58-029da2d170bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_d2601d1a2c43786f5c0d",
@@ -6248,7 +5621,7 @@
       "a3f97919-2519-4e58-b0b4-386d1402e367"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
+    "lastCheckedAt": "2026-11-05T18:01:48Z"
   },
   {
     "id": "aws_2453c9e44139e64b53c0",
@@ -6265,11 +5638,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1f070161-feec-468e-86ab-937c022372b7",
-      "AE:exclusively-david-bowie"
+      "AE:exclusively-david-bowie",
+      "f34a9d65-2fa5-499e-a9c8-f9da34c56145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
+    "lastCheckedAt": "2026-11-05T00:25:13Z"
   },
   {
     "id": "aws_6a1348f0b590e6eb905a",
@@ -6289,25 +5662,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:50:55Z"
-  },
-  {
-    "id": "aws_b4096fbdfcee974b5394",
-    "stationId": "awb_d4a4dd85d3cd7a913c78",
-    "name": "Exclusively Dean Martin",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/deanmartin/icecast.audio?_=1407020069",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "072f4f2b-00b5-4237-a48c-bd50092d6463"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:56Z"
   },
   {
     "id": "aws_c4d9dcbc3ed82fc12175",
@@ -6366,11 +5720,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6cdf359d-0522-4cda-835e-afd42b67bdda",
-      "AE:exclusively-depeche-mode"
+      "AE:exclusively-depeche-mode",
+      "a233d9b0-e7a9-4a46-a713-a31a5b3a3cf6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:06:38Z"
+    "lastCheckedAt": "2026-11-05T11:02:09Z"
   },
   {
     "id": "aws_8226033c2ee0e681f082",
@@ -6537,15 +5891,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3f877a2c-8d74-4e32-b8fb-84a6dedb6987",
       "AE:exclusively-eagles"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2ce9f1477423bba0f294",
@@ -6683,25 +6035,6 @@
     "lastCheckedAt": "2026-11-07T02:23:48Z"
   },
   {
-    "id": "aws_680ed8767b0abb68796b",
-    "stationId": "awb_eafb13136d7be2344edc",
-    "name": "Exclusively Elvis Presley",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/elvispresley/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "771a080d-5345-4c18-a6d5-38d16f346c3c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
-  },
-  {
     "id": "aws_4016bb29380c00916a85",
     "stationId": "awb_798b5d402ca85e2cba43",
     "name": "Exclusively Emerson, Lake & Palmer",
@@ -6771,15 +6104,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1719542e-3c7e-46f0-b20f-5189aec7edee",
       "AE:exclusively-eric-clapton"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:53:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6437199642b0b8468641",
@@ -6798,7 +6129,7 @@
       "a63f7f42-c077-4e69-a6e0-a73d25ce4698"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_3b59778dd0773ba6da39",
@@ -6996,7 +6327,7 @@
       "AE:exclusively-genesis"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:15:42Z"
+    "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
     "id": "aws_45e747f6d3060aedf62f",
@@ -7273,25 +6604,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:30:22Z"
-  },
-  {
-    "id": "aws_cfb0b36e250237cd9f66",
-    "stationId": "awb_6f46f60f4d1c8a10b77d",
-    "name": "Exclusively Italy",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "34d84a61-614e-49cf-b78a-851c7f4da583"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:29:18Z"
   },
   {
     "id": "aws_268e37f86244a75fc225",
@@ -7822,15 +7134,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AE:exclusively-led-zeppelin",
-      "d8fc41a4-e013-4877-856c-77dc04f179a1"
+      "AE:exclusively-led-zeppelin"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3baeb39d8cfc956db6f0",
@@ -8021,7 +7331,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a922e9a9-cba7-4da8-9b8c-29f0deff049d",
       "fad0240c-67fa-4d87-bf11-44ceed779c2d"
     ],
     "lastCheckOk": true,
@@ -8038,15 +7347,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AE:exclusively-michael-jackson",
-      "c740d6d9-6482-4931-81a8-03ec1a631ede"
+      "AE:exclusively-michael-jackson"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:38:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_68236ed68221faffa686",
@@ -8078,15 +7385,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AE:exclusively-moby",
-      "f9f1e392-ef72-458d-9c7f-799505228cd1"
+      "AE:exclusively-moby"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:37:13Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a45bf774a8853ea14c43",
@@ -8415,11 +7720,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "17f9a1ef-3f6e-4f7a-8071-2c583fae09e1",
+      "7e595aa8-9cf7-460b-ad7d-22d06613fc6c",
       "AE:exclusively-pink-floyd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:57:38Z"
+    "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
     "id": "aws_a2e800a0c826459582b4",
@@ -8576,25 +7881,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:03:43Z"
-  },
-  {
-    "id": "aws_a4d48b6c179feda31cee",
-    "stationId": "awb_06a65519f7737385f5ff",
-    "name": "Exclusively Radio-Italy",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0dd41b4e-b26f-450f-bf9e-960952aa4f9c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:05:51Z"
   },
   {
     "id": "aws_91bf08fdb9004d36930c",
@@ -8785,8 +8071,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "354329ba-1fd4-45fc-b571-d41deb6496f4",
-      "b83fa647-a078-49cb-9178-037a94a8200c"
+      "354329ba-1fd4-45fc-b571-d41deb6496f4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:41:06Z"
@@ -9049,25 +8334,6 @@
     "lastCheckedAt": "2026-11-07T01:38:26Z"
   },
   {
-    "id": "aws_ed29ddd380c9bd1753c3",
-    "stationId": "awb_ecdf1bb7283ae84cbc93",
-    "name": "Exclusively Stevie Wonder",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "83064424-0a9d-4229-a8e0-32cac7b03320"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:59:54Z"
-  },
-  {
     "id": "aws_0bdafecac9cf5c1b8c82",
     "stationId": "awb_1860617fa3ef19c69934",
     "name": "Exclusively Sting",
@@ -9199,8 +8465,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a7857a44-d494-4391-9417-d57ade95a846",
-      "b2b680b5-d980-485e-96d1-037f5a8f29c0"
+      "a7857a44-d494-4391-9417-d57ade95a846"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:23:55Z"
@@ -9216,15 +8481,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "29f29d98-c1f9-4d75-b96d-02d15a151fcf",
       "AE:exclusively-taylor-swift"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:28:02Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_86ffeed84a5a9c113a7b",
@@ -9294,15 +8557,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AE:exclusively-the-allman-brothers-band",
-      "be1909cb-57e7-4dcf-a7ed-0714335a67ff"
+      "AE:exclusively-the-allman-brothers-band"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6317d318f700788d411a",
@@ -9402,27 +8663,6 @@
     "lastCheckedAt": "2026-11-06T13:38:40Z"
   },
   {
-    "id": "aws_69746974e3def8e88250",
-    "stationId": "awb_6162c04cb393e2581143",
-    "name": "Exclusively The Cure",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "3c7742d4-c004-4fc6-beb7-1f211ec69099",
-      "AE:exclusively-the-cure"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:07:20Z"
-  },
-  {
     "id": "aws_1729127fcca96e2ad206",
     "stationId": "awb_22ac13c97119d7f13c67",
     "name": "Exclusively The Cure",
@@ -9440,6 +8680,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:31:49Z"
+  },
+  {
+    "id": "aws_69746974e3def8e88250",
+    "stationId": "awb_6162c04cb393e2581143",
+    "name": "Exclusively The Cure",
+    "country": "AE",
+    "url": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "AE:exclusively-the-cure"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_41c5a9d17ffcb17205d5",
@@ -9612,15 +8871,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "41b70c63-05bc-42a4-970c-20ceb0a07206",
       "AE:exclusively-the-who-only-hits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:39:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ef2c865c1dbd069abd33",
@@ -9633,15 +8890,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6386e2e0-9a2d-4818-9aed-92b542787274",
       "AE:exclusively-thin-lizzy"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_051929a1e7aa35979f8b",
@@ -9793,15 +9048,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2fa85b55-6124-4a5c-ac76-02bc5452624c",
       "AE:exclusively-u2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_86daaec2fe7cca097d99",
@@ -9842,25 +9095,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:43:51Z"
-  },
-  {
-    "id": "aws_0077333dc2e74e186def",
-    "stationId": "awb_3f7841720a49e3eeab78",
-    "name": "Exclusively Whitney Houston",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ef2dac34-be6c-4f6f-9408-88947e0219cb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:07:19Z"
   },
   {
     "id": "aws_b512aa0d913e4736b274",
@@ -9954,11 +9188,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "116345d6-53cd-43b2-9786-7ed7cfab553e",
       "1fa4d92d-9d07-42bb-b121-e82fd7092800"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:38:04Z"
+    "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
     "id": "aws_da94df0f1cd17c5ad4c2",
@@ -10094,25 +9327,6 @@
     "lastCheckedAt": "2026-11-06T04:38:27Z"
   },
   {
-    "id": "aws_d36c444c2c95763f7bfa",
-    "stationId": "awb_8507d75d841ec700865c",
-    "name": "Greatest Hits 1940's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1940s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96c6e58f-2643-4487-8aca-4a3a794eb91e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
-  },
-  {
     "id": "aws_ed8c8fba450b1ad19f40",
     "stationId": "awb_723d8a47a9fe082e1353",
     "name": "Greatest Hits 1950's",
@@ -10151,63 +9365,6 @@
     "lastCheckedAt": "2026-11-07T00:06:29Z"
   },
   {
-    "id": "aws_4899b661959d313cf24f",
-    "stationId": "awb_b744b7ebbd6a7b0526b8",
-    "name": "Greatest Hits 1970's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1970s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "afbdf89c-f7ff-4048-957b-23758ff0a9a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:32:27Z"
-  },
-  {
-    "id": "aws_88270cc7bb434c3349df",
-    "stationId": "awb_d3733d331da7476e1c6a",
-    "name": "Greatest Hits 1980's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1980s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b4035249-5762-4877-ba01-8baec321aea9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:37:58Z"
-  },
-  {
-    "id": "aws_5baedd351563ce297005",
-    "stationId": "awb_73c642ba5f2c1639fba6",
-    "name": "Greatest Hits 1990's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab122841-c46a-4623-a2dd-ded3aa8452f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:17:31Z"
-  },
-  {
     "id": "aws_5efb497baca66cd92934",
     "stationId": "awb_dcec13fe5b7e22b4a32b",
     "name": "Greatest Hits 2000's",
@@ -10218,53 +9375,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "47208b12-b955-4673-8046-9c904322ea38",
       "AE:greatest-hits-2000-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
-  },
-  {
-    "id": "aws_aeb8fee3caba5f157a30",
-    "stationId": "awb_e7400fb96942ad0b8c87",
-    "name": "Greatest Hits 2010's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang2010s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "797db6fc-248b-4ebc-835c-5f4a8e2f6f7c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:53:27Z"
-  },
-  {
-    "id": "aws_a9300b78afa7369616c8",
-    "stationId": "awb_ad3de72d89275b66e9c5",
-    "name": "Greatest Hits 2020's",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/boomerang2020s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3374c90-5fbf-4752-8f42-dc1a187fae36"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_cde424e12ff3024fa2b8",
@@ -10326,25 +9443,6 @@
     "lastCheckedAt": "2026-11-07T00:03:56Z"
   },
   {
-    "id": "aws_be9c1230525eed499748",
-    "stationId": "awb_551ece9f0efc28bd1a11",
-    "name": "J.S.BACH - Classical Radio",
-    "country": "AE",
-    "url": "http://drive.uber.radio/uber/crjsbach/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c8bf104-5058-4550-94df-891042dda226"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
-  },
-  {
     "id": "aws_5987438edb1453e4ce11",
     "stationId": "awb_e332e3d541fd12ad9288",
     "name": "Jacqueline Du Pre' - Classical Radio",
@@ -10362,25 +9460,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:22:51Z"
-  },
-  {
-    "id": "aws_9368f3370d6ea9f1d2d3",
-    "stationId": "awb_14f72226d97c75118bfd",
-    "name": "Jimi Hendrix",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/hendrix/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e5d19d2a-49ce-4846-af68-cc415f9ba895"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:50:49Z"
   },
   {
     "id": "aws_f689a95cafea03838a63",
@@ -10453,11 +9532,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "057ef4a9-56a1-430a-91ec-06ae1388600b",
-      "608c8883-36a6-4615-80ce-401bfe32817f"
+      "136d2ab8-ffe2-4d17-ba04-c5ac65bc368c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
+    "lastCheckedAt": "2026-11-06T18:05:11Z"
   },
   {
     "id": "aws_f786e47fb842c06d4a97",
@@ -10492,8 +9570,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "85494e89-58be-4ad0-ab29-61e32715907a",
-      "88ab5ad1-9d0d-4e71-9f2f-bc853eac32a8"
+      "85494e89-58be-4ad0-ab29-61e32715907a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:51:28Z"
@@ -10799,7 +9876,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "17222f44-1664-4f58-a9d9-800dda7e4f92",
       "d9b1fbc4-299c-420f-b07c-d0f697de1c46"
     ],
     "lastCheckOk": true,
@@ -11012,15 +10088,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "56588b49-a2d5-4703-996f-2f9e5d631d17",
       "AE:love-radio-bollywood"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7b24478e74eb7b38ebbf",
@@ -11114,7 +10188,7 @@
     ],
     "sourceIds": [
       "AE:love-radio-indie-romance",
-      "d75ccb5c-3400-44b6-b58f-aeed4434ab43"
+      "f513b274-1ac1-4ecf-84f8-fe9b87f2028f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:38:44Z"
@@ -11171,11 +10245,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a78847c9-e01f-4d4e-a025-12e1315c2010",
       "cd8f5276-2960-4ed5-b2c5-7f1ba5d91ab8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
+    "lastCheckedAt": "2026-11-06T06:55:24Z"
   },
   {
     "id": "aws_f084da07169799d39bb2",
@@ -11429,25 +10502,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:55:36Z"
-  },
-  {
-    "id": "aws_2a37bab3482486647ece",
-    "stationId": "awb_9367b1d1830f7e26cfdf",
-    "name": "MBC Loud 105.5 FM",
-    "country": "AE",
-    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0",
-    "codec": "aac",
-    "bitrate": 211,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0e7e1e20-c4fa-4cb2-a0ef-0e6e16e19be0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:52:06Z"
   },
   {
     "id": "aws_32c5dd839140915b19af",
@@ -12172,25 +11226,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:48:11Z"
-  },
-  {
-    "id": "aws_ed8a6c242e9da0858781",
-    "stationId": "awb_b06c66a4b3bf8b0f7f40",
-    "name": "Positively Meditation -om",
-    "country": "AE",
-    "url": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "97219d62-7c14-45b8-bbdb-48d0403f907c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
     "id": "aws_b738abf05cde4dbe470e",
@@ -12984,25 +12019,6 @@
     "lastCheckedAt": "2026-11-06T06:55:24Z"
   },
   {
-    "id": "aws_176abdf06d157f4e9133",
-    "stationId": "awb_5c38c066d626247d1c53",
-    "name": "Sportify bollywood workout radio",
-    "country": "AE",
-    "url": "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4591b25e-3801-4aea-a15f-206ea9b5c8b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:27:04Z"
-  },
-  {
     "id": "aws_b52b7215a0ffd9705753",
     "stationId": "awb_8c654f08416bc6441b11",
     "name": "Stan Gett",
@@ -13096,44 +12112,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
-    "id": "aws_bd0f84efb61a7e54e760",
-    "stationId": "awb_e01b5d05052ddb010dc1",
-    "name": "StarBox Jazz",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/starboxjazz/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b28dab2f-6513-4179-ac3c-2b9756af9dfa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:27Z"
-  },
-  {
-    "id": "aws_e7d718a5af27b113d642",
-    "stationId": "awb_7b1051b49fa4242f3958",
-    "name": "StarBox Motown",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/starboxmotown/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e995f5b6-f855-433a-8394-05850ddd1364"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
   },
   {
     "id": "aws_c641291b3674d46c90bd",
@@ -13364,25 +12342,6 @@
     "lastCheckedAt": "2026-11-06T17:58:04Z"
   },
   {
-    "id": "aws_adbd41e39cffc16f41d4",
-    "stationId": "awb_7c3a2c27eae4a683631b",
-    "name": "The Best Of - Christmas Pop",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/christmaspop/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e445f105-5049-4e8d-8b57-0dc5122cea60"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
-  },
-  {
     "id": "aws_e3d79bebe964af4bc961",
     "stationId": "awb_86d8b04bf961ae7f1313",
     "name": "The Best Of Easy",
@@ -13512,7 +12471,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "523220d7-58a7-4631-b43c-c7c8653c5d6e",
       "936b3fe8-81e3-44f7-b22f-9b66968867ed"
     ],
     "lastCheckOk": true,
@@ -13586,34 +12544,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "128c5e75-c79b-4492-81b4-38c3c742fab6",
       "AE:vanessa-mae-classical-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
-  },
-  {
-    "id": "aws_9e1379122d024c2a903e",
-    "stationId": "awb_01a3795d61f2cc355b80",
-    "name": "Vienna Philharmonic - Classical Radio",
-    "country": "AE",
-    "url": "https://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "edb52429-0518-4095-ba35-42f89e2991d4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_686a896f5527089df899",
@@ -13652,44 +12589,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:37:59Z"
-  },
-  {
-    "id": "aws_be55922955b8871d8119",
-    "stationId": "awb_26b4c2221e1f00a3a2d2",
-    "name": "World Music Radio - Bollywood",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1d47e6af-81ce-4e45-b046-71641c103881"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:36:35Z"
-  },
-  {
-    "id": "aws_ec4e38c9e3223c6d6420",
-    "stationId": "awb_5d9b1ccc05376c332223",
-    "name": "World Music Radio - Italy",
-    "country": "AE",
-    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "77d02184-0706-4a94-b5d4-73a680353ec1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:22:54Z"
   },
   {
     "id": "aws_6f3d6215b9adce0bcb8c",

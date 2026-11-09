@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 station-id="awb_2f32ec200aa6df51f06b" stream-id="aws_6f077bb411dcb08036bc" codec="mp3" bitrate="0",Alise Plus
-http://fm2inet.aliseplus.lv:8080/
 #EXTINF:-1 station-id="awb_01f396173d670578e01a" stream-id="aws_65b2446a1dabcc5966c6" codec="mp3" bitrate="0",AlisePlus
 http://fm2inet.aliseplus.lv:8080/
 #EXTINF:-1 station-id="awb_43e099b8782751a50909" stream-id="aws_7b3eb64c0c6ada41622d" codec="mp3" bitrate="128",Cave Lounge
@@ -73,8 +71,6 @@ http://stream.europeanhitradio.com:8000/Stream_23.aac
 http://stream.europeanhitradio.com:8000/Stream_31.aac
 #EXTINF:-1 station-id="awb_e3908f1e6c92d528135f" stream-id="aws_21c19edd3bbafe7b1fdf" codec="aac" bitrate="0",European Hit Radio - Fitness
 https://stream.ehrhiti.lv:8000/Stream_14.aac
-#EXTINF:-1 station-id="awb_58e0ad4fe3b3f28c1418" stream-id="aws_9c22840b86552c985ce7" codec="aac+" bitrate="96",European Hit Radio - Fresh
-http://stream.europeanhitradio.com:8000/Stream_25.aac
 #EXTINF:-1 station-id="awb_92b96caef52c550dfabd" stream-id="aws_f80a0277c292d77beebf" codec="aac+" bitrate="96",European Hit Radio - KOOL hits
 https://25583.live.streamtheworld.com/EHR_KOOLAAC.aac
 #EXTINF:-1 station-id="awb_a47055c0b5981213c36a" stream-id="aws_b1b39c79b92ddab283ff" codec="aac+" bitrate="96",European Hit Radio - Latviešu Hiti
@@ -95,8 +91,6 @@ https://29053.live.streamtheworld.com/EHR_SUPERHITS_GOLDAAC.aac
 https://25633.live.streamtheworld.com/EHR_SUPERHITS_HIPHOP_RNBAAC.aac
 #EXTINF:-1 station-id="awb_814ef5442d27118b0824" stream-id="aws_417116548f48ba926ac9" codec="aac+" bitrate="96",European Hit Radio - TikTok Hits
 https://stream.ehrhiti.lv:8000/Stream_38.aac
-#EXTINF:-1 station-id="awb_75c0129acda0553ba4dd" stream-id="aws_16fc0c1aa34b8aa53ce2" codec="aac+" bitrate="96",European Hit Radio - Top 40
-http://stream.europeanhitradio.com:8000/Stream_27.aac
 #EXTINF:-1 station-id="awb_4d8ea7298a80cec98f24" stream-id="aws_5ba1df960847e76817de" codec="aac+" bitrate="96",European Hit Radio - Top 40 RU
 https://stream.ehrhiti.lv:8000/Stream_33.aac
 #EXTINF:-1 station-id="awb_3753b29f91b2a7e30b63" stream-id="aws_c2a69ffc1d096259a59f" codec="aac+" bitrate="96",European Hit Radio - Urban
@@ -269,7 +263,7 @@ http://schlagers.org:8760/
 https://stream.radioskonto.lv:8443/stereo
 #EXTINF:-1 station-id="awb_21f82c8d9084e3c4be96" stream-id="aws_8300abfdf20ff1529f52" codec="aac+" bitrate="192",SKONTO hiti
 https://streams.radioskonto.lv:8443/skonto-hiti
-#EXTINF:-1 station-id="awb_04438fbc3dbe4ebf7f0c" stream-id="aws_41f1352b8165400f7620" codec="aac+" bitrate="128",Skonto Plus
+#EXTINF:-1 station-id="awb_04438fbc3dbe4ebf7f0c" stream-id="aws_41f1352b8165400f7620" codec="aac" bitrate="128",Skonto Plus
 https://stream.radioskontoplus.lv:8443/st128
 #EXTINF:-1 station-id="awb_99e1e22ec419a2ffa94f" stream-id="aws_5ec7b9917e5bfe68bdf8" codec="aac+" bitrate="128",SKONTONS
 https://streams.radioskonto.lv:8443/skonto-juniors
@@ -283,8 +277,6 @@ https://live.advailo.com/audio/mp3/icecast.audio
 https://stream.ehrhiti.lv:8000/Stream_21.aac
 #EXTINF:-1 station-id="awb_7ff8c5a598bba77161f1" stream-id="aws_e83427a3d1c28dd3a1a7" codec="mp3" bitrate="192",SWH
 http://80.232.162.149:8000/swh96mp3
-#EXTINF:-1 station-id="awb_89fbc651fb51be673795" stream-id="aws_afc647f260f775ac492f" codec="mp3" bitrate="192",SWH Plus
-http://80.232.162.149:8000/plus96mp3
 #EXTINF:-1 station-id="awb_34f0509062a8096b2f9d" stream-id="aws_68aa039c606759147c35" codec="mp3" bitrate="192",SWHPlus
 http://80.232.162.149:8000/plus96mp3
 #EXTINF:-1 station-id="awb_61031d4d556f498fbe93" stream-id="aws_88a1986a1a46d3a115e4" codec="mp3" bitrate="320",Talsi Lounge

@@ -192,25 +192,6 @@
     "lastCheckedAt": "2026-11-06T19:05:52Z"
   },
   {
-    "id": "aws_59a9e598dfb5eace8875",
-    "stationId": "awb_1aeb92a02bb685071688",
-    "name": "Banker Radio",
-    "country": "RS",
-    "url": "http://banker96-naxinacional.streaming.rs:8540/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a5de69d7-8dca-4058-b1e7-533c3ccc9d8f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
-  },
-  {
     "id": "aws_80f20258ee3b540be160",
     "stationId": "awb_a154cee0cb433c56e806",
     "name": "BB Radio Sombor",
@@ -249,25 +230,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:01:41Z"
-  },
-  {
-    "id": "aws_b8a998f75c9b3841ad97",
-    "stationId": "awb_a48a5718013a7f580354",
-    "name": "Blok Radio",
-    "country": "RS",
-    "url": "https://stream.blokradio.com/hls/blok_radio/live.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2a99ead-651f-47b1-8069-2985003a32c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
   },
   {
     "id": "aws_396b13e3a024f671ccda",
@@ -361,7 +323,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "964c0c26-0601-11e8-ae97-52543be04c81",
       "d030d9eb-1d16-4185-826a-459871605a6e"
     ],
     "lastCheckOk": true,
@@ -458,11 +419,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9cdcb2ed-0d7c-43fc-93b1-9ddf84f678ba",
-      "RS:densomaniak-radio"
+      "RS:densomaniak-radio",
+      "ef10a866-78d9-4b7b-9e37-faec81cd4026"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
+    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_34edde89d848dbe0d098",
@@ -522,25 +483,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:47:16Z"
-  },
-  {
-    "id": "aws_e3149bcb3ce04be392a6",
-    "stationId": "awb_79175b51d59ecd128170",
-    "name": "Dženarika",
-    "country": "RS",
-    "url": "http://stream.dzenarika.net:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b32e837-9c4d-4a97-afed-906d307c383c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_b303a8de2b787bca76f2",
@@ -735,25 +677,6 @@
     "lastCheckedAt": "2026-11-06T04:02:29Z"
   },
   {
-    "id": "aws_4ed3aed0d548f6429e0f",
-    "stationId": "awb_83ffa5d5858defb854a7",
-    "name": "Hit FM Radio Beograd",
-    "country": "RS",
-    "url": "http://streaming.hitfm.rs:8000/hit",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964755d5-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
-  },
-  {
     "id": "aws_c1df55c3e246e9132c9b",
     "stationId": "awb_5ec59a8d65a520137dda",
     "name": "Hit Radio Istok",
@@ -862,11 +785,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "dc7814bf-5e2a-46aa-a3ad-4b259cb560b9",
       "ec344ab6-fe5b-4c17-8a98-bee12d5ba987"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_1ebb321852655fa30047",
@@ -941,7 +863,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "09fd84d4-f03c-4e99-8740-5e9837ba73bc",
       "f446f8a3-592f-4ca3-8875-8a3fbbeb1b2e"
     ],
     "lastCheckOk": true,
@@ -982,7 +903,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1a828276-98db-4dbf-985c-e5554b394754",
       "2f92571d-1f22-473c-af9a-58bf71d22637"
     ],
     "lastCheckOk": true,
@@ -1141,25 +1061,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:59:48Z"
-  },
-  {
-    "id": "aws_52118ef8cbfeefdf9d87",
-    "stationId": "awb_7f55cefc64a6cce7ed59",
-    "name": "Lotel Radio",
-    "country": "RS",
-    "url": "https://s1.skeletor.rs/lotel",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c4f51cd6-8802-4a08-9f37-9753994ed001"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:28:32Z"
   },
   {
     "id": "aws_b407972e8558a0e34310",
@@ -1486,25 +1387,6 @@
     "lastCheckedAt": "2026-11-06T16:40:45Z"
   },
   {
-    "id": "aws_7ec77f6a3fea4028dcd3",
-    "stationId": "awb_6cddabd7d94f6ba3da8f",
-    "name": "Naxi",
-    "country": "RS",
-    "url": "https://naxi128ssl.streaming.rs:9152/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6c5a106-4ea9-4751-a406-42b477033ec8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
-  },
-  {
     "id": "aws_5df13f6459a1b96f1c9d",
     "stationId": "awb_f61438e5b14987bcc3ff",
     "name": "Naxi - hype",
@@ -1578,15 +1460,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RS:naxi-80-e-radio",
-      "f25df3be-0f73-42a4-8e49-a6af07e8f433"
+      "RS:naxi-80-e-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1faa33bb1a65714c8550",
@@ -1648,27 +1528,6 @@
     "lastCheckedAt": "2026-11-07T02:09:08Z"
   },
   {
-    "id": "aws_e49c84a2b44521b218c5",
-    "stationId": "awb_1071a9ed125de698064a",
-    "name": "Naxi Adore",
-    "country": "RS",
-    "url": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "680c416e-fa36-4b6c-b262-e65b5eb91c3e",
-      "RS:naxi-adore"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
-  },
-  {
     "id": "aws_db3cd7e34aca97a5ffb9",
     "stationId": "awb_90094e169e27bd9daf90",
     "name": "Naxi Adore",
@@ -1686,6 +1545,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:56:15Z"
+  },
+  {
+    "id": "aws_e49c84a2b44521b218c5",
+    "stationId": "awb_1071a9ed125de698064a",
+    "name": "Naxi Adore",
+    "country": "RS",
+    "url": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "RS:naxi-adore"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c352538a33b55e2e5e1f",
@@ -2127,15 +2005,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1b1f0fc3-8b03-461e-bd68-cb07987d58a1",
       "RS:naxi-kids-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:15:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7774e9ee1e69c02b24ec",
@@ -2186,15 +2062,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RS:naxi-latino-radio",
-      "d7f89e58-ccce-4a46-8e12-82bb4ee769ba"
+      "RS:naxi-latino-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T05:24:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d7181f7c119df1c41a7c",
@@ -2296,25 +2170,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:31:49Z"
-  },
-  {
-    "id": "aws_aff41e52773ede9265db",
-    "stationId": "awb_71f7b819c1f4e209f562",
-    "name": "Naxi MIX",
-    "country": "RS",
-    "url": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0a4bc20b-4395-425d-9002-3da401924ef4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
   },
   {
     "id": "aws_552aa01cc842cc917451",
@@ -2542,15 +2397,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RS:naxi-rock-radio",
-      "b873245f-c6fe-40c0-a9f3-4bbe5402c281"
+      "RS:naxi-rock-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:36:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4eacc7c1eec25ad8ea67",
@@ -2900,15 +2753,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RS:pink-radio",
-      "a0caac96-28a9-4507-bc06-eb021b5a2582"
+      "RS:pink-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_070ded0420a481b61ea6",
@@ -3041,15 +2892,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "83aee402-c381-458e-b471-16a806e8dd69",
       "RS:play-radio-serbia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:05:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_64d62398bc82340d95b3",
@@ -3264,11 +3113,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2330f476-d406-4b7e-b584-695f13054831",
+      "5251892e-ccf4-4bfa-ab42-8308feb35e63",
       "RS:radio-021-disco-funk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:09Z"
+    "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
     "id": "aws_34752bc45602e3d07c37",
@@ -3330,25 +3179,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:31:39Z"
-  },
-  {
-    "id": "aws_fa139fde51da56436ed2",
-    "stationId": "awb_5337bb19f66208ab2054",
-    "name": "Radio 31 Plus",
-    "country": "RS",
-    "url": "https://cast4.asurahosting.com/proxy/dejan/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "09602a06-6435-414b-8b0e-82ae7ec57026"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
   },
   {
     "id": "aws_511788c904c34602e15e",
@@ -3650,44 +3480,6 @@
     "lastCheckedAt": "2026-11-07T02:02:20Z"
   },
   {
-    "id": "aws_f328d5461ab0bdd4a927",
-    "stationId": "awb_66c088b26eceede5dd08",
-    "name": "Radio Beograd",
-    "country": "RS",
-    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "56bc663d-b70d-424e-a155-f3dd348175ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
-  },
-  {
-    "id": "aws_0d3fc8863ed93c84e7fb",
-    "stationId": "awb_f7ceb01010c456eb8d96",
-    "name": "Radio Beograd 1",
-    "country": "RS",
-    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dd6ef396-b24c-46b6-af9a-05f4ef18ffe7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
     "id": "aws_f971d983ac952c044466",
     "stationId": "awb_e4f5ebbdecf41713ce1f",
     "name": "Radio Beograd 2 link 2",
@@ -3705,25 +3497,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:53:19Z"
-  },
-  {
-    "id": "aws_3b9dbca0f0f205a4756d",
-    "stationId": "awb_3ecc1859541ac8dfc0ee",
-    "name": "Radio Beograd 202",
-    "country": "RS",
-    "url": "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "72a0c58a-54e6-43da-b493-b0e38baa9867"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
     "id": "aws_bfa0bc1fa70e3df7bf40",
@@ -4383,11 +4156,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "793f0f59-9ae2-4acf-94c5-762c75d42549",
       "ea2dbd9e-8ea5-4b69-9c51-db9feab3d36f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:01:47Z"
+    "lastCheckedAt": "2026-11-06T14:01:41Z"
   },
   {
     "id": "aws_be84301998d70b0530f7",
@@ -4403,11 +4175,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "50583679-2432-4778-8364-6b205e8b5ecf",
-      "dc58a651-89e2-4732-9682-b56ea610295d"
+      "50583679-2432-4778-8364-6b205e8b5ecf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:37:20Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_60a721b1ef535fb9eda8",
@@ -4458,15 +4229,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0e0d15ed-2e2f-4b81-ac37-d20172966959",
       "RS:radio-lola-domaca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_04e692de367d57b1b256",
@@ -4680,25 +4449,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:34:42Z"
-  },
-  {
-    "id": "aws_41635d01e08f1606d969",
-    "stationId": "awb_b569a411fa223595e058",
-    "name": "Radio Naxi 80-e",
-    "country": "RS",
-    "url": "https://naxidigital-80s128ssl.streaming.rs:8042/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "90b40d99-6de2-408e-9e50-95df6a81249f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:41:28Z"
   },
   {
     "id": "aws_18c90534949d9967a77c",
@@ -5180,20 +4930,18 @@
     "name": "Radio S Easy",
     "country": "RS",
     "url": "https://stream.radios.rs:9044/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 36,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7837ee62-dd8d-43e4-8fbb-35ecd7f141cf",
       "RS:radio-s-easy"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_794258a7335d64196c9b",
@@ -5912,20 +5660,18 @@
     "name": "Radio S2 - Index radio",
     "country": "RS",
     "url": "https://stream.radios.rs:9002/;",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "RS:radio-s2-index-radio",
-      "b8eed0cc-84c9-4365-a13d-5cfd2b57d088"
+      "RS:radio-s2-index-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:50Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4901e73c5045fff3c5f9",
@@ -5941,11 +5687,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8c407085-64df-11e8-b15b-52543be04c81",
       "bfbe02c2-eadc-4d37-9f69-f57104aad8aa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
+    "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
     "id": "aws_ba5895bef9a90994eb23",
@@ -6616,11 +6361,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "32b770c2-bc31-4b01-bc86-84351cb99e10",
-      "bbe6a65d-2301-4bb2-89f5-9391cb941133"
+      "32b770c2-bc31-4b01-bc86-84351cb99e10"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
+    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_b3e4dc86bcb1bda6517f",
@@ -6838,25 +6582,6 @@
     "lastCheckedAt": "2026-11-06T21:56:15Z"
   },
   {
-    "id": "aws_684a6ed6e9106659f1bb",
-    "stationId": "awb_dd908c427efe4d0f0f05",
-    "name": "Retro Plus FM 90s",
-    "country": "RS",
-    "url": "https://stream.zeno.fm/abn3hm6w768uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b0d048e5-413e-43f3-9ee6-1dca3263aa97"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:46:59Z"
-  },
-  {
     "id": "aws_c55dd164c721c39e17bb",
     "stationId": "awb_84306118c299bb04365d",
     "name": "rock beograd",
@@ -6886,15 +6611,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2fc5631b-1e93-400d-8a85-496d2b0589db",
       "RS:rock-radio-belgrade"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:05:11Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c02429c9a13850d85e37",
@@ -6949,15 +6672,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5353f771-42ce-445a-aeca-9b0e57b202e3",
       "RS:rsg-radio-stari-grad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:42:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_694aac23c58427746d2d",
@@ -7070,8 +6791,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6d29a5a5-4018-4437-874f-8874a84f7276",
-      "c7259252-7b42-44fe-a567-b703334755c9"
+      "6d29a5a5-4018-4437-874f-8874a84f7276"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:41:40Z"
@@ -7343,11 +7063,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b01b08ab-2866-4ddf-a406-2c773ec1bfc7",
-      "b6c3612a-d0c3-4e0a-8e8b-9f50e74aa3f7"
+      "b01b08ab-2866-4ddf-a406-2c773ec1bfc7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:31:00Z"
+    "lastCheckedAt": "2026-11-06T10:20:52Z"
   },
   {
     "id": "aws_c55eb68f9c47091ae0b2",
@@ -7639,25 +7358,6 @@
     "lastCheckedAt": "2026-11-06T14:31:57Z"
   },
   {
-    "id": "aws_6bb62b1eb6c7078f1374",
-    "stationId": "awb_b15e38b275327043e300",
-    "name": "Пумпај Радио (Pumpaj Radio)",
-    "country": "RS",
-    "url": "https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b312d079-04f4-41b6-b94f-18510f4190dc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:37:05Z"
-  },
-  {
     "id": "aws_577f7af7b2fa52698a1f",
     "stationId": "awb_a5878b4125a99c676989",
     "name": "Радио Београд - 1",
@@ -7675,26 +7375,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:30:58Z"
-  },
-  {
-    "id": "aws_3d9945b33910aa6cf087",
-    "stationId": "awb_246077b32b980166f98d",
-    "name": "РТС - Радио Београд - 1",
-    "country": "RS",
-    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "128183d0-29ca-419f-ba01-1b85c159ed4d",
-      "a937cbfe-2eed-47de-8387-b1b3f27adce0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:37:23Z"
   },
   {
     "id": "aws_02007e13505133a89257",

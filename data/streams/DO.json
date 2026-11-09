@@ -211,25 +211,6 @@
     "lastCheckedAt": "2026-11-06T22:06:20Z"
   },
   {
-    "id": "aws_c150557cfa5eb1baea70",
-    "stationId": "awb_c578f1856e1bbfb48785",
-    "name": "Bachata Hits",
-    "country": "DO",
-    "url": "https://stream.zeno.fm/prbf8rrgvzzuv",
-    "codec": "aac",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c5e33185-b622-47ec-9e51-8836c7241123"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
-  },
-  {
     "id": "aws_29cd6dac6d68082c3982",
     "stationId": "awb_41d2c73b1ae58dfab7ee",
     "name": "Bachata Radio",
@@ -476,15 +457,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "21129c59-5376-4df1-8776-a79b2d2f9615",
       "DO:dbs-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c32c61a8ce5ec092bfb2",
@@ -506,25 +485,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:52:21Z"
-  },
-  {
-    "id": "aws_54a4d95f2572d77d60c4",
-    "stationId": "awb_9e4d0c5a39fbebb01057",
-    "name": "Disco 88.9",
-    "country": "DO",
-    "url": "https://rgradio.net/disco89/disco89.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962243f6-a43d-4ae7-bfaa-24e2a1831558"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:47:10Z"
   },
   {
     "id": "aws_1e6348c465f798e7fbf1",
@@ -604,7 +564,7 @@
       "49986b82-f54d-478d-932a-bf89acd2d681"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_da7f30b823c83b13b513",
@@ -802,8 +762,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8a2c13d0-e93f-4e15-a339-6be22b8437b1",
-      "DO:exclusive-radio"
+      "DO:exclusive-radio",
+      "ebbbcc27-f739-45fe-8466-2177e1d8c20c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
@@ -841,30 +801,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5075fdf8-1a97-4208-9feb-baa8b6bb2b5a",
-      "97f2c679-d97e-46e3-9156-26e916b1970b"
+      "5075fdf8-1a97-4208-9feb-baa8b6bb2b5a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
-    "id": "aws_2ac294d75eda56650cf5",
-    "stationId": "awb_c6943b575b088e44f6c5",
-    "name": "extasis fm",
-    "country": "DO",
-    "url": "https://stream.zeno.fm/f7wt0ptjpn3vv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "83838d8b-fdae-473d-b652-11f0d421d9fb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
   },
   {
     "id": "aws_c5c8765566d43f72a98c",
@@ -1574,34 +1514,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "372f9866-d8a8-4985-a38b-b8e36c47c137",
       "DO:radio-bendicion"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
-  },
-  {
-    "id": "aws_2e7f58fd24d28aeb7f58",
-    "stationId": "awb_5564874af013c3d79296",
-    "name": "Radio Bendición",
-    "country": "DO",
-    "url": "https://samuel.i-radio.co:9000/radiobendicion",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8dbe2566-bdfd-43ba-a710-b4dc0ee152f3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_48dbac8c97a75165f70f",
@@ -1940,7 +1859,7 @@
       "0eb917c2-6544-4069-ba27-0c46bd9d066d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_a698592534496b69ac41",
@@ -1957,11 +1876,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4ad2eedb-1d6b-4afb-a9c4-d4e2ed0775e3",
+      "8491b3dc-62d9-4ef6-9046-05cf57f6be7b",
       "DO:romantica-103-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
+    "lastCheckedAt": "2026-11-06T09:37:50Z"
   },
   {
     "id": "aws_a793b8bf9468c53e65d6",
@@ -2015,11 +1934,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24f23e10-cd74-4e62-815d-0dcb6df05292",
-      "823ae385-e777-4363-8c9c-693374033a2a"
+      "24f23e10-cd74-4e62-815d-0dcb6df05292"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
+    "lastCheckedAt": "2026-11-06T11:43:59Z"
   },
   {
     "id": "aws_a24e5be5217e21aa0529",
@@ -2054,11 +1972,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "357481bd-c358-4d68-bca5-b9b5863cb11d",
-      "7048859a-f077-4889-be19-8e28e51e2a74"
+      "357481bd-c358-4d68-bca5-b9b5863cb11d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
+    "lastCheckedAt": "2026-11-06T05:56:04Z"
   },
   {
     "id": "aws_20dc3ed709879260438c",
@@ -2134,11 +2051,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9d82539b-8d37-46c1-a9be-2aa3fe38b2a1",
-      "DO:top-bachata-radio"
+      "DO:top-bachata-radio",
+      "bd5f4ad8-a70f-4182-9b02-da9d98766baa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:37:23Z"
+    "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
     "id": "aws_144a420faad6071d5977",
@@ -2167,20 +2084,18 @@
     "name": "Top Cristiano Radio",
     "country": "DO",
     "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
-    "codec": "mp3",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3102f386-1173-4294-9214-66e11f3a9306",
       "DO:top-cristiano-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c42610bad8e4a5935ff9",
@@ -2362,25 +2277,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
-    "id": "aws_7c87ea1027d0d15bc7de",
-    "stationId": "awb_b3c89dfb74560470f1a5",
-    "name": "WXM ON RADIO",
-    "country": "DO",
-    "url": "https://jm8n.net/8024/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d4949eaa-0c2b-46fa-baa6-fcaba600029d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:16Z"
   },
   {
     "id": "aws_8a94926e9251a06503b7",

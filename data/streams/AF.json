@@ -61,25 +61,6 @@
     "lastCheckedAt": "2026-11-06T00:05:51Z"
   },
   {
-    "id": "aws_b51ccbfd098248bbc0eb",
-    "stationId": "awb_ef7b21435050c8c8ce76",
-    "name": "80s Alive",
-    "country": "AF",
-    "url": "http://media2.hostin.cc/80s-alive.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ddc348c6-d143-4bb8-996a-764cc1b5dd25"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:22:19Z"
-  },
-  {
     "id": "aws_d0c208776c1f8dcf93c1",
     "stationId": "awb_85d5b1211245e86d640a",
     "name": "80s Forever Radio",
@@ -172,7 +153,7 @@
       "a97e62ea-c9dd-470b-b48b-81edba276770"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_8894cedfde638c97ef51",
@@ -270,25 +251,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:21:16Z"
-  },
-  {
-    "id": "aws_301e22898a055f836639",
-    "stationId": "awb_dd6446e0a8bcfa73fb65",
-    "name": "Blues Radio Greece",
-    "country": "AF",
-    "url": "http://cast3.radiohost.ovh:8352/",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3715c0d6-eba0-493a-a827-332947b2c41d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:55:36Z"
   },
   {
     "id": "aws_f572441f310c8b3f74d0",
@@ -529,25 +491,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_9ab9d3a93186101689f1",
-    "stationId": "awb_0fd92cbdf93fb9d09c11",
-    "name": "fb n",
-    "country": "AF",
-    "url": "http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d11f75b9-9c1c-41b3-8287-52f712ad2e2c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:27:48Z"
-  },
-  {
     "id": "aws_e1c1b10b4899bf7fb744",
     "stationId": "awb_ccafd4514c7e5b0b2b25",
     "name": "flac",
@@ -660,25 +603,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:15:53Z"
-  },
-  {
-    "id": "aws_5293c229ff799bcaa527",
-    "stationId": "awb_f45c9adfdd33189412d9",
-    "name": "i F",
-    "country": "AF",
-    "url": "http://quincy.torontocast.com:1920/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "64380fc0-ba70-479e-a065-0f484b0f0f48"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_8ac3bef4220f626fb7fc",
@@ -828,15 +752,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AF:kiss-fm",
-      "d50e1d26-ec2f-4d49-9fbf-185e9fc0a274"
+      "AF:kiss-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:41:25Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f7a8a38bed19d438ef46",
@@ -967,15 +889,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4c0d525b-62e2-46d7-929b-dd829b5c9b4c",
       "AF:michael-jackson-music-star"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_116c4bbb04bd92961a7e",
@@ -1161,25 +1081,6 @@
     "lastCheckedAt": "2026-11-06T16:51:28Z"
   },
   {
-    "id": "aws_f8acae5ab2ef406d7527",
-    "stationId": "awb_24bb1573c4fdf47a7560",
-    "name": "Paradise",
-    "country": "AF",
-    "url": "http://stream-uk1.radioparadise.com/aac-32",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a9031662-cbf1-4203-8bc5-990bbbdd170a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
-  },
-  {
     "id": "aws_b7e5c911d0e7c310bf2d",
     "stationId": "awb_24ebd89dbf6b14274878",
     "name": "PIRAT FM",
@@ -1336,25 +1237,6 @@
     "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
-    "id": "aws_2b8e900ea945e254b392",
-    "stationId": "awb_a3454f8e6b066d369a7e",
-    "name": "RADIO MARIAM ARABIC",
-    "country": "AF",
-    "url": "http://dreamsiteradiocp4.com:8046/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c4de7d17-ae8c-4068-94a8-02e6156ef5cc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
     "id": "aws_408fe321c33160f54db4",
     "stationId": "awb_19d243a1e20aa9ee32bc",
     "name": "Rádio Nevasca 104.1 FM",
@@ -1365,15 +1247,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AF:radio-nevasca-104-1-fm",
-      "a19ff916-18bc-44b2-956f-1864736ed333"
+      "AF:radio-nevasca-104-1-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_575bb25998cb31a9e7ea",
@@ -1437,25 +1317,6 @@
     "lastCheckedAt": "2026-11-06T15:44:52Z"
   },
   {
-    "id": "aws_0378f2e9dc1a7a097167",
-    "stationId": "awb_cfb649a804c34a31b902",
-    "name": "radiowelle24",
-    "country": "AF",
-    "url": "http://stream.laut.fm/rw24",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a2f1ccc3-7def-4d32-879a-e5214e87d963"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:48Z"
-  },
-  {
     "id": "aws_33cc47f9acd22c7df895",
     "stationId": "awb_86bc1be5e1bcc3978b4a",
     "name": "RetroFM",
@@ -1469,11 +1330,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6d7fe4cb-f7ef-45eb-a3e9-f54471bc79bc",
       "afa7623c-3cad-4e82-8263-e7b2a9d4f5ee"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
+    "lastCheckedAt": "2026-11-06T00:22:54Z"
   },
   {
     "id": "aws_eda4b4b6ffa5b3499dd9",
@@ -1646,15 +1506,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2647df7b-f2d2-40c0-b9ab-a895cc0cfe82",
       "AF:solar-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_574146c6ca9d80b43eb7",
@@ -1733,25 +1591,6 @@
     "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
-    "id": "aws_fb0402eb60ae018d83fa",
-    "stationId": "awb_8f8ba1cb17f8cf4ccb7c",
-    "name": "Vesti FM",
-    "country": "AF",
-    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "532cecce-036d-4421-ba61-6299ed9f7cf3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:40:01Z"
-  },
-  {
     "id": "aws_1b3626aceaad17126fb6",
     "stationId": "awb_f76630a5307155b15590",
     "name": "Vocaloid",
@@ -1766,11 +1605,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1385338f-ad7d-4922-afb6-c4027f2c225a",
-      "AF:vocaloid"
+      "AF:vocaloid",
+      "ae2a4d9b-e304-4dff-92d1-4b1bd610ccf4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_3fe54a652497f49e5bf0",
@@ -1790,25 +1629,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:21:17Z"
-  },
-  {
-    "id": "aws_9be9ce7345cd07324a5b",
-    "stationId": "awb_804231dbefb2e4dd7368",
-    "name": "Монте Карло ВЛ",
-    "country": "AF",
-    "url": "http://194.58.122.69:8000/mcvl",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9ff345e4-439d-4054-8108-9df5af8d0bdd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
     "id": "aws_884c4f950f3a77f674a0",

@@ -112,8 +112,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5d7d9cd7-63ac-4b13-bca3-1401d42dd5bb",
-      "5d7fd421-ce17-4fbc-bc2d-38232881b1e9"
+      "5d7d9cd7-63ac-4b13-bca3-1401d42dd5bb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:38:44Z"
@@ -129,15 +128,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "LK:gold-fm",
-      "a8721ffc-305e-4578-9b63-8bbca9d65283"
+      "LK:gold-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9bb8d3b406f870777472",
@@ -231,7 +228,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8864df3a-ab53-4a39-8512-3f2dfe13b3ff",
       "b742fcc1-7118-4241-8650-8cf9f8ad8a59"
     ],
     "lastCheckOk": true,
@@ -660,7 +656,7 @@
       "LK:radio-plus-sri-lanka"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
+    "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
     "id": "aws_6a4e74c301d86009cfe1",
@@ -842,26 +838,6 @@
     "lastCheckedAt": "2026-11-06T23:12:19Z"
   },
   {
-    "id": "aws_180027e98987868cd6e4",
-    "stationId": "awb_4e1c2444836ae9aaefe9",
-    "name": "Siyath Fm",
-    "country": "LK",
-    "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "072c3bd1-bf23-4b65-b3b2-5688bc496169",
-      "b26f5f82-42ec-4174-83d4-2e5764fc25f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
-  },
-  {
     "id": "aws_c1899af23e445cc9aa90",
     "stationId": "awb_6460d2775f9db69d2251",
     "name": "Siyatha FM",
@@ -891,15 +867,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "310bf19d-4ac8-4549-904c-891909b9bc00",
       "LK:siyatha-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:04Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4019d3285378ed08109e",
@@ -995,25 +969,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:33:07Z"
-  },
-  {
-    "id": "aws_47ca673a8786af897075",
-    "stationId": "awb_17e2c7be1276f81d4d32",
-    "name": "SLBC Asia Service",
-    "country": "LK",
-    "url": "http://220.247.227.6:8000/Asiastream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "54c06649-0788-4eb6-ad03-d456090fea7f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
   },
   {
     "id": "aws_dfdc8ffa00cf96e93cf7",
@@ -1123,15 +1078,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7ca1623c-636b-4633-b794-ed0a78be7bce",
       "LK:sunfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_0f385bb9527cd8c244e8",
@@ -1151,44 +1104,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:31:49Z"
-  },
-  {
-    "id": "aws_cbc95f95e82ce36ba454",
-    "stationId": "awb_a05345204eeebf63c49f",
-    "name": "The One Radio Hi-Res",
-    "country": "LK",
-    "url": "http://uk15freenew.listen2myradio.com:6122/stream",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fbe6243b-93ab-4b94-b0f4-9712a8621943"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
-  },
-  {
-    "id": "aws_7f29c45def9654513f7a",
-    "stationId": "awb_f389f2e79cbce84bf9e8",
-    "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ",
-    "country": "LK",
-    "url": "http://s2.voscast.com:12084/;stream1619441439791/1",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3260b4f1-f1bd-4850-9c1d-8d7ffdeb3bbd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
   },
   {
     "id": "aws_0214999aa1e3abfe3f7a",
@@ -1220,15 +1135,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "LK:vasantham-fm",
-      "aa2d0a92-7e8a-4b7f-ace3-fc24d207543f"
+      "LK:vasantham-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_cc2422aa810d4caab3ec",
@@ -1284,8 +1197,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "87d990e3-bea4-4764-b060-d52bd15b7bc0",
-      "c7b98153-27a7-4698-a710-79b156a0389d"
+      "87d990e3-bea4-4764-b060-d52bd15b7bc0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:10:05Z"
@@ -1350,44 +1262,23 @@
     "lastCheckedAt": "2026-11-06T09:53:31Z"
   },
   {
-    "id": "aws_5e2fbb607b7fc2b23e8e",
-    "stationId": "awb_6f0829a6eb516845728c",
-    "name": "YFM",
-    "country": "LK",
-    "url": "https://mbc.thestreamtech.com:7032/index.html",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6c0232b9-cd09-44d5-ba28-3002d6a5e81e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
     "id": "aws_4dde2da58b0b2d296a2d",
     "stationId": "awb_e389535e91a914a4d3af",
     "name": "YFM-SRiLanka",
     "country": "LK",
     "url": "https://mbc.thestreamtech.com:7032/index.html",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0c3497a6-1a1e-445e-bd64-7313bb41b95a",
       "LK:yfm-srilanka"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:09:30Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_45aca0d77e1df7287e33",

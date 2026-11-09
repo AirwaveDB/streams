@@ -151,15 +151,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IE:98fm-throwback",
-      "e9a7b860-6641-491d-bde2-24cad72c3026"
+      "IE:98fm-throwback"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:50:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_20c1609ee7cf68bd1526",
@@ -256,7 +254,7 @@
       "IE:beat-102-103"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
+    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_9403a040adc480c341c8",
@@ -320,30 +318,9 @@
     "lastCheckedAt": "2026-11-06T01:39:21Z"
   },
   {
-    "id": "aws_9fb18841d7c67574d139",
-    "stationId": "awb_8bef896bab05417aee4e",
-    "name": "BOB FM",
-    "country": "IE",
-    "url": "https://bobfm-seanashmore.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "84992286-caac-4752-b362-844244393e62",
-      "IE:bob-fm"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:38:32Z"
-  },
-  {
     "id": "aws_b7a589709d80c27382dd",
     "stationId": "awb_ef17dfb7a806c053be76",
-    "name": "BOB fm",
+    "name": "Bob fm",
     "country": "IE",
     "url": "https://bobfm-seanashmore.radioca.st/stream",
     "codec": "mp3",
@@ -354,11 +331,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6340e201-ded8-4610-a9e2-fa1d6df42b62",
-      "6c3e44ca-56c9-4668-beca-18bc718b4bf7"
+      "a33493fc-77b0-4d92-9bf7-756e20ef98d7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
+    "lastCheckedAt": "2026-11-06T02:18:42Z"
+  },
+  {
+    "id": "aws_9fb18841d7c67574d139",
+    "stationId": "awb_8bef896bab05417aee4e",
+    "name": "BOB FM",
+    "country": "IE",
+    "url": "https://bobfm-seanashmore.radioca.st/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "IE:bob-fm"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d4cfd633dcff0d2b0245",
@@ -446,20 +441,18 @@
     "name": "CFC FM",
     "country": "IE",
     "url": "https://visual.shoutca.st/stream/crcfm",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 384,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "973aedb0-2763-4e70-8ab7-90978ab4278d",
       "IE:cfc-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_60f6b7e4012d92a0c4bb",
@@ -809,25 +802,6 @@
     "lastCheckedAt": "2026-11-05T21:46:02Z"
   },
   {
-    "id": "aws_52aa600e37bd69ed048e",
-    "stationId": "awb_0bee7939ad1044a70b52",
-    "name": "Cork 96 FM",
-    "country": "IE",
-    "url": "http://wg.cdn.tibus.net/96fm",
-    "codec": "aac",
-    "bitrate": 127,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cd81d32c-871f-4050-9534-80bc3e60c12b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:14:03Z"
-  },
-  {
     "id": "aws_b011cceec03bd61909fe",
     "stationId": "awb_af8515d226dcf6dad53a",
     "name": "Cork's RedFM",
@@ -921,8 +895,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bbc43504-6901-4ef1-8175-11c3fc02ddfa",
-      "ed1ced42-fbf7-4d5e-a95f-6dd21b7dbc3b"
+      "bbc43504-6901-4ef1-8175-11c3fc02ddfa"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:09:07Z"
@@ -1176,15 +1149,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IE:easy-radio-ireland-easy-mix",
-      "aae9455c-4af5-43c5-9d6d-bfbf7ec50c86"
+      "IE:easy-radio-ireland-easy-mix"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2f0708cca5d143711b65",
@@ -1365,7 +1336,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "25b78904-5bff-4fe1-985b-0440774c7ba2",
+      "43d1fc29-a033-4fa7-a3d9-74b2ccd0dd2c",
       "IE:funky-ass-tunes"
     ],
     "lastCheckOk": true,
@@ -1401,15 +1372,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IE:gem-new-wave-radio",
-      "d42c11ea-5b19-4ef9-a99c-9a8fbef05a8d"
+      "IE:gem-new-wave-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:02:29Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9e9a32c90f1a9ce8cca9",
@@ -1444,8 +1413,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "713f93f3-e43b-496c-a119-9e7fa4b603d1",
-      "fdacbb42-82fd-48dc-a940-351b787a35d3"
+      "713f93f3-e43b-496c-a119-9e7fa4b603d1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:44:52Z"
@@ -1461,15 +1429,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2e2e3729-2304-474c-a4d1-eeb91609f9bd",
       "IE:gem-radio-new-wave"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1668f7329b6ca2f3a524",
@@ -1509,7 +1475,7 @@
       "IE:gravity-hits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
+    "lastCheckedAt": "2026-11-06T03:05:50Z"
   },
   {
     "id": "aws_105951c41b9b91976705",
@@ -1547,10 +1513,10 @@
     ],
     "sourceIds": [
       "40fec7f4-fac4-41e1-8322-a13a84e00269",
-      "706fa89f-6486-4d7d-b93f-3cc85102d6da"
+      "9615c387-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
+    "lastCheckedAt": "2026-11-06T21:30:03Z"
   },
   {
     "id": "aws_1105df7d21ebde3bce4c",
@@ -1566,11 +1532,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4c4f28cf-6102-4f62-bae4-55d125d2b548",
       "d1796d3a-4e42-4393-85d8-0539e7d4a66f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:24:15Z"
+    "lastCheckedAt": "2026-11-05T23:58:12Z"
   },
   {
     "id": "aws_fd0bc052789c81561890",
@@ -1613,25 +1578,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:19:32Z"
-  },
-  {
-    "id": "aws_0545e2dd03902945c52d",
-    "stationId": "awb_86bfd3fdae793387a03a",
-    "name": "Ignore Radio shoegaze",
-    "country": "IE",
-    "url": "https://sp1.autopo.st/8026/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6a434991-0bdf-4d94-bb07-0efc0e881292"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_025629fc848e027966a0",
@@ -1790,25 +1736,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:01:53Z"
-  },
-  {
-    "id": "aws_a1b3e746ae51492eab1e",
-    "stationId": "awb_d82c8cbd291be2a6327d",
-    "name": "LCRfm 102.9",
-    "country": "IE",
-    "url": "http://stream1.hippynet.co.uk/stream/loughrea",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aa0a748f-2210-4e6e-86c1-3abc45235a52"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:08:40Z"
   },
   {
     "id": "aws_5c00677dfe2252bee4ce",
@@ -2279,11 +2206,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "317da756-0089-468d-941c-bb19c4533df2",
       "fa144ef5-60a2-4866-94ea-b44d2a197622"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
+    "lastCheckedAt": "2026-11-06T02:39:01Z"
   },
   {
     "id": "aws_251b983fa29a7d195de7",
@@ -2326,25 +2252,6 @@
     "lastCheckedAt": "2026-11-06T20:00:37Z"
   },
   {
-    "id": "aws_3dae337c60df64afcd6d",
-    "stationId": "awb_62e2140522639e829031",
-    "name": "NearFM",
-    "country": "IE",
-    "url": "http://stream11.shoutcastsolutions.com:8114/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6597cfec-22fa-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:46:09Z"
-  },
-  {
     "id": "aws_615131bc7febab530d68",
     "stationId": "awb_502d0f8e043a627cb6d8",
     "name": "Newstalk",
@@ -2355,15 +2262,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IE:newstalk",
-      "d037031b-f31e-4298-b36e-654eaad6416e"
+      "IE:newstalk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:24:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3e59a20a688e1db660ac",
@@ -2847,15 +2752,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "65dc00f6-2a86-4195-a64f-91aed29bd153",
       "IE:powerfm-dublin-320kbps-mp3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:37:30Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5a8194a6b4d91436ec75",
@@ -3289,7 +3192,7 @@
       "df44c4d5-df63-4f39-9230-ea57fa8d916b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
+    "lastCheckedAt": "2026-11-06T02:50:26Z"
   },
   {
     "id": "aws_140b2208c68d6565b832",
@@ -3326,11 +3229,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8cd4957a-9a7f-4493-b231-196b434b34f5",
       "f11919a5-3545-47a9-a420-80c5be17fe38"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:31:49Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_7dd834035353d8ebd0e3",
@@ -3346,11 +3248,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8f7e7bbb-bfe6-453c-9213-fdc2eb88a561",
       "e2a68842-b99a-4175-a139-4c842bd0268b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
+    "lastCheckedAt": "2026-11-06T23:44:19Z"
   },
   {
     "id": "aws_b13e9425f0de0839e07e",
@@ -3385,11 +3286,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8ea007b1-157d-4972-a967-ffcb4baa61c7",
-      "b61dd7ab-6f38-4ac6-9c62-24a53358c656"
+      "8ea007b1-157d-4972-a967-ffcb4baa61c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:57:06Z"
+    "lastCheckedAt": "2026-11-06T02:29:18Z"
   },
   {
     "id": "aws_5a7c47e45473d016a78a",
@@ -3424,8 +3324,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "02dd025e-d691-4310-bd2f-cf16007bdefb",
-      "ca6de309-f3fc-4e52-80e7-eacb885dd318"
+      "02dd025e-d691-4310-bd2f-cf16007bdefb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:01:36Z"
@@ -3448,44 +3347,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:09:17Z"
-  },
-  {
-    "id": "aws_0dfcdd5c04930da469c0",
-    "stationId": "awb_35362b254184ddb8a975",
-    "name": "RTÉ Raidió na Gaeltachta",
-    "country": "IE",
-    "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "17bd5838-0913-498e-b914-bbdd564e2ee5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:42:40Z"
-  },
-  {
-    "id": "aws_5fdbc4ceef74b59123f2",
-    "stationId": "awb_22b27924d9ca26f8dbd4",
-    "name": "RTE1",
-    "country": "IE",
-    "url": "http://icecast.rte.ie/radio1",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8643cfcb-a7bb-4c46-8391-fffe266bce16"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
   },
   {
     "id": "aws_5e64b761f49b7742af41",
@@ -3726,6 +3587,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:56:22Z"
+  },
+  {
+    "id": "aws_fe6b6758e54cf3613582",
+    "stationId": "awb_01bc88d249bdd08d2a0d",
+    "name": "Storm North East Ireland",
+    "country": "IE",
+    "url": "https://stormnortheast.com:8443/storm",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ba03ebeb-2dc2-41d2-bf07-093e4fe72a6d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_720561530162f167975f",
@@ -4116,20 +3996,18 @@
     "name": "TrancePulse Dublin",
     "country": "IE",
     "url": "https://stream.trance.ie:8443/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "79f786a8-0f1b-494c-a965-1fd4f90bfb73",
       "IE:trancepulse-dublin"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:01:14Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7a32f0d2f94ef6ecd453",
@@ -4220,15 +4098,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "04cf4250-cc1b-4a50-98e9-886058ab3096",
       "IE:wired-fm-fm-99-9-limerick-ireland"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T09:32:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_350d25c0cf80aa09a10f",
@@ -4267,43 +4143,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:21:14Z"
-  },
-  {
-    "id": "aws_83327d7d63333652a4ad",
-    "stationId": "awb_090d1a133992d11c6fc1",
-    "name": "XT Independent Alternative",
-    "country": "IE",
-    "url": "http://xt.stream.ie/xt",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "adeb719c-d5de-4f81-9a5c-64685e30d53b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:34:06Z"
-  },
-  {
-    "id": "aws_a1eeb75bff4449958c37",
-    "stationId": "awb_f0da4cfdecbe39d5ae15",
-    "name": "Zenith Classic Rock",
-    "country": "IE",
-    "url": "http://91.189.64.188:3644/zenith128mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "609877aa-a68d-44d9-b2d2-65986c55ae1f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
   }
 ]

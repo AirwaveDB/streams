@@ -9,8 +9,6 @@ http://radiostream.neotel.mk/kanal103
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_9d86ef6b64c4d366d66d" stream-id="aws_0c1109a1c0be6dd20b88" codec="mp3" bitrate="128",Antenna 5
 https://fms.off.net.mk:8000/antenna5.stream
-#EXTINF:-1 station-id="awb_57ad3e2965d29a916f23" stream-id="aws_77687e46f76007b3b9e7" codec="mp3" bitrate="128",Antenna 5 Macedonia
-http://antenna5stream.neotel.mk:8000/live128
 #EXTINF:-1 station-id="awb_bfcff622372b4cc56f63" stream-id="aws_f97faccde0187377cda5" codec="mp3" bitrate="128",Bum Kumanovo
 http://iandonov.radioca.st/;stream/1
 #EXTINF:-1 station-id="awb_eeee0da9c4f5270ef383" stream-id="aws_9081610d42612b4f6e3b" codec="mp3" bitrate="128",Club FM Macedonia
@@ -21,8 +19,6 @@ https://s1.skyradio.com.mk/hits.mp3
 https://radio.jazzfm.mk/listen/jazzfm/live
 #EXTINF:-1 station-id="awb_5b1c68e2cd9fc94e2391" stream-id="aws_d8d536d3ae0e8801d58a" codec="mp3" bitrate="256",Just Music Radio
 https://radiostream.neotel.mk/justmusicradio
-#EXTINF:-1 station-id="awb_0a6226cf603412e1a266" stream-id="aws_8a3b9cb7605b56d50d2d" codec="mp3" bitrate="256",Kanal 103
-http://radiostream.neotel.mk/kanal103
 #EXTINF:-1 station-id="awb_1b412a840e1f66a93dc9" stream-id="aws_88b4da5c6b54b81fc8cb" codec="mp3" bitrate="128",Lider FM 107,4
 https://liderfm.ipradio.mk/
 #EXTINF:-1 station-id="awb_7ecf8650cfee886b9804" stream-id="aws_02436302bd1f1b17c9df" codec="mp3" bitrate="192",Life Radio
@@ -67,8 +63,6 @@ https://radiostream.neotel.mk/samomk
 http://radiostream.neotel.mk/samomk
 #EXTINF:-1 station-id="awb_90148deab5e4ed0ac36e" stream-id="aws_bdce8169a4b5b8593085" codec="unknown" bitrate="0",SKY FOLK
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 station-id="awb_7877f44eeeeef92e8b5d" stream-id="aws_1212820cff746f9de494" codec="aac+" bitrate="64",Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
-http://s1.skyradio.com.mk:8000/
 #EXTINF:-1 station-id="awb_2c7b45d0370854ed34e8" stream-id="aws_6f742c11bda1832093c2" codec="mp3" bitrate="192",Sky Radio 102.5 Skopje, Macedonia
 https://s1.skyradio.com.mk/;*.mp3
 #EXTINF:-1 station-id="awb_d1322d1400addcbaf895" stream-id="aws_1677ec0e23385f484e6b" codec="mp3" bitrate="192",Sky Radio Hits Skopje, Macedonia
@@ -87,7 +81,7 @@ https://radiostar.pro/stream/starplus.php
 https://radiostar.pro/stream/narodna.php
 #EXTINF:-1 station-id="awb_3471827e9f223fbfffe3" stream-id="aws_7712877956d6221cacb0" codec="aac+" bitrate="320",Star Radio (World Hits) Skopje, Macedonia
 https://radiostar.pro/stream/worldretro.php
-#EXTINF:-1 station-id="awb_c69682f7390d3cce2bc1" stream-id="aws_c66f1f7aa9a1038d7ec6" codec="aac+" bitrate="320",STIL RADIO
+#EXTINF:-1 station-id="awb_c69682f7390d3cce2bc1" stream-id="aws_c66f1f7aa9a1038d7ec6" codec="aac" bitrate="320",STIL RADIO
 https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1
 #EXTINF:-1 station-id="awb_299e9220ad96cdc51a7f" stream-id="aws_844f249b081a36dbb338" codec="aac+" bitrate="320",Stil Radio Live Macedonia
 https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1

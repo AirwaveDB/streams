@@ -57,25 +57,6 @@
     "lastCheckedAt": "2026-11-06T15:10:10Z"
   },
   {
-    "id": "aws_c7467bc14f04bc2a7ca2",
-    "stationId": "awb_232527de7b8bf8fd38b7",
-    "name": "Ars",
-    "country": "SI",
-    "url": "http://mp3.rtvslo.si/ars",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960fc643-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
-  },
-  {
     "id": "aws_6e2fc1aaea5ea5b16377",
     "stationId": "awb_f361f87b65b595f3eeb9",
     "name": "Ars Tretji program",
@@ -133,25 +114,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:27:04Z"
-  },
-  {
-    "id": "aws_b7477bd58550e56570a8",
-    "stationId": "awb_9eea1fd9c64b88b42ae3",
-    "name": "BestFM",
-    "country": "SI",
-    "url": "https://live.radio.si/BestFM",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a96ef484-3430-4148-acc3-d135f412b7e6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
     "id": "aws_e0af4e4e54b1449f8232",
@@ -530,7 +492,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2fc307a0-1ac8-4f92-b988-7c9456fbb440",
       "51db6f1f-9f5c-4c5e-b85e-15f939d1a78a"
     ],
     "lastCheckOk": true,
@@ -547,34 +508,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SI:radio-1",
-      "caf0f3e6-d900-4045-871d-7da384101151"
+      "SI:radio-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:02:20Z"
-  },
-  {
-    "id": "aws_f2dadc3535729c6a8cce",
-    "stationId": "awb_03fd749ded6c5960b78f",
-    "name": "Radio 1",
-    "country": "SI",
-    "url": "https://live.radio1.si/Radio1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "474c879b-b337-4cdc-a68f-d43152f5b64a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:17:17Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_3d3f00da45fd43f7180d",
@@ -1221,20 +1161,18 @@
     "name": "Radio ENTER",
     "country": "SI",
     "url": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SI:radio-enter",
-      "a7b6e9b7-6d9d-476b-b07c-be676d6f6d87"
+      "SI:radio-enter"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:53:36Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_24a917d84bf3eec31a97",
@@ -1288,11 +1226,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4fd1a5de-bc98-4b1f-a956-cb437a131c11",
       "d4e023b0-d966-477f-9d4f-c51e329c04de"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:53:47Z"
+    "lastCheckedAt": "2026-11-06T19:21:07Z"
   },
   {
     "id": "aws_eb816d96ce8520016f0a",
@@ -1354,25 +1291,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_68e9a7f419788a78e1ac",
-    "stationId": "awb_7617d6a78a187d5d6ab8",
-    "name": "Radio MARŠ",
-    "country": "SI",
-    "url": "http://frekvenca.eu:8000/radiomars.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96378d71-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
     "id": "aws_9fc06bd8cac6de508bb5",
@@ -1524,15 +1442,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4a818f2e-cb76-4763-9ffe-8d396bc40569",
       "SI:radio-nula"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9f163a1728daa08779ce",
@@ -1575,7 +1491,7 @@
   {
     "id": "aws_51df04b90fb29cb8139b",
     "stationId": "awb_2a0912a27cea37c8ac4c",
-    "name": "Radio Nula Beatz",
+    "name": "Radio NULA Beatz",
     "country": "SI",
     "url": "https://strm.radionula.com/lounge",
     "codec": "mp3",
@@ -1587,30 +1503,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1d7bf408-11cd-4ae2-b3ea-7c435503045c",
-      "SI:radio-nula-beatz"
+      "SI:radio-nula-beatz",
+      "ba098fa3-057b-4ec6-bfd8-f00a319a155a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
-    "id": "aws_38d0503c9f1b9c2f18a3",
-    "stationId": "awb_cc44efd69103d9098fcd",
-    "name": "Radio Nula Classic",
-    "country": "SI",
-    "url": "https://strm.radionula.com/classics",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "38a4da79-915b-46ca-bcb6-909a7ead5c60"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
+    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_22b843edd727d9bba4a4",
@@ -1669,7 +1566,7 @@
       "SI:radio-nula-organic"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:22Z"
+    "lastCheckedAt": "2026-11-06T03:53:19Z"
   },
   {
     "id": "aws_7c81a9be8e92db686b7c",
@@ -1847,25 +1744,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:47:50Z"
-  },
-  {
-    "id": "aws_0ea022bcc6e32ccdc4fa",
-    "stationId": "awb_eda2258097ffa92236ed",
-    "name": "Radio Si",
-    "country": "SI",
-    "url": "http://mp3.rtvslo.si/rsi",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961b5644-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
   },
   {
     "id": "aws_a6ba6820585a9526842d",
@@ -2441,25 +2319,6 @@
     "lastCheckedAt": "2026-11-06T23:59:50Z"
   },
   {
-    "id": "aws_ca8e2d1c8c7698df2152",
-    "stationId": "awb_aa9acde77f066b18dff7",
-    "name": "ROCK RADIO Hard & Heavy",
-    "country": "SI",
-    "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36318572-8c79-4bbd-8b59-27902c145037"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
-  },
-  {
     "id": "aws_115908bd7f8626d31418",
     "stationId": "awb_8b9e81504b4ffe7d4495",
     "name": "Rock Radio Hard & Heavy SLO",
@@ -2622,25 +2481,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:48:02Z"
-  },
-  {
-    "id": "aws_e32c8ffb3c379138eb69",
-    "stationId": "awb_e509ced1161baeadae45",
-    "name": "VAL 202",
-    "country": "SI",
-    "url": "http://mp3.rtvslo.si:8000/val202",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8c2d0d0c-7d26-4797-b4c0-1e81c1090d00"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
     "id": "aws_1e0fb28f3d855e5bf580",

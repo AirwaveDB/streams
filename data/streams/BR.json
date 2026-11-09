@@ -57,25 +57,6 @@
     "lastCheckedAt": "2026-11-06T19:05:52Z"
   },
   {
-    "id": "aws_0336d01dda9db9578def",
-    "stationId": "awb_9a8886d4d9bc3a7406e4",
-    "name": "101.9 Radio Educativa - Campinas",
-    "country": "BR",
-    "url": "http://streaming.ima.sp.gov.br:8000/educativa.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "085fb651-592e-426f-8fd7-cbc968d2d08c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
-  },
-  {
     "id": "aws_d567f4d3070f5e22f5e1",
     "stationId": "awb_96ee96f5e07d1e0e8ba4",
     "name": "102 FM Itaperuna",
@@ -152,26 +133,6 @@
     "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
-    "id": "aws_919856a167cd89dd35d2",
-    "stationId": "awb_16d770e1dd853edfd003",
-    "name": "104 FM Natal",
-    "country": "BR",
-    "url": "https://radios.braviahost.com.br:8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "10440c1d-0efd-4bc0-bc89-a12bdb854871",
-      "29d98505-7966-4807-8265-08dc4f46d0a9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
-  },
-  {
     "id": "aws_56b66846bf45cb7818d4",
     "stationId": "awb_a293d22c0f1ca3ad77b9",
     "name": "104.7 FM Natal RN Brazil",
@@ -185,11 +146,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a8ab203e-df01-4d80-9f09-481eafbc8af9",
-      "b220458a-5559-49c7-9e46-6cbd1f28641f"
+      "a8ab203e-df01-4d80-9f09-481eafbc8af9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:16Z"
+    "lastCheckedAt": "2026-11-06T01:02:16Z"
   },
   {
     "id": "aws_605f3b48cc584ac30c50",
@@ -406,20 +366,18 @@
     "name": "89 A Radio Rock",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "65908a60-3a4c-4d8c-b66c-d8eb96faefc6",
       "BR:89-a-radio-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_339567d5202e8af2e1b5",
@@ -460,63 +418,23 @@
     "lastCheckedAt": "2026-11-06T04:38:27Z"
   },
   {
-    "id": "aws_d9723c1fa6a3e7d8416b",
-    "stationId": "awb_f0850316e53dff9716e6",
-    "name": "89 FM A Radio Rock",
-    "country": "BR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be54b4d2-f3f6-45d5-b449-06adcaf36830"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_ed8091fdbfe656137c66",
-    "stationId": "awb_c4179add7e0cdbe38140",
-    "name": "89 FM A Rádio Rock Goiânia",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/89aradiorockgo",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "11a88d11-8a29-4976-b455-1d9bf709e599"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
     "id": "aws_26d7cb61f85f64e3a6ad",
     "stationId": "awb_d5b422033c38a55e14bf",
     "name": "89 Goiânia",
     "country": "BR",
     "url": "https://ice.fabricahost.com.br/89aradiorockgo",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "13dea9bd-e0f0-4bd6-b5f1-f56ed8a91f45",
       "BR:89-goiania"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:16:39Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_487d413c8171deda882b",
@@ -538,63 +456,23 @@
     "lastCheckedAt": "2026-11-06T22:11:42Z"
   },
   {
-    "id": "aws_2a2292f7dcd5cb269e95",
-    "stationId": "awb_c14490fc96ec5abd5fd1",
-    "name": "89FM A Radio Rock",
-    "country": "BR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed1b7322-76ee-4978-b014-fa01aae9e13b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:55:11Z"
-  },
-  {
     "id": "aws_88983c9d116864bbf4e6",
     "stationId": "awb_c5de96d53d6c90ddae9e",
     "name": "89FM Radio Rock",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4a7680b2-f3da-4454-b80d-ba739f267431",
       "BR:89fm-radio-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T22:52:34Z"
-  },
-  {
-    "id": "aws_eca644882a3e9aa394d4",
-    "stationId": "awb_f0550d7998c5d57fd14f",
-    "name": "90.9 Nova Serrana",
-    "country": "BR",
-    "url": "https://radio02.kingcast.com.br:7226/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "86bbe477-7177-4e9a-b077-38d0e04b799d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:12:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_33d5f4b222f18385e7a4",
@@ -787,25 +665,6 @@
     "lastCheckedAt": "2026-11-07T01:35:20Z"
   },
   {
-    "id": "aws_8c7fe5cd78395c11a74d",
-    "stationId": "awb_70b2b2c4cb95c9c8747f",
-    "name": "94FM",
-    "country": "BR",
-    "url": "https://8563.brasilstream.com.br/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fc5678b4-793e-45b6-bffb-5b74123f960b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
-  },
-  {
     "id": "aws_6969489183ad94ecef72",
     "stationId": "awb_70b2b2c4cb95c9c8747f",
     "name": "94fm",
@@ -973,7 +832,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "686f4b44-b40e-45da-9142-b712f2511302",
       "b4539993-71f9-4cd9-9ed8-5d1b7d9342e9"
     ],
     "lastCheckOk": true,
@@ -1077,25 +935,6 @@
     "lastCheckedAt": "2026-11-06T18:18:44Z"
   },
   {
-    "id": "aws_ff4d4543182e91aca839",
-    "stationId": "awb_e996da4e5cc04867e3fd",
-    "name": "ADOLFO LARANJEIRA NASCIMENTO",
-    "country": "BR",
-    "url": "http://stm26.srvaudio.com.br:9732/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7781f2d-00be-4f3e-a850-a8028abf46ff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
-  },
-  {
     "id": "aws_87c5e308f57c17801bbb",
     "stationId": "awb_871f357e1843a902bf96",
     "name": "Adore 89,3 FM Maceió",
@@ -1132,25 +971,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:30:50Z"
-  },
-  {
-    "id": "aws_28f64b10609355907e20",
-    "stationId": "awb_93401ac84ce99e0c6c37",
-    "name": "Agenda Chill",
-    "country": "BR",
-    "url": "https://stream-159.zeno.fm/zanz4xbdtg8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eec23a68-22ff-4af0-8f00-b38753bf9b80"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:04Z"
   },
   {
     "id": "aws_0d8aea5a0d4e09b0989f",
@@ -1272,39 +1092,18 @@
     "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "447a1a5f-aee6-4b21-b85f-10ceb1896ad3",
       "BR:alpha-fm-101-7-mhz-sao-paulo-sp"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
-    "id": "aws_551c728e9114c9472ed1",
-    "stationId": "awb_c0b01a9c7bf4ea47b71c",
-    "name": "Alpha FM 102.1 MHz (Goiânia - GO)",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/alphafm1021",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7651908c-689c-4887-82b7-9a0f03ad3148"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6e2a7432549eb3df30b2",
@@ -1404,25 +1203,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:03:45Z"
-  },
-  {
-    "id": "aws_22e271ca57907d3fc94e",
-    "stationId": "awb_3d4e69ecbe8302174a95",
-    "name": "Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)",
-    "country": "BR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bae11a44-8257-4896-9a0f-7077ff899d23"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_c0b33959c11eff582d36",
@@ -1539,25 +1319,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:42:40Z"
-  },
-  {
-    "id": "aws_2126506542d48d6985c9",
-    "stationId": "awb_d37021d7ce31451a9e68",
-    "name": "Antena 1 FM 103.7 Rio de Janeiro",
-    "country": "BR",
-    "url": "http://a1rj.streams.com.br:7801/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4534dd5f-b22a-11e8-afe1-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:51:38Z"
   },
   {
     "id": "aws_563715a17938bd6f339b",
@@ -1725,11 +1486,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1ea6b14f-a681-4af7-9bf2-5757af1df2b6",
       "db197ac4-8190-45d7-bb30-47a9bb6e990a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T00:32:06Z"
+    "lastCheckedAt": "2026-11-06T16:57:06Z"
   },
   {
     "id": "aws_13c27f73873bb92b3824",
@@ -1751,6 +1511,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:42:40Z"
+  },
+  {
+    "id": "aws_891519e4c88bf2b3d974",
+    "stationId": "awb_51220380a48b9c933eae",
+    "name": "Aputarado",
+    "country": "BR",
+    "url": "http://168.138.140.195:9000/nexo_dd232f4c93234c268c9492ed210e4925.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e3f7d1d6-fb81-433b-bb39-2b0a48153a18"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_f36f9a9e41fa19b1ae2b",
@@ -1823,11 +1602,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c94ac0e8-ec47-4b5b-9e53-1e20872412a4",
-      "fad018cc-8d56-423f-befb-77096edc2aad"
+      "c94ac0e8-ec47-4b5b-9e53-1e20872412a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
+    "lastCheckedAt": "2026-11-06T11:31:33Z"
   },
   {
     "id": "aws_c142191d317d4c336ff1",
@@ -1847,25 +1625,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:59:28Z"
-  },
-  {
-    "id": "aws_16f19569020c6a3e0498",
-    "stationId": "awb_aa6370828efe934a0dc9",
-    "name": "Atlântico Sul 105,7 FM",
-    "country": "BR",
-    "url": "https://streaming.livespanel.com:21057/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "85bf54d1-085d-4324-a73d-5e73dede7295"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:15:42Z"
   },
   {
     "id": "aws_8f9b4da561888ef652f8",
@@ -2130,11 +1889,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7379f99a-0f90-44a2-9f3c-fcc8fd9687a3",
-      "7a66305d-91cc-4274-a646-ff5179e3e6a1"
+      "7379f99a-0f90-44a2-9f3c-fcc8fd9687a3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
+    "lastCheckedAt": "2026-11-06T18:25:14Z"
   },
   {
     "id": "aws_e736bc8e9ab92c8929db",
@@ -2192,25 +1950,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:30:33Z"
-  },
-  {
-    "id": "aws_09833c36fed8da6b647d",
-    "stationId": "awb_e33c78f1f9ca3c3901f5",
-    "name": "BAVARIAN RADIO",
-    "country": "BR",
-    "url": "https://br.lucasmultimedia.com/stream.ogg",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8b71f4cf-04aa-4d88-a340-b1c1cdf6e4e4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
     "id": "aws_7cff7b94b3dfc4525c27",
@@ -2363,11 +2102,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24d6aeb2-4228-4d9d-b193-bd46811deb1f",
-      "99df3b8a-39d8-4b03-a6f4-05ace08aaa9f"
+      "24d6aeb2-4228-4d9d-b193-bd46811deb1f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_fb2ced63108a74fa5f98",
@@ -2462,8 +2200,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7ada8a81-5ae1-418c-8f18-51d2f38d86a4",
-      "BR:bossa-jazz-brasil"
+      "BR:bossa-jazz-brasil",
+      "b499e09d-301f-4519-9ca1-628474d7bf20"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:57:46Z"
@@ -2547,25 +2285,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:30:45Z"
-  },
-  {
-    "id": "aws_f024d27fe4360ee2e655",
-    "stationId": "awb_8e36a3ccda2f9fedacc5",
-    "name": "Brega Brasil",
-    "country": "BR",
-    "url": "https://stm8.painelcast.com:7024/stream",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d90af643-5638-48c3-a3b3-70843f2ded34"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
     "id": "aws_dc9097904fd84e266765",
@@ -2790,11 +2509,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e0ca9bcd-9b60-4733-9674-d2a88414e6da",
       "f749626f-ebb4-4dd3-adcd-b59af58bbc61"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
+    "lastCheckedAt": "2026-11-06T12:51:38Z"
   },
   {
     "id": "aws_05d0488f12593ae324eb",
@@ -2949,39 +2667,19 @@
     "lastCheckedAt": "2026-11-06T11:06:05Z"
   },
   {
-    "id": "aws_b81efe10539819a07c98",
-    "stationId": "awb_bf551dc41cbab278e802",
-    "name": "CBN MACEIÓ",
-    "country": "BR",
-    "url": "http://v3.directradios.com:8229/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e0ea2a1e-3590-11e9-8f31-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
     "id": "aws_6b0d8f448ed0ae7da53b",
     "stationId": "awb_3440cd32c772511b13f1",
     "name": "CBN Recife",
     "country": "BR",
     "url": "https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 3741,
+    "bitrate": 484,
     "protocol": "https",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "75cc8fdf-6cf1-4dfb-b90f-1ee693988ff8",
       "c9b3e557-2215-49d0-9997-2b5ba6f1deab"
     ],
     "lastCheckOk": true,
@@ -3125,25 +2823,6 @@
     "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
-    "id": "aws_f9057abee5b2b97c0d3b",
-    "stationId": "awb_013ec7eaa7e8eb98256e",
-    "name": "Charles Pitta dos Santos",
-    "country": "BR",
-    "url": "https://servidor40-3.brlogic.com:8004/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "410d08ba-77ba-4604-9b1e-3ebb11cbc82d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:37:20Z"
-  },
-  {
     "id": "aws_cd704fed2d866d62e84e",
     "stationId": "awb_c9373ac3866509f608e0",
     "name": "CIDADE 87,9 FM",
@@ -3239,25 +2918,6 @@
     "lastCheckedAt": "2026-11-07T00:16:43Z"
   },
   {
-    "id": "aws_346e1b14b216a87e3326",
-    "stationId": "awb_658afbc9c5bc09916b05",
-    "name": "Cidade FM NET",
-    "country": "BR",
-    "url": "https://08.stmip.net:8718/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5788fdfb-5ee0-49ad-b15b-b53ae2c68f7a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:27:04Z"
-  },
-  {
     "id": "aws_331eea84b6b5e8a1df7c",
     "stationId": "awb_8d77146e2071648a4e86",
     "name": "Cidade FM Tupaciguara",
@@ -3309,11 +2969,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4e265a9e-1f74-4269-b550-5510a56920f6",
       "ec7f9536-9cb2-4112-9f0a-b76c27bd3211"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:37:29Z"
+    "lastCheckedAt": "2026-11-06T19:05:52Z"
   },
   {
     "id": "aws_08675021ab54e89ad760",
@@ -3329,30 +2988,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "41d86fcc-9a21-4be0-8f5b-5d7dae5b1984",
       "c8e6ee21-69a6-4e6a-8131-e6df38f83134"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
-    "id": "aws_4a1d7deb24c4702be28f",
-    "stationId": "awb_279f8f8bc9be82a777d5",
-    "name": "Classic Pan Belo Horizonte",
-    "country": "BR",
-    "url": "https://8374.brasilstream.com.br/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2cf67bd0-4037-4c19-a51a-e52e0b8d17c6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:05Z"
+    "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
     "id": "aws_57e17fe5de23adb1fa1a",
@@ -3524,11 +3163,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "07b05c0b-a80b-4654-8e60-a6f8128a613d",
       "0cec73fd-1690-42ad-9269-0c2d6b390820"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:32:09Z"
+    "lastCheckedAt": "2026-11-06T07:14:37Z"
   },
   {
     "id": "aws_c260031f0b323337161c",
@@ -3833,11 +3471,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "64be3a17-ddc1-4a6a-a26b-6172c092786b",
-      "e899c4bf-21b2-4f95-9afe-f8fa83addc02"
+      "64be3a17-ddc1-4a6a-a26b-6172c092786b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:16Z"
+    "lastCheckedAt": "2026-11-06T07:08:32Z"
   },
   {
     "id": "aws_36af0e5b014e579e5740",
@@ -4030,25 +3667,6 @@
     "lastCheckedAt": "2026-11-08T04:24:14Z"
   },
   {
-    "id": "aws_4f3b6f3d27f0d1cb5052",
-    "stationId": "awb_d77ff5a06922b6c89a66",
-    "name": "Diário FM -Ribeirão Preto",
-    "country": "BR",
-    "url": "https://rrdns-megasistema.webnow.com.br/diario.aac?v=5499",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8786fdf7-a25b-45b1-a42d-47f2b27a7ea7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
     "id": "aws_698ac9b8e36e8529b95d",
     "stationId": "awb_cc35978c78218b246e35",
     "name": "Difusora 93,3 FM Maceió",
@@ -4144,25 +3762,6 @@
     "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
-    "id": "aws_747dacac4da6ea458631",
-    "stationId": "awb_b5c53e50f2fd526dfc36",
-    "name": "Digital FM 96.3",
-    "country": "BR",
-    "url": "https://8058.brasilstream.com.br/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7883f5ff-7977-4384-ba46-323b6d1c131c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:22Z"
-  },
-  {
     "id": "aws_3f8da268f5d7f06b6b58",
     "stationId": "awb_c38c78a55fb006777c95",
     "name": "Digital Jazz",
@@ -4220,25 +3819,6 @@
     "lastCheckedAt": "2026-11-07T00:07:05Z"
   },
   {
-    "id": "aws_b2f9234a99c0b6c8e992",
-    "stationId": "awb_12d81f99be7b9492f90a",
-    "name": "Diplomata-FM",
-    "country": "BR",
-    "url": "http://srv01.brasilstream.com.br:9512/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2dd3edfc-24ca-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
-  },
-  {
     "id": "aws_20249a776aeb944e8da7",
     "stationId": "awb_b7073df3759a44987c73",
     "name": "Disco Music Radio",
@@ -4292,8 +3872,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7350f94c-a369-4f27-aa4a-1b9ebea2a87f",
-      "7b6a1d7e-d056-46d7-bde6-948783182abd"
+      "7350f94c-a369-4f27-aa4a-1b9ebea2a87f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:37:23Z"
@@ -4375,25 +3954,6 @@
     "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
-    "id": "aws_a3431354c875e56a3537",
-    "stationId": "awb_8e1e28bfbb8b66e08098",
-    "name": "edmilson de jesus novais",
-    "country": "BR",
-    "url": "https://s10.maxcast.com.br:8304/live",
-    "codec": "mp3",
-    "bitrate": 112,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f845e21-24bb-467d-b5c0-f5a2717e559b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
-  },
-  {
     "id": "aws_b61eb34005a6e8936c51",
     "stationId": "awb_23de5e10dfbeb3f7cc16",
     "name": "Educadora FM Bahia- 107.5 fm",
@@ -4411,25 +3971,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:11:07Z"
-  },
-  {
-    "id": "aws_758e167d57cb9ad41e0d",
-    "stationId": "awb_6445094396b3e1979c82",
-    "name": "Educadora FM Campinas 91.7",
-    "country": "BR",
-    "url": "https://stm22.xcast.com.br:11282/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "24e1cc35-e8bb-4eef-9cf4-56227e8e17e8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_23ea49d9ac73271b0d8c",
@@ -4468,44 +4009,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:12:07Z"
-  },
-  {
-    "id": "aws_c9385f3ee1f63b575c75",
-    "stationId": "awb_fd8205f606fa3ba729c8",
-    "name": "Educativa FM Maceió",
-    "country": "BR",
-    "url": "https://radio.saopaulo01.com.br/9370/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "87c18c1c-a397-4e30-94f3-073c58e745f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
-    "id": "aws_8b46f85a437fb7b25378",
-    "stationId": "awb_bf0931c0bbed11fa6ae8",
-    "name": "Educativa Inatel",
-    "country": "BR",
-    "url": "https://educativainatel.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a33e8f9a-1bf4-43d5-a374-6391db01d42e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
   },
   {
     "id": "aws_229623a33136ff2a8ab8",
@@ -4675,8 +4178,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "891e8b33-7af8-470f-b298-3d1d02cbb090",
-      "e813d0dd-b35b-4780-8afc-c430af856886"
+      "891e8b33-7af8-470f-b298-3d1d02cbb090"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:25:44Z"
@@ -4809,11 +4311,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "37f032e6-1695-444f-a57e-43705bc33ee1",
       "fccab674-11ac-4669-8a9e-95c31407a8a5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_5a3634312bbf50c755ae",
@@ -4829,11 +4330,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "f0ba63f6-43e7-4fcc-8db7-d62f731fa88f",
-      "f20ff360-75f7-4288-8f2b-a8b939f8c77a"
+      "f0ba63f6-43e7-4fcc-8db7-d62f731fa88f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:45:34Z"
+    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_ad109f6ad1c3f95d6e34",
@@ -4910,25 +4410,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:43:29Z"
-  },
-  {
-    "id": "aws_615efb34b1a8aac2ac7f",
-    "stationId": "awb_90b13ed1e58684aed146",
-    "name": "Estilo FM Litoral 93.3 Mhz (Cubatão - SP) (ZYU943)",
-    "country": "BR",
-    "url": "https://cloud1.cdnseguro.com:20492/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a8e3ff95-272d-47d4-b5db-a2f2723abb5f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:11Z"
   },
   {
     "id": "aws_7aebad039238ccfb61a8",
@@ -5020,49 +4501,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2b99061b-1630-4760-ba22-449bc1bf1053",
-      "65a13604-d894-48dd-a240-e5611619c3e6"
+      "2b99061b-1630-4760-ba22-449bc1bf1053"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
+    "lastCheckedAt": "2026-11-06T04:18:23Z"
   },
   {
-    "id": "aws_b7f9ecf174a4f6bc5914",
-    "stationId": "awb_cbb9557b439a5c818c41",
-    "name": "Feliz FM",
+    "id": "aws_0dc80dc33c3c0ef76a47",
+    "stationId": "awb_da845d51217eb5da5057",
+    "name": "Felina",
     "country": "BR",
-    "url": "https://cloud1.cdnseguro.com:5520/;stream.mp3",
-    "codec": "aac+",
-    "bitrate": 32,
+    "url": "https://cp-1.owh.radio.br/listen/owh_s35466/radio-mp3",
+    "codec": "aac",
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "ab0a4ff7-61d1-481b-9961-9a6cb4610bfa"
+      "d70d1d9c-d60f-4abb-87ad-064f1bd4dd3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:03:32Z"
-  },
-  {
-    "id": "aws_59fa0888fa2c875f3d5e",
-    "stationId": "awb_78a7eb57113fb3521ddc",
-    "name": "Fema FM Santa Rosa",
-    "country": "BR",
-    "url": "https://servidor27-2.brlogic.com:8196/live?source=website",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "737ad5fc-a9f6-4244-9b7e-66463a551548"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_a41d675ecb2509f987ab",
@@ -5354,25 +4815,6 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
-    "id": "aws_fd22a5a88cc15ae2c5a4",
-    "stationId": "awb_0975604468831d2692ee",
-    "name": "FM93 Fortaleza",
-    "country": "BR",
-    "url": "http://zoeweb.net:8176/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5c3dafa-079d-44fa-84db-f1352f458a67"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:22:06Z"
-  },
-  {
     "id": "aws_f5a63b6573e84d952bde",
     "stationId": "awb_d367e7ce07f0027848ae",
     "name": "Fofinho Rock Club",
@@ -5557,30 +4999,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "20753d5e-a032-466e-8ea6-c02dc83e4491",
       "57d45096-6610-40ba-84c5-16929cf139c5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
-    "id": "aws_14463ee576a2ed956446",
-    "stationId": "awb_f4372dd5b630f3d54d32",
-    "name": "Gaúcha",
-    "country": "BR",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 1000,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "46d02cdb-49a6-11e9-a4d7-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_fffd8154f3facf25d8ac",
@@ -5615,11 +5037,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "02009a93-fb98-40cc-bce8-203fb239f372",
       "1396520b-9c83-4a79-ba2e-599e6d7a37a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:37:30Z"
+    "lastCheckedAt": "2026-11-06T13:15:15Z"
   },
   {
     "id": "aws_47f663e5eac7019a59c0",
@@ -5755,44 +5176,6 @@
     "lastCheckedAt": "2026-11-05T23:31:17Z"
   },
   {
-    "id": "aws_c769821848467752a3cc",
-    "stationId": "awb_390a9fb29e7908baaabd",
-    "name": "GFM 90.1 MHz (Salvador - BA)",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/radiogfm",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b645ffbd-f6c6-4de7-90c3-d927bfb139a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:29:34Z"
-  },
-  {
-    "id": "aws_4b17eeaacc28e3120607",
-    "stationId": "awb_f7f395399ca2b1cb46e5",
-    "name": "GFM Salvador",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/radiogfm",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "11ba94f2-fcd0-441e-ad30-4d29335d5715"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:59:35Z"
-  },
-  {
     "id": "aws_3635ae04ca8874cc6367",
     "stationId": "awb_4c850056d5bd08b24245",
     "name": "GFM Salvador Bahia FM 90.1",
@@ -5803,15 +5186,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2c3bf58f-fd12-4e93-bcde-4d7f1899faf1",
       "BR:gfm-salvador-bahia-fm-90-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_34902538c1e25a739c2b",
@@ -5850,25 +5231,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:15:33Z"
-  },
-  {
-    "id": "aws_557364fa01ec3ea0cfcc",
-    "stationId": "awb_920d1de529077fbcfd25",
-    "name": "GOIOERE FM 97,5",
-    "country": "BR",
-    "url": "https://8727.omegastreaming.com.br/stream?",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d6d40afc-f293-43b4-8b12-072ff1f6610f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
     "id": "aws_344c891d98e1d36fc5ed",
@@ -6071,15 +5433,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9f0466be-b6b0-4f7c-baff-f64555494804",
       "BR:groove-wave-lounge"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:27:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_da39bf353a9f78707e1d",
@@ -6250,11 +5610,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0b3ea1b5-5231-42d8-8604-698481cf7716",
+      "561d36aa-3dd2-48a4-8ef2-337b71ce2395",
       "BR:hunter-fm-master"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:36:05Z"
+    "lastCheckedAt": "2026-11-06T06:11:27Z"
   },
   {
     "id": "aws_6e58979ce0be4ba218d3",
@@ -6276,26 +5636,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:04:18Z"
-  },
-  {
-    "id": "aws_f95e6477c55cfcbe4a93",
-    "stationId": "awb_f063188fd5be7309f099",
-    "name": "Hunter.FM - O Canal Master",
-    "country": "BR",
-    "url": "https://live.hunter.fm/master_normal",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42020b56-ec8a-4d67-993b-aa2a4aa47b52",
-      "622178e5-affd-435d-ae92-a332bec53328"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_4c10e3ac4db86e4e7246",
@@ -6330,8 +5670,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b0284305-6059-4092-ade2-8d3db64b2269",
-      "db1e3b4b-cad7-4832-a76b-0e4fbb0814a7"
+      "b0284305-6059-4092-ade2-8d3db64b2269"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:22:05Z"
@@ -6372,7 +5711,7 @@
       "d432e55b-e425-406e-bcff-b1e252b99c5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_30f5cbbdc964cfeda6d6",
@@ -6407,7 +5746,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5008eff6-2ad8-4b72-8d08-ea92b316abbe",
       "e44b3091-c21e-435a-aaef-88bbbe2a6ce5"
     ],
     "lastCheckOk": true,
@@ -6427,11 +5765,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4ecb4835-0489-4ac3-b6a7-ce8cf0530a72",
       "a7c9d8fc-2100-42f3-a08b-2e8469966b62"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
+    "lastCheckedAt": "2026-11-06T07:24:28Z"
   },
   {
     "id": "aws_18bff11aeca62845410c",
@@ -6531,25 +5868,6 @@
     "lastCheckedAt": "2026-11-07T02:12:07Z"
   },
   {
-    "id": "aws_6daa240363b244b2f0d3",
-    "stationId": "awb_8d69a983f86b0a4359f5",
-    "name": "Imperial FM",
-    "country": "BR",
-    "url": "http://elle.martinspier.io/hls/imperial.m3u8",
-    "codec": "mp4",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "84723061-7f45-4ac6-b724-06eb68fdccfe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:56:51Z"
-  },
-  {
     "id": "aws_a1c526f53944eac0c5dc",
     "stationId": "awb_d024e710000dee2acc91",
     "name": "Imperial FM 104.5",
@@ -6640,8 +5958,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "982497ba-0b80-4597-9ea0-f9789ea6d5ef",
-      "BR:instrumentales"
+      "BR:instrumentales",
+      "ac7f60d4-3c41-4479-b6ad-d33e23d1470b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:44:19Z"
@@ -6837,25 +6155,6 @@
     "lastCheckedAt": "2026-11-06T14:19:22Z"
   },
   {
-    "id": "aws_839ec1ab66d8c01880ce",
-    "stationId": "awb_227a91eaf85486b27b2a",
-    "name": "Jangadeiro 88,9 FM",
-    "country": "BR",
-    "url": "https://stream.zeno.fm/xuh02vfzurhvv",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2e198067-cdd3-4fbc-b673-7be52078b9d1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:05:50Z"
-  },
-  {
     "id": "aws_c95f4c550374011cb558",
     "stationId": "awb_d93c702a48662a9d45d8",
     "name": "Jaraguá FM 101.3",
@@ -6892,25 +6191,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:12:30Z"
-  },
-  {
-    "id": "aws_18c4e43d3ae79e7bdcbf",
-    "stationId": "awb_8c35ae181a43f8ce2389",
-    "name": "JB FM",
-    "country": "BR",
-    "url": "http://26683.live.streamtheworld.com:3690/JBFMAAC_SC",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8cf1083b-a326-11e8-abb8-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:29:19Z"
   },
   {
     "id": "aws_25efdecce850a84d0039",
@@ -7124,25 +6404,6 @@
     "lastCheckedAt": "2026-11-06T13:00:38Z"
   },
   {
-    "id": "aws_c05d5ea8882e995d7abe",
-    "stationId": "awb_40391defa86906c9805a",
-    "name": "Jovem pan 107,3 FM Varginha",
-    "country": "BR",
-    "url": "https://8374.brasilstream.com.br/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "887b43d8-0a6c-4d8d-a1a9-4b29eae70482"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
     "id": "aws_12280642b07278574a9c",
     "stationId": "awb_a14e36b9f3bacd9f01ed",
     "name": "Jovem pan 107,5 FM Belém",
@@ -7194,11 +6455,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "85b7aaec-e1b3-4dc1-a5e7-9572521c6c8b",
-      "d30095ac-2d10-4b67-98e7-d31039d3ec6f"
+      "85b7aaec-e1b3-4dc1-a5e7-9572521c6c8b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
+    "lastCheckedAt": "2026-11-06T10:13:37Z"
   },
   {
     "id": "aws_7811942191520b07759c",
@@ -7417,20 +6677,18 @@
     "name": "Jovem Pan FM - Brasília - DF - 106.3",
     "country": "BR",
     "url": "https://shout25.crossradio.com.br:18022/1",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "77c0088f-9ae7-4bd3-a1de-edfc17f5ce86",
       "BR:jovem-pan-fm-brasilia-df-106-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_47c1db9f7ea771529001",
@@ -7464,15 +6722,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "08bf2055-7509-4367-931a-a7d381b9473e",
       "BR:jovem-pan-fm-manaus-am-104-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:01:50Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c1e419a5c1ca04e0a910",
@@ -7518,39 +6774,18 @@
     "name": "Jovem Pan FM - Salvador - BA - 91.3",
     "country": "BR",
     "url": "https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1ffa43f3-40e6-4ca5-b42c-bbc9c5f0e708",
       "BR:jovem-pan-fm-salvador-ba-91-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:55:20Z"
-  },
-  {
-    "id": "aws_d0a1eafe71daf79f6e2c",
-    "stationId": "awb_8d7c9c16c039cd5bca74",
-    "name": "Jovem Pan FM - Sorocaba 91.1",
-    "country": "BR",
-    "url": "https://cast2.hoost.com.br:8039/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fd792bab-3d55-4396-9c5d-81e122eb5edd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_498a358ec28fffb912b2",
@@ -7610,25 +6845,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:45:34Z"
-  },
-  {
-    "id": "aws_2940899b5fcec2003460",
-    "stationId": "awb_43160b57221f7226f27c",
-    "name": "Jovem Pan FM Recife",
-    "country": "BR",
-    "url": "https://cast4.audiostream.com.br:20004/jp95",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c92b8dc-b302-4920-bdec-1229a8e8daa8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
     "id": "aws_139b982bdc736e70659f",
@@ -7796,11 +7012,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "56bc3c1f-ca97-49f6-a212-e047dda93239",
-      "ca3263e7-7987-449a-80ae-047e1bc232a7"
+      "56bc3c1f-ca97-49f6-a212-e047dda93239"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:45:22Z"
+    "lastCheckedAt": "2026-11-06T10:42:38Z"
   },
   {
     "id": "aws_c0212126d89072651387",
@@ -7819,7 +7034,7 @@
       "d120661b-8bc4-4e4b-a910-b6363fc58ccc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_2010b7fe0924d5be8793",
@@ -7976,25 +7191,6 @@
     "lastCheckedAt": "2026-11-06T06:36:05Z"
   },
   {
-    "id": "aws_f19f6dacf0c78186a85c",
-    "stationId": "awb_497b7076936412fd7e0b",
-    "name": "Liberdade",
-    "country": "BR",
-    "url": "http://cast4.audiostream.com.br:8655/mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b85b9503-904d-49c3-959c-5e82df779d1f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
-  },
-  {
     "id": "aws_4126556c72fe0f9033cb",
     "stationId": "awb_57f146e564b3eb804976",
     "name": "Liberdade (Porto Alegre)",
@@ -8031,25 +7227,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:44:59Z"
-  },
-  {
-    "id": "aws_676a539ef7153f3c50ed",
-    "stationId": "awb_0e9420d9320c4cccdc49",
-    "name": "Lider FM 98.3 (Rio Preto)",
-    "country": "BR",
-    "url": "https://centova2.svdns.com.br:20029/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "26f74f22-69dd-4416-a633-65647e015818"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_0a156fda899d730e4962",
@@ -8279,7 +7456,7 @@
       "3560e702-faaa-4b32-8193-d6ac5994649d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_d9346eb296b0328d935a",
@@ -8333,11 +7510,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5a20ac2a-fd85-4495-b88e-024456e43c47",
-      "f64c0687-b2aa-426e-a578-69f644b9ba90"
+      "ba3cbcbf-125e-478d-aadb-c34dd6167112"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_e04f7c8543ab8a9cb6f0",
@@ -8802,25 +7978,6 @@
     "lastCheckedAt": "2026-11-06T02:26:30Z"
   },
   {
-    "id": "aws_7a9d28aa937fd01d66cf",
-    "stationId": "awb_01c09b10aae0aba2e0c6",
-    "name": "Meio Norte",
-    "country": "BR",
-    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "81cfa0e4-5b41-4714-a792-a7fdf6add23a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:05Z"
-  },
-  {
     "id": "aws_bf8614a91bb02494e721",
     "stationId": "awb_9ca062a24d594bc07eac",
     "name": "Meio Norte FM 96.7",
@@ -8893,30 +8050,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "547c5b79-9f71-4fd0-8f10-1ad3ca038451",
-      "8c835fae-31b7-4867-a910-2da580a0217a"
+      "547c5b79-9f71-4fd0-8f10-1ad3ca038451"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:30:33Z"
-  },
-  {
-    "id": "aws_407523f029fd2198c719",
-    "stationId": "awb_ed6e248623c2ce32068a",
-    "name": "Melody 94.1",
-    "country": "BR",
-    "url": "https://sc4s.cdn.upx.com:8080/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "13af9d39-0f7d-4bbb-a0d6-9b50766e59d2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:37:23Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_c150ea7df8f8ee56e382",
@@ -8936,25 +8073,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_4b3fb5c9c3dc31468953",
-    "stationId": "awb_5128d0ebd5151626759c",
-    "name": "Melody FM - Brasil",
-    "country": "BR",
-    "url": "https://sc4s.cdn.upx.com:8080/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "44a3af12-3436-477e-9e23-1f6f6866f800"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
     "id": "aws_33ae68e4c85b90d0c653",
@@ -9153,25 +8271,6 @@
     "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
-    "id": "aws_911d088fb7058205f771",
-    "stationId": "awb_453e166807f84e07946f",
-    "name": "MGT BRASIL HITS",
-    "country": "BR",
-    "url": "https://cast.mgtradio.net/radio/8010/aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ec78e38-9deb-4c9a-8db6-97211d0dd1af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:24:28Z"
-  },
-  {
     "id": "aws_158eea3d1216733dfe12",
     "stationId": "awb_453e166807f84e07946f",
     "name": "MGT BRASIL HITS",
@@ -9208,25 +8307,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
-    "id": "aws_4c0b6445fe2249e51dc1",
-    "stationId": "awb_3e56934c8c9c08a77913",
-    "name": "MGT CLÁSSICOS SERTANEJOS",
-    "country": "BR",
-    "url": "https://cast.mgtradio.net/radio/8000/aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7243de27-598a-4d88-8028-533da5a20d40"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
   },
   {
     "id": "aws_b4a01f5fc44a21f0fa28",
@@ -9375,20 +8455,18 @@
     "name": "MGT SERTANEJO UNIVERSITÁRIO",
     "country": "BR",
     "url": "https://cast.mgtradio.net/radio/8020/aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0bceb6bd-da64-4225-b027-6a12e8c69ffd",
       "BR:mgt-sertanejo-universitario"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_02a5610f149823b9250c",
@@ -9431,25 +8509,6 @@
     "lastCheckedAt": "2026-11-06T15:44:52Z"
   },
   {
-    "id": "aws_b3f14ba5718be2ae97c9",
-    "stationId": "awb_f531b3cc2de4398bf18c",
-    "name": "Mistura Certa",
-    "country": "BR",
-    "url": "https://stm16.xcast.com.br:9496/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a7382034-c295-491f-ac24-851de29a8801"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:55:24Z"
-  },
-  {
     "id": "aws_75cd988a8222dcd2e649",
     "stationId": "awb_c968d8dca1d6fdf9eaaa",
     "name": "Mix FM - Porto Alegre",
@@ -9490,25 +8549,6 @@
     "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
-    "id": "aws_b10a61df76144a115a89",
-    "stationId": "awb_af888abc5a133fe743e7",
-    "name": "Mix FM São Paulo",
-    "country": "BR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5c994a5-9a9b-4075-a557-702437956646"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:38:44Z"
-  },
-  {
     "id": "aws_0c678bfa856f8af5e960",
     "stationId": "awb_09fe16a3734ab9201266",
     "name": "Mix Fm Teresina",
@@ -9522,7 +8562,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13b213ed-ae5d-4a54-af07-53f5814411f7",
       "4afd3392-e88a-4675-a10d-9e3c3a466cec"
     ],
     "lastCheckOk": true,
@@ -9949,11 +8988,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "799c16c7-74b1-49f6-ba60-7b16e80d5cb9",
       "8ee67b0d-757c-4adc-83db-5ab5e26ba2b7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:31:00Z"
+    "lastCheckedAt": "2026-11-06T02:45:20Z"
   },
   {
     "id": "aws_b03fc505a4ad449dee94",
@@ -10053,25 +9091,6 @@
     "lastCheckedAt": "2026-11-06T20:59:49Z"
   },
   {
-    "id": "aws_6304b17a9d44859bf870",
-    "stationId": "awb_24655b56df9d5dc0306a",
-    "name": "Musical FM 105.7",
-    "country": "BR",
-    "url": "https://9176.brasilstream.com.br/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8e031e7a-9e17-44d1-a2e1-ccdb3e830eb5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
-  },
-  {
     "id": "aws_4cbb1291e9eb029d2c40",
     "stationId": "awb_667bfbf9c3c8133e1c9f",
     "name": "musical fm 2",
@@ -10163,11 +9182,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3630e4a3-c1b5-46f1-b828-3cadc072427f",
-      "a2fe33ce-061e-478e-ad9a-c1b348f57b1b"
+      "3630e4a3-c1b5-46f1-b828-3cadc072427f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T05:24:33Z"
+    "lastCheckedAt": "2026-11-07T00:37:13Z"
   },
   {
     "id": "aws_b5f0310a7994fb897a88",
@@ -10605,10 +9623,10 @@
     ],
     "sourceIds": [
       "BR:nova-brasil-fm-sao-paulo",
-      "ce5aac6c-e499-4714-a28b-a1a94baa1b74"
+      "b6302b14-baca-463a-b984-7024a950a099"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:15:39Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_23e5479a5a530be07730",
@@ -10616,20 +9634,18 @@
     "name": "Nova Brasil RJ 89.5",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:nova-brasil-rj-89-5",
-      "cd2aedbd-acca-453b-a7cb-b1d6075dfd22"
+      "BR:nova-brasil-rj-89-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:18:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_08bb5d94bb7b613a7001",
@@ -10861,7 +9877,7 @@
       "bef94f60-f423-40f7-b48d-9f584b834e78"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_ed7d627071e161d431ec",
@@ -10877,8 +9893,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7c1cc836-6e47-4675-beb4-ee8ca29f04e0",
-      "c32673b7-7ab4-4c84-b53a-a2df17afe6d6"
+      "7c1cc836-6e47-4675-beb4-ee8ca29f04e0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:56:40Z"
@@ -10897,11 +9912,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "516ca290-28b5-4da4-aae0-3991276e8b37",
       "57b45695-ff27-49ae-8b94-6dead00e6bc8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
+    "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
     "id": "aws_a60155bef73e399c6871",
@@ -10974,8 +9988,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0dfa77bf-fc81-4ed8-9994-744bf8d7cc7e",
-      "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
+      "0dfa77bf-fc81-4ed8-9994-744bf8d7cc7e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T00:32:06Z"
@@ -11013,8 +10026,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7e488beb-f62c-44ba-9ef5-d12a229ef510",
-      "8699277a-34e6-4954-a76a-76d588b03254"
+      "7e488beb-f62c-44ba-9ef5-d12a229ef510"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T04:42:11Z"
@@ -11056,25 +10068,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:54:00Z"
-  },
-  {
-    "id": "aws_dab222e7b2552dfc3b76",
-    "stationId": "awb_da99367ad1589b7df46e",
-    "name": "Ouvindo a Bilbia",
-    "country": "BR",
-    "url": "http://v3.directradios.com:8235/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "61ce9de7-6d67-4bad-bd00-11ec8db1da48"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
     "id": "aws_1a2c88764ffdc0f4f733",
@@ -11229,6 +10222,25 @@
     "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
+    "id": "aws_46c503d1b34358ddc181",
+    "stationId": "awb_2efcf5e972c00708d0d8",
+    "name": "Phonkio Radio",
+    "country": "BR",
+    "url": "https://stream.phonkioradio.com/listen/phonkio_radio/radio.mp3",
+    "codec": "aac",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a3cfc26f-09ec-405b-b2ba-76354cc5f912"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
+  },
+  {
     "id": "aws_445528da0b6c711358a0",
     "stationId": "awb_270bf98a7d7f7ef7f5b3",
     "name": "Phonkio Radio | OG Phonk in HQ 24/7",
@@ -11239,15 +10251,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2e08b243-5013-4667-a388-ec08c2ef70aa",
       "BR:phonkio-radio-og-phonk-in-hq-24-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:42:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_fa85e3c37f84e1777d40",
@@ -11860,25 +10870,6 @@
     "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
-    "id": "aws_d1d9b9755ec060aded2e",
-    "stationId": "awb_fdee6bf4da74adf41ee2",
-    "name": "Radio 019",
-    "country": "BR",
-    "url": "https://radio.app019.com/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "00b44e6a-e45d-4a37-a158-e01b993dc901"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:42:28Z"
-  },
-  {
     "id": "aws_6fa0c76df63e7148ea9f",
     "stationId": "awb_7d0bf2e2e09af27cbba5",
     "name": "Radio 1 Classe",
@@ -11915,25 +10906,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:44:57Z"
-  },
-  {
-    "id": "aws_15eef57fe1f577781cad",
-    "stationId": "awb_c40c82923eea19873142",
-    "name": "Radio 104 FM",
-    "country": "BR",
-    "url": "https://cast4.audiostream.com.br:2651/mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05741dea-e94f-4f0c-9a54-4701005b0a05"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
   },
   {
     "id": "aws_2c0c7d1c594f5e5d03ff",
@@ -12158,30 +11130,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b2d88171-0a82-4940-a059-bc21ef4d0fbb",
-      "cf11fdab-e7f9-4c0d-ac09-b55743510978"
+      "b2d88171-0a82-4940-a059-bc21ef4d0fbb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:11:51Z"
-  },
-  {
-    "id": "aws_42a193b7716a23e1d780",
-    "stationId": "awb_7f3ae3bd1332d512b5a6",
-    "name": "Rádio 80FM - I Love 80s",
-    "country": "BR",
-    "url": "http://104.247.221.130:9020/stream1",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "35dff0d5-b74c-4607-b240-dad44900b9d2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_465e57534afc5cfd4b37",
@@ -12197,11 +11149,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "51934ab2-c15b-489b-b411-0767cf7ee590",
       "5b4029cc-f604-4162-9ff9-841a65aa6d1d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
+    "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
     "id": "aws_72ef1f1f2a8e483791c8",
@@ -12431,7 +11382,7 @@
       "48c11d12-5a09-4534-9ce6-363b24f49334"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_519595b5beec142b30c7",
@@ -12447,7 +11398,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "92c6557b-1953-433e-a3ed-cce8d34aaadb",
       "f0c8aebd-babe-40a7-b2e0-1738293de0c9"
     ],
     "lastCheckOk": true,
@@ -12678,8 +11628,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "65258b9a-a1b7-44eb-a99f-a2a1a9e9d22b",
-      "6ff76a37-f778-452f-ad2c-ddf799d9c5f7"
+      "f97813f8-749a-4ab0-8a85-02ceed5734ed"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:10:05Z"
@@ -12740,25 +11689,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:38:27Z"
-  },
-  {
-    "id": "aws_41cac7262ce132a8b360",
-    "stationId": "awb_35a05a9ecebf3664f5c1",
-    "name": "Rádio Alpha 102.1 FM Goiânia / GO - Brasil",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/alphafm1021",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6443cf6c-2483-4c1b-b407-11ef4721eb34"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
     "id": "aws_581b57c06b377f9f4618",
@@ -12856,25 +11786,6 @@
     "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
-    "id": "aws_60f50fa14cb66edfbfce",
-    "stationId": "awb_be4b48c135ee4004f033",
-    "name": "Radio Alvorada 94.9 FM",
-    "country": "BR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31ea3244-7685-423c-9e18-bad7acf950c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:55:24Z"
-  },
-  {
     "id": "aws_d99a56c83f8a91c0ade7",
     "stationId": "awb_9a29690c6aeac01b0eef",
     "name": "Rádio AM News",
@@ -12968,44 +11879,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:03:32Z"
-  },
-  {
-    "id": "aws_e96fcf1ec5b41cd416b7",
-    "stationId": "awb_829e38ea10d765fdf5fb",
-    "name": "Radio Amigos da MPB",
-    "country": "BR",
-    "url": "http://stm4.voxhd.com.br:7086/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70e5243b-507f-442b-a2d8-8137dacf97fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
-  },
-  {
-    "id": "aws_e956853896fb7c99555a",
-    "stationId": "awb_31dd02b93d5af61e581b",
-    "name": "Radio Amigos do Flashback",
-    "country": "BR",
-    "url": "http://stm4.voxhd.com.br:7086/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e50968d3-e509-4630-bf17-93d70b471ba2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:02:34Z"
   },
   {
     "id": "aws_ac53fbb578033108241f",
@@ -13120,44 +11993,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
-    "id": "aws_18d14812b95715a50afd",
-    "stationId": "awb_7cbf0e8bb22de29144e1",
-    "name": "Rádio Amigos do Sertanejo",
-    "country": "BR",
-    "url": "https://stm10.voxhd.com.br:7846/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "551809da-6ea1-4d15-8d06-5a1e134ccd0e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
-  },
-  {
-    "id": "aws_71a97769b40142c29952",
-    "stationId": "awb_cad3b2afb0326d059580",
-    "name": "Radio Amigos do Sertanejo",
-    "country": "BR",
-    "url": "https://stm10.voxhd.com.br:7846/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "75d4a047-57f6-4717-bb36-600c9f2d1ac3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
   },
   {
     "id": "aws_82c67c176a4786d5916d",
@@ -13293,44 +12128,23 @@
     "lastCheckedAt": "2026-11-06T16:56:19Z"
   },
   {
-    "id": "aws_501a33221ab29e6f10bb",
-    "stationId": "awb_a5871a31ee8efd7ebc90",
-    "name": "Rádio Antena 1 88.3 FM",
-    "country": "BR",
-    "url": "https://antenaone.crossradio.com.br/stream/1;",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1264c0bb-a2c3-41d2-8c47-903e91539802"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:53:00Z"
-  },
-  {
     "id": "aws_c2aa5b736b7d4fcff277",
     "stationId": "awb_00713454270d281907a5",
     "name": "Rádio Antena 1 94.7 FM",
     "country": "BR",
     "url": "https://antenaone.crossradio.com.br/stream/1;",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "570cc99a-9159-4d91-9a8f-96ddb5b30797",
       "BR:radio-antena-1-94-7-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_bc8cd197845803669ecc",
@@ -13499,7 +12313,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13375421-d98f-4cfe-884c-e46973e90943",
       "aeae9162-babb-4c40-8e08-ce22dbbf08fe"
     ],
     "lastCheckOk": true,
@@ -13542,25 +12355,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:07:05Z"
-  },
-  {
-    "id": "aws_d9f234b6ac4d7efe96bd",
-    "stationId": "awb_492c86d60227b8217116",
-    "name": "Rádio Atlântida 100.9 FM - Florianópolis - SC",
-    "country": "BR",
-    "url": "https://27393.live.streamtheworld.com/ATL_FLO.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "25f1c87a-0aea-4fa8-9287-0e7c8346f6c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
     "id": "aws_ae03cdc2e6227b6f7a7d",
@@ -13955,53 +12749,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "15fe7749-d688-4d38-8a05-4a2275ce5887",
       "BR:radio-bbn-92-3-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
-    "id": "aws_68f160c757f52beab436",
-    "stationId": "awb_c33073ed2065051086ba",
-    "name": "Rádio BBN 93.5 FM",
-    "country": "BR",
-    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0a5d2b65-6a31-40b2-b577-ba462db52517"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
-  },
-  {
-    "id": "aws_052c4ec0fea5e2d7f790",
-    "stationId": "awb_20fe5cbae23da100645e",
-    "name": "Rádio BBN 94.7 FM",
-    "country": "BR",
-    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7129dc48-853d-465c-a179-f429141694e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:37:13Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_41deb9910f16e607efc5",
@@ -14131,11 +12885,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "27a42493-5783-49d3-a46e-781da7d995a8",
       "a58764d7-08ae-4bcc-983f-2fefe1ac9117"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
+    "lastCheckedAt": "2026-11-06T09:33:08Z"
   },
   {
     "id": "aws_5931f808f2910d139fff",
@@ -14381,11 +13134,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3c1d95a5-b477-11e8-afe1-52543be04c81",
-      "6351eff4-0594-48a8-b480-5136e4a95881"
+      "7c218c39-32be-453b-b4c7-7bc1f5303d0a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_d5799eb274920025a4b0",
@@ -14439,10 +13191,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8425dde9-066d-4686-b2fa-82d87ecd3ddf"
+      "d4680e9c-acee-4a42-a1c1-30a0273c11be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:02:29Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_436c8d7b3d3eeb79beb3",
@@ -14517,30 +13269,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1b575746-d639-45f9-b4b7-07b8d82b70f9",
-      "29ca7136-4747-4dcf-92db-69ad65e2182b"
+      "1b575746-d639-45f9-b4b7-07b8d82b70f9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:15:31Z"
-  },
-  {
-    "id": "aws_aaeaf9b081d8e32c05a2",
-    "stationId": "awb_549d6b1bb7619d59e7b2",
-    "name": "Rádio C",
-    "country": "BR",
-    "url": "https://stm5.painelcast.com:7578/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5c60264-6f50-4f33-be0f-c86abc5186c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
+    "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
     "id": "aws_b1090f10046acc5aac3e",
@@ -14556,7 +13288,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "52b3c720-f54d-411e-9527-34eaeb17d66f",
       "957d2279-163b-4974-96c9-038499ec4886"
     ],
     "lastCheckOk": true,
@@ -14920,11 +13651,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "08c8f693-71c7-4d98-92c8-9856a8d6b67d",
       "2d632e1b-346b-43f7-9acf-fae672c7c6e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:51:27Z"
+    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_2d0731b18d2c50a7e376",
@@ -15013,15 +13743,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:radio-cbn-vale-750-am",
-      "bbd8df92-6a8d-476b-b611-cf65ae1e5169"
+      "BR:radio-cbn-vale-750-am"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_63624936a7cc122595eb",
@@ -15081,25 +13809,6 @@
     "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
-    "id": "aws_09ddf0778267faca6a36",
-    "stationId": "awb_250b3ea87253303e2973",
-    "name": "Rádio Centro América 101.5 FM",
-    "country": "BR",
-    "url": "https://centova.svdns.com.br:20111/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4bbf411c-7844-41b3-b290-64561bc8465c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
     "id": "aws_d111e27d2abe9d488490",
     "stationId": "awb_0198a22dac83abd3140b",
     "name": "Radio CGB",
@@ -15151,7 +13860,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8e42e00b-3bb6-4568-b2a7-72311a0b1650",
       "e020677b-ad8f-409f-a9d5-2a4592a69faa"
     ],
     "lastCheckOk": true,
@@ -15190,11 +13898,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7a98ebd8-d4ad-48f7-841e-cea275a256d6",
       "9ab23180-17de-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
+    "lastCheckedAt": "2026-11-06T04:21:14Z"
   },
   {
     "id": "aws_55cde2995a0d2e84ff41",
@@ -15268,8 +13975,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "06da0d92-28c2-11e9-a80b-52543be04c81",
-      "BR:radio-cidade-rio-de-janeiro-102-9-fm-zyd462"
+      "BR:radio-cidade-rio-de-janeiro-102-9-fm-zyd462",
+      "c9083bcc-87a2-4703-b0c0-d73d74f3e2a8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:09:30Z"
@@ -15292,6 +13999,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:39:18Z"
+  },
+  {
+    "id": "aws_a8456983c46ebd321451",
+    "stationId": "awb_91ee8f3a421617521504",
+    "name": "RÁDIO CIDADE (SATÉLITE)",
+    "country": "BR",
+    "url": "https://cp-1.owh.radio.br/listen/owh_s35226/radio-mp3",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "70bedac5-8e8b-4a49-9bdf-9a4f75defb49"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_b96a86e496218264c34e",
@@ -15465,25 +14191,6 @@
     "lastCheckedAt": "2026-11-06T09:33:08Z"
   },
   {
-    "id": "aws_2a81fae933f39f6cf4f9",
-    "stationId": "awb_6f2b14fbb68f0af55716",
-    "name": "Rádio Cidade FM 100.1 MHz (Juiz de Fora - MG)",
-    "country": "BR",
-    "url": "http://wz1.dnip.com.br/cidadefmjf/cidadefmjf.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0a5bb413-0b38-4d42-8967-b7c680dae5c0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
-  },
-  {
     "id": "aws_63c10c2e8ff863192a68",
     "stationId": "awb_8eb5e3c8d9e1cc50542d",
     "name": "Radio Cidade FM de Loanda",
@@ -15649,11 +14356,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "097a6470-fa11-4480-b777-bd453ed82b8f",
-      "7c198f98-6f06-49ea-b84e-b5bf0ff72a5b"
+      "1bd6615c-aa0e-46ab-8a84-ea898eadc79e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:23:06Z"
+    "lastCheckedAt": "2026-11-06T06:31:20Z"
   },
   {
     "id": "aws_7d9c0464a4d5fe0b4760",
@@ -15711,25 +14417,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:52:18Z"
-  },
-  {
-    "id": "aws_b686fe1da3dca240dda9",
-    "stationId": "awb_d0fe06533630807da5e1",
-    "name": "Rádio Clube 105.5 FM",
-    "country": "BR",
-    "url": "https://8157.brasilstream.com.br/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96ed68e5-a506-435d-98c8-82f37a6bfbe5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:46:59Z"
   },
   {
     "id": "aws_04386e05fc5926bd4952",
@@ -15975,11 +14662,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7af712d3-5d31-4fd3-9bcf-1957fe892ecd",
       "971fd611-7552-4ef2-8cf9-302d73e9e1ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
+    "lastCheckedAt": "2026-11-06T09:37:50Z"
   },
   {
     "id": "aws_c3ded2cf3f9aa0edc44f",
@@ -16071,8 +14757,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5f873558-7062-4a38-8281-989c367bc6d2",
-      "6ccae6b1-9d55-44e6-9037-106fd9e6d192"
+      "5f873558-7062-4a38-8281-989c367bc6d2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:32:09Z"
@@ -16151,7 +14836,7 @@
       "05b040f9-7380-4c25-936f-019402fc5d94"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_04ca67b66830934b4951",
@@ -16171,25 +14856,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
-    "id": "aws_c8549d5cfe1bd770206e",
-    "stationId": "awb_6b295fc0064011520d03",
-    "name": "Rádio Cultura FM 103,3",
-    "country": "BR",
-    "url": "https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8",
-    "codec": "unknown",
-    "bitrate": 716,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4cebc367-016c-44d3-a60b-0916ea8562fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_d556e0a9f2d687e99d0f",
@@ -16422,25 +15088,6 @@
     "lastCheckedAt": "2026-11-06T20:09:12Z"
   },
   {
-    "id": "aws_77404af870c533b134bf",
-    "stationId": "awb_2ac3356ce5750cc96d77",
-    "name": "Rádio Difusora Bondespachense",
-    "country": "BR",
-    "url": "https://ssl.conectastreaming.com:7040/;",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c9721a72-4e7a-462a-8aa4-d71f906e9ae3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
-  },
-  {
     "id": "aws_1e193048752823209816",
     "stationId": "awb_d8a668037c1695d21e48",
     "name": "Rádio Difusora de Imbituba 100.3 FM",
@@ -16511,50 +15158,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "47dc77f7-b8b6-421a-aa54-95f10a07c3ed",
-      "f1b4a5bc-14f7-4694-a48a-8cf1e101e8c8"
+      "ccb316a9-c480-4d86-9800-0e0609b46b85"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:00:42Z"
-  },
-  {
-    "id": "aws_4205973f10d13f50a1ea",
-    "stationId": "awb_90596c94da1a7af7651d",
-    "name": "Rádio Digital Bahia",
-    "country": "BR",
-    "url": "http://stm1.tcmcast.com.br:7050/",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7d5d84ac-e01b-413b-a9b0-a491c74b7af2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
-    "id": "aws_ad26ef610e795da23a26",
-    "stationId": "awb_1b25463ba387190ec3ab",
-    "name": "Rádio Digital fm",
-    "country": "BR",
-    "url": "http://stm1.tcmcast.com.br:7050/",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a440a7cf-77a4-4ce3-8b4d-c0eb02698117",
-      "fa3a94f1-b368-4434-a724-bec9f645dd94"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
   },
   {
     "id": "aws_35877b04a067b050aa57",
@@ -16727,7 +15334,7 @@
       "2a5e6c05-3b5a-4a91-b4fd-f6e91301de41"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_63b6eb4ee74872534c99",
@@ -16878,30 +15485,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3db82f80-c06e-486d-b69f-e80ff5dc8965",
-      "3dbbf4d5-48b3-449d-b751-7d6802e97b9c"
+      "6531caf5-ab54-4045-9767-9d977b95830f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
-  },
-  {
-    "id": "aws_294c97f455424e600c7f",
-    "stationId": "awb_2108a68125826a6669a8",
-    "name": "Rádio Elétrica",
-    "country": "BR",
-    "url": "http://servidor26.brlogic.com:8040/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0de72f1-dbbf-4d98-a313-ab221d5c1a75"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:11:50Z"
+    "lastCheckedAt": "2026-11-06T22:38:17Z"
   },
   {
     "id": "aws_02067c18d0eb6b773760",
@@ -16990,15 +15577,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "247e4d32-39b8-48d7-a86a-ec6effea7723",
       "BR:radio-energia-97-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:36:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_224a2c1a9dd70b3ba701",
@@ -17092,11 +15677,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3649928e-bc53-4040-8971-dd1972815e5c",
-      "cd1b1bcc-38cf-421f-83be-30e623671f9d"
+      "3649928e-bc53-4040-8971-dd1972815e5c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
+    "lastCheckedAt": "2026-11-05T23:33:02Z"
   },
   {
     "id": "aws_7d61e3e20747ee7a2bd8",
@@ -17150,11 +15734,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3988649c-6c74-4177-b55b-c33e470de7cd",
-      "4238be95-2bab-41ee-8e2d-70e7ccb001de"
+      "a8c654ae-ef89-4f82-9684-e79a7da51cdf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
+    "lastCheckedAt": "2026-11-06T07:56:36Z"
   },
   {
     "id": "aws_3cb5c0ed3e17d8e0a7b9",
@@ -17495,8 +16078,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "46caf738-9e39-4882-8102-93c31d2c0585",
-      "75171a08-0b7e-4aea-a15a-b761c41b5ae2"
+      "e4bb67e1-925b-4fea-aedb-79ebe0f2f403"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:59:28Z"
@@ -17557,25 +16139,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:06:26Z"
-  },
-  {
-    "id": "aws_cc766d8833a1fd3aecc6",
-    "stationId": "awb_d4049f4358350ccaa3b0",
-    "name": "Radio Fox Rock",
-    "country": "BR",
-    "url": "http://09.stmip.net:8422/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e0917d89-171e-4bee-9467-62293c582a7b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_3e3ef4d5653c08bbd3b1",
@@ -17865,25 +16428,6 @@
     "lastCheckedAt": "2026-11-06T06:12:35Z"
   },
   {
-    "id": "aws_913d7cc6614e627e5bdc",
-    "stationId": "awb_8e751b5491195bc44595",
-    "name": "Rádio GFM Salvador",
-    "country": "BR",
-    "url": "https://ice.fabricahost.com.br/radiogfm",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dca8ebc1-6e62-4341-b18a-4bf2b136b596"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:54:00Z"
-  },
-  {
     "id": "aws_3103e2a5d958a03ca5aa",
     "stationId": "awb_c36d046d9093524b970e",
     "name": "Rádio Globo - Rio de Janeiro",
@@ -17901,25 +16445,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:01:43Z"
-  },
-  {
-    "id": "aws_cc7e47bbe0c8147b06e7",
-    "stationId": "awb_92800f755bb53e88d2c2",
-    "name": "Rádio Globo 98.1 FM",
-    "country": "BR",
-    "url": "https://26683.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1eaf6810-41de-4a43-827b-dcf8070748e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
   },
   {
     "id": "aws_fb2317585576dceeac11",
@@ -18176,20 +16701,18 @@
     "name": "Rádio Grenal",
     "country": "BR",
     "url": "https://grenal.audiostream.com.br:20000/aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:radio-grenal",
-      "b6d2dba2-acfd-4add-ab3a-085527279f2e"
+      "BR:radio-grenal"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5f9065817e1e28da6de4",
@@ -18534,8 +17057,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "351fd669-df61-4097-94ca-8295329a8512",
-      "e65b5922-1412-4fb4-9470-b403ffe6d509"
+      "351fd669-df61-4097-94ca-8295329a8512"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:57:49Z"
@@ -18862,11 +17384,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1d4c34ed-3c32-4182-9232-6c3304f75b12",
-      "55384874-a484-4365-8799-3a5e389699ad"
+      "1d4c34ed-3c32-4182-9232-6c3304f75b12"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
+    "lastCheckedAt": "2026-11-06T03:41:28Z"
   },
   {
     "id": "aws_5a64a8d533c79c98e1a8",
@@ -18882,11 +17403,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5901ee10-79c8-493a-8a7a-947ce40c6280",
-      "c29b8949-756a-466d-adfb-20fd032139e7"
+      "5901ee10-79c8-493a-8a7a-947ce40c6280"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
+    "lastCheckedAt": "2026-11-06T12:08:00Z"
   },
   {
     "id": "aws_65412806688aecb0e750",
@@ -19294,25 +17814,6 @@
     "lastCheckedAt": "2026-11-06T23:19:36Z"
   },
   {
-    "id": "aws_7ec7020535377cbc671c",
-    "stationId": "awb_ba8d0235e738c1a625c7",
-    "name": "Rádio Jovem Pan 94.3 FM",
-    "country": "BR",
-    "url": "https://paineldj5.com.br:20028/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "daa0ac04-a9c4-4297-bcf1-778ccda6e4eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:19:58Z"
-  },
-  {
     "id": "aws_80df3f67304e2f38a435",
     "stationId": "awb_b16df1ca7a754cde97eb",
     "name": "Radio Jovem Pan 99.1 FM Belo Horizonte",
@@ -19482,11 +17983,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "075016c7-5a59-4198-81cb-d3bdb875993e",
-      "111a813e-dba1-4a1c-abf3-46d7974daf21"
+      "d53c4cc9-1fbc-4df0-8455-1b274abb5670"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
+    "lastCheckedAt": "2026-11-06T13:01:14Z"
   },
   {
     "id": "aws_8583178fc47e46802588",
@@ -19656,11 +18156,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "dbb7686a-2a06-4e0c-945a-7443617565fa",
-      "edd4ab52-ffef-4921-b70d-9c4d52b474ec"
+      "dbb7686a-2a06-4e0c-945a-7443617565fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:22:40Z"
+    "lastCheckedAt": "2026-11-06T06:30:08Z"
   },
   {
     "id": "aws_3995927552120b8359c4",
@@ -19673,15 +18172,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2d5168a3-7e43-483c-9522-9d0989ddc3a8",
       "BR:radio-lideranca-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_24e8067003d9ed94e761",
@@ -19773,11 +18270,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0349e207-d5c1-4f5d-8afe-6f2c983dcd13",
       "18d50a3e-b4a6-4bc2-9fb1-675145b1de83"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:56Z"
+    "lastCheckedAt": "2026-11-06T13:40:51Z"
   },
   {
     "id": "aws_242f214e9c0eef3fbd34",
@@ -19907,7 +18403,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5a148d35-69f3-4099-8c0f-ffc2f2d46687",
       "9ee4ffcd-ac7f-4c09-98bf-91ce92782498"
     ],
     "lastCheckOk": true,
@@ -20108,25 +18603,6 @@
     "lastCheckedAt": "2026-11-06T13:33:02Z"
   },
   {
-    "id": "aws_6a5458ec48b4e2aeb6f8",
-    "stationId": "awb_77b20637df648d667b95",
-    "name": "Radio Marinha (Manaus)",
-    "country": "BR",
-    "url": "https://stm0.inovativa.net/listen/radiomarinha/radio.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af2dbea7-4901-45fa-bbdf-fff850f14499"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:24:24Z"
-  },
-  {
     "id": "aws_d709bc76fa88038ea740",
     "stationId": "awb_69d0e1d5c928e2e5978b",
     "name": "Rádio Marinha (Natal) 100.1 FM RN Brasil",
@@ -20311,11 +18787,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "33629782-ab5b-4654-8012-3e80311b79ab",
-      "4404b2f3-c18b-411a-9c74-90cf1e9465e7"
+      "33629782-ab5b-4654-8012-3e80311b79ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:43:25Z"
+    "lastCheckedAt": "2026-11-06T10:45:22Z"
   },
   {
     "id": "aws_8fbc57101489e2a3259b",
@@ -20608,39 +19083,18 @@
     "name": "Rádio Metropolitana 98.5 FM Sertanejo",
     "country": "BR",
     "url": "https://ice.fabricahost.com.br/metrospsertanejo",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:radio-metropolitana-98-5-fm-sertanejo",
-      "ab764881-4afe-4436-9582-1339fe0357ef"
+      "BR:radio-metropolitana-98-5-fm-sertanejo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:01:22Z"
-  },
-  {
-    "id": "aws_d0b6a488bf8f8edd5ea1",
-    "stationId": "awb_2135ce047e88ad7c9d35",
-    "name": "Rádio MGT Brasil Hits",
-    "country": "BR",
-    "url": "https://cast.mgtradio.net/radio/8030/aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ba140809-2992-40de-b48c-3142be2d6836"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:45:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_13dfd6901df8283f098f",
@@ -20734,8 +19188,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3453d39d-ddc7-4995-a1a3-a0668d6da794",
-      "901c92bd-a757-449a-b8ce-652b079fd38a"
+      "3453d39d-ddc7-4995-a1a3-a0668d6da794"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:36:17Z"
@@ -20784,20 +19237,18 @@
     "name": "Radio Mix FM",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "61156199-ece3-413e-ac39-7b2483513ab2",
       "BR:radio-mix-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a83b76ffea431b5f346e",
@@ -20931,7 +19382,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "620cee01-f29b-44f8-9b96-70d6068bcca0",
       "6d9cd4c0-e779-49a0-8d2e-881ba82ea1d4"
     ],
     "lastCheckOk": true,
@@ -21012,44 +19462,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:34:33Z"
-  },
-  {
-    "id": "aws_47dc4bc379f9cd3fdb13",
-    "stationId": "awb_ca066a0fe78c2adfeb06",
-    "name": "Rádio Nação Vitoriosa",
-    "country": "BR",
-    "url": "http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjV3bGtFcFBNU2RPME9LYXprSmo2YWciLCJpYXQiOjE3OTM5NzcyNjMsImV4cCI6MTc5Mzk3NzMyM30.uVCzlxsZZrbVH8KRGIG3-nxLb2Z-4B3OTisRqEn4bUk",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "475a6c74-550f-450c-a8ef-6c57d4d9054d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
-    "id": "aws_e9948f00fbc3a08b4f51",
-    "stationId": "awb_ca066a0fe78c2adfeb06",
-    "name": "Rádio Nação Vitoriosa",
-    "country": "BR",
-    "url": "http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlM4Z0I1TXFNUUJ1VWViZ2VGaldlOHciLCJpYXQiOjE3OTM5ODc5OTQsImV4cCI6MTc5Mzk4ODA1NH0.vAjxT5VP3SmhfzS5K8BIJWnNT_kfLyrgppBRF5tqC8M",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c0651ff-0253-4f40-8ef4-755621aacc23"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:23Z"
   },
   {
     "id": "aws_3a3de4fd9f32a210be77",
@@ -21417,25 +19829,6 @@
     "lastCheckedAt": "2026-11-06T20:17:17Z"
   },
   {
-    "id": "aws_94b4c04ba68869aa09cc",
-    "stationId": "awb_f195973ec161b6fa4e59",
-    "name": "Rádio Nova FM 98.7 Malhada",
-    "country": "BR",
-    "url": "https://statics-v3.streema.com/static/audios/sample.ea78c3d52389.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c7e66a57-bfac-4b5c-8d8e-5985d09c7dd5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:15:51Z"
-  },
-  {
     "id": "aws_17aebb2a6a5b328685f9",
     "stationId": "awb_6659778fbedb4622b0d5",
     "name": "Rádio Nova FM Anápolis",
@@ -21584,8 +19977,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8986823a-7d65-4701-8353-321f51477f50",
-      "abd14170-1077-4330-b0a6-91a2f389310d"
+      "8986823a-7d65-4701-8353-321f51477f50"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:40:08Z"
@@ -21642,8 +20034,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "519c1d4e-eed3-4c53-bb8c-60b39724f02d",
-      "d1e15734-83d5-4407-9760-e3eb2703e9d1"
+      "519c1d4e-eed3-4c53-bb8c-60b39724f02d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:21:07Z"
@@ -21858,25 +20249,6 @@
     "lastCheckedAt": "2026-11-06T09:12:03Z"
   },
   {
-    "id": "aws_0ee9e20570ef17bcd9d0",
-    "stationId": "awb_59bf4cacf27bc0cd9058",
-    "name": "Rádio Ouro Negro 100.5 FM",
-    "country": "BR",
-    "url": "http://stm50.conectastm.com:24964/stream?1773415212921",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "df2f64a7-49fa-4c76-9f43-817a92178184"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_2fdd4456046e639dd260",
     "stationId": "awb_02a67de07fed26dc0d89",
     "name": "Radio Paiquerê",
@@ -21911,7 +20283,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7705406b-b0d2-4a0d-88bc-ff841ca2b6f7",
       "a82af1f3-f11f-4465-b810-4bfc761e8a91"
     ],
     "lastCheckOk": true,
@@ -22013,25 +20384,6 @@
     "lastCheckedAt": "2026-11-06T18:00:22Z"
   },
   {
-    "id": "aws_ea46f0110f8c8eafa369",
-    "stationId": "awb_bea009ef015a719644bb",
-    "name": "Rádio Phoenix FM",
-    "country": "BR",
-    "url": "http://cast.hoost.com.br:9141/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "50852694-8d23-47c3-b368-fe8e1a9a9153"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:32:04Z"
-  },
-  {
     "id": "aws_63b2eafb936aa5c656d2",
     "stationId": "awb_72a7178b1ec0d0c348a1",
     "name": "Rádio Pirafm",
@@ -22121,11 +20473,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5fecd1e5-7282-4de3-a03d-72a26b123674",
       "aca7b513-4b10-4e7b-ab96-411cf8d6575f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
+  },
+  {
+    "id": "aws_f83e9154a37a2572eda8",
+    "stationId": "awb_3d2c7d5d76d929999711",
+    "name": "Rádio Play Rock",
+    "country": "BR",
+    "url": "https://stm1.stmsrv.com:8276/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bee81a75-588a-4818-9f22-3a5f1b4edd69"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_62e3d6e5db9ab60a38b2",
@@ -22179,11 +20549,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "65b4e046-721d-4000-8803-e597f55ecfbc",
-      "e3032f56-3ca1-488b-a353-f1cd28e2fd20"
+      "65b4e046-721d-4000-8803-e597f55ecfbc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T03:04:27Z"
+    "lastCheckedAt": "2026-11-07T01:50:55Z"
   },
   {
     "id": "aws_e7d3ddfe3c9ed44e024e",
@@ -22203,25 +20572,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:55:06Z"
-  },
-  {
-    "id": "aws_0c2e27236b844bf4bceb",
-    "stationId": "awb_4f2bbe7b70248687ca56",
-    "name": "Rádio Prata FM",
-    "country": "BR",
-    "url": "https://r15.ciclano.io/proxy/radiopr2/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96abf567-633e-44da-99fe-a112a0b9629e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
   },
   {
     "id": "aws_911e83a26e5ab6ceb977",
@@ -22496,25 +20846,6 @@
     "lastCheckedAt": "2026-11-06T15:47:16Z"
   },
   {
-    "id": "aws_39b6dec994c73a631730",
-    "stationId": "awb_f472f207f5df4026f787",
-    "name": "Rádio Record 1000 AM",
-    "country": "BR",
-    "url": "https://stm10.voxhd.com.br:9702/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4289798d-06ef-4b9d-96d5-414ecddae742"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
-  },
-  {
     "id": "aws_ab89076b9ba6dab4d92a",
     "stationId": "awb_283901958eb86c6d6441",
     "name": "Rádio Record 77,1 FM",
@@ -22645,7 +20976,7 @@
       "d2ef310d-58d8-481b-a195-0a94645a518d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_a07e14753b99c62de4bc",
@@ -22701,11 +21032,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7ebac1d9-4195-472e-bf22-6f0e70b8e210",
-      "a456c355-b009-4966-973e-137f44fad098"
+      "7ebac1d9-4195-472e-bf22-6f0e70b8e210"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
+    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_c9aab3d60555d7ebfe83",
@@ -22898,6 +21228,25 @@
     "lastCheckedAt": "2026-11-06T20:50:49Z"
   },
   {
+    "id": "aws_1d6c0d1dc405b64728f7",
+    "stationId": "awb_fa40c78c4f5d350480b6",
+    "name": "Rádio Rock Light",
+    "country": "BR",
+    "url": "https://stm1.stmsrv.com:8292/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "670ed81c-d585-409b-8ba2-60bb95158341"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
+  },
+  {
     "id": "aws_24fa8762a4f7d0b6c52e",
     "stationId": "awb_1fed81fe6408d2d92724",
     "name": "Rádio Rodeio Fm",
@@ -22915,25 +21264,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:43:10Z"
-  },
-  {
-    "id": "aws_b2530f2dca3e2798a4dd",
-    "stationId": "awb_6d9bc98389339d261f3e",
-    "name": "Radio Rodeio fm",
-    "country": "BR",
-    "url": "http://stm5.voxtreaming.com.br:6766/",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2436edee-7432-474d-8686-8abe73404e75"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:39:20Z"
   },
   {
     "id": "aws_fa626315c70fa429920e",
@@ -23199,11 +21529,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0560dc71-3149-4948-a5d5-2afeaae09a04",
+      "9f599662-8816-425a-8fd5-425153b93a4c",
       "BR:radio-saudade-fm-99-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:28Z"
+    "lastCheckedAt": "2026-11-06T09:30:27Z"
   },
   {
     "id": "aws_0cd323b6fbc12e458453",
@@ -23314,8 +21644,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2b0fe5cb-504a-489a-8c17-dd0ae888da14",
-      "76da0973-3269-4dd0-9e31-7b28d697812c"
+      "2b0fe5cb-504a-489a-8c17-dd0ae888da14"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:04:46Z"
@@ -23469,8 +21798,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b98c8ab0-5378-4a4f-806b-fc58589f6366",
-      "ee7de2e3-67c5-4f3b-81f2-a36d0c0b37d5"
+      "b98c8ab0-5378-4a4f-806b-fc58589f6366"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:52:06Z"
@@ -23554,6 +21882,44 @@
     "lastCheckedAt": "2026-11-06T05:36:11Z"
   },
   {
+    "id": "aws_aac48d03db93024b3d57",
+    "stationId": "awb_e4cdc91857cc1244a3d7",
+    "name": "Radio Sinal Fm 91,1",
+    "country": "BR",
+    "url": "https://cdn-radiosin.ciclano.io/proxy/radiosin/stream",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c0f65217-cfb7-41bb-8a30-53354fd21437"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
+  },
+  {
+    "id": "aws_87a3be6fb489b620e31b",
+    "stationId": "awb_a0ff04ba41cb6676e532",
+    "name": "Rádio Sinta",
+    "country": "BR",
+    "url": "https://stmplay.com/listen/radiosinta300014/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5b557cb8-07ba-45c1-85ac-87df522eaf5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
+  },
+  {
     "id": "aws_b9e6fa12fb646b226812",
     "stationId": "awb_9fc4e6e046dd78eb7b52",
     "name": "Rádio Sintonia FM Salvador",
@@ -23630,25 +21996,6 @@
     "lastCheckedAt": "2026-11-06T15:41:16Z"
   },
   {
-    "id": "aws_37e7b5bccb6319b6bbe2",
-    "stationId": "awb_b462fc4d36903ba393f5",
-    "name": "Rádio Sociedade News FM 102.1 Feira de Santana",
-    "country": "BR",
-    "url": "https://stream.zenolive.com/t799cry0yv8uv",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "92d364fc-2bbe-48af-b0a5-847af1b0a1ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:10:10Z"
-  },
-  {
     "id": "aws_69daff7eb97392b89772",
     "stationId": "awb_8d730cb5f6525760f280",
     "name": "Radio Soft Tribuna FM",
@@ -23681,8 +22028,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2e51f45c-b9d2-4ade-8603-d9592750d505",
-      "54dcac6e-fd71-42e2-9705-4f455c0bdf43"
+      "f4a005b8-b99d-4234-bc06-0d7aa166e941"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:33:07Z"
@@ -23876,11 +22222,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6132375d-dccc-40d2-8c53-6f4522d500ce",
-      "b6b7acab-2417-4dd3-84d7-dbdb622bed66"
+      "a63f0d6b-59a2-458e-8ea2-0301b712f14c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:49Z"
+    "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
     "id": "aws_1be10a79e715ef6d271d",
@@ -24397,11 +22742,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6da066a5-eddf-4640-8bfb-25070c52858d",
+      "9cc39d6a-ee85-4b81-95bf-92b6141670c8",
       "BR:radio-transamerica-100-1-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_8157bed13e508b24dba7",
@@ -24746,25 +23091,6 @@
     "lastCheckedAt": "2026-11-06T20:23:43Z"
   },
   {
-    "id": "aws_14493e173b870b59c1ef",
-    "stationId": "awb_8d9cb68a02cdab33056f",
-    "name": "Rádio UFG 88,5 FM",
-    "country": "BR",
-    "url": "https://streaming.ufg.br:8443/radiouniversitaria",
-    "codec": "aac",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f6f9eec3-70e3-46ca-ad9b-c92751933683"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
-  },
-  {
     "id": "aws_fe9277f950f4864ca816",
     "stationId": "awb_b8ddcf99c72b297a74b0",
     "name": "Rádio UFRJ",
@@ -24778,11 +23104,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "50cfb4f4-f96d-43af-9c7c-2f258382eb17",
-      "82d7e115-be83-4cfc-93e6-3106e81146e1"
+      "50cfb4f4-f96d-43af-9c7c-2f258382eb17"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:17:10Z"
+    "lastCheckedAt": "2026-11-06T04:51:03Z"
   },
   {
     "id": "aws_8a055049d29305a5ac28",
@@ -25088,7 +23413,7 @@
       "0f6eb7bd-ad89-4a75-83b9-e0eb05d698a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_f20b87dc4e350fef3455",
@@ -25142,11 +23467,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "596d9a37-d1ba-45d8-b149-86503dedf4bf",
       "b09e4efe-a1c0-4cd4-8994-b4edf32dc5ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_8db97a45f5977264bff9",
@@ -25276,11 +23600,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6815739b-03f9-483b-aeff-15c0f4101053",
       "b665eafa-5de1-448e-9129-cf2ec184b2b5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:15:17Z"
+    "lastCheckedAt": "2026-11-06T10:42:38Z"
   },
   {
     "id": "aws_4a8a51ce758991a50295",
@@ -25359,25 +23682,6 @@
     "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
-    "id": "aws_10393a0483e253a9ef5b",
-    "stationId": "awb_d87c509f36af4a9ff89f",
-    "name": "Rádio Vida Terra Rica",
-    "country": "BR",
-    "url": "https://stm1.voxhd.com.br:7706/",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "355c6ce5-6db1-4f21-8366-fdfdc4a30109"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
-  },
-  {
     "id": "aws_77983cb4f06822a6f8bb",
     "stationId": "awb_13526dba636939f0e478",
     "name": "Rádio Videira - FM 102.9",
@@ -25397,26 +23701,6 @@
     "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
-    "id": "aws_9af597bc5405250acd8d",
-    "stationId": "awb_633c39ad62f78563bca1",
-    "name": "Rádio Videira - FM 88.5",
-    "country": "BR",
-    "url": "https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 135,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "372e4555-def0-4848-bc68-fe567650801b",
-      "afb1e1b8-4715-494a-bfe4-b56a0e583918"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:34:33Z"
-  },
-  {
     "id": "aws_753ab1dba31f75052718",
     "stationId": "awb_13526dba636939f0e478",
     "name": "Rádio Videira FM 102.9",
@@ -25434,6 +23718,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:14:37Z"
+  },
+  {
+    "id": "aws_9af597bc5405250acd8d",
+    "stationId": "awb_633c39ad62f78563bca1",
+    "name": "Rádio Videira FM 88.5",
+    "country": "BR",
+    "url": "https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 135,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "372e4555-def0-4848-bc68-fe567650801b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T09:34:33Z"
   },
   {
     "id": "aws_f16f7dd26d3b2d75b2cb",
@@ -25472,25 +23775,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
-    "id": "aws_df7cd424cfa31a10c26f",
-    "stationId": "awb_8c7db2bd1f7cb8356a47",
-    "name": "RÁDIO VIRG0 NET",
-    "country": "BR",
-    "url": "https://cast.mgtradio.net/radio/8020/radio.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2bae2998-617a-4491-b40e-54c10866d148"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
   },
   {
     "id": "aws_5f319a2f96683f2ff6c3",
@@ -25850,11 +24134,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a4891efa-33b2-4ea2-94fa-a21ae01793b3",
       "bc0d26be-3ac9-4e98-954b-a65919b528c0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
+    "lastCheckedAt": "2026-11-06T08:41:41Z"
   },
   {
     "id": "aws_faf26590ac2adbe2f51f",
@@ -26066,25 +24349,6 @@
     "lastCheckedAt": "2026-11-06T22:55:11Z"
   },
   {
-    "id": "aws_77a8a7a349804536a740",
-    "stationId": "awb_8351b1bacbbe1816a3f3",
-    "name": "Rainha 89fm",
-    "country": "BR",
-    "url": "https://streaming.livespanel.com:8990/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "17a95a29-306e-49dd-b49b-c5b6fc875576"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:34:56Z"
-  },
-  {
     "id": "aws_5daa86ab32a4022f45af",
     "stationId": "awb_8351b1bacbbe1816a3f3",
     "name": "Rainha 89fm",
@@ -26140,26 +24404,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
-    "id": "aws_64a362e5799a5b3136ca",
-    "stationId": "awb_6899f780dfe7e2de611c",
-    "name": "Rede 3.16",
-    "country": "BR",
-    "url": "https://servidor21.brlogic.com:7976/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2c033065-4744-4d7d-8437-079345f11aa2",
-      "82e68b11-9180-4790-a867-b284a65f7088"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_a942b00c61610c5f764e",
@@ -26386,11 +24630,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "572fbee8-9156-4f2b-b134-49e7783fc9ca",
-      "c2f1a168-46d5-4884-81c6-3667624ae852"
+      "572fbee8-9156-4f2b-b134-49e7783fc9ca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:05:21Z"
+    "lastCheckedAt": "2026-11-06T06:11:27Z"
   },
   {
     "id": "aws_25fb7bd704029615f5e6",
@@ -26457,20 +24700,18 @@
     "name": "RTM Brasil",
     "country": "BR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:rtm-brasil",
-      "d7aa98a3-072a-4336-be1a-6dc1cac59777"
+      "BR:rtm-brasil"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_191d0d3837afe3593ccb",
@@ -26581,7 +24822,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0b696180-1aa1-4210-b401-f3946eb72b30",
       "44cab11b-3b59-4728-a0dc-eee04b6d341a"
     ],
     "lastCheckOk": true,
@@ -26744,25 +24984,6 @@
     "lastCheckedAt": "2026-11-05T17:33:51Z"
   },
   {
-    "id": "aws_c56d4244222dffae678b",
-    "stationId": "awb_28082b293377d8e23d55",
-    "name": "Sertanejona | Geração Sertanejo Universitário",
-    "country": "BR",
-    "url": "https://stream.geracaoradios.com.br/listen/sertanejouniversitario/radio",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed293acc-d986-44c6-8398-520ff3381fae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
-  },
-  {
     "id": "aws_ef0b72150a51ade577bb",
     "stationId": "awb_41a3204887bb479d25f0",
     "name": "Sete Colinas FM 101.7",
@@ -26776,8 +24997,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b9ab2a19-2a03-4a59-928f-73b8b056891b",
-      "bbb9fb30-79fa-44cf-abeb-24907fca9f0c"
+      "b9ab2a19-2a03-4a59-928f-73b8b056891b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:47:55Z"
@@ -26916,25 +25136,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:38:27Z"
-  },
-  {
-    "id": "aws_f3c7f11cf05ba8ab332e",
-    "stationId": "awb_1a8f8c6061e9c6008fac",
-    "name": "Só Cacarecos - Classic Rock",
-    "country": "BR",
-    "url": "http://sokakarecos.ddns.net:9030/rock128",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eda6bad4-8015-4494-b43e-b3d5b97a41c3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:47Z"
   },
   {
     "id": "aws_f2f183e32068921bf944",
@@ -27164,7 +25365,7 @@
       "712091dc-0bab-44e6-b2f4-487681022d8a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_9543cfb3bc1b319b54d5",
@@ -27462,25 +25663,6 @@
     "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
-    "id": "aws_2db73b9aca4206081034",
-    "stationId": "awb_79ba42b39e3e1e37e204",
-    "name": "Ta Ligado",
-    "country": "BR",
-    "url": "https://stream.nasondasdapraiagrande.com.br/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2ab2dc2-d787-483a-b495-085c54c4c04b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T14:41:27Z"
-  },
-  {
     "id": "aws_14db054a408cb09f2bf0",
     "stationId": "awb_9f3f0ec51dd8fcc88ff8",
     "name": "Tabajara FM 105,5 Mhz",
@@ -27614,25 +25796,6 @@
     "lastCheckedAt": "2026-11-06T13:00:38Z"
   },
   {
-    "id": "aws_cfc9d54f36b716a551b7",
-    "stationId": "awb_3f6dbe5ec7f7e7e5109b",
-    "name": "Terra 1330",
-    "country": "BR",
-    "url": "https://cloud1.cdnseguro.com:16020/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "09c5b168-6d8c-451f-aa9b-f233e57c8c7e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:25:14Z"
-  },
-  {
     "id": "aws_8fcc668340cc24c60893",
     "stationId": "awb_904c95abeb726662330a",
     "name": "Terra FM - 947",
@@ -27688,25 +25851,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:12:43Z"
-  },
-  {
-    "id": "aws_6b6306267ead2195c6c9",
-    "stationId": "awb_33cfef8333a4e27eac22",
-    "name": "Terra Gaúcha",
-    "country": "BR",
-    "url": "https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "651ef419-1d85-4dcc-9400-4e44033202b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:38:40Z"
   },
   {
     "id": "aws_e95b57cb115c332be48b",
@@ -27996,6 +26140,25 @@
     "lastCheckedAt": "2026-11-06T12:02:58Z"
   },
   {
+    "id": "aws_3415ef0af9bfc060fb29",
+    "stationId": "awb_222371a753d466a2985e",
+    "name": "TRASH",
+    "country": "BR",
+    "url": "http://168.138.140.195:9000/nexo_e5a53aae88cb41359480915ab4c730ed.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "196c1034-a60f-4030-995a-b8128e8f7741"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
+  },
+  {
     "id": "aws_8d6478ada24a71ce2eaf",
     "stationId": "awb_1f6215eb6c4cf2241830",
     "name": "Tribuna soft FM 90,1",
@@ -28006,15 +26169,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BR:tribuna-soft-fm-90-1",
-      "de01b857-ebe0-44fc-87c2-23db583ccd3b"
+      "BR:tribuna-soft-fm-90-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_71ab83c1d1107480848b",
@@ -28545,7 +26706,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22b197ce-2d90-427c-a085-e33f580dd2df",
       "2a16f0ad-93b2-4a0a-be33-999a0ef11763"
     ],
     "lastCheckOk": true,
@@ -28641,7 +26801,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "ae99c27d-d131-49de-988e-7e413bf47ef5",
       "d5c86265-5c96-4d18-a206-0d6c8cdad0b3"
     ],
     "lastCheckOk": true,
@@ -28661,30 +26820,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "66ca3d3a-ccac-4401-b5bd-74f3a168bdd4",
-      "81269ffc-4b8a-45aa-9b9e-5bddb9f36f12"
+      "66ca3d3a-ccac-4401-b5bd-74f3a168bdd4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:22:55Z"
-  },
-  {
-    "id": "aws_fa23bde77948414b6ff0",
-    "stationId": "awb_bb621abf6eeca387f476",
-    "name": "voz do esporte 2",
-    "country": "BR",
-    "url": "https://paineldj.com.br:20172/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "41977e1e-a0fc-4cba-ae28-db2f44497fb8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
   },
   {
     "id": "aws_5679a815175f3345a9af",
@@ -28968,8 +27107,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "047c92ab-8302-4a80-a050-bb9b6c28a21c",
-      "8ac677e9-c0aa-4a5c-b58b-6811d14135de"
+      "047c92ab-8302-4a80-a050-bb9b6c28a21c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:20:08Z"
@@ -29220,25 +27358,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
-    "id": "aws_433ac5f1fac2032f9f2c",
-    "stationId": "awb_a8914331f79d08737f50",
-    "name": "Zeno",
-    "country": "BR",
-    "url": "https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5872bd0-4a97-4b34-a637-5b14b4f882af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_9fb91030e41bcf3e7ba3",

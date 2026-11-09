@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_fb0f477753ea8018bda0",
-    "stationId": "awb_58e017579ee803301dcd",
-    "name": "AisaFM亚洲粤语台",
-    "country": "HK",
-    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "76faebfa-2f00-49ed-876b-ab8af204cbd6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:37:13Z"
-  },
-  {
     "id": "aws_9b7395957ec85f939e33",
     "stationId": "awb_56e5467e4ba822ccd99c",
     "name": "AXR",
@@ -114,25 +95,6 @@
     "lastCheckedAt": "2026-11-07T01:44:59Z"
   },
   {
-    "id": "aws_a44bdf69915429c9413a",
-    "stationId": "awb_76cc80481931c0e3ab42",
-    "name": "Digital Radio Hong Kong",
-    "country": "HK",
-    "url": "http://ice.digitalradiohk.net:8000/drhk",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b982004-2ea5-49cc-a82d-bd65ae8ebd5e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:26:30Z"
-  },
-  {
     "id": "aws_15d2cf0f1485c373b485",
     "stationId": "awb_fbad8478c4c5c3aa2031",
     "name": "Fing Radio",
@@ -213,44 +175,6 @@
     "lastCheckedAt": "2026-11-06T14:59:46Z"
   },
   {
-    "id": "aws_4390757174a244712647",
-    "stationId": "awb_f2172bafe98510db660e",
-    "name": "Ifeng",
-    "country": "HK",
-    "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b2430c5-afb8-4d83-8d95-ce695267c565"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:34:56Z"
-  },
-  {
-    "id": "aws_67f40905c658966aa94f",
-    "stationId": "awb_1b055a18b5f66a4f9380",
-    "name": "Ifeng (Phoenix TV)",
-    "country": "HK",
-    "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "21216932-11ca-47c6-8cef-a3f7192de15e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:24:15Z"
-  },
-  {
     "id": "aws_4970c2b1e659a0ad8ded",
     "stationId": "awb_dd8c378d7ba4711a984e",
     "name": "Ifeng (Phoenix)",
@@ -291,25 +215,6 @@
     "lastCheckedAt": "2026-11-06T15:44:52Z"
   },
   {
-    "id": "aws_34d3068eedfd4b8b06b3",
-    "stationId": "awb_24c8adabe529fbfab2be",
-    "name": "Metro Plus 1044 AM",
-    "country": "HK",
-    "url": "http://162.220.162.10:8011/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3f82d490-0bf2-41bd-8c69-00f4fe8580e7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:10:10Z"
-  },
-  {
     "id": "aws_cce91f4fe3ab8b86d222",
     "stationId": "awb_3cc645f173415ea360cd",
     "name": "Originalradio",
@@ -346,44 +251,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
-    "id": "aws_5c3c52bbf7340a467c55",
-    "stationId": "awb_e886ae476f0be1ee64c3",
-    "name": "Radio 1111",
-    "country": "HK",
-    "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5eea176-4a21-4287-990f-46c30ee306dc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
-  },
-  {
-    "id": "aws_24d9e2ccfcae70def15d",
-    "stationId": "awb_37c670c2139dac80dc3b",
-    "name": "Radio 4444",
-    "country": "HK",
-    "url": "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "897d3142-8c40-40f1-8b65-eff7d66ec7bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:22Z"
   },
   {
     "id": "aws_18c68da19951fdab968a",
@@ -424,83 +291,6 @@
     "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
-    "id": "aws_b5fb18d1c443fda32462",
-    "stationId": "awb_7692f07a88ba23517369",
-    "name": "RTHK Radio 1",
-    "country": "HK",
-    "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6e54fe80-269e-4238-8ee2-c226c031d4bd",
-      "ba2c1f66-629c-49e0-b73c-c7bc67c4c6d8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:38:27Z"
-  },
-  {
-    "id": "aws_41ddc43155a6fde3f727",
-    "stationId": "awb_e6477559b2ce99acb23f",
-    "name": "RTHK Radio 1",
-    "country": "HK",
-    "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c999a35-cbc8-45e8-98d0-20b664b44c34"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:04:18Z"
-  },
-  {
-    "id": "aws_a4383af82abfd169dc7a",
-    "stationId": "awb_e6477559b2ce99acb23f",
-    "name": "RTHK Radio 1",
-    "country": "HK",
-    "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b52583a4-0da1-4c32-b917-a229f9d3a122"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
-  },
-  {
-    "id": "aws_53a40a93007e87d75b32",
-    "stationId": "awb_3db1e805c48bc120d9a2",
-    "name": "RTHK Radio 2",
-    "country": "HK",
-    "url": "http://stm2.rthk.hk/radio2",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2be788be-a558-428b-93b1-6cc6e4a768ff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:57:49Z"
-  },
-  {
     "id": "aws_518ef2713012dfb53be6",
     "stationId": "awb_60372d786c894768b548",
     "name": "RTHK radio 2",
@@ -518,25 +308,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:06:21Z"
-  },
-  {
-    "id": "aws_a598c6cf5723ff517974",
-    "stationId": "awb_60372d786c894768b548",
-    "name": "RTHK Radio 2",
-    "country": "HK",
-    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "adb40af2-1bfe-4d43-8122-08b7e0b799a1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_1b2593d1a7c368c23649",
@@ -632,25 +403,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:57:06Z"
-  },
-  {
-    "id": "aws_3c24f3fc525cf5380b66",
-    "stationId": "awb_2064a2ff1ffa7cf449d7",
-    "name": "RTHK Radio 6 央廣香港之聲",
-    "country": "HK",
-    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e7ad9d1-17e6-4b74-a5b7-9d5654c20d3c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:35:50Z"
   },
   {
     "id": "aws_adcb9ef02b8cf3d73a14",
@@ -828,25 +580,6 @@
     "lastCheckedAt": "2026-11-06T18:18:44Z"
   },
   {
-    "id": "aws_add17b6d1cd3e481547b",
-    "stationId": "awb_4dae7e9fff51c45dec30",
-    "name": "凤凰卫视中文台",
-    "country": "HK",
-    "url": "http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "38ee7cba-f235-4e89-ba9a-60e588af2b82"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
-  },
-  {
     "id": "aws_a4fcfd86e0da279c9efa",
     "stationId": "awb_7f6c5d1ef956f929f26a",
     "name": "华藏多元文化台",
@@ -1003,63 +736,6 @@
     "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
-    "id": "aws_7301e0b1501e161a53f8",
-    "stationId": "awb_5c9dfd8e37dc2b858d8a",
-    "name": "大連交通廣播",
-    "country": "HK",
-    "url": "http://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9036a21b-8c15-42fb-93d2-f177c9e2ac7e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:50:49Z"
-  },
-  {
-    "id": "aws_4bc9a792034f3552ef3f",
-    "stationId": "awb_2191d09a5c4e14858055",
-    "name": "大連少兒廣播",
-    "country": "HK",
-    "url": "https://lhttp.qtfm.cn/live/1084/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5fea3ae3-eb18-4760-b622-1ca36e646887"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
-  },
-  {
-    "id": "aws_4102c2fbccffa1d57859",
-    "stationId": "awb_fd530cf8572c097a433e",
-    "name": "大連新聞綜合廣播",
-    "country": "HK",
-    "url": "https://live.xmcdn.com/live/2732/64.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cdfcd71c-f3d7-4ae6-baae-a4831e8e06db"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
-  },
-  {
     "id": "aws_e96450ee918ecbe5f654",
     "stationId": "awb_3d5cb1b2b206276908ae",
     "name": "大連都市之聲廣播",
@@ -1079,25 +755,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:52:21Z"
-  },
-  {
-    "id": "aws_c1285d9a5be399a7d705",
-    "stationId": "awb_b8e5efdbb646d36c19d0",
-    "name": "大連體育廣播",
-    "country": "HK",
-    "url": "http://ls.qingting.fm/live/1085.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bea0fae3-8ed2-4e56-bbc4-6ad68d2c6aea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
   },
   {
     "id": "aws_70a40cba7eb6bcc49b7a",
@@ -1269,7 +926,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5f9d4def-f46f-4f69-86f4-93e8168e6ab2",
       "cb5b8578-166b-4b78-98a3-804adf69b99b"
     ],
     "lastCheckOk": true,
@@ -1489,25 +1145,6 @@
     "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
-    "id": "aws_3a23cbe471fe6c9c8cd7",
-    "stationId": "awb_d616b49c829f03b9ce6e",
-    "name": "香港电台第三台",
-    "country": "HK",
-    "url": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
-    "codec": "aac",
-    "bitrate": 70,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6f1d1d19-40a5-4cd4-ad30-b3fd930c52de"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
-  },
-  {
     "id": "aws_30c84704db88fc322a8e",
     "stationId": "awb_3eaca368c64e2e35db5b",
     "name": "香港电台第二台",
@@ -1582,25 +1219,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:19:17Z"
-  },
-  {
-    "id": "aws_cf84ff79b6a0101693ef",
-    "stationId": "awb_652e905d66c9c18e5e3c",
-    "name": "香港電台第二台",
-    "country": "HK",
-    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "37530049-1ce7-4096-8728-470f1becaa0b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:37:30Z"
   },
   {
     "id": "aws_8521e9d870483e87a8ee",

@@ -116,27 +116,6 @@
     "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
-    "id": "aws_6e9f1d3f25bfe4f84ae7",
-    "stationId": "awb_c6e9ccbf2116e75d7c1a",
-    "name": "# 100 GREATEST JAZZ LOUNGE BAR",
-    "country": "CA",
-    "url": "https://cast1.torontocast.com:4640/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "4cc3e959-b572-4285-99e2-069151d03b5e",
-      "CA:100-greatest-jazz-lounge-bar"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
     "id": "aws_4fb99a262c0ee7f478eb",
     "stationId": "awb_572d12beb58807f2a222",
     "name": "# 70s 80s 90s RdMix Network",
@@ -242,26 +221,6 @@
     "lastCheckedAt": "2026-11-06T20:07:19Z"
   },
   {
-    "id": "aws_27f9a6d60ef6b1ccc861",
-    "stationId": "awb_d53e836f2daa70ab7c6e",
-    "name": "#100 BEST IBIZA DEEP HOUSE",
-    "country": "CA",
-    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "64d74c72-025e-4cea-8a32-906812691731",
-      "7cecc2a0-6167-49fa-aad5-abcfec674430"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:41:25Z"
-  },
-  {
     "id": "aws_c769cb21a3737a740cf7",
     "stationId": "awb_d7009a2e746beed1501f",
     "name": "00-Radio Canada Montreal",
@@ -338,13 +297,32 @@
     "lastCheckedAt": "2026-11-06T03:04:40Z"
   },
   {
-    "id": "aws_2b5cfc2c980f03ae9da8",
-    "stationId": "awb_365ea62bae65e6dba91b",
-    "name": "100 % COVERS LOUNGE",
+    "id": "aws_27f9a6d60ef6b1ccc861",
+    "stationId": "awb_d53e836f2daa70ab7c6e",
+    "name": "100 BEST IBIZA DEEP HOUSE",
     "country": "CA",
-    "url": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
+    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
     "codec": "mp3",
     "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7cecc2a0-6167-49fa-aad5-abcfec674430"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T03:05:50Z"
+  },
+  {
+    "id": "aws_6e9f1d3f25bfe4f84ae7",
+    "stationId": "awb_c6e9ccbf2116e75d7c1a",
+    "name": "100 GREATEST JAZZ LOUNGE BAR",
+    "country": "CA",
+    "url": "https://cast1.torontocast.com:4640/stream",
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -352,11 +330,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "77871905-48cd-465c-8d25-dd14ae536656",
-      "CA:100-covers-lounge"
+      "CA:100-greatest-jazz-lounge-bar",
+      "aeab6366-373b-4fee-98c9-ad2c9a7e7d71"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:04:07Z"
+    "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
     "id": "aws_b37442eaff22b00af2fd",
@@ -369,15 +347,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:100-greatest-of-the-80-s",
-      "d360268f-8f23-4386-b062-bcd368f1f211"
+      "CA:100-greatest-of-the-80-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_81ccbc89b4e752b4c5d6",
@@ -460,6 +436,27 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
+    "id": "aws_2b5cfc2c980f03ae9da8",
+    "stationId": "awb_365ea62bae65e6dba91b",
+    "name": "100% Covers Lounge",
+    "country": "CA",
+    "url": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser",
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "197d8d06-c7ae-453f-99b8-f5ad4e052fd3",
+      "CA:100-covers-lounge"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
     "id": "aws_510087bb1bd5cb9d7d6d",
     "stationId": "awb_2cc62c54d2c2ca4a1c84",
     "name": "101.5 - The Hawk - CIGO-FM",
@@ -500,25 +497,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:50:12Z"
-  },
-  {
-    "id": "aws_cdf140303cebf5f2e1d4",
-    "stationId": "awb_f86c89ec83759b7ceb9f",
-    "name": "102.3 Juice FM Grand Forks BC",
-    "country": "CA",
-    "url": "https://vistaradio.streamb.live/SB00084",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0029f440-de06-4122-8c89-09e2ad0fa33e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
   },
   {
     "id": "aws_4eb1649e85bb6eae0cf2",
@@ -629,8 +607,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bf35b717-8600-4f0e-bcff-c5ebd0cbc547",
-      "f94554ef-579a-423a-8326-d87cbcfdfbd4"
+      "bf35b717-8600-4f0e-bcff-c5ebd0cbc547"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:36:59Z"
@@ -809,44 +786,6 @@
     "lastCheckedAt": "2026-11-06T19:01:36Z"
   },
   {
-    "id": "aws_445c36494a4a3eac2955",
-    "stationId": "awb_e4bbb8950e743fec08fc",
-    "name": "680 News Toronto",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "44db1e25-6942-11ea-b1cf-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
-  },
-  {
-    "id": "aws_34c304fa1c5884e6c024",
-    "stationId": "awb_944b721e682d8c935df8",
-    "name": "680 NewsRadio Toronto",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d9ec370b-ef3f-4046-b587-bf7ea6653760"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
     "id": "aws_e2f24a28432a5b86d50d",
     "stationId": "awb_14f1f44565444cb424e8",
     "name": "70 80 90 ITALIA D'AUTORE",
@@ -935,15 +874,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:80-s-new-wave-radio",
-      "d95c1da9-838c-4684-a009-44fc73608279"
+      "CA:80-s-new-wave-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_249685880e9ff0e316ed",
@@ -1349,25 +1286,6 @@
     "lastCheckedAt": "2026-11-06T12:48:11Z"
   },
   {
-    "id": "aws_70c4858381a952c42faa",
-    "stationId": "awb_4eb57600ac38eb74ba1a",
-    "name": "98.5FM",
-    "country": "CA",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "56afb6c6-b221-45ae-9c50-03ae736a49fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
     "id": "aws_e692bb4505cc9090ad87",
     "stationId": "awb_70ad0728680beed7c6cc",
     "name": "989 XFM - CJFX",
@@ -1591,15 +1509,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "02569932-0b3c-4938-9d3e-b00b2158d40b",
       "CA:airport-lounge-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_db45c70b87871ac07ad0",
@@ -1815,27 +1731,6 @@
     "lastCheckedAt": "2026-11-06T22:15:31Z"
   },
   {
-    "id": "aws_0c2566c22d794ec96240",
-    "stationId": "awb_284b2f176909a1093b3b",
-    "name": "Ancient FM",
-    "country": "CA",
-    "url": "https://mediaserv73.live-streams.nl:18058/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "CA:ancient-fm",
-      "aa6ee95d-e208-4592-a121-047056106596"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:43:29Z"
-  },
-  {
     "id": "aws_cb730e118f3dab9a77cd",
     "stationId": "awb_614c1b0475f1e7d0d127",
     "name": "Ancient FM",
@@ -1853,6 +1748,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:45:34Z"
+  },
+  {
+    "id": "aws_0c2566c22d794ec96240",
+    "stationId": "awb_284b2f176909a1093b3b",
+    "name": "Ancient FM",
+    "country": "CA",
+    "url": "https://mediaserv73.live-streams.nl:18058/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "CA:ancient-fm"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_667efd623942632ef45d",
@@ -1912,25 +1826,6 @@
     "lastCheckedAt": "2026-11-06T15:52:06Z"
   },
   {
-    "id": "aws_3e88044337935b08d6e7",
-    "stationId": "awb_9944a7bf3b165fe532c1",
-    "name": "AVR 97.7",
-    "country": "CA",
-    "url": "http://mbsradio.leanstream.co/CKENFM-MP3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c0c48262-be9c-4f75-8565-1ddbf9d4751b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
     "id": "aws_aabb760bc61b372c98d5",
     "stationId": "awb_65102f0a3b5a53e70129",
     "name": "Ayaz tv",
@@ -1956,15 +1851,14 @@
     "country": "CA",
     "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
     "codec": "aac",
-    "bitrate": 4290,
+    "bitrate": 3990,
     "protocol": "https",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "420f308e-36a2-4434-929b-1820cbda0e88",
-      "e6d82d42-57bb-4fc7-8dd3-6fe1f9080847"
+      "420f308e-36a2-4434-929b-1820cbda0e88"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:29:34Z"
@@ -2006,25 +1900,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T11:02:09Z"
-  },
-  {
-    "id": "aws_80b49e3957a2ee47086f",
-    "stationId": "awb_24b5fd9c0677ca3fe6ba",
-    "name": "Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "087daaf7-e51e-43ab-b305-9bb76627a801"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
   },
   {
     "id": "aws_b90c383cc1fbc435515a",
@@ -2082,25 +1957,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:32:38Z"
-  },
-  {
-    "id": "aws_453674566e42bdf4a3fc",
-    "stationId": "awb_0eb3279a4c787dce7070",
-    "name": "Beats Radio",
-    "country": "CA",
-    "url": "https://satcom.rfchosting.ca:8100/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9717bbf2-b2de-4fe3-a5e2-0358649365fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:44:15Z"
   },
   {
     "id": "aws_d9d3fcce578ede4242c4",
@@ -2227,15 +2083,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:bolly-radio-canada",
-      "c970ccf5-732d-4633-bb24-dc9a9033ebe5"
+      "CA:bolly-radio-canada"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5253e4b50537f587e19c",
@@ -2734,25 +2588,6 @@
     "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
-    "id": "aws_416e8afac3c5c9fab037",
-    "stationId": "awb_028852168658a5b89b7b",
-    "name": "Calm Radio - Solo Piano & Guitar",
-    "country": "CA",
-    "url": "http://streams.calmradio.com:30228/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c7fbb28-03f4-466c-92c5-6c26e1f9cf3d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
     "id": "aws_e7875e7e8bcc31116e3b",
     "stationId": "awb_dafd3630ba5f827a7d09",
     "name": "Calm Radio - Symphony",
@@ -2865,25 +2700,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:36:11Z"
-  },
-  {
-    "id": "aws_184d2d8f19b9b2823f42",
-    "stationId": "awb_97c8de24c37ab8b711cb",
-    "name": "Calm Radio - Zen",
-    "country": "CA",
-    "url": "http://streams.calmradio.com:14028/stream/1/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f173b77c-151e-4567-8e49-5588ef2e87ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
   },
   {
     "id": "aws_e32e7fd9ee25b7c97c0c",
@@ -3042,25 +2858,6 @@
     "lastCheckedAt": "2026-11-06T14:01:41Z"
   },
   {
-    "id": "aws_1d6056da16cff91828da",
-    "stationId": "awb_fd6ab1401dc229a8df9c",
-    "name": "Cariboo Country",
-    "country": "CA",
-    "url": "https://vistaradio.streamb.live/SB00071",
-    "codec": "aac+",
-    "bitrate": 57,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d91fc297-b1c1-40e8-972f-2d81ea7c3c35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
     "id": "aws_07bcefbebab648c49662",
     "stationId": "awb_b82da17795914579d622",
     "name": "cbc Calgary",
@@ -3192,25 +2989,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:14:47Z"
-  },
-  {
-    "id": "aws_450c7dff061caae362da",
-    "stationId": "awb_b1c34c43c26d77c5cedc",
-    "name": "CBC Music Central (Winnipeg) - MP3 Stream",
-    "country": "CA",
-    "url": "https://22983.live.streamtheworld.com/CBWFM_CBC_SC",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3fb19748-a163-4b72-9cd7-a27ffafd1198"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
   },
   {
     "id": "aws_efedfe3cd62aec9869e6",
@@ -3416,11 +3194,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "55a332f3-125a-4de8-ad01-657786f3a065",
-      "e803af9c-d42a-496d-b26b-c0669cf70321"
+      "55a332f3-125a-4de8-ad01-657786f3a065"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:48Z"
+    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_9dd3c64dee226843d1b7",
@@ -3440,25 +3217,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:32:17Z"
-  },
-  {
-    "id": "aws_a178b3641b27f653be73",
-    "stationId": "awb_593700ffa132cd8421b4",
-    "name": "CBC Radio 1 Saskatoon",
-    "country": "CA",
-    "url": "https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/adaptive_192/chunklist_ao.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "47334a38-2282-478a-adf1-17a8593438cd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
   },
   {
     "id": "aws_6300404feb2be49d4ecf",
@@ -4508,25 +4266,6 @@
     "lastCheckedAt": "2026-11-06T21:37:29Z"
   },
   {
-    "id": "aws_700542cc28ca520416bb",
-    "stationId": "awb_512b2b10d6d7d477604d",
-    "name": "CFBV \"The Moose\" 870 Smithers, 106.5 Houston, 760 Burns Lake, BC",
-    "country": "CA",
-    "url": "https://vistaradio.streamb.live/SB00077",
-    "codec": "aac+",
-    "bitrate": 57,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5aefbee1-5fbf-4321-8267-4327b1cd0159"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:22Z"
-  },
-  {
     "id": "aws_caf6567d26f6e44da567",
     "stationId": "awb_5c2575f3046ff42eecdf",
     "name": "CFBW \"BWR 91.3\" Hanover, ON",
@@ -4970,25 +4709,6 @@
     "lastCheckedAt": "2026-11-06T07:47:35Z"
   },
   {
-    "id": "aws_5b7bf47a40fe9c8f84cb",
-    "stationId": "awb_ecde7bbd6339de692557",
-    "name": "CFGQ 107.3 \"QR Calgary 107 & 770\" Calgary, AB",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CFGQFM-MP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d76373f7-9f8d-4cbd-ad96-a7caf480e9f4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:46:09Z"
-  },
-  {
     "id": "aws_b3777050ed41c3b6f9cb",
     "stationId": "awb_e4646893d4c794b61605",
     "name": "CFGW 94.1 \"Fox FM\" Yorkton, SK",
@@ -5103,25 +4823,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:18:39Z"
-  },
-  {
-    "id": "aws_c0180ccac6975791fc95",
-    "stationId": "awb_33cc3c2a3095da984ecb",
-    "name": "CFIX \"Rouge 96.9\" Saguenay, QC",
-    "country": "CA",
-    "url": "https://26373.live.streamtheworld.com/CFIXFMAAC_SC",
-    "codec": "aac+",
-    "bitrate": 40,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2fe5747c-3431-47de-9816-9e7e873fa9f6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_6f1e87592eeb1f4adb3e",
@@ -5388,25 +5089,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:22:51Z"
-  },
-  {
-    "id": "aws_07af2ced3f3036bcec8d",
-    "stationId": "awb_ac982480db384b5f8759",
-    "name": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CFMIFM-MP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96212e65-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_077d26c6085420489a9e",
@@ -6021,11 +5703,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2db2222e-866d-4ee4-9d43-2af9e5b89db7",
       "c0f70edf-19f3-4993-9258-954656c2746e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:38:44Z"
+    "lastCheckedAt": "2026-11-06T00:26:36Z"
   },
   {
     "id": "aws_8e90ca53a5a2b4a8c36d",
@@ -6374,25 +6055,6 @@
     "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
-    "id": "aws_e4fb75a3060e06bce031",
-    "stationId": "awb_e55207ee7c3715856de7",
-    "name": "CFWN \"Northumberland 89.7\" Cobourg, ON",
-    "country": "CA",
-    "url": "http://northumberland.serverroom.net:8850/;",
-    "codec": "mp3",
-    "bitrate": 112,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96205740-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:07:44Z"
-  },
-  {
     "id": "aws_4d65a2c648df95e98327",
     "stationId": "awb_352c3c7b7c967d6b9200",
     "name": "CFXE 94.3 \"Real Country West\" Edson, AB",
@@ -6429,25 +6091,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:53:27Z"
-  },
-  {
-    "id": "aws_e66bc1bc83cb1384c5f8",
-    "stationId": "awb_eba8a3ba40e5a227b6af",
-    "name": "CFXJ 93.5 \"Today Radio\" Toronto, ON",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CFXJFM",
-    "codec": "aac",
-    "bitrate": 143,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff4ecb02-af7f-43ca-ad52-cded0f48e754"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:55:11Z"
   },
   {
     "id": "aws_a0391f2a3ca64f6012cf",
@@ -6676,11 +6319,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a8109064-28bb-4616-a6aa-8c0d82e18a53",
-      "e81e180f-d46f-48b4-9741-8401019c6dc4"
+      "a8109064-28bb-4616-a6aa-8c0d82e18a53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:41:28Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_ba0bc993ba1e2287f40e",
@@ -6772,8 +6414,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5881923d-e84e-4a5c-8d9e-cd0ad1d8ad77",
-      "8c6d3cd2-268b-4a7b-91d2-1526b46fc9af"
+      "5881923d-e84e-4a5c-8d9e-cd0ad1d8ad77"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:30:08Z"
@@ -6893,25 +6534,6 @@
     "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
-    "id": "aws_7d1b3ac88e3428461108",
-    "stationId": "awb_f5bd0201a6c951a9bcef",
-    "name": "CHED 630 \"Global News Radio\" Edmonton, AB",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CHEDAM",
-    "codec": "aac+",
-    "bitrate": 57,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "73be8818-caaf-42a9-b7e3-66275ffa460a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
-  },
-  {
     "id": "aws_8fbf0e233323da270c24",
     "stationId": "awb_b55ed067104ae00aff3c",
     "name": "CHED 630 (Edmonton, AB)",
@@ -6988,25 +6610,6 @@
     "lastCheckedAt": "2026-11-06T15:18:39Z"
   },
   {
-    "id": "aws_31429dceea314be8386e",
-    "stationId": "awb_ca459c99a2ef49c043c1",
-    "name": "CHEZ-FM 106.1 \"Chez 106\" Ottawa, ON",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de3b2824-54a7-489c-9204-83a11b3d94f6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
-  },
-  {
     "id": "aws_efa951623f38f0842f38",
     "stationId": "awb_d4e32a19fd45ef7327bc",
     "name": "CHFG 101.1 \"Cree Radio\" Chisasibi,QC",
@@ -7043,25 +6646,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:22:54Z"
-  },
-  {
-    "id": "aws_5f2471d3b2bc24adcafc",
-    "stationId": "awb_215beea3d7f8dff1eb5e",
-    "name": "CHFM 95.9 Calgary, AB",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de5db0ba-68b2-11e9-af37-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_82d90d33f8fb47ee7877",
@@ -7195,25 +6779,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:41:46Z"
-  },
-  {
-    "id": "aws_d358e7a0d736eaa43cd2",
-    "stationId": "awb_1349ea30875e0f4ca4ec",
-    "name": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CHHIFM",
-    "codec": "aac",
-    "bitrate": 135,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "086126e6-76a1-445c-b710-ce65e8ffdcea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
     "id": "aws_b19d1140284c59c5b8e4",
@@ -7427,44 +6992,6 @@
     "lastCheckedAt": "2026-11-06T02:53:23Z"
   },
   {
-    "id": "aws_baeb58d287fe8201ab48",
-    "stationId": "awb_16929dbd324fefdb78e0",
-    "name": "CHKS-FM \"Cool 106.3\" Sarnia, ON",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CHKSFM",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a21e19e0-4b74-404c-bf73-124c8af8073b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:47:37Z"
-  },
-  {
-    "id": "aws_6f1671b65027e5cd6d85",
-    "stationId": "awb_c9ba9b3855f64eb65bd0",
-    "name": "CHKT 1430 \"Fairchild Radio\" Toronto, ON",
-    "country": "CA",
-    "url": "https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 50,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ec10de1d-8019-485e-98e5-e6713eaff24a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
-  },
-  {
     "id": "aws_1a8e5acff60fcec413f3",
     "stationId": "awb_862e9a8a9a78418dadd7",
     "name": "CHKT AM1430 FairChild",
@@ -7558,44 +7085,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:43:25Z"
-  },
-  {
-    "id": "aws_e71dce4ecf9f0dce04ba",
-    "stationId": "awb_8c52ad91016a0cd80ff2",
-    "name": "CHLG-FM 104.3 \"The Breeze\" - Vancouver, BC",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CHLGFM",
-    "codec": "aac",
-    "bitrate": 132,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3acc5134-a692-4c32-8209-730797c6f4c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:16:39Z"
-  },
-  {
-    "id": "aws_464e7d5a9b0649d8da51",
-    "stationId": "awb_be5af4dee49a9501c254",
-    "name": "CHLQ 93.1 \"Q93\" Charlottetown, PE",
-    "country": "CA",
-    "url": "http://mbsradio.leanstream.co/CHLQFM-MP3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "963c3660-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:56:04Z"
   },
   {
     "id": "aws_2a036a10f5383104a6b0",
@@ -7807,25 +7296,6 @@
     "lastCheckedAt": "2026-11-07T01:56:40Z"
   },
   {
-    "id": "aws_4a9388dd6058fc2f9d3e",
-    "stationId": "awb_423cd5932f52abd0cc0c",
-    "name": "CHMP 985 FM",
-    "country": "CA",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf2150a2-1cee-479f-a948-be7cd70c420e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:41:40Z"
-  },
-  {
     "id": "aws_cdac0718961949d1a9ce",
     "stationId": "awb_f29deefe8383a73d94ec",
     "name": "CHMR - Memorial University of Newfoundland",
@@ -7904,25 +7374,6 @@
     "lastCheckedAt": "2026-11-06T14:02:32Z"
   },
   {
-    "id": "aws_1599c9ae178cf8866aa4",
-    "stationId": "awb_858596107c3e4770fdac",
-    "name": "CHMX \"Play 92.1\" Regina, SK",
-    "country": "CA",
-    "url": "http://chmx.streamon.fm/stream/CHMX-64k.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c3bcc0e-c08b-4a71-a702-aa8f0f41ec19"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:19:33Z"
-  },
-  {
     "id": "aws_04cdc698fc7381dea225",
     "stationId": "awb_dfbf65c3b09321b6e20e",
     "name": "CHNC-FM 107.1 New Carlisle, 99.1 Carleton, 99.3 Gaspe, 98.1 Chandler, 107.3 Perce, 106.7 Riviere-au-Renaud, QC",
@@ -7959,25 +7410,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:25:07Z"
-  },
-  {
-    "id": "aws_394ace3a4461bd161fd3",
-    "stationId": "awb_783efbb9d095175250b4",
-    "name": "CHNI-FM \"Q88.9\" - Saint John, NB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CHNIFM",
-    "codec": "aac",
-    "bitrate": 145,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "62e8f9d3-e6fb-4b7d-9ef5-8b210331ef33"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
   },
   {
     "id": "aws_0031e5c4a99471ebe90a",
@@ -8117,44 +7549,6 @@
     "lastCheckedAt": "2026-11-07T01:21:41Z"
   },
   {
-    "id": "aws_1f00d7fcaae6166775c3",
-    "stationId": "awb_04560247dd98184b152c",
-    "name": "Choc FM",
-    "country": "CA",
-    "url": "https://stream2.statsradio.com:8110/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ba4e48cc-f721-41ed-930d-89ebc9b1e307"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:49:56Z"
-  },
-  {
-    "id": "aws_c2d207f0fedc4d551e9d",
-    "stationId": "awb_52c09cb7e6b885630d7c",
-    "name": "CHOC-FM 88.7 Saint-Raymond de Portneuf, QC",
-    "country": "CA",
-    "url": "https://stream2.statsradio.com:8110/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "916b4fc2-421c-4cc4-96d8-ba1a2782f3ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:10:35Z"
-  },
-  {
     "id": "aws_f0dfe8e6d43fbc74cbeb",
     "stationId": "awb_b8125c7bab50913f015d",
     "name": "CHOD \"FM 92.1 Cornwall, ON",
@@ -8206,11 +7600,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0dd90532-85a3-4e5b-93e7-fe83aefb68d7",
-      "df6117f5-c79c-46bc-aec2-97d056d54e3d"
+      "0dd90532-85a3-4e5b-93e7-fe83aefb68d7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
+    "lastCheckedAt": "2026-11-06T03:55:20Z"
   },
   {
     "id": "aws_a152d56f02e5299f1e0e",
@@ -8230,25 +7623,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:51:28Z"
-  },
-  {
-    "id": "aws_b95fa8756a4291e77967",
-    "stationId": "awb_9400b580214de8fda6bd",
-    "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
-    "country": "CA",
-    "url": "http://icecast-choi.rncm.ca/choi.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "30af3c01-199e-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
   },
   {
     "id": "aws_57c56c65860a736a2e70",
@@ -8329,25 +7703,6 @@
     "lastCheckedAt": "2026-11-06T14:56:29Z"
   },
   {
-    "id": "aws_5b852ce908ee6de23a5f",
-    "stationId": "awb_fcec57033f7eb2f6d374",
-    "name": "CHOK 1070 & 103.9 Sarnia, ON",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CHOKAM",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9621cc60-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:10:35Z"
-  },
-  {
     "id": "aws_61ca125141a7d9ed440e",
     "stationId": "awb_95e9dce92af76571247e",
     "name": "CHOM 97.7 Montréal",
@@ -8365,25 +7720,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
-    "id": "aws_21c93b5970a344a6ed51",
-    "stationId": "awb_db67633b3b2fcd640b4c",
-    "name": "CHON-FM 98.1 Whitehorse, YT",
-    "country": "CA",
-    "url": "https://stream.chonfm.com:8042/stream",
-    "codec": "mp3",
-    "bitrate": 73,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f3aecf74-2e9c-406e-9f40-ca7b3dae3928"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_e3fa7e5c37a0fc74caf1",
@@ -8637,25 +7973,6 @@
     "lastCheckedAt": "2026-11-05T23:51:28Z"
   },
   {
-    "id": "aws_40f54385f4c851a567fe",
-    "stationId": "awb_c97fbb6f4bd665db10ad",
-    "name": "CHRI 99.1 Ottawa",
-    "country": "CA",
-    "url": "https://s8.yesstreaming.net:17186/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "50f9334e-155f-4096-a98f-8ae468cafa1c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
-  },
-  {
     "id": "aws_dbb58a25993801d5aec3",
     "stationId": "awb_acbbdc2e56cab07a1a83",
     "name": "CHRI-FM Ottawa",
@@ -8730,25 +8047,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:47:17Z"
-  },
-  {
-    "id": "aws_d33e66abbb9f3a33a089",
-    "stationId": "awb_8c94ea9203458fdda788",
-    "name": "CHRK-FM \"Hot 101.9\" - Sydney, NS",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CHRKFM",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cd7b2e21-effe-4f55-a6cb-6dadff13148d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T05:24:33Z"
   },
   {
     "id": "aws_105051bb797e1c30bc94",
@@ -9127,8 +8425,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "18e78e3b-0dc3-49e9-8bb5-a603cd98a31c",
-      "961ed1e1-0601-11e8-ae97-52543be04c81"
+      "18e78e3b-0dc3-49e9-8bb5-a603cd98a31c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:50:00Z"
@@ -9170,25 +8467,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
-    "id": "aws_db1a5fa968bb4dda9f7d",
-    "stationId": "awb_a9459d73d301f3a31cc5",
-    "name": "CHVO \"New Country 103.9\" Carbonear, NL",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CHVOFM",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b67225e-dec6-4f37-a396-2330fa101baf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
   },
   {
     "id": "aws_71c7c01edf6153664c5b",
@@ -9518,25 +8796,6 @@
     "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
-    "id": "aws_b250058e5ec4be0dab5d",
-    "stationId": "awb_cf5191ed50f77f46fa2c",
-    "name": "CIBU \"Classic Rock 94.5\" Wingham, ON",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CIBUFM",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96207bd5-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:42:14Z"
-  },
-  {
     "id": "aws_c5efcdb1518d23d22214",
     "stationId": "awb_3083a627deba288576f8",
     "name": "CIBU-FM \"Cool 94.5\" Wingham, ON (AAC Stream)",
@@ -9786,25 +9045,6 @@
     "lastCheckedAt": "2026-11-06T18:48:28Z"
   },
   {
-    "id": "aws_813d315bcd9b6567aa38",
-    "stationId": "awb_71e553e177ee5dd9a592",
-    "name": "CIHI-FM \"Rewind 93.1\" - Fredericton, NB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CIHIFM",
-    "codec": "aac",
-    "bitrate": 134,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "68da4fe8-7e67-4b0f-8f34-5cf2fbf0cc19"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
-  },
-  {
     "id": "aws_1ba64403441e3a750c6d",
     "stationId": "awb_4abf90ab25cf01171a03",
     "name": "CIHO \"Charlevoix 96.3\" Saint-Hilarion, QC",
@@ -9879,25 +9119,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
-    "id": "aws_e826b35cafd40f0949a9",
-    "stationId": "awb_f8eabccb4a95e4c88ad0",
-    "name": "CIJK-FM \"Rewind 89.3\" - New Minas, NS",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CIJKFM",
-    "codec": "aac",
-    "bitrate": 139,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d0be75e3-cfc9-4249-8937-62ed1069f125"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
     "id": "aws_0f74504e978d9156f5ee",
@@ -10223,11 +9444,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "691b742a-b8c8-4c57-9737-fc6f5fa8b4b4",
-      "7e7170d5-2c06-482a-a030-cad0e4fdafe6"
+      "691b742a-b8c8-4c57-9737-fc6f5fa8b4b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
+    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_3b64b846389c52b7e235",
@@ -10287,44 +9507,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:47:17Z"
-  },
-  {
-    "id": "aws_5b195847f2d5941341c5",
-    "stationId": "awb_016c76335bdfec7a189c",
-    "name": "Cinemix HD",
-    "country": "CA",
-    "url": "https://kathy.torontocast.com:1825/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "84a1c50f-da6e-4a8c-86fe-0006dc0e3c36"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
-    "id": "aws_6557fab788750f2271fe",
-    "stationId": "awb_81d2c050c7fa6ad1421c",
-    "name": "CING 95.3 \"Fresh Radio\" Hamilton, ON",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CINGFM-MP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961f7f2a-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_eca8db5659c01765ed59",
@@ -10479,25 +9661,6 @@
     "lastCheckedAt": "2026-11-08T04:24:14Z"
   },
   {
-    "id": "aws_78d5376a4573e4b98441",
-    "stationId": "awb_8e692a810d5095dd5c5b",
-    "name": "CIOG-FM harvesters.fm",
-    "country": "CA",
-    "url": "https://harvestersciog.radioca.st/CIOG",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4db9326-7f4f-4d52-a792-bc70fa95af6a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:29:45Z"
-  },
-  {
     "id": "aws_39e24af797afd3973d33",
     "stationId": "awb_45d2bacfcf74488b5bac",
     "name": "CIOK 100.5 \"K-100\" Saint John, NB",
@@ -10591,25 +9754,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:16:34Z"
-  },
-  {
-    "id": "aws_4d07b95acaab4691ed4b",
-    "stationId": "awb_b42dd76190687598878e",
-    "name": "CIRA-FM 91.3 \"Radio Ville Marie\", Montreal, QC",
-    "country": "CA",
-    "url": "https://s5.radio.co/sec326ff8a/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2e9d19e2-1909-488f-9551-d29c259924fb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
   },
   {
     "id": "aws_c551e439e274b522501d",
@@ -10815,7 +9959,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13f18035-dc5b-4348-a6fe-6a312525290e",
       "a119bb16-b75b-46b1-b78d-3939f6247281"
     ],
     "lastCheckOk": true,
@@ -10957,25 +10100,6 @@
     "lastCheckedAt": "2026-11-06T17:55:24Z"
   },
   {
-    "id": "aws_94d0b2ddb1744d36b808",
-    "stationId": "awb_4b1486684f3089fbc74c",
-    "name": "CITI 92.1 Winnipeg, MB",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c97dc62-a2bf-438f-b765-6b5cff56983c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
-  },
-  {
     "id": "aws_f30ab325103a6e880046",
     "stationId": "awb_c16d188b16b90358a88b",
     "name": "CITM-FM Mix 98.5 FM Ottawa",
@@ -11012,25 +10136,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:01:14Z"
-  },
-  {
-    "id": "aws_0f9e4df0527dc35a8922",
-    "stationId": "awb_4af4332f881dc875825b",
-    "name": "CITR - University of British Columbia",
-    "country": "CA",
-    "url": "https://live.citr.ca/live.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5fd43583-7165-4145-a6b0-678cf62dcb6d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:51:28Z"
   },
   {
     "id": "aws_1b68f15ab47d20b9ebac",
@@ -11242,26 +10347,6 @@
     "lastCheckedAt": "2026-11-06T10:32:09Z"
   },
   {
-    "id": "aws_d5420c62c6722537e3fb",
-    "stationId": "awb_09a9e43250d44490df95",
-    "name": "CIUT University of Toronto",
-    "country": "CA",
-    "url": "https://ice23.securenetsystems.net/CIUT",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ed38c8b-f860-466b-809d-6ca95bf1453a",
-      "c9f409ca-5f66-4dfd-824f-6b0006a29bc7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
     "id": "aws_41e2a8bcdd4a507d2e6f",
     "stationId": "awb_b8ea798e718d4d2b36e0",
     "name": "CIUX-FM \"Hits 105.5\" Uxbridge, ON",
@@ -11416,25 +10501,6 @@
     "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
-    "id": "aws_4b20f9ff88afe236cda6",
-    "stationId": "awb_ac3dbe15bc9b8cd70d79",
-    "name": "CIWW CityNews Ottawa",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3cef0992-3437-484a-814c-9c73ab483a91"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:18:56Z"
-  },
-  {
     "id": "aws_0b634c18541005f1516a",
     "stationId": "awb_aff23894fbedfd161e11",
     "name": "CIXF \"Boom 101,1\" Brooks, AB",
@@ -11549,25 +10615,6 @@
     "lastCheckedAt": "2026-11-06T19:42:40Z"
   },
   {
-    "id": "aws_7282a86b59626d421786",
-    "stationId": "awb_29b1eeef659796fe1132",
-    "name": "CIZZ-FM Z 98.9",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CIZZFM",
-    "codec": "aac",
-    "bitrate": 132,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "336a3386-c9f1-4703-b89d-79a74688680a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:31:39Z"
-  },
-  {
     "id": "aws_d05faa2f6fc0c701a17a",
     "stationId": "awb_30dca0a17b4b14dc44be",
     "name": "CJAB-FM \"Energie Saguenay-Lac-Saint-Jean 94.5\" Saguenay, QC",
@@ -11657,11 +10704,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "48d409af-2bc4-4f0d-89cf-3b92b8f6041d",
-      "9a1a7669-d592-4440-9dba-436d9bf95306"
+      "e4a914a1-ec25-4127-b1df-4fe2fd50d5f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:58:56Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_3fc1c193553f4fdb8b7f",
@@ -11734,8 +10780,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9b35e640-6a0f-11e9-af37-52543be04c81",
-      "d7e95d26-0c2e-4fcf-a2ce-20e1d0502036"
+      "f37acb6e-2e37-419c-8775-d3e8345387b2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:59:35Z"
@@ -11765,20 +10810,18 @@
     "name": "CJBB 103.1 \"The Train\" Englehart, ON",
     "country": "CA",
     "url": "https://ice10.securenetsystems.net/CJBB",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "40992737-792a-11e9-aa30-52543be04c81",
       "CA:cjbb-103-1-the-train-englehart-on"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d6fd5321fc83f9472f0e",
@@ -11933,25 +10976,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:14:03Z"
-  },
-  {
-    "id": "aws_96ed312cfc788ade2637",
-    "stationId": "awb_6b95494e742a28592b76",
-    "name": "CJCL Sportsnet 590 The Fan",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c3e23375-63b8-11e9-a622-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
     "id": "aws_01f15f91a07cd131fc64",
@@ -12125,26 +11149,6 @@
     "lastCheckedAt": "2026-11-06T12:48:11Z"
   },
   {
-    "id": "aws_e6b582fa39de69fb40bd",
-    "stationId": "awb_71e9f95ca607f04c576c",
-    "name": "CJEG-FM \"Hot 101.3\" - Bonnyville, AB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CJEGFM",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9ac93c3f-a984-494b-be88-360b6de6c47d",
-      "d52fb8d5-62fc-4185-bc74-4b6374500f30"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
     "id": "aws_f373abebf32b7ee66e65",
     "stationId": "awb_5cd65fdc5fa23d829a76",
     "name": "CJEL-FM \"Eagle 93.5\" Winkler, MB",
@@ -12240,25 +11244,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-04T19:37:59Z"
-  },
-  {
-    "id": "aws_2fa933609cef11174646",
-    "stationId": "awb_e85583a0a526761bcec9",
-    "name": "CJFO \"Unique FM\"",
-    "country": "CA",
-    "url": "http://stream2.statsradio.com:8038/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8495087d-77b7-49fb-b1eb-8431255de050"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:45:34Z"
   },
   {
     "id": "aws_df30382acf70c5859538",
@@ -12737,7 +11722,7 @@
       "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_eedb48a18cb4b1c8cbba",
@@ -12854,25 +11839,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:49:18Z"
-  },
-  {
-    "id": "aws_cf49f864653292451f07",
-    "stationId": "awb_b0df17bc8be1b2fbd715",
-    "name": "CJMO 103.1 \"C103\" Moncton, NB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CJMOFM",
-    "codec": "aac",
-    "bitrate": 136,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961cc8d9-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
   },
   {
     "id": "aws_1000095f30641b330f5d",
@@ -13027,25 +11993,6 @@
     "lastCheckedAt": "2026-11-06T23:47:13Z"
   },
   {
-    "id": "aws_9f54c0d34c93fdf4cc6d",
-    "stationId": "awb_b8cc7ce17d40087ad82c",
-    "name": "CJNW 107.1 \"Hot 107\" Edmonton, AB",
-    "country": "CA",
-    "url": "http://cjnw.streamon.fm/stream/CJNW-64k.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9620f7cc-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:12:02Z"
-  },
-  {
     "id": "aws_c2f408659be558adb1d3",
     "stationId": "awb_165d12a27860244817a2",
     "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
@@ -13110,20 +12057,18 @@
     "name": "CJOC 94.1 \"Classic Hits\" Lethbridge, AB",
     "country": "CA",
     "url": "https://vistaradio.streamb.live/SB00093",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 57,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "01d3a8fd-0904-4d77-a28d-eff989054c97",
       "CA:cjoc-94-1-classic-hits-lethbridge-ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_487a9e53a0f9d64d59b1",
@@ -13131,20 +12076,18 @@
     "name": "CJOJ-FM 95.5 \"Hits FM\" Belleville, ON",
     "country": "CA",
     "url": "https://starboard.streamb.live/SB00160",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 98,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "930f808d-b9b8-42a3-a29f-1d4358bbdd26",
       "CA:cjoj-fm-95-5-hits-fm-belleville-on"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:07Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1a4f88cef4b846ec6c98",
@@ -13337,25 +12280,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
-    "id": "aws_cd95bd52e79502e57f28",
-    "stationId": "awb_8f8b45c786bfe3d9666b",
-    "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON",
-    "country": "CA",
-    "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "753394b9-f6ee-47fc-be25-7de91c19295b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
   },
   {
     "id": "aws_c4cf479aa937c3167f05",
@@ -14003,15 +12927,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3996a85a-6724-4d92-ab89-636e12bb8578",
       "CA:cjuv-fm-94-1-sunny-94"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_244f2f03c0ae7e67131c",
@@ -14128,44 +13050,6 @@
     "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
-    "id": "aws_3f34afcd9fc9ac67ea43",
-    "stationId": "awb_a5dd78c875f89481d76c",
-    "name": "CJXK-FM \"Boom 95.3\" - Cold Lake, AB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CJXKFM",
-    "codec": "aac",
-    "bitrate": 142,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "931d3832-0967-424a-8191-dbb394e15479"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:52:20Z"
-  },
-  {
-    "id": "aws_22d2de544a7c98512896",
-    "stationId": "awb_70c189dddd9ee8e31fd3",
-    "name": "CJXL \"New Country 96.9\" Moncton, NB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CJXLFM",
-    "codec": "aac",
-    "bitrate": 132,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a1dacd30-2ce2-4c61-86dd-91e4978b9673"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:00:54Z"
-  },
-  {
     "id": "aws_3e5b3a4a433c372abf98",
     "stationId": "awb_16ab997a53cea05b278a",
     "name": "CJXL 96.1 \"XL 96\" Moncton, NB",
@@ -14280,25 +13164,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:06:21Z"
-  },
-  {
-    "id": "aws_c142327b269fe2017cb2",
-    "stationId": "awb_3669a079e70511aeaded",
-    "name": "CJYQ \"New Country 930\" St. John's, NL",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CJYQAM",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "33b7ee78-d3fc-4cf3-88f3-bbc363bbabd7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
     "id": "aws_c10429b85a3ede38fe20",
@@ -14590,25 +13455,6 @@
     "lastCheckedAt": "2026-11-06T01:02:16Z"
   },
   {
-    "id": "aws_6b67de13b1dbc4a9e6fc",
-    "stationId": "awb_c1f444398e5976e3549d",
-    "name": "CKBN \"VIA 90.5 FM\" Bécancour, QC",
-    "country": "CA",
-    "url": "http://stream.statsradio.com:8056/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2e02dcee-6ae4-11e9-af37-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
-  },
-  {
     "id": "aws_0332fe40dcf55d1c1de6",
     "stationId": "awb_fc894b633f667f37d622",
     "name": "CKBN \"Via 90.5\" Saint-Gregoire, QC",
@@ -14757,8 +13603,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "64f28cfb-645c-4566-8ed1-4f40dd800d12",
-      "6bce7a62-ca7b-4fc5-8f59-79058cf17601"
+      "64f28cfb-645c-4566-8ed1-4f40dd800d12"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:51:00Z"
@@ -14869,34 +13714,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:ckcu-fm-93-1",
-      "f8b2cd78-5142-4978-a222-5d0435fe10dd"
+      "CA:ckcu-fm-93-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:08:34Z"
-  },
-  {
-    "id": "aws_091167babfe046880465",
-    "stationId": "awb_f04f51a05c9bda9ae7cc",
-    "name": "CKCU The Mighty 93.1",
-    "country": "CA",
-    "url": "https://stream2.statsradio.com:8124/stream",
-    "codec": "aac",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e36c7ebe-2b72-497e-977e-bf05fd2e20fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6b3bdab0df289bae68e8",
@@ -15203,25 +14027,6 @@
     "lastCheckedAt": "2026-11-06T22:14:03Z"
   },
   {
-    "id": "aws_874deca98526a1dba5f0",
-    "stationId": "awb_9af3ca0bc9ef4d746586",
-    "name": "CKEC-FM 94.1 \"The Breeze\" - New Glasgow, NS",
-    "country": "CA",
-    "url": "https://newcap.leanstream.co/CKECFM",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be63839c-0f9b-4582-aa93-74d67c26d25c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
-  },
-  {
     "id": "aws_30f4176897359c9c5458",
     "stationId": "awb_7373e07adbac34af210e",
     "name": "CKEN \"AVR 97.7\" Kentville, NS",
@@ -15270,15 +14075,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8001b783-671b-11e9-af37-52543be04c81",
       "CA:ckez-z97-9-new-glasgow-ns"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_84eb86cea6dedf3533ff",
@@ -15452,25 +14255,6 @@
     "lastCheckedAt": "2026-11-06T13:15:15Z"
   },
   {
-    "id": "aws_2be64a47116cd06ae1ab",
-    "stationId": "awb_2d12a629ee7e65ba5f5a",
-    "name": "CKGL \"City News 570\" Kitchener, ON",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "89444c43-7d79-4211-9c4f-11c029739101"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
     "id": "aws_b6eb721b67f42c55b0fd",
     "stationId": "awb_1c6c9268617c240dffae",
     "name": "CKGN 89.7 Kapuskasing & 94.7 Smooth Rock Falls, ON",
@@ -15509,25 +14293,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:09:12Z"
-  },
-  {
-    "id": "aws_b38c7b4794fb229b5f98",
-    "stationId": "awb_a3c90a3e632b2a158cf2",
-    "name": "CKGY \"Real Country 95.5\" Red Deer, AB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CKGYFM-MP3",
-    "codec": "aac",
-    "bitrate": 135,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9615b225-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
   },
   {
     "id": "aws_93cbee24154acc262751",
@@ -15625,25 +14390,6 @@
     "lastCheckedAt": "2026-11-06T14:42:35Z"
   },
   {
-    "id": "aws_495c39630570443cc634",
-    "stationId": "awb_8d11f3c0b6bef1b44cc9",
-    "name": "CKIS \"KISS 92.5\" Toronto, ON",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6a38a4f5-3c66-413e-b3e2-33d0b1420e0a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
     "id": "aws_4423d27ac1f24222cac8",
     "stationId": "awb_45fbe391540f20496bd6",
     "name": "CKIX 99.1 \"Hits FM\" St. John's, NL",
@@ -15661,25 +14407,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:37:04Z"
-  },
-  {
-    "id": "aws_108055d88ab4beb39517",
-    "stationId": "awb_805f15d547c29910c325",
-    "name": "CKIX-FM \"Hot 99.1\" St. John's, NL",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CKIXFM",
-    "codec": "aac",
-    "bitrate": 140,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b114c4d-3c5c-46a8-af70-18dcec573add"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:49:04Z"
   },
   {
     "id": "aws_bb5c596e48f3180d8f00",
@@ -15737,25 +14464,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:39:08Z"
-  },
-  {
-    "id": "aws_c98e4a351c9fd951f609",
-    "stationId": "awb_b8c17aee78e74000dfe3",
-    "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (AAC Stream)",
-    "country": "CA",
-    "url": "https://newcap.leanstream.co/CKJRAM",
-    "codec": "aac",
-    "bitrate": 133,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fcc762af-f6cb-420a-a9ef-ff3a26296231"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:52Z"
   },
   {
     "id": "aws_d05cb8c6c833ffc5070d",
@@ -16007,25 +14715,6 @@
     "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
-    "id": "aws_bad525f8084819682bbb",
-    "stationId": "awb_7b0974d92c6340403eb6",
-    "name": "CKLB-FM 101.9 Yellowknife, NT",
-    "country": "CA",
-    "url": "http://cklb.streamon.fm:8000/CKLB-24k.aac",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06d24bb7-cde8-4ad6-94ba-56f459f9a454"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:53:19Z"
-  },
-  {
     "id": "aws_7f376743c092f2144d49",
     "stationId": "awb_5e5c8061ff61d489107e",
     "name": "CKLD \"Plaisir 105.5\" Thetford Mines, QC",
@@ -16102,25 +14791,6 @@
     "lastCheckedAt": "2026-11-07T00:22:05Z"
   },
   {
-    "id": "aws_988cbe0d986cb5a6961b",
-    "stationId": "awb_ff50c2834a7b3bc0bd29",
-    "name": "CKLN \"New Country 97.1\" Clarenville, NL",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CKLNFM",
-    "codec": "aac",
-    "bitrate": 129,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b857c22-72a9-4e9c-8cce-f5f696c825ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
     "id": "aws_fa2fd521b51b7d2c641a",
     "stationId": "awb_b2aa2ed2fbf435a9da62",
     "name": "CKLN 97.1 \"KIXX Country\" Clarenville, NL",
@@ -16138,25 +14808,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:30:58Z"
-  },
-  {
-    "id": "aws_9c92acc03c5e7565657a",
-    "stationId": "awb_32a27cb2fdbdc8da3969",
-    "name": "CKLO \"Classic Rock 98.1 FM\" London, ON",
-    "country": "CA",
-    "url": "http://live.leanstream.co/CKLOFM",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2324adb4-186c-4698-abf1-7103776a7137"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
   },
   {
     "id": "aws_c049966695c3d18ab04e",
@@ -16233,25 +14884,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:43:51Z"
-  },
-  {
-    "id": "aws_4cdb9197f42a93e1f80e",
-    "stationId": "awb_5e283ac863315f4b5980",
-    "name": "CKLU 96.7 FM",
-    "country": "CA",
-    "url": "http://ckluradio.laurentian.ca:88/broadwave.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a758510a-fb00-4e49-beb8-7076676bdf27"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
   },
   {
     "id": "aws_15f3c6ce8a5515c27452",
@@ -17687,25 +16319,6 @@
     "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
-    "id": "aws_28ab8d56f743cdded2b9",
-    "stationId": "awb_48a97c1ad36473b0a35f",
-    "name": "CKUL-FM \"The Breeze 96.5\" Halifax, NS",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CKULFM",
-    "codec": "aac",
-    "bitrate": 132,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2e2e668-41b4-46f6-a49d-40c71267b658"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
-  },
-  {
     "id": "aws_ade18089ff4f9a72b2d2",
     "stationId": "awb_52a902f86df14955f0a3",
     "name": "CKUT 90.3 FM",
@@ -17784,25 +16397,6 @@
     "lastCheckedAt": "2026-11-06T22:06:20Z"
   },
   {
-    "id": "aws_8fa6e5b3bf6dab9608ac",
-    "stationId": "awb_40b9cf2895ef53d5e40c",
-    "name": "CKUW 95.9 FM",
-    "country": "CA",
-    "url": "http://shout.mtl.gameservers.com:9025/;",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f0a9d6f7-86a2-4d81-a251-e8feb0b4ae9d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
     "id": "aws_2c32de4c7c26b9ec4dfa",
     "stationId": "awb_4845b98397a9af1ced40",
     "name": "CKUW 95.9 University of Winnipeg, MB",
@@ -17839,25 +16433,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:53:19Z"
-  },
-  {
-    "id": "aws_6c8a3aba61631359cf0a",
-    "stationId": "awb_480990d794baf073de99",
-    "name": "CKUW Winnipeg",
-    "country": "CA",
-    "url": "http://shout.mtl.gameservers.com:9025/;",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f48f9e04-5167-4948-9fd7-285deb7aae4a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
     "id": "aws_1eab009efa1d250254ca",
@@ -17974,25 +16549,6 @@
     "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
-    "id": "aws_1001d22cc3be8f6a534e",
-    "stationId": "awb_d45fbafb6c930e513649",
-    "name": "CKVV 97.5 \"Moose FM\" Kemptville, ON",
-    "country": "CA",
-    "url": "https://vistaradio.streamb.live/SB00108",
-    "codec": "aac+",
-    "bitrate": 57,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27fb1674-2c96-403a-b5d3-dcc606c9f9b7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:18:56Z"
-  },
-  {
     "id": "aws_233dbc46e683e1c2d36a",
     "stationId": "awb_611a492a30a4a823ecc6",
     "name": "CKVX-FM 104.9 \"Country 104\" Kindersley, SK",
@@ -18088,25 +16644,6 @@
     "lastCheckedAt": "2026-11-06T15:03:28Z"
   },
   {
-    "id": "aws_ff494144c216a4628784",
-    "stationId": "awb_0199ac43455654ecacb7",
-    "name": "CKWR 98.5 \"Real Community Radio\" Kitchener, ON",
-    "country": "CA",
-    "url": "https://stream2.statsradio.com:8150/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "434ab4b9-252f-44c4-ad71-8f3c8dd9bcff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:21:41Z"
-  },
-  {
     "id": "aws_b6560c06fab8a5b2325e",
     "stationId": "awb_21778e9d8f397a4c8b11",
     "name": "CKWS 104.3 \"Fresh Radio\" Kingston, ON",
@@ -18200,25 +16737,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:59:48Z"
-  },
-  {
-    "id": "aws_d4e627942425b1c700b8",
-    "stationId": "awb_e6ff161d25757832ef0b",
-    "name": "CKWY 93.7 \"Wayne FM\" Wainwright, AB",
-    "country": "CA",
-    "url": "http://newcap.leanstream.co/CKWYFM",
-    "codec": "aac",
-    "bitrate": 131,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9620c7e2-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
   },
   {
     "id": "aws_96a4c9bff40b0005a15a",
@@ -18392,25 +16910,6 @@
     "lastCheckedAt": "2026-11-07T00:55:09Z"
   },
   {
-    "id": "aws_6e5c749f08baae9c7f2e",
-    "stationId": "awb_9f0a531204727b887b6b",
-    "name": "CKYE-FM 93.1 \"Red FM\" Vancouver, BC",
-    "country": "CA",
-    "url": "https://ice24.securenetsystems.net/CKYE",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8452a46f-58b2-4f4b-b82b-de9026041208"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
-  },
-  {
     "id": "aws_8f0e85bb0058e00bb941",
     "stationId": "awb_7aa7d6ba7a511c12cb7e",
     "name": "CKYL 610 \"YL Country\" Peace River, AB",
@@ -18557,11 +17056,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2ac7587e-ae85-4125-b05a-00f93a0d7e3c",
-      "cd150a3d-7ffc-4747-827b-158358d41ebe"
+      "2ac7587e-ae85-4125-b05a-00f93a0d7e3c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
+    "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
     "id": "aws_9e46be8be44405ac811f",
@@ -18678,25 +17176,6 @@
     "lastCheckedAt": "2026-11-07T03:03:28Z"
   },
   {
-    "id": "aws_c95114cee29940dcb44f",
-    "stationId": "awb_f57e500d0a26a34cef8d",
-    "name": "Classic Rock 109",
-    "country": "CA",
-    "url": "http://listen.classicrock109.com:10042/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e6003c36-6191-4341-b2ba-375c17d26152"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
-  },
-  {
     "id": "aws_54a3f9f04294a79cfebc",
     "stationId": "awb_90abb65d3f614d66e79a",
     "name": "ClassicHitsOnline.com",
@@ -18729,8 +17208,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4ffed054-89e0-4fe9-a8c8-c73a2bd456bb",
-      "cdf7102b-850c-4642-a908-844ac0974b04"
+      "4ffed054-89e0-4fe9-a8c8-c73a2bd456bb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:22:40Z"
@@ -19080,8 +17558,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d",
-      "d0a3760c-e6e6-4a5e-b41a-bdbdb3e71231"
+      "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-04T19:37:59Z"
@@ -19177,49 +17654,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "36ca8745-a025-45f2-89d8-61d2afbeb20e",
       "e3ead4ee-e8ac-47d2-8c72-e77fd61f74d1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
-  },
-  {
-    "id": "aws_4eaeecc77fb3ade8efee",
-    "stationId": "awb_65daac32516f5963519a",
-    "name": "Downtempo Radio (Downtempo.Radio)",
-    "country": "CA",
-    "url": "https://listen.downtempo.radio/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ea20e391-57f4-477d-a39d-08a1a4bd630a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:05Z"
-  },
-  {
-    "id": "aws_dba67b9c7eb5475d2331",
-    "stationId": "awb_5b8b6c0e17364f493d04",
-    "name": "Dream 102.9 FM",
-    "country": "CA",
-    "url": "http://cdn.voscast.com/resources/?key=8db736edbd338204f5e81908aa843113&c=wmp",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aef52340-7194-4393-ab0a-20f269e8b277"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:30:27Z"
+    "lastCheckedAt": "2026-11-06T20:03:00Z"
   },
   {
     "id": "aws_9529bdb041d8d6c25746",
@@ -19596,7 +18034,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "07306812-2360-4cef-8547-f0f8cc123380",
       "708bd211-73cf-403a-8ec9-2af4f87dc613"
     ],
     "lastCheckOk": true,
@@ -19906,30 +18343,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "df940833-3a3f-43c7-9b1e-27221a3097cb",
-      "fc92f323-07c7-40c4-baa4-2ebd2f0ff4c3"
+      "df940833-3a3f-43c7-9b1e-27221a3097cb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
-    "id": "aws_c051e8cadadf3abb9e89",
-    "stationId": "awb_b2313ecfebb8b80fde91",
-    "name": "Glory To Jesus",
-    "country": "CA",
-    "url": "https://ca.publicssl.net/8006/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eebaad05-2cab-431b-89b0-404a89b497be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
+    "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
     "id": "aws_101a740e40e4a83c47fc",
@@ -19968,25 +18385,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:59:26Z"
-  },
-  {
-    "id": "aws_78bc16aff046cc85c3e7",
-    "stationId": "awb_8ce1e83628dd94f1a00f",
-    "name": "Greatest Hits Of All Time",
-    "country": "CA",
-    "url": "http://160.153.184.146:8018/mp3",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1bb4abb2-f9ab-47a7-996d-8109884b4ee4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:52:13Z"
   },
   {
     "id": "aws_c079e6bbb51780735db6",
@@ -20081,7 +18479,7 @@
       "830365d1-530d-4945-8d30-5ced3734a48b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_41e67cbe1195277e1ebc",
@@ -20100,7 +18498,7 @@
       "d916f208-b68c-402b-816e-d765a6823411"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_faf469b7de68476873d8",
@@ -20249,30 +18647,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6c01acde-1b25-4f2a-a759-acd6a73334dd",
-      "e1acc817-4627-40dc-a688-7078917df20c"
+      "6c01acde-1b25-4f2a-a759-acd6a73334dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T02:39:24Z"
-  },
-  {
-    "id": "aws_a83edf8a44f9f5ebe284",
-    "stationId": "awb_fccb33d6c8f3746831d5",
-    "name": "HITS 100",
-    "country": "CA",
-    "url": "https://sboucher.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fced9186-fb98-4bc6-b618-905f5705c2e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:03:49Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_cdeba83d1059c1fded4f",
@@ -20292,25 +18670,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:01:43Z"
-  },
-  {
-    "id": "aws_c1ad21361e71d23d69a9",
-    "stationId": "awb_b4603d158c41efc1067d",
-    "name": "HITS100",
-    "country": "CA",
-    "url": "https://sboucher.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3f6445a4-6bb4-497e-a0b9-d8c398277c6a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:05:28Z"
   },
   {
     "id": "aws_f9972a13da3bf549af33",
@@ -20404,11 +18763,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a61cb1c-4c15-4769-ae8a-c5ee52edd2c3",
-      "faa7ba0b-2abc-4989-a2b2-b4e2b28e5027"
+      "0a61cb1c-4c15-4769-ae8a-c5ee52edd2c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:48:28Z"
+    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_608f4a8a343b6b86d1b5",
@@ -20449,25 +18807,6 @@
     "lastCheckedAt": "2026-11-06T23:12:19Z"
   },
   {
-    "id": "aws_fb5d3fae082a2125d972",
-    "stationId": "awb_8516b1b9e7d9db23ddc0",
-    "name": "ICI Musique - Montréal",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c6b5ad3-46d2-48a7-88a1-1606b2e9b583"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:08:01Z"
-  },
-  {
     "id": "aws_ec1894e78b535826d0bc",
     "stationId": "awb_e29c289c360aabfe0186",
     "name": "ICI Musique - Montreal, QC",
@@ -20485,25 +18824,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:29:46Z"
-  },
-  {
-    "id": "aws_a3886dff7632f41917ba",
-    "stationId": "awb_ed3fb87c8a9ddc9aca4c",
-    "name": "ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f205439c-5a27-4e95-ae9f-bba7ac569439"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
   },
   {
     "id": "aws_0380191b742d8e119184",
@@ -20601,25 +18921,6 @@
     "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
-    "id": "aws_2eb393b11a1c29759c0e",
-    "stationId": "awb_93d6cc7afccd2d1c1b32",
-    "name": "ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8c8a75f6-70b0-446c-8450-022c077c7301"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
     "id": "aws_4147d9545e3506bd3ef9",
     "stationId": "awb_fa63425c7f59a6456f01",
     "name": "ICI Radio-Canada Première Montréal",
@@ -20671,11 +18972,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8b06d8d4-01ae-4a81-9c98-72425ce4a79e",
       "a1f49a50-6409-4922-86f7-579de3a05a9d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
+    "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
     "id": "aws_6b5ae2782943e5ec3470",
@@ -20691,8 +18991,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "51239cdd-d426-4473-9872-365c2468f644",
-      "c6e06489-671e-4745-8eb2-c5c5789dae56"
+      "51239cdd-d426-4473-9872-365c2468f644"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:36:05Z"
@@ -20755,25 +19054,6 @@
     "lastCheckedAt": "2026-11-07T00:47:55Z"
   },
   {
-    "id": "aws_6ef6efe8507edb2eabbc",
-    "stationId": "awb_62866e2d73722f1c2802",
-    "name": "Indie 88.1 CIND-FM",
-    "country": "CA",
-    "url": "https://localradio.streamb.live/SB00348",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c37d7f6-8495-4985-b11c-0962034bf964"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:56:46Z"
-  },
-  {
     "id": "aws_742888e35d9113237e15",
     "stationId": "awb_8230b741980d46b6b829",
     "name": "Indie88",
@@ -20833,7 +19113,7 @@
   {
     "id": "aws_8dcab3a4ac3930039970",
     "stationId": "awb_cc126205989632e9308f",
-    "name": "irock24/7",
+    "name": "iRock24/7",
     "country": "CA",
     "url": "https://streamer.radio.co/s493283a7e/listen",
     "codec": "mp3",
@@ -20845,11 +19125,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6615c0f3-c43e-4b65-99f6-c5ea65bf8dfb",
-      "CA:irock24-7"
+      "CA:irock24-7",
+      "b8efc30a-b7fb-4e2b-95c4-03b9439ee42d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:04:41Z"
+    "lastCheckedAt": "2026-11-06T07:14:37Z"
   },
   {
     "id": "aws_a48ea317b089df9455da",
@@ -20938,15 +19218,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:j-pop-powerplay-kawaii",
-      "baeda35f-8e9b-44d3-8b18-2345d599a26c"
+      "CA:j-pop-powerplay-kawaii"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a32124b7c1d62fbf5e4a",
@@ -21210,15 +19488,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "271b0aa0-053a-4461-9363-a4af2cb2a759",
       "CA:jazz-fm91-cjrt-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_cc8eee2d9cbe3d364402",
@@ -21254,7 +19530,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "17d032f2-f706-4fd6-91ae-d6bbb9debbdf",
+      "714057c6-5ab0-41a7-8ed4-3e96bcdb349c",
       "CA:jb-radio-2"
     ],
     "lastCheckOk": true,
@@ -21266,39 +19542,18 @@
     "name": "JB Radio-2 (AAC)",
     "country": "CA",
     "url": "https://mediacp.jb-radio.net:8001/aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2a635cd4-66b5-4d31-a3eb-990abbb8aba3",
       "CA:jb-radio-2-aac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
-  },
-  {
-    "id": "aws_bd1fd809d7a237683562",
-    "stationId": "awb_3dda4a8b772088ff2e03",
-    "name": "JBRadio2",
-    "country": "CA",
-    "url": "https://mediacp.jb-radio.net:8001/aac",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f166eeab-cc54-4168-b7b7-468ea750c26c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:08:01Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_121c2074d814342ceea5",
@@ -21599,8 +19854,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6f6c5640-4987-4ccd-9c5c-9d74689e03e3",
-      "e3696739-8c68-440d-bc7a-d2bdaba95e25"
+      "6f6c5640-4987-4ccd-9c5c-9d74689e03e3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:41:28Z"
@@ -21834,25 +20088,6 @@
     "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
-    "id": "aws_aeb9a76baf8266d3be5a",
-    "stationId": "awb_f939d4c67668a69b700b",
-    "name": "KROSSWAVE RADIO",
-    "country": "CA",
-    "url": "https://usa5.fastcast4u.com/proxy/mcbnkwave?mp=/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42a626d7-d4dc-4e6a-9a40-56f8ef8d8bec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:31:57Z"
-  },
-  {
     "id": "aws_d61aed60513c6805f2d4",
     "stationId": "awb_d04cc279d2fd96e44fba",
     "name": "KSKQ Community Radio",
@@ -21943,7 +20178,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "15928e36-5a32-4841-9edc-13b4f4c4462c",
+      "9fa14ddf-4fba-45dc-b630-50c2d120b935",
       "CA:la-bonita-x101"
     ],
     "lastCheckOk": true,
@@ -22007,46 +20242,6 @@
     "lastCheckedAt": "2026-11-06T16:29:06Z"
   },
   {
-    "id": "aws_bac9eb3a387a4d89f5fe",
-    "stationId": "awb_1e88c900e5caee8af60b",
-    "name": "Labgate - Alt Rock Grunge",
-    "country": "CA",
-    "url": "https://s2.ssl-stream.com/radio/8190/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "331a9314-f71a-43da-99b6-88ce75fd1d62"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:05:46Z"
-  },
-  {
-    "id": "aws_f392febaac253f59fcae",
-    "stationId": "awb_0c367d59500f487f5c52",
-    "name": "Labgate - Classic Rock",
-    "country": "CA",
-    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "1677d63b-0986-418b-b3d4-3e436bd40420",
-      "CA:labgate-classic-rock"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:51:19Z"
-  },
-  {
     "id": "aws_8477f9f8165c437cc44e",
     "stationId": "awb_bb4f5da7321401df8ce8",
     "name": "Labgate - Progressive Rock",
@@ -22057,15 +20252,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0df85b66-7ef3-4e16-9283-2dc113a956dd",
       "CA:labgate-progressive-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5cdcfdda1c6358e21e44",
@@ -22106,23 +20299,25 @@
     "lastCheckedAt": "2026-11-06T16:51:28Z"
   },
   {
-    "id": "aws_f436fffc82b3f8e0bb23",
-    "stationId": "awb_0b310157da1e4fe6bbcf",
-    "name": "Labgate Hitwave Rewind",
+    "id": "aws_f392febaac253f59fcae",
+    "stationId": "awb_0c367d59500f487f5c52",
+    "name": "Labgate Classic Rock",
     "country": "CA",
-    "url": "https://s2.ssl-stream.com/radio/8200/radio.mp3",
+    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser"
+      "radio-browser",
+      "verified-radio-streams"
     ],
     "sourceIds": [
-      "5ef4f3bf-6a46-480b-bb52-df1203ab478d"
+      "1677d63b-0986-418b-b3d4-3e436bd40420",
+      "CA:labgate-classic-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
+    "lastCheckedAt": "2026-11-06T06:51:19Z"
   },
   {
     "id": "aws_769413caf58321cc3a86",
@@ -22154,15 +20349,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CA:labgate-p-yg-pink-floyd-yes-genesis",
-      "de478916-6d8d-4997-9894-9d068bcf1857"
+      "CA:labgate-p-yg-pink-floyd-yes-genesis"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:15:39Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_17231f2bbf9ace184d63",
@@ -22199,7 +20392,7 @@
     ],
     "sourceIds": [
       "CA:labgate-pop-rock",
-      "c288c3cd-3193-4745-bc04-9ca7ebd5e9bf"
+      "ef5c6c3c-bd1e-404a-b2cf-70e41cbe435c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:24:20Z"
@@ -22224,25 +20417,6 @@
     "lastCheckedAt": "2026-11-06T23:44:19Z"
   },
   {
-    "id": "aws_59cce88ffec13b6b66d4",
-    "stationId": "awb_d0daf52c1254244a145d",
-    "name": "Labgate Radio Clasic Rock",
-    "country": "CA",
-    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "402018c3-5a5f-4c63-a40d-197aba67d322"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_d93face366bcb061c8b3",
     "stationId": "awb_3610307d0b5634c2eef7",
     "name": "Labgate Radio P.Y.G.",
@@ -22260,25 +20434,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:03:21Z"
-  },
-  {
-    "id": "aws_3e1961d0ca16456522fd",
-    "stationId": "awb_6f1eb4ec96a942c4d28a",
-    "name": "Labgate Radio Pop Rock",
-    "country": "CA",
-    "url": "https://s2.ssl-stream.com/radio/8200/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "65dbde60-996f-4cf3-80bb-47d5308b698c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_3da5b939c955ac325b38",
@@ -22416,25 +20571,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
-    "id": "aws_0dac4a1d7c9d6c3aefb0",
-    "stationId": "awb_bc2117fbbc2499c103b7",
-    "name": "Life 100.3",
-    "country": "CA",
-    "url": "https://netstream.lifeonline.fm/CJLF/ogg_high",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f561f269-427b-4fa7-9b7f-881e45a829d5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:53:19Z"
   },
   {
     "id": "aws_190b64a394ba8c1fedcc",
@@ -22743,25 +20879,6 @@
     "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
-    "id": "aws_6ef6d316d80562b8e3c6",
-    "stationId": "awb_b9b3bb6d7ca7a35a0a31",
-    "name": "MetalRock.FM",
-    "country": "CA",
-    "url": "https://kathy.torontocast.com:1485/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dec62410-688c-45a8-b123-0a917888a408"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:25:14Z"
-  },
-  {
     "id": "aws_c159f81605dc71381275",
     "stationId": "awb_8408df8a83bdd91f81b6",
     "name": "Midnight in the Desert (Art Bell) - DOPEBEAT",
@@ -22794,11 +20911,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "695aab8e-c413-4449-9f97-83c2926b1e58",
       "df7bb7ec-788c-4665-99ae-5243c3b24e2d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
+    "lastCheckedAt": "2026-11-06T06:23:20Z"
   },
   {
     "id": "aws_7f6c2036f3f9318c1cc5",
@@ -22837,25 +20953,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:51:08Z"
-  },
-  {
-    "id": "aws_864c2f40bc68951de758",
-    "stationId": "awb_ef5372649c1c92d7a0f1",
-    "name": "Moose FM 93.5 Haliburton - CFZN",
-    "country": "CA",
-    "url": "https://vistaradio.streamb.live/SB00113",
-    "codec": "aac+",
-    "bitrate": 57,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "79e49578-4b7b-4b3d-a08f-29212d5ebe69"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
     "id": "aws_964574fb880e5c1e0baa",
@@ -22913,25 +21010,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:48:16Z"
-  },
-  {
-    "id": "aws_0a15b72369308e56b6be",
-    "stationId": "awb_d197d4406e5bc29accf2",
-    "name": "my FM 88.1",
-    "country": "CA",
-    "url": "https://mybroadcasting.streamb.live/SB00315",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4845c5a0-641f-46d4-a659-657e81c596df"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
   },
   {
     "id": "aws_f00f1eff9a96b64d24a1",
@@ -23023,11 +21101,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "96643f48-c85c-41d5-b9a0-6c6cd861e87b",
       "d3270e0c-5371-435c-8479-b543511d397f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:50Z"
+    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_65695cdf79395498409a",
@@ -23049,44 +21126,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:01:25Z"
-  },
-  {
-    "id": "aws_cb83210758daa54d8827",
-    "stationId": "awb_440b8bad48399d34bc53",
-    "name": "NCI fm",
-    "country": "CA",
-    "url": "http://201.netromedia.com/NCIFM1/NCIFM1/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 129,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d61559af-bb7d-43d9-b243-0ed54512db91"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
-  },
-  {
-    "id": "aws_d1be3aa508f87edfc6a2",
-    "stationId": "awb_bdb2b200b65226f5c169",
-    "name": "NCI-FM Network (Manitoba-wide)",
-    "country": "CA",
-    "url": "http://201.netromedia.com/NCIFM1/NCIFM1/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 129,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "71fdb07a-de31-4635-957c-c2f692fbe9bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
     "id": "aws_3a1c5bf006dd2a40c651",
@@ -23182,25 +21221,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:10:48Z"
-  },
-  {
-    "id": "aws_a54784f1632eaebae042",
-    "stationId": "awb_0fb18a26ca1ddb2c099a",
-    "name": "Nighthaven Enclave Radio - DJ Starface",
-    "country": "CA",
-    "url": "http://cast3.my-control-panel.com:7695/live",
-    "codec": "ogg",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51479fc8-a8ae-40ac-b234-d1cbfca2f9b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
   },
   {
     "id": "aws_62f8cc01c2ca21f0d34e",
@@ -23319,25 +21339,6 @@
     "lastCheckedAt": "2026-11-06T06:21:16Z"
   },
   {
-    "id": "aws_06f338b2375b1522d007",
-    "stationId": "awb_0101ff47a3dbe51058f3",
-    "name": "Ottawa CHEZ 106.1 (CHEZFM)",
-    "country": "CA",
-    "url": "https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1776feb1-a73a-47df-8e54-db984f3d5a26"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:36:35Z"
-  },
-  {
     "id": "aws_12652ecbaec05673b829",
     "stationId": "awb_2f98aea006294222a83e",
     "name": "Ottawa Hot 89.9 (CIHTFM)",
@@ -23395,25 +21396,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:51:08Z"
-  },
-  {
-    "id": "aws_2e8935ee2a4204beda29",
-    "stationId": "awb_a9dcaeade2236399a7df",
-    "name": "OZ FM Newfoundland",
-    "country": "CA",
-    "url": "https://ozfm.streamb.live/SB00174",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960309f6-b093-4422-93b0-ab489aec467a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
   },
   {
     "id": "aws_96ffd0ec86c755dfe778",
@@ -23681,7 +21663,7 @@
       "b30754c1-48f7-44a8-be1c-401de492f4a7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_98c7bf177b3146515f2f",
@@ -24009,25 +21991,6 @@
     "lastCheckedAt": "2026-11-06T03:32:21Z"
   },
   {
-    "id": "aws_317c47b8a494cebcc853",
-    "stationId": "awb_c6cd71edeb09516f9b6f",
-    "name": "Radio BluesFlac",
-    "country": "CA",
-    "url": "http://streams.radiomast.io/radioblues-flac",
-    "codec": "ogg",
-    "bitrate": 1500,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "54c53b2e-2dff-43d1-b4bb-25727419aebf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:58Z"
-  },
-  {
     "id": "aws_f93bf0a2173c419e39bb",
     "stationId": "awb_5d6249994da10c48bc3d",
     "name": "Radio Canada Ici Musique - Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)",
@@ -24060,8 +22023,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "89e485ba-ea69-460a-b112-803e82687d9e",
-      "f2f12449-3eb6-46c2-92bb-1ee912ac208c"
+      "89e485ba-ea69-460a-b112-803e82687d9e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:42:28Z"
@@ -24274,25 +22236,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:41:28Z"
-  },
-  {
-    "id": "aws_2aad7a735da7f1c5cd27",
-    "stationId": "awb_e079f5ff770779cebd58",
-    "name": "Radio Canada Ici Musique Classique - Montreal, QC",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5865e229-fe6b-4409-98b7-4f3beeb5fd9e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:53:31Z"
   },
   {
     "id": "aws_9591fa5429a6b0961819",
@@ -24521,25 +22464,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
-    "id": "aws_45e30d76902bd376f2e2",
-    "stationId": "awb_c7b2ea7af2bcda7599df",
-    "name": "Radio Canada Ici Première (Nouveau-Brunswick) Moncton, NB",
-    "country": "CA",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ad0173f8-9c5d-4f14-84b5-a8e83fce32fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
   },
   {
     "id": "aws_2c2ba7f9e6f359a7905a",
@@ -24802,7 +22726,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5c9a8bfe-a3d7-4c18-ab59-20ab99e1dbb5",
       "9711d46f-fb54-4f01-9b7e-c19f62472cbb"
     ],
     "lastCheckOk": true,
@@ -24847,25 +22770,6 @@
     "lastCheckedAt": "2026-11-06T18:45:24Z"
   },
   {
-    "id": "aws_92e2122502a4858922e7",
-    "stationId": "awb_b72159250883d3c15fb0",
-    "name": "Radio Enigma RDE",
-    "country": "CA",
-    "url": "https://cast1.torontocast.com:4765/stream",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ac11d63-7ec3-40ed-a858-6d96789577a7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
     "id": "aws_6700570e8b2c2d501f44",
     "stationId": "awb_c724f1fcc5dcb07fcee9",
     "name": "Radio Eurodance Classic - Pure and Addictive",
@@ -24906,7 +22810,7 @@
   {
     "id": "aws_3d5b4afeeaa81f8851af",
     "stationId": "awb_299244679b78e413cb28",
-    "name": "radio faro.net",
+    "name": "Radio faro.net",
     "country": "CA",
     "url": "https://cast1.torontocast.com:5230/stream",
     "codec": "mp3",
@@ -24917,8 +22821,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "81e772fa-322b-4f44-8672-7b150c1e6563",
-      "d7b29742-184a-4a06-a9a2-c9aa19619f3d"
+      "81e772fa-322b-4f44-8672-7b150c1e6563"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:03:49Z"
@@ -25149,7 +23052,7 @@
       "263e79f0-f145-4b15-aa95-adfc5bc87051"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_7b74b8d45aa8075fb9e2",
@@ -25305,7 +23208,7 @@
       "CA:radio-unicite"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
+    "lastCheckedAt": "2026-11-06T17:20:08Z"
   },
   {
     "id": "aws_2aae3643d4946b09968c",
@@ -25709,29 +23612,10 @@
     ],
     "sourceIds": [
       "CA:reggae-chill-cafe",
-      "a3253a96-a1ba-4cf5-bf4b-ec7988afcfd3"
+      "bceb7e71-3564-4cf6-aec6-3ba8adbe7e8a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:20:31Z"
-  },
-  {
-    "id": "aws_5f78e710bbbc7d9857d8",
-    "stationId": "awb_2c51a496173326ac4f4b",
-    "name": "REGGAE CHILLI CAFE",
-    "country": "CA",
-    "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e274773-b71f-4e00-8dc6-aae24f3757fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:21:16Z"
   },
   {
     "id": "aws_4c9865a33284ffefeb19",
@@ -25849,7 +23733,7 @@
       "CA:ritmo-x99"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
+    "lastCheckedAt": "2026-11-06T22:00:57Z"
   },
   {
     "id": "aws_988b56e12d450a1cecde",
@@ -26158,25 +24042,6 @@
     "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
-    "id": "aws_4a4b0924ffcb248df6f7",
-    "stationId": "awb_d470703934b7b1face64",
-    "name": "RPGN Game Music Radio",
-    "country": "CA",
-    "url": "http://listen.rpgamers.net/rpgn",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "208b887f-28c5-410e-8981-129b97b77404"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
-  },
-  {
     "id": "aws_0b8b699334a01c8645a7",
     "stationId": "awb_dc82395a7842bac4a755",
     "name": "RPGN Radio",
@@ -26213,25 +24078,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:08:34Z"
-  },
-  {
-    "id": "aws_d856b5c73c65c26d21bc",
-    "stationId": "awb_788906f10868098a2daf",
-    "name": "Rythme 100,1 Mauricie",
-    "country": "CA",
-    "url": "https://s33.myradiostream.com/15364/listen.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4a966a5-e423-4c25-b1b4-f529aba6dac4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
   },
   {
     "id": "aws_8d3f3e9aecfefbf48f61",
@@ -26310,25 +24156,6 @@
     "lastCheckedAt": "2026-11-06T23:51:27Z"
   },
   {
-    "id": "aws_3623a5a4821ab6a8740a",
-    "stationId": "awb_b468bc4c01fd48706435",
-    "name": "scifi.radio",
-    "country": "CA",
-    "url": "https://station.kryptonradio.com:8080/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1caced3d-0279-46b2-8f1b-06944a6024ab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
     "id": "aws_930dedd2bfd9630e9eb3",
     "stationId": "awb_a5583649b7f32e71c95a",
     "name": "SCIFI.radio - Exclusively Instrumentals",
@@ -26386,25 +24213,6 @@
     "lastCheckedAt": "2026-11-06T20:09:12Z"
   },
   {
-    "id": "aws_6bd3bf9f779513c5caaf",
-    "stationId": "awb_a5bd975ac6f8c87470b5",
-    "name": "Seaside FM",
-    "country": "CA",
-    "url": "https://seasidefm1059.radioca.st/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed98c6aa-0118-443b-9eef-b5033048221b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T22:52:34Z"
-  },
-  {
     "id": "aws_586065d257cfb82b5a61",
     "stationId": "awb_5def1c6418a7499033bd",
     "name": "Seaside FM 105.9 - CFEP-FM - Eastern Passage",
@@ -26458,11 +24266,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1ab9f31d-41ee-43bc-b92b-f3c54b0bcf06",
       "9c4eb345-7fd5-4020-af13-97a5f82ebdb8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:58:04Z"
+    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_d4d432ef82ce86b8ffab",
@@ -26478,8 +24285,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7f20bd70-13be-41e5-8243-2443d4581cd0",
-      "c3987ce1-0f93-42a6-8f7e-ed7b83a3ad55"
+      "7f20bd70-13be-41e5-8243-2443d4581cd0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:01:50Z"
@@ -26958,11 +24764,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4bf15c8f-dd4a-4bd1-9f70-03e6caedc5ab",
       "4de3b9dc-f1cd-45dd-8cc0-95fe2b063436"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:00Z"
+    "lastCheckedAt": "2026-11-06T08:12:22Z"
   },
   {
     "id": "aws_ae47a28ec3ebffa4ea91",
@@ -27195,25 +25000,6 @@
     "lastCheckedAt": "2026-11-05T21:16:26Z"
   },
   {
-    "id": "aws_5d69326caaa765b78d7f",
-    "stationId": "awb_44cb6f4a0eda52aa223b",
-    "name": "Terry Callaghan's Real Oldies Channel",
-    "country": "CA",
-    "url": "http://ec4.yesstreaming.net:2730/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6d6f1d93-8cc8-4481-b0d0-5508fe717153"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
     "id": "aws_093530e051e51611f43c",
     "stationId": "awb_e7d318d1dd969786cae7",
     "name": "Terry Callahan's Real Oldies Channel",
@@ -27246,11 +25032,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "f6c23df9-e63b-43d7-bb2a-15fef6b4ff17",
       "fa78faf3-c6c0-4dcf-84ca-60b6d817525e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
+    "lastCheckedAt": "2026-11-06T08:28:16Z"
   },
   {
     "id": "aws_1f1de0eed518bb877362",
@@ -27306,11 +25091,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b8754b8a-1018-4309-86a7-4beb22e1abe9",
-      "b9132ba0-43a1-431e-867e-05ff59fffbf1"
+      "b8754b8a-1018-4309-86a7-4beb22e1abe9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:22:39Z"
+    "lastCheckedAt": "2026-11-06T04:09:40Z"
   },
   {
     "id": "aws_9f7e81e5473a751e3048",
@@ -27503,8 +25287,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "00e82dee-e8ca-4cc8-abfe-1e83986718d2",
-      "7fe27eca-4684-4b00-b01b-6c9acf1e9bbe"
+      "51554df2-3d51-4193-9e9f-6ea3be53206b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:30:48Z"
@@ -27548,25 +25331,6 @@
     "lastCheckedAt": "2026-11-06T19:32:54Z"
   },
   {
-    "id": "aws_7a6a833be17a47bdad85",
-    "stationId": "awb_f4e3a57bb0d70870c080",
-    "name": "The Oasis Modern Easy Listening",
-    "country": "CA",
-    "url": "https://jenny.torontocast.com:2000/stream/the-oasis",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "76c765b9-a579-4287-96ef-712cc45ad384"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:48Z"
-  },
-  {
     "id": "aws_053c3aa975687cba28eb",
     "stationId": "awb_f4e3a57bb0d70870c080",
     "name": "The Oasis Modern Easy Listening",
@@ -27580,11 +25344,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24b332a5-a8c0-41e6-b9dc-957982108c64",
-      "e40a54b1-7fac-4346-95de-1aa49334c97a"
+      "24b332a5-a8c0-41e6-b9dc-957982108c64"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_152d8cac70b41fb89171",
@@ -27679,7 +25442,7 @@
       "850578f4-9466-4c92-8fd6-8dd65efd41da"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_069999b58018b549534f",
@@ -27813,25 +25576,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T10:21:00Z"
-  },
-  {
-    "id": "aws_d0deb6a69f1596a605d1",
-    "stationId": "awb_1d8c2c61d0de07880601",
-    "name": "Time Capsule Show",
-    "country": "CA",
-    "url": "http://sc3.mystreamserver.com:8060/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "938cdd21-af95-11e9-acb2-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_bcc587d3e9fa21ecfc9a",
@@ -28026,25 +25770,6 @@
     "lastCheckedAt": "2026-11-06T09:08:40Z"
   },
   {
-    "id": "aws_e561ccb16d490d228555",
-    "stationId": "awb_82dab925e170101f1403",
-    "name": "TSN 1200",
-    "country": "CA",
-    "url": "http://29317.live.streamtheworld.com/CFGOAMAAC_SC",
-    "codec": "aac+",
-    "bitrate": 40,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05820b49-d707-47c6-b789-f1e877bdcbbe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:20:00Z"
-  },
-  {
     "id": "aws_5849204700056ed753c4",
     "stationId": "awb_3e135f5656bdff45063d",
     "name": "Tuff City Radio",
@@ -28115,7 +25840,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "86521b86-f106-49b0-89bd-5fdf414be62d",
       "a78dbd89-b544-4c58-8182-dbebaabb65ca"
     ],
     "lastCheckOk": true,
@@ -28237,25 +25961,6 @@
     "lastCheckedAt": "2026-11-06T13:59:48Z"
   },
   {
-    "id": "aws_3671ca2a3974cc3245bb",
-    "stationId": "awb_34ec8ef06dffa7aee394",
-    "name": "Vancouver Co-operative Radio",
-    "country": "CA",
-    "url": "https://listen-coopradio.sharp-stream.com/coopradio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "145158a6-7853-4c87-9485-e36a1690cac3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
-  },
-  {
     "id": "aws_9fc56180df4f87dd9c46",
     "stationId": "awb_2033bcb333ea2925d0d0",
     "name": "Vibe 105",
@@ -28370,25 +26075,6 @@
     "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
-    "id": "aws_8f525f18ac089a01be77",
-    "stationId": "awb_512c36834a2a25f99374",
-    "name": "VOAR 96.7 \"Lighthouse FM\" St. John's, NL",
-    "country": "CA",
-    "url": "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8192b08e-988e-42b5-99bb-f29a1dba559b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:35:38Z"
-  },
-  {
     "id": "aws_52e147242ec508aed021",
     "stationId": "awb_ed5330d0886c9f549d7e",
     "name": "VOCM",
@@ -28440,11 +26126,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9620eb51-0601-11e8-ae97-52543be04c81",
-      "f74cd2d2-0862-4a71-9b5b-93c54784ac0f"
+      "9620eb51-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
+    "lastCheckedAt": "2026-11-06T11:06:05Z"
   },
   {
     "id": "aws_528fd13f94947008a846",
@@ -28504,23 +26189,80 @@
     "lastCheckedAt": "2026-11-05T21:02:01Z"
   },
   {
-    "id": "aws_327af47ccebe929e973e",
-    "stationId": "awb_1b0c783c02c7ca32c93f",
-    "name": "VOWR 800 - Newfoundland and Labrador's Pioneer Radio Station",
+    "id": "aws_9881f1227bcb0f43f915",
+    "stationId": "awb_2f647713d62677695ee1",
+    "name": "Vybz Syndicate Radio - God Bless",
     "country": "CA",
-    "url": "https://c21.radioboss.fm/stream/193",
+    "url": "https://azura-3892.az-streamingserver.com/listen/god_bless_radio/radio.mp3",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "d9877ac4-de31-4c91-980d-db00340c06a3"
+      "6df70b5d-c19d-4f2c-9767-34a7006dd136"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
+    "id": "aws_f580a72b7a956ec3b649",
+    "stationId": "awb_036919d467a260257552",
+    "name": "Vybz Syndicate Radio - Reggae Vybz",
+    "country": "CA",
+    "url": "https://azura-3892.az-streamingserver.com/listen/reggae_vybz_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4afa9542-7da0-4bec-9038-e7fae8165931"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
+    "id": "aws_e4c4cf8df003c73d8fa1",
+    "stationId": "awb_708057dc3113ac2e9428",
+    "name": "Vybz Syndicate Radio - Rewind",
+    "country": "CA",
+    "url": "https://azura-3892.az-streamingserver.com/listen/vybz_rewind_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3a8fb5d7-18d7-4e01-b345-24af2d8d0c2f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
+    "id": "aws_b8292812aad5f6e7153d",
+    "stationId": "awb_4578a77ff5b111c9760d",
+    "name": "Vybz Syndicate Radio - Up & Up",
+    "country": "CA",
+    "url": "https://azura-3892.az-streamingserver.com/listen/vybz_up_and_up_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e158255a-e32e-400b-894b-11e59df94000"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_1ae07c3dd300dd2d8f08",
@@ -28616,44 +26358,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:14:03Z"
-  },
-  {
-    "id": "aws_1cf451f35636e1aafe0d",
-    "stationId": "awb_6e4cdc5860917d0acec0",
-    "name": "WEFUNK Radio",
-    "country": "CA",
-    "url": "https://www.wefunkradio.com/play/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "213d7b33-6c40-4ace-9900-bf4df16cba66"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:54:07Z"
-  },
-  {
-    "id": "aws_cf3b07808a9be150b71e",
-    "stationId": "awb_63d11bc5107974cc6a7d",
-    "name": "Wild95",
-    "country": "CA",
-    "url": "https://stream.jpbgdigital.com/CKWD.m3u8",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b9a130fb-d990-45f4-ae04-82b6a33d5bf2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:35:39Z"
   },
   {
     "id": "aws_9049e51cd3f582a93e7b",
@@ -28865,25 +26569,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_6528a122dfeb7dfa59ff",
-    "stationId": "awb_bcba6d5908045684f73b",
-    "name": "加拿大中文电台FM.96.1",
-    "country": "CA",
-    "url": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8e8f1791-1408-49f7-a4fb-b7c7e2fb3636"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
     "id": "aws_8fa4c0cfba8904ac3a79",
     "stationId": "awb_83e185b42f0d64c2e557",
     "name": "加拿大中文电台FM88.9",
@@ -28901,24 +26586,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:56:29Z"
-  },
-  {
-    "id": "aws_8fa3dbf6657e6e635749",
-    "stationId": "awb_fd216d24b26501038ac8",
-    "name": "加拿大中文电台FM94.7",
-    "country": "CA",
-    "url": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 51,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "35fa9c1c-4f62-4cdc-93fc-b895f6f91b73"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:00:42Z"
   }
 ]

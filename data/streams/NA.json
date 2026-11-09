@@ -78,25 +78,6 @@
     "lastCheckedAt": "2026-11-06T15:41:16Z"
   },
   {
-    "id": "aws_0e68ed7fd2982ee2f1d8",
-    "stationId": "awb_f4b9e0871be784b8db06",
-    "name": "Energy 100 FM",
-    "country": "NA",
-    "url": "https://s2.stationplaylist.com:7094/listen.aac",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "92f0807a-d803-4451-96f1-93032a08baec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
-  },
-  {
     "id": "aws_91d8fa213e95e9f79794",
     "stationId": "awb_548bf9bbfe267cb4771b",
     "name": "Energy100 FM",
@@ -282,25 +263,6 @@
     "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
-    "id": "aws_33090abd0f935c1902b1",
-    "stationId": "awb_56ed7c28277137e1e935",
-    "name": "Radio Wave 96.7 FM",
-    "country": "NA",
-    "url": "https://edge.iono.fm/xice/194_medium.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e62add1d-bafb-4518-9dff-98af68e547c9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
-  },
-  {
     "id": "aws_8282082265f902569c6e",
     "stationId": "awb_a80eb30db3133558e0b7",
     "name": "Radiowave FM",
@@ -330,15 +292,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NA:radiowave-nam-96-7fm",
-      "ca55e1e1-fe41-4a64-a876-404a604fb729"
+      "NA:radiowave-nam-96-7fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:15:22Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_37e4c37b29786bb89c18",

@@ -107,15 +107,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3a2a6c82-76ff-4be6-8628-825d7a0f3296",
       "JO:beat-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:16:50Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c7a65f51ac9eca357060",
@@ -253,25 +251,6 @@
     "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
-    "id": "aws_18d0209b78de11a4f6bf",
-    "stationId": "awb_7a8a7de6991729eb7bff",
-    "name": "Jordan Radio (Main)",
-    "country": "JO",
-    "url": "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "41c8a217-ef9d-4f8f-83ab-8b8d730a1209"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
-  },
-  {
     "id": "aws_ac61f0cdd89c57863040",
     "stationId": "awb_9ff56b178ce8375af7dc",
     "name": "JRRadio",
@@ -343,11 +322,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6cc8dac5-70c2-40bb-b095-8606fe1ed0f8",
-      "JO:mazaj-fm"
+      "JO:mazaj-fm",
+      "d04217b3-11be-4f7e-b6d7-8e238ca27efa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
+    "lastCheckedAt": "2026-11-07T01:35:20Z"
   },
   {
     "id": "aws_6dd3283af1d52120734e",
@@ -379,15 +358,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5b61ccc0-f369-4368-ba65-3b10b7f6bae9",
       "JO:mood-fm-92-amman"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_bf1bd1a15a00606dd188",
@@ -428,59 +405,20 @@
     "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
-    "id": "aws_bc98e912adc09562773a",
-    "stationId": "awb_683560890ab93f838491",
-    "name": "noursat jordan",
-    "country": "JO",
-    "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-    "codec": "aac,h.264",
-    "bitrate": 579,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abf4447e-6da7-47d3-9b67-e051e3c76652"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
-  },
-  {
-    "id": "aws_3e53c6bf94f36a709f86",
-    "stationId": "awb_895be89fdd8c34dd755c",
-    "name": "Noursat Jordan TV",
-    "country": "JO",
-    "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-    "codec": "aac,h.264",
-    "bitrate": 575,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "672074e5-1f1e-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:36:05Z"
-  },
-  {
     "id": "aws_56e8f37ae32d6facee5c",
     "stationId": "awb_02ba5b9e542ead7d7086",
     "name": "noursat jorden",
     "country": "JO",
     "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
     "codec": "aac,h.264",
-    "bitrate": 583,
+    "bitrate": 582,
     "protocol": "http",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "4b0b64d4-15b0-4f62-b233-326d6fff15e5",
-      "523bbd9f-6ca8-4799-9c9a-5c9c75cc4d60"
+      "4b0b64d4-15b0-4f62-b233-326d6fff15e5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:47:49Z"
@@ -559,7 +497,7 @@
       "3be19fbf-2052-42df-b9c8-75f8976de44f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_feff3c008e057b9ce6d3",
@@ -619,25 +557,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T11:02:09Z"
-  },
-  {
-    "id": "aws_7b7f71f200e7e3b032d7",
-    "stationId": "awb_8bf0021105c5c8ae6e6e",
-    "name": "Radio Jordan 96.3",
-    "country": "JO",
-    "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "217e4e14-8637-4581-88fa-bd144af3b691"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:57:28Z"
   },
   {
     "id": "aws_7b2733d619ef6424ea15",

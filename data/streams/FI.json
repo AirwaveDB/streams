@@ -289,7 +289,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "98f551af-b40b-4035-a9cb-a531320a45d9",
       "d0f198e1-e71c-4aef-82e5-03058d00b790"
     ],
     "lastCheckOk": true,
@@ -302,7 +301,7 @@
     "country": "FI",
     "url": "https://stream.haul.fm/haulmpfm.mp3",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -312,7 +311,7 @@
       "824aae39-9fe7-487f-afe0-7d7e04eaa407"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_9b85af30aa7d9bc1fca8",
@@ -363,15 +362,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "48f5b31a-5e1a-480f-9036-62307c441990",
       "FI:ida-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2076987966bafee29411",
@@ -388,8 +385,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "35351baf-4094-429f-860c-875f2c567384",
-      "FI:jarviradio"
+      "FI:jarviradio",
+      "cc11cce3-f00f-4543-b1c4-d867e0d0cea4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:35:39Z"
@@ -410,7 +407,7 @@
     ],
     "sourceIds": [
       "FI:jarviradio-puhe",
-      "c064ffac-4d14-431b-8cac-40572e49466e"
+      "d6684d02-578f-43f9-95c8-61b837bb2caf"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T03:11:45Z"
@@ -509,25 +506,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:25:53Z"
-  },
-  {
-    "id": "aws_9390bdf51da20f7a3db2",
-    "stationId": "awb_1cc49bb7d20c9706b09e",
-    "name": "Kaaosradio - 24h Chill",
-    "country": "FI",
-    "url": "http://stream.kaaosradio.fi:8000/chill",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962c3d1d-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:55:24Z"
   },
   {
     "id": "aws_e45112b7972f791d17bd",
@@ -759,15 +737,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "FI:nightwish",
-      "b6280ede-e2df-4b68-b82c-63c8648aa51b"
+      "FI:nightwish"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_cffcb7640351198de725",
@@ -848,25 +824,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
-    "id": "aws_089379c8149434b50995",
-    "stationId": "awb_3eb45acd20f26d887ae8",
-    "name": "POPfm",
-    "country": "FI",
-    "url": "http://stream.nsp.se:8000/pop",
-    "codec": "ogg",
-    "bitrate": 1200,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f51462c3-413a-4043-9811-def02fe97144"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_6b390ca5761e5f18b3aa",
@@ -1499,25 +1456,6 @@
     "lastCheckedAt": "2026-11-06T16:56:19Z"
   },
   {
-    "id": "aws_30abc12a9d33ef53d555",
-    "stationId": "awb_c5a963d778fa0e963aa1",
-    "name": "Radio Musa",
-    "country": "FI",
-    "url": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1ac1341-04fd-4e18-ba2c-c6bd6d28a1af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
-  },
-  {
     "id": "aws_c2fd11bc45620d13e419",
     "stationId": "awb_edd3da0bffcf1fe995d0",
     "name": "Radio Nostalgia",
@@ -1574,7 +1512,7 @@
       "FI:radio-nova"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
+    "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
     "id": "aws_90859be7e2529a91dd0f",
@@ -1676,25 +1614,6 @@
     "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
-    "id": "aws_ad6e88a18c4c6afd4bea",
-    "stationId": "awb_28fa2e76e60fa1bc6c40",
-    "name": "Radio Rock",
-    "country": "FI",
-    "url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 262,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8b240ad-1e4c-470e-a5dc-7e48915c4564"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:31:20Z"
-  },
-  {
     "id": "aws_988cae7c5fcfa79b9041",
     "stationId": "awb_fbbe232872a537fce48b",
     "name": "Radio Rock",
@@ -1716,7 +1635,7 @@
   {
     "id": "aws_7dbb08c87fecf7be0a73",
     "stationId": "awb_e42a57d485e7f8f3d780",
-    "name": "RADIO SANDELS",
+    "name": "Radio Sandels",
     "country": "FI",
     "url": "https://radiosandels.radiotaajuus.fi:9050/radio",
     "codec": "mp3",
@@ -1728,11 +1647,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5ebce343-df89-4add-91e4-35ae5fb43f47",
-      "FI:radio-sandels"
+      "FI:radio-sandels",
+      "df8a5795-f3bb-4e72-ae0a-87c8455625bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:31:57Z"
+    "lastCheckedAt": "2026-11-05T23:31:17Z"
   },
   {
     "id": "aws_0434b2cd79fbe7edabef",
@@ -1810,8 +1729,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8d2b0d19-687e-420b-a29a-31d62e939c97",
-      "FI:radio-sun"
+      "FI:radio-sun",
+      "f46a7f78-6fbd-4251-a44f-33024264fab6"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:34:33Z"
@@ -2048,15 +1967,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "FI:roll-fm",
-      "a32f25c3-c9cf-405e-be18-9707212f9b98"
+      "FI:roll-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f1ee0fe71fe30aac322c",
@@ -2156,25 +2073,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T16:12:19Z"
-  },
-  {
-    "id": "aws_1c6bef565502f6d1cd82",
-    "stationId": "awb_8a9de30b6855d73149d3",
-    "name": "Sandels",
-    "country": "FI",
-    "url": "https://radiosandels.radiotaajuus.fi:9050/radio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc935119-a39e-46aa-b173-8b830a64d6da"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
   },
   {
     "id": "aws_053c2239ec4bafea1145",
@@ -2482,25 +2380,6 @@
     "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
-    "id": "aws_f7e16600398ce43cbf00",
-    "stationId": "awb_b9bba166a0fd3d3520c3",
-    "name": "YLE Radio Suomi - Tampere",
-    "country": "FI",
-    "url": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ec8d5679-6b61-49b5-9bfc-3e71a8777c44"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:24:12Z"
-  },
-  {
     "id": "aws_f24265115a090456a00b",
     "stationId": "awb_c6f7aeef7d47cf7d3a60",
     "name": "Yle radio Suomi Etelä-pohjanmaa",
@@ -2596,11 +2475,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0fbf6ebe-052e-4799-a244-525b7cfffcac",
-      "6489b751-acf5-413a-8b53-e345eee56fbb"
+      "0fbf6ebe-052e-4799-a244-525b7cfffcac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:01:43Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_485438c0249e60bfc200",
@@ -2784,25 +2662,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:22:43Z"
-  },
-  {
-    "id": "aws_1ebf7c952169fc8e69bd",
-    "stationId": "awb_ebf7568a41f41f03c748",
-    "name": "Yle Radio1HIFI 256 Kb/s",
-    "country": "FI",
-    "url": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c3a2ea0a-85ee-4b98-81fd-b75169da9ebd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
     "id": "aws_6e7f8f283372489b65cb",

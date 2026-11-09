@@ -25,8 +25,6 @@ https://stream.sepia.sk/ceskyimpuls128.mp3
 https://rozhlas.stream/brno.mp3
 #EXTINF:-1 station-id="awb_a7f935d9e9da246da127" stream-id="aws_68f814f2c3bbc76e31cc" codec="aac" bitrate="192",Český rozhlas České Budějovice
 https://rozhlas.stream/ceske_budejovice_high.aac
-#EXTINF:-1 station-id="awb_add428641a9212b48e1e" stream-id="aws_1b66fac6e3a4f2d383a8" codec="ogg" bitrate="0",Cesky Rozhlas Classical Lossless FLAC Stream
-http://amp.cesnet.cz:8000/cro-d-dur.flac
 #EXTINF:-1 station-id="awb_420b32db4e037e6e4b2a" stream-id="aws_d7b943ef1223ef150d86" codec="ogg" bitrate="0",Cesky Rozhlas D-dur
 http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
 #EXTINF:-1 station-id="awb_c98fc706453612c6b806" stream-id="aws_f2ebaacc9a3d11d87925" codec="mp3" bitrate="128",Český rozhlas Hradec Králové
@@ -43,8 +41,6 @@ https://rozhlas.stream/region.mp3
 https://radio.chatujme.cz:8000/chatradio
 #EXTINF:-1 station-id="awb_3b5c9d8a41f43167b334" stream-id="aws_949c4a0d24fdb9296f6c" codec="mp3" bitrate="128",Chat R�dio
 https://radio.chatradio.cz/chatradio
-#EXTINF:-1 station-id="awb_88fd575f675aacf993c4" stream-id="aws_10ccdd4a3d416066644a" codec="mp3" bitrate="128",City FM
-http://ice.abradio.cz/cityfm128.mp3
 #EXTINF:-1 station-id="awb_733fc0c4111bfc081173" stream-id="aws_da9d07e11629eb52896f" codec="mp3" bitrate="128",City Milenium
 http://ice.abradio.cz:8000/citymi128.mp3
 #EXTINF:-1 station-id="awb_410a02ac78a7b914b74e" stream-id="aws_28e013fbdcaef5e7da79" codec="mp3" bitrate="128",Classic Prague
@@ -63,28 +59,20 @@ http://ice4.abradio.cz/coop128.mp3
 http://mp3stream4.abradio.cz:8000/coop128.mp3
 #EXTINF:-1 station-id="awb_c9b1667d1b022fac89f2" stream-id="aws_057c9b0e5c21fb9049c3" codec="aac" bitrate="0",Country Radio
 http://icecast2.play.cz:8000/country128aac
-#EXTINF:-1 station-id="awb_85d3fc52efe63daba776" stream-id="aws_72a0b2d51620ec62ceca" codec="mp3" bitrate="0",Country Radio
-http://icecast4.play.cz/country128.mp3
 #EXTINF:-1 station-id="awb_5dc7b1a1db268459f472" stream-id="aws_f77179908259516dc12a" codec="mp3" bitrate="0",County
 http://icecast4.play.cz/country128.mp3
 #EXTINF:-1 station-id="awb_2246ce18a99cee59adc6" stream-id="aws_f4f43577c8091adacdc9" codec="mp3" bitrate="192",Crazy Rádio
 http://live.topradio.cz:8000/crazy128
 #EXTINF:-1 station-id="awb_4b8653ec67c7e8f8e3dd" stream-id="aws_aff1a1da9f135138f057" codec="mp3" bitrate="192",CrazyRadio.cz
 https://stream.rcast.net/72851
-#EXTINF:-1 station-id="awb_b676250263b9347e73ea" stream-id="aws_8cf2d26ad0a50c665486" codec="ogg" bitrate="0",ČRo D-dur
-http://amp.cesnet.cz:8000/cro-d-dur.flac
 #EXTINF:-1 station-id="awb_b676250263b9347e73ea" stream-id="aws_859b53b76e984578f672" codec="mp3" bitrate="128",ČRo D-dur
 https://rozhlas.stream/ddur.mp3
-#EXTINF:-1 station-id="awb_b16e3ff7db40a718566f" stream-id="aws_fecf607f1ca0ad977d7a" codec="ogg" bitrate="0",ČRo D-dur FLAC
-http://amp.cesnet.cz:8000/cro-d-dur.flac
 #EXTINF:-1 station-id="awb_9132b7af1f84d217652c" stream-id="aws_d45754f57f6c485b3940" codec="ogg" bitrate="0",ČRo D-dur HD
 http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
 #EXTINF:-1 station-id="awb_040de2da54e9a8372dfb" stream-id="aws_85271b7845e72357c301" codec="mp3" bitrate="128",ČRo Dvojka
 http://icecast6.play.cz/cro2-128.mp3
 #EXTINF:-1 station-id="awb_c5edd09a8853633546b5" stream-id="aws_e919d99bd545bdbecbff" codec="ogg" bitrate="0",Čro Dvojka (256k ogg)
 http://amp1.cesnet.cz:8000/cro2-256.ogg
-#EXTINF:-1 station-id="awb_c1ec017dff361209557c" stream-id="aws_d257f0db1dfabe8188d1" codec="ogg" bitrate="0",ČRo Jazz
-http://amp.cesnet.cz:8000/cro-jazz.flac
 #EXTINF:-1 station-id="awb_1ae35df4a371defe8bbd" stream-id="aws_de56ed444aabb8c36159" codec="ogg" bitrate="0",CRO Jazz
 https://amp.cesnet.cz:8443/cro-jazz.flac
 #EXTINF:-1 station-id="awb_f5138c7fe0160759e8ac" stream-id="aws_8898bc0221beed369935" codec="mp3" bitrate="128",ČRo Jazz
@@ -135,12 +123,8 @@ https://rozhlas.stream/wave_mp3_128.mp3
 https://rozhlas.stream/wave_mp3_256.mp3
 #EXTINF:-1 station-id="awb_73be7937edae398589db" stream-id="aws_e52fd532e8fd6572e510" codec="ogg" bitrate="0",Čro3 Vltava
 http://amp.cesnet.cz:8000/cro3-256.ogg
-#EXTINF:-1 station-id="awb_5d368669e31753937c2d" stream-id="aws_846599e029ac67518aa3" codec="ogg" bitrate="0",Czech radio classical
-http://amp.cesnet.cz:8000/cro-d-dur.flac
 #EXTINF:-1 station-id="awb_5b0734cde5ef9c258eab" stream-id="aws_62772caa549413c81820" codec="ogg" bitrate="0",Czech Radio ČRo D-dur
 http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:-1 station-id="awb_48bd6bdd214268a0eed0" stream-id="aws_4b9c4723be22fd88e333" codec="aac" bitrate="192",Czech Radio ČRo Jazz | aac 160
-https://rozhlas.stream/jazz_high.aac
 #EXTINF:-1 station-id="awb_65c04db341cba8082b34" stream-id="aws_60ccf69ff0d90a4127ce" codec="mp3" bitrate="128",Dance Club FM
 http://mp3stream4.abradio.cz/dance128.mp3
 #EXTINF:-1 station-id="awb_3affa8fe90c239b5b936" stream-id="aws_293cabc196f3c0ec3fab" codec="mp3" bitrate="128",Dance Club Radio
@@ -157,8 +141,6 @@ https://stream.deecibel.com/one
 https://stream.deecibel.com/rock
 #EXTINF:-1 station-id="awb_e2105d2c4cb48963b176" stream-id="aws_12a89d1e6d669b4d92f4" codec="mp3" bitrate="128",ELLIS
 http://stream.laut.fm/ellis
-#EXTINF:-1 station-id="awb_b895ce14d9fabdacb20c" stream-id="aws_de88ed92a4f0241b610d" codec="mp3" bitrate="192",ENERGIC
-https://icecast9.play.cz/energic.mp3
 #EXTINF:-1 station-id="awb_7efea91df0c636dded06" stream-id="aws_9020afa08eeab0e54881" codec="aac+" bitrate="64",Evropa 2 - aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac
 #EXTINF:-1 station-id="awb_e83c2b0ebc34be795501" stream-id="aws_966969c651439f57d214" codec="mp3" bitrate="128",Evropa 2 - Actve
@@ -169,8 +151,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3
 https://ice.actve.net/fm-evropa2-128
 #EXTINF:-1 station-id="awb_3b077176e1abbcdb5ffa" stream-id="aws_d27735fc75505496dc6d" codec="mp3" bitrate="128",Evropa2 Youradio Flashbacky
 https://ice.actve.net/web-e2-flashback
-#EXTINF:-1 station-id="awb_ab83d4c1e21e7e936a69" stream-id="aws_c0bd80325092992f0203" codec="mp3" bitrate="128",Expres FM
-http://icecast8.play.cz/expres128mp3
 #EXTINF:-1 station-id="awb_86e39d8476289a0f84da" stream-id="aws_44689c85798e331d254e" codec="mp3" bitrate="128",Expresradio
 http://icecast5.play.cz:8000/expres128mp3
 #EXTINF:-1 station-id="awb_1a07615645ca9e1faf8c" stream-id="aws_649c1acc879137d7ebbb" codec="mp3" bitrate="128",Express FM
@@ -223,12 +203,8 @@ http://ice.abradio.cz/helax128.mp3
 http://icecast3.play.cz/hey-radio128.mp3
 #EXTINF:-1 station-id="awb_ac9d615e19fc84b67a7f" stream-id="aws_694d720de16a223ba53b" codec="aac+" bitrate="64",Hit FM Plus
 http://ice.abradio.cz:8000/fmplus64.aac
-#EXTINF:-1 station-id="awb_7dd032095cfca3702883" stream-id="aws_197c92d988109e3fd388" codec="mp3" bitrate="128",Hit PopRock
-http://ice.abradio.cz/hitpoprock128.mp3
 #EXTINF:-1 station-id="awb_8c5ebe5be06a30d9a191" stream-id="aws_ab654b017cce17432347" codec="mp3" bitrate="128",HIT Rádio Orion
 http://ice.abradio.cz/orion128.mp3
-#EXTINF:-1 station-id="awb_9f0f88f85c95a3b789d4" stream-id="aws_c17bf270b4c06798ceb6" codec="mp3" bitrate="128",Hitrádio Černá Hora
-http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1 station-id="awb_9f0f88f85c95a3b789d4" stream-id="aws_fa0fa87c5a5a83ea9552" codec="mp3" bitrate="64",Hitrádio Černá Hora
 http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:-1 station-id="awb_6ce582784bce5f05912d" stream-id="aws_68399b1c00935f3447dc" codec="mp3" bitrate="128",Hitrádio Černá Hora 128
@@ -279,8 +255,6 @@ http://icecast1.play.cz:8000/kissdelta192.mp3
 http://icecast8.play.cz/kisshady128.mp3
 #EXTINF:-1 station-id="awb_de9857db8d44df8692c1" stream-id="aws_dced2f024555afdb040a" codec="aac" bitrate="0",Kiss Publikum
 http://icecast1.play.cz:8000/kisspublikum128aac
-#EXTINF:-1 station-id="awb_7392cf17db6b2cdcdbdf" stream-id="aws_2a80988fc90d29f8681d" codec="mp3" bitrate="0",Kiss Radio
-http://icecast4.play.cz/kiss128.mp3
 #EXTINF:-1 station-id="awb_54eab5348244f9799bcf" stream-id="aws_d48517f8cb25fc619d25" codec="mp3" bitrate="0",Kiss Radio - 128MP3
 https://icecast1.play.cz/kissdelta128.mp3
 #EXTINF:-1 station-id="awb_1e22ea8d3f099bc78152" stream-id="aws_75d9cf47171edbcb6d1e" codec="aac+" bitrate="64",LA RADIO PLUS ANNECY
@@ -297,7 +271,7 @@ http://ice.abradio.cz/metalomanie128.mp3
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 station-id="awb_b015a03e07989e7b0e19" stream-id="aws_c1f19d9884af533e3702" codec="unknown" bitrate="0",MUSIC BOX CLASSIC
 https://dash2.antik.sk/live/mb_classic/index.m3u8
-#EXTINF:-1 station-id="awb_bf8b9843d7e50b90f876" stream-id="aws_25d9acf728761d02aa7c" codec="mp3" bitrate="192",Netro Life radio 100,8 FM
+#EXTINF:-1 station-id="awb_bf8b9843d7e50b90f876" stream-id="aws_25d9acf728761d02aa7c" codec="mp3" bitrate="192",Netro Life Radio 100,8 FM
 https://icecast9.play.cz/netro-life-radio.mp3
 #EXTINF:-1 station-id="awb_ba569cd7dfbc8fe86178" stream-id="aws_e75a93671fea0d22a5d1" codec="mp3" bitrate="128",NONSTOPRADIO CZ
 http://stream.nonstopradio.cz:8080/
@@ -308,8 +282,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:-1 station-id="awb_f721558747f2f1f48169" stream-id="aws_eb43a4f0cf7fd7c3ade3" codec="unknown" bitrate="928",Óčko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_c43b81ec5f3b99c6cddb" stream-id="aws_18900e0392d44ec99754" codec="mp3" bitrate="128",Oldies radio
-http://ice.abradio.cz/oldiesradio128.mp3
-#EXTINF:-1 station-id="awb_7325c10a1ba2c902607e" stream-id="aws_2171373e62d21afcedde" codec="mp3" bitrate="128",Oldies Rádio
 http://ice.abradio.cz/oldiesradio128.mp3
 #EXTINF:-1 station-id="awb_84f5497ceb9e3c2c493f" stream-id="aws_58736773e4f4b0ba2474" codec="mp3" bitrate="128",Phonk Nation Radio
 https://radio.mxnticek.eu/listen/phonk/128.mp3
@@ -326,8 +298,6 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 #EXTINF:-1 station-id="awb_f9773fe016de9b4cfd8d" stream-id="aws_911f246ef3028f41fe92" codec="mp3" bitrate="128",povídka
 https://ice3.abradio.cz/povidka128.mp3
 #EXTINF:-1 station-id="awb_9b8947b2e168e43e7863" stream-id="aws_d12abfb0b15da9c00bf9" codec="mp3" bitrate="256",PowerPonies Radio
-http://powerponies.cz:8000/;stream.mp3
-#EXTINF:-1 station-id="awb_0f7829e917fe40ba9390" stream-id="aws_141b9167005bbc99dc53" codec="mp3" bitrate="256",PowerPonies Radio
 http://powerponies.cz:8000/;stream.mp3
 #EXTINF:-1 station-id="awb_0629badba323fa70aa5d" stream-id="aws_1b9f2619cafdd510ba09" codec="mp3" bitrate="0",Queenradio.net
 http://stream.radiojar.com/4gw72qm8u68uv
@@ -357,10 +327,6 @@ http://icecast1.play.cz:8000/radio7cz32.mp3
 http://mp3stream3.abradio.cz/applaus128.mp3
 #EXTINF:-1 station-id="awb_f355679a90eb4b7fc45a" stream-id="aws_2bdccd2beef96da15f11" codec="mp3" bitrate="0",RADIO BEAT
 http://icecast1.play.cz/beat64.mp3
-#EXTINF:-1 station-id="awb_d398be0c14942616fdc6" stream-id="aws_5171605c6bc97b17d8ca" codec="mp3" bitrate="0",Rádio Beat
-http://icecast2.play.cz/radiobeat128.mp3
-#EXTINF:-1 station-id="awb_f355679a90eb4b7fc45a" stream-id="aws_5ce6e09b644eb4db5298" codec="mp3" bitrate="0",Radio Beat
-http://icecast2.play.cz/radiobeat128.mp3
 #EXTINF:-1 station-id="awb_7fdf9e63f50d7617eef8" stream-id="aws_1bbb6e52ef490b5ad433" codec="aac" bitrate="0",Rádio Beat (128 AAC)
 https://icecast2.play.cz/beat128aac
 #EXTINF:-1 station-id="awb_bcc78be2f7250e39cab2" stream-id="aws_e7411a009848648d4bc7" codec="mp3" bitrate="0",Radio Beat 128 MP3
@@ -383,13 +349,9 @@ http://ice.actve.net/fm-bonton-128
 https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182
 #EXTINF:-1 station-id="awb_c98f14ef691ad5576ec4" stream-id="aws_ad6d6042a5f9b146ba94" codec="aac" bitrate="192",Radio Budweis
 https://rozhlas.stream/ceske_budejovice_high.aac
-#EXTINF:-1 station-id="awb_d3b7e6eb34fd704fa326" stream-id="aws_b819e99d637680015172" codec="mp3" bitrate="128",Radio Čas
-http://icecast6.play.cz/casradio128.mp3
 #EXTINF:-1 station-id="awb_8f2e7c2c117589aee48a" stream-id="aws_ea945e67107a24717292" codec="mp3" bitrate="128",Radio Cas
 http://icecast6.play.cz/casradio128.mp3
 #EXTINF:-1 station-id="awb_9f8ac825333f6c07fb36" stream-id="aws_4c3d63b6ec25e7e791ee" codec="mp3" bitrate="128",Radio Cas Rock
-http://icecast6.play.cz/casrock128.mp3
-#EXTINF:-1 station-id="awb_608899b99a9b010d61bd" stream-id="aws_5f8b341f328a90e58e72" codec="mp3" bitrate="128",Radio Čas Rock
 http://icecast6.play.cz/casrock128.mp3
 #EXTINF:-1 station-id="awb_0dd9751b0a0fc657ce8e" stream-id="aws_c1f2a7baac87c6b486e6" codec="mp3" bitrate="192",Rádio Čas Rock (192 kbps)
 https://icecast9.play.cz/casrock192.mp3
@@ -399,8 +361,6 @@ http://ice.abradio.cz/cityfm128.mp3
 http://radio.clickandcountry.cz:8000/clickandcountry.mp3
 #EXTINF:-1 station-id="awb_c0ec9c425a9883e22e55" stream-id="aws_25f56f48ead14374732e" codec="mp3" bitrate="256",Rádio Dechovka 256 kbps
 http://37.46.208.57:8000/stream_cra_256.mp3
-#EXTINF:-1 station-id="awb_091d574c163c074438a9" stream-id="aws_1ea1e6cb6f84c5a56cce" codec="mp3" bitrate="128",Radio Depeche Mode
-http://mp3stream4.abradio.cz/depeche128.mp3
 #EXTINF:-1 station-id="awb_87692ace3e0f7c0ef623" stream-id="aws_264013937466208e8bd8" codec="mp3" bitrate="128",Rádio Diana – Retro Club
 https://westradio.cz/radio/8000/radio.mp3
 #EXTINF:-1 station-id="awb_5246c3de1b36847351d1" stream-id="aws_1fcc96dab8f6590d7dfb" codec="mp3" bitrate="128",Rádio DNB TV
@@ -428,8 +388,6 @@ http://icecast6.play.cz/jih128.mp3
 #EXTINF:-1 station-id="awb_a27949a2818432b58ee8" stream-id="aws_c79afdb95ceffb56b251" codec="mp3" bitrate="32",Rádio Jih
 https://icecast6.play.cz/jih32.mp3
 #EXTINF:-1 station-id="awb_2fd7a5e5b65ffc4ddc04" stream-id="aws_12a2a5455c11cb00ecea" codec="mp3" bitrate="128",Radio JIH Cimbalka
-http://icecast6.play.cz/jihcimbalka128.mp3
-#EXTINF:-1 station-id="awb_54da9a626e51633a4992" stream-id="aws_388587dc0973771e69b9" codec="mp3" bitrate="128",Rádio Jih Cimbálka
 http://icecast6.play.cz/jihcimbalka128.mp3
 #EXTINF:-1 station-id="awb_40cfb81c519dfe156457" stream-id="aws_12dac23bc4823a77bbfd" codec="ogg" bitrate="0",Rádio Junior
 http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
@@ -481,8 +439,6 @@ http://icecast1.play.cz/proglas96aac
 http://icecast2.play.cz/proglas128
 #EXTINF:-1 station-id="awb_3179ae080cf55b2b34a8" stream-id="aws_6afa3c94099b3e6bd754" codec="mp3" bitrate="128",Radio Prostor
 https://bcast.spmmedia.cz/prostor-mp3
-#EXTINF:-1 station-id="awb_304bf36f082959e38959" stream-id="aws_57abcc1ecfccf80eade8" codec="mp3" bitrate="128",Rádio Relax
-http://icecast7.play.cz/relax128.mp3
 #EXTINF:-1 station-id="awb_f853c94d9ba8bc448474" stream-id="aws_f1916f821ee5684970c0" codec="mp3" bitrate="128",Radio ROCK
 http://ice.abradio.cz/rockradio128.mp3
 #EXTINF:-1 station-id="awb_d26b297336831500e81c" stream-id="aws_0328b5d41e8255f8261d" codec="aac" bitrate="128",Rádio Samson
@@ -511,8 +467,6 @@ https://icecast6.play.cz/radio-xaver.aac
 https://icecast.beatzone.cz/radio/8630/cherry.mp3
 #EXTINF:-1 station-id="awb_b8dd2a78ae17cf1b79b7" stream-id="aws_6d757ebe652b083b5de3" codec="mp3" bitrate="0",RADIO1
 http://icecast2.play.cz/radio1-64.mp3
-#EXTINF:-1 station-id="awb_c9c72ef9d381ba2663e4" stream-id="aws_5bc1007d4eaa888ac29c" codec="mp3" bitrate="128",Radio7
-http://icecast8.play.cz/radio7-128.mp3
 #EXTINF:-1 station-id="awb_c9c72ef9d381ba2663e4" stream-id="aws_0a0d4f191736f05c4ad9" codec="aac+" bitrate="32",Radio7
 http://icecast8.play.cz/radio7-32aac
 #EXTINF:-1 station-id="awb_bd1fe8d0b8b6b7a550b1" stream-id="aws_9abcd28bceb868f25e59" codec="mp3" bitrate="128",RadioParty.pl
@@ -542,8 +496,6 @@ https://icecast5.play.cz/rockzone.mp3
 #EXTINF:-1 station-id="awb_9aef755806b7a409770d" stream-id="aws_a3545b5e3448172c6080" codec="aac" bitrate="128",Samson
 http://icecast2.play.cz:8000/samsonfm128aac
 #EXTINF:-1 station-id="awb_71346e5d9710eb7997e6" stream-id="aws_2b0239f26731b4a9ce62" codec="mp3" bitrate="128",SeeJay Radio
-http://icecast6.play.cz/seejay128.mp3
-#EXTINF:-1 station-id="awb_c45d0d877c32cd0a9ce4" stream-id="aws_d4efad670643b30a6783" codec="mp3" bitrate="128",SeeJay Radio
 http://icecast6.play.cz/seejay128.mp3
 #EXTINF:-1 station-id="awb_4dcbafaf13f1a1a48c07" stream-id="aws_e940d49acfa69dd82248" codec="mp3" bitrate="192",Shinto
 https://s49.myradiostream.com/8142/listen.mp3
@@ -589,9 +541,5 @@ https://icecast9.play.cz/zun48.aac
 https://stream.radiojar.com/wm9sntcpn3quv
 #EXTINF:-1 station-id="awb_242eac1df45b3dbafd1a" stream-id="aws_60fef0a3d0011f7b2b7d" codec="aac" bitrate="140",Крым.Реалии
 https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8
-#EXTINF:-1 station-id="awb_fe797c3188aa27e7db8b" stream-id="aws_6747ffd690c7a12a44cc" codec="aac" bitrate="140",Радио Свобода
-https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
-#EXTINF:-1 station-id="awb_91b26ec1906ea4b6ad82" stream-id="aws_0159f4efcaee63b0527b" codec="mp3" bitrate="0",Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)
-http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u
 #EXTINF:-1 station-id="awb_5d1868dd47f63698e317" stream-id="aws_349429b9c044fe92f531" codec="aac" bitrate="140",Свобода
 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8

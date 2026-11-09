@@ -177,25 +177,6 @@
     "lastCheckedAt": "2026-11-06T14:49:18Z"
   },
   {
-    "id": "aws_cdb80619ca778ea15fba",
-    "stationId": "awb_1e08cbd0d81fb7f23dbc",
-    "name": "Big Radio 1 Banja Luka",
-    "country": "BA",
-    "url": "http://big1.bigportal.ba:8100/big1",
-    "codec": "aac+",
-    "bitrate": 36,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961fb8a9-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
     "id": "aws_73872e88718cbb88d65d",
     "stationId": "awb_afc7355f645f97a8b82f",
     "name": "BIG radio 1 Banja Luka",
@@ -253,25 +234,6 @@
     "lastCheckedAt": "2026-11-06T02:29:19Z"
   },
   {
-    "id": "aws_99dff67b8e3cf7074a6e",
-    "stationId": "awb_33c7acce6497b61002b2",
-    "name": "Big2",
-    "country": "BA",
-    "url": "http://big2.bigportal.ba:8100/big2",
-    "codec": "aac+",
-    "bitrate": 36,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c421149-7dd8-11e8-b68b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:54:07Z"
-  },
-  {
     "id": "aws_fb69d4383a6b7c73a5d1",
     "stationId": "awb_0d3ba8dbfb2966550761",
     "name": "Day Dee Eurodance Radio",
@@ -305,7 +267,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1c506bf0-7506-4b23-8ce0-b9b92d42677b",
+      "52e46973-6e4e-49b5-90b5-ea2b49f933a0",
       "BA:esoterica-radio-s1"
     ],
     "lastCheckOk": true,
@@ -586,25 +548,6 @@
     "lastCheckedAt": "2026-11-06T00:45:21Z"
   },
   {
-    "id": "aws_b7ac220f6fb8abd670df",
-    "stationId": "awb_03b40a4e2e58912ce2d2",
-    "name": "Krajiški Radio Dubica",
-    "country": "BA",
-    "url": "https://stream1.srvnetplus.com:18039/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a24228f-7084-4cc5-9f88-9e7449698a98"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:10:31Z"
-  },
-  {
     "id": "aws_50863f43e8805b416afe",
     "stationId": "awb_769330fcad28e37ce5c1",
     "name": "KUPRESKIRADIO",
@@ -782,7 +725,7 @@
   {
     "id": "aws_9c08843613e0daaa0bf5",
     "stationId": "awb_961bc394e92343c4315e",
-    "name": "Patrisamato Radio",
+    "name": "patrisamato radio",
     "country": "BA",
     "url": "https://patrisamato.com/listen/live/radio.mp3",
     "codec": "mp3",
@@ -818,25 +761,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:02:32Z"
-  },
-  {
-    "id": "aws_dc89f189d4a6ec5e94c4",
-    "stationId": "awb_99a9e3a046988b762b32",
-    "name": "Pop FM - Slusaj glasno!!!",
-    "country": "BA",
-    "url": "http://188.40.62.20:8032/;stream.nsv",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5b0e8a05-6059-4d21-91ae-e14a987fe59f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
     "id": "aws_39a562a7f321b6a96d1c",
@@ -1765,7 +1689,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "34ce2c40-ee73-479c-8ff1-39c91d3231b7",
       "41f7ec54-d936-4d38-a65f-74d910a2738e"
     ],
     "lastCheckOk": true,
@@ -1957,15 +1880,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5457b94d-4d12-42e5-88cb-bcef0cf74ea6",
       "BA:radio-mix-bih"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:27:12Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_db540b387b062d409002",
@@ -2434,25 +2355,6 @@
     "lastCheckedAt": "2026-11-06T22:15:31Z"
   },
   {
-    "id": "aws_f9f982dc3d52cc375f4d",
-    "stationId": "awb_d502e0a04051ffdb0376",
-    "name": "Radio Usora",
-    "country": "BA",
-    "url": "https://webtvstream.bhtelecom.ba/radio_usora.m3u8",
-    "codec": "unknown",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be352707-1663-483c-92f0-48e7123a764c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
     "id": "aws_a2d70365f4af37f6ec5d",
     "stationId": "awb_a8da6df792cdbabdb893",
     "name": "Radio Usora",
@@ -2624,25 +2526,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
-  },
-  {
-    "id": "aws_926e5f1c45a12e5a0272",
-    "stationId": "awb_0ddd67ce05d865e5aac5",
-    "name": "Radio ZENIT Zenica",
-    "country": "BA",
-    "url": "http://5.189.168.133:8020/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66009a9b-64f6-4302-9b4e-e6bb9fdd9a37"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
   },
   {
     "id": "aws_bf658e2eed27d84af35f",
@@ -2834,15 +2717,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9fcccba7-d1a2-4066-a337-0a1bbb788b11",
       "BA:srce-krajine"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_37d436136ae96d0691b8",

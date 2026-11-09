@@ -59,25 +59,6 @@
     "lastCheckedAt": "2026-11-06T15:20:18Z"
   },
   {
-    "id": "aws_cadc629fbb75f4475bd1",
-    "stationId": "awb_27dc6e18c2fbd04c5065",
-    "name": "101 Jak FM Streaming Online – Jakarta",
-    "country": "ID",
-    "url": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 42,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e45432b8-4a04-4ec8-9f9f-670d0964f441"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
     "id": "aws_a29cb86f8df14fc6f686",
     "stationId": "awb_3dc55d1dbb4d2be75f19",
     "name": "101.1 Insania FM Sumbawa",
@@ -297,25 +278,6 @@
     "lastCheckedAt": "2026-11-06T00:25:07Z"
   },
   {
-    "id": "aws_fceef5b732f36b4e2eac",
-    "stationId": "awb_993d27b8d87257b0da52",
-    "name": "88.0 Mustang FM Jakarta",
-    "country": "ID",
-    "url": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cfe1148b-37d1-49be-814c-4a023f08beeb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
-  },
-  {
     "id": "aws_fa428adce028a7dc952e",
     "stationId": "awb_3e254daf2a94efb1e6df",
     "name": "889 FMberlin",
@@ -347,15 +309,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1bdb7538-d6af-4c77-ab1e-d51185aa9384",
       "ID:89-2-fm-jakarta-campur-sari"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8bb9f5c6de66ec71399c",
@@ -394,25 +354,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:41:28Z"
-  },
-  {
-    "id": "aws_12f20d789d9c2e37fe13",
-    "stationId": "awb_4b9fa7ac471e7cae75c6",
-    "name": "95.1 Kiss FM",
-    "country": "ID",
-    "url": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f80c876-86a0-4c3e-b104-94d26030da80"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
     "id": "aws_25c5f24e0087b029c488",
@@ -489,25 +430,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:32:05Z"
-  },
-  {
-    "id": "aws_a0f22a9386d966dc8d8e",
-    "stationId": "awb_4570c6534aad4c3bf71a",
-    "name": "98,4 Suara Giri FM Gresik",
-    "country": "ID",
-    "url": "http://streaming.girifm.com:8010/;stream.nsv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e900633-27d6-4ee4-88e2-9064a6095a1f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
   },
   {
     "id": "aws_db217b791ee06753b788",
@@ -710,44 +632,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:29:45Z"
-  },
-  {
-    "id": "aws_ed1c4e751eb85a0288c6",
-    "stationId": "awb_5707f306f66cb3db9e0c",
-    "name": "Ardan",
-    "country": "ID",
-    "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d0d5c057-c111-4975-9034-40ee02fcd7c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
-    "id": "aws_5126415e99e217d4f602",
-    "stationId": "awb_9c7b8be96320f0e24e78",
-    "name": "ARDAN 105.9 FM BANDUNG",
-    "country": "ID",
-    "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f9998525-a5e1-471a-81fd-123fdc100cc9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_1210a713a38a27baaf76",
@@ -977,15 +861,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8a39e300-23b3-40f1-95fd-41cd8a9df47b",
       "ID:beat-radio-bali"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:30:50Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a9c21b19c48f8d4fa5f3",
@@ -1040,7 +922,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6c9bcdf4-3ed3-48bd-84fd-31506035f551",
+      "74329c0a-b611-406f-a246-a342e0b98b04",
       "ID:bellasalam-87-6-fm-tasikmalaya"
     ],
     "lastCheckOk": true,
@@ -1049,7 +931,7 @@
   {
     "id": "aws_4d04e06139ac31b5b572",
     "stationId": "awb_11a914a5196431798527",
-    "name": "BENS RADIO",
+    "name": "Bens Radio",
     "country": "ID",
     "url": "https://streaming.bensradio.com:8522/stream",
     "codec": "mp3",
@@ -1060,7 +942,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6c63a6b2-88ea-46d8-9e5f-86f8e0a2f9da",
       "c782a084-3512-4b10-b2fa-4da4add15513"
     ],
     "lastCheckOk": true,
@@ -1269,15 +1150,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ID:campursari-fm-jakarta",
-      "fd6e2783-293c-476e-8201-ddeda1336ca3"
+      "ID:campursari-fm-jakarta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:34:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6c8e5e92f507787af73f",
@@ -1335,8 +1214,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "443733b4-147b-43af-a6f3-faf987867924",
-      "7c84dc53-d82e-4a41-bde2-6ba258309844"
+      "443733b4-147b-43af-a6f3-faf987867924"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:35:26Z"
@@ -1624,15 +1502,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "537e27f1-da35-4b91-b057-a8a1041a23c8",
       "ID:dahlia-bandung-101-5-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:47:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9303f5e2a5a9cc449e16",
@@ -1792,7 +1668,7 @@
       "ID:dengerin-musik-indonesia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:38:44Z"
+    "lastCheckedAt": "2026-11-06T06:51:19Z"
   },
   {
     "id": "aws_2add0afc59d7539238ec",
@@ -1870,7 +1746,7 @@
       "ID:dna-fm-jepara"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
+    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_be799e45c189b1df64a4",
@@ -1970,25 +1846,6 @@
     "lastCheckedAt": "2026-11-07T00:10:05Z"
   },
   {
-    "id": "aws_c7f6ec88a228032e876f",
-    "stationId": "awb_4b09d8692cc546237808",
-    "name": "Elshinta FM Jakarta",
-    "country": "ID",
-    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8dd6a16d-f994-455f-8f6a-a285f07abebd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:22:54Z"
-  },
-  {
     "id": "aws_725d1139ac617f14f71d",
     "stationId": "awb_ccb320cb8611008944ad",
     "name": "elshinta jakarta",
@@ -1999,15 +1856,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ID:elshinta-jakarta",
-      "b2357cbe-d080-4099-8cae-770539945230"
+      "ID:elshinta-jakarta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:55:24Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_70891f051951f1a77173",
@@ -2042,11 +1897,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "631d52e2-c371-49a6-9757-4867c093475b",
-      "98749a3b-5b5f-46d1-8e69-41978946f4b3"
+      "631d52e2-c371-49a6-9757-4867c093475b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:43:51Z"
+    "lastCheckedAt": "2026-11-06T22:06:20Z"
   },
   {
     "id": "aws_b0b88a40b766ff023cb6",
@@ -2120,15 +1974,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ID:free-fm-jakarta",
-      "cf45f3f5-e5be-4049-8338-e4adbe3a0313"
+      "ID:free-fm-jakarta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:02:34Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1bf5ab86d8eb72b37199",
@@ -2169,25 +2021,6 @@
     "lastCheckedAt": "2026-11-06T06:33:26Z"
   },
   {
-    "id": "aws_2c6bb5bd34c400e6f441",
-    "stationId": "awb_fd561d1e8eb06da7e68a",
-    "name": "fress fm",
-    "country": "ID",
-    "url": "https://streaming.fressfm.com:11185/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cb04f520-91ff-44e5-9368-3221b29ae84e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:17:17Z"
-  },
-  {
     "id": "aws_be24e304eaa2308d8654",
     "stationId": "awb_62391b0fea511ea2397a",
     "name": "Gadingharjo Core",
@@ -2220,8 +2053,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e4e8f150-f6ed-4486-a65f-d21467dd7af6",
-      "ff88b2dc-3993-4ff3-bcda-8fa74e3e1e2d"
+      "e4e8f150-f6ed-4486-a65f-d21467dd7af6"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:58:20Z"
@@ -2259,8 +2091,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "92115ec4-b8df-41d6-87e8-83a3328354f9",
-      "934780a0-b813-4aae-b1e5-767fdeb527c8"
+      "92115ec4-b8df-41d6-87e8-83a3328354f9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:23:23Z"
@@ -2300,10 +2131,10 @@
     ],
     "sourceIds": [
       "ID:galuh-media-streaming-cianjur-indonesia",
-      "b8e071ba-e538-40bf-8863-0f6d189214ad"
+      "cfb016db-c9cd-448d-9043-e6284789da17"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
+    "lastCheckedAt": "2026-11-06T11:36:36Z"
   },
   {
     "id": "aws_b22ff34e6a11ea200fb4",
@@ -2365,25 +2196,6 @@
     "lastCheckedAt": "2026-11-06T15:02:42Z"
   },
   {
-    "id": "aws_8f256bed89bba78592d9",
-    "stationId": "awb_e4cbed85696ee20ad123",
-    "name": "Gen 103.1 FM Surabaya",
-    "country": "ID",
-    "url": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 43,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "12fcc184-5c90-47e8-900c-9c76d977eb0c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:15:26Z"
-  },
-  {
     "id": "aws_8c6eff54876f6ae2fe46",
     "stationId": "awb_4a71a03b77cb48f57c80",
     "name": "Gen 103.1 FM Surabaya New",
@@ -2401,25 +2213,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:47:13Z"
-  },
-  {
-    "id": "aws_d011e9e0c75209b15cf8",
-    "stationId": "awb_83d798892be4e5962e82",
-    "name": "Gen 98.7 FM",
-    "country": "ID",
-    "url": "https://ic.mari.co.id:8443/genfm",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a7443a0f-36ea-44cc-8e86-372d5e6d8380"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
     "id": "aws_b6b156c80ab3d0b34242",
@@ -2454,7 +2247,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6282b213-c07e-4ec7-a8b2-4eb19e18d03b",
       "c2b1c572-59f5-4334-a17f-9e04fcd682a2"
     ],
     "lastCheckOk": true,
@@ -2474,49 +2266,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4f25ac5b-9688-4c72-9aa2-0ae61358909e",
       "56b2ae3e-9b35-4a05-991f-460a5bd898f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
-  },
-  {
-    "id": "aws_f5ce7cd76a4d59400bad",
-    "stationId": "awb_899318957e50f6cec463",
-    "name": "gen 987 FM",
-    "country": "ID",
-    "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af9d2835-a790-4741-9044-278467fbc297"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:50:25Z"
-  },
-  {
-    "id": "aws_10e8c4ef23b7fd2b3876",
-    "stationId": "awb_899318957e50f6cec463",
-    "name": "GEN 987 FM",
-    "country": "ID",
-    "url": "https://ic.mari.co.id:8443/genfm",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d804911c-51bf-4f86-ae99-9564b11d210d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:16:50Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_ab3936b3e912f4ae3f60",
@@ -2532,8 +2285,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "499b6a84-90ab-439d-9351-8ef66be5c799",
-      "e879b3dd-45a2-47ea-9520-833d9a0d9305"
+      "499b6a84-90ab-439d-9351-8ef66be5c799"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:57:28Z"
@@ -2695,25 +2447,6 @@
     "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
-    "id": "aws_c09d2f26298215f4b3d5",
-    "stationId": "awb_1d401dea74a3c1ed1852",
-    "name": "HANG 106FM",
-    "country": "ID",
-    "url": "http://185.47.62.52:8000/listen.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c9013155-cda1-41ab-b311-60f6781c9126"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
     "id": "aws_38b94d36aaee5893566f",
     "stationId": "awb_4c9600f150d85f5b25bc",
     "name": "Hang FM",
@@ -2804,15 +2537,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "29ff191b-a522-4fd7-b7e0-152a99fc88a8",
       "ID:hard-rock-heaven"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_24a38b2f30cc85cc7783",
@@ -2828,8 +2559,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "26b0c189-3bcf-4d72-946d-ca4dddcebcc7",
-      "c77a82b2-ff5c-4010-a1bb-d2e767865e58"
+      "26b0c189-3bcf-4d72-946d-ca4dddcebcc7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:29:54Z"
@@ -2947,11 +2677,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9b614cfb-2338-48de-9ebf-2fa13c4119bf",
-      "c15b436f-4b73-49a8-872b-62b54638af4e"
+      "9b614cfb-2338-48de-9ebf-2fa13c4119bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:04Z"
+    "lastCheckedAt": "2026-11-06T02:29:19Z"
   },
   {
     "id": "aws_9885e43212582cb8a575",
@@ -3582,26 +3311,6 @@
     "lastCheckedAt": "2026-11-06T00:05:01Z"
   },
   {
-    "id": "aws_6ca3973c676000a7fbb2",
-    "stationId": "awb_03aec5bb273da274f7d7",
-    "name": "JAK 101 FM",
-    "country": "ID",
-    "url": "https://ic.mari.co.id:8443/jakfm",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "68cfd6a4-59c1-440d-af4b-4b2153e99591",
-      "a5dbe024-ac26-4e09-b56c-8e7023fa8bcf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
-  },
-  {
     "id": "aws_6dc7a65ef5da2d052a48",
     "stationId": "awb_03aec5bb273da274f7d7",
     "name": "Jak 101 FM",
@@ -3638,6 +3347,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:50:12Z"
+  },
+  {
+    "id": "aws_6ca3973c676000a7fbb2",
+    "stationId": "awb_03aec5bb273da274f7d7",
+    "name": "Jak! 101 FM",
+    "country": "ID",
+    "url": "https://ic.mari.co.id:8443/jakfm",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "68cfd6a4-59c1-440d-af4b-4b2153e99591"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T21:07:34Z"
   },
   {
     "id": "aws_0d3b92f505fe9239d601",
@@ -3850,7 +3578,7 @@
       "d088d180-ffe2-4de3-ac8d-5fcb07f09af3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
+    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_68bac1099035dc50f1fd",
@@ -3882,15 +3610,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2095808c-8025-4944-8550-ff29270e8d69",
       "ID:kinozal-tv"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:05:46Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c504ff78fa27ae00515a",
@@ -3910,25 +3636,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:10:08Z"
-  },
-  {
-    "id": "aws_d95020a694553c66b2f4",
-    "stationId": "awb_dc65dab121d0efbea540",
-    "name": "Kis 95.1 FM Jakarta",
-    "country": "ID",
-    "url": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a6c85fd2-f610-4d72-91ea-3c14239a759e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_47e9daabcc1990aa0a1d",
@@ -4194,18 +3901,17 @@
     "country": "ID",
     "url": "https://pu.klikhost.com/proxy/kpfmbpn/stream",
     "codec": "aac",
-    "bitrate": 230,
+    "bitrate": 160,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "03a48833-aaeb-4576-aac2-2d5c7c106cbc",
       "4eb96af6-524e-4236-9243-bd27a4624dbe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
+    "lastCheckedAt": "2026-11-06T09:34:33Z"
   },
   {
     "id": "aws_15ccc6f752f1e2f48bb5",
@@ -4245,7 +3951,7 @@
       "4d856ef2-2a81-4aed-aa7d-69ecd158be5a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_68a2d66ed6c37ed067a8",
@@ -4446,25 +4152,6 @@
     "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
-    "id": "aws_06b136d5439c749337bf",
-    "stationId": "awb_2a92f47703f4b5b4727e",
-    "name": "mandarin station",
-    "country": "ID",
-    "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f1e28c16-040e-4206-b6c3-fdb44ff26207"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
     "id": "aws_a4c6a08bbb43127903e2",
     "stationId": "awb_defc8c44b9a296606610",
     "name": "Mandarin Station 98.3 FM",
@@ -4484,25 +4171,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
-    "id": "aws_faa41db8317c30e1a0d2",
-    "stationId": "awb_3bc38d0b45eabaa50913",
-    "name": "Mandarin station FM 98.3",
-    "country": "ID",
-    "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "731b17f8-5909-4e18-950f-c7a846afa3fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:17Z"
   },
   {
     "id": "aws_6f8b245b752ec0846083",
@@ -4587,25 +4255,6 @@
     "lastCheckedAt": "2026-11-06T09:33:53Z"
   },
   {
-    "id": "aws_5c87f031ed5810d0716f",
-    "stationId": "awb_4f285224e415b39dde3e",
-    "name": "Megaswara FM Bogor 100,8 MHZ",
-    "country": "ID",
-    "url": "https://server.adyadigitalteknologi.com:8010/1",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e0bc3e75-9cfa-4f3b-8e56-aeff87f2b30f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
     "id": "aws_be08abb3da4c1ea7eda9",
     "stationId": "awb_6c3219af44c0d29c41e9",
     "name": "Mendhut FM",
@@ -4657,8 +4306,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e6342066-8e9f-4113-b3bb-19137f377ef0",
-      "f37d5915-5838-4e92-a70d-2ab36a573561"
+      "e6342066-8e9f-4113-b3bb-19137f377ef0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:13:11Z"
@@ -5374,44 +5022,6 @@
     "lastCheckedAt": "2026-11-06T15:15:48Z"
   },
   {
-    "id": "aws_182bf91fa986e74873df",
-    "stationId": "awb_2d7523262ddb1339a816",
-    "name": "Most Radio Jakarta",
-    "country": "ID",
-    "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 43,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b9da305-87d7-49ec-bb52-8ee28992ebde"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
-  },
-  {
-    "id": "aws_a5742d06114b53159549",
-    "stationId": "awb_2e30040aa688f15ed529",
-    "name": "MQFM Bandung - Indonesia",
-    "country": "ID",
-    "url": "https://mqfmstreaming.kamil.web.id/;",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "78dee7e2-14ad-4303-af9a-785fc7f4e3ea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
-  },
-  {
     "id": "aws_1a4baa11de70a8df3ac7",
     "stationId": "awb_5a5d8add6675780d8d9d",
     "name": "MTB FM Surabaya",
@@ -5448,25 +5058,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:28:03Z"
-  },
-  {
-    "id": "aws_564030683d94321e322f",
-    "stationId": "awb_8bd1636d3feace138be2",
-    "name": "Mustang 88 FM",
-    "country": "ID",
-    "url": "https://ic.mari.co.id:8443/mustangfm",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f4a992d1-27a1-4686-bd32-7bfa82ce5e68"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
   },
   {
     "id": "aws_9bd02675f6f4d6b994a4",
@@ -5640,25 +5231,6 @@
     "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
-    "id": "aws_b4c707e99f5ec1e7eb9e",
-    "stationId": "awb_38bf4b7f90f494cea84c",
-    "name": "Nur FM Rembang",
-    "country": "ID",
-    "url": "https://ssi.streamingmurah.com:8002/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4c36cba-3bac-45b9-a41b-13216967359e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
-  },
-  {
     "id": "aws_89ce59a5049b74919d2b",
     "stationId": "awb_e4f76888bf57d6919cd5",
     "name": "Nusa FM",
@@ -5676,25 +5248,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:45:24Z"
-  },
-  {
-    "id": "aws_477807fa6a0e26a23c19",
-    "stationId": "awb_2f3af9563621345383e6",
-    "name": "Nusa FM Yogyakarta",
-    "country": "ID",
-    "url": "https://stream.zeno.fm/n5tergcf4v8uv",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a1303cc-ef13-401a-9383-4c9cae648807"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:57:38Z"
   },
   {
     "id": "aws_45c2ff4c6af2d13a0ac0",
@@ -5733,25 +5286,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:00:38Z"
-  },
-  {
-    "id": "aws_6201050a260f8b40151f",
-    "stationId": "awb_9d85bbb2a0f66697b5dc",
-    "name": "OKTAP Radio",
-    "country": "ID",
-    "url": "https://s7.crownmediacenter.my.id/listen/oktap_radio/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a81dc94a-47ad-4775-b239-92268d23d9ad"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
   },
   {
     "id": "aws_ba3215a3eae112257122",
@@ -5826,11 +5360,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0e912a78-241b-4161-bded-0bec593055e5",
       "afc14656-ebc2-478f-9dee-053554877c60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:54:00Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_d680378e7e352277eccd",
@@ -6008,25 +5541,6 @@
     "lastCheckedAt": "2026-11-06T20:52:20Z"
   },
   {
-    "id": "aws_39180f857f07105bd42f",
-    "stationId": "awb_7fc574c84f5a33265ca2",
-    "name": "Phoenix Radio Bali",
-    "country": "ID",
-    "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
-    "codec": "aac",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a34d056-702e-42ae-a108-76d748a636b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
-  },
-  {
     "id": "aws_3a976c34a9ded1662a3d",
     "stationId": "awb_03448950a56967ff38b6",
     "name": "Phoenix Radio Bali 91.00 FM",
@@ -6062,7 +5576,7 @@
       "25a85877-ddcd-42b5-86d1-42c69a88da32"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_dc2fae091363ed844f40",
@@ -6186,7 +5700,7 @@
       "a167711e-ed46-4f44-a3dd-cba8ae390439"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_6218077f14ca9a04c27c",
@@ -6227,25 +5741,6 @@
     "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
-    "id": "aws_f3f6649425785a644c53",
-    "stationId": "awb_88538b228465647e1825",
-    "name": "PRO 1 RRI MAKASSAR",
-    "country": "ID",
-    "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0cea1450-1354-42e3-a4cc-ef45ae7af848"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:21:14Z"
-  },
-  {
     "id": "aws_074a1bf7f677a1279981",
     "stationId": "awb_9eae378640633f6c8033",
     "name": "Pro 5 Makassar",
@@ -6265,44 +5760,23 @@
     "lastCheckedAt": "2026-11-06T15:41:16Z"
   },
   {
-    "id": "aws_3f093a04cc0c76c0ae37",
-    "stationId": "awb_279e4aa19aaf40e30ed6",
-    "name": "Pro1 RRI Jakarta",
-    "country": "ID",
-    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b00e254d-ff0f-492a-bc13-32013ea0b5e7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:05:39Z"
-  },
-  {
     "id": "aws_c98396f4ef218e609593",
     "stationId": "awb_afda627799fbc97c77fa",
     "name": "Pro1 RRI Makassar",
     "country": "ID",
     "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ID:pro1-rri-makassar",
-      "aeb477fd-ece0-40f3-b69d-f3db1a88cb28"
+      "ID:pro1-rri-makassar"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:16:39Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_370a211f932086b43c1e",
@@ -6375,8 +5849,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24c9ce72-7f6e-4cf2-bac0-e2a5cbf2c7d0",
-      "37aaad0f-1cd6-4d68-9fd0-3a621251c546"
+      "24c9ce72-7f6e-4cf2-bac0-e2a5cbf2c7d0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:42:45Z"
@@ -6555,25 +6028,6 @@
     "lastCheckedAt": "2026-11-06T00:12:43Z"
   },
   {
-    "id": "aws_2820a24dbd3fbbd26790",
-    "stationId": "awb_3206926109aefa721f63",
-    "name": "Radio ananda",
-    "country": "ID",
-    "url": "http://sx.alhasmedia.com/radio/8220/radio",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "655ca493-7393-42c0-9956-a98b48136752"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
     "id": "aws_fe4a9a202fe14cb781b8",
     "stationId": "awb_5691c47cbdfcc195d829",
     "name": "Radio ANDIKA",
@@ -6644,8 +6098,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "621862d4-21d7-4d61-af9a-6e60b7052e39",
-      "7486efce-8b9d-4ddb-bdfa-ec727f9715e9"
+      "621862d4-21d7-4d61-af9a-6e60b7052e39"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:12:58Z"
@@ -6721,8 +6174,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3f9ae972-51ea-47b4-b664-a6038c72d77f",
-      "58c515c0-263d-4ab7-a240-69cf5c29eb12"
+      "3f9ae972-51ea-47b4-b664-a6038c72d77f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:46:09Z"
@@ -6783,25 +6235,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:43:54Z"
-  },
-  {
-    "id": "aws_a70578850fe6fd120bd4",
-    "stationId": "awb_da1b46f9a21fca24ee53",
-    "name": "RADIO CBB 105,4 FM",
-    "country": "ID",
-    "url": "https://stream01-ssl.arenastreaming.com:8056/live",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf47fcb9-c400-4eaf-99c4-c5248bb3a0d6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_477b0c7aa8297008c1c5",
@@ -6899,25 +6332,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:19:17Z"
-  },
-  {
-    "id": "aws_526a8cf237605765f763",
-    "stationId": "awb_468ecd66a1c492c551a8",
-    "name": "Radio Dangdut 97.1 FM Jakarta",
-    "country": "ID",
-    "url": "http://202.147.199.99:8000/;",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f96f5c1-e75a-4129-abd3-d7e08360fa56"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:39:01Z"
   },
   {
     "id": "aws_d4bcb667061b838c4aea",
@@ -7034,25 +6448,6 @@
     "lastCheckedAt": "2026-11-05T22:36:10Z"
   },
   {
-    "id": "aws_e5fc25cf638f66784213",
-    "stationId": "awb_5687c75d31043ff54267",
-    "name": "Radio Elshinta",
-    "country": "ID",
-    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5a7450e-b2df-4b45-9bbf-d6972314eb5d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
-  },
-  {
     "id": "aws_da54e1c0713bf40cfaa2",
     "stationId": "awb_2401517769b32063ba78",
     "name": "Radio Elshinta Bandung",
@@ -7148,25 +6543,6 @@
     "lastCheckedAt": "2026-11-06T15:52:06Z"
   },
   {
-    "id": "aws_c0dd68eb7c7889a598da",
-    "stationId": "awb_2f3ef23c7e7d542fcd90",
-    "name": "Radio Gentara",
-    "country": "ID",
-    "url": "https://s1.gntr.net/listen/radio_gentara/gentara",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9cf262b5-b449-4073-96de-811b6bf04bfd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
-  },
-  {
     "id": "aws_a477390beba1afd2a8f7",
     "stationId": "awb_8695df9b4f018c7f3f0f",
     "name": "Radio Gentara",
@@ -7177,15 +6553,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1fc68030-02cc-436b-8e6f-1499f37d69b1",
       "ID:radio-gentara"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:51:28Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_66a1346b723c803e72d1",
@@ -7296,11 +6670,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b815344-58ec-49cd-844a-45c30058759a",
       "c1d294d1-7eaa-4dfc-960d-06a775c78a17"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:05Z"
+    "lastCheckedAt": "2026-11-06T03:14:51Z"
   },
   {
     "id": "aws_e4f0dae616fbd0ff09ce",
@@ -7354,8 +6727,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a70e843f-9814-4e24-9163-63b028efffc4",
-      "dece7108-ae17-4f4f-a5db-394ea8a71b1b"
+      "a70e843f-9814-4e24-9163-63b028efffc4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:14:03Z"
@@ -7374,30 +6746,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "595e04c5-ac06-4ee0-95c7-c66ec151e807",
-      "ddb576eb-449b-481b-9939-b676bbdfce84"
+      "6615d1b0-b782-4c2f-a8cf-e813490b9e54"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T05:24:33Z"
-  },
-  {
-    "id": "aws_853ea4df48bdbb96aaf9",
-    "stationId": "awb_b039e96965ee566a920e",
-    "name": "RADIO K-LITE 107.1 FM BANDUNG",
-    "country": "ID",
-    "url": "https://svara-stream.radioddns.net/bandung_klitefm_acc",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3f6edfec-bc0a-4dad-83ab-e56fb4d294b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
+    "lastCheckedAt": "2026-11-06T22:03:45Z"
   },
   {
     "id": "aws_263141628bde14d89a41",
@@ -7590,8 +6942,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "92e8bb39-818b-49b4-a5bb-8a0aaf4201c7",
-      "e045c42c-1253-4244-98d8-e2ec06e8ccdb"
+      "92e8bb39-818b-49b4-a5bb-8a0aaf4201c7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:35:50Z"
@@ -7996,8 +7347,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "44d6a4d9-e120-4caa-b7ea-b8ab31da47f0",
-      "f2442658-b3ab-4065-9d47-308ebddf3d42"
+      "44d6a4d9-e120-4caa-b7ea-b8ab31da47f0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:17:36Z"
@@ -8193,11 +7543,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b6be0e08-3860-4418-974a-00f7916c2550",
-      "ba02fd4c-255b-4e11-9c99-63924ad34d97"
+      "b6be0e08-3860-4418-974a-00f7916c2550"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:56:04Z"
+    "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
     "id": "aws_d2a1479bd30f46ba34e5",
@@ -8210,15 +7559,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7beeccf9-8426-4f54-9067-bfefba8819f0",
       "ID:ras-fm-jakarta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:32:21Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_db20130fa587c9963a3d",
@@ -8278,25 +7625,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:59:35Z"
-  },
-  {
-    "id": "aws_6c3a39b92738d3b278de",
-    "stationId": "awb_713b58cc77e4a2314f62",
-    "name": "RDI 97.1 FM",
-    "country": "ID",
-    "url": "http://202.147.199.99:8000/;stream/1",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962fdcaf-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
     "id": "aws_2c518a91b3ea07a818ca",
@@ -8396,7 +7724,7 @@
   {
     "id": "aws_6a11b4009d7166a29a8d",
     "stationId": "awb_86c8d539ee98b106b47d",
-    "name": "Retjo Buntung FM",
+    "name": "RETJO BUNTUNG FM",
     "country": "ID",
     "url": "https://ssg.streamingmurah.com:9940/stream",
     "codec": "mp3",
@@ -8407,8 +7735,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4574b5c3-ef54-48b9-8bfa-ddbf96837cad",
-      "9ead572a-8ccb-43dc-8afa-ff362c615c9c"
+      "4574b5c3-ef54-48b9-8bfa-ddbf96837cad"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:23:43Z"
@@ -8547,11 +7874,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0beac7cf-6bcd-47ee-a3d9-d4faf372a068",
+      "4dcf5e2c-0898-4e93-8243-95fd5009e61a",
       "ID:rri-channel-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:47Z"
+    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_3f4f4d364c08d84b0964",
@@ -8632,26 +7959,6 @@
     "lastCheckedAt": "2026-11-06T11:48:02Z"
   },
   {
-    "id": "aws_cfc051e8493c8fe748ec",
-    "stationId": "awb_6491955d5001eb6d2d1a",
-    "name": "RRI Pro 1 Jakarta",
-    "country": "ID",
-    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6a23a5c-dead-40b7-9377-b0011943f210",
-      "bdbfcf26-6d01-4149-851b-d2b7d6b984ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:42:40Z"
-  },
-  {
     "id": "aws_5d8a46b865a4c781f345",
     "stationId": "awb_6d6d2e516da25772aa2f",
     "name": "RRI Pro 1 Jakarta 91.2 FM",
@@ -8669,44 +7976,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:50:12Z"
-  },
-  {
-    "id": "aws_49411427b16668c1b9bf",
-    "stationId": "awb_6d6d2e516da25772aa2f",
-    "name": "RRI Pro 1 Jakarta 91.2 FM",
-    "country": "ID",
-    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e8125ec-6607-46f5-abfe-e077886b5306"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:18:23Z"
-  },
-  {
-    "id": "aws_199f6e9ea2710ce67189",
-    "stationId": "awb_6c12de855528d18f5b6d",
-    "name": "RRI Pro 1 Makassar",
-    "country": "ID",
-    "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "71d4f342-1f6f-46f3-adea-97d527810b11"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:05:28Z"
   },
   {
     "id": "aws_bce6dc0be44f7e4dd364",
@@ -8809,39 +8078,18 @@
     "name": "RRI Pro 1 Tanjungpinang",
     "country": "ID",
     "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2af1f7b5-5974-4374-8082-a101e6d9e225",
       "ID:rri-pro-1-tanjungpinang"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
-  },
-  {
-    "id": "aws_7385f6b8806556965812",
-    "stationId": "awb_940826b6d3cce67f1049",
-    "name": "RRI Pro 1 Tanjungpinang",
-    "country": "ID",
-    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ae4c8f66-8e32-4ec9-b004-8f03a663db73"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7c5dc7c3c38a6966b9c3",
@@ -8891,20 +8139,18 @@
     "name": "RRI Pro 2 92.1 FM Tanjungpinang",
     "country": "ID",
     "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7e096af2-f010-4200-b58c-00a8415cb25d",
       "ID:rri-pro-2-92-1-fm-tanjungpinang"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b2fbd596a1abc5df0c1f",
@@ -9027,25 +8273,6 @@
     "lastCheckedAt": "2026-11-06T17:00:38Z"
   },
   {
-    "id": "aws_f79f476fe02294ac6121",
-    "stationId": "awb_6e15790f5e1cfa4b885c",
-    "name": "RRI Pro 2 Tanjungpinang",
-    "country": "ID",
-    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "68762dc4-3851-44fd-add2-48a8b2b9ec52"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
-  },
-  {
     "id": "aws_785dd5c0c684b43c62e1",
     "stationId": "awb_b91d9332a2278c2ebcc2",
     "name": "RRI Pro 2 Yogyakarta",
@@ -9067,44 +8294,23 @@
     "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
-    "id": "aws_6ed0a04d1b1987baa95f",
-    "stationId": "awb_8f09b9c827fbf5d0da46",
-    "name": "RRI PRO 3",
-    "country": "ID",
-    "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af81b287-3e1a-4c5a-961e-2fab51d98763"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
-  },
-  {
     "id": "aws_a2adb8d41708a8fa07b8",
     "stationId": "awb_08c7401b2486da394df0",
     "name": "RRI Pro 3",
     "country": "ID",
     "url": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "ID:rri-pro-3",
-      "dfc789d5-45cf-4e34-93a4-5cd573baa08f"
+      "ID:rri-pro-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:10:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_eecaa089a4aeb991f7cb",
@@ -9343,7 +8549,7 @@
   {
     "id": "aws_cb88903f2560a8683284",
     "stationId": "awb_d668b01d02738caeb418",
-    "name": "RRI Voice of Indonesia",
+    "name": "RRI Voice Of Indonesia",
     "country": "ID",
     "url": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
     "codec": "aac",
@@ -9351,15 +8557,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "54064684-9e8c-45ad-85b9-4dd90d8ee01c",
       "ID:rri-voice-of-indonesia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3912dbbeb212f3ec46c6",
@@ -9415,8 +8619,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "86202045-8db9-4607-9208-ec3256cef434",
-      "bd184baa-cf75-470e-9edd-45465ac55df8"
+      "86202045-8db9-4607-9208-ec3256cef434"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:03:56Z"
@@ -9559,26 +8762,6 @@
     "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
-    "id": "aws_8bd609e048b3604b50bf",
-    "stationId": "awb_41bdefdda251ece6f112",
-    "name": "Slawi FM Tegal",
-    "country": "ID",
-    "url": "https://i.klikhost.com/9032/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0aee2a47-19d6-4532-9442-567b4820e89b",
-      "bce51a67-e922-48c2-9d52-0dd686d37cba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:00Z"
-  },
-  {
     "id": "aws_b794fb5e6c7894f081f0",
     "stationId": "awb_df5c44483d72f2e33b67",
     "name": "Slipknot",
@@ -9597,7 +8780,7 @@
       "aecd0a48-0cd9-4d6e-9ff8-7c0134bab9e8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_935d91d9ea923fafa5ff",
@@ -9686,15 +8869,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6233fefa-714e-444c-bc76-065d440c8082",
       "ID:sonora-fm-92-jakarta"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a26e91e49f7966ddb4a9",
@@ -9829,7 +9010,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "49d660ef-8dfe-4fdd-abd8-b509e4349d2d",
+      "72d00d68-f7e9-4a5a-bae6-dab4c9bd4e6e",
       "ID:starstream-radio-the-classic-rock-rewind"
     ],
     "lastCheckOk": true,
@@ -10034,25 +9215,6 @@
     "lastCheckedAt": "2026-11-06T02:57:05Z"
   },
   {
-    "id": "aws_8290d7d009aec4eb6f1c",
-    "stationId": "awb_7b644b30455408e42fe0",
-    "name": "Suara Gracia FM",
-    "country": "ID",
-    "url": "https://pu.klikhost.com/proxy/gracia/stream",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4b58bc63-786a-4d62-a101-64551d05ff8b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
     "id": "aws_7f87ba032661c85b6e20",
     "stationId": "awb_72ba560afd099aead3b0",
     "name": "SUARA GRATIA FM",
@@ -10190,44 +9352,23 @@
     "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
-    "id": "aws_8638aa3b5307ca6894c9",
-    "stationId": "awb_867bd2c35de1d1c53526",
-    "name": "Suara Surabaya",
-    "country": "ID",
-    "url": "https://c5.siar.us/proxy/ssfm/stream",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1f33f36c-4ea8-4fb8-aac8-3fc83cd2a7ed"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
-  },
-  {
     "id": "aws_823036d181228ecdf8a6",
     "stationId": "awb_fedf6ac6e46875cc17da",
     "name": "Suara Surabaya FM",
     "country": "ID",
     "url": "https://c5.siar.us/proxy/ssfm/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 56,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "598aa769-a27b-4d6a-9482-9456fe0543dd",
       "ID:suara-surabaya-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:42:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_637a89b234d2339746ac",
@@ -10500,25 +9641,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:21:17Z"
-  },
-  {
-    "id": "aws_bd0465e3ef3dc2e05f59",
-    "stationId": "awb_b44ffe9ec80ec584b844",
-    "name": "The Beat Bali",
-    "country": "ID",
-    "url": "https://c1.siar.us/radio/8030/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1daa8cd-ebe6-47e0-bd70-7d7812f0e541"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:55:10Z"
   },
   {
     "id": "aws_06f281323fc078c7e55b",
@@ -10968,25 +10090,6 @@
     "lastCheckedAt": "2026-11-06T12:49:04Z"
   },
   {
-    "id": "aws_e96f3847e270c4bbb02f",
-    "stationId": "awb_2819c348247d1695a841",
-    "name": "Voice of Indonesia",
-    "country": "ID",
-    "url": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c0b62506-2363-4739-85a2-b480caf9e89e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
-  },
-  {
     "id": "aws_1b12bbdd755f0c6cdf32",
     "stationId": "awb_42d325d9636c42c0816d",
     "name": "Voice of Indonesia RRI world service",
@@ -11135,8 +10238,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "340e5ee8-468f-4ed7-b7ad-716479196ae4",
-      "971a0130-f008-4679-8bef-1fc66fe50e4a"
+      "340e5ee8-468f-4ed7-b7ad-716479196ae4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:51:40Z"
@@ -11175,8 +10277,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "59862988-9172-4fc1-9322-69c2ba55187a",
-      "ID:wawa-radio-101-2"
+      "ID:wawa-radio-101-2",
+      "da361a92-fa6b-4855-8a31-0ce8434be791"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:45:22Z"

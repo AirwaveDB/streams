@@ -71,8 +71,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "169816a6-bfd1-4843-9b38-4e7aa8db96e5",
-      "AL:albania-360-radio"
+      "AL:albania-360-radio",
+      "dce1275f-7c1b-4b34-b56b-e710e19a9259"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:40:08Z"
@@ -289,25 +289,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:07:15Z"
-  },
-  {
-    "id": "aws_c72ca6d6a9fa23ab9301",
-    "stationId": "awb_e7db7260c2776aac5340",
-    "name": "CLUB FM",
-    "country": "AL",
-    "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51469310-07fd-466c-a001-32620a258859"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:03:28Z"
   },
   {
     "id": "aws_8e361e7f3fd7f02afd69",
@@ -941,8 +922,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "53e22c4d-f363-4067-95a6-40995b24c7e6",
-      "9c1346b1-1c3d-4376-85c2-c6b547e4aab0"
+      "c5fa2e7d-288a-4ce1-82cd-fc9ac101d3a1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:35:26Z"
@@ -1532,15 +1512,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AL:radio-plus-102-2-fm",
-      "cce81735-f67e-47a8-8851-6ceb6c576e35"
+      "AL:radio-plus-102-2-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e5ca5aa279c27cfc78e3",
@@ -1559,7 +1537,7 @@
       "57191e9d-ba42-4a45-9104-3964b27275d3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_b71b7ba92b61776c57d6",
@@ -1614,7 +1592,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "709ba5b8-276c-461e-975f-1b48fd98a64a",
+      "9e73347a-aba1-41b1-b584-112677c6a65f",
       "AL:radio-saranda"
     ],
     "lastCheckOk": true,
@@ -1913,20 +1891,18 @@
     "name": "RadioOne",
     "country": "AL",
     "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "26ff53d3-8f2f-4874-850f-3ae964e9712f",
       "AL:radioone"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:39:31Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_84cbe690af297f8e991a",
@@ -1967,25 +1943,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:01:36Z"
-  },
-  {
-    "id": "aws_2ab4c4072e2aaf0c060d",
-    "stationId": "awb_5a02ce422ba4d159b788",
-    "name": "test",
-    "country": "AL",
-    "url": "http://stream-uk1.radioparadise.com/aac-320",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8534a807-12bb-45c0-8f3c-2b4cb007c0be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:42:40Z"
   },
   {
     "id": "aws_f31d5d27030500f21d48",
@@ -2069,7 +2026,7 @@
       "ea98467c-9c36-454b-9a95-7664c0e6fc34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-11-06T20:03:43Z"
   },
   {
     "id": "aws_a8cc0468274d41340d42",

@@ -101,25 +101,6 @@
     "lastCheckedAt": "2026-11-07T01:35:20Z"
   },
   {
-    "id": "aws_676e63d036441c783777",
-    "stationId": "awb_d9ce6ccfac7dcfc03468",
-    "name": "40 principales FM (Bogotá)",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9e7e1786-26c0-4c56-9c52-f32302d4f774"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
-  },
-  {
     "id": "aws_72bd2987fc76108c8526",
     "stationId": "awb_671183a3c4d8ca55583e",
     "name": "6.90 RADIO ROMANTICAS",
@@ -149,15 +130,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7d2b1376-c0df-4979-b0fc-e255cde168dd",
       "CO:88-9-super-estacion"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4dc115873009c880e0b9",
@@ -801,25 +780,6 @@
     "lastCheckedAt": "2026-11-06T20:50:49Z"
   },
   {
-    "id": "aws_ca94c5e45464784d66ec",
-    "stationId": "awb_8176dba8f81535cc1db7",
-    "name": "as radio",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AS_COLAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc3MzUzMTU4OSwiaXNzIjoidGlzcnYifQ.1GnFC8wj1ks0MxaGmCofDz_VjIr3wzjjUOPhDt_9zOs&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1773531589&aw_0_1st.bundleId=tunein.com&lat=10.4653&lon=-73.2498&aw_0_1st.persona=Spanish&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s309390&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=dsk.Web&aw_0_azn.planguage=%5biv%2c+es%5d&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.programId=p1607309&aw_0_1st.affiliateIds=a39100%2ca40075%2ca40084%2ca40115&aw_0_1st.bandId=2&delivery=1&aw_0_1st.lotamesegments=%3b%3b",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "40dd5381-6162-447d-994c-014991c91b05"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:37:58Z"
-  },
-  {
     "id": "aws_278cedb6c0b2da55c928",
     "stationId": "awb_13502c371f2e0d154dd6",
     "name": "astreana stereo 94.2",
@@ -871,7 +831,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "035458fa-0e3d-40a3-871d-70094ffc2e29",
       "a985ff31-f879-43be-9250-b6d49ea37dc0"
     ],
     "lastCheckOk": true,
@@ -1180,44 +1139,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:06:20Z"
-  },
-  {
-    "id": "aws_6cf54f0d0cb49d147713",
-    "stationId": "awb_e4271a87f2d144fa8463",
-    "name": "Barranquilla Estéreo (Barranquilla)",
-    "country": "CO",
-    "url": "https://radio.yaservers.com:6060/stream/1/",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6934b91d-a7a3-402c-abec-efb0ccaf28c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:42:13Z"
-  },
-  {
-    "id": "aws_ba8582ec52d676baed4d",
-    "stationId": "awb_84098922cf54ba7433ba",
-    "name": "BB Radio Rock",
-    "country": "CO",
-    "url": "http://streambbr.ir-media-tec.com/rock/mp3-128",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7a808cd-da4b-4b3a-b717-7a1515413a09"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:19:22Z"
   },
   {
     "id": "aws_dd95fcbafb0c8c71dc02",
@@ -1736,25 +1657,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:58:47Z"
-  },
-  {
-    "id": "aws_1072a9f6ba9e5c1f6153",
-    "stationId": "awb_871d70f2adf5a2296a20",
-    "name": "Boom FM",
-    "country": "CO",
-    "url": "https://streamming.dobitsoluciones.com/livestream/1",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5d25bb3e-3787-4fd8-9037-93bbdb62b0d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:14:03Z"
   },
   {
     "id": "aws_9d04026bc055cb3727a5",
@@ -2383,25 +2285,6 @@
     "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
-    "id": "aws_990dc993db51e7815829",
-    "stationId": "awb_39f873303ab9d7d3772c",
-    "name": "Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]",
-    "country": "CO",
-    "url": "http://24273.live.streamtheworld.com/CARACOL_RADIOAAC_SC",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962f7516-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:12:27Z"
-  },
-  {
     "id": "aws_70e1667e1b5fbc794a00",
     "stationId": "awb_39f873303ab9d7d3772c",
     "name": "Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]",
@@ -2434,11 +2317,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "58b21904-5153-439e-b615-5be7c946587a",
       "f9589065-62c7-4c6f-b28a-e3ee1735c9ca"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:05Z"
+    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_7c2f5104bb8982aa9c7f",
@@ -2840,50 +2722,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0604da7e-85bb-469a-b5af-46db194998c6",
-      "e9b91e7d-4f78-444e-8b56-5397cd16d52f"
+      "0604da7e-85bb-469a-b5af-46db194998c6"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
-    "id": "aws_d6eb082a22f1bacb92f0",
-    "stationId": "awb_279cba1488e927c2fcbb",
-    "name": "Champeta Radio",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/ptqtr8urtfiuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "adb248d6-ebe3-4dab-a65f-321695daf653",
-      "f5253517-054d-4fb4-a7af-47ee4c88ce42"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
-  },
-  {
-    "id": "aws_0f07cd41e92df842feb2",
-    "stationId": "awb_c5cefe8a0194438f42ef",
-    "name": "Charalá Estéreo 103.2 FM",
-    "country": "CO",
-    "url": "https://stream-287.surfernetwork.com/4ili1p9hiyktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aWxpMXA5aGl5a3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IktXUC1yZEhmUlM2YUN0WHM2eFN1S2ciLCJpYXQiOjE3OTM5OTcyOTMsImV4cCI6MTc5Mzk5NzM1M30.ixz5xHn3aPn_fRTJ3uk_zDavBbFeEpk8efcicWrD25Y",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d59c38d-7303-447c-9104-91b7f2bd523c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
   },
   {
     "id": "aws_196da6ccd8f742a63e50",
@@ -3510,25 +3352,6 @@
     "lastCheckedAt": "2026-11-06T19:05:52Z"
   },
   {
-    "id": "aws_cba688bcb30f5f209a7b",
-    "stationId": "awb_22aa6fe72a62640a3032",
-    "name": "crv radio 890 am bogotá",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_BOGOTAAAC.aac",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b4454bd1-3825-4d82-b2ca-b7e9f0e4cb7d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:29:19Z"
-  },
-  {
     "id": "aws_883359bb2cd2f0ace1be",
     "stationId": "awb_e01f7a0ab582f1502449",
     "name": "crv radio Vida adoración",
@@ -3776,11 +3599,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4d876a01-d3c9-4f06-9576-566fdfa5d11d",
       "747ec584-7b02-43ac-a0af-c89dd7b46cd3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:39:08Z"
+    "lastCheckedAt": "2026-11-06T14:07:26Z"
   },
   {
     "id": "aws_ce09e2bacf64a533263c",
@@ -3941,25 +3763,6 @@
     "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
-    "id": "aws_ff0a5e67fcfa4ebd03c8",
-    "stationId": "awb_c143cb96114b90d790d5",
-    "name": "El Café del Mundo",
-    "country": "CO",
-    "url": "https://cloudstream2030.conectarhosting.com/8184/stream",
-    "codec": "aac+",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7a1a8546-9445-4a25-a731-a0f649223d85"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:32:28Z"
-  },
-  {
     "id": "aws_222ba68c5ac99b559a0f",
     "stationId": "awb_481d7283b7257894ad07",
     "name": "el esplendor de la verdad 88.7 Valledupar",
@@ -4015,25 +3818,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:33:02Z"
-  },
-  {
-    "id": "aws_4c22f6f6e2dd6aee4b2d",
-    "stationId": "awb_755f62ad11e7a0aa0c2d",
-    "name": "El Sol",
-    "country": "CO",
-    "url": "https://mdstrm.com/audio/632c9b89aa9ace684913b815/live.m3u8",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e01ea387-ecde-4586-a6ac-e09f1ab02d99"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
   },
   {
     "id": "aws_fc7f24fa9b368bf64f93",
@@ -4827,25 +4611,6 @@
     "lastCheckedAt": "2026-11-06T11:55:06Z"
   },
   {
-    "id": "aws_32e7ea7802072e20d331",
-    "stationId": "awb_e28d80a3505f90c7cd90",
-    "name": "Fuego AM 1130",
-    "country": "CO",
-    "url": "https://radio35.virtualtronics.com:20017/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f2d72e1-687c-4914-806e-1c770777fc17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
     "id": "aws_b11744a79b1f4dc95e38",
     "stationId": "awb_e4a54ec06fd3f145db4e",
     "name": "fuego stereo 101.9 santa marta",
@@ -5296,7 +5061,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "75ad809f-fb29-432d-b7dc-be5582a53ba2",
       "e69a1457-c173-4c5a-924c-e35c669880a4"
     ],
     "lastCheckOk": true,
@@ -5351,15 +5115,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:javeriana-estereo-91-9-bogota",
-      "fcec7b63-159f-407c-b4e5-31e7acc30318"
+      "CO:javeriana-estereo-91-9-bogota"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4db534ad394310c9468d",
@@ -5372,15 +5134,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:javeriana-etereo",
-      "ed90e664-ab88-4404-81b1-58c0a8d62594"
+      "CO:javeriana-etereo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_eea6c4a4751b4ef68489",
@@ -5407,20 +5167,18 @@
     "name": "JuanKiss Radio",
     "country": "CO",
     "url": "https://emisorasdigitales2.com/8172/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "47ae065f-e3a2-4761-844c-0b045136aea1",
       "CO:juankiss-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_193fea3883762a82366f",
@@ -5518,25 +5276,6 @@
     "lastCheckedAt": "2026-11-06T14:54:43Z"
   },
   {
-    "id": "aws_192586572eda1387b034",
-    "stationId": "awb_f23a3cfb6af4340fb780",
-    "name": "la 99.3 cuna de la libertad tame",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/dzeqbnozlwqtv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4a88caaa-09da-4f98-a848-030f97635c2d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:45:34Z"
-  },
-  {
     "id": "aws_3969dfd8b8e63a6a7521",
     "stationId": "awb_4626db8f5ca1e3adb4bf",
     "name": "la 99.5 fm el poder que nos une cali",
@@ -5554,25 +5293,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:53:23Z"
-  },
-  {
-    "id": "aws_1c5937775a1c5d85e800",
-    "stationId": "awb_e36b16ec2d7ca7b527ed",
-    "name": "La Capital Del Reggaeton",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/hf24gpx2p0quv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c21aee4-8300-46e5-83db-fe71b6f305b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
     "id": "aws_b791861b52377c0dbd12",
@@ -6197,25 +5917,6 @@
     "lastCheckedAt": "2026-11-06T21:15:17Z"
   },
   {
-    "id": "aws_5a77033e5a9817b03c4a",
-    "stationId": "awb_fd1815a56df5294d0b4a",
-    "name": "La Mega",
-    "country": "CO",
-    "url": "https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b9d0b19f-9b9f-4802-988d-daa237c7391c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:36:05Z"
-  },
-  {
     "id": "aws_154b9b832e76347900f2",
     "stationId": "awb_a34322bd48c9e58b53ef",
     "name": "La Mega (Medellín) 92.9 FM",
@@ -6644,25 +6345,6 @@
     "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
-    "id": "aws_85c3c3ade9fe3a9020cd",
-    "stationId": "awb_eaded2d6579300e77798",
-    "name": "La Rockola FM",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/uz2idrgoqnduv",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962bd56d-e7a0-41ef-9a09-d38a2792893a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:59:46Z"
-  },
-  {
     "id": "aws_49e92980fe41962c3782",
     "stationId": "awb_df3558d5edbb56e24c03",
     "name": "La Rockola FM",
@@ -6676,8 +6358,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1b5f29ea-9d4c-4275-b3ad-f87181a101f5",
-      "335ccb0a-7e8c-444f-8a51-8727a95cb990"
+      "1b5f29ea-9d4c-4275-b3ad-f87181a101f5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:40:51Z"
@@ -6904,44 +6585,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:53:36Z"
-  },
-  {
-    "id": "aws_65fc62b33a177dc047fd",
-    "stationId": "awb_5c96be6276dff0685014",
-    "name": "la Vos del Tao 4",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18068/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc89ec9f-cef8-49be-abc0-e92768f549ab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:48:11Z"
-  },
-  {
-    "id": "aws_5199330f3828e588ffb7",
-    "stationId": "awb_7fb2e265e494c2be4b83",
-    "name": "la Vos del Tao 6",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18136/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ce437385-8cf7-413c-95e2-85aef3509565"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
   },
   {
     "id": "aws_65a77309ada784dfd5e6",
@@ -7292,25 +6935,6 @@
     "lastCheckedAt": "2026-11-06T17:11:07Z"
   },
   {
-    "id": "aws_83548af67d6ffaadcff9",
-    "stationId": "awb_ebc84f1bcf2de9c1b840",
-    "name": "La Voz del Tao 2",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18068/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9253a2c6-91a3-47d9-a591-d821a155ae78"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
     "id": "aws_98b354340b212b71dcba",
     "stationId": "awb_847e1e7f63f141177796",
     "name": "la Voz del Tao 4",
@@ -7328,63 +6952,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:19:31Z"
-  },
-  {
-    "id": "aws_3d41dc1e1493cc0a3c01",
-    "stationId": "awb_f9ee9b508e906fe66906",
-    "name": "la Voz del Tao 4",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18068/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70355ea0-2792-4faa-b379-01cc6720f8d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:29:34Z"
-  },
-  {
-    "id": "aws_511bdb92f8d477a0c58e",
-    "stationId": "awb_d6b67ac55973b198d1cc",
-    "name": "la Voz del Tao 4",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18068/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a61582e9-efda-4e7e-922d-c5b893e125eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:10:03Z"
-  },
-  {
-    "id": "aws_ef22a3bd473cdf3371de",
-    "stationId": "awb_d6b67ac55973b198d1cc",
-    "name": "la Voz del Tao 4",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18136/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c394252-ba6b-407f-9377-440b0b4f4812"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:42:45Z"
   },
   {
     "id": "aws_4443c8de06c0a30435ee",
@@ -7419,68 +6986,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7f1478cd-9804-4965-9d76-43e0deea389f",
-      "9999f839-8c9b-4751-9071-9cda2d572e3e"
+      "7f1478cd-9804-4965-9d76-43e0deea389f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
-  },
-  {
-    "id": "aws_0113698b7636c81bfb74",
-    "stationId": "awb_819a71cfc8f2edd3bc93",
-    "name": "la Voz del Tao 6",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18136/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a32bb48-fdd3-4f61-b710-09ed4ca9dfe9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:55:10Z"
-  },
-  {
-    "id": "aws_fc6e2d07d0eb48adf5f2",
-    "stationId": "awb_9830b18a12bde91d2d15",
-    "name": "la Voz del Tao 6",
-    "country": "CO",
-    "url": "http://mediacp15.rootservers.co:18136/stream",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5388f21-864b-4f03-8519-3b3e7ba3738c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
-  },
-  {
-    "id": "aws_d7a0ac5432ad9e95f920",
-    "stationId": "awb_e7dc9a1ab86b5b432788",
-    "name": "La X",
-    "country": "CO",
-    "url": "https://s5.radio.co/s980fc5249/listen",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d932dd0-72fe-4a54-aba9-ddc0bcc3871a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:15:36Z"
+    "lastCheckedAt": "2026-11-06T08:41:41Z"
   },
   {
     "id": "aws_8d47c52bf9f077c5e8d3",
@@ -7700,25 +7209,6 @@
     "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
-    "id": "aws_62fc1bbe8702ad1b9637",
-    "stationId": "awb_6c5e5ef8c3aa5fab7a28",
-    "name": "Los 40 Principales",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ade953ad-09e7-4d73-b6f1-37494d0ea10e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
     "id": "aws_3906c363641ac7f530d2",
     "stationId": "awb_e3466c5c5a9d6fac54d9",
     "name": "Los 40 Principales (Barranquilla)",
@@ -7852,25 +7342,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:12:44Z"
-  },
-  {
-    "id": "aws_34a9edc2f5a8828bad9f",
-    "stationId": "awb_8a2b24351323424e316a",
-    "name": "Marandua Stereo 100.7 FM",
-    "country": "CO",
-    "url": "http://radiolatina.info/9430/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05c1ab90-11d5-4659-a3d6-234027c8b1df"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:01:25Z"
   },
   {
     "id": "aws_205b5990e85cd970d42f",
@@ -8397,11 +7868,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "190fdaae-d871-48d3-81c3-17aa887cd0d9",
+      "630a785c-fd55-41d5-b244-0c2b13e6cea2",
       "CO:musical-stereo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:56:15Z"
+    "lastCheckedAt": "2026-11-06T11:06:37Z"
   },
   {
     "id": "aws_0c0472790b12d4fedde3",
@@ -8439,7 +7910,7 @@
       "1504347b-289c-4561-a7e4-8985a91598c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_bf75bfc96e9710018c8a",
@@ -8457,10 +7928,10 @@
     ],
     "sourceIds": [
       "CO:nevermore-radio-nevermore-network",
-      "baccaeaf-4cfa-4e52-bd01-031c617263ec"
+      "d2a83065-4b07-4c1c-bc0c-75f7c29cfbe1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
+    "lastCheckedAt": "2026-11-06T18:25:14Z"
   },
   {
     "id": "aws_53c3107cd328cd8d61f4",
@@ -9323,25 +8794,6 @@
     "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
-    "id": "aws_96f5b236665610226246",
-    "stationId": "awb_6898f38152cf70c4726e",
-    "name": "Radio 1 FM (Bogotá)",
-    "country": "CO",
-    "url": "https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dac589b7-ec32-4900-bb63-d27c33674e9e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
     "id": "aws_01299c8c75b6fc19443e",
     "stationId": "awb_dd00a46e8485f40f6242",
     "name": "Radio 1040 (1040 AM)",
@@ -9359,25 +8811,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
-    "id": "aws_933040a99c6fa5d22d23",
-    "stationId": "awb_f4965096aa886d80d86f",
-    "name": "Radio Acktiva",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA_SC",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "53dbc356-94d8-40c7-9cee-0b751676730a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:11:47Z"
   },
   {
     "id": "aws_181303818bb580d14fb0",
@@ -9456,25 +8889,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:02:16Z"
-  },
-  {
-    "id": "aws_56c133eff59f73ec8259",
-    "stationId": "awb_e5668191055a27d4506d",
-    "name": "Radio Bandida",
-    "country": "CO",
-    "url": "https://latina.streeemer.com/listen/latina/radio.aac",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5cf8d0e1-04a4-424e-a54c-ec230333d13a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:03:49Z"
   },
   {
     "id": "aws_23ada68d19bec251cd7c",
@@ -9593,25 +9007,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:15:48Z"
-  },
-  {
-    "id": "aws_11258753f6523f99ea8f",
-    "stationId": "awb_db892eeea03023c35280",
-    "name": "Radio Chipazaque Junin Cundinamarca",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/ig1twwgxkiavv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e962613-eeee-4827-9d97-7b0c4157e4f3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:05Z"
   },
   {
     "id": "aws_4f329d49feb28ea93370",
@@ -9745,25 +9140,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
-    "id": "aws_2887bcf48c9389be54be",
-    "stationId": "awb_5fbb7a9fd6b43cd00244",
-    "name": "Radio El Sol RCN",
-    "country": "CO",
-    "url": "https://mdstrm.com/audio/632c9b89aa9ace684913b815/live.m3u8",
-    "codec": "aac",
-    "bitrate": 131,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4fd9e72e-7bb3-40f6-8f62-ced562e4434d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:30:58Z"
   },
   {
     "id": "aws_9eb9153ffcb66d0353af",
@@ -10445,15 +9821,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:radio-policia-medellin-nacional-96-4-fm",
-      "aedecd51-846b-4b55-9738-7ce1b1d83c33"
+      "CO:radio-policia-medellin-nacional-96-4-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:59:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_fe3dfd02d18db771210a",
@@ -10473,25 +9847,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:32:05Z"
-  },
-  {
-    "id": "aws_01da1e799251c51df830",
-    "stationId": "awb_9360084412960adebd7d",
-    "name": "RADIO POLICIA NACIONAL 91.7 FM",
-    "country": "CO",
-    "url": "https://stream-284.surfernetwork.com/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhVaHRtLXBRUVMyUDUyd2xxRWNzdUEiLCJpYXQiOjE3OTM5NzkyOTUsImV4cCI6MTc5Mzk3OTM1NX0.jp_PU01NT1ov4Ja9jXAcBNTBwvoceGyNau7yZJvcCbM",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bcc184ba-3215-431c-9dfc-1a66ef7c38a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
     "id": "aws_71882a1237927a52854f",
@@ -10545,11 +9900,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "84fd7caf-8748-4659-b98a-a8d2fbe0e9b2",
       "e81e5888-1337-4e88-bb21-d461ada3ad30"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:01:50Z"
+    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_8a2364bec402d4f2bad2",
@@ -10584,7 +9938,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e493628-ed64-496b-a39a-9361f8ebaa51",
       "ff8ab077-d7d2-4bc6-8484-1954ac5d0d67"
     ],
     "lastCheckOk": true,
@@ -10667,25 +10020,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:14:37Z"
-  },
-  {
-    "id": "aws_890092bd457cd315454e",
-    "stationId": "awb_714149c7742d02f9dad8",
-    "name": "RADIO SUPER FIESTA",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/2aek8bfhewzuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b513deca-df40-4f0b-a0ca-a901bd8f8cfe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:16Z"
   },
   {
     "id": "aws_61f4b2a31b53a4e859b0",
@@ -10853,7 +10187,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3cdac9d6-1eca-4d0e-8271-916eedc3d046",
       "bd685f16-8589-41e4-92ab-7dddc9cd9804"
     ],
     "lastCheckOk": true,
@@ -10938,44 +10271,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:22:51Z"
-  },
-  {
-    "id": "aws_b594b0814ddbb9fac91a",
-    "stationId": "awb_3e27e656b208fdd9b8c9",
-    "name": "Radio UNAL Bogota",
-    "country": "CO",
-    "url": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "131bff93-0e06-4753-a591-f2ee7b8d1fb5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:41:40Z"
-  },
-  {
-    "id": "aws_7363b8cfb0e6443fd2de",
-    "stationId": "awb_00e2914452199b7c9d53",
-    "name": "Radio Uniautónoma FM 94.1 FM En Vivo",
-    "country": "CO",
-    "url": "https://cast6.my-control-panel.com/proxy/unica/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "97a0ff7e-5d2d-4854-82c1-395b6dd6574d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:33:02Z"
   },
   {
     "id": "aws_078d77915170472d0271",
@@ -11276,20 +10571,18 @@
     "name": "Radioacktiva (Medellín) - 102.3 FM - PRISA Radio - Medellín, Colombia",
     "country": "CO",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:radioacktiva-medellin-102-3-fm-prisa-radio-medel",
-      "c0da52bf-066e-49d4-8dbe-18be46efe4f6"
+      "CO:radioacktiva-medellin-102-3-fm-prisa-radio-medel"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0bab6bea2eea5c894db1",
@@ -11497,8 +10790,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "021bfbad-9a32-4f50-8c97-c0464ba4d723",
-      "8bcdd9f3-6556-413a-af4b-d008e19d1586"
+      "021bfbad-9a32-4f50-8c97-c0464ba4d723"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:22:19Z"
@@ -11835,25 +11127,6 @@
     "lastCheckedAt": "2026-11-06T11:48:02Z"
   },
   {
-    "id": "aws_957ac78e1e4dcdc33b7b",
-    "stationId": "awb_b14cf63986190181081a",
-    "name": "Sama Estéreo 100.9 FM",
-    "country": "CO",
-    "url": "https://samafm.online/listen/sama_radio/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b780fc17-cabf-4981-9c87-a8272efbd2f0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
     "id": "aws_5191da2017426aaa145e",
     "stationId": "awb_e9903caec47a605f0197",
     "name": "Santa Barbara Stereo 106.6 FM",
@@ -11989,6 +11262,25 @@
     "lastCheckedAt": "2026-11-06T06:36:05Z"
   },
   {
+    "id": "aws_4920fba9741bd26ef4bf",
+    "stationId": "awb_3f557902629c3bcb3b31",
+    "name": "Soy Supernova",
+    "country": "CO",
+    "url": "https://soy-supernova.com/live",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1f2ca5ff-d669-4766-a9c3-9e397766ef0f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
+  },
+  {
     "id": "aws_9d2ec6dade07367d28cc",
     "stationId": "awb_cb539a0c21110ea98e59",
     "name": "Su Presencia",
@@ -12045,7 +11337,7 @@
       "a4727bfb-7c59-4555-a5a5-25075c166028"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:28:02Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_73375a1001acaf41ea0e",
@@ -12234,7 +11526,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1a5589a6-525d-45b1-aa50-752c785286a7",
       "6d967628-9df7-43ba-95f7-f484be9cfc22"
     ],
     "lastCheckOk": true,
@@ -12332,11 +11623,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14b98520-267c-45bb-885b-87da548bd9ea",
       "43e66e2c-2934-4a7f-8ab2-4743d82c611c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T02:39:24Z"
+    "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
     "id": "aws_ed96643dfe917093a248",
@@ -12478,25 +11768,6 @@
     "lastCheckedAt": "2026-11-06T23:51:27Z"
   },
   {
-    "id": "aws_4ee09c14590be53f0150",
-    "stationId": "awb_5786255b878177f9aae9",
-    "name": "Tropicana FM",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "acfcef03-9b52-49f4-818e-75c1b5ddafb8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:12:20Z"
-  },
-  {
     "id": "aws_b852036593801c75bb26",
     "stationId": "awb_d486b890a48cb8106197",
     "name": "Tropicana Popayán 106.1",
@@ -12531,7 +11802,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0b1c2e96-d451-4901-aa95-7bda4b9e7086",
       "b580a071-f459-4c34-bcf8-faf92497e3c0"
     ],
     "lastCheckOk": true,
@@ -12664,15 +11934,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "68934d0a-e8ef-4c37-a722-821a65ecaf8f",
       "CO:unicauca-stereo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:59:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a0a1b1acd1c5a70fa144",
@@ -12879,15 +12147,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "28fa44aa-87c4-492f-b738-2db449795aab",
       "CO:universitaria-estereo-88-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:38:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_cdb31a4b18da701ace1f",
@@ -12938,15 +12204,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "21cfa96e-c850-4695-a2d2-fa0dc41cdc3f",
       "CO:veracruz-stereo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b8c6b2914ae53b965003",
@@ -12966,25 +12230,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:41:41Z"
-  },
-  {
-    "id": "aws_4e5628064df43b3af37c",
-    "stationId": "awb_23201f467f8c9968da73",
-    "name": "Verdad y Vida Radio 870AM",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/zznllllp06cuv",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7e145fb7-49ea-4d8b-890f-562d6c06003a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
     "id": "aws_9739170aa036abfe5414",
@@ -13035,15 +12280,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CO:vibra-bogota",
-      "a3f35baf-88f1-4c2d-848e-22768df24577"
+      "CO:vibra-bogota"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:03:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b696f1ede7783ec5878b",
@@ -13192,11 +12435,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "aed33022-0f94-4260-90a8-13e9914ea12a",
       "b47e98f2-49ec-4efd-81cb-e9991037e946"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
+    "lastCheckedAt": "2026-11-06T03:30:54Z"
   },
   {
     "id": "aws_c5fbaa9bf63abe972f28",
@@ -13410,25 +12652,6 @@
     "lastCheckedAt": "2026-11-06T08:50:25Z"
   },
   {
-    "id": "aws_66d46673f8b44e1d6bcd",
-    "stationId": "awb_690b94ab3c14810823f8",
-    "name": "W Radio",
-    "country": "CO",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5717f683-dfe0-4702-8f67-a1998da91f6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:30:45Z"
-  },
-  {
     "id": "aws_e47caa44e5f9889daf71",
     "stationId": "awb_e5387a814f60fddb1b1f",
     "name": "W Radio",
@@ -13448,25 +12671,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:38:27Z"
-  },
-  {
-    "id": "aws_a45415641351878e66de",
-    "stationId": "awb_c88609659d2da75e8a4a",
-    "name": "W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio",
-    "country": "CO",
-    "url": "http://26653.live.streamtheworld.com/WRADIO_SC",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961af0bd-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:37:13Z"
   },
   {
     "id": "aws_3ffacf76527a848c8265",
@@ -13640,44 +12844,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:30:08Z"
-  },
-  {
-    "id": "aws_38759b997c7ca1a5706c",
-    "stationId": "awb_39b8519fdb89f331e1dc",
-    "name": "WOR FM Pre Recording Sessions Bogotá",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/x5zfbbtt83ktv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "425e70bc-c6a9-4689-b6cb-e1191116829b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
-  },
-  {
-    "id": "aws_46ddd3ee5a98dd808898",
-    "stationId": "awb_6d33159d9b17a55d588b",
-    "name": "WOR FM Pre Recording Sessions Bogota",
-    "country": "CO",
-    "url": "https://stream.zeno.fm/x5zfbbtt83ktv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d8327e74-e5ce-457e-a66a-b357cbfc83ab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
     "id": "aws_8954c0dee9c184f8f418",
@@ -13889,24 +13055,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:30:54Z"
-  },
-  {
-    "id": "aws_ede9ff078e99d07ff6f4",
-    "stationId": "awb_161cc7d71098d9b1cb65",
-    "name": "ZonaSalsa Radio",
-    "country": "CO",
-    "url": "https://cast6.asurahosting.com/proxy/salsafou/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0957a107-50fc-435e-a402-ddfa5cdda777"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
   }
 ]

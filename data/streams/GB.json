@@ -86,15 +86,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:100-hip-hop-nts",
-      "afd853b3-e6d1-11e9-a96c-52543be04c81"
+      "GB:100-hip-hop-nts"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b5daf199333a89f64aef",
@@ -148,7 +146,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2083ace8-e553-46d0-9df7-b5f48e3be0b7",
       "416f0323-155a-456b-b3d6-1cf47a75876e"
     ],
     "lastCheckOk": true,
@@ -250,44 +247,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:23:48Z"
-  },
-  {
-    "id": "aws_9a8c217be5b38c2365f5",
-    "stationId": "awb_21d6bb949cd341e5ffe6",
-    "name": "1940s Light Programme",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/malvernradiojrs/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02523eb1-480f-4ded-98d3-3ddd80806a88"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:32:34Z"
-  },
-  {
-    "id": "aws_6cf755dc1bac11082ec9",
-    "stationId": "awb_862e1e0be8cf61e6d2f0",
-    "name": "1940s Radio - Home Service - UK 1940s 1950s (Pumpkin FM OTRN)",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/1940sradio/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2010630-1fc4-45db-b85e-257b425051a0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_2f9de20dfd84d322993a",
@@ -916,7 +875,7 @@
       "d50796ae-a0e4-493f-b276-6b0a15b0c6dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_6973f82988046a8d9307",
@@ -1075,25 +1034,6 @@
     "lastCheckedAt": "2026-11-05T23:56:27Z"
   },
   {
-    "id": "aws_4924bf948a03d1026a86",
-    "stationId": "awb_3ac9f52e656e8b0a9a1f",
-    "name": "24/7 Chill Radio",
-    "country": "GB",
-    "url": "https://ec3.yesstreaming.net:3665/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3ef80c5-9ed9-4fab-972a-7c664dfd5028"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:59:56Z"
-  },
-  {
     "id": "aws_6b236e984eb6a33a3d76",
     "stationId": "awb_9039c426e3d45397da33",
     "name": "24/7 Classical Radio",
@@ -1182,34 +1122,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "11c067d9-0f68-4773-9bc2-335072309c71",
       "GB:24-7-jazz-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:34:33Z"
-  },
-  {
-    "id": "aws_2a75a9ada1a480590028",
-    "stationId": "awb_650018ef3f729e750783",
-    "name": "24/7 LoFi Radio",
-    "country": "GB",
-    "url": "https://ec3.yesstreaming.net:3755/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6d12806f-6273-4b53-9281-026e89c0df8a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:51:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_09ff2ab354c0445fd3dd",
@@ -1260,15 +1179,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4c9accd8-74c0-48b7-b42d-86ba204c0e24",
       "GB:24-7-lounge-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:48:16Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_caa5ec18ffb1380b5f26",
@@ -1579,25 +1496,6 @@
     "lastCheckedAt": "2026-11-06T03:28:02Z"
   },
   {
-    "id": "aws_3549e0489f7ce262842d",
-    "stationId": "awb_b5618060800df599c359",
-    "name": "4 To The Floor | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape5",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e231378a-e6d1-11e9-a96c-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:45:34Z"
-  },
-  {
     "id": "aws_6efdf46b285ab958244a",
     "stationId": "awb_d769861eef020ee686c9",
     "name": "45 Radio",
@@ -1612,7 +1510,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1408a44f-4c34-49ac-a746-80715c2fea54",
+      "7c098d89-e8f6-4d2d-bf04-608da498bf2f",
       "GB:45-radio"
     ],
     "lastCheckOk": true,
@@ -1638,25 +1536,6 @@
     "lastCheckedAt": "2026-11-06T18:36:59Z"
   },
   {
-    "id": "aws_817855db244e1af12882",
-    "stationId": "awb_09edd03fc29e4b5c5509",
-    "name": "4TuneFM",
-    "country": "GB",
-    "url": "https://c30.radioboss.fm:18274/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42b10552-9e8a-4730-8bb1-e2143d506509"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:08:32Z"
-  },
-  {
     "id": "aws_130fe260e43970dff6d8",
     "stationId": "awb_e3eb4557585832338f2d",
     "name": "4TunesFM",
@@ -1667,15 +1546,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1be154bf-1aa6-4637-89d8-f394780479fc",
       "GB:4tunesfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_098ba284b4bcef193283",
@@ -1731,49 +1608,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "ee60b165-f1d9-4757-bbb5-f9f15c9b51d4",
-      "fe4c2870-703c-4802-b2f6-a95664be32ff"
+      "ee60b165-f1d9-4757-bbb5-f9f15c9b51d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:38:44Z"
-  },
-  {
-    "id": "aws_bf32df224055ab6e9120",
-    "stationId": "awb_c81ae0a0074efa010281",
-    "name": "60 NORTH RADIO - FLAC",
-    "country": "GB",
-    "url": "http://r5.zetcast.net/flac",
-    "codec": "ogg",
-    "bitrate": 1411,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8c5c4c4-a27e-4ad5-9339-e5ce38c38aa9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:57:05Z"
-  },
-  {
-    "id": "aws_6c2126e4739af420ec7a",
-    "stationId": "awb_ae8d8af55f34366d790e",
-    "name": "60s Swinging Radio",
-    "country": "GB",
-    "url": "http://s2.xrad.io:8058/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3805cc52-cba8-4009-95da-455a23354689"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
+    "lastCheckedAt": "2026-11-06T19:42:40Z"
   },
   {
     "id": "aws_72c994a81440e1a8987e",
@@ -1966,7 +1804,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a26cd0b-c61c-41ee-a4ad-9b4bde46da71",
       "ba74b764-e222-456c-9966-ef88a4ca3e46"
     ],
     "lastCheckOk": true,
@@ -2030,25 +1867,6 @@
     "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
-    "id": "aws_2123ee8bf43542d4ae84",
-    "stationId": "awb_d482932914e54e4f096f",
-    "name": "AaH Calssical Radio - Bach - UK",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:9040/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bc3250b8-16a1-47d1-a0d1-b36faf90405a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
-  },
-  {
     "id": "aws_6ab8eda4f409457025f2",
     "stationId": "awb_761a3f792a7b840c716e",
     "name": "Aah Classical Radio - Bach",
@@ -2059,15 +1877,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "15dfa7b3-70f5-4dda-9eb3-daf62daae922",
       "GB:aah-classical-radio-bach"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:05:52Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_75443e2796815abb1069",
@@ -2432,7 +2248,7 @@
       "3aa237f9-9c40-4715-9e07-9dfabd60af3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_896979bd3319139ab117",
@@ -2486,11 +2302,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "269c805f-3017-4c3e-9fdf-114b7e134cf9",
-      "a23fc789-06b9-41b3-a4b3-7c83c33acebf"
+      "269c805f-3017-4c3e-9fdf-114b7e134cf9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:39:55Z"
+    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_7416676d7854ff0d2d61",
@@ -2639,11 +2454,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6b196a52-1468-48fe-948b-476fe90b6f54",
       "de5ea11d-189d-4717-95a4-d0efa15cfe6c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
+    "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
     "id": "aws_499eee8ed82af6d9516e",
@@ -3039,11 +2853,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "440ad224-f74a-471b-8ae8-893ba1888477",
-      "fb441035-d115-444b-b57c-2a97adb6e681"
+      "54ab8f7e-23fb-47ce-a13f-39f0d48f792f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
+    "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
     "id": "aws_55c08c8e85ec3a6e09ff",
@@ -3116,7 +2929,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "628cede1-b983-4b00-bcb2-180a06f3dc0c",
       "efeccc80-f74e-409d-93f3-d72f1f593d9a"
     ],
     "lastCheckOk": true,
@@ -3448,25 +3260,6 @@
     "lastCheckedAt": "2026-11-06T08:37:37Z"
   },
   {
-    "id": "aws_4ca60f4f2747f9333f68",
-    "stationId": "awb_75b9e040111e1d357339",
-    "name": "Attila1 FM",
-    "country": "GB",
-    "url": "https://stream.zeno.fm/k1mqxcqj9jruv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be404341-b7b7-44aa-9875-102cf91b0fcc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
-  },
-  {
     "id": "aws_64dd7d125c8d6233c4d3",
     "stationId": "awb_bb864a3061a3ea325936",
     "name": "Attila1 FM",
@@ -3689,11 +3482,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22bc86f2-6572-4a85-ab55-74e92c3ad50f",
-      "f0a972ea-9378-436b-b31d-9c9c79555acd"
+      "22bc86f2-6572-4a85-ab55-74e92c3ad50f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:02:29Z"
+    "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
     "id": "aws_dfca762682b0538844b7",
@@ -4013,11 +3805,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "add1c37e-717e-4746-8a30-e47f791b1231",
-      "fd7898b9-e442-4824-a313-77f25cb59de1"
+      "add1c37e-717e-4746-8a30-e47f791b1231"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
+    "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
     "id": "aws_269257986fc2fbfb1b9d",
@@ -4128,11 +3919,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "59813592-9a30-4e5c-bfc6-665724728582",
-      "b71664b3-93b3-4d6a-8c56-8b4c25482790"
+      "be2f9e99-7b30-4a19-a9a9-702a802bba08"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:31:57Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_6dbfd1b0e63645c806fc",
@@ -4186,68 +3976,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "f30d2b8b-7206-48ae-a83d-d0145ae18468",
-      "fdbdc2b0-c184-437b-8643-9a5bfa45c253"
+      "f30d2b8b-7206-48ae-a83d-d0145ae18468"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T04:24:14Z"
-  },
-  {
-    "id": "aws_219d1243ac5c3c6c432a",
-    "stationId": "awb_be1d086cc1e0d9dfa55d",
-    "name": "BBC Radio 1",
-    "country": "GB",
-    "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
-    "codec": "aac+",
-    "bitrate": 101,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bbdc66c4-293f-4c6a-82ca-94f9b0d37414"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
-  },
-  {
-    "id": "aws_7339833b04f4c3f52d1e",
-    "stationId": "awb_be1d086cc1e0d9dfa55d",
-    "name": "BBC Radio 1",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "08b5f7e8-8968-429f-8326-04cc3122735b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:37:30Z"
-  },
-  {
-    "id": "aws_3c5b8ac86272ae6dfcd3",
-    "stationId": "awb_03f2217432c401c49797",
-    "name": "BBC RADIO 1 - The biggest new pop and all-day vibes",
-    "country": "GB",
-    "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
-    "codec": "aac+",
-    "bitrate": 101,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7fd408e-02a5-49a1-8c03-078727e97e8f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
   },
   {
     "id": "aws_df54bd29d4955201ff4c",
@@ -4282,7 +4014,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a9a451d-f03b-4bcf-83ca-2f7009d0fa0d",
       "3560176e-8f9a-4659-9279-6b65d15a0009"
     ],
     "lastCheckOk": true,
@@ -4346,44 +4077,6 @@
     "lastCheckedAt": "2026-11-07T02:21:58Z"
   },
   {
-    "id": "aws_f887834e1b214917c4be",
-    "stationId": "awb_99447e61f3ede1721475",
-    "name": "BBC Radio 1 Dance (128k)",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2547182-2dab-4ad2-b4d8-bb03533c2e9c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:49:56Z"
-  },
-  {
-    "id": "aws_8f48679b7a81307acc24",
-    "stationId": "awb_79adb0af6ffea6d3721c",
-    "name": "BBC RADIO 1 DANCE: The biggest current, future and classic dance vibes",
-    "country": "GB",
-    "url": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70df08a8-d166-4acf-8c09-079b4374e1ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:24:24Z"
-  },
-  {
     "id": "aws_2a54c840e8a0bdc8ec8f",
     "stationId": "awb_c47ccfd097f697704728",
     "name": "BBC Radio 1Xtra (128k)",
@@ -4401,25 +4094,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:22:43Z"
-  },
-  {
-    "id": "aws_eac61d4fb1bfd5d3a8f4",
-    "stationId": "awb_53b0a2187fd6720a2fd3",
-    "name": "BBC RADIO 1XTRA: Amplifying black music & culture",
-    "country": "GB",
-    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8",
-    "codec": "aac+",
-    "bitrate": 101,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3b8e3b0-0827-47dc-8362-6f8e26d28f1e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:06:21Z"
   },
   {
     "id": "aws_f64cf8ab8bf10182ea8e",
@@ -4477,25 +4151,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:29:54Z"
-  },
-  {
-    "id": "aws_f492328ffe7c3849d067",
-    "stationId": "awb_85ea8401e86155c6b503",
-    "name": "BBC Radio 2",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f6d52348-70db-4197-bb17-bf12d5b1b58d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:49:38Z"
   },
   {
     "id": "aws_e28f7a7230158f8e62c4",
@@ -4707,25 +4362,6 @@
     "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
-    "id": "aws_ff88b4d432c3b3ceb4a7",
-    "stationId": "awb_25422fb913319739dd48",
-    "name": "BBC Radio 4 (128k)",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "98137c2d-ce68-4e33-8cb7-ddf3692ecc9d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
-  },
-  {
     "id": "aws_fbad035d741351ed4615",
     "stationId": "awb_bcb2b49fb01cf5689384",
     "name": "BBC Radio 4 Extra",
@@ -4762,25 +4398,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:18:42Z"
-  },
-  {
-    "id": "aws_b4e3282c451592a5f0c2",
-    "stationId": "awb_3851513d79121a30c947",
-    "name": "BBC Radio 4 FM",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5690b621-7055-49a2-942f-bb78c0d05902"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:31:49Z"
   },
   {
     "id": "aws_77b0bd6d24f2a731e7c6",
@@ -5366,11 +4983,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1aa1c6ae-7106-4f7b-9c1f-5da8c4e62dd3",
-      "a75857d5-6c43-47cb-b664-7f37256d34c3"
+      "1aa1c6ae-7106-4f7b-9c1f-5da8c4e62dd3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:32:09Z"
+    "lastCheckedAt": "2026-11-06T00:13:23Z"
   },
   {
     "id": "aws_85838af89ae6b1f0244e",
@@ -5443,11 +5059,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5efbc0f9-edcb-41a5-9bab-517688adcb91",
-      "99e6c9e4-e71e-4d32-a406-eabe17bada9e"
+      "5efbc0f9-edcb-41a5-9bab-517688adcb91"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:00Z"
+    "lastCheckedAt": "2026-11-06T02:29:19Z"
   },
   {
     "id": "aws_e3f6779bce26185cf492",
@@ -5482,8 +5097,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-      "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
+      "3d858afe-779c-4ae1-89a9-58bec0c14ba9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:17:10Z"
@@ -5755,25 +5369,6 @@
     "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
-    "id": "aws_37abee9f33b979167774",
-    "stationId": "awb_8de95e71b142921b9573",
-    "name": "BBC Radio Scotland (128k)",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "854a35f1-442b-4982-a7da-febeb8e16e49"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:22:51Z"
-  },
-  {
     "id": "aws_289ac5c2bbbbe85683a0",
     "stationId": "awb_b66788b03668a25085a0",
     "name": "BBC Radio Scotland Extra (96k)",
@@ -5888,25 +5483,6 @@
     "lastCheckedAt": "2026-11-06T01:55:46Z"
   },
   {
-    "id": "aws_e40516bc3abd22334e04",
-    "stationId": "awb_6ee20a93411a642eeaee",
-    "name": "BBC Radio Wales (128k)",
-    "country": "GB",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d128000.norewind.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "042d7a96-f61f-4715-b740-14494dfa91ea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:03:10Z"
-  },
-  {
     "id": "aws_449870f21ca36f16ff54",
     "stationId": "awb_37f3e10aa58a95c48e59",
     "name": "bbc Scotland",
@@ -6002,25 +5578,6 @@
     "lastCheckedAt": "2026-11-06T06:47:10Z"
   },
   {
-    "id": "aws_e9354b978679f84f0f6b",
-    "stationId": "awb_9da430d1c7de1e0a7db1",
-    "name": "BBC tv",
-    "country": "GB",
-    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af397252-bd75-4c82-bd1e-3d258f0336c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:01:22Z"
-  },
-  {
     "id": "aws_fa801de53d4b3df6f8bf",
     "stationId": "awb_c48841f92cc98e22522d",
     "name": "bbc Wales",
@@ -6072,11 +5629,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14b6c684-bb7c-4926-b2a3-fd5a02bf7867",
       "c3defce9-771c-46a3-b5ed-b68487f8aceb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:30:50Z"
+    "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
     "id": "aws_2a13721470d87f4e96d1",
@@ -6092,50 +5648,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "217ca367-a70b-4bcd-8eff-0a5e0e040335",
       "562cd738-5663-4e28-8d07-85ea21d4d9c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:32:21Z"
-  },
-  {
-    "id": "aws_f7ec2d5b6cbae02d4dc4",
-    "stationId": "awb_4befdb7dcd7ab2cbc677",
-    "name": "BBC World Service",
-    "country": "GB",
-    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8",
-    "codec": "aac+",
-    "bitrate": 50,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e1ea4e1-aac3-4617-93e3-b35b67b1ff86"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
-  },
-  {
-    "id": "aws_b695c2e5e5af662a2040",
-    "stationId": "awb_4befdb7dcd7ab2cbc677",
-    "name": "BBC World Service",
-    "country": "GB",
-    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "98adecf7-2683-4408-9be7-02d3f9098eb8",
-      "d599979c-7e17-43e9-a48f-f0fcd651d6a9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:05:11Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_36e6237a6d554b1a003f",
@@ -6159,25 +5675,6 @@
     "lastCheckedAt": "2026-11-06T03:04:40Z"
   },
   {
-    "id": "aws_83119812b87d13b8644e",
-    "stationId": "awb_4befdb7dcd7ab2cbc677",
-    "name": "BBC World Service",
-    "country": "GB",
-    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a347209e-6ce6-4c94-81ed-003c1275188f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
-  },
-  {
     "id": "aws_c36d15e5fcaad69a1e94",
     "stationId": "awb_7e152ebee6cfc15fa3f7",
     "name": "BBC World Service (128k)",
@@ -6191,11 +5688,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a7180d12-5a8c-46f9-a27f-be73889c3db5",
       "d1dd8875-3a1f-479a-ab5f-8bf37cf3d26b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:19:33Z"
+    "lastCheckedAt": "2026-11-06T03:05:50Z"
   },
   {
     "id": "aws_a0151a712655fd2d51ac",
@@ -6215,25 +5711,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T16:12:19Z"
-  },
-  {
-    "id": "aws_c7466ca225dcb5bae155",
-    "stationId": "awb_4c5653b485f57ebff567",
-    "name": "BBC World Service for East Asia",
-    "country": "GB",
-    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59e28043-e349-43a2-8695-ab67ff30b77e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
   },
   {
     "id": "aws_ec648c199dffdf7e8a35",
@@ -6293,25 +5770,6 @@
     "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
-    "id": "aws_67b857ed3697cfa4d42d",
-    "stationId": "awb_13157aa06bace1c07baf",
-    "name": "BCfm 93.2",
-    "country": "GB",
-    "url": "https://bcfmradiomain.radioca.st/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31db87e1-58da-4141-bd92-cf0da3257c25"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
     "id": "aws_135882df57f95dec6ca6",
     "stationId": "awb_8af9bc6cd5d764b0e197",
     "name": "Beat Geeks Radio",
@@ -6369,44 +5827,6 @@
     "lastCheckedAt": "2026-11-06T03:37:05Z"
   },
   {
-    "id": "aws_a520e5b067cf985a11c0",
-    "stationId": "awb_a7ea89aaba9a0f8944c9",
-    "name": "Beat Route Radio",
-    "country": "GB",
-    "url": "https://beatrouteradio.radioca.st/autodj",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "111d5aef-2975-47cc-81fc-c424a84104bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:32:05Z"
-  },
-  {
-    "id": "aws_201a345cbc97e79510aa",
-    "stationId": "awb_7cf1771ba5e4f3f94858",
-    "name": "BeatRouteRadio",
-    "country": "GB",
-    "url": "https://beatrouteradio.radioca.st/autodj",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de7a469f-9a11-43b6-a3ba-651d07e591f8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
-  },
-  {
     "id": "aws_c877b5225d3042bbfcd2",
     "stationId": "awb_8b80f4bcf34eef19bb4c",
     "name": "Beats Central",
@@ -6424,25 +5844,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:16:34Z"
-  },
-  {
-    "id": "aws_2d6e3cd71da2d809f756",
-    "stationId": "awb_79165cec34e8822a24e2",
-    "name": "Beckview Studios Radio",
-    "country": "GB",
-    "url": "https://a6.asurahosting.com:6700/radio.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "34374924-93f7-479a-b953-a4c645da591c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T09:32:40Z"
   },
   {
     "id": "aws_94b36173ffc2ed65d898",
@@ -6540,25 +5941,6 @@
     "lastCheckedAt": "2026-11-07T02:39:01Z"
   },
   {
-    "id": "aws_089988f910e05f5f5940",
-    "stationId": "awb_f6b3e4ce8c51ac7f4bd7",
-    "name": "Belter Radio",
-    "country": "GB",
-    "url": "http://uk2.internet-radio.com:8008/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f8d97e6-7c2d-4048-95e4-abad8dbaec70"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
-  },
-  {
     "id": "aws_34f60738e5c3d71f7096",
     "stationId": "awb_d50bb9c17003d1da4aad",
     "name": "Belters",
@@ -6650,11 +6032,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "28a67819-dd29-4913-9df9-31cdf4eeb82b",
-      "7271f78c-519b-4fbc-b034-1a3213e0dbb3"
+      "28a67819-dd29-4913-9df9-31cdf4eeb82b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
+    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_3fc2dd24c9a37e299d48",
@@ -7134,25 +6515,6 @@
     "lastCheckedAt": "2026-11-06T09:58:53Z"
   },
   {
-    "id": "aws_594c7270535d37e1aeeb",
-    "stationId": "awb_8a032a5a748161e4c737",
-    "name": "Bloop London Radio",
-    "country": "GB",
-    "url": "https://radio.canstream.co.uk:8058/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1cc8e314-8a4f-4225-af5f-69e064fcb238"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
-  },
-  {
     "id": "aws_c905434ab87001edca3d",
     "stationId": "awb_3c8b49a897cc953cf5e6",
     "name": "Bloop London Radio - live4",
@@ -7231,7 +6593,7 @@
   {
     "id": "aws_6203def98afe55307811",
     "stationId": "awb_d7f3c79e47c0d4bd585e",
-    "name": "Blue-in-Green Radio",
+    "name": "Blue-in-Green:RADIO",
     "country": "GB",
     "url": "https://stream.radio.co/s9e1625f13/listen",
     "codec": "mp3",
@@ -7242,11 +6604,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0fb72765-2bab-4242-b635-ac8bae673676",
-      "2a2be2f5-80dc-414b-a38c-2fae74210439"
+      "0fb72765-2bab-4242-b635-ac8bae673676"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
+    "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
     "id": "aws_86c8ceb59403056b58ef",
@@ -7340,8 +6701,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "df185514-161b-476d-a913-d2c2927033a8",
-      "e56b1083-2e60-4ca8-b637-2d19b51a6902"
+      "df185514-161b-476d-a913-d2c2927033a8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:33:49Z"
@@ -7385,25 +6745,6 @@
     "lastCheckedAt": "2026-11-06T15:10:10Z"
   },
   {
-    "id": "aws_5fa076bbd846a0419b43",
-    "stationId": "awb_cee822470a3c3525203f",
-    "name": "Boom Light",
-    "country": "GB",
-    "url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "97826f0f-c91b-4e58-8c77-dc1a9ca1f519"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
     "id": "aws_d2fce14e9d9240ffe3d4",
     "stationId": "awb_2141748dd4864b88351d",
     "name": "Boom Radio",
@@ -7438,7 +6779,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a1ff2aae-36dc-4941-b2bd-effae7fa9a94",
       "aa55aa5d-bcaf-450d-a17a-13e90a8b1663"
     ],
     "lastCheckOk": true,
@@ -7631,11 +6971,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0bf68865-449b-4190-a11c-597a4a47c0e9",
       "18ec8db2-d958-4a58-97a6-a553bb10056e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
+    "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
     "id": "aws_c26a192981ea2a07cd98",
@@ -7811,25 +7150,6 @@
     "lastCheckedAt": "2026-11-07T00:12:44Z"
   },
   {
-    "id": "aws_df5372a29c5aba2091e7",
-    "stationId": "awb_801bdb233319d96947b2",
-    "name": "Break Pirazes",
-    "country": "GB",
-    "url": "http://bpstream.hostco.de:3000/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "11054db4-1ac5-4d6d-bbdb-5d304b9cdcc0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:41:28Z"
-  },
-  {
     "id": "aws_bcc5ec74d1ee44874718",
     "stationId": "awb_e097ad60ffdfc7173764",
     "name": "Breezy Radio UK",
@@ -7902,11 +7222,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "35d683dc-effc-47d5-b6d0-c81071a67981",
       "c3198244-4c53-4af4-9625-be7c914166f1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:50Z"
+    "lastCheckedAt": "2026-11-06T01:07:44Z"
   },
   {
     "id": "aws_427d354283d350d06691",
@@ -7947,63 +7266,6 @@
     "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
-    "id": "aws_07e283f4e6bd351fe21d",
-    "stationId": "awb_9fb21b09236cab35e081",
-    "name": "BritCom 1 - British Comedy Radio (Pumpkin FM OTRN)",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8cf13f16-df99-4fd8-b152-ab8218563a36"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:55:24Z"
-  },
-  {
-    "id": "aws_6fa077f2feaaa2f79ae3",
-    "stationId": "awb_3672ea354ecfad6e2091",
-    "name": "BritCom 1 - Pumpkin FM",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "349d8a3b-ef0f-4928-a014-a33d44cac0f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:13:31Z"
-  },
-  {
-    "id": "aws_774ab570c1ce3c488a47",
-    "stationId": "awb_14d4681696e1ce870696",
-    "name": "BritCom 2 - British Comedy Radio (Pumpkin FM OTRN)",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c669835f-64ca-45b0-ae19-498febb83cb1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:27:48Z"
-  },
-  {
     "id": "aws_1ab89ff883148b2dc930",
     "stationId": "awb_d20a8b18c18a4a88ee95",
     "name": "BritCom 2 - Pumpkin FM",
@@ -8014,34 +7276,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "47416a39-4289-47a9-8747-056843a60c0b",
       "GB:britcom-2-pumpkin-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
-  },
-  {
-    "id": "aws_207e57c66cd1de027162",
-    "stationId": "awb_89bc4bb99a0861f4aaf5",
-    "name": "BritCom 3 - British Comedy Radio (Pumpkin FM OTRN)",
-    "country": "GB",
-    "url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "37bf8039-77ed-4805-9030-c40d5cb2820a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:53:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_784ef64d4fc9b694d90a",
@@ -8348,25 +7589,6 @@
     "lastCheckedAt": "2026-11-06T15:54:07Z"
   },
   {
-    "id": "aws_811b13eb42f7dc73afea",
-    "stationId": "awb_72d316b74051d1a5fb03",
-    "name": "BSJ.FM Best Smooth Jazz",
-    "country": "GB",
-    "url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "57d9c792-5ead-4b1b-ae00-7ad1aa3b09e7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:56:29Z"
-  },
-  {
     "id": "aws_81ffd045e53d2341c1ad",
     "stationId": "awb_67d19ba44df0567bdd92",
     "name": "Bucks Radio",
@@ -8403,25 +7625,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:21:41Z"
-  },
-  {
-    "id": "aws_0e3c95002136b1d55fb2",
-    "stationId": "awb_b268cb82fd4acf0b7a23",
-    "name": "Buena Vida",
-    "country": "GB",
-    "url": "https://s4.radio.co/s69b281ac0/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fb51304e-9b30-45b1-851c-6c108f7a439c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
   },
   {
     "id": "aws_9b6f4e22b4dabe1ece09",
@@ -8462,25 +7665,6 @@
     "lastCheckedAt": "2026-11-06T23:53:47Z"
   },
   {
-    "id": "aws_63da9721a977a8723bf7",
-    "stationId": "awb_3b52f406e14d7cc28d5c",
-    "name": "Burton Radio",
-    "country": "GB",
-    "url": "https://s9.citrus3.com:8370/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ee6bf032-02b8-4e47-a9bb-5eea57e102ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:52:13Z"
-  },
-  {
     "id": "aws_53bf4224e0748ed6b284",
     "stationId": "awb_4b457183a52878f0f453",
     "name": "Cabin FM",
@@ -8519,25 +7703,6 @@
     "lastCheckedAt": "2026-11-06T06:51:19Z"
   },
   {
-    "id": "aws_4040a3d2cb085f370417",
-    "stationId": "awb_0ccb65566840d1b39076",
-    "name": "Calm N Chill Radio",
-    "country": "GB",
-    "url": "https://stream.zeno.fm/yvcddifycietv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "255c4682-6348-42e4-b9df-c9df2c66b645"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:41:25Z"
-  },
-  {
     "id": "aws_764708576006c793fae6",
     "stationId": "awb_cd8d358a79ea08d37fbb",
     "name": "Calm N Chill Radio",
@@ -8574,25 +7739,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:21:54Z"
-  },
-  {
-    "id": "aws_92804b31d73d487f4cf4",
-    "stationId": "awb_7eef88589325618f9ede",
-    "name": "Cam FM 97.2",
-    "country": "GB",
-    "url": "https://stream.camfm.co.uk/camfm",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bdbb1fe5-0542-4a68-8b39-2556703d35f7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
   },
   {
     "id": "aws_67ade63e907f3bf0b6e6",
@@ -8732,25 +7878,6 @@
     "lastCheckedAt": "2026-11-06T03:51:08Z"
   },
   {
-    "id": "aws_81dd15259c268ba89282",
-    "stationId": "awb_b555ca3f7ee69ccbb722",
-    "name": "CAPITAL ANTHEMS: The Songs Capital Made Famous",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/CapitalAnthemsMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "72ad8536-729c-41db-828a-48c0c03dc44a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:53:47Z"
-  },
-  {
     "id": "aws_3dfa555a480cbf0153a3",
     "stationId": "awb_c25443c24b91efb7c225",
     "name": "Capital Chill",
@@ -8768,25 +7895,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:33:08Z"
-  },
-  {
-    "id": "aws_4b28825dd2ccd8ad95dc",
-    "stationId": "awb_5e7e6b1e7f66bec63d45",
-    "name": "CAPITAL CHILL: Non-stop chilled beats",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/CapitalChill",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9349357b-5824-42f3-9dff-3765c5197830"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
     "id": "aws_ceb689ae814eb5b0714d",
@@ -8820,15 +7928,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5d50b9af-852d-43eb-89dd-b9b934e3f551",
       "GB:capital-dance-the-uk-s-official-dance-station"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:02:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3df34524fa5f8f771e77",
@@ -8958,11 +8064,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "038bfc04-cebb-4fc7-ac13-823b83c8a9d9",
-      "80d74009-e473-4454-9602-139b88485ba5"
+      "038bfc04-cebb-4fc7-ac13-823b83c8a9d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
+    "lastCheckedAt": "2026-11-06T05:42:40Z"
   },
   {
     "id": "aws_6540ba972051f1fc3d46",
@@ -9076,7 +8181,7 @@
       "dc2dada4-a74f-44e5-8a7e-8c80defababd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_6207aba7cf0502c656a5",
@@ -9115,25 +8220,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:05:50Z"
-  },
-  {
-    "id": "aws_74e2f4d9db5648eaa9ed",
-    "stationId": "awb_82ff11854d95fcb6244b",
-    "name": "Capital XTRA",
-    "country": "GB",
-    "url": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "11d4d77d-603c-43b5-b9a3-9f7deb75c8da"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
     "id": "aws_b086f6f2a5608b7e8633",
@@ -9342,7 +8428,7 @@
       "4aaceb1e-254f-4836-bf97-b6d10b9e8145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_f1b27b328471ac63a6cd",
@@ -9440,64 +8526,6 @@
     "lastCheckedAt": "2026-11-06T02:22:51Z"
   },
   {
-    "id": "aws_40065b558cfb75c14465",
-    "stationId": "awb_cbeb49d63428a3e0e486",
-    "name": "Centre Force Radio",
-    "country": "GB",
-    "url": "http://centreforce.streamgb.com:8830/320",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3f7825cf-d07a-4701-9441-513feaafcdf2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:56Z"
-  },
-  {
-    "id": "aws_2371456e4e252ab357d3",
-    "stationId": "awb_ad054b614d3e550f1511",
-    "name": "Centreforce 883",
-    "country": "GB",
-    "url": "https://listen.centreforceradio.com/96",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "55495003-c899-48fe-a51a-12c4a381f0db",
-      "96e1958d-3890-4540-8dd1-09334eb38639"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:55:36Z"
-  },
-  {
-    "id": "aws_30c9920ed8c2d49160ed",
-    "stationId": "awb_255d089bd2f32dd4e7d5",
-    "name": "Centreforce Radio",
-    "country": "GB",
-    "url": "http://centreforce.streamgb.com:8830/320",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14356df9-94da-444c-834c-81529b727ac1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:56:55Z"
-  },
-  {
     "id": "aws_16babf3886cf8f7bcb50",
     "stationId": "awb_255d089bd2f32dd4e7d5",
     "name": "Centreforce Radio",
@@ -9587,8 +8615,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5dea3883-5193-44a2-95af-6295796a91df",
-      "bd6c69a2-7d98-43cb-b431-d9264c043b00"
+      "af8a6cfc-d779-483b-b568-1847f7dad4b7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:48:28Z"
@@ -9775,15 +8802,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:chillout-ibiza-fm",
-      "d69fbc2c-530a-4d40-ac9f-56532356b248"
+      "GB:chillout-ibiza-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:11:47Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_aa942bdb0fe92420a40f",
@@ -9857,8 +8882,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0b80a32f-3779-42c1-a71f-39175d76c8f2",
-      "GB:chocolate-radio-com"
+      "GB:chocolate-radio-com",
+      "a3331a6c-03cd-40b8-aa12-26e99ecdc10b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:02:16Z"
@@ -10014,25 +9039,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:53:36Z"
-  },
-  {
-    "id": "aws_7a6111133f31c5563eb6",
-    "stationId": "awb_af05ab3a90ea39adf63f",
-    "name": "Classic FM",
-    "country": "GB",
-    "url": "http://ice-the.musicradio.com/ClassicFMMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07ab80d2-38ef-4cf8-862d-30f30825812e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:21:14Z"
   },
   {
     "id": "aws_47bce5e742f2311764e6",
@@ -10216,23 +9222,23 @@
     "lastCheckedAt": "2026-11-06T20:20:37Z"
   },
   {
-    "id": "aws_6b6ff69970eff76dc640",
-    "stationId": "awb_4ca25039294b3f335c38",
+    "id": "aws_83435bf39f6f918127b6",
+    "stationId": "awb_79d5eb9ad07965aa61a7",
     "name": "Classic FM Relax",
     "country": "GB",
-    "url": "http://media-the.musicradio.com/ClassicFM-M-Relax",
+    "url": "https://media-the.musicradio.com/ClassicFM-M-Relax",
     "codec": "aac",
     "bitrate": 48,
-    "protocol": "http",
+    "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "ba093e53-c020-484b-a6a6-b184e7382744"
+      "cdcbea13-44c9-4e02-81d2-68a62cebebba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:50:12Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_3db81c24c6b39ed5bed8",
@@ -10248,7 +9254,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22a579ef-2346-4185-a8be-3419326d34b2",
       "a7bc90ad-bec7-4a57-b235-e21644d33047"
     ],
     "lastCheckOk": true,
@@ -10430,25 +9435,6 @@
     "lastCheckedAt": "2026-11-06T15:10:10Z"
   },
   {
-    "id": "aws_f1ea9108e1ac61f0bb50",
-    "stationId": "awb_33070418a8277de8c5fd",
-    "name": "CNN UK",
-    "country": "GB",
-    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b0fcc9da-9958-4729-9e23-4f7cc15e98b9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
     "id": "aws_1095cf2d0c81cb356a2f",
     "stationId": "awb_d8d6a6c96849ebf1a791",
     "name": "Coalville Public Radio",
@@ -10523,25 +9509,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:50:25Z"
-  },
-  {
-    "id": "aws_bab36227851dd076ba24",
-    "stationId": "awb_0095f80dca46bd1ba8f4",
-    "name": "Colin Mogagabe",
-    "country": "GB",
-    "url": "https://music-station.live/listen/crw_radio/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b059116f-12b9-4ecb-9a6c-4195f5c141c2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
     "id": "aws_c4b58930c3bf2d948a7f",
@@ -11377,15 +10344,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:dance-classics-uk",
-      "b57cef96-d760-4d33-b743-46f0f1a4591b"
+      "GB:dance-classics-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:59:47Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_04beaba31176f552e95f",
@@ -11405,26 +10370,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:35:25Z"
-  },
-  {
-    "id": "aws_6e62e79ad113e0a29551",
-    "stationId": "awb_e374378f2775d1856df4",
-    "name": "Dance Revolution",
-    "country": "GB",
-    "url": "https://s5.radio.co/s89dcf578d/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5123e4e6-2bc6-4e6e-9532-914a5b387c1e",
-      "b1d72676-8870-47da-91db-a88357b64c51"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
   },
   {
     "id": "aws_3d29887c8ae60194f266",
@@ -11465,26 +10410,6 @@
     "lastCheckedAt": "2026-11-06T22:14:03Z"
   },
   {
-    "id": "aws_abfb687babe3fea5fa66",
-    "stationId": "awb_909b2a20a4f85a3af551",
-    "name": "Dance UK",
-    "country": "GB",
-    "url": "http://uk2.internet-radio.com:8024/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cca30b6d-c2c0-4736-88de-a8690989152c",
-      "d9aedf9d-5477-4e8c-ae38-6db9e3603f42"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
-  },
-  {
     "id": "aws_d8c3cdfbbf8f054b5757",
     "stationId": "awb_909b2a20a4f85a3af551",
     "name": "Dance UK",
@@ -11521,25 +10446,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:04:00Z"
-  },
-  {
-    "id": "aws_a5cddfb65f3bd3eb4ab4",
-    "stationId": "awb_2cb92ca85698b7366b28",
-    "name": "Dance UK (danceradiouk.com) 48k AAC+",
-    "country": "GB",
-    "url": "http://uk2.internet-radio.com:8024/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed085b07-c175-4da8-a713-d88513a8d473"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:12:58Z"
   },
   {
     "id": "aws_e4a9830884517753ad83",
@@ -11630,15 +10536,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "30369d73-370f-4403-b5d5-39843a00fcec",
       "GB:danceradiouk-dance-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_076eb8af1ce77fec9c57",
@@ -11731,11 +10635,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "86cbd3d9-dfce-4c62-830a-c92fe552d476",
-      "GB:davide-of-mimic"
+      "GB:davide-of-mimic",
+      "d91f43f1-c0b3-4fd8-b4b5-888ec1cdacb5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:55:06Z"
+    "lastCheckedAt": "2026-11-06T00:25:07Z"
   },
   {
     "id": "aws_0cf707cc1533b4f9dabf",
@@ -11770,8 +10674,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2cad25d3-734c-4df8-ac85-396465b03121",
-      "dc25eb9a-5db7-4be1-b525-9aaefc7077bc"
+      "2cad25d3-734c-4df8-ac85-396465b03121"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:51:27Z"
@@ -11794,25 +10697,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:50:00Z"
-  },
-  {
-    "id": "aws_0dcf4822cae246e77de9",
-    "stationId": "awb_6750cf06b1e9e2cfed01",
-    "name": "DCLM Radio",
-    "country": "GB",
-    "url": "https://airtime.dclm.org/radio/8000/live",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "78c2d08d-591c-482d-ad50-6939432fedc6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:42:38Z"
   },
   {
     "id": "aws_cf104d2a16ae2f473264",
@@ -12154,7 +11038,7 @@
       "b2fe839e-69fc-4158-88af-3d363f60d423"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_af4e218896e1ddaa2579",
@@ -12300,15 +11184,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5c850da2-076b-43b5-aa38-91e72fac39f6",
       "GB:diva-radio-funk-disco-music-paradise"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a59c9b3588eeb9a081f0",
@@ -12343,11 +11225,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b06a7b43-cb6b-4cd5-90a8-370166947019",
-      "b12d15d4-d90c-4fec-b1e0-372878795d14"
+      "b06a7b43-cb6b-4cd5-90a8-370166947019"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:14:28Z"
+    "lastCheckedAt": "2026-11-06T01:02:16Z"
   },
   {
     "id": "aws_c170384c48ed9266864a",
@@ -12441,8 +11322,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3c43931e-c80d-47f3-b480-643015e1357b",
-      "64712b5f-a8c3-48cd-a8d2-2f19c94b3473"
+      "3c43931e-c80d-47f3-b480-643015e1357b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:22:05Z"
@@ -12488,7 +11368,7 @@
   {
     "id": "aws_e68bb63933b9c6a84ec2",
     "stationId": "awb_3d7c43d838e12facae15",
-    "name": "Do You Radio",
+    "name": "Do!! You!!! Radio",
     "country": "GB",
     "url": "https://doyouworld.out.airtime.pro/doyouworld_a",
     "codec": "mp3",
@@ -12499,30 +11379,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "128d5561-8439-4e2a-9e6c-4e48ad4f0cc0",
       "2e1e582c-93ca-4dca-a1a2-5b69562f5744"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:34:44Z"
-  },
-  {
-    "id": "aws_f3163052b69e6391c1cd",
-    "stationId": "awb_729df751288377882dd7",
-    "name": "Do!!You!!! World!",
-    "country": "GB",
-    "url": "https://doyouworld.out.airtime.pro/doyouworld_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2aa176a-1eb4-4d37-8cc5-78065f307a87"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:04:07Z"
+    "lastCheckedAt": "2026-11-06T00:34:11Z"
   },
   {
     "id": "aws_0f137572ef75e0d23dd3",
@@ -12655,7 +11515,7 @@
       "e3087b4d-499f-486b-93c4-1acdf1916934"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_ac35c94d9138c76ea8c0",
@@ -13175,25 +12035,6 @@
     "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
-    "id": "aws_881199012eaaf0b2e874",
-    "stationId": "awb_ea0ffee6e0f4339e2be0",
-    "name": "EAVA FM",
-    "country": "GB",
-    "url": "https://radio.canstream.co.uk:8000/eavafm.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4808310d-bc75-4a05-a2b1-de9e5eaced99"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:08:42Z"
-  },
-  {
     "id": "aws_bca8d1f713d166e3a5e6",
     "stationId": "awb_08ed3ac83f436aaf0ed5",
     "name": "EAVA FM 102.5 FM",
@@ -13504,10 +12345,10 @@
     "stationId": "awb_c9829d245ddccbab022d",
     "name": "Energy FM Old School Classics",
     "country": "GB",
-    "url": "http://radio.streemlion.com:1680/",
+    "url": "https://radio.streemlion.com:1045/stream",
     "codec": "mp3",
     "bitrate": 128,
-    "protocol": "http",
+    "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
@@ -13516,7 +12357,7 @@
       "e9eb0da6-55b2-4bef-93cf-62268351d8c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_bbd2216f8a431bece676",
@@ -13627,11 +12468,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2c3eac2c-4588-42d3-9c2e-0c6e99afaf6e",
       "4fd27fd0-33bd-4bd8-9ec7-9d63607b82e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
+    "lastCheckedAt": "2026-11-06T06:31:20Z"
   },
   {
     "id": "aws_a2f1964b63ae3d3937f6",
@@ -13710,25 +12550,6 @@
     "lastCheckedAt": "2026-11-08T04:24:14Z"
   },
   {
-    "id": "aws_12a01c3c1bf6adc52d1d",
-    "stationId": "awb_b775dd7675ff5d6e10ba",
-    "name": "Exclusive - Pink Floyd",
-    "country": "GB",
-    "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a9fdc88f-c2be-4c90-8162-a874c9119242"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:48:11Z"
-  },
-  {
     "id": "aws_3131103771d086283bb5",
     "stationId": "awb_edffe7af9246de812668",
     "name": "Exclusively AC/DC",
@@ -13739,15 +12560,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:exclusively-ac-dc",
-      "ba93ec29-66c9-4bee-8f71-b71481001c8e"
+      "GB:exclusively-ac-dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c3c32db2c169d832810b",
@@ -13781,53 +12600,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:exclusively-supertramp",
-      "dfa6d153-83de-4112-bd36-2156720bdfc5"
+      "GB:exclusively-supertramp"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:11:27Z"
-  },
-  {
-    "id": "aws_8a7b9e5aed7418fe766f",
-    "stationId": "awb_b60d2b6297e9452f70eb",
-    "name": "Expansions - Infinite Mixtapes | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "08ec850a-eee1-42d7-9199-9f6169c48ab0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
-  },
-  {
-    "id": "aws_e7c432b4817845cfcb3b",
-    "stationId": "awb_3e713585e6753ff8f264",
-    "name": "Expansions | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7a6953ac-e6d1-11e9-a96c-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_db468d70363ac9a8be89",
@@ -13847,26 +12626,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
-    "id": "aws_e3009875b3214ef62efa",
-    "stationId": "awb_2070f4adfeb39e72a126",
-    "name": "Expression fm",
-    "country": "GB",
-    "url": "https://casper.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2832d977-18f4-4965-98a0-39fd1dacf7d5",
-      "b8d22014-b5a8-4de2-8384-4b2ae12d90bc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:00:54Z"
   },
   {
     "id": "aws_45b1daa85f4f4b8be701",
@@ -13905,25 +12664,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:59:47Z"
-  },
-  {
-    "id": "aws_efad1ce70d911bfa874e",
-    "stationId": "awb_a51a9cd86afa596cc96f",
-    "name": "Fallout 4 - Classical Radio",
-    "country": "GB",
-    "url": "http://fallout.fm:8000/falloutfm7.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "28dc9b7a-f527-4dc2-9ff5-aa64b28a81d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
   },
   {
     "id": "aws_830e7cdc6234832ee896",
@@ -14002,25 +12742,6 @@
     "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
-    "id": "aws_99960b2294fd84ab39bc",
-    "stationId": "awb_844af4273bfdf65b05dd",
-    "name": "Feelings | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape27",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "636a1133-b9d5-4412-9e8f-36c37f190176"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
     "id": "aws_8e48f9f1fd32b67faa3c",
     "stationId": "awb_62064afa5432dbbdc3da",
     "name": "Fenland Youth Radio",
@@ -14057,25 +12778,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:28:16Z"
-  },
-  {
-    "id": "aws_48f0bebedd09f8592a91",
-    "stationId": "awb_ca825f468e5f78bd53eb",
-    "name": "Field Recordings | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape23",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3fb45633-813e-4c6b-b262-e90c3846d10d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_2981ae3462ac852726cd",
@@ -14337,15 +13039,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1b599e3f-a35e-409a-82b2-dcaaf38d598e",
       "GB:forest-gold"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ca3f960ceb6c100d1e96",
@@ -14453,34 +13153,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:foundation-fm",
-      "e8c409e9-ee6f-4670-84bf-02485247def0"
+      "GB:foundation-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
-  },
-  {
-    "id": "aws_f9e20890fa52559c3860",
-    "stationId": "awb_badd922d3faddea0342d",
-    "name": "Fred Film Radio",
-    "country": "GB",
-    "url": "https://s10.webradio-hosting.com/proxy/fredradioen/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4b8ac0ba-50c8-41da-b45c-9d25be42d857"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f03d4944f8a66c909976",
@@ -14637,25 +13316,6 @@
     "lastCheckedAt": "2026-11-07T01:20:31Z"
   },
   {
-    "id": "aws_53eb3af0e10b5d079a5b",
-    "stationId": "awb_45459d5db8da8be0f1df",
-    "name": "Fresh Soundz Radio",
-    "country": "GB",
-    "url": "https://solid48.streamupsolutions.com/proxy/neivwtxt/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "61792b69-a085-4db0-8c79-c3ca22160b73"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
-  },
-  {
     "id": "aws_9b62781a468a458b8e94",
     "stationId": "awb_45459d5db8da8be0f1df",
     "name": "Fresh Soundz Radio",
@@ -14745,30 +13405,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a038c93-626c-406a-9a85-d6c202f99a95",
       "6a62bbec-9ef3-42e1-aea0-9ac085cfa088"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:18:44Z"
-  },
-  {
-    "id": "aws_31eb6e57402a5393e72e",
-    "stationId": "awb_86c219665166ad97cbc1",
-    "name": "Frisk radio bounce northeast",
-    "country": "GB",
-    "url": "https://www.friskradio.com:8443/stream41",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5bba3ddb-dae0-47ba-acb4-0c4ce0f6b4c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:15:25Z"
+    "lastCheckedAt": "2026-11-06T08:28:16Z"
   },
   {
     "id": "aws_53888ec2d9627b27650b",
@@ -14784,30 +13424,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b66797f2-7cb3-48e3-bf20-6635ee409476",
-      "de8dea11-4dc3-48df-b229-44b0bed9f921"
+      "b66797f2-7cb3-48e3-bf20-6635ee409476"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:18:42Z"
-  },
-  {
-    "id": "aws_11e8ff73f5238ae75eda",
-    "stationId": "awb_fb44ab92e701a938c928",
-    "name": "frisk radio guilty Pleasures northeast",
-    "country": "GB",
-    "url": "https://www.friskradio.com:8443/stream31",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e916a2b1-8ab5-44d0-ab8a-874123744976"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
     "id": "aws_80d6165350453315ae44",
@@ -14899,11 +13519,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e5d470b-7605-4d36-9734-4d34f9f2ebab",
-      "41c16638-3524-4720-be00-1b22f6a53f3a"
+      "1e5d470b-7605-4d36-9734-4d34f9f2ebab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
+    "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
     "id": "aws_0bd97373a01a54d55abd",
@@ -14942,25 +13561,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:09:32Z"
-  },
-  {
-    "id": "aws_5c25be6521969af54ece",
-    "stationId": "awb_097d5d0f6a21d058d4af",
-    "name": "Fun Kids",
-    "country": "GB",
-    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff871225-7731-45a1-aee0-9e8fa463dfc3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:30:48Z"
   },
   {
     "id": "aws_accece49296c9aa6406d",
@@ -15018,25 +13618,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
-    "id": "aws_58f55c2db17120d057cb",
-    "stationId": "awb_fa7f47ad10958b585433",
-    "name": "FUNKERFM",
-    "country": "GB",
-    "url": "http://167.114.131.90:5968/ffm",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9638da2f-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
     "id": "aws_dd927d0ce8b03a843e67",
@@ -15149,8 +13730,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2788388c-34d9-4eaf-ace7-799567103d2b",
-      "79c3d204-316b-44dd-b4d7-024b9a62ece5"
+      "2788388c-34d9-4eaf-ace7-799567103d2b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:56:55Z"
@@ -15249,25 +13829,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
-    "id": "aws_2c0ebc3683e290d2a8c7",
-    "stationId": "awb_40234f624a54cf2f9361",
-    "name": "Gabbie's Doo",
-    "country": "GB",
-    "url": "https://c30.radioboss.fm:18274/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0e10a541-4e49-4a8c-b715-73af98e0f457"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:57:46Z"
   },
   {
     "id": "aws_9bc961ca5c29eeaf4ffe",
@@ -15416,11 +13977,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8a56dd1a-48f6-4e92-b249-1881e297f9b2",
-      "fec7847c-b936-4bb3-a4c0-610db9b66c93"
+      "8a56dd1a-48f6-4e92-b249-1881e297f9b2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:44:57Z"
+    "lastCheckedAt": "2026-11-06T07:32:42Z"
   },
   {
     "id": "aws_99648c9896049f7d7853",
@@ -15459,25 +14019,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:32:28Z"
-  },
-  {
-    "id": "aws_824a919d3f1abb4a9103",
-    "stationId": "awb_0ea26f4b6d1100c3a310",
-    "name": "GBNews",
-    "country": "GB",
-    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14569027-6e99-41d0-bf1e-25a0627f971a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
   },
   {
     "id": "aws_7e28e72b5c61c699aecd",
@@ -15566,34 +14107,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5df5fc8a-3259-4d29-988d-814ab6332ece",
       "GB:gen-x-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:15:48Z"
-  },
-  {
-    "id": "aws_3be9c10ab39ec142f4f9",
-    "stationId": "awb_1b63fe6417d7fe56471d",
-    "name": "Genesis Radio Birmingham",
-    "country": "GB",
-    "url": "https://cast5.my-control-panel.com/proxy/grb/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "69b2e14a-da22-41f8-bc09-1d31e79c3bd5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f29d762aa9bbf6371014",
@@ -15959,44 +14479,6 @@
     "lastCheckedAt": "2026-11-06T12:05:28Z"
   },
   {
-    "id": "aws_993f844f2c9c7a540470",
-    "stationId": "awb_cc01f33e1a6b3e624e78",
-    "name": "Go Radio Glasgow",
-    "country": "GB",
-    "url": "https://streaming.broadcastradio.com:8252/goradio",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f3d2adf5-822b-4e7d-928a-fe914ce4b8b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T09:32:40Z"
-  },
-  {
-    "id": "aws_cbb16e21702b483d88dc",
-    "stationId": "awb_a9a694c20cda5c029116",
-    "name": "Gold",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/Gold",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3441fe0-9c00-446f-9d2d-f404c34d199d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:49:38Z"
-  },
-  {
     "id": "aws_cda869bf1ca25d822c76",
     "stationId": "awb_a67e933eec00bc9a2a90",
     "name": "Gold",
@@ -16242,8 +14724,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "002f49e0-a713-4501-bf83-75bd62e62eec",
-      "4be0782e-f9ed-4279-afd0-68a9a6c5633e"
+      "002f49e0-a713-4501-bf83-75bd62e62eec"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:22:05Z"
@@ -16262,11 +14743,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "16d88c67-4a46-4713-a8d4-7a35e23a4fdb",
       "87a03289-05fe-4e07-8116-7a60b1408237"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:35:26Z"
+    "lastCheckedAt": "2026-11-06T18:45:24Z"
   },
   {
     "id": "aws_67292c8dbbc092d2f715",
@@ -16763,25 +15243,6 @@
     "lastCheckedAt": "2026-11-06T12:34:44Z"
   },
   {
-    "id": "aws_93f6c29ab14855be240d",
-    "stationId": "awb_17fa4a64cff39eade8fd",
-    "name": "HaulFM",
-    "country": "GB",
-    "url": "https://stream.haul.fm/haulmpfm.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3197e574-455d-4681-a963-338992afa558"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
-  },
-  {
     "id": "aws_5bf3b05e8bc8d7bf30c8",
     "stationId": "awb_fdb370f3b1f43a802e50",
     "name": "HBSA Hospital Radio",
@@ -16852,68 +15313,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5e962968-93d1-4be1-a288-36b9a546c4d1",
       "72acc195-c972-464b-96ae-d90f4d117e4b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:35:38Z"
-  },
-  {
-    "id": "aws_a349d463c100a69a6f68",
-    "stationId": "awb_6a8a558cbe5976047a10",
-    "name": "HearMe - 2000s pop",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:8040/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "11a0a369-9c4b-4e26-8f95-27b628653c83"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
-  },
-  {
-    "id": "aws_28c24cb46114b8ad3705",
-    "stationId": "awb_030353d9bc204399e8a0",
-    "name": "HearMe - 2020s Pop Music",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:8000/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ba9841e1-4178-49df-9333-db5d443c7046"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
-    "id": "aws_4764385b37f6d9ca6e24",
-    "stationId": "awb_82df20d3da6eb8d72ae8",
-    "name": "HearMe - 60s Rock",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:8230/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dd24eb09-84cb-4d9e-aca4-4c2ed71e624d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:18:42Z"
   },
   {
     "id": "aws_4d81bfa8370872894191",
@@ -17074,25 +15477,6 @@
     "lastCheckedAt": "2026-11-07T01:00:42Z"
   },
   {
-    "id": "aws_216d2663bf81735a96db",
-    "stationId": "awb_abcad61c831af2406eae",
-    "name": "HearMe 2010s pop music",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:8000/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e598df8b-7ee8-47e9-ab8a-412a10469fb5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:13:37Z"
-  },
-  {
     "id": "aws_9ec34ecadd1a99021adc",
     "stationId": "awb_abcad61c831af2406eae",
     "name": "HearMe 2010s pop music",
@@ -17125,8 +15509,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6649f89c-8b53-4639-95ed-ff9802a8f7eb",
-      "e6f56fc0-cd1a-4f5d-8a6c-911f080da988"
+      "6649f89c-8b53-4639-95ed-ff9802a8f7eb"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
@@ -17149,25 +15532,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
-    "id": "aws_c068048dc1717a5d38e2",
-    "stationId": "awb_fa30e689a28bc4925914",
-    "name": "HearMe-Bach",
-    "country": "GB",
-    "url": "https://radio.hearme.fm:9040/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d560000-74b1-46fe-b7b4-b6623350a4da"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:44:15Z"
   },
   {
     "id": "aws_c8c5d5802a5e354a5605",
@@ -17279,15 +15643,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:heart-70s",
-      "e7205cd4-dc30-11e9-a8ba-52543be04c81"
+      "GB:heart-70s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:28:02Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7c161eb01faa4d2a8778",
@@ -17562,44 +15924,6 @@
     "lastCheckedAt": "2026-11-06T19:36:57Z"
   },
   {
-    "id": "aws_c21e046884a6c7348bef",
-    "stationId": "awb_9d991ee39800e4d6868e",
-    "name": "Heart FM",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/HeartUK",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42679ed6-49cb-428e-9b74-94af62ad8a0a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:26:30Z"
-  },
-  {
-    "id": "aws_c84a88f703ba14878d9b",
-    "stationId": "awb_89ca7788303c6c38b3fc",
-    "name": "Heart FM (Birmingham)",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/HeartWestMids?isLoggedIn=true&dax_version=release_4140&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&aw_0_req.userConsentV2=CPytTYAPytTYAAGABCENATEoAP_AAAGAAAwIGMpF7D5VZWFC-OZ5YKsAMYhXQMCAIuQQCASAA-ABCAKQIIQGgmAQFASgBAAKAQAAIAJBAAIECAAQCQAAAAAAAACAAAAABAAIAAAAgAAAAAAIAAAGAAAAAAAIgAAAEAAAmAwAAIIAAADgkBkABAACwAKgAcAA8ACAAGQANAAeQBDAEQAJgATwAqgB-AEIAKUAW4AwwB7AD9AIGAVcAxQCkQF5hAAoADwASAA_AHOApsMABAU2IAAgAkFQAQAhjIAIAQx0BwABYAFQAOAAgABkADQAHkAQwBEACYAE8AKoAXQAxAB-AFGAKUAW4AwwBogD2AH6AQMAjoBVwCxAGKAReAvMcAOAAQAA8AC4AJAAcgA_AHOAQgAiIBFgCMgKQAU2AvohAIAAWAEMAJgAVQAxAClAKuAYogADAAQAOcAsRKAcAAgABYAHAAeABEACYAFUAMQAowBbgFXAMUAi8BeZIAIABcAHIA1ADMlIC4ACwAKgAcABAADIAGgAPIAhgCIAEwAJ4AUgAqgBiAD8AKMAUoAtwBogD9AI6AVcBF4C8ygA8AC4AJAAcgA_ADaANQAc4BFgCxAF1AMUAa8BSACmwF9A.YAAAAAAAAAAA&dax_listenerid=824C2FA8EC1A06EF990BEDF6BE300A70&gigya_id=aca49a64b4254a8ab5a088cd031e7efe&nlsid=1c499bb707f2fc48cfd210acda4433d0",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ae60f33c-cdbe-4ff8-a416-01916d60bc98"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
-  },
-  {
     "id": "aws_f66708ce0d799e2755f4",
     "stationId": "awb_ed3f36bba0046219cfc8",
     "name": "Heart FM Glasgow",
@@ -17693,25 +16017,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:09:30Z"
-  },
-  {
-    "id": "aws_3e7c2b149872f489c382",
-    "stationId": "awb_fab67229c86a2774ab07",
-    "name": "Heart London 106.2 [MP3]",
-    "country": "GB",
-    "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9608ade8-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:31:17Z"
   },
   {
     "id": "aws_f962dce80c93c2b20879",
@@ -18134,25 +16439,6 @@
     "lastCheckedAt": "2026-11-06T14:37:36Z"
   },
   {
-    "id": "aws_53e596a11f935f806c31",
-    "stationId": "awb_509395361dc0c7e5cd8e",
-    "name": "Heart Xmas",
-    "country": "GB",
-    "url": "https://media-ssl.musicradio.com/HeartXmas",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "38c61264-4246-4ea1-a280-42a85d59ad25"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
-  },
-  {
     "id": "aws_e2d3795f7fe6c9fb285f",
     "stationId": "awb_45b759b7bb0814c91f22",
     "name": "Heart Yorkshire",
@@ -18282,7 +16568,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0889023f-a0bd-4f9e-a4b7-eeac923705b4",
       "6170cec6-fc82-43fc-a17d-e64d3c89293d"
     ],
     "lastCheckOk": true,
@@ -18321,7 +16606,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4cc1e3cb-ae26-4499-8dbe-94824870ba08",
       "78742a2b-17c8-4105-9525-be7d06d42024"
     ],
     "lastCheckOk": true,
@@ -18493,11 +16777,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "71ec0b84-73e7-4c0d-bd50-17ce49d601e4",
-      "796dcd6d-95c2-485e-b838-ead17d293cfd"
+      "71ec0b84-73e7-4c0d-bd50-17ce49d601e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_d9d70ab5a416765e535c",
@@ -18837,15 +17120,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5a7ddeac-be16-4090-a77b-b9ead4ed74db",
       "GB:hot-hits-uk-com"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:28:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b5db49b1222a28b57952",
@@ -18938,15 +17219,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:house-fusion-radio-uk",
-      "b6d47672-aa01-4363-bd26-32f0e8d9570e"
+      "GB:house-fusion-radio-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_db9b1b390fd03549562a",
@@ -19023,11 +17302,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a22726e-5b2d-45aa-9d83-9f035023984e",
-      "5e27d80b-39e0-4200-88eb-7527acf0bfca"
+      "2a22726e-5b2d-45aa-9d83-9f035023984e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:52Z"
+    "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
     "id": "aws_e905f3a800e67e0efbd9",
@@ -19230,15 +17508,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:i-like-it-oldskool",
-      "cc4928e9-f513-4c59-b42c-56097b881431"
+      "GB:i-like-it-oldskool"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:18:56Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_816934b9f91f6169927f",
@@ -19372,25 +17648,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:07:26Z"
-  },
-  {
-    "id": "aws_f59371a255ea904ea4b4",
-    "stationId": "awb_5a2efe8c669775bd61f4",
-    "name": "In Demand Radio",
-    "country": "GB",
-    "url": "http://stream.indemandradio.com/station/IDR1/index.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "726f0ce6-adcb-453b-b080-ccb290992c2e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
     "id": "aws_deac79c9cef32713577b",
@@ -19539,8 +17796,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6a79ad48-3c95-472d-bdf0-850c1172cf69",
-      "9e830741-897c-410d-84de-f4eb2335b9bb"
+      "6a79ad48-3c95-472d-bdf0-850c1172cf69"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:38:44Z"
@@ -19559,8 +17815,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "100def71-6d8e-4c0f-8028-78664a7c6865",
-      "6f0c579e-2272-4aab-a617-5a0e85f1b9f3"
+      "100def71-6d8e-4c0f-8028-78664a7c6865"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:29:34Z"
@@ -19794,25 +18049,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:24:03Z"
-  },
-  {
-    "id": "aws_22898338a6bb22ee7534",
-    "stationId": "awb_f20b83c3aea2b77ac739",
-    "name": "Islands FM",
-    "country": "GB",
-    "url": "http://radio.canstream.co.uk:8040/live.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2b4f2953-55ab-48fc-bdaa-cd3525a63f23"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:15:17Z"
   },
   {
     "id": "aws_5e1164ee78d4e847d279",
@@ -20131,15 +18367,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "64990fa2-2e54-4a32-a300-32b0232e11fc",
       "GB:jazz-fm91"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:50:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f14b72ee2d712d682309",
@@ -20256,25 +18490,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:09:12Z"
-  },
-  {
-    "id": "aws_0b5054b9ead9b011ec50",
-    "stationId": "awb_b41b5e5642d6cf49fd28",
-    "name": "Joy Hits UK",
-    "country": "GB",
-    "url": "http://joyhits.online/joyhitshq.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "658e103a-ed12-41d7-be75-e3dd6b55902b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_5db8f9bd782ba50284c0",
@@ -20427,25 +18642,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:07:20Z"
-  },
-  {
-    "id": "aws_4fc774958e80368837d4",
-    "stationId": "awb_c5ed4b13c0a9075d2f54",
-    "name": "Just House Music",
-    "country": "GB",
-    "url": "https://justhousemusic.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f9a4e918-7df8-42ba-862f-21828d7c9b09"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:12:02Z"
   },
   {
     "id": "aws_9ffe7353469b83d4a8de",
@@ -20615,11 +18811,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0343a887-8f73-4aa6-b024-bf9f2a820aed",
-      "da5266f1-558a-4a5b-9911-d21b43e21c9c"
+      "0343a887-8f73-4aa6-b024-bf9f2a820aed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_95ca06d2d5db8b9e7ccd",
@@ -20698,25 +18893,6 @@
     "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
-    "id": "aws_9aa8c497eb282a37f273",
-    "stationId": "awb_043eef3fa737628c383f",
-    "name": "KFM Radio",
-    "country": "GB",
-    "url": "https://s2.radio.co/s367e90f45/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "35431197-daf1-4347-a71b-1aacf49336fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
-  },
-  {
     "id": "aws_925df2420ab1894956e7",
     "stationId": "awb_5ddbf3f1afb7c94d0907",
     "name": "KIC Radio",
@@ -20757,7 +18933,7 @@
   {
     "id": "aws_b750701344207a3322a7",
     "stationId": "awb_a770029d0f8892968b22",
-    "name": "KICKS fm",
+    "name": "Kicks Fm",
     "country": "GB",
     "url": "https://s6.citrus3.com:8452/stream",
     "codec": "mp3",
@@ -20768,11 +18944,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "58341289-63e4-4ef6-b760-09bbfd420659",
       "c67107b1-3947-4155-a6be-b5ebe1eae875"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
+    "lastCheckedAt": "2026-11-06T15:07:20Z"
   },
   {
     "id": "aws_379cfbd88048ec959bc7",
@@ -20810,7 +18985,7 @@
       "c8cb6b11-3c2c-4419-9767-06ddbbdf55cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_6880e2374dcb2117346d",
@@ -20859,38 +19034,17 @@
     "country": "GB",
     "url": "https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
     "codec": "aac",
-    "bitrate": 128,
+    "bitrate": 127,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9c8f6141-f8e8-4779-bfed-5a79e14ed4dd",
       "GB:kiss-dance-the-biggest-dance-anthems-24-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:08:42Z"
-  },
-  {
-    "id": "aws_c0544b8a1bed4de7b536",
-    "stationId": "awb_4999ac7860001cc56e30",
-    "name": "Kiss UK",
-    "country": "GB",
-    "url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
-    "codec": "mp3",
-    "bitrate": 112,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cefa211c-48a5-468d-94d7-132546589c1c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:12:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_63ccdd5ae3d4ea08aceb",
@@ -20903,34 +19057,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5984167a-b25e-4eec-a878-ff9253ee0c4a",
       "GB:kiss-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:30:04Z"
-  },
-  {
-    "id": "aws_8b697dec2d903b860738",
-    "stationId": "awb_b147b43648893e0e6816",
-    "name": "KISS XTRA: Black Music & Culture",
-    "country": "GB",
-    "url": "https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "abb48ea5-7aaf-460c-bf04-7fe3b7f10bb7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_af0ce7b86b30b859788c",
@@ -20950,44 +19083,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:16:39Z"
-  },
-  {
-    "id": "aws_ac24d63b864276a83a1d",
-    "stationId": "awb_195aec5bab1d9fcbb018",
-    "name": "KISSTORY R&B: The Hottest R&B tracks from KISSTORY",
-    "country": "GB",
-    "url": "https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
-    "codec": "aac",
-    "bitrate": 127,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "19b250fe-9027-4caf-b6ea-33022f0b6392"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
-  },
-  {
-    "id": "aws_54a3b0bfff87b412e183",
-    "stationId": "awb_9b1a20cc41fe32e629d3",
-    "name": "KISSTORY: Non-Stop Old Skool & Anthems",
-    "country": "GB",
-    "url": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
-    "codec": "aac+",
-    "bitrate": 47,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "53733e08-7728-40ee-b968-59e71f0281b6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
     "id": "aws_f6d5266e68695849746b",
@@ -21180,25 +19275,6 @@
     "lastCheckedAt": "2026-11-06T12:34:44Z"
   },
   {
-    "id": "aws_6259123cf30a9c211e94",
-    "stationId": "awb_247dcc1ab5789fd7552d",
-    "name": "Kool FM",
-    "country": "GB",
-    "url": "https://admin.stream.rinse.fm/proxy/kool/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "973c30a5-a178-4daf-89c7-272ec6c47456"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
     "id": "aws_d00f2110769f31a51bb6",
     "stationId": "awb_4da3be1019dbf1b7ac20",
     "name": "Kool FM",
@@ -21285,15 +19361,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9391f9be-cbc1-4c84-8da5-cf7eebefaab2",
       "GB:labyrinth-nts"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:27:12Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_36e8ad84e2015f4465e0",
@@ -21313,25 +19387,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:54:58Z"
-  },
-  {
-    "id": "aws_926daea06e9350f19bbe",
-    "stationId": "awb_7ca0a99974d1ff5ebe7c",
-    "name": "Laser 558",
-    "country": "GB",
-    "url": "https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "264261b4-b6ce-4638-aa43-6acd829f09fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
     "id": "aws_809936696c2861184fd5",
@@ -21640,25 +19695,6 @@
     "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
-    "id": "aws_0abb9c50470fa1b854c2",
-    "stationId": "awb_dcb6df48ff3d4ae74ae6",
-    "name": "LBC UK",
-    "country": "GB",
-    "url": "http://media-ice.musicradio.com/LBCUK",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6efe216d-bf7e-11e9-8502-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
     "id": "aws_774c8d002ba6fb711198",
     "stationId": "awb_88ef21924c6b5f660018",
     "name": "LCRFM 103.6 Lincoln",
@@ -21713,7 +19749,7 @@
       "351e4056-2f14-4695-8e60-0b0fb0404e84"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_e48b8fbbb73696b786ab",
@@ -21771,25 +19807,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:33:26Z"
-  },
-  {
-    "id": "aws_109caa708e5af49287a3",
-    "stationId": "awb_2987b6f7f5c7bd4ffe06",
-    "name": "Legacy Mixes Radio",
-    "country": "GB",
-    "url": "https://app.aloncast.com/api/stream/legacymixes-5dbb55",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0993798e-4608-4bdc-8020-db9390fdb10e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_dbf899e51d854ed4b657",
@@ -22117,25 +20134,6 @@
     "lastCheckedAt": "2026-11-07T02:17:36Z"
   },
   {
-    "id": "aws_3dd4ae8a65275a96a72a",
-    "stationId": "awb_183ba678825b1b4bf399",
-    "name": "Like Radio - COUNTRY (MP3)",
-    "country": "GB",
-    "url": "http://likeradiostream.com/likecountry",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66dc20d9-59c9-4e45-9d67-018071e5ffe8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:01:47Z"
-  },
-  {
     "id": "aws_b69ead81e0e672162ea7",
     "stationId": "awb_24b462b63119cb57e77d",
     "name": "Like Radio - DanceLand (AAC+)",
@@ -22415,11 +20413,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1dbd904d-3bfa-412a-9514-ce7b1813bfdb",
       "686a0847-a519-460d-b351-831e1a80d516"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:03:28Z"
+    "lastCheckedAt": "2026-11-06T19:42:40Z"
   },
   {
     "id": "aws_ec1ed5a09af2ee35292e",
@@ -22651,6 +20648,25 @@
     "lastCheckedAt": "2026-11-06T11:55:06Z"
   },
   {
+    "id": "aws_ad57520ceb2b6fdc393d",
+    "stationId": "awb_b6231022ebfdc34b322c",
+    "name": "London Cool",
+    "country": "GB",
+    "url": "http://stream.radio-calico.com:8080/calico.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "33b7fe76-366c-4fd5-bcea-f5dfd1609e97"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
+  },
+  {
     "id": "aws_108841d13ed80ea6915f",
     "stationId": "awb_3266f60f46f2e0d4e140",
     "name": "London Greek Radio",
@@ -22797,8 +20813,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "95c18780-60f7-4fe3-b8c3-fa9a0e515269",
-      "ee95c7df-18d9-428e-922a-9edd92f23b25"
+      "95c18780-60f7-4fe3-b8c3-fa9a0e515269"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:40:44Z"
@@ -22836,11 +20851,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "88321903-6939-11e9-af37-52543be04c81",
-      "d46d928b-c83b-4c7f-83fc-d6688c961882"
+      "b32ed7d7-bf63-4487-9118-70ffb20fae59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:22:40Z"
+    "lastCheckedAt": "2026-11-06T08:41:41Z"
   },
   {
     "id": "aws_24ab27febdfb58d04803",
@@ -22860,25 +20874,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:13:31Z"
-  },
-  {
-    "id": "aws_c8f5ce855f016237495a",
-    "stationId": "awb_4c4703e3819623b98b93",
-    "name": "London Tower Block Radio",
-    "country": "GB",
-    "url": "https://stream.ltbr.fm/live",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da451b11-cd9b-48dd-9bfe-057c9dc8104e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
   },
   {
     "id": "aws_c7de8463bcb4512c3f4f",
@@ -22951,11 +20946,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14516140-aa4b-4462-997e-bb6a36ae7780",
-      "43410501-8008-46a9-aaa2-f0372c023e64"
+      "14516140-aa4b-4462-997e-bb6a36ae7780"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:36:06Z"
+    "lastCheckedAt": "2026-11-06T14:47:50Z"
   },
   {
     "id": "aws_2dfb45e13e81d2993b88",
@@ -23047,7 +21041,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7a2244bc-06e1-4307-99b1-4cdeaad2e8b3",
       "838bb9f0-15bf-46e8-90c9-513ebafe0c90"
     ],
     "lastCheckOk": true,
@@ -23107,7 +21100,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0aab6130-0eef-4b0f-ac22-3e0430a9c5b9",
       "51c8795e-7c55-4452-8578-65651d538c3d"
     ],
     "lastCheckOk": true,
@@ -23169,25 +21161,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
-  },
-  {
-    "id": "aws_059d11aee9b0c19dbfc8",
-    "stationId": "awb_0a287027ff9f58d36984",
-    "name": "Low Key | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape2",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3d8d6144-9270-440c-a470-8b638a55caae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
     "id": "aws_3e141506a07ee19ca444",
@@ -23783,11 +21756,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5c83e9be-4979-4bac-8da5-fc515732e115",
-      "655fd88f-95f7-4ced-b79f-b4422357db8e"
+      "5c83e9be-4979-4bac-8da5-fc515732e115"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
+    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_31ec1e5122a4fe620c9c",
@@ -23933,15 +21905,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3c66c82a-e6d0-11e9-a96c-52543be04c81",
       "GB:memory-lane-nts"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_bf2862047ab90e704025",
@@ -24056,25 +22026,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:36:05Z"
-  },
-  {
-    "id": "aws_60cd3aa07c4a0112c90e",
-    "stationId": "awb_a8b6265c1211a6a462d5",
-    "name": "Mi-Soul",
-    "country": "GB",
-    "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "67b7f9d7-2ead-4525-95de-b105b63d2451"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
   },
   {
     "id": "aws_ee91a7531741a580807b",
@@ -24508,11 +22459,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c73b9eff-0ac5-4a43-b05a-346591c66675",
       "f510f28f-ee9f-4462-858b-bcf10f1f734f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:30:03Z"
+    "lastCheckedAt": "2026-11-06T00:34:11Z"
   },
   {
     "id": "aws_5693d61dacfaa8588261",
@@ -24738,8 +22688,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "967b9cf5-acde-445d-be74-e48e6fa3b580",
-      "e257b5c3-ff2d-4036-9733-82aa6990a328"
+      "967b9cf5-acde-445d-be74-e48e6fa3b580"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:31:57Z"
@@ -24836,7 +22785,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "baa36d48-eab5-4073-b53a-1e9fccf49ddc",
       "ddde79f4-389a-4055-b2e4-90c1dbb73084"
     ],
     "lastCheckOk": true,
@@ -24894,30 +22842,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2bf66bb0-f6ad-4890-87f5-fab3dc01bbf8",
-      "d8dc960b-20d2-45a1-96cf-a79af5c64a61"
+      "2bf66bb0-f6ad-4890-87f5-fab3dc01bbf8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:18:25Z"
-  },
-  {
-    "id": "aws_b3a27520a28c5e02b08d",
-    "stationId": "awb_cb2e7d8d7e1f1e2e841a",
-    "name": "Naim Jazz [320k aac]",
-    "country": "GB",
-    "url": "http://mscp3.live-streams.nl:8340/jazz-high.aac",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7b6de1b4-ec9e-4598-9409-2a2f03c48cb7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:42:42Z"
+    "lastCheckedAt": "2026-11-06T11:41:25Z"
   },
   {
     "id": "aws_02844d242a830d15cdd8",
@@ -24958,25 +22886,6 @@
     "lastCheckedAt": "2026-11-06T16:21:54Z"
   },
   {
-    "id": "aws_089bccedaff65a267184",
-    "stationId": "awb_d312661d5803c8eb3aa0",
-    "name": "Naim Radio",
-    "country": "GB",
-    "url": "http://mscp3.live-streams.nl:8360/flac.flac",
-    "codec": "ogg",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8f66ab42-0379-4e81-adaf-5c5088823790"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
-  },
-  {
     "id": "aws_4a9b12d13ab4bf95d6f4",
     "stationId": "awb_d312661d5803c8eb3aa0",
     "name": "Naim Radio",
@@ -24990,31 +22899,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "35b0c077-82c7-4906-afed-4dfbef7104b3",
       "d233c573-3902-444d-8cb0-70eef9142481"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:45:47Z"
-  },
-  {
-    "id": "aws_3bab1481aa7df36a227a",
-    "stationId": "awb_203c5d9f432e59a7ab75",
-    "name": "Naim Radio",
-    "country": "GB",
-    "url": "https://mscp3.live-streams.nl:8362/high.aac",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02c43a08-c2fe-4b6e-b00e-445945d1fbd3",
-      "de7cd49a-98a3-4d07-9b49-aabce53edefb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
   },
   {
     "id": "aws_0607368aa53dcdf2228c",
@@ -25053,44 +22941,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:49:38Z"
-  },
-  {
-    "id": "aws_ad94c2ffecb13d6c817a",
-    "stationId": "awb_24ca2a35fdd34c6ba62e",
-    "name": "Naim Radio [lossless flac]",
-    "country": "GB",
-    "url": "http://mscp3.live-streams.nl:8360/flac.flac",
-    "codec": "ogg",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49bc6344-102d-4c30-a7d8-b64112837509"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:22:59Z"
-  },
-  {
-    "id": "aws_4048209728f0fcb93e2c",
-    "stationId": "awb_6c5b646f8ab303390c6d",
-    "name": "Naim Radio flac",
-    "country": "GB",
-    "url": "http://mscp3.live-streams.nl:8360/flac.flac",
-    "codec": "ogg",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6bffe69-04b7-4371-b540-0dde0abbc5cf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
   },
   {
     "id": "aws_be6555080bf24959755b",
@@ -25448,8 +23298,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7b695723-92ff-4edc-acf7-574fe95fb0e8",
-      "89c8bcec-e11f-4afb-aa98-e7ebeb5ebe68"
+      "7b695723-92ff-4edc-acf7-574fe95fb0e8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:43:51Z"
@@ -25573,25 +23422,6 @@
     "lastCheckedAt": "2026-11-06T23:58:20Z"
   },
   {
-    "id": "aws_cb3ad0d84a8c6b20d50e",
-    "stationId": "awb_1ee5c96264c9b658d01c",
-    "name": "NME1",
-    "country": "GB",
-    "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59438574-094b-4a15-ab2f-d8eda45c95cb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:55:24Z"
-  },
-  {
     "id": "aws_9a8f5b3e42bc4de5ebec",
     "stationId": "awb_7b41ecf3255f673bd874",
     "name": "NME2",
@@ -25624,8 +23454,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1cd3d320-91aa-47f1-980c-96f5e38f2a24",
-      "418d4e37-d5f3-4137-887b-ee8d6621999b"
+      "1cd3d320-91aa-47f1-980c-96f5e38f2a24"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T02:39:24Z"
@@ -25745,25 +23574,6 @@
     "lastCheckedAt": "2026-11-06T19:49:52Z"
   },
   {
-    "id": "aws_438e94ae3cecccd8ec22",
-    "stationId": "awb_809d51876a2f41c3899c",
-    "name": "Noods Radio",
-    "country": "GB",
-    "url": "https://noods-radio.radiocult.fm/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3f938990-dcbc-4931-be49-0ca558a0976e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
-  },
-  {
     "id": "aws_538eb3659b656a2854fc",
     "stationId": "awb_a0090a5af2ffe5628665",
     "name": "North Derbyshire Radio",
@@ -25859,25 +23669,6 @@
     "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
-    "id": "aws_e7d213376ee7e21f90cd",
-    "stationId": "awb_ae094c7c15e3f74a19b0",
-    "name": "Nostalgia RAdio",
-    "country": "GB",
-    "url": "https://s5.radio.co/s6211fbeed/listen",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c58dadae-01d8-4ce3-ab09-4c0e35dfcf05"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
-  },
-  {
     "id": "aws_909edf865cf38722fba0",
     "stationId": "awb_6d767cdca3af9161ca9f",
     "name": "Not the BCFM Politics Show",
@@ -25910,11 +23701,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "97169fad-b8ce-4547-aa7d-0258b92ca193",
       "c105c298-7730-4b4a-bdb3-124ae5eeef91"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:03:28Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_0646a0cb86ef90a888e0",
@@ -26050,25 +23840,6 @@
     "lastCheckedAt": "2026-11-06T06:32:41Z"
   },
   {
-    "id": "aws_7253bf257da016b6886b",
-    "stationId": "awb_eebe86d10e192a8da1cc",
-    "name": "NR1 Drum and Bass Radio",
-    "country": "GB",
-    "url": "https://radio.listen-nr1dnb.com/listen/nr1_dnb_radio/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "52243a80-7713-4392-89c0-f3bde610993b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
-  },
-  {
     "id": "aws_3dc02a14ba081e988ab7",
     "stationId": "awb_75a87420ab1508d3813a",
     "name": "NREW Radio",
@@ -26105,25 +23876,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:30:27Z"
-  },
-  {
-    "id": "aws_43b4943577db6ea43bdf",
-    "stationId": "awb_f61890a76fce880562e9",
-    "name": "NTS | Low Key",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape2",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "08fb3326-efac-45be-8b1b-58e12681641f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
     "id": "aws_35a8a065f1fd321e097b",
@@ -26200,25 +23952,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
-    "id": "aws_418e996f39bec668b957",
-    "stationId": "awb_36ab224a7cd3bb4b2777",
-    "name": "NTS Infinite Mixtapes - Slow Focus",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da9f885b-7a1c-40fb-ad31-4a4eafb79940"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
   },
   {
     "id": "aws_63380734e786a8dbd6aa",
@@ -26681,25 +24414,6 @@
     "lastCheckedAt": "2026-11-05T22:12:20Z"
   },
   {
-    "id": "aws_f7827ed70105247aad45",
-    "stationId": "awb_2c5a8d358d6635f4e232",
-    "name": "Orion Global House",
-    "country": "GB",
-    "url": "http://global.citrus3.com:8370/stream",
-    "codec": "aac",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da7fa88f-ef2f-4946-ab0f-090ecc603d35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
-  },
-  {
     "id": "aws_e9c414bd132ccc125947",
     "stationId": "awb_f7b1090d757d083c803c",
     "name": "OSN Radio Plus",
@@ -26774,25 +24488,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:36:57Z"
-  },
-  {
-    "id": "aws_aba97b008378596d3027",
-    "stationId": "awb_49d01accd18b6ae3334f",
-    "name": "Otaku | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape36",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1047345d-6bf5-4d89-98d7-137eb552ddc6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
   },
   {
     "id": "aws_8a915bfb228d92012549",
@@ -27017,11 +24712,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9a5fe43a-3a44-48a6-8b3f-be24071d4671",
-      "aedc6b33-8bc4-4b6f-90c6-573abf3f6703"
+      "9a5fe43a-3a44-48a6-8b3f-be24071d4671"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:04:41Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_8f08221f7d15661d8acc",
@@ -27265,11 +24959,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7a42739e-4e9f-4e1b-a939-c58d618a7db3",
-      "c058d821-47b2-4ef4-9ff9-f435a9ca1c21"
+      "e55150cf-f6bd-44ea-9f66-0a00dc88c8f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
+    "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
     "id": "aws_9f12b26cd7f49747bfa7",
@@ -27323,30 +25016,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "425e7835-271c-495a-ada8-011139414ade",
-      "b434775e-b3df-4390-8f19-6fbba0b77647"
+      "425e7835-271c-495a-ada8-011139414ade"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:42:10Z"
-  },
-  {
-    "id": "aws_9f0be039c4cc74d562b4",
-    "stationId": "awb_fac55ae3f6dfda3cc2bd",
-    "name": "Phoenix Radio 1208",
-    "country": "GB",
-    "url": "http://listen.phoenixradio1208.com:8027/live",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0614f3bc-1742-48ad-8a2a-2d374a4f7795"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
   },
   {
     "id": "aws_43dead09905d1e08a105",
@@ -27362,8 +25035,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3de1332f-cceb-44ba-aade-e6f07f5b60dc",
-      "413a2543-8e0c-48fa-8a75-fff28de78c49"
+      "3de1332f-cceb-44ba-aade-e6f07f5b60dc"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:42:42Z"
@@ -27423,7 +25095,7 @@
       "ea7f5486-a101-47eb-8a56-6d6f0e1ed655"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_07dc1fdcc8900a35b33c",
@@ -27571,15 +25243,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "138e0496-c5f1-48a0-8cad-764fb23dfec9",
       "GB:playback-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:28:16Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d44b6c8b1bfd0aef8976",
@@ -27633,8 +25303,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9957dc39-7c25-499c-8a9c-5ce871924316",
-      "fe1fa93c-eec3-4302-b686-0d853e3a4477"
+      "9957dc39-7c25-499c-8a9c-5ce871924316"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:23:55Z"
@@ -27657,45 +25326,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:59:48Z"
-  },
-  {
-    "id": "aws_6f3ed10bee29a2f572ad",
-    "stationId": "awb_461b4332e0c267b923c6",
-    "name": "Point Blank Radio",
-    "country": "GB",
-    "url": "http://pointblankradio.co.uk:9002/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2ae80adf-501a-4248-824a-769373abdd6e",
-      "5e3a7db9-fa91-45ce-95f1-27f6fe4798bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
-  },
-  {
-    "id": "aws_c95dd21511fc9fffdb31",
-    "stationId": "awb_461b4332e0c267b923c6",
-    "name": "Point Blank Radio",
-    "country": "GB",
-    "url": "https://pointblankradio.co.uk/stream.mp3?latency=high",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b62a73a1-8679-4bda-b8ab-f477db82c1a4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
     "id": "aws_612cebc426f0de51bebb",
@@ -27734,44 +25364,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
-    "id": "aws_165f75f3ae269e6a9745",
-    "stationId": "awb_adc11de88c68317cc2be",
-    "name": "Poolside - Infinite Mixtapes | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape4",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ae2a54b5-2ec4-4d2d-bf32-cdcfd0d76e6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:17:10Z"
-  },
-  {
-    "id": "aws_ec1c15ff22fb9bc390e5",
-    "stationId": "awb_faef24ad4bfb407a1259",
-    "name": "Poolside | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape4",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4f9dd235-e6d1-11e9-a96c-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:19:22Z"
   },
   {
     "id": "aws_4c3c1081a4049bddb027",
@@ -28002,25 +25594,6 @@
     "lastCheckedAt": "2026-11-06T20:50:49Z"
   },
   {
-    "id": "aws_c321f40bd4920be9c051",
-    "stationId": "awb_9929f49a7cec230c5832",
-    "name": "Premier Praise",
-    "country": "GB",
-    "url": "https://pcr.streamguys1.com/ppeace-96k.aac",
-    "codec": "aac",
-    "bitrate": 56,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "140295df-e043-42e0-a80d-ebe848713063"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:15:17Z"
-  },
-  {
     "id": "aws_5392f037f1df20f94311",
     "stationId": "awb_9929f49a7cec230c5832",
     "name": "Premier Praise",
@@ -28211,9 +25784,9 @@
     "lastCheckedAt": "2026-11-06T16:33:08Z"
   },
   {
-    "id": "aws_23b74b7ade5b958bf62d",
-    "stationId": "awb_edcad2d5f1409f6831bc",
-    "name": "Psychedelicized Radio – Music For Your Head!",
+    "id": "aws_68bcd1a5b22912baadfa",
+    "stationId": "awb_cc326f990a1126590fa6",
+    "name": "Psychedelicized Radio",
     "country": "GB",
     "url": "https://stream.psychedelicized.com/listen/psychedelicized/radio.mp3",
     "codec": "mp3",
@@ -28224,10 +25797,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "98dbeb09-d208-4597-8f0e-18a4b5b9c446"
+      "a4c6cdff-b0bc-40ee-b548-6b99fabe0bdf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_f7fec6b56f4c2c1cf290",
@@ -28300,8 +25873,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "23da1835-5ccc-45fd-868a-33953069de0a",
-      "aeb74f1d-3bc7-470a-b141-fe5781dab116"
+      "23da1835-5ccc-45fd-868a-33953069de0a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:18:09Z"
@@ -28419,25 +25991,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:45:22Z"
-  },
-  {
-    "id": "aws_c2e564c19306969c624b",
-    "stationId": "awb_e035269ba89b73eded5c",
-    "name": "Pure West Radio Pembrokeshire",
-    "country": "GB",
-    "url": "https://uksoutha.streaming.broadcast.radio/stream/8580/purewest?1708662681541=",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3b769b3d-00aa-4310-a5c5-e54ab6caad9d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:02:34Z"
   },
   {
     "id": "aws_cf6b9bebc2ad58db9316",
@@ -28575,7 +26128,7 @@
   {
     "id": "aws_04345ac9e118e31595b0",
     "stationId": "awb_1b1abcea3f6862dfceec",
-    "name": "qUAntUm RaDio",
+    "name": "qUAntUm RaDio!",
     "country": "GB",
     "url": "https://radio.erb.pw/listen/subspace/radio.mp3",
     "codec": "mp3",
@@ -28586,8 +26139,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e5561c6c-379f-4422-9815-00a86611c363",
-      "fff6515d-ed00-41a6-9ff6-ba631eefb13a"
+      "e5561c6c-379f-4422-9815-00a86611c363"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:07:19Z"
@@ -28629,25 +26181,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
-    "id": "aws_8d1ebcf799dc0144900a",
-    "stationId": "awb_df39528177e3bcc1ea2b",
-    "name": "Radio Addictive 50s",
-    "country": "GB",
-    "url": "http://quincy.torontocast.com:2920/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a1deacbd-336b-4d19-93b0-2ac06dc38555"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
   },
   {
     "id": "aws_0b868c59977df7209b12",
@@ -28701,11 +26234,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "48724bbc-eee5-4784-8419-674981071f24",
-      "75f1872d-0cd7-4248-960e-eb76592b866b"
+      "48724bbc-eee5-4784-8419-674981071f24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:47:13Z"
+    "lastCheckedAt": "2026-11-06T21:31:00Z"
   },
   {
     "id": "aws_7f0cf6f60d524a53f7c3",
@@ -28775,15 +26307,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5f6f5a1e-4d61-4b5f-ab5c-74bcfd893ac4",
       "GB:radio-bloodstream"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_92ebc39edd3fede4945f",
@@ -28900,25 +26430,6 @@
     "lastCheckedAt": "2026-11-06T18:32:04Z"
   },
   {
-    "id": "aws_d3f335efe8abd27d51f8",
-    "stationId": "awb_97ca9d9f479f8e9141b0",
-    "name": "Radio Camarthenshire",
-    "country": "GB",
-    "url": "https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5bd70f6e-b7a5-4f3b-ab52-0ac20f7e9624"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:47Z"
-  },
-  {
     "id": "aws_37931c2e23591aedb1c8",
     "stationId": "awb_d7e49a64113bc18d3390",
     "name": "Radio Cardiff",
@@ -28932,11 +26443,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "489a1e4f-d3f5-4581-854f-be0f316faaf8",
-      "6706d898-f7c6-42ad-9e1b-4d473985eca4"
+      "489a1e4f-d3f5-4581-854f-be0f316faaf8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:07:15Z"
+    "lastCheckedAt": "2026-11-06T00:42:14Z"
   },
   {
     "id": "aws_b79caff25a56f9bd64ec",
@@ -29223,7 +26733,7 @@
       "GB:radio-central-24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:22:54Z"
+    "lastCheckedAt": "2026-11-06T02:18:42Z"
   },
   {
     "id": "aws_6467be1de83a3417a308",
@@ -29338,25 +26848,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:17:17Z"
-  },
-  {
-    "id": "aws_e2b1523fef62f58ca98c",
-    "stationId": "awb_daf3e30bfd3ab8642056",
-    "name": "Radio Drake",
-    "country": "GB",
-    "url": "http://quasar.shoutca.st:8015/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ad8f3dee-1259-4f00-8f2f-d52fb7deb4ef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_d4eb0382741dd839f623",
@@ -29513,25 +27004,6 @@
     "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
-    "id": "aws_c33d57b6eaedfa389a6f",
-    "stationId": "awb_add65923f160b48fb54f",
-    "name": "Radio Faza",
-    "country": "GB",
-    "url": "https://radiocast.cr8tive-digital.com/radiofaza",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3101bfd5-5279-4fbb-864f-e742ac85cc55"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:15:26Z"
-  },
-  {
     "id": "aws_a0b44bfe02ae6cc94fd0",
     "stationId": "awb_6002b7bd1e7677c1bc6e",
     "name": "Radio Frimley Park",
@@ -29640,7 +27112,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a29b9636-c73b-454f-a5a2-ae47875289b2",
       "d2243a22-f0a8-4f65-852f-ffbf58df7ee8"
     ],
     "lastCheckOk": true,
@@ -29660,11 +27131,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24a9d0cb-7c46-4234-b59a-3a22d2eb746d",
-      "51332385-c168-4f0c-8747-473d53f50072"
+      "24a9d0cb-7c46-4234-b59a-3a22d2eb746d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:21:16Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_6bb8375a8192a7e40d76",
@@ -29756,11 +27226,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "51b68e7f-9d38-4abb-ae54-694145f16b78",
-      "9894afea-8272-4be6-bc85-845913d54753"
+      "aa10732c-779d-4c06-8413-1c5b7c71b32d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:29:54Z"
+    "lastCheckedAt": "2026-11-05T23:12:02Z"
   },
   {
     "id": "aws_214e2af605c562545093",
@@ -29856,25 +27325,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:29:34Z"
-  },
-  {
-    "id": "aws_f536020343b94294afa9",
-    "stationId": "awb_026b5dc2c942cc673f1c",
-    "name": "Radio Jackie (HiEnd)",
-    "country": "GB",
-    "url": "http://media.radiojackie.com:5873/",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96243040-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:47:13Z"
   },
   {
     "id": "aws_58364c2185127d7e342c",
@@ -30045,7 +27495,7 @@
       "3a30dc02-4e14-444f-a7c5-4518fc6d0bfc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_608ee49ae20660a29950",
@@ -30103,25 +27553,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:21:16Z"
-  },
-  {
-    "id": "aws_af4dd64b65f87b72545c",
-    "stationId": "awb_b269c2507f0fd3d55c2e",
-    "name": "Radio Newark",
-    "country": "GB",
-    "url": "https://streamer.radionewark.com/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a07d5f19-88c6-4054-b3cd-60d31b93d569"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_1f3d16d7d349bfc34e79",
@@ -30351,7 +27782,7 @@
       "fc4d825e-3bd9-49ab-91df-e3e5ba4f15d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_856f3408b46f74f2e449",
@@ -30392,25 +27823,6 @@
     "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
-    "id": "aws_022362e516b736028812",
-    "stationId": "awb_d1c56e6089cbc6ece6d0",
-    "name": "Radio Radio",
-    "country": "GB",
-    "url": "https://c16.radioboss.fm:18014/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "033b3a5b-93cc-46d2-b7f4-0c381fb800e8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
-  },
-  {
     "id": "aws_2dce72d077b3b1011390",
     "stationId": "awb_87bf7f1a131e103b140f",
     "name": "Radio Redhill",
@@ -30428,25 +27840,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
-    "id": "aws_09f2115dfb2c3a8a5fc3",
-    "stationId": "awb_5164204ec3f51d650d11",
-    "name": "Radio Redhill - 100.4FM",
-    "country": "GB",
-    "url": "https://radioredhill.uk/stream/live.mp3",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2493f44-1038-414e-ba88-3e83f8000035"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
   },
   {
     "id": "aws_36e409352b1a1c75bcb9",
@@ -30563,25 +27956,6 @@
     "lastCheckedAt": "2026-11-06T19:45:08Z"
   },
   {
-    "id": "aws_65ad259ebb057f838833",
-    "stationId": "awb_cf5e5a409721576d2bfd",
-    "name": "Radio Scilly",
-    "country": "GB",
-    "url": "http://radio.canstream.co.uk:8040/live.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96229f29-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
-  },
-  {
     "id": "aws_2bd46b8614803bdbe6cb",
     "stationId": "awb_8d7125ea7807a562767c",
     "name": "Radio Seerah",
@@ -30599,25 +27973,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:33:53Z"
-  },
-  {
-    "id": "aws_1010735b219be7a2b435",
-    "stationId": "awb_58e0bf467b5e85a11ba1",
-    "name": "Radio Sidewinder",
-    "country": "GB",
-    "url": "http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "22ec1ef5-0ea8-4139-bf13-7b040998cdd9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
     "id": "aws_794357dad981608a86e7",
@@ -31019,25 +28374,6 @@
     "lastCheckedAt": "2026-11-06T13:53:36Z"
   },
   {
-    "id": "aws_fc87db3d12efeb61803d",
-    "stationId": "awb_1c30c6cd7dc67abc368a",
-    "name": "Radio X",
-    "country": "GB",
-    "url": "http://icecast.thisisdax.com/RadioXUKMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e8c4dc8d-2f73-4779-b074-90eefb98b388"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
-  },
-  {
     "id": "aws_af7d8351ccb4ad2a6504",
     "stationId": "awb_153c6f67e9743b1ac789",
     "name": "Radio X",
@@ -31302,8 +28638,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0cb269e7-39ef-4904-b479-684791e744f1",
-      "ce890072-a7f8-40a5-8888-544bda74a22e"
+      "0cb269e7-39ef-4904-b479-684791e744f1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:51:40Z"
@@ -31480,25 +28815,6 @@
     "lastCheckedAt": "2026-11-07T01:23:06Z"
   },
   {
-    "id": "aws_a5adf3d537193d37e3fa",
-    "stationId": "awb_de5da7b4a0ab4722bb9e",
-    "name": "radioalfa5 latin hits",
-    "country": "GB",
-    "url": "http://stream.zeno.fm/x9y4ytkavqzuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02626da9-c96a-4e1d-9e29-705bd72a10c5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:36:10Z"
-  },
-  {
     "id": "aws_87c4f0fd8b154bc028e2",
     "stationId": "awb_c316772443711b9e7f0b",
     "name": "radioalfa6 latin hits",
@@ -31632,25 +28948,6 @@
     "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
-    "id": "aws_9d2c417a02ee3b212b5c",
-    "stationId": "awb_1a56e65bf0c16e87dfe7",
-    "name": "radioGAGA - AI Generated Radio",
-    "country": "GB",
-    "url": "https://www.radiogaga.ai/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f25f330f-1b62-467b-908f-053cdeefc5eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
     "id": "aws_4199e0ab84c5d8fe764e",
     "stationId": "awb_3fe1334a321532a8117f",
     "name": "Radiohead",
@@ -31668,25 +28965,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
-    "id": "aws_61ba3f9f46fee06e7608",
-    "stationId": "awb_77f20244e4588655ed0c",
-    "name": "RadioJackie",
-    "country": "GB",
-    "url": "http://media.radiojackie.com:5873/",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8341447b-c25b-475f-bbbd-7808ce6ea19f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:34:56Z"
   },
   {
     "id": "aws_9202835bae9e136f1f66",
@@ -31797,11 +29075,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4cdce8e5-f7d3-4678-a721-55a33e93c08e",
-      "8bdfe6a8-fd46-4c2f-bb73-b730bb95a30f"
+      "4cdce8e5-f7d3-4678-a721-55a33e93c08e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
+    "lastCheckedAt": "2026-11-06T15:18:39Z"
   },
   {
     "id": "aws_cff625d1fd3ac20e8d88",
@@ -31918,25 +29195,6 @@
     "lastCheckedAt": "2026-11-06T15:19:31Z"
   },
   {
-    "id": "aws_770613f8b8677586b9f9",
-    "stationId": "awb_101294413b583c51f89d",
-    "name": "Raidió Fáilte 107.1fm",
-    "country": "GB",
-    "url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96129abd-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:00:31Z"
-  },
-  {
     "id": "aws_b674241b0aba9cca7902",
     "stationId": "awb_fa5df442cdd576e2e867",
     "name": "Rain & Thunderstorms Sounds",
@@ -32050,26 +29308,7 @@
       "GB:ram-fm-80s-hit-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:36:57Z"
-  },
-  {
-    "id": "aws_b965030bba993aedfcaa",
-    "stationId": "awb_05e88658062af1d23d66",
-    "name": "RAM FM Eighties Hit Radio",
-    "country": "GB",
-    "url": "https://usa1-vn.mixstream.net/8084/listen.mp3",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3776ad55-969e-4958-a21e-7833758c05a4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
+    "lastCheckedAt": "2026-11-06T01:32:34Z"
   },
   {
     "id": "aws_4824b1081d1cfb50cd4f",
@@ -32161,11 +29400,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "73840a2c-0e12-4fc8-9dcb-956d224a244b",
-      "c604ba64-8863-49b4-be50-1e42404e951e"
+      "73840a2c-0e12-4fc8-9dcb-956d224a244b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
+    "lastCheckedAt": "2026-11-06T05:16:39Z"
   },
   {
     "id": "aws_547e308e2eb38cf4853e",
@@ -32377,25 +29615,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
-    "id": "aws_88db666a1eea587cba59",
-    "stationId": "awb_3e4565566c53afa9f1e5",
-    "name": "Reiver FM – Scottish Borders Radio",
-    "country": "GB",
-    "url": "https://s10.myradiostream.com/35820/listen.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9ae16b8c-40fc-4c62-939c-9d4c2fb8be37"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
     "id": "aws_a94ea97a9b5993e7a79a",
@@ -32700,11 +29919,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8008fedc-379e-49be-958e-cfc76606e0ba",
       "accf9746-4b97-4305-b3af-3c65f13cee3f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-11-06T17:22:39Z"
   },
   {
     "id": "aws_517962f22fb8b9163a36",
@@ -32788,20 +30006,18 @@
     "name": "Rinse UK",
     "country": "GB",
     "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9c100db7-ba97-4e6f-821f-dba1ed08ad52",
       "GB:rinse-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b8d473c5b8a76df639c8",
@@ -32935,25 +30151,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:14:51Z"
-  },
-  {
-    "id": "aws_6de6cb96e6b87169850f",
-    "stationId": "awb_2f80de6b454ee53480f4",
-    "name": "Rockabilly-Radio.net",
-    "country": "GB",
-    "url": "http://lin3.ash.fast-serv.com:6026/stream_96",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c4b1fd9-83d5-4478-992b-700781194b38"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:33:07Z"
   },
   {
     "id": "aws_c0d5c1a126383b43b07e",
@@ -33203,25 +30400,6 @@
     "lastCheckedAt": "2026-11-06T18:00:22Z"
   },
   {
-    "id": "aws_18625e648779fddfb2c1",
-    "stationId": "awb_b5bf33fa6a113ded3ec9",
-    "name": "ROKit Radio : Classic Crime and Suspense",
-    "country": "GB",
-    "url": "https://streaming04.liveboxstream.uk/proxy/roksta17/stream",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02a7479c-dbbd-43f6-bbcf-70a3e0fcc481"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
     "id": "aws_99fec628dd89af26ed24",
     "stationId": "awb_577afcda5e241dc8afd4",
     "name": "ROKit Radio : Classic Old Time Radio Shows",
@@ -33273,11 +30451,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "12d06507-314e-49cd-85ee-2c454ea33421",
-      "c1cf094a-36c3-432e-8843-772fed1af790"
+      "12d06507-314e-49cd-85ee-2c454ea33421"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
+    "lastCheckedAt": "2026-11-06T03:53:19Z"
   },
   {
     "id": "aws_69397ee3e197e076848c",
@@ -33603,25 +30780,6 @@
     "lastCheckedAt": "2026-11-07T01:16:50Z"
   },
   {
-    "id": "aws_73149f6bd3ed220dd893",
-    "stationId": "awb_3545a8ef40d827ea27e3",
-    "name": "SAB RADIO FOLKESTONE UK",
-    "country": "GB",
-    "url": "https://spectrum.radioca.st/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5796e0f8-6fef-4efe-b0bb-9fe421401135"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:50:12Z"
-  },
-  {
     "id": "aws_ee4ddf9adf1251f12983",
     "stationId": "awb_6a1518e55e99f26eee32",
     "name": "Sabotage",
@@ -33812,25 +30970,6 @@
     "lastCheckedAt": "2026-11-06T19:00:54Z"
   },
   {
-    "id": "aws_b63d545db249fa38aa13",
-    "stationId": "awb_881540f587b31d85c6ed",
-    "name": "SCIFI.radio",
-    "country": "GB",
-    "url": "https://station.kryptonradio.com:8080/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "092bb25d-5416-49f4-a994-e49271fcff0e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:58:56Z"
-  },
-  {
     "id": "aws_941945be5bd5d3158dd4",
     "stationId": "awb_6bbc2706ffbe0ea66b6f",
     "name": "Scream London",
@@ -33901,11 +31040,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "53f1e0f2-3bc8-48c2-af30-31c709bb99c2",
-      "ce9dced9-1160-450d-a81e-d2df3981e14e"
+      "53f1e0f2-3bc8-48c2-af30-31c709bb99c2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:30:25Z"
+    "lastCheckedAt": "2026-11-06T02:26:30Z"
   },
   {
     "id": "aws_daf4eb4feb16f83db33b",
@@ -33963,44 +31101,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:12:07Z"
-  },
-  {
-    "id": "aws_2abd780e1578a8f81165",
-    "stationId": "awb_0b2fd530e5532da564fc",
-    "name": "Sheet Music - Infinite Mixtapes | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape35",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "76c0304e-e5b7-4642-b556-116a4eb66b09"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:07:19Z"
-  },
-  {
-    "id": "aws_2291a16894dbbc3f9675",
-    "stationId": "awb_e4c5e87b03fa716744d3",
-    "name": "Sheet Music | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape35",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e0ad463-0dbc-4913-b12d-7d0b7300882b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:56:51Z"
   },
   {
     "id": "aws_a6b211289769feed988e",
@@ -34132,11 +31232,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "67b93fc9-c162-4e54-8052-9aae5ba80aa6",
       "8ef2e8ad-fd5d-4dd9-8ac5-3bd6369e8c66"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
+    "lastCheckedAt": "2026-11-06T00:27:47Z"
   },
   {
     "id": "aws_a1fa06d446442cde3f42",
@@ -34175,25 +31274,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:55:06Z"
-  },
-  {
-    "id": "aws_3b3e468b28bedeac4630",
-    "stationId": "awb_eaefb1dc7035f87ae156",
-    "name": "SIBC",
-    "country": "GB",
-    "url": "http://tx9.zetcast.net:8100/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ffbc100c-ba89-440e-91a2-0da7ff66be5d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
   },
   {
     "id": "aws_1fea46231fb46924e193",
@@ -34502,25 +31582,6 @@
     "lastCheckedAt": "2026-11-06T20:51:40Z"
   },
   {
-    "id": "aws_1fe43ca3096099dfacf9",
-    "stationId": "awb_bdf56a4f05ab0e7f596e",
-    "name": "Slow Focus | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5468df4-e6d0-11e9-a96c-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:16Z"
-  },
-  {
     "id": "aws_ebabe01e5a81d3edb7b7",
     "stationId": "awb_4c54b137faf6a96d442c",
     "name": "Smash hits radio retro",
@@ -34744,15 +31805,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "46f13c3e-823f-4f1e-ab82-5a7b145c337f",
       "GB:smooth-country"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:30:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_27ed290cba9d06151b50",
@@ -34812,26 +31871,6 @@
     "lastCheckedAt": "2026-11-06T15:18:39Z"
   },
   {
-    "id": "aws_eae4b99ec7e541257f26",
-    "stationId": "awb_6a4c6df630acea9ccdfb",
-    "name": "Smooth Radio",
-    "country": "GB",
-    "url": "http://media-the.musicradio.com/SmoothEastMids",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962b27a3-0601-11e8-ae97-52543be04c81",
-      "ac828878-c76a-4bd2-95dc-746e49b93032"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:34:33Z"
-  },
-  {
     "id": "aws_c8f39d10c74159d878f8",
     "stationId": "awb_0f8e948deb2a49587b85",
     "name": "Smooth Radio (London, UK) 48k aac+",
@@ -34870,25 +31909,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:44:15Z"
-  },
-  {
-    "id": "aws_670362f25cbf87869fd2",
-    "stationId": "awb_4982556a8aadfee6b175",
-    "name": "Smooth Radio London 102.2",
-    "country": "GB",
-    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f468711f-a403-11e8-abb8-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
   },
   {
     "id": "aws_a91642971c6ec63f5a26",
@@ -35083,25 +32103,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:17:17Z"
-  },
-  {
-    "id": "aws_9db9c7ed50deeec4b7ff",
-    "stationId": "awb_be4730120276825c25ad",
-    "name": "Soho Radio London",
-    "country": "GB",
-    "url": "https://sohoradiomusic.doughunt.co.uk:8010/128mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "20bcbbc0-75b1-43ab-9919-6230ce0d8bba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:39:01Z"
   },
   {
     "id": "aws_042b3d75a3e96f33e29b",
@@ -35345,8 +32346,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "090d0caf-1285-4437-8f7c-6d4ca1d331d0",
-      "8e091a36-ef51-42f3-9490-0fb0e0de4d43"
+      "090d0caf-1285-4437-8f7c-6d4ca1d331d0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:04:41Z"
@@ -35365,11 +32365,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "79a3cd9e-6205-40c4-aefe-8369bdd4649a",
-      "c4e0793b-43ba-4384-9263-99392a221434"
+      "bbaa0c03-9574-4c6c-bc6f-92aeab40f916",
+      "cc4e871f-e6b9-4fbd-8090-a9fc05a2a268"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
+    "lastCheckedAt": "2026-11-06T13:40:51Z"
   },
   {
     "id": "aws_cf1cdd7bf7e86a07b12d",
@@ -35442,11 +32442,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b477d6e4-0ded-4efd-8050-53af1a943efa",
-      "eafe621c-f76a-408b-8515-b189f5686712"
+      "b477d6e4-0ded-4efd-8050-53af1a943efa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:56:15Z"
+    "lastCheckedAt": "2026-11-06T05:40:15Z"
   },
   {
     "id": "aws_41371d18781c9e061d88",
@@ -35527,26 +32526,6 @@
     "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
-    "id": "aws_7e97afca84586b28d222",
-    "stationId": "awb_0d84734a9ee1e4dddcf0",
-    "name": "Soul Rhythms Radio UK",
-    "country": "GB",
-    "url": "http://forwardmystream.com/soulrhythmsradiouk",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "54b69669-14ba-4733-9702-19e920025fe4",
-      "d6f182de-5d6b-470b-8bee-3f6929feb2d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:41:28Z"
-  },
-  {
     "id": "aws_ffcf98dea1c6785aa897",
     "stationId": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
@@ -35560,11 +32539,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4109e374-c310-4690-8455-c36e717a6e20",
-      "a933e805-8c3b-4842-b41f-05617340f68e"
+      "4109e374-c310-4690-8455-c36e717a6e20"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
+    "lastCheckedAt": "2026-11-06T17:17:37Z"
   },
   {
     "id": "aws_d32ffe2d5d81439ee8d6",
@@ -36131,11 +33109,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "49c326d1-0058-40e7-b627-208b7800ff3c",
       "8910f739-4b33-42fa-a607-3ce173cb3810"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:02:29Z"
+    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_4d5f0cc02a56b6e79a03",
@@ -36216,25 +33193,6 @@
     "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
-    "id": "aws_d41e541d680b37c6a08b",
-    "stationId": "awb_d981e2926fd0221104f1",
-    "name": "Street Sounds Crucial Hip Hop and Electro",
-    "country": "GB",
-    "url": "https://uksoutha.streaming.broadcast.radio/crucial",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02e09181-97b8-483d-819a-c380313c52d5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
-  },
-  {
     "id": "aws_aa13575c83265a14ff92",
     "stationId": "awb_ac822a72dd4b299d8de2",
     "name": "Street Sounds Radio",
@@ -36253,7 +33211,7 @@
       "GB:street-sounds-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:34:44Z"
+    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_a153966b09a20506bc43",
@@ -36292,25 +33250,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:50:01Z"
-  },
-  {
-    "id": "aws_76e300df4ca79d26e604",
-    "stationId": "awb_f38ead2d0637626f798f",
-    "name": "Stu Allan Radio",
-    "country": "GB",
-    "url": "https://stream.stuallan.com/stream1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dde42b52-9dec-49ff-b49f-8dbf59085393"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
   },
   {
     "id": "aws_f047445c31e9e496da71",
@@ -36522,25 +33461,6 @@
     "lastCheckedAt": "2026-11-06T15:21:48Z"
   },
   {
-    "id": "aws_fc6439011b80bc63cfd7",
-    "stationId": "awb_7de99d866e9238b1e94d",
-    "name": "Sunshine FM Hereford",
-    "country": "GB",
-    "url": "http://icecast.easystream.co.uk:8000/herefordFM",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07a002d3-b5f8-4aa3-b912-cb9fe007fbcd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
-  },
-  {
     "id": "aws_42e8a23ed3db5c5f32ef",
     "stationId": "awb_00b40060ef1a68822bc5",
     "name": "Sunshine Radio",
@@ -36632,30 +33552,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "16c1f981-289e-4b47-af2c-2c3356fd519d",
-      "4bb8a5b0-ea88-4b3d-8c44-b99d3d8e5d9e"
+      "16c1f981-289e-4b47-af2c-2c3356fd519d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
-  },
-  {
-    "id": "aws_208e1c399b4fec8f1f8f",
-    "stationId": "awb_48a90158231c6d0adaeb",
-    "name": "Surf Rock Radio",
-    "country": "GB",
-    "url": "http://139.162.89.191:8020/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "174738cf-33e3-4198-9adf-5fa41bad53af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
+    "lastCheckedAt": "2026-11-06T06:34:06Z"
   },
   {
     "id": "aws_34593e2c0bcf89c3e582",
@@ -36696,25 +33596,6 @@
     "lastCheckedAt": "2026-11-07T00:24:20Z"
   },
   {
-    "id": "aws_e42bd0727726e09b55c4",
-    "stationId": "awb_a12536f60e578b69f3f9",
-    "name": "Sweat | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape24",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7afce64a-1626-4391-9cad-cb6e664489a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_e400edeb97065c9f59ed",
     "stationId": "awb_a093632da4ab46cb0af0",
     "name": "Swinging radio 60s",
@@ -36747,11 +33628,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0f208ce7-6c65-4f59-af2a-772819fccf04",
       "6cb3c224-1fea-4b83-831c-34b691059dc1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:05:52Z"
+    "lastCheckedAt": "2026-11-06T12:48:11Z"
   },
   {
     "id": "aws_9242b74136d8cc64bc28",
@@ -36767,7 +33647,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "57f97f6b-1637-41a2-9914-003fac05f02f",
       "6034df3e-e7fc-4b3b-93c1-31b6db5aeeaf"
     ],
     "lastCheckOk": true,
@@ -36780,19 +33659,17 @@
     "country": "GB",
     "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
     "codec": "mp3",
-    "bitrate": 128,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:swu-fm",
-      "fb156190-ade3-4f47-873a-2136cdc793d6"
+      "GB:swu-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:58:56Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_722b766e03198cdd0855",
@@ -36833,25 +33710,6 @@
     "lastCheckedAt": "2026-11-06T09:57:38Z"
   },
   {
-    "id": "aws_3a97f555a54e6dd5b9eb",
-    "stationId": "awb_9ab2ad1ea28efb53ac29",
-    "name": "Talk",
-    "country": "GB",
-    "url": "https://radio.talkradio.co.uk/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "76b80d69-642d-4887-9571-7d0ba25c20f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
-  },
-  {
     "id": "aws_6c212f432804743a6f2c",
     "stationId": "awb_989697b3ab64bb1d153d",
     "name": "talkSPORT",
@@ -36890,25 +33748,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:04:41Z"
-  },
-  {
-    "id": "aws_2f08c283e5f413aba787",
-    "stationId": "awb_4e6b20abd09d1e45dfad",
-    "name": "talkSPORT spanish",
-    "country": "GB",
-    "url": "http://live.talksport.com/channel1m-es",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f86a55a-baa8-11e8-aaf2-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:18:51Z"
   },
   {
     "id": "aws_85e73a0ea40f4f1aa5ae",
@@ -37023,25 +33862,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:43:20Z"
-  },
-  {
-    "id": "aws_f9ffabb0ab599da09619",
-    "stationId": "awb_249ce624ae94f95ffe14",
-    "name": "Techno - FM - Channel",
-    "country": "GB",
-    "url": "https://stream.techno.fm/radio1-320k.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "983cc845-97f9-409b-b6e7-3c977b07271b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:22:19Z"
   },
   {
     "id": "aws_44d36c97647dab2a467b",
@@ -37285,11 +34105,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "74e8b53d-10ac-4879-b27b-c93c4955ed1d",
-      "c681e0e5-e3e1-4b07-9dea-f15735530c71"
+      "74e8b53d-10ac-4879-b27b-c93c4955ed1d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:48Z"
+    "lastCheckedAt": "2026-11-06T13:00:38Z"
   },
   {
     "id": "aws_19d4532cce941b8067c1",
@@ -37478,8 +34297,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b6c8bda6-6827-4564-8544-5d995d44a837",
-      "f2c2329a-2999-4e0c-8705-02c77b45abaa"
+      "b6c8bda6-6827-4564-8544-5d995d44a837"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:15:48Z"
@@ -37601,25 +34419,6 @@
     "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
-    "id": "aws_93fc90e81c0c096628bb",
-    "stationId": "awb_b95093598921adea01ef",
-    "name": "The Pit - Infinite Mixtapes | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape34",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "94a47b3a-1808-4ecf-8a6f-8b80ee80878c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
-  },
-  {
     "id": "aws_ad995c31858f05f46c96",
     "stationId": "awb_b8139ce7d9de45ffc71f",
     "name": "The Pit | NTS",
@@ -37734,25 +34533,6 @@
     "lastCheckedAt": "2026-11-06T05:16:39Z"
   },
   {
-    "id": "aws_57d6dae31d498b115df9",
-    "stationId": "awb_13f0c41540957ce390d3",
-    "name": "The Source FM",
-    "country": "GB",
-    "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
-    "codec": "mp3",
-    "bitrate": 110,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dd42ec6d-3c93-4b25-a5f4-5809706dd7ed"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:36:10Z"
-  },
-  {
     "id": "aws_c6ba80b31097769efd5d",
     "stationId": "awb_3daaf625e5a39e23437e",
     "name": "The Thread 102.8FM",
@@ -37789,44 +34569,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:23:23Z"
-  },
-  {
-    "id": "aws_f08d952f0a94201a9528",
-    "stationId": "awb_a528dd5525e96defa420",
-    "name": "The Tube | NTS",
-    "country": "GB",
-    "url": "https://stream-mixtape-geo.ntslive.net/mixtape26",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cda70b2c-e8f0-4d05-9b74-dc26b0a187b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:46:59Z"
-  },
-  {
-    "id": "aws_29f54a96093c7ef48f0b",
-    "stationId": "awb_37cb8e24ae0d2c7e067f",
-    "name": "The UK 1940s Radio Station",
-    "country": "GB",
-    "url": "http://solid2.streamupsolutions.com:24929/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a061f7fe-1d83-4f60-9a62-fad0a8048c77"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:32:04Z"
   },
   {
     "id": "aws_c9560278e9838aedd9f2",
@@ -38019,25 +34761,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
-    "id": "aws_6c5eece92d112e28762d",
-    "stationId": "awb_8726f0c2859f43d6acc0",
-    "name": "Times Radio",
-    "country": "GB",
-    "url": "https://timesradio.wireless.radio/stream",
-    "codec": "aac",
-    "bitrate": 127,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a8f2d50-fca3-4d7c-99ee-c5e0e97f4d1b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:01:29Z"
   },
   {
     "id": "aws_4d9d61d48a88af442119",
@@ -38311,7 +35034,7 @@
       "f1e41afa-1cc7-498e-85ea-f25fa2fa2882"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_00d90aa50994c21598bd",
@@ -38362,15 +35085,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GB:total-soul-uk-192kb-mp3",
-      "afb31087-30b4-44c7-8469-b3526d8f3bb5"
+      "GB:total-soul-uk-192kb-mp3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:44:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_edd7f3d695714a4c02f3",
@@ -38430,26 +35151,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T03:04:27Z"
-  },
-  {
-    "id": "aws_8ab31bb7e3b400d2114e",
-    "stationId": "awb_f3015bb3f66b77d6c2e6",
-    "name": "TotalRock",
-    "country": "GB",
-    "url": "https://s3.citrus3.com:8056/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ebfea3bc-dae8-424d-b45c-c805885aeaeb",
-      "f5ad6af1-f4f8-4bee-8620-c7c6accf1ae4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:32:27Z"
   },
   {
     "id": "aws_646f5a1ff9e2af45410f",
@@ -38602,11 +35303,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "80a69498-5a5d-470d-b330-f5d82ae2c9ac",
       "89199933-8a91-4afb-879f-0c4cd72c769e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:30:44Z"
+    "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
     "id": "aws_e391698298a556f28006",
@@ -38698,7 +35398,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "87319d45-38be-440e-9b11-82de7d1ec17b",
       "c6fa6e45-c6ae-41aa-9fa5-0495a60c8ff6"
     ],
     "lastCheckOk": true,
@@ -38876,25 +35575,6 @@
     "lastCheckedAt": "2026-11-06T15:09:32Z"
   },
   {
-    "id": "aws_f0d7a1a9f1b11b5266d5",
-    "stationId": "awb_e25ccc7c438b367edc8d",
-    "name": "UCB 2",
-    "country": "GB",
-    "url": "https://edge-audio-gos2-01.sharp-stream.com:80/55_ucb_2_128_mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b497bead-6556-43a9-9a67-56c59c602116"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:37:05Z"
-  },
-  {
     "id": "aws_537de7331c5998722efd",
     "stationId": "awb_e25ccc7c438b367edc8d",
     "name": "UCB 2",
@@ -39005,8 +35685,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d019ccf6-722b-4828-817a-a56964ff2aab",
-      "d8ece123-8432-44a9-9e47-a4df0a5164bf"
+      "d019ccf6-722b-4828-817a-a56964ff2aab"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:31:33Z"
@@ -39354,25 +36033,6 @@
     "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
-    "id": "aws_870ecdcb9f58c5d24972",
-    "stationId": "awb_8d7b2549e21e1a2854e6",
-    "name": "Urban Vybez Radio",
-    "country": "GB",
-    "url": "http://radio.cybervybez.headroomstreaming.com:8063/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "367e61f8-b78c-40fe-9440-e906a5886694"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:07:44Z"
-  },
-  {
     "id": "aws_028a60554505ae0f6d63",
     "stationId": "awb_be08915628ab9cb500fb",
     "name": "V2 Radio",
@@ -39386,11 +36046,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7ce658e3-f3ad-4ccb-ac27-afee73080c61",
-      "f68764d8-f5fd-4fc8-8f14-f4e586d9e668"
+      "7ce658e3-f3ad-4ccb-ac27-afee73080c61"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
+    "lastCheckedAt": "2026-11-06T17:43:13Z"
   },
   {
     "id": "aws_75f070151041d4f5f035",
@@ -39729,11 +36388,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b8e5a49f-8edb-4647-a2d1-bfba53f4c6ce",
-      "d4815dde-f0a8-4c75-9df9-defa0064e6c8"
+      "b8e5a49f-8edb-4647-a2d1-bfba53f4c6ce"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
+    "lastCheckedAt": "2026-11-06T00:12:43Z"
   },
   {
     "id": "aws_9390ca4e0a80f097b7d6",
@@ -39768,11 +36426,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1a1ef3a9-0f99-11ea-a87e-52543be04c81",
       "69dd0abe-c515-4418-be34-617e7321c7ef"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_55c827751a5e4b299beb",
@@ -39807,7 +36464,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8e630042-ef66-4063-a403-7632117ef5c8",
       "9066f77f-74a4-4815-b5a8-1b684554d5a9"
     ],
     "lastCheckOk": true,
@@ -39843,15 +36499,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7d196930-5f3d-45e2-b11a-d261c4515161",
       "GB:virgin-radio-uk"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_98095b45878ea0aa7e45",
@@ -39951,25 +36605,6 @@
     "lastCheckedAt": "2026-11-06T10:55:06Z"
   },
   {
-    "id": "aws_b6e135e42fea38308b2f",
-    "stationId": "awb_6f9dc6ce81c4922cf0a2",
-    "name": "Voices",
-    "country": "GB",
-    "url": "https://voicesradio.out.airtime.pro/voicesradio_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66bf1eb0-9125-4e6c-a83a-4cb928493c0d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:44:57Z"
-  },
-  {
     "id": "aws_9e7863e87d2cfee23cf8",
     "stationId": "awb_71dd9eb1ff49cda76fd0",
     "name": "Voices Radio",
@@ -40059,8 +36694,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "49049538-3414-4266-a694-dff2a49ec494",
-      "7688bdc5-dd74-4da4-ae06-d2b0891a7a7b"
+      "49049538-3414-4266-a694-dff2a49ec494"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
@@ -40120,7 +36754,7 @@
       "2fc7f8e7-cda4-4568-9c0b-311c9f2eb0f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_84b0c2331bcde085093e",
@@ -40326,7 +36960,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b0d26a9-0d62-4f9d-b446-5ef199a0fc77",
       "74477abe-8f8d-4e76-a56a-614bfebcf7f5"
     ],
     "lastCheckOk": true,
@@ -40388,25 +37021,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
-    "id": "aws_7ffa42809c74bc4fa26a",
-    "stationId": "awb_7dad2cf22c861cd6bbba",
-    "name": "World Radio Network Russian (WRN)",
-    "country": "GB",
-    "url": "http://shoutcast.wrn.org:8025/WRN-R",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1cf73729-6f43-4625-b5b2-e37033a2751b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
   },
   {
     "id": "aws_b3c991660c2fe180e14e",
@@ -40485,25 +37099,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:40:01Z"
-  },
-  {
-    "id": "aws_711b12a8390920398883",
-    "stationId": "awb_8d295711b9b689908f83",
-    "name": "www.playbackuk.com",
-    "country": "GB",
-    "url": "https://chilledstreaming.com:8650/mobile.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7717149a-1932-4338-bf94-06f1d107cb72"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
     "id": "aws_11fd77a23cc71bb9159e",
@@ -40615,7 +37210,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "124c45d7-57a9-46ed-8b93-83b306992126",
+      "4b39f668-0225-400e-8ea4-0e3accbda347",
       "GB:xl-uk-radio"
     ],
     "lastCheckOk": true,
@@ -40635,11 +37230,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4a8d59e4-e62f-49dc-aea0-aba77c25d839",
       "f9b0c0ab-b19f-4d7d-8c49-1a1141732bbf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:15:26Z"
+    "lastCheckedAt": "2026-11-06T19:54:58Z"
   },
   {
     "id": "aws_91fb1b7240de96280aa6",
@@ -40659,25 +37253,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:41:40Z"
-  },
-  {
-    "id": "aws_00855416248982070155",
-    "stationId": "awb_bc4c558b6d01829b50f0",
-    "name": "Xpression FM Bollywood",
-    "country": "GB",
-    "url": "https://casper.radioca.st/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6622298-f0fd-4fbc-bdcf-f929da731642"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_5edfacfcd4359f143e03",
@@ -40731,11 +37306,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4741f936-6e3a-4c40-baf6-dc0426f15353",
       "7b502f0e-a7a3-4978-9a0e-539c462aee6e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
+    "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
     "id": "aws_9b9ccbc776c97192da1f",
@@ -41033,14 +37607,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "30820d12-0409-44b7-b5e8-edc594910d92",
       "GB:radio-seva-novgorodsev"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-24"
   }
 ]

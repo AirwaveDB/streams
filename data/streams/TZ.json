@@ -59,25 +59,6 @@
     "lastCheckedAt": "2026-11-06T18:18:44Z"
   },
   {
-    "id": "aws_727b0a8550f2b90d8d26",
-    "stationId": "awb_014e5b6af54d68f39a1f",
-    "name": "Clouds FM",
-    "country": "TZ",
-    "url": "http://eu6.fastcast4u.com:5306/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:08:01Z"
-  },
-  {
     "id": "aws_6a46b63f0b5940d906c7",
     "stationId": "awb_006c31ea40549e387637",
     "name": "Crown FM",
@@ -263,15 +244,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TZ:mungu-kwanza-radio",
-      "c2109fcd-6a26-48d1-9e78-5234906dd784"
+      "TZ:mungu-kwanza-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:05:50Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c39ffa6724b2987386ba",

@@ -51,11 +51,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "06327e45-5b95-4164-b335-a1a5b8095a1b",
-      "9684cbbc-ea62-422c-bc93-20cf4ed4bac1"
+      "06327e45-5b95-4164-b335-a1a5b8095a1b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:35:50Z"
+    "lastCheckedAt": "2026-11-05T23:12:02Z"
   },
   {
     "id": "aws_59cde562db9a5ad0fadd",
@@ -157,25 +156,6 @@
     "lastCheckedAt": "2026-11-06T16:41:25Z"
   },
   {
-    "id": "aws_c2c3087cc0ce52895f10",
-    "stationId": "awb_c6f667b97afbbe0aa105",
-    "name": "104.5FM צפון",
-    "country": "IL",
-    "url": "https://radio.streamgates.net/stream/1045fm",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36a1608a-e982-4000-82f4-eb6e279cf744"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:25:14Z"
-  },
-  {
     "id": "aws_b3b4e87c3ec0d9fcaa77",
     "stationId": "awb_c8efb9d53b8d72718ee2",
     "name": "88 FM",
@@ -233,25 +213,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
-    "id": "aws_8aabe0d5db9812c450d7",
-    "stationId": "awb_c7869cceb4fa8c016784",
-    "name": "AudioVersity",
-    "country": "IL",
-    "url": "https://1062onair.runi.ac.il/idc123.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9687cb4b-6c60-429e-a7f0-28180e746075"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
   },
   {
     "id": "aws_c109a591d113de00efa0",
@@ -469,45 +430,6 @@
     "lastCheckedAt": "2026-11-06T19:00:54Z"
   },
   {
-    "id": "aws_c89d33ee767ec2f9ca69",
-    "stationId": "awb_9411a01cec9bcba0e8d0",
-    "name": "Glz",
-    "country": "IL",
-    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f605613-f5f8-4c8f-8edc-c7c3945023fb",
-      "ef4cfa77-f36d-4b08-a24a-4288cae3b7fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
-    "id": "aws_79bc21996c4fb9d0d436",
-    "stationId": "awb_aa3d73147ef2c9975e6d",
-    "name": "GUITAR - J. WILLIAMS",
-    "country": "IL",
-    "url": "http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d902048f-5fcf-445a-9494-77d74dee9e43"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:39:08Z"
-  },
-  {
     "id": "aws_a2495ae34b2c11659d24",
     "stationId": "awb_1f3aa2fffc907b683cf4",
     "name": "Hedva Shaltiel",
@@ -543,7 +465,7 @@
       "dcbd792b-1547-440b-82ae-23b6f926283e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_2bff254543d91e09ab2c",
@@ -562,7 +484,7 @@
       "34ccc82a-2ee3-4f71-b9b4-11bf66ef07bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_a93c57836fd603947322",
@@ -570,20 +492,18 @@
     "name": "Israeli voice radio",
     "country": "IL",
     "url": "https://icecast.live/ivr",
-    "codec": "mp3",
-    "bitrate": 192,
+    "codec": "aac",
+    "bitrate": 80,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07c8fe2a-af70-4b7e-8aee-2eabb89d9368",
       "IL:israeli-voice-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_149c260bca3baf6abd00",
@@ -603,25 +523,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
-    "id": "aws_86182dd4d127158224d5",
-    "stationId": "awb_68f416c5f811c3b13948",
-    "name": "Jewish Music Stream",
-    "country": "IL",
-    "url": "https://stream.jewishmusicstream.com:8000/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "006ffcf8-e541-11e8-a9cc-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:49:18Z"
   },
   {
     "id": "aws_483b29901880f9681ceb",
@@ -818,25 +719,6 @@
     "lastCheckedAt": "2026-11-06T14:56:29Z"
   },
   {
-    "id": "aws_67e61d168eb18a9b8f8b",
-    "stationId": "awb_7414d540316cc55d2d09",
-    "name": "Kcm FM Channel 01 Live",
-    "country": "IL",
-    "url": "https://media2.93fm.co.il/livemusic",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
     "id": "aws_0c638e705460ab6a9c72",
     "stationId": "awb_10594d19ab0a52da714c",
     "name": "KHZ - רדיו קול הצפון",
@@ -934,25 +816,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:58:47Z"
-  },
-  {
-    "id": "aws_24bcc567424f68b48a67",
-    "stationId": "awb_20eaaf96d828181e3c99",
-    "name": "Mizrahit_Fm",
-    "country": "IL",
-    "url": "http://rs.mizrahit.fm:7777/arabellavie",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d55bf952-b767-426e-9376-e932f169f36e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:24:15Z"
   },
   {
     "id": "aws_d3dc916fa392d440ee79",
@@ -1170,25 +1033,6 @@
     "lastCheckedAt": "2026-11-06T10:21:53Z"
   },
   {
-    "id": "aws_02f3e6181e0683936d20",
-    "stationId": "awb_2a21739a8e612fc3be5b",
-    "name": "radio lev hamedina",
-    "country": "IL",
-    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "40bbb648-fa7b-469b-86bc-153f6b4aec54"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:38:04Z"
-  },
-  {
     "id": "aws_f91e312a80abe53aeb83",
     "stationId": "awb_4c71ca6aad9af90bef32",
     "name": "Radio Love Soft Romantic",
@@ -1280,11 +1124,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b5b9d7ed-2c9f-4f8a-98ac-440631f2b100",
-      "e1be6105-91ef-4190-80ec-f93928837323"
+      "b5b9d7ed-2c9f-4f8a-98ac-440631f2b100"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:33:49Z"
+    "lastCheckedAt": "2026-11-06T11:13:11Z"
   },
   {
     "id": "aws_94b0383c7159583db169",
@@ -2088,25 +1931,6 @@
     "lastCheckedAt": "2026-11-06T02:18:42Z"
   },
   {
-    "id": "aws_3f5940074c5d6aedcfea",
-    "stationId": "awb_84de9dbc8a24f6fff1bc",
-    "name": "Tel Aviv 102FM רדיו תל אביב",
-    "country": "IL",
-    "url": "https://102.livecdn.biz/102fm_aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "08993f63-44f2-4fa0-8541-99194d5fd838"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:08:40Z"
-  },
-  {
     "id": "aws_72fd14e548e90f3e8442",
     "stationId": "awb_edd3c8ed05ea39330569",
     "name": "TIMBR Radio",
@@ -2141,49 +1965,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b3513436-5e05-4627-ab3e-f365f8924e5f",
       "ceff7328-3fb5-4965-bad7-6bdab363d8f8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:40:51Z"
-  },
-  {
-    "id": "aws_1a93b82fd6d160d389b7",
-    "stationId": "awb_000f04661d0f9720a8bb",
-    "name": "toker",
-    "country": "IL",
-    "url": "https://live.toker.fm:6060/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a752591-4cc0-4949-bd5d-2fb2b1935cd3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:01:53Z"
-  },
-  {
-    "id": "aws_c1a945ef4cc58c5008bc",
-    "stationId": "awb_f63ef1b0b55952c553b9",
-    "name": "toker fm",
-    "country": "IL",
-    "url": "https://live.toker.fm:6060/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0285cac9-9f41-4a51-82ad-0ef6695f533a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
     "id": "aws_5dba93ed4104903910f4",
@@ -2266,25 +2051,6 @@
     "lastCheckedAt": "2026-11-05T21:16:26Z"
   },
   {
-    "id": "aws_0500f65b14abbad44b52",
-    "stationId": "awb_99c47421e51a70b4de4c",
-    "name": "Мессианское онлайн радио Орэну",
-    "country": "IL",
-    "url": "https://listen7.myradio24.com/orenu",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5597e254-6357-4e57-bf73-6320b5952258"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:07:26Z"
-  },
-  {
     "id": "aws_4763b89e9e61addf9dc2",
     "stationId": "awb_8c2472c9c86ccabdc95d",
     "name": "Мессианское радио Орэну",
@@ -2314,15 +2080,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1e95d61c-88ad-4d59-82b4-f512c2a45aa6",
       "IL:89-1fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c4ae3395a7425b6144fa",
@@ -2342,25 +2106,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:49:56Z"
-  },
-  {
-    "id": "aws_d63ee40118583c5697d6",
-    "stationId": "awb_9a7dca0f78e6f8444da9",
-    "name": "ברסלב פוריו: דעת רבנו",
-    "country": "IL",
-    "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ac65585-0443-4f95-8d67-f232ec5915a2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
   },
   {
     "id": "aws_b457d1e35f1b753156f1",
@@ -2420,25 +2165,6 @@
     "lastCheckedAt": "2026-11-06T02:18:42Z"
   },
   {
-    "id": "aws_c5a4fcaacf039a1cbf67",
-    "stationId": "awb_690aae3d04114faafdcb",
-    "name": "ברסלב פוריו: תורה וזימרה",
-    "country": "IL",
-    "url": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "38c81bbc-f8c3-4447-ae0e-ff8880017e04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:16Z"
-  },
-  {
     "id": "aws_c10611eaf2704eb71a97",
     "stationId": "awb_9a3a1e65a0a1837fcb21",
     "name": "גלגלצ - Glglz",
@@ -2487,34 +2213,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IL:galey-yisrael",
-      "c7a3001d-f31b-4f7a-90fe-ea4b689150e9"
+      "IL:galey-yisrael"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:38:44Z"
-  },
-  {
-    "id": "aws_232d3fcc520cf4b1f6ac",
-    "stationId": "awb_e755d2e3af54ce39dc81",
-    "name": "גלי צה\"ל",
-    "country": "IL",
-    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1fb7e37b-a0cb-4c70-a386-0b002de3bafe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:20:00Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_6bc237bdb053afe5264f",
@@ -2741,8 +2446,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "22cb6f71-ca0e-4f53-9093-c4760e646d2d",
-      "a757be45-799e-40b4-a23e-ee57ac55512b"
+      "22cb6f71-ca0e-4f53-9093-c4760e646d2d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:08:13Z"
@@ -2761,11 +2465,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1b9eafe1-e6e2-4e9a-8f64-281b6ae31665",
-      "6698d366-17a6-4969-a28e-185c8dc1f91b"
+      "7390f369-9957-4ec2-bd83-cb28bac23302"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
+    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_b6ba1b28cfd2fec87bd2",

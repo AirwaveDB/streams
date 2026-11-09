@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_7f102f7a627b60389624",
-    "stationId": "awb_618b34979cfcb845ecd7",
-    "name": "A'LO FM",
-    "country": "UZ",
-    "url": "http://tabassum.uz:9000/alo_low",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962c9786-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:43:10Z"
-  },
-  {
     "id": "aws_1663cd50e9833892e047",
     "stationId": "awb_68b3e472a7dd2145f954",
     "name": "alghad FM",
@@ -62,8 +43,8 @@
     "name": "Mars FM Uzbekistan",
     "country": "UZ",
     "url": "https://marsfm.uz/stream.php",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -73,7 +54,7 @@
       "5f23a96a-afda-40b4-881f-fef95d0328e5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_5f97bf562205424390de",

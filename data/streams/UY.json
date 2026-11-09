@@ -156,25 +156,6 @@
     "lastCheckedAt": "2026-11-06T16:03:21Z"
   },
   {
-    "id": "aws_71ed3bf5f94e03e1dd4a",
-    "stationId": "awb_4be0da55c935ef0c6937",
-    "name": "América FM 103.3",
-    "country": "UY",
-    "url": "http://emisiones.com.uy:8118/america",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d8d02a7e-3a08-4ce7-8343-a64a529666f8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
     "id": "aws_772ba674f7909d8be8ea",
     "stationId": "awb_7f05dcd69c0cf1b6801f",
     "name": "ARAPEY (AM 1450)",
@@ -285,11 +266,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4632db98-adcb-4e3a-9e8c-a887cee1554c",
-      "ea34b646-98d2-4a0c-9423-ae6fdd001737"
+      "4632db98-adcb-4e3a-9e8c-a887cee1554c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
+    "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
     "id": "aws_1b53abe6868f1b3405ff",
@@ -302,15 +282,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UY:babel",
-      "b88337cc-110c-45c9-a482-9138a393eaeb"
+      "UY:babel"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:38:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_af6e223069865bc15338",
@@ -383,11 +361,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5c9715f2-c513-4201-814b-8782eb088838",
-      "f56e8034-0284-4a45-a532-37fe7ae6fa17"
+      "5c9715f2-c513-4201-814b-8782eb088838"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
+    "lastCheckedAt": "2026-11-06T10:46:14Z"
   },
   {
     "id": "aws_03d0eea066994e55533f",
@@ -786,15 +763,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "96443c16-bb54-4437-964d-eef2d6f65239",
       "UY:del-sol-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:45:20Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_a906ff0d0bfc715bdd4c",
@@ -848,30 +823,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "15be12be-59a4-4919-8b50-e14c94ed9e66",
-      "29ac4355-f7dc-4f40-937d-40c758ade054"
+      "15be12be-59a4-4919-8b50-e14c94ed9e66"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
-  },
-  {
-    "id": "aws_dd06f4677a9243449bc8",
-    "stationId": "awb_ba475f9c09d518be84c7",
-    "name": "Difusora Treinta y Tres 1390 AM",
-    "country": "UY",
-    "url": "https://server-usa2.radioseninternet.net/8132/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "17d4fc6c-878d-4431-b48a-9774d183f31e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:31:00Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_ada4034a521a05063bf5",
@@ -884,15 +839,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "74cb6221-f1ad-45a3-99d1-34ecf7ad5a9b",
       "UY:el-espectador-810"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_2f95bfa5b3def364c1b0",
@@ -912,25 +865,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T10:21:00Z"
-  },
-  {
-    "id": "aws_68de2eac3631f7bc4441",
-    "stationId": "awb_baf9e00b98d5284c9311",
-    "name": "El Libertador 1210 AM",
-    "country": "UY",
-    "url": "https://streamingraddios.online/proxy/llamadad?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 45,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e70c41b-acac-4ab5-a3c0-ca56b9279635"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_46f4362388949bc6d136",
@@ -962,15 +896,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UY:emisora-del-sur",
-      "f4319198-0aef-47b1-a95f-6c0df8e30871"
+      "UY:emisora-del-sur"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:42:18Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e69dd109813df8c00422",
@@ -1085,25 +1017,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:05:00Z"
-  },
-  {
-    "id": "aws_9a9e720d770db7e9145a",
-    "stationId": "awb_6142b064cd0910c18667",
-    "name": "FM Azul",
-    "country": "UY",
-    "url": "https://azul-1.nty.uy/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b12f7b27-88d9-4ead-8130-b79735a56dc7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:04:41Z"
   },
   {
     "id": "aws_6e546ef83c891e8c1e5c",
@@ -1253,8 +1166,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1460042c-4f10-49f5-96a1-add6b66aa97c",
-      "UY:fm-hit-90-3-uruguay"
+      "UY:fm-hit-90-3-uruguay",
+      "c1fcf486-32a4-483d-b320-b18e8f0a93ce"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:32:27Z"
@@ -1278,7 +1191,7 @@
       "UY:fm-inolvidable-93-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:57:06Z"
+    "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
     "id": "aws_fc5891b3685875568aed",
@@ -1351,11 +1264,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "332b5af3-003a-48e6-8497-9b6ae1392adc",
-      "ff8d0f79-1fe6-4d61-945f-ece68cf27aab"
+      "332b5af3-003a-48e6-8497-9b6ae1392adc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
+    "lastCheckedAt": "2026-11-06T11:55:06Z"
   },
   {
     "id": "aws_d500219c0539cd03be26",
@@ -1583,7 +1495,7 @@
       "6fbd5b7d-5350-423d-bd3c-d7a9d64e5c56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_d23172970e565222f233",
@@ -1742,26 +1654,6 @@
     "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
-    "id": "aws_24a23a7fbb3c39779438",
-    "stationId": "awb_55ed16dd620574ab1697",
-    "name": "Metropolis Punta 95.9",
-    "country": "UY",
-    "url": "https://metropolis-web-1.nty.uy/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e85f8bca-0c5a-4dea-841f-4187e1138957",
-      "faf37379-c155-4afb-9908-35e8a3b25c7b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:05Z"
-  },
-  {
     "id": "aws_2ada5d39b59f7376971e",
     "stationId": "awb_525f880e2abca6b6c90f",
     "name": "Multimedios Rincón AM 1510 - Fray Bentos",
@@ -1794,7 +1686,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b3240664-f82b-41e6-b81f-e6cf805cdab9",
       "b65915bf-7400-4c6e-9972-f18f7d6f71e5"
     ],
     "lastCheckOk": true,
@@ -1818,25 +1709,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:02:01Z"
-  },
-  {
-    "id": "aws_578ecf4542512f194d7e",
-    "stationId": "awb_7464c0fee2b230018abb",
-    "name": "mundo fm uruguay",
-    "country": "UY",
-    "url": "http://emisiones.com.uy:8088/mundo",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "18087743-12ee-4146-b489-06de52475956"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:31:06Z"
   },
   {
     "id": "aws_c0ec0d79c5b53448080d",
@@ -1915,25 +1787,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:43:20Z"
-  },
-  {
-    "id": "aws_de6a1ab6700f5eb1cd3d",
-    "stationId": "awb_f8e3931cf1eb7140ba74",
-    "name": "Oldies FM",
-    "country": "UY",
-    "url": "https://hit-1.nty.uy/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0a10c9c-bbd9-42e8-9434-5adce44abb20"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:01:25Z"
   },
   {
     "id": "aws_547a2e86f3e3057d5f32",
@@ -2031,25 +1884,6 @@
     "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
-    "id": "aws_8ed713b3f73d79889bc8",
-    "stationId": "awb_4a6ccc6e6d6ae03533d0",
-    "name": "Radio Arapey",
-    "country": "UY",
-    "url": "http://emisiones.com.uy:8085/arapey",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c982f62f-5107-4741-9317-ed1b4d2d72eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
     "id": "aws_adfb32ba82c9034e275c",
     "stationId": "awb_6458f1de17df4717f381",
     "name": "Radio Carmelo",
@@ -2071,25 +1905,6 @@
     "lastCheckedAt": "2026-11-06T16:57:06Z"
   },
   {
-    "id": "aws_e0ba361fe9f70af77094",
-    "stationId": "awb_ac18f26154f4207d9826",
-    "name": "Radio Carve",
-    "country": "UY",
-    "url": "https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4a4c75d9-1824-445d-ac9a-be822de46934"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:33:49Z"
-  },
-  {
     "id": "aws_8884375e65cacecb78e9",
     "stationId": "awb_e773c9b342f82ddf1b5b",
     "name": "Radio Chiveo",
@@ -2103,8 +1918,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "66edf56c-88c7-448b-bbe0-e7273ed33a36",
-      "79666604-0028-4b8b-9c56-21817a9de438"
+      "66edf56c-88c7-448b-bbe0-e7273ed33a36"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:38:04Z"
@@ -2165,25 +1979,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:19:26Z"
-  },
-  {
-    "id": "aws_e1d5a2fb9c43b3d9a052",
-    "stationId": "awb_14e39cf61c0358d3709e",
-    "name": "Radio Cultura 1290 AM",
-    "country": "UY",
-    "url": "https://radios.iwstreaming.uy/8034/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "483af4b4-eaeb-4bb7-8a89-533973eb8e08"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
   },
   {
     "id": "aws_ce3a717c504eca526d94",
@@ -2661,7 +2456,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3bb3e61f-d17c-4ad5-b68f-49c77e2eca36",
       "59f0d41a-0583-4fe4-ad48-249af3ea1789"
     ],
     "lastCheckOk": true,
@@ -2705,7 +2499,7 @@
       "a761dfd0-e639-42f8-872e-45a3ffb1dee1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_a75260204b2adf4f5330",

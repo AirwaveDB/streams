@@ -131,8 +131,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e6966fa8-8fa6-49fc-bc37-0de3763ba6ad",
-      "e81caf1f-5049-48ad-99b7-b5ebdd03d3f3"
+      "f040eba8-1cef-45e7-a20d-8134bb5ea7e8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:38:58Z"
@@ -157,27 +156,6 @@
     "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
-    "id": "aws_1c8fec2fdaaa85031687",
-    "stationId": "awb_bc010959ee882ed23f19",
-    "name": "Radio Amra",
-    "country": "GE",
-    "url": "https://streamer.radio.co/s34b5469e0/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "GE:radio-amra",
-      "ae185e7b-b269-4cc7-a3a4-93fd46334145"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
-  },
-  {
     "id": "aws_394f44c04771c87ea4b6",
     "stationId": "awb_f2b08aa5354b577e6e90",
     "name": "Radio Amra",
@@ -195,6 +173,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:59:26Z"
+  },
+  {
+    "id": "aws_1c8fec2fdaaa85031687",
+    "stationId": "awb_bc010959ee882ed23f19",
+    "name": "Radio Amra",
+    "country": "GE",
+    "url": "https://streamer.radio.co/s34b5469e0/listen",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "GE:radio-amra"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_34fbe65e13c477631f1c",
@@ -216,25 +213,6 @@
     "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
-    "id": "aws_510381736b8b71a68fcb",
-    "stationId": "awb_9f627556a70439bd573d",
-    "name": "Tbilisi FM 93,5",
-    "country": "GE",
-    "url": "http://iis.ge:8000/radiotbilisi.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "edcb2243-5ffe-11e9-a622-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:55:06Z"
-  },
-  {
     "id": "aws_6e31d79b461d8f18f780",
     "stationId": "awb_ea351e62cee9d6ff19f0",
     "name": "Vikentis Radio",
@@ -248,11 +226,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "406e74cf-2897-442e-a4f1-1c300583fdc1",
-      "6ac0a3a5-a543-4aae-91d4-65881ac0095f"
+      "406e74cf-2897-442e-a4f1-1c300583fdc1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
+    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_493d31190bb72ddecd2f",
@@ -260,20 +237,18 @@
     "name": "WVFJ 93.3 & 102.1 The JOY FM",
     "country": "GE",
     "url": "https://rtn.cdnstream1.com/2576_96.aac?rand=81562",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GE:wvfj-93-3-102-1-the-joy-fm",
-      "df94cddb-b728-4cd2-a81b-34c9dc916812"
+      "GE:wvfj-93-3-102-1-the-joy-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:00:54Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_40ee74a3e0fa81da8ea1",
@@ -333,25 +308,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:59:46Z"
-  },
-  {
-    "id": "aws_39315ee56f9d2be30d14",
-    "stationId": "awb_5263350a67e5c3d8ee52",
-    "name": "არდაიდარდო",
-    "country": "GE",
-    "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "48c265ba-4102-4b16-95c1-a4f494bb48cd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
   },
   {
     "id": "aws_c43e519d0c169a86b5e3",

@@ -19,25 +19,6 @@
     "lastCheckedAt": "2026-11-06T18:50:59Z"
   },
   {
-    "id": "aws_8a245cb9d3e2b8244f5a",
-    "stationId": "awb_660199a94dd38ad0960c",
-    "name": ". مختصر السيرة",
-    "country": "SA",
-    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "367578fd-4670-4956-8699-4d12c962b292"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
-  },
-  {
     "id": "aws_9227f98f926161d6bed3",
     "stationId": "awb_990225e2fc4ce735bf9e",
     "name": ".Quran radio",
@@ -48,34 +29,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "552ad30a-31e0-4c2c-82f0-7f01bc9e9a13",
       "SA:quran-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:38:32Z"
-  },
-  {
-    "id": "aws_cf7ff04d9dcc148ba54e",
-    "stationId": "awb_bd86dc9f1dffc3ba28c9",
-    "name": ".صور من حياة الصحابة",
-    "country": "SA",
-    "url": "https://qurango.net/radio/sahabah",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da683ec8-2878-4783-827a-60ae2353016b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_bf28f0431eed3670d0ae",
@@ -107,15 +67,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:101-7-your-love-fm",
-      "ef1cef4a-0f82-4111-bed3-824b88b688a8"
+      "SA:101-7-your-love-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ea72ccfe7eed14926285",
@@ -123,39 +81,18 @@
     "name": "105.5 AFN RADIO ONE",
     "country": "SA",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:105-5-afn-radio-one",
-      "ab303ef0-d1a8-415e-9f61-8c747c0a01dd"
+      "SA:105-5-afn-radio-one"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
-  },
-  {
-    "id": "aws_7edba0268feee8112901",
-    "stationId": "awb_dc7a8525f672ec3855f2",
-    "name": "105.5 SKY ABC RADIO",
-    "country": "SA",
-    "url": "https://cast.skyradio105.com/proxy/skyradio105/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ef6d095-90be-47b4-bf0c-578eabbc0cea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:08Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_2cf1a9196cb803839cc7",
@@ -168,15 +105,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:105-5-soft-rock-fm-ksa",
-      "cb9bf933-c60b-4eae-a1a7-b583dcde3877"
+      "SA:105-5-soft-rock-fm-ksa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:05:01Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_7128e12c12cfe4e6fafb",
@@ -192,8 +127,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5ddbb662-f662-49c6-b570-cd2b3dfd2ba1",
-      "74852070-0466-4fea-9a57-8cfd3eb18e1c"
+      "8e41a0f5-a573-4cc6-818d-e1468c1e54e0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:38:27Z"
@@ -216,25 +150,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:02:37Z"
-  },
-  {
-    "id": "aws_6f1e4fbac58776797022",
-    "stationId": "awb_def4a20edf7df2cb4ece",
-    "name": "90.5 Heart FM",
-    "country": "SA",
-    "url": "https://radio.905heartfm.com:8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8d60a4f-79f8-4cc8-a50f-ec274f634259"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:11:47Z"
   },
   {
     "id": "aws_75a35d464b209da73607",
@@ -334,25 +249,6 @@
     "lastCheckedAt": "2026-11-06T02:29:18Z"
   },
   {
-    "id": "aws_bae963677f329768f8ac",
-    "stationId": "awb_a8343a6cdfea643c82ac",
-    "name": "BBC Arabic 1413 AM",
-    "country": "SA",
-    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8b570e8d-6562-4139-8bfc-00fd540c98fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
     "id": "aws_516d158c6772a8488e95",
     "stationId": "awb_6037ca96df5d07477d2e",
     "name": "Bestfriend FM 107.1",
@@ -370,44 +266,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:20:52Z"
-  },
-  {
-    "id": "aws_04473d09f25d76c4e4a6",
-    "stationId": "awb_a37292c27326f1fca261",
-    "name": "Bestfriend FM 91.1",
-    "country": "SA",
-    "url": "https://stream-47.zeno.fm/ewvmpjn7kultv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d70deed6-c3a1-44f3-9a5c-741b7bd855be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:37:20Z"
-  },
-  {
-    "id": "aws_93f2926ecfa80204aca8",
-    "stationId": "awb_fe34e86ea6e415f1111a",
-    "name": "Comedy Radio KSA 990 AM",
-    "country": "SA",
-    "url": "http://s3.voscast.com:8454/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0e6e9ed7-7ba6-4a84-bb5e-c0c6ef6a203b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:08:01Z"
   },
   {
     "id": "aws_8d0fd222ab06e4aff021",
@@ -429,63 +287,6 @@
     "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
-    "id": "aws_604960e3156042df3e9d",
-    "stationId": "awb_abc9f0ebd5ef39b683fa",
-    "name": "Energy Radio KSA 80s",
-    "country": "SA",
-    "url": "https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c02a378-2783-41e1-8d8f-73fe056ad281"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
-  },
-  {
-    "id": "aws_ff40ff5c16019a220f3c",
-    "stationId": "awb_716367e4e3fbf82cf69d",
-    "name": "Energy Radio KSA 90s",
-    "country": "SA",
-    "url": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "032344bc-e0fd-4c14-95e7-732454681bd9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:04:07Z"
-  },
-  {
-    "id": "aws_8353d5da136ed439f643",
-    "stationId": "awb_027f92fed14ec8f70ea3",
-    "name": "Favradio FM 101.5",
-    "country": "SA",
-    "url": "http://stream.hornhost.com:8109/",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "43a9ca41-9303-489e-ac1d-f32d4183908a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:40:45Z"
-  },
-  {
     "id": "aws_5a6e1fc05f94ccdf3f2a",
     "stationId": "awb_f3fe6219dae0a5c0a4d6",
     "name": "Fred Film Radio(لغة عربية)",
@@ -505,25 +306,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_540ed816587471c703db",
-    "stationId": "awb_f04d97d893625c67b459",
-    "name": "Galaxy FM KSA 99.9",
-    "country": "SA",
-    "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31ee6dd6-58c5-4021-87c7-0a33064538da"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
   },
   {
     "id": "aws_53eb9e2b3d2e0e4f4f2b",
@@ -603,7 +385,7 @@
       "SA:jeddah"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
+    "lastCheckedAt": "2026-11-06T05:04:18Z"
   },
   {
     "id": "aws_f72895c58af82bfc371f",
@@ -642,25 +424,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:32:09Z"
-  },
-  {
-    "id": "aws_a519c5e7abe8feccf735",
-    "stationId": "awb_68a5f6aeb65691f09801",
-    "name": "KSA Dance FM 103.6",
-    "country": "SA",
-    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23608c81-ac1e-4ed6-ac58-b3dfd3a2976f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
   },
   {
     "id": "aws_59fc1d35067671ac094d",
@@ -720,25 +483,6 @@
     "lastCheckedAt": "2026-11-06T16:57:46Z"
   },
   {
-    "id": "aws_309e899033dcf6eccdca",
-    "stationId": "awb_74aea7add16308da1873",
-    "name": "Maura Radio (AR) ✨",
-    "country": "SA",
-    "url": "https://stream.zeno.fm/fpasc3up26ptv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "82c30144-b1e7-49e2-b8af-a2bc053bf4d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:21:16Z"
-  },
-  {
     "id": "aws_eea52aee1bf1df6580f7",
     "stationId": "awb_645472cbd8c48d6288b4",
     "name": "MBC FM",
@@ -758,25 +502,6 @@
     "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
-    "id": "aws_ad8005a0dd9701877aad",
-    "stationId": "awb_36bfd02ce4f0ca8a91f4",
-    "name": "MBC Loud",
-    "country": "SA",
-    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0",
-    "codec": "aac",
-    "bitrate": 211,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "77ffc639-bb43-4c06-a494-64fe6d5d184f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:30:27Z"
-  },
-  {
     "id": "aws_5b7dad7bd786d5cadbe6",
     "stationId": "awb_36bfd02ce4f0ca8a91f4",
     "name": "MBC Loud",
@@ -794,25 +519,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
-    "id": "aws_00a5193c80ef908dc06c",
-    "stationId": "awb_f9f3dbbfbdc19e9dfbac",
-    "name": "MBC Loud 94.3 FM",
-    "country": "SA",
-    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0",
-    "codec": "aac",
-    "bitrate": 211,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8408637a-25ce-439f-92fc-85de651f568d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
   },
   {
     "id": "aws_03e32f2f067565968f91",
@@ -863,15 +569,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:mp3quran-main",
-      "e9744b90-2619-4a0c-93b4-5996e213068a"
+      "SA:mp3quran-main"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:15:31Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_801c4290d1f6b130efe6",
@@ -884,34 +588,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:mp3quran-tarateel",
-      "e4120f3d-ff45-4bfb-a6fd-2746bd00db64"
+      "SA:mp3quran-tarateel"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:13:57Z"
-  },
-  {
-    "id": "aws_ece7fcdaf526a338cf8f",
-    "stationId": "awb_be514d03e2aeb13e7d12",
-    "name": "NPR News Radio 107.7 FM",
-    "country": "SA",
-    "url": "http://npr-ice.streamguys1.com/live.aac",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2e5b99e-424b-4ac2-bf13-b4840fe91aee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:10:09Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4c5ed9d14e9319e48545",
@@ -1011,25 +694,6 @@
     "lastCheckedAt": "2026-11-06T12:51:38Z"
   },
   {
-    "id": "aws_199fab75a351645dd1de",
-    "stationId": "awb_e09277f7922d62abe558",
-    "name": "RadioSunna",
-    "country": "SA",
-    "url": "http://andromeda.shoutca.st:8189/stream",
-    "codec": "mp3",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "344e6e4e-a7b3-11e8-a8ed-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:12Z"
-  },
-  {
     "id": "aws_2ffcbff2fc20a57fe2bd",
     "stationId": "awb_0ed9fd234087b33f9f64",
     "name": "Remix S-DJ",
@@ -1081,7 +745,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c3eb7a69-e0d0-47ea-b39c-75515fc10010",
       "d5fed048-5afd-4f94-bed5-7377ba8d6c38"
     ],
     "lastCheckOk": true,
@@ -1098,15 +761,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:saudi-aramco-studio-x-80s-and-90s",
-      "a29ea7e1-86d9-429f-8e2b-d5ddfc928071"
+      "SA:saudi-aramco-studio-x-80s-and-90s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e1544b44bf39aadd5fbc",
@@ -1128,25 +789,6 @@
     "lastCheckedAt": "2026-11-06T01:55:46Z"
   },
   {
-    "id": "aws_019f3f60a5132e43f13a",
-    "stationId": "awb_f897a40620e39a5257f5",
-    "name": "Saudia Radio 103.6 FM",
-    "country": "SA",
-    "url": "https://stream-154.zeno.fm/t4ww4awfps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NHd3NGF3ZnBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNBdnJYelp3U1lpQXFTVFhUQnl5cFEiLCJpYXQiOjE3MzAwNzg1MjIsImV4cCI6MTczMDA3ODU4Mn0.LEUzajNGq4k3Pg9DNiLJxBJMX6rUnMsSQpB12mhw4IQ",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "865e190f-fcf1-4a0b-9195-f476d132e1db"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
-  },
-  {
     "id": "aws_f6bb389e6855743e8051",
     "stationId": "awb_be73c37b1558a58bad49",
     "name": "Saudia Radio 87.7 FM",
@@ -1164,25 +806,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:15:31Z"
-  },
-  {
-    "id": "aws_27f843e8dc9e826a2ab2",
-    "stationId": "awb_67e94b0be3a907ce1d22",
-    "name": "Saudia Radio 87.7 FM",
-    "country": "SA",
-    "url": "https://stream-154.zeno.fm/t4ww4awfps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NHd3NGF3ZnBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNBdnJYelp3U1lpQXFTVFhUQnl5cFEiLCJpYXQiOjE3MzAwNzg1MjIsImV4cCI6MTczMDA3ODU4Mn0.LEUzajNGq4k3Pg9DNiLJxBJMX6rUnMsSQpB12mhw4IQ",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b715398c-94bc-4d42-9d1c-d409784554f9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:30:58Z"
   },
   {
     "id": "aws_fb0045111aedddcfda7f",
@@ -1204,25 +827,6 @@
     "lastCheckedAt": "2026-11-06T16:57:06Z"
   },
   {
-    "id": "aws_ae6bebbdfb821ed04014",
-    "stationId": "awb_f340292ddaa386f00c26",
-    "name": "Saudia Radio 97.0 FM",
-    "country": "SA",
-    "url": "https://stream-154.zeno.fm/t4ww4awfps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NHd3NGF3ZnBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNBdnJYelp3U1lpQXFTVFhUQnl5cFEiLCJpYXQiOjE3MzAwNzg1MjIsImV4cCI6MTczMDA3ODU4Mn0.LEUzajNGq4k3Pg9DNiLJxBJMX6rUnMsSQpB12mhw4IQ",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c9e2980-e374-433a-959d-64f6bbfc4b45"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:01:53Z"
-  },
-  {
     "id": "aws_0161230139b6bdcf71d4",
     "stationId": "awb_a4e76d0770b6640a48f6",
     "name": "SBA Jeddah Radio 96.2 FM",
@@ -1240,82 +844,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:45:47Z"
-  },
-  {
-    "id": "aws_f127480d881cd093b3ec",
-    "stationId": "awb_a4e76d0770b6640a48f6",
-    "name": "SBA Jeddah Radio 96.2 FM",
-    "country": "SA",
-    "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0f2d6f6a-8e38-4daf-99f5-040de7d979f4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
-  },
-  {
-    "id": "aws_d0099c761006ae16c9fe",
-    "stationId": "awb_c14b24bda34b9f290734",
-    "name": "SBA Jeddah Radio 98.0 FM",
-    "country": "SA",
-    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "01de6ee5-6bd9-43c3-95b4-110b80a79c16"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_e5e90f3d7cb92d58545d",
-    "stationId": "awb_e18bb11b619beedc01ea",
-    "name": "SBA Khuzama Radio 90.5 FM",
-    "country": "SA",
-    "url": "https://ais-sa3.cdnstream1.com/2607_128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964edcae-4776-4d59-8e50-f2d27e0a80e2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:55Z"
-  },
-  {
-    "id": "aws_078d920604686cb82acf",
-    "stationId": "awb_d4d5621525e633adb789",
-    "name": "SBA Radio Call Of Islam 107.5 FM",
-    "country": "SA",
-    "url": "http://104.7.66.64:8010/;?icy=http",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e1d85f39-df4d-4e56-a789-a0773b7dda69"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:28:02Z"
   },
   {
     "id": "aws_9fc52d89cef0e09a1670",
@@ -1366,110 +894,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8ce5d168-d086-4761-b018-712c29412b9c",
       "SA:sba-saudia-radio-103-6-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
-    "id": "aws_11019652de9f4536d0fe",
-    "stationId": "awb_c0460bf7905d1de06e17",
-    "name": "SBA Saudia Radio 87.7 FM",
-    "country": "SA",
-    "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7e7b4e70-395b-4b4a-95c0-ff424515fad8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:55:46Z"
-  },
-  {
-    "id": "aws_de8b1e067380fcfb0e60",
-    "stationId": "awb_f11fb0847260ac6ca63a",
-    "name": "SBA Saudia Radio 96.2 FM",
-    "country": "SA",
-    "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a6d2a19f-3af3-4218-91f2-9b6b1089b8b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:56Z"
-  },
-  {
-    "id": "aws_a491059eb84df95358a5",
-    "stationId": "awb_f00b2fcc6fe0ecb088a8",
-    "name": "SBA Saudia Radio 97.0 FM",
-    "country": "SA",
-    "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a068e544-edd2-4d5e-8a7c-e7fed1ecd411"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:48:16Z"
-  },
-  {
-    "id": "aws_05109f993cbb161b12b6",
-    "stationId": "awb_05b8e9e79c3fb8a6ec5a",
-    "name": "Sky ABC Radio 95.1 FM",
-    "country": "SA",
-    "url": "https://cast.skyradio105.com/proxy/skyradio105/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36b7f00d-3635-47c8-adea-05afb589a32b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:05:50Z"
-  },
-  {
-    "id": "aws_cc870321175d0037fce4",
-    "stationId": "awb_20e0b49adfd71c9e5dae",
-    "name": "Sky ABC Radio 96.6 FM",
-    "country": "SA",
-    "url": "https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpeXNxZDN3dWozOHV2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Im1ieUJHT0lOVC1HSXllSFlGbG5KRXciLCJpYXQiOjE3NzgxNjAwMDMsImV4cCI6MTc3ODE2MDA2M30.xYqjN-KICXfpgsxWdN_Ae3gaNqpRsTdELgTkBOVutmg",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7385669d-fb03-4555-a21f-e2283e0c648c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ad2cebd16ad02656ac80",
@@ -1482,15 +913,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:skyradio-105-5-fm",
-      "df527dd6-26df-490f-85a6-c2cbbbc68a58"
+      "SA:skyradio-105-5-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_d970092ba480e38af8d7",
@@ -1510,25 +939,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:36:05Z"
-  },
-  {
-    "id": "aws_526f43cb0b5834328bae",
-    "stationId": "awb_3ecbb16cf251ae31945d",
-    "name": "TFC Middle East HD",
-    "country": "SA",
-    "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8",
-    "codec": "aac",
-    "bitrate": 1872,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b168ab54-fb83-4085-8ae7-7f439d67b33b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
     "id": "aws_30b6cbcadcc5e3aa9377",
@@ -1562,15 +972,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "417daa39-80fb-4163-a9ad-c1c8ff407efd",
       "SA:ufm-ksa-80s-95-5-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:11:32Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_892762ae539fcbb45968",
@@ -1583,15 +991,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:ufm-ksa-90s-105-9-fm",
-      "e0cc94b7-bc01-4c0f-9c0b-bc3e795bd1ca"
+      "SA:ufm-ksa-90s-105-9-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_6658238cb97d6c0de071",
@@ -1620,39 +1026,18 @@
     "name": "V81 Radio KSA 101.8 FM",
     "country": "SA",
     "url": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:v81-radio-ksa-101-8-fm",
-      "d9adea50-6e76-4ab0-8f1e-12258c823615"
+      "SA:v81-radio-ksa-101-8-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:31:19Z"
-  },
-  {
-    "id": "aws_392a58e617ab9d77d6de",
-    "stationId": "awb_3d92358ab17116f08885",
-    "name": "V81 Radio KSA 94.3 FM",
-    "country": "SA",
-    "url": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7665301a-713c-4f0a-8fa0-777e69f27b5d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_36a91f8c1f3507ed5c2d",
@@ -1665,34 +1050,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "SA:voice-of-grace",
-      "c5930a83-8319-484b-a76f-ca4a10387ef1"
+      "SA:voice-of-grace"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
-  },
-  {
-    "id": "aws_c5571de78022e1146221",
-    "stationId": "awb_76d32a046d499c2f05b0",
-    "name": "W / ʙʏ _MX2",
-    "country": "SA",
-    "url": "https://stream.zeno.fm/rduelmumm6buv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "65293dbc-0216-483d-8c4c-6d66808f5454"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_3a113fdb1ab8a7e6a8dc",
@@ -1716,25 +1080,6 @@
     "lastCheckedAt": "2026-11-06T21:31:00Z"
   },
   {
-    "id": "aws_14f03fdd093edf50adc4",
-    "stationId": "awb_20212c0e00ea6094a5d1",
-    "name": "إذاعة السنة",
-    "country": "SA",
-    "url": "http://andromeda.shoutca.st:8189/live",
-    "codec": "mp3",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9644efa9-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:14:14Z"
-  },
-  {
     "id": "aws_edc556bde90ef27bd709",
     "stationId": "awb_4b69a8fa026a6bd6a555",
     "name": "إذاعة القرآن الكريم (مكة المكرمة)",
@@ -1745,15 +1090,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5c2e9722-be4e-40b5-9ece-3ae2d4c36ffe",
       "SA:mixlr"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f6a55510fc533cffb232",
@@ -1794,6 +1137,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:42:42Z"
+  },
+  {
+    "id": "aws_38b6e114eec71b45633e",
+    "stationId": "awb_ecc9356f53cb7c897217",
+    "name": "ترتيل القرآن الكريم",
+    "country": "SA",
+    "url": "http://usa3.fastcast4u.com:3826/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ccf61b74-3c5c-4c53-a61f-0cfa4719be52"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_55b2cdfff63d74f18697",

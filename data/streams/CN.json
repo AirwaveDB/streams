@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_b97a4800b88fa13fed96",
-    "stationId": "awb_1ea34b0863da984e748f",
-    "name": "_Wawa Radio 101.2 FM",
-    "country": "CN",
-    "url": "https://xn--tmz.xn--6frz82g/streams",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6bbdc0b4-c170-4f13-87e6-2ac944b25842"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
-  },
-  {
     "id": "aws_dde43dd6ceb8f66cf513",
     "stationId": "awb_ab5bf9b08c637e3a339c",
     "name": ".Quran",
@@ -36,25 +17,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
-  },
-  {
-    "id": "aws_46aa715b6da88b64b795",
-    "stationId": "awb_2dcce6cb244ddee7c2fc",
-    "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6cd64df1-25ac-4185-9635-072973d95e8b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
     "id": "aws_058c8407b785987f5723",
@@ -143,35 +105,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "815f20d0-3ecd-49d2-8449-9725e82b5f64",
       "CN:500"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_c13b06e581f1e4787d8c",
-    "stationId": "awb_bbd128f043adaacdae3c",
-    "name": "500首华语经典",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/5022308/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0dcd805d-3cbc-4a91-9f34-e42d18eaa997",
-      "566da273-5165-4a17-91ab-5ea06caeba5a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:44:15Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_051d4c067e90e94e8151",
@@ -349,25 +289,6 @@
     "lastCheckedAt": "2026-11-06T11:31:33Z"
   },
   {
-    "id": "aws_552541e1898e2c2ae759",
-    "stationId": "awb_a3d5848ced45b43d0f43",
-    "name": "9527",
-    "country": "CN",
-    "url": "https://stream.zeno.fm/ijdx5orz8wqvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e8c1d8da-9434-487e-864b-dda41364f21a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:32:05Z"
-  },
-  {
     "id": "aws_95c9262040fc6469ea6b",
     "stationId": "awb_034a2ea01c4dbe24d697",
     "name": "A Radio for OST",
@@ -404,25 +325,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:31:20Z"
-  },
-  {
-    "id": "aws_c48a560a87d7185a0900",
-    "stationId": "awb_f765c0f9182861c11696",
-    "name": "AisaFM亚洲粤语台",
-    "country": "CN",
-    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d84ba969-f1a3-49ef-830a-bd38e57c8e83"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:17:17Z"
   },
   {
     "id": "aws_b11ec37ea843250a7711",
@@ -541,26 +443,6 @@
     "lastCheckedAt": "2026-11-06T20:30:44Z"
   },
   {
-    "id": "aws_5f0eff8c62e8f0745993",
-    "stationId": "awb_ae1db1086bcf0c6a6e87",
-    "name": "AsiaFM",
-    "country": "CN",
-    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "84d16c49-0056-4a20-8c93-01f7e54e6efe",
-      "b1553c73-2c78-4d71-b6ed-69d8d7f6b9ab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
-  },
-  {
     "id": "aws_50e0069d21ac28bc08e6",
     "stationId": "awb_a92d5e3ad6993aa96dba",
     "name": "AsiaFM HD音乐台【HTTPS】",
@@ -599,25 +481,6 @@
     "lastCheckedAt": "2026-11-06T03:14:51Z"
   },
   {
-    "id": "aws_7d0306cb7e29e5e8cbb5",
-    "stationId": "awb_9bfc646beb277ba2f736",
-    "name": "AsiaFM 亚洲天空台【2023.10.18】",
-    "country": "CN",
-    "url": "http://funradio.cn:8000/funradio",
-    "codec": "aac+",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2cff8955-796f-45d2-861c-1dddb892c74a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
-  },
-  {
     "id": "aws_1634c5c5fb03ada9dacb",
     "stationId": "awb_cdcc67217eb10c77d65f",
     "name": "AsiaFM 亚洲热歌台【2023.10.17】",
@@ -631,7 +494,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bcda24c8-20d5-4071-9c02-75c8bd20c650",
       "c0007358-2609-41e4-a1f0-ddef3f92f3a8"
     ],
     "lastCheckOk": true,
@@ -648,15 +510,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CN:asiafm",
-      "f3638a83-ac26-4b05-b0b9-0245b023ae0f"
+      "CN:asiafm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:31:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_66dc3a3891b9fdd4e8d6",
@@ -716,44 +576,6 @@
     "lastCheckedAt": "2026-11-06T19:40:55Z"
   },
   {
-    "id": "aws_2af4dbfa1de32ee73387",
-    "stationId": "awb_7e253c043e5b2f972d1c",
-    "name": "AsiaFM亚洲天空台",
-    "country": "CN",
-    "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "446382be-19c3-44b3-bfa1-7dbbeb92af63"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:22:19Z"
-  },
-  {
-    "id": "aws_3900d8827038d0a22544",
-    "stationId": "awb_51f20be15ccc40730bd1",
-    "name": "AsiaFM亚洲经典台",
-    "country": "CN",
-    "url": "http://goldfm.cn:8000/goldfm",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "94b627b7-7b61-4478-b797-bcb21973c4bf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
-  },
-  {
     "id": "aws_13cc6a9ef13e7dff844d",
     "stationId": "awb_33a619acca736c0389c7",
     "name": "AsiaFM亚洲经典台",
@@ -773,25 +595,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
-    "id": "aws_299d8945eb7a7e698907",
-    "stationId": "awb_0e70cbf0f1d3151c1f9c",
-    "name": "AsiaFM亚洲经典台【192k】",
-    "country": "CN",
-    "url": "http://goldfm.cn:8000/goldfm",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "063db165-dc98-4a6b-8faf-850031d0cdb1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
     "id": "aws_a8f05ab443ba145e8d3b",
@@ -870,44 +673,6 @@
     "lastCheckedAt": "2026-11-07T00:22:55Z"
   },
   {
-    "id": "aws_95e0daafbc529288a2d8",
-    "stationId": "awb_a5546a20ed6949b74430",
-    "name": "AsiaFM高清音乐台",
-    "country": "CN",
-    "url": "http://asiafm.hk:8000/asiahd",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4599290-f353-478d-b920-7e057d049dd5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:56:04Z"
-  },
-  {
-    "id": "aws_4f6c95dc91858e447caf",
-    "stationId": "awb_a5546a20ed6949b74430",
-    "name": "AsiaFM高清音乐台",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/15318341/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e24911ed-c6a5-41f0-b0b1-d6f431f5a8c2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:42:40Z"
-  },
-  {
     "id": "aws_aab3ed413debae3c004a",
     "stationId": "awb_211c1b3e2b87dafeab96",
     "name": "Auto FM汽车联播网",
@@ -937,15 +702,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9d7f295c-ba89-4903-af7e-0e52b4a2051c",
       "CN:bbn"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:40:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4712ce7f97441fa475d7",
@@ -1315,25 +1078,6 @@
     "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
-    "id": "aws_9a5049ce56dfc022cf58",
-    "stationId": "awb_8e1dd5ee74a95903fb61",
-    "name": "Canton News Radio",
-    "country": "CN",
-    "url": "http://ls.qingting.fm/live/4848.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f067ee72-b81e-11e8-aaf2-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
-  },
-  {
     "id": "aws_b72ea0da00228c19c0d8",
     "stationId": "awb_da760ac79b68164972b5",
     "name": "Canton Traffic Radio",
@@ -1442,30 +1186,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0863581e-013e-465b-8db6-205bb29c217d",
       "984551df-e095-4ace-aa81-d86580f12749"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:03:00Z"
-  },
-  {
-    "id": "aws_c04f450059e8e104052c",
-    "stationId": "awb_e2526e3c9ba751cdf21d",
-    "name": "CCTV-13新闻伴音",
-    "country": "CN",
-    "url": "https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2bf82625-6e78-445d-afff-e51e53c369a9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
   },
   {
     "id": "aws_227a7709027a6240c669",
@@ -1924,25 +1648,6 @@
     "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
-    "id": "aws_db1f374b227f87b1d363",
-    "stationId": "awb_5584a5d998106ea9fdfb",
-    "name": "CGTN Radio",
-    "country": "CN",
-    "url": "https://sk.cri.cn/am846.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b15b81c9-9961-45a4-bb3f-b087a5881bf7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
-  },
-  {
     "id": "aws_ccb3bb23d6e1dd13264a",
     "stationId": "awb_fae2a727e83c9db276aa",
     "name": "CGTN Radio Français",
@@ -2076,25 +1781,6 @@
     "lastCheckedAt": "2026-11-06T01:02:16Z"
   },
   {
-    "id": "aws_825b648ae48fb74b0b3b",
-    "stationId": "awb_07061c99f115ed32bc65",
-    "name": "China Plus Radio",
-    "country": "CN",
-    "url": "http://sk.cri.cn/am846.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "698b3346-e26b-4c8b-874d-f5d13178901b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:27:04Z"
-  },
-  {
     "id": "aws_709107c031176ec76b2e",
     "stationId": "awb_9afa58ae222729b95f55",
     "name": "Chinese Classical Music (Mp3 stream)",
@@ -2105,34 +1791,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CN:chinese-classical-music-mp3-stream",
-      "e58589d8-a286-4d40-81b8-d5b345d100be"
+      "CN:chinese-classical-music-mp3-stream"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:01:36Z"
-  },
-  {
-    "id": "aws_cd07f271ad3d92dd242d",
-    "stationId": "awb_31788ddb8694bc2a78bd",
-    "name": "Chinese Classical Music (Ogg stream)",
-    "country": "CN",
-    "url": "https://radio.chinesemusicworld.com/chinesemusic.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7f1ccba3-9fa0-4636-afc1-91ac4d8f8cf5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:51:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_aad07febdd8c0f267fad",
@@ -2167,30 +1832,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4d0b4981-7a88-4f3b-a838-966d1bd7263b",
-      "e2fe33ad-87a6-4bca-bb2a-f051212c82c2"
+      "4d0b4981-7a88-4f3b-a838-966d1bd7263b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
-    "id": "aws_443fde36bd76ad776ee0",
-    "stationId": "awb_6f7bd8b5528d0345a400",
-    "name": "Chinese Music World",
-    "country": "CN",
-    "url": "https://radio.chinesemusicworld.com/chinesemusic.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "85600c22-79dd-465a-873a-bda637f95a8b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:36:05Z"
+    "lastCheckedAt": "2026-11-06T18:18:44Z"
   },
   {
     "id": "aws_0433f9ed950d7708d5d0",
@@ -2203,15 +1848,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CN:chinese-music-world",
-      "e6f08fdb-dd41-4dac-a01d-47a3d5c5ac35"
+      "CN:chinese-music-world"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:15:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0209e0aa2bd165ebdc18",
@@ -2230,7 +1873,7 @@
       "991c605f-ad55-4dcd-9437-544f1bc11a07"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_0f79a70df7a5228775b1",
@@ -2243,15 +1886,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1bc7f31f-da6b-424e-82a4-4d14c1d48699",
       "CN:cityfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_49509e7b7de6b2967b99",
@@ -2286,7 +1927,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "050db29a-6c07-4db8-a407-5dec7b1f0009",
       "c06b59ff-2e93-4805-83c6-22c35ce5a7ac"
     ],
     "lastCheckOk": true,
@@ -2310,25 +1950,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:01:38Z"
-  },
-  {
-    "id": "aws_0fd96780cb092d488662",
-    "stationId": "awb_56ea280e4a928755c838",
-    "name": "CNR-1 中国之声",
-    "country": "CN",
-    "url": "http://zbbf2.ahbztv.com/live/4f3.m3u8",
-    "codec": "unknown",
-    "bitrate": 229,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4a953750-49f8-46bb-a488-0e428cd7c232"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:18:42Z"
   },
   {
     "id": "aws_81f5f31e0ea08129f788",
@@ -2599,25 +2220,6 @@
     "lastCheckedAt": "2026-11-07T00:47:55Z"
   },
   {
-    "id": "aws_ee1743735928ab2db20a",
-    "stationId": "awb_08950f982ccd1beef175",
-    "name": "CNR-2 经济之声",
-    "country": "CN",
-    "url": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "431eb0c9-c84c-11e8-a54a-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:55:24Z"
-  },
-  {
     "id": "aws_f480c862fd6b0230db9d",
     "stationId": "awb_08950f982ccd1beef175",
     "name": "CNR-2 经济之声",
@@ -2789,63 +2391,6 @@
     "lastCheckedAt": "2026-11-06T16:29:06Z"
   },
   {
-    "id": "aws_4c3d186787334b310398",
-    "stationId": "awb_5e67b8d1093ee4075166",
-    "name": "CRI international radio",
-    "country": "CN",
-    "url": "https://sk.cri.cn/905.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59a882c5-29c8-4166-85f3-ddfc5043ff16"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:42:40Z"
-  },
-  {
-    "id": "aws_102b6dee0b36fcb3bb95",
-    "stationId": "awb_21d99e626f9880a47fdc",
-    "name": "CRI News Plus AM846",
-    "country": "CN",
-    "url": "http://sk.cri.cn/am846.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05d42f0f-5cf2-4f3b-8e84-8442d121e894"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:56:15Z"
-  },
-  {
-    "id": "aws_b6b59cd8fdd9075dc774",
-    "stationId": "awb_d8bff4aa097c6b83f74e",
-    "name": "CRI Voice of South China Sea",
-    "country": "CN",
-    "url": "http://sk.cri.cn/nhzs.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "90812afa-6fd4-11e8-83fa-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
-  },
-  {
     "id": "aws_4ab35d1c6a79f7101cc5",
     "stationId": "awb_d651853425e6dfe5b29c",
     "name": "CRI世界华声",
@@ -2884,25 +2429,6 @@
     "lastCheckedAt": "2026-11-06T17:37:20Z"
   },
   {
-    "id": "aws_4016552aa78a346af1ad",
-    "stationId": "awb_d3bb3b0397d6240fe23f",
-    "name": "CRI劲曲调频 HIT FM（成都）",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/15318703/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d646912c-2a33-4bc4-a867-5aa11f822d75"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:51Z"
-  },
-  {
     "id": "aws_7333a986466d1cc9da7b",
     "stationId": "awb_ed478aa1ea0adacabd1e",
     "name": "CRI南海之声",
@@ -2920,44 +2446,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:37:59Z"
-  },
-  {
-    "id": "aws_afa4546b56d1a6846ae3",
-    "stationId": "awb_e9129037522d81253a48",
-    "name": "CRI环球资迅广播",
-    "country": "CN",
-    "url": "https://sk.cri.cn/905.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ef678e2d-beea-40a2-b152-f73d57de4f52"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
-  },
-  {
-    "id": "aws_9f18731b8a65de45a75a",
-    "stationId": "awb_1a94db456ccbf4fe9e16",
-    "name": "CRI英语资讯广播 China Plus Radio",
-    "country": "CN",
-    "url": "http://sk.cri.cn/am846.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "acf7c318-9031-4763-930a-00a4b5a032ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
     "id": "aws_efc2d63a318ea45e393f",
@@ -3072,8 +2560,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4bb0e5c1-f388-44de-8c62-8de092c0177c",
-      "8697f839-0ff8-4726-899a-dc3381b8c8d1"
+      "4bb0e5c1-f388-44de-8c62-8de092c0177c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:43:25Z"
@@ -3174,25 +2661,6 @@
     "lastCheckedAt": "2026-11-06T06:12:35Z"
   },
   {
-    "id": "aws_e9f9f693951078e2b1be",
-    "stationId": "awb_17701351d871e14d1e52",
-    "name": "FM105平阳电台",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022624/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6fb8c73e-b429-4eb4-8a7b-8a9d8255bdc5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:09:40Z"
-  },
-  {
     "id": "aws_b9c0341d689963e78efb",
     "stationId": "awb_0024fc01eb8f42d29f67",
     "name": "FM89.8烟台汽车音乐广播",
@@ -3246,8 +2714,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1161a62c-1f08-4b3d-ba3b-da4a3ad9a288",
-      "8fb04794-26b5-418f-ae2d-4c4b9c52f497"
+      "1161a62c-1f08-4b3d-ba3b-da4a3ad9a288"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:44:15Z"
@@ -3327,8 +2794,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "30fdc8a9-d8d3-4964-a435-84005f2935f7",
-      "99b7d8fa-be02-4407-8c1d-9683d8f75302"
+      "30fdc8a9-d8d3-4964-a435-84005f2935f7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:56:15Z"
@@ -4401,7 +3867,7 @@
       "ed71e2a5-2f73-4150-b088-062b85089d68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_e8f5f243e833867aaa24",
@@ -4480,25 +3946,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:05:01Z"
-  },
-  {
-    "id": "aws_dd9b67a72a561de02332",
-    "stationId": "awb_cd630e65f965a0f52cf6",
-    "name": "Radio China Plus",
-    "country": "CN",
-    "url": "https://sk.cri.cn/am846.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "184505b8-d563-4876-b8e6-298a6516d03f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_af20d64d4299195c2dce",
@@ -4779,18 +4226,17 @@
     "country": "CN",
     "url": "https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
     "codec": "unknown",
-    "bitrate": 187,
+    "bitrate": 160,
     "protocol": "https",
     "hls": true,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "479ddfff-b6b5-4647-83ae-5c6a8528d98b",
       "81fe1ce4-b80d-4e1e-84a3-137c913b188d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
+    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_5762d6060f8b8ca8afa6",
@@ -4865,11 +4311,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "79c176d4-4bb2-11e8-a4d1-52543be04c81",
       "e879d91b-7a66-422c-9ab0-28820bd8a55c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:02:34Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_51962000cde0f4bf2f61",
@@ -5138,26 +4583,6 @@
     "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
-    "id": "aws_5dc2544acf73689d42b7",
-    "stationId": "awb_13dbc9b56cbb0cc3ddf2",
-    "name": "Siaoshan Cable Radio",
-    "country": "CN",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6ddec98e-348d-4504-99fa-3a77f5bd8f15",
-      "e55aa09d-e8dc-11e8-a471-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:40Z"
-  },
-  {
     "id": "aws_e0cd850bf59271d01513",
     "stationId": "awb_6e0fbaa75ef59a04871f",
     "name": "Siaoshan FM Radio",
@@ -5171,8 +4596,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "af8dcd37-9783-4b2b-95d8-1c0cb5b1b744",
-      "b5928a85-e8dc-11e8-a471-52543be04c81"
+      "af8dcd37-9783-4b2b-95d8-1c0cb5b1b744"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
@@ -5269,11 +4693,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "42b2e4c5-4bb0-11e8-a4d1-52543be04c81",
-      "a4bb69bb-a94a-4218-bb0a-c003f229a3b1"
+      "42b2e4c5-4bb0-11e8-a4d1-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:04Z"
+    "lastCheckedAt": "2026-11-06T08:34:42Z"
   },
   {
     "id": "aws_db3af765970db782f148",
@@ -5597,25 +5020,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:45:24Z"
-  },
-  {
-    "id": "aws_3af1324a9cf5903d04df",
-    "stationId": "awb_577f4fa56e7a494cb488",
-    "name": "V家电台·Vocaloid Radio",
-    "country": "CN",
-    "url": "http://curiosity.shoutca.st:8019/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5fbfc72e-840f-4596-832b-536d61c34e88"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
   },
   {
     "id": "aws_27c17374041c539a98cc",
@@ -6125,11 +5529,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2b5cfb04-13e5-11e9-a80b-52543be04c81",
-      "dc50e136-c924-4f93-aa8e-4fd0db8306b1"
+      "2b5cfb04-13e5-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:41:28Z"
+    "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
     "id": "aws_0e49a3958e591ad321a3",
@@ -6149,44 +5552,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
-    "id": "aws_cb453b036facbe20207c",
-    "stationId": "awb_33e955aeb8986f20f908",
-    "name": "三门峡交通文艺广播",
-    "country": "CN",
-    "url": "https://stream.zeno.fm/cmbjv6tml6fuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "017987cf-b885-4fbf-a03e-b0f673d4ec9b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:12:30Z"
-  },
-  {
-    "id": "aws_1c0454c5b7e865310bc0",
-    "stationId": "awb_82a49d0d9cacead8089b",
-    "name": "三门峡综合广播",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022134/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4ca63430-5889-4017-bdbe-957bb59e2a4e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
   },
   {
     "id": "aws_44f8288c716c6be37ffc",
@@ -6227,25 +5592,6 @@
     "lastCheckedAt": "2026-11-07T01:38:26Z"
   },
   {
-    "id": "aws_55a4c2d89d4d74fe27ea",
-    "stationId": "awb_98255ff11eb30a5a35e1",
-    "name": "上海交通广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/266/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4922dc73-750c-11e9-af37-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:12:19Z"
-  },
-  {
     "id": "aws_59cf28d10f1040391279",
     "stationId": "awb_ebba59c218bb2b629324",
     "name": "上海交通广播",
@@ -6259,11 +5605,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6f805776-776e-41fe-8845-563b2e5621e0",
-      "882aa818-7ee0-4bf0-8dba-1232aa56f2f9"
+      "6f805776-776e-41fe-8845-563b2e5621e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
+    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_d6584d0155260855ad75",
@@ -6588,25 +5933,6 @@
     "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
-    "id": "aws_7dc3ef5555588e251943",
-    "stationId": "awb_055168e0fe8492f44170",
-    "name": "上海音乐广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/273/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "01c9306d-750d-11e9-af37-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
-  },
-  {
     "id": "aws_a379a8617f2b062b80e3",
     "stationId": "awb_8f62968fd406025bbba6",
     "name": "上海麗都廣播電台 1940's Shanghai Vintage Jazz Shidaiqu Radio",
@@ -6639,11 +5965,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "665e82e0-4893-40f5-a611-32808f3d74ff",
       "e673fba1-ca82-4b43-89db-5d099f2c9af0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
+    "lastCheckedAt": "2026-11-07T00:22:55Z"
   },
   {
     "id": "aws_d2d7e3cc4e1cd13d474e",
@@ -6758,25 +6083,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:58:20Z"
-  },
-  {
-    "id": "aws_db08f95a0417fd9006d0",
-    "stationId": "awb_1e491ec60771a44ac18f",
-    "name": "东海综合广播",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/20500220/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b5e9a295-54a0-4636-a83f-ba47f38ab0dc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
   },
   {
     "id": "aws_7b3607b0e605587ae072",
@@ -6944,11 +6250,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e0da1b8-813c-42c9-881f-863578103c61",
       "852a6605-427b-4e27-830a-762132942630"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:36:57Z"
+    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_521fa71e399c8d851ec0",
@@ -7023,11 +6328,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "326a5420-703b-49f1-a40d-4233c05b4c84",
       "76920a45-d53e-40c4-bd10-4d32689ec71c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
+    "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
     "id": "aws_f4bd31e52d80f8dfc604",
@@ -7135,15 +6439,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "00a1386f-3186-456f-8896-279188250316",
       "CN:888"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:05:46Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_eb5dbc9515fd40337f6a",
@@ -7156,15 +6458,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "31277967-37a7-4466-ba08-230bd8dc906b",
       "CN:967"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_aeb7c820845887b84506",
@@ -7184,25 +6484,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:37:50Z"
-  },
-  {
-    "id": "aws_efdf56e3ee62bf4e5560",
-    "stationId": "awb_edbd3a9e9df3c7f52ef5",
-    "name": "中江县年代音乐994",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/20500148/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9958101d-187b-4957-b393-0e625b6d78e9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:49:18Z"
   },
   {
     "id": "aws_2a4a49bf2cfe7a55e7ee",
@@ -7296,11 +6577,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2eb65052-7b5b-4bdf-a699-ecd6ec6727c7",
-      "4222b9c3-da2d-48f9-a741-8bd8dde5610e"
+      "2eb65052-7b5b-4bdf-a699-ecd6ec6727c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
+    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_140953a572eaf283f829",
@@ -7506,11 +6786,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "89fc2191-e11f-4007-a206-28ef2a1033bf",
-      "acf444dc-fdfb-4253-89e6-acc6a4fc5f10"
+      "89fc2191-e11f-4007-a206-28ef2a1033bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:47Z"
+    "lastCheckedAt": "2026-11-06T18:31:19Z"
   },
   {
     "id": "aws_087c54007efdf32ed19b",
@@ -7545,7 +6824,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "61250945-c3fc-490c-9952-5289ad690ba3",
       "f3702a35-276b-47ee-a860-6860380090e9"
     ],
     "lastCheckOk": true,
@@ -7565,11 +6843,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "636ae1fc-3ac8-4ad9-b801-cebbb0541524",
-      "a7769745-e2d1-475f-bbe0-de1f5b48429c"
+      "636ae1fc-3ac8-4ad9-b801-cebbb0541524"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
+    "lastCheckedAt": "2026-11-06T18:25:14Z"
   },
   {
     "id": "aws_d9ce27b11eec365588a6",
@@ -7627,25 +6904,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:37:04Z"
-  },
-  {
-    "id": "aws_c2beedcbd46f22dd2578",
-    "stationId": "awb_329b07bfa5fd1f820d3d",
-    "name": "主内真生命",
-    "country": "CN",
-    "url": "https://stream.tligradio.org/listen/chinese/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cfa42f8d-4457-474b-872d-40772992c27b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:58:53Z"
   },
   {
     "id": "aws_6990cff621f32c8a8523",
@@ -7889,7 +7147,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "09f34f93-108e-402d-ae2a-4975774cd445",
       "36a530cc-b14f-4ea5-b81a-6729bd6b0857"
     ],
     "lastCheckOk": true,
@@ -8310,11 +7567,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a51a964a-7f34-435b-a714-f3e64e2653d7",
       "e9779a5e-cbd0-4d3a-bc78-f033d37cd07a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:50Z"
+    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_87af36cb023be43f2274",
@@ -8538,15 +7794,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2b15c723-9cbc-421b-a703-81c8e8b974f4",
       "CN:ep-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_49e38cf6e54d64fe8a16",
@@ -8849,7 +8103,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "97c90fb9-87cb-41e4-8cbc-7e0995e71239",
       "a41c238c-a01d-494b-a9df-fe314b0aef19"
     ],
     "lastCheckOk": true,
@@ -8892,25 +8145,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:59:56Z"
-  },
-  {
-    "id": "aws_4d9c79dbfbf463693a03",
-    "stationId": "awb_a05d45cb7f6bfdfd0a5f",
-    "name": "佛山电台FM92.4交通广播",
-    "country": "CN",
-    "url": "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_42_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66463560-6e08-4b0b-9970-608a965aa563"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
   },
   {
     "id": "aws_1301bfe2f548cb2c682e",
@@ -9384,11 +8618,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "64bddd27-796c-49cd-8c3c-9ab12fdfc96e",
       "755af9c4-6673-48db-abd7-038b95e4d0c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:01:47Z"
+    "lastCheckedAt": "2026-11-06T10:15:23Z"
   },
   {
     "id": "aws_da0db7b85d26a69bb399",
@@ -9866,45 +9099,6 @@
     "lastCheckedAt": "2026-11-06T13:47:17Z"
   },
   {
-    "id": "aws_b1525ab55909e7cbea94",
-    "stationId": "awb_b339322f3e156e1e3612",
-    "name": "凤凰卫视中文台",
-    "country": "CN",
-    "url": "http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c7e5ad0-b89b-466c-867e-a87866eb9a09",
-      "6dcc5116-4f73-4e07-a269-8e3d247bcd18"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:53:47Z"
-  },
-  {
-    "id": "aws_1f699965c844cbfedf21",
-    "stationId": "awb_f194fe8b34e1ecefc0d8",
-    "name": "凤凰卫视资讯台",
-    "country": "CN",
-    "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc722c5e-21a0-49be-8687-474638c95ca7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:34:06Z"
-  },
-  {
     "id": "aws_268148f75c26280289a3",
     "stationId": "awb_6fa977b660b5e296e7a0",
     "name": "刑警803",
@@ -10224,11 +9418,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b20c3e9e-2c78-44d6-90a0-007c2a45b454",
-      "fd5d7353-3298-4242-918f-dd7ef527b950"
+      "b20c3e9e-2c78-44d6-90a0-007c2a45b454"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
+    "lastCheckedAt": "2026-11-06T13:41:40Z"
   },
   {
     "id": "aws_9bb306deee4b7cc92156",
@@ -10304,11 +9497,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "19638780-7427-4967-b6ff-70d17c3c53a7",
+      "84f4e909-04ad-4e15-b326-34f82023c2f5",
       "CN:nbbltv"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
+    "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
     "id": "aws_514edc038c8177f53f4c",
@@ -10437,15 +9630,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "776f40e1-1d24-4bca-b2ff-84612763c2dc",
       "CN:fm106-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:34:56Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_89e4c23f9c225d9e0f80",
@@ -10581,25 +9772,6 @@
     "lastCheckedAt": "2026-11-06T15:36:17Z"
   },
   {
-    "id": "aws_304cdd32ddc6e44b3bca",
-    "stationId": "awb_87cdeaff88e67eb25775",
-    "name": "华语金曲500首",
-    "country": "CN",
-    "url": "http://ls.qingting.fm/live/3412131.m3u8?bitrate=64",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "951b325b-5b78-45ef-bebf-88f9a0f6c250"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:02:20Z"
-  },
-  {
     "id": "aws_6757200f496881f7d2eb",
     "stationId": "awb_ec1317505b2e0827c822",
     "name": "南乐县广播节目",
@@ -10651,11 +9823,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a20d87a-ba25-4543-816c-6e5224914de1",
-      "68213abf-bbd4-4f9e-a663-657e1a36bb1a"
+      "0a20d87a-ba25-4543-816c-6e5224914de1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:32:21Z"
+    "lastCheckedAt": "2026-11-06T01:23:52Z"
   },
   {
     "id": "aws_e949013ebc528f86a37e",
@@ -11249,25 +10420,6 @@
     "lastCheckedAt": "2026-11-06T11:06:37Z"
   },
   {
-    "id": "aws_cf018cce96da31584066",
-    "stationId": "awb_fd3050e2eea229c29fc6",
-    "name": "历城广播电视台",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/20500194/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "878bd1de-a78e-4d4c-a62a-3f9758c72d91"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:05:52Z"
-  },
-  {
     "id": "aws_7befd48844487d969295",
     "stationId": "awb_dd9bd8fc7e424395ce1d",
     "name": "历城广播电视台",
@@ -11473,11 +10625,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7f796050-9625-4d78-9312-c10af6b1a90c",
       "a89e38b5-cb24-4856-903e-c29507a720fe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:38:44Z"
+    "lastCheckedAt": "2026-11-06T06:45:17Z"
   },
   {
     "id": "aws_1172adc1df52e70e599e",
@@ -11493,7 +10644,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a9dd80c-ae39-490d-8090-dc26599577a1",
       "f25f833f-508f-4289-9d47-24791e36b214"
     ],
     "lastCheckOk": true,
@@ -11514,7 +10664,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6207a6c4-6285-4946-a522-3e2a17563b49",
+      "6270f3ce-e90d-45bf-9a3c-a8bd992a275f",
       "CN:576tv"
     ],
     "lastCheckOk": true,
@@ -12524,11 +11674,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3aee926a-e3b9-4026-ac47-29ad2c369830",
-      "4c3ab9f5-87f4-4f4c-8dea-d9994499aea1"
+      "3aee926a-e3b9-4026-ac47-29ad2c369830"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
+    "lastCheckedAt": "2026-11-06T11:52:13Z"
   },
   {
     "id": "aws_06562b14f52b958d3548",
@@ -12569,25 +11718,6 @@
     "lastCheckedAt": "2026-11-06T06:47:10Z"
   },
   {
-    "id": "aws_bf0e619ab8b4b7c607aa",
-    "stationId": "awb_b2652f95646f8a26c7df",
-    "name": "哈尔滨古典音乐广播",
-    "country": "CN",
-    "url": "https://stream.hrbtv.net/gdpl/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d8789b63-0f93-486a-8d4e-7d7e0a571099"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
     "id": "aws_0f09bf872a3a8295e966",
     "stationId": "awb_d1fecf805a4a8f16685c",
     "name": "哈尔滨文艺广播",
@@ -12601,11 +11731,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "441af6bf-e784-4f51-82d1-4b403f85d790",
-      "4a3c0953-1dd8-489a-932a-c70ef0d92088"
+      "441af6bf-e784-4f51-82d1-4b403f85d790"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
+    "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
     "id": "aws_34e22271427477d1c3ba",
@@ -12716,7 +11845,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c9bf9281-5a00-434a-98ad-81310114f348",
       "e85de2a8-44a1-4a91-ae92-a3e4e288021e"
     ],
     "lastCheckOk": true,
@@ -12736,11 +11864,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1bb42d3d-8b0b-4f4d-a967-6ae3ba72fd59",
-      "da2faebd-807b-4319-b6fe-916862ab4d3f"
+      "1bb42d3d-8b0b-4f4d-a967-6ae3ba72fd59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:43Z"
+    "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
     "id": "aws_2e6d13feb8c46566c9bb",
@@ -12756,11 +11883,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "57eb7a99-643c-4a6e-8750-d3ff1771eed0",
       "8bcd92c2-ab19-4ff3-b9cf-9edf29211219"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
+    "lastCheckedAt": "2026-11-06T10:50:12Z"
   },
   {
     "id": "aws_3bdc84f23c40efba9582",
@@ -12934,25 +12060,6 @@
     "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
-    "id": "aws_b1114c0e4c06df2396f2",
-    "stationId": "awb_bb2d7cd5ccd05be8dc9e",
-    "name": "嘉兴交通广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/1135/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51864cdb-9a63-46cc-9f9e-45ae1a8cfa18"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
-  },
-  {
     "id": "aws_e7080d39272dcf63df93",
     "stationId": "awb_8cabec341e189bac938c",
     "name": "嘉兴交通广播",
@@ -12985,8 +12092,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2f7797ed-8b71-438d-8752-8d3c8d249864",
-      "d3773bdf-1427-425d-86ab-101af710aa2d"
+      "2f7797ed-8b71-438d-8752-8d3c8d249864"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:22:40Z"
@@ -13005,11 +12111,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "06e6f159-0bab-4117-9d53-840759b12d22",
       "418e9453-16cb-402d-95a6-41cccde070f1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
+    "lastCheckedAt": "2026-11-06T15:45:34Z"
   },
   {
     "id": "aws_e9a4b176516589d08844",
@@ -13025,11 +12130,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3ab81b5c-3e51-4dd2-9384-6b69d6388436",
-      "b988c337-6179-41c3-b60b-92b54c2325dc"
+      "3ab81b5c-3e51-4dd2-9384-6b69d6388436"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:24:12Z"
+    "lastCheckedAt": "2026-11-06T01:58:00Z"
   },
   {
     "id": "aws_5f04d64d340f58ed508c",
@@ -13045,8 +12149,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "254afa8d-da24-40e6-9c6a-6cb3102fbed2",
-      "cd95d74a-04a2-413d-a6b5-6a76cd6996b4"
+      "254afa8d-da24-40e6-9c6a-6cb3102fbed2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
@@ -13065,8 +12168,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4d6f68f8-8574-4a4b-9ab0-453b39738bd3",
-      "b3dc62e4-0c6a-4bd5-9296-ff693ff7f3d4"
+      "4d6f68f8-8574-4a4b-9ab0-453b39738bd3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:22:55Z"
@@ -13585,25 +12687,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:50:00Z"
-  },
-  {
-    "id": "aws_617a78c1d3a753848ca8",
-    "stationId": "awb_2697200e4333b99055e2",
-    "name": "士兵突击FM",
-    "country": "CN",
-    "url": "https://stream.zeno.fm/vs4zinqldp2vv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6af87b3e-70e5-4170-a0ce-2378669c7b6b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:42:45Z"
   },
   {
     "id": "aws_f648fa43f29db0a197c3",
@@ -14246,8 +13329,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2c7eaadc-2ea4-471b-8095-964e5d6e1d03",
-      "41fbbd10-a63c-4b75-9796-444b83469d20"
+      "2c7eaadc-2ea4-471b-8095-964e5d6e1d03"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
@@ -14384,25 +13466,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:46:26Z"
-  },
-  {
-    "id": "aws_c8fa6ea4f771ca28c3ed",
-    "stationId": "awb_acae648d342d528033fc",
-    "name": "天津经济广播",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/15318227/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "728cda2c-7b14-485a-a0a1-77bbfdd0e841"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:33:08Z"
   },
   {
     "id": "aws_19792bedee336ce441c0",
@@ -15123,8 +14186,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2cfdbe7e-1859-4009-9583-31b29eab42ac",
-      "becb56d1-38ac-4403-8d45-1fba751fad6c"
+      "2cfdbe7e-1859-4009-9583-31b29eab42ac"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
@@ -15181,7 +14243,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6a9ad440-9eb6-4e7c-b47d-0227f0948f13",
       "725490fc-afb7-4d62-933c-6ae0f465cb2a"
     ],
     "lastCheckOk": true,
@@ -16503,25 +15564,6 @@
     "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
-    "id": "aws_ccbbd8dd64c3f0f61557",
-    "stationId": "awb_1dd8ea79bca54cfde91f",
-    "name": "山东经典音乐广播",
-    "country": "CN",
-    "url": "http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 162,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de5a20d9-1fad-478a-8016-7301cb0216fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
-  },
-  {
     "id": "aws_c10753da110c70ef82ad",
     "stationId": "awb_fac2ca7d27073c12e229",
     "name": "山东经济广播",
@@ -17029,7 +16071,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "51db9392-3906-4c19-bf7c-8d1de72f28e1",
       "65b45a43-f2a6-4c7f-b0b7-b994a2b142fd"
     ],
     "lastCheckOk": true,
@@ -17606,25 +16647,6 @@
     "lastCheckedAt": "2026-11-06T21:37:29Z"
   },
   {
-    "id": "aws_3723c7d59c5e03b9d940",
-    "stationId": "awb_a7ed5cff9a6b9d7f5064",
-    "name": "幻想乡电台Gensokyo Radio",
-    "country": "CN",
-    "url": "https://stream.gensokyoradio.net/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "75e931ea-ce7c-4fdb-bf3f-c26cd10833bb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:37:29Z"
-  },
-  {
     "id": "aws_6ca24588b9bad7fd0a51",
     "stationId": "awb_a7ed5cff9a6b9d7f5064",
     "name": "幻想乡电台Gensokyo Radio",
@@ -17754,11 +16776,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6e63baaf-cdfc-4c6e-abba-23a5bff66cf9",
       "eb6e5048-d4db-4e80-933a-2f48681bdcf3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
+    "lastCheckedAt": "2026-11-06T14:34:05Z"
   },
   {
     "id": "aws_ed5e58a8963909edb482",
@@ -17793,11 +16814,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4ff95bf5-4dec-40dc-990b-032e7976f318",
-      "6420a400-38fe-47e4-ab5c-28f0d00667bf"
+      "b80cca75-05ce-4dce-b097-a188e21ce5a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
+    "lastCheckedAt": "2026-11-06T17:45:24Z"
   },
   {
     "id": "aws_b10ac47bef2e371119f0",
@@ -17872,11 +16892,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a196f5e-1a14-4f97-b1e3-c4b67d092cfe",
-      "87e0e1df-a84c-4d3a-92c8-813a01bd7cc5"
+      "2a196f5e-1a14-4f97-b1e3-c4b67d092cfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:05:39Z"
+    "lastCheckedAt": "2026-11-06T03:28:02Z"
   },
   {
     "id": "aws_67071a8058db3c7def08",
@@ -17936,25 +16955,6 @@
     "lastCheckedAt": "2026-11-06T09:37:50Z"
   },
   {
-    "id": "aws_10b7d6ca8c23b7f795aa",
-    "stationId": "awb_a1aa11ed7c875801a0ed",
-    "name": "广州新闻资讯广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/4848/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c8f49f16-f969-4f73-b1db-fa2ef40e78b6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:42:10Z"
-  },
-  {
     "id": "aws_54bb20819e424c9dd65f",
     "stationId": "awb_a9302635ab8d0ca2d5c6",
     "name": "广州新闻资讯广播台",
@@ -18010,44 +17010,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:17:10Z"
-  },
-  {
-    "id": "aws_7162e21a38c59414445a",
-    "stationId": "awb_49fb121c8d5b7da09bbd",
-    "name": "广州经济交通广播电台",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/4955/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "78bd1286-5ac2-4d98-adec-8740866b55ff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:53:11Z"
-  },
-  {
-    "id": "aws_197b2634da69c031b872",
-    "stationId": "awb_dab06c8e03a034d637ec",
-    "name": "广州金曲音乐广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/20192/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3366bd2b-9e59-4bf0-ad99-96b5bfcd7111"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:16:50Z"
   },
   {
     "id": "aws_12181412f5cc6f9381fb",
@@ -18432,8 +17394,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "86f826f0-a1cf-4342-9e1e-82eb39baa8e9",
-      "dde38c50-9c9c-4308-912a-f6961494c350"
+      "86f826f0-a1cf-4342-9e1e-82eb39baa8e9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:01:47Z"
@@ -18570,25 +17531,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:32:54Z"
-  },
-  {
-    "id": "aws_27e67fd640d243012035",
-    "stationId": "awb_979a19b3cc18cbbadba3",
-    "name": "延吉交通之声(2)",
-    "country": "CN",
-    "url": "http://stream7.jlntv.cn/yjgb/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 75,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "536a3ba3-357f-4bbe-afb3-fcdedb83e516"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:29:34Z"
   },
   {
     "id": "aws_8bc5659a4ea90a90963c",
@@ -18800,25 +17742,6 @@
     "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
-    "id": "aws_93cfe960ef186ea8dc8a",
-    "stationId": "awb_ab6ae6a63a289868ff03",
-    "name": "⁡⁡⁡建平综合广播",
-    "country": "CN",
-    "url": "https://lhttp-hw.qtfm.cn/live/15318332/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bd612834-424d-471f-9633-2ea537c057c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
-  },
-  {
     "id": "aws_a96a6fa9b6efb1bbc9bb",
     "stationId": "awb_0317720f8921a3e40958",
     "name": "开化广播",
@@ -18832,11 +17755,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "477a0722-d249-4fbd-bf4c-c72b8a6563c1",
-      "7a0cfda1-1467-4e32-807c-47808ee83d0f"
+      "477a0722-d249-4fbd-bf4c-c72b8a6563c1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_3a93b3d2ca8b150d72c5",
@@ -18993,25 +17915,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:32:21Z"
-  },
-  {
-    "id": "aws_5eb29898c0915b2eff22",
-    "stationId": "awb_319613f98b41ffa16cdb",
-    "name": "张家口城市生活广播",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/5021801/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "01a1e831-071e-462c-baaa-7d35ac234204"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
     "id": "aws_284a3bcc42fc25d916f2",
@@ -19909,11 +18812,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3988aa2d-de5e-4d33-9fc1-f7380fa0a441",
-      "7c8f8d94-e436-4eb0-9f7b-6d6e82a6b919"
+      "3988aa2d-de5e-4d33-9fc1-f7380fa0a441"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:05:11Z"
+    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_f322f27405bc5213d554",
@@ -20556,7 +19458,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "70a044b3-5b7c-424e-8ed5-8f032a7ee279",
       "917dc937-48d8-4d9e-a1d6-7bd82c59ff6c"
     ],
     "lastCheckOk": true,
@@ -20732,11 +19633,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "08740013-ce0c-42ae-a637-38aa52b7baf7",
       "dcdd1670-5671-41fc-a70d-1c7fc4590ba1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:28Z"
+    "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
     "id": "aws_e927fb8429f00649fc32",
@@ -21167,15 +20067,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3f6d52c1-9373-4fd2-8bef-5dd476e4e7d2",
       "CN:rfi"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a7aefca40dcdb9730d65",
@@ -21195,25 +20093,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:15:39Z"
-  },
-  {
-    "id": "aws_15c6f334569fcb335957",
-    "stationId": "awb_20e5523c4d850d7d3327",
-    "name": "无印良品BGM精选",
-    "country": "CN",
-    "url": "https://stream.zeno.fm/brv193g9468uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7cbdb65f-be6a-43fa-88b9-1048aaa4796d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
     "id": "aws_9d72437441ffb7227e56",
@@ -21429,25 +20308,6 @@
     "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
-    "id": "aws_efeeee9f01e003f0d16a",
-    "stationId": "awb_198a998419a4d220fccf",
-    "name": "昆明交通音乐广播",
-    "country": "CN",
-    "url": "http://ls.qingting.fm/live/1936.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b860406e-e620-4876-a58c-cdc42e9e1f2c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
-  },
-  {
     "id": "aws_ef0171f5d8a4f8da70dc",
     "stationId": "awb_729f597b6456cf0053ca",
     "name": "昆明城市管理广播",
@@ -21465,25 +20325,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:22:54Z"
-  },
-  {
-    "id": "aws_4d5030d1a446d6ee268a",
-    "stationId": "awb_bbfca0da055c23a98618",
-    "name": "昆明汽车广播",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/1936/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "efdd6b48-abaa-4bd3-899a-d3e2e6f563e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
   },
   {
     "id": "aws_265d524415f1654a8db7",
@@ -21541,25 +20382,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
-    "id": "aws_272b75118c412d3a2328",
-    "stationId": "awb_504c9fbe5a0bce29e43d",
-    "name": "昌吉综合广播",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/20440/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4603ad6d-db83-4714-867f-333b4dcacb9e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_54903ca86ae7ac7582cf",
@@ -21634,11 +20456,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6479eefc-6929-47c8-9bb8-28849b2978d1",
-      "f3ab5e63-a51e-4ed1-88f5-d7ae7ddb2a38"
+      "6479eefc-6929-47c8-9bb8-28849b2978d1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:57:46Z"
+    "lastCheckedAt": "2026-11-06T13:53:36Z"
   },
   {
     "id": "aws_02df58aa0c0cea23ed95",
@@ -21806,8 +20627,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2f885cff-ec89-4d38-911b-332015ff8cf4",
-      "bd026e80-fd99-493d-ade2-f886eadfacf6"
+      "2f885cff-ec89-4d38-911b-332015ff8cf4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:37:23Z"
@@ -22092,11 +20912,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "69e60aec-f3af-403d-b06c-edca38842459",
-      "b271a417-afce-4370-b7cb-82e9b23e6bb8"
+      "69e60aec-f3af-403d-b06c-edca38842459"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_f6f1ffd6ac5b535b6dc5",
@@ -22112,8 +20931,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "078035fb-1bb2-44bd-87d7-1044b18b9e67",
-      "e6dea335-9b93-46a2-b3e9-4e25693042ed"
+      "078035fb-1bb2-44bd-87d7-1044b18b9e67"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:55:09Z"
@@ -22132,8 +20950,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6621dbec-0b91-4109-80d4-7549ddeb771b",
-      "e546af1a-0b6c-482a-abb5-b5ad3e2c8877"
+      "6621dbec-0b91-4109-80d4-7549ddeb771b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:50:45Z"
@@ -22157,7 +20974,7 @@
       "CN:fm90-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
+    "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
     "id": "aws_a4db92e2eb2782ce5096",
@@ -22173,11 +20990,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b6b6797e-2430-4c83-83fa-a0f1fdef0d91",
       "d30bc02b-e386-4911-9694-6d276b9c8101"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:09:30Z"
+    "lastCheckedAt": "2026-11-06T03:04:40Z"
   },
   {
     "id": "aws_04716d9619c98e42b51d",
@@ -22193,8 +21009,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "97176275-c6ed-4770-a2b9-1410e360392a",
-      "e9a41c0f-2be3-4c63-9ea6-327d782dddd3"
+      "97176275-c6ed-4770-a2b9-1410e360392a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:23:06Z"
@@ -22270,11 +21085,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "815eaa2b-c395-46ed-9b9f-a74d8b6aacb3",
       "96b2fb6a-ca56-44a8-a9ed-078e6c85ed53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
+    "lastCheckedAt": "2026-11-06T02:04:52Z"
   },
   {
     "id": "aws_81aa0ee7eb4ae8658621",
@@ -22404,7 +21218,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "59281be3-b575-4c64-b639-d3d9e108ae19",
       "75d5e1d7-ef30-4c76-80fc-79c3eacec4ae"
     ],
     "lastCheckOk": true,
@@ -22652,7 +21465,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a9088818-8137-44f3-8100-7900742797bf",
       "b1d86f24-1472-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -22887,25 +21699,6 @@
     "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
-    "id": "aws_b832742a8dda4b2051a6",
-    "stationId": "awb_046e16332c2d2e254c47",
-    "name": "榆林交通文艺广播",
-    "country": "CN",
-    "url": "https://hplayer1.juyun.tv/camera/115978148.m3u8",
-    "codec": "unknown",
-    "bitrate": 2560,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a52f4b5e-1404-4f3f-9adb-6347a6648468"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:10:03Z"
-  },
-  {
     "id": "aws_c77b137f7dfdafa3a250",
     "stationId": "awb_4cb0a9c6d0d323a67427",
     "name": "榆林生活资讯",
@@ -22961,25 +21754,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:03:44Z"
-  },
-  {
-    "id": "aws_d0c91d10482c3a20dded",
-    "stationId": "awb_d7f37a8246d898f5f0cc",
-    "name": "榆林综合广播",
-    "country": "CN",
-    "url": "https://hplayer1.juyun.tv/camera/115987102.m3u8",
-    "codec": "unknown",
-    "bitrate": 2560,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2822b9c2-5cc9-4ab9-8017-2e47433a9a87"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:41:16Z"
   },
   {
     "id": "aws_b504dff0a050b34323c7",
@@ -23052,8 +21826,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "36b5ed40-fb2a-40ba-a455-91f9f0be27c3",
-      "c3d9c66f-171f-4f0f-8d04-2fc3035e5c1b"
+      "36b5ed40-fb2a-40ba-a455-91f9f0be27c3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:41:28Z"
@@ -23190,25 +21963,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:22:19Z"
-  },
-  {
-    "id": "aws_1dfd2a9924f0349b2497",
-    "stationId": "awb_2ecfc043d7249e5bf904",
-    "name": "武进人民广播电台(2)",
-    "country": "CN",
-    "url": "http://live.wjyanghu.com/live/CH6.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2d60cbb3-0808-44a9-ae1a-6463e863ead5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_f95596bacd73f388c509",
@@ -23359,8 +22113,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7dba917c-58fd-4696-a51c-c22c6e6a9b22",
-      "bdd0e7d1-718b-4c4b-ab6a-95296e73a197"
+      "7dba917c-58fd-4696-a51c-c22c6e6a9b22"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:30:47Z"
@@ -23462,7 +22215,7 @@
       "CN:fm106-6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:03:28Z"
+    "lastCheckedAt": "2026-11-06T06:34:06Z"
   },
   {
     "id": "aws_88de247af75c82cf6b2e",
@@ -23611,11 +22364,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0e4e6074-937b-400c-9890-89fab050ae32",
-      "aefb745a-e0db-485b-9602-20d57b2e7f2c"
+      "0e4e6074-937b-400c-9890-89fab050ae32"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:49:18Z"
+    "lastCheckedAt": "2026-11-06T11:08:34Z"
   },
   {
     "id": "aws_96a71b653c79121a67df",
@@ -23768,25 +22520,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:30:25Z"
-  },
-  {
-    "id": "aws_bdf8d8ca2625c25a8d80",
-    "stationId": "awb_0ba805cca3e1dc554abc",
-    "name": "江苏新闻综合广播",
-    "country": "CN",
-    "url": "http://lzlive.vojs.cn/rTyLc36/92/live.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e0b1ee2-17f3-46e5-b4e1-ea3bea8de349"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:49:52Z"
   },
   {
     "id": "aws_2af5bd8d2b362e055fa3",
@@ -24610,25 +23343,6 @@
     "lastCheckedAt": "2026-11-06T04:18:23Z"
   },
   {
-    "id": "aws_5cba21043707198d3748",
-    "stationId": "awb_ad33a303ca335e4d1045",
-    "name": "河北新闻广播",
-    "country": "CN",
-    "url": "https://radio.pull.hebtv.com/live/hebxw.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0f3ac2c-df6d-456d-a7c6-03fa5588668b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
     "id": "aws_030924711c97b59aca1b",
     "stationId": "awb_e791221d500f661ea103",
     "name": "河北旅游广播Hopei Travel Radio",
@@ -25440,11 +24154,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a9763c72-8502-4ca7-a172-a562af79d4d4",
-      "c4f67482-7919-40a3-bb2b-a5a6add10e45"
+      "a9763c72-8502-4ca7-a172-a562af79d4d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T02:39:24Z"
+    "lastCheckedAt": "2026-11-07T22:52:34Z"
   },
   {
     "id": "aws_74f2a68fbd53ae80431f",
@@ -25650,7 +24363,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "afd8aca8-65f8-4d85-b329-e7753927ef33",
       "c04ceee0-1728-449e-a3eb-9c9c71339170"
     ],
     "lastCheckOk": true,
@@ -25974,7 +24686,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1872e1dd-bace-4e5d-b09b-7fb27cbf9af7",
       "80f1e70f-8ad3-4de2-8123-4ef18826d1fa"
     ],
     "lastCheckOk": true,
@@ -26190,8 +24901,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "cec59343-7cdc-41aa-a169-e14f0029658d",
-      "e0d24665-89dd-4adb-892c-5a6b96baca4a"
+      "cec59343-7cdc-41aa-a169-e14f0029658d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:33:53Z"
@@ -26229,8 +24939,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "802eb933-72b1-4e21-b909-ff083c9cf360",
-      "bfe2cdb4-712c-4f75-9adc-e5c533861f97"
+      "802eb933-72b1-4e21-b909-ff083c9cf360"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:56:19Z"
@@ -26249,11 +24958,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "872f73b9-4ffb-4e0f-9ee7-bb7aea2b3f6c",
-      "efa1c78b-0c9b-4650-8450-f1b136e3b2bf"
+      "872f73b9-4ffb-4e0f-9ee7-bb7aea2b3f6c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
+    "lastCheckedAt": "2026-11-06T02:14:35Z"
   },
   {
     "id": "aws_934ea13e8a4b3f3b1fdb",
@@ -26269,8 +24977,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "775e5ae3-1f46-46ad-9922-1e8cdefcbac5",
-      "79af64fb-fa19-46b5-94fd-abd389800264"
+      "775e5ae3-1f46-46ad-9922-1e8cdefcbac5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:59:46Z"
@@ -26289,7 +24996,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "36cf109d-ee95-4498-8594-222ac1248c1b",
       "b2ba5a08-e2e4-4578-832c-bc5c1980cdd6"
     ],
     "lastCheckOk": true,
@@ -26309,7 +25015,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "57d3be83-56da-4f8b-9ef0-9c3f7095dac3",
       "77fbcd0e-faed-468a-b9ce-8d76113a1202"
     ],
     "lastCheckOk": true,
@@ -26329,7 +25034,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4082f4a0-e300-46dd-a065-da0bd6f53c1e",
       "e623bd68-5f40-495c-a724-5194d6c85ee1"
     ],
     "lastCheckOk": true,
@@ -26349,11 +25053,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "06b6edff-724f-4fc8-bb3d-d297614cdad2",
-      "df2c6c9f-38a6-41a0-8c6c-6b0b11872b3c"
+      "06b6edff-724f-4fc8-bb3d-d297614cdad2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:50:49Z"
+    "lastCheckedAt": "2026-11-06T16:40:45Z"
   },
   {
     "id": "aws_0436cb8e583d18994bcc",
@@ -26369,11 +25072,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "57b34085-ed43-45f9-883c-3c18554ddeef",
       "928cab0f-615e-41d1-8797-50a26c10252b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
+    "lastCheckedAt": "2026-11-06T04:02:29Z"
   },
   {
     "id": "aws_7db79ab8c41de9508b83",
@@ -26467,8 +25169,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "34029c85-58dc-4938-a164-61b53bb88563",
-      "9aefb69f-1f44-4ccd-b50d-1faddb28f70c"
+      "34029c85-58dc-4938-a164-61b53bb88563"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:23:54Z"
@@ -26848,11 +25549,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b94045f-e088-460b-9480-e181219d777e",
-      "db737531-56a4-4b47-8dcd-7a9de72a366e"
+      "5b94045f-e088-460b-9480-e181219d777e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
+    "lastCheckedAt": "2026-11-05T21:16:26Z"
   },
   {
     "id": "aws_209c8fd62c0861fcc58e",
@@ -27220,25 +25920,6 @@
     "lastCheckedAt": "2026-11-06T15:15:48Z"
   },
   {
-    "id": "aws_6565c23096728b0f2297",
-    "stationId": "awb_7db87a49ce1c0e3d5f8c",
-    "name": "深圳新闻广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/1270/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2de5c313-8500-11e9-aa30-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
-  },
-  {
     "id": "aws_3e9acf82e1cc0029e560",
     "stationId": "awb_861412baf4cb6d87d656",
     "name": "深圳生活广播",
@@ -27306,15 +25987,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CN:feiyang971",
-      "a9922aba-8435-4ba3-a207-8704817f6dbc"
+      "CN:feiyang971"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8d15a5c215bf0bea66eb",
@@ -27522,8 +26201,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0d211d35-3acd-49c4-9d69-e2aad3eb10e9",
-      "7ddf5466-18b1-43db-973c-70c77e13a4e5"
+      "0d211d35-3acd-49c4-9d69-e2aad3eb10e9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:18:58Z"
@@ -27542,7 +26220,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2d50a560-cd2d-415a-a2c6-15d58ed0e7b3",
       "5c74fccc-122d-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -27562,7 +26239,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9411d077-ee85-401b-bd5f-4684f7995187",
       "e3858e49-122d-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -27582,11 +26258,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0ef179b4-de95-4a30-be2e-32af34920410",
       "8cc4c510-e06d-42b5-9f1f-f903820114c4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
+    "lastCheckedAt": "2026-11-06T02:24:45Z"
   },
   {
     "id": "aws_0ada36ac7de0c3bd2fba",
@@ -27602,11 +26277,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e40e0e6-43e9-4f34-9c44-b00d81b1d6fa",
-      "3d3c57c3-122e-11e9-a80b-52543be04c81"
+      "1e40e0e6-43e9-4f34-9c44-b00d81b1d6fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:53:11Z"
+    "lastCheckedAt": "2026-11-06T08:34:42Z"
   },
   {
     "id": "aws_4cdc05b17acede774c64",
@@ -27622,11 +26296,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8e2876cc-e604-409d-9e57-f640a22cd07e",
-      "f890c092-07d2-4a61-ad4c-dceff703412e"
+      "8e2876cc-e604-409d-9e57-f640a22cd07e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:18:56Z"
+    "lastCheckedAt": "2026-11-06T15:07:20Z"
   },
   {
     "id": "aws_7e3571b0e990843139a8",
@@ -27642,8 +26315,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "97702804-122d-11e9-a80b-52543be04c81",
-      "f2808caa-6342-411f-9550-ce5241212269"
+      "97702804-122d-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:03:43Z"
@@ -27662,8 +26334,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6061f1d7-6012-46ed-b663-6dae87f5b476",
-      "d92fe019-c0f2-4bc4-84d3-79a5f14cf66c"
+      "6061f1d7-6012-46ed-b663-6dae87f5b476"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:49:04Z"
@@ -27683,11 +26354,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "28840851-dab7-44ab-99ee-1ce667546e43",
+      "4e7b7913-6775-40b0-9050-6d7b9843868d",
       "CN:wztv"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
+    "lastCheckedAt": "2026-11-06T15:32:27Z"
   },
   {
     "id": "aws_e7754a0d8d56d2d18a31",
@@ -27990,7 +26661,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1a40dc01-4735-44f3-8e27-66430d0b6360",
       "f38439f5-ccf6-4878-893a-9ab8bdb2f2d7"
     ],
     "lastCheckOk": true,
@@ -28010,7 +26680,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0a28de9d-891c-440e-9295-b4cf63abe37f",
       "4110fc61-76dc-4159-9d3c-643f7d7222ab"
     ],
     "lastCheckOk": true,
@@ -28030,8 +26699,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d6e39fc0-bf11-4c80-a2ad-9f944070b685",
-      "fada86bc-c475-4d9f-93a5-c1be9f1d7713"
+      "d6e39fc0-bf11-4c80-a2ad-9f944070b685"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:21:17Z"
@@ -29232,8 +27900,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6735ad38-959e-4680-9e03-b15d75fb98e3",
-      "ab0cefac-a3aa-4133-8451-0ec7d25f2f17"
+      "6735ad38-959e-4680-9e03-b15d75fb98e3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:35:25Z"
@@ -29385,7 +28052,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6d6d22f6-9694-4b81-ab1e-014849aff47e",
       "c47cb56d-bfb8-4850-bd11-79487d8a47a5"
     ],
     "lastCheckOk": true,
@@ -29504,25 +28170,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:22:40Z"
-  },
-  {
-    "id": "aws_0a869f419b01790a13aa",
-    "stationId": "awb_aa39e31172cee48a1d74",
-    "name": "甘孜康巴藏语综合广播",
-    "country": "CN",
-    "url": "https://m3u8channel.ganzitv.com/nmip-media/audiolive/audio100645/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8c864fe5-3ef8-49a7-b906-7b7959eda334"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_c60aefc879dc99f8a002",
@@ -30057,11 +28704,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6ac5df80-8e54-4de9-a938-72f2c24749f6",
-      "84ab0b03-53bc-4493-9c78-4052caf12f3a"
+      "6ac5df80-8e54-4de9-a938-72f2c24749f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
+    "lastCheckedAt": "2026-11-06T09:04:31Z"
   },
   {
     "id": "aws_b21c79401d9a1cbc1ac6",
@@ -30936,11 +29582,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "985d5699-73d5-4979-9e9a-f9d55dd66578",
-      "d28431e3-e280-4bcb-9573-86a1728f86d1"
+      "985d5699-73d5-4979-9e9a-f9d55dd66578"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:47:16Z"
+    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_2b43300fa185f1cabe83",
@@ -30956,11 +29601,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13f95665-1ed5-48e8-bb57-d3b89d4abc83",
       "cd23cf29-8e1b-41c4-881d-6281bad0518c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
+    "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
     "id": "aws_05133b054c6bb8bb2023",
@@ -30976,11 +29620,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e701e76e-be2e-44c2-8fc8-640f34a1a476",
-      "f60ee327-a201-49bb-a14e-27c39add5853"
+      "e701e76e-be2e-44c2-8fc8-640f34a1a476"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:11:50Z"
+    "lastCheckedAt": "2026-11-06T06:19:33Z"
   },
   {
     "id": "aws_e2ba4b5e278ab43174ee",
@@ -31135,25 +29778,6 @@
     "lastCheckedAt": "2026-11-06T17:20:08Z"
   },
   {
-    "id": "aws_94db32b1b8f003eedd23",
-    "stationId": "awb_76efedfb2b1395a6e0d1",
-    "name": "绿洲俱乐部Live House",
-    "country": "CN",
-    "url": "https://stream.zeno.fm/by5n9vuubphvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7457e4b4-15ad-42d1-a333-0346929be8c6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
     "id": "aws_b66ec10b5ed07543e175",
     "stationId": "awb_6b432bd4361d030ecab1",
     "name": "缙云广播",
@@ -31167,7 +29791,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4a14405c-fd6d-4e01-b171-fc3800df069b",
       "f31b48e4-d32d-4b16-9ff4-fd5b76ae858e"
     ],
     "lastCheckOk": true,
@@ -31191,25 +29814,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:14:37Z"
-  },
-  {
-    "id": "aws_7d912c72e353cbc6aa44",
-    "stationId": "awb_bbf675927ed65b3b160e",
-    "name": "羊城交通电台",
-    "country": "CN",
-    "url": "https://lhttp.qtfm.cn/live/1262/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b8ca2adc-5848-4625-8d8b-c767c404204e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
   },
   {
     "id": "aws_b67224d4c1cd79830458",
@@ -31626,7 +30230,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "91993d6b-e83e-4a22-8bed-4e1eaf9532ae",
       "fb88fe59-23e8-4e66-9304-e9084cfee3d5"
     ],
     "lastCheckOk": true,
@@ -32068,7 +30671,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "32b41629-be6f-4a19-be34-77c5fb1ff074",
       "78937521-0ee1-49dd-a24c-6d9286aeb5a0"
     ],
     "lastCheckOk": true,
@@ -32088,8 +30690,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a76bd9f3-4243-4269-b2af-f246e1b076b3",
-      "cc9362e6-1f15-4788-af82-1c569087f12e"
+      "a76bd9f3-4243-4269-b2af-f246e1b076b3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:01:50Z"
@@ -32469,7 +31070,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4c12d2d2-5f55-4b5d-9158-a5e23542cdb9",
       "fa375a8a-13e6-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -32489,7 +31089,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1e744090-470a-4309-bab8-3d639e3367f4",
       "2acc67cd-13e7-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -32509,11 +31108,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a550fd7-bb9f-48b0-b1e7-ab7561276653",
       "5fe805ca-dfda-45b4-b48f-40d0f55697ea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:57:38Z"
+    "lastCheckedAt": "2026-11-06T09:33:53Z"
   },
   {
     "id": "aws_970e5aa4d317f69b629f",
@@ -32839,25 +31437,6 @@
     "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
-    "id": "aws_1df6a47a31d2c43cf961",
-    "stationId": "awb_f492dba9c97c55f8c5c4",
-    "name": "西藏都市生活广播",
-    "country": "CN",
-    "url": "http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8?wsSession=51c2a224185caba966715acd-174700953160318&wsIPSercert=5bb043949891952939522be8c9bd5410",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7aceb482-a1df-4e8f-b99a-bc9249027a33"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:52:18Z"
-  },
-  {
     "id": "aws_8c43f813693071c6104c",
     "stationId": "awb_2d6c62a2432b2f33b9c6",
     "name": "讲座精选",
@@ -32947,11 +31526,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a18b3ea8-13e7-11e9-a80b-52543be04c81",
-      "aa2c0c0f-554b-42d3-9667-1a7bdcb75afe"
+      "a18b3ea8-13e7-11e9-a80b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:12Z"
+    "lastCheckedAt": "2026-11-05T23:51:28Z"
   },
   {
     "id": "aws_b9ee2a2ed883c4e9d80e",
@@ -32967,11 +31545,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3f0bcf49-ccf7-42d1-b38a-e5a8608786a1",
       "e0e669e5-32d8-4a8e-8541-81dfdde0c7a6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
+    "lastCheckedAt": "2026-11-06T17:11:07Z"
   },
   {
     "id": "aws_99183ea7a20a89ccd161",
@@ -32987,11 +31564,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "453ddea1-e229-40ad-a9c5-b637f7ec443a",
       "de90199d-1f73-4041-bc06-e7eb637ed2cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
+    "lastCheckedAt": "2026-11-06T11:48:02Z"
   },
   {
     "id": "aws_ea9d73e4c8fbb9ba8bd4",
@@ -33431,25 +32007,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:01:53Z"
-  },
-  {
-    "id": "aws_750713f0d8706dd50c5b",
-    "stationId": "awb_aca19244f2f15a317f0c",
-    "name": "辉县经典916",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/20207782/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bc3e3a01-139f-4e97-8ec1-b43e4fbc80a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:43:51Z"
   },
   {
     "id": "aws_394360709feebc671a6e",
@@ -34491,8 +33048,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d2037a14-d47b-4052-ac94-1d4bb33ff707",
-      "e3976cb5-b306-4c95-a896-ca0bd0950d5b"
+      "d2037a14-d47b-4052-ac94-1d4bb33ff707"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:56:51Z"
@@ -35501,7 +34057,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b5a1c933-78a7-4c98-9c38-2e7f8344a77b",
       "c9f4a597-e3ce-4213-8c6f-1b5d6a995666"
     ],
     "lastCheckOk": true,
@@ -35639,25 +34194,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:15:48Z"
-  },
-  {
-    "id": "aws_f5164eacc716e60a9124",
-    "stationId": "awb_ca86af9794d383e79011",
-    "name": "金典FM",
-    "country": "CN",
-    "url": "http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "db7142a2-b1bd-4c74-bcd4-646f73a70123"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:23:55Z"
   },
   {
     "id": "aws_75bf96f6ce9f5241c627",
@@ -36340,7 +34876,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "12eacf37-ba1a-4e1d-a9d6-0eac403a64d5",
       "c1530b99-44c0-4212-b176-d06ca21b8448"
     ],
     "lastCheckOk": true,
@@ -36403,7 +34938,7 @@
       "CN:up-radio-fm97-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
+    "lastCheckedAt": "2026-11-06T21:17:10Z"
   },
   {
     "id": "aws_404511cf8abed17fa5c6",
@@ -36596,25 +35131,6 @@
     "lastCheckedAt": "2026-11-07T14:41:27Z"
   },
   {
-    "id": "aws_4a1a4be60c4755be5d79",
-    "stationId": "awb_d04fee8ac91f2a329181",
-    "name": "长沙BIG RADIO流行音乐广播",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/20847/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8cfcc64e-38ac-11ea-8dd7-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:48:16Z"
-  },
-  {
     "id": "aws_4fd6c753ea8c45d3cebf",
     "stationId": "awb_02fb5252692fe1ad558c",
     "name": "长沙交通广播",
@@ -36685,30 +35201,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a38ee504-1de1-4d72-b636-5b1ec365cbb1",
-      "eb57036d-4540-4e2c-8521-1ea3a6f66082"
+      "a38ee504-1de1-4d72-b636-5b1ec365cbb1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
-    "id": "aws_e112eef37546c488a420",
-    "stationId": "awb_8b8551d7f11064eeb15c",
-    "name": "长沙城市之音",
-    "country": "CN",
-    "url": "http://lhttp.qingting.fm/live/4237/64k.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07830260-38ac-11ea-8dd7-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_666f5479d00ff7781bab",
@@ -37258,11 +35754,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "609cc90d-bbe7-44e8-8dfd-b10866a7c568",
       "bde119da-1282-4e50-bb92-3907e3092a95"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_4a635ca9f9bdd3f8dd17",
@@ -37703,7 +36198,7 @@
       "CN:fm9-26"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
+    "lastCheckedAt": "2026-11-06T21:38:44Z"
   },
   {
     "id": "aws_d8d95c065e13deb8e118",
@@ -38137,11 +36632,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1aee2778-8fa7-4336-ae23-202ca63fdb37",
-      "a024990c-10c6-4e40-8372-915654284183"
+      "1aee2778-8fa7-4336-ae23-202ca63fdb37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
+    "lastCheckedAt": "2026-11-06T14:19:22Z"
   },
   {
     "id": "aws_5d2cd324613f8200c7ca",

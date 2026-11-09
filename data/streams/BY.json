@@ -154,25 +154,6 @@
     "lastCheckedAt": "2026-11-06T08:05:46Z"
   },
   {
-    "id": "aws_73bc617d0d9dea774383",
-    "stationId": "awb_fa4c19d61ea4fe70c9e2",
-    "name": "fm_Salyutf",
-    "country": "BY",
-    "url": "http://stream.salyutfm.ru:8000/stream",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d2a30318-0c3e-402b-8dda-1ca2ded8b566"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T02:39:24Z"
-  },
-  {
     "id": "aws_eecff88a7dbd838fb573",
     "stationId": "awb_a34b0a7070064eaa5363",
     "name": "Gomel FM",
@@ -230,25 +211,6 @@
     "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
-    "id": "aws_e47120f527d746a7893c",
-    "stationId": "awb_bf59fea3f6ece0c7b009",
-    "name": "Legendy FM",
-    "country": "BY",
-    "url": "http://live.legendy.by:8000/legendyfm",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f5bb3f02-df43-4067-b644-32feb40efb0a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
-  },
-  {
     "id": "aws_1b9017f65a656f37063e",
     "stationId": "awb_f35c25916cfb4a5086f2",
     "name": "Lider FM",
@@ -268,44 +230,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:47:37Z"
-  },
-  {
-    "id": "aws_c9c40673ad46242e6fd3",
-    "stationId": "awb_f2e5e966d7139692f712",
-    "name": "LOVE IS RADIO",
-    "country": "BY",
-    "url": "https://myradio24.org/3355",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0f9151df-bcae-47c3-b737-0cb5ad259163"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:41:41Z"
-  },
-  {
-    "id": "aws_4b0df96bdf305b56b41a",
-    "stationId": "awb_ff50b5f94886dde68898",
-    "name": "Love Is Radio Belarus",
-    "country": "BY",
-    "url": "https://myradio24.org/3355",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96287a7a-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
   },
   {
     "id": "aws_59c27ca34de1455dead7",
@@ -364,7 +288,7 @@
       "fb4cd612-8890-4670-b073-6496c1d99747"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_c85b63686910e9914883",
@@ -460,25 +384,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:44:50Z"
-  },
-  {
-    "id": "aws_18192230a2fe1a80205d",
-    "stationId": "awb_a03597937b3c810fee39",
-    "name": "Radio Racyja",
-    "country": "BY",
-    "url": "http://air.racyja.com:8000/racja320",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3227ccaf-ac72-4fa1-bbae-57448f1aaaca"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
   },
   {
     "id": "aws_7f90f61562245f04b5ea",
@@ -752,34 +657,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "82007efb-5709-40b6-86c4-4576ca732799",
       "BY:105-7-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
-    "id": "aws_c75756c8b6f24b2d6074",
-    "stationId": "awb_a75a3c746d9166369fe7",
-    "name": "Европа Плюс Полоцк",
-    "country": "BY",
-    "url": "https://ep128.hostingradio.ru:8030/ep128",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a137fa24-e3cc-4762-a610-6867496d709d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_286bea9f3f73cc61d5d7",
@@ -858,25 +742,6 @@
     "lastCheckedAt": "2026-11-06T17:24:03Z"
   },
   {
-    "id": "aws_0122f1674b97e7ffc35f",
-    "stationId": "awb_eff513fab33484a9d7ad",
-    "name": "Легенды ФМ Минск 94.1 FM",
-    "country": "BY",
-    "url": "http://live.legendy.by:8000/legendyfm",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6d719810-0ec9-4d6d-a2d8-fd5698b9de89"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:05:11Z"
-  },
-  {
     "id": "aws_7877edba07292fb0e1ab",
     "stationId": "awb_65472cbead994b492589",
     "name": "МВ-Радио",
@@ -887,15 +752,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1b657a1f-52b2-47f8-a99f-99ad7a7a9a5a",
       "BY:mvolna"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_fe3835b3cb3295b1c31d",
@@ -943,20 +806,18 @@
     "name": "Народное радио Минск 87.9 FM",
     "country": "BY",
     "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7b727f07-45d4-4702-b72b-426005f3235c",
       "BY:87-9-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:08Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9602eb4087f868af282f",
@@ -983,20 +844,18 @@
     "name": "Новое радио",
     "country": "BY",
     "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BY:novoeradio",
-      "a853f228-0e27-4461-8657-5b10f2fd79d7"
+      "BY:novoeradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:52:18Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c5e4b1d63b11df01ec6d",
@@ -1039,25 +898,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:13:25Z"
-  },
-  {
-    "id": "aws_249e05e2d4dfaf5e114a",
-    "stationId": "awb_e3e1fc7381eeb086056f",
-    "name": "Открытое Слово",
-    "country": "BY",
-    "url": "https://rt.radioslovo.net:4395/radio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c4411911-175a-482b-a61d-dd358d868cd8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
   },
   {
     "id": "aws_cd9e01e15b644cb53e9f",
@@ -1148,15 +988,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2ea50e80-ddb6-4122-beee-6e0b3cfb129a",
       "BY:roks"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:43:20Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_428c590b8c5eab32a284",
@@ -1238,7 +1076,7 @@
       "BY:92-4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:41:06Z"
+    "lastCheckedAt": "2026-11-06T08:52:21Z"
   },
   {
     "id": "aws_bf11d53081f04271f3fa",
@@ -1286,20 +1124,18 @@
     "name": "РадиусFM",
     "country": "BY",
     "url": "https://stream2.datacenter.by/radiusfm_main",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6973a0cb-0d2e-4329-abb5-92c153907504",
       "BY:fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5bb4c37fd68edc3f6f65",
@@ -1338,25 +1174,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:37:30Z"
-  },
-  {
-    "id": "aws_49b4ffd03971ec0dc1cf",
-    "stationId": "awb_026304ef2683e04fda77",
-    "name": "Радыё Марыя",
-    "country": "BY",
-    "url": "https://server.radiorm.by:8443/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b8c630d5-fa3a-4abd-a78d-65314a7b0c12"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
     "id": "aws_c52a4fc2a7ae67568180",
@@ -1451,15 +1268,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "02464379-3699-4c14-96e8-98ecf5c4c112",
       "BY:radio-live-mg"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_30c0554ce614af13c61e",
@@ -1472,15 +1287,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0cd29540-0bf9-45c5-a049-b0c9e8d0dd1b",
       "BY:fm-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_a116ec02565a73505a9f",

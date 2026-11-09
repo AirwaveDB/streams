@@ -112,8 +112,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d77838fc-f8dc-4b29-addc-dbe0de47b56c",
-      "eff51d17-59b3-4e93-89df-df1b24416d0c"
+      "d77838fc-f8dc-4b29-addc-dbe0de47b56c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:31:00Z"
@@ -718,20 +717,18 @@
     "name": "Oli 96.8 FM",
     "country": "SG",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8c8b010b-07ec-4c69-a668-3c600d95e9bf",
       "SG:oli-96-8-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_1b1a538c7363527364e9",
@@ -1145,25 +1142,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:07:34Z"
-  },
-  {
-    "id": "aws_17288c6de9a8092280f8",
-    "stationId": "awb_28c2f2c5a390b2749312",
-    "name": "Warna 942 Radio",
-    "country": "SG",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a949b7f0-0b79-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:08Z"
   },
   {
     "id": "aws_7393ea8660976b223e76",

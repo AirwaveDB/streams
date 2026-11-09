@@ -93,8 +93,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "00094db3-9bea-4373-83bd-27f4abb6eba3",
-      "639b6528-8aec-4e15-a701-c395b86aec7c"
+      "a2b23571-3885-4c3c-b1ef-da1b994dae75"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:13:25Z"
@@ -250,7 +249,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2aadc6af-3f0c-47a9-bb34-ab8b162e125f",
       "7cc1d23b-f053-4d0d-bfed-e8bcebc7c9c0"
     ],
     "lastCheckOk": true,
@@ -262,20 +260,18 @@
     "name": "Amen FM",
     "country": "GH",
     "url": "https://ice7.securenetsystems.net/AMENFM",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4a1c1656-b639-42d3-9330-a766e65ee02e",
       "GH:amen-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_6bfff389f93672e116cf",
@@ -490,7 +486,7 @@
       "GH:citi-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
+    "lastCheckedAt": "2026-11-06T01:49:44Z"
   },
   {
     "id": "aws_8772d15d853a052e6bb2",
@@ -549,7 +545,7 @@
       "GH:evangelist-oduro-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
+    "lastCheckedAt": "2026-11-06T17:55:24Z"
   },
   {
     "id": "aws_438a5622db9a4debe154",
@@ -600,15 +596,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "729352e3-ed3d-4572-bd98-06493db514b6",
       "GH:gbc-uniiq-95-7fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_1d66e54d3d558eb19267",
@@ -727,6 +721,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:58:53Z"
+  },
+  {
+    "id": "aws_021683366f57f5f26f8c",
+    "stationId": "awb_73630ee28b824ff6ef14",
+    "name": "Herald FM",
+    "country": "GH",
+    "url": "http://uk5freenew.listen2myradio.com:36419/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1a6772b6-01f4-4210-a938-c6668988c100"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_079ecf1b9173d9154c6f",
@@ -1353,8 +1366,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0ebfca57-ae01-44b8-9e82-5cdaef64654f",
-      "82e78f63-80c9-46a4-b284-b7f024d2ada8"
+      "c556b4e4-f0dc-4db5-9593-66c2044a1152"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:01:36Z"
@@ -1695,15 +1707,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8507a01e-31f6-4391-9ca5-eab12dfee21b",
       "GH:sunny-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_45354a1ed0f6ce86d0d9",
@@ -1763,25 +1773,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
-    "id": "aws_5de3c73ca0563d0f4204",
-    "stationId": "awb_1cbd9b52ad9db893a441",
-    "name": "West End Radio",
-    "country": "GH",
-    "url": "https://node-27.zeno.fm/47nz3zut26duv?rj-ttl=5&rj-tok=AAABdxz5j_4AWgh97W7_GikV2Q",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ea625b2e-1a7a-4174-8782-a025290675e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:05:51Z"
   },
   {
     "id": "aws_cdaddc57462033cff7e2",
@@ -1891,14 +1882,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "GH:zuria-fm",
-      "d4d11b96-8405-47ed-b998-d1d790f079b4"
+      "GH:zuria-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

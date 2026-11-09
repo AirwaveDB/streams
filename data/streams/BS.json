@@ -25,19 +25,17 @@
     "country": "BS",
     "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
     "codec": "mp3",
-    "bitrate": 152,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3e7a0936-43cb-4c5e-9220-948b98d11ccd",
       "BS:96-9-fm-guardianradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:05:50Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ea434b3d2676deb889bd",
@@ -88,15 +86,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "65d7732e-7d7f-4617-beb6-a22f67d5d102",
       "BS:bahamian-or-nuttin"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:18:31Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_01537b61db63e2a28ed6",
@@ -116,25 +112,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:14:03Z"
-  },
-  {
-    "id": "aws_0043d68f6976906c57f3",
-    "stationId": "awb_d392b4f29da217589b00",
-    "name": "Global 99.5 FM",
-    "country": "BS",
-    "url": "http://ice64.securenetsystems.net/GLOBALBS",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a90e52ff-840e-11e8-aa66-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
   },
   {
     "id": "aws_187a18afddb50c5b3f45",

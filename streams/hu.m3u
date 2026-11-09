@@ -33,12 +33,8 @@ http://s2.audiostream.hu/bdpstrock_320k
 http://s2.audiostream.hu/bdpstrock_96k
 #EXTINF:-1 station-id="awb_7c757d1fee9ef41a0115" stream-id="aws_823b17b146d0f47c6719" codec="ogg" bitrate="0",BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)
 http://s2.audiostream.hu:8091/bdpstrock_FLAC
-#EXTINF:-1 station-id="awb_a304d5b7c9e6705ea8eb" stream-id="aws_66ce5c742189468c7fe1" codec="mp3" bitrate="128",Best FM
-http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 station-id="awb_cc3e8feb75dca3fb6b41" stream-id="aws_0a02f2148a53a1589f08" codec="mp3" bitrate="128",Best FM - Budapest
 https://icast.connectmedia.hu/5101/live.mp3/;
-#EXTINF:-1 station-id="awb_63e196f07e433921a86b" stream-id="aws_d40b81686ae9c347d98d" codec="mp3" bitrate="128",Best FM - Debrecen
-http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 station-id="awb_5e3326f0f29c3cbdc262" stream-id="aws_e141334ae74a281176ae" codec="mp3" bitrate="0",Best FM - Eger
 http://icast.connectmedia.hu/5116/live.mp3/;
 #EXTINF:-1 station-id="awb_11e09bae172a2c5ac131" stream-id="aws_39dd1443e86aa9919a90" codec="mp3" bitrate="0",Best FM - Eger
@@ -57,8 +53,6 @@ http://icast.connectmedia.hu/5111/live.mp3/;
 http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 station-id="awb_127080f5205fe4a307fb" stream-id="aws_364ef494342d0397e243" codec="mp3" bitrate="0",Best FM Székesfehérvár
 https://icast.connectmedia.hu/5113/live.mp3
-#EXTINF:-1 station-id="awb_959ae3abccdbdcba3ec2" stream-id="aws_966d677fa5ca4e92d11f" codec="mp3" bitrate="128",BestFM Debrecen
-http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 station-id="awb_0826acd3fc584fa013f7" stream-id="aws_23af95333a96d4cee28d" codec="mp3" bitrate="320",Bias Radio
 https://admin.biasradio.com/listen/bias_radio/live
 #EXTINF:-1 station-id="awb_24776750ef8bd59905a9" stream-id="aws_d0a79d472e4a7e521b20" codec="mp3" bitrate="96",Bithang Yoo Radio
@@ -225,8 +219,6 @@ https://www.live.fluxwaveradio.com/main-mp3
 https://stream.rockradio.hu/
 #EXTINF:-1 station-id="awb_cac148b7470b89d2cac7" stream-id="aws_4be7e16833be128c4115" codec="mp3" bitrate="128",FM90 Campus Rádió
 http://stream.fm90.hu:8000/;
-#EXTINF:-1 station-id="awb_aeb2ff0ce8371c7ef87f" stream-id="aws_727a5eeb5aa766c4c2ca" codec="mp3" bitrate="128",Folkrádió
-https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 station-id="awb_8cebb6eec55139d45cee" stream-id="aws_4fe3bf2a6781b81e4934" codec="mp3" bitrate="128",Folkrádio
 https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 station-id="awb_aeaf13cf635d9bfdfd77" stream-id="aws_c3ed0759f56c9f9c532f" codec="mp3" bitrate="128",Forrás radio
@@ -263,8 +255,6 @@ https://n23-eu.rcs.revma.com/3zbwnap8b2uvv
 http://www.hobbyradio.hu:8000/hobbyradio.mp3
 #EXTINF:-1 station-id="awb_69b54c543ba6a5ab7fdb" stream-id="aws_16ab9dcd938bc0282a89" codec="mp3" bitrate="256",Hujujuj
 http://radionova.hujujuj.com:8000/main
-#EXTINF:-1 station-id="awb_e199d9ba669085a0a344" stream-id="aws_010e4dba71f33e914f6f" codec="mp3" bitrate="192",Hungarian dance
-http://gamershouse.hu:8000/livemega.mp3
 #EXTINF:-1 station-id="awb_f8a26041bdbb81ce3929" stream-id="aws_7ee02c3323254a54204c" codec="mp3" bitrate="0",H�r FM
 https://stream.rcs.revma.com/ar1n48k8b2uvv
 #EXTINF:-1 station-id="awb_21965f830dcf95b9b860" stream-id="aws_88f73aaac3992b3cd024" codec="mp3" bitrate="192",I Love Pécs Rádió
@@ -298,8 +288,6 @@ https://www.koronafm100.hu/live.mp3
 #EXTINF:-1 station-id="awb_f53e91b975cc47c55673" stream-id="aws_b660c6de64f6d89ae5f4" codec="mp3" bitrate="192",Kossuth
 https://icast.connectmedia.hu/4736/mr1.mp3
 #EXTINF:-1 station-id="awb_9b08052f968e0478369a" stream-id="aws_c8c577a749b7ecd47b1c" codec="aac+" bitrate="96",Kossuth Radio
-http://mr-stream.mediaconnect.hu/4734/mr1.aac
-#EXTINF:-1 station-id="awb_03de0cedb00fdac77480" stream-id="aws_41f0a66e2d9700f9823c" codec="aac+" bitrate="96",Kossuth Rádió
 http://mr-stream.mediaconnect.hu/4734/mr1.aac
 #EXTINF:-1 station-id="awb_b38cc3371b3cae7dc844" stream-id="aws_3e01663fa7d161335d24" codec="mp3" bitrate="192",Kpop Radio
 https://s5.radio.co/s078df1838/listen
@@ -339,12 +327,8 @@ http://icast.connectmedia.hu/4780/live.mp3
 http://honlap.mariaradio.hu:8000/mr
 #EXTINF:-1 station-id="awb_cc98116ad75944edd3ef" stream-id="aws_a99546bdc52ec501ab9f" codec="mp3" bitrate="192",Megadance
 https://gamershouse.hu:8080/livemega.mp3
-#EXTINF:-1 station-id="awb_603b29337105038dd50e" stream-id="aws_1f30a4bad0b6c79394c4" codec="mp3" bitrate="160",Megadance Rádió
-http://gamershouse.hu:8000/livemega.mp3
 #EXTINF:-1 station-id="awb_603b29337105038dd50e" stream-id="aws_64b94126cdefa07de1d4" codec="mp3" bitrate="192",MegaDance Rádió
 http://megadanceradio.hopto.org:8000/livemega.mp3
-#EXTINF:-1 station-id="awb_603b29337105038dd50e" stream-id="aws_66fcd85fcbb2b25149e5" codec="mp3" bitrate="192",MegaDance Rádió
-https://gamershouse.hu:8080/livemega.mp3
 #EXTINF:-1 station-id="awb_e68c8289cb7ee3e8f47a" stream-id="aws_3a3637e0df4a02dad41f" codec="mp3" bitrate="192",MegaLive
 https://mega-live.net:2053/live.mp3
 #EXTINF:-1 station-id="awb_c57ad2dc4257fa392d1f" stream-id="aws_9b18063f80d293a8882f" codec="mp3" bitrate="192",MegaMixer
@@ -373,15 +357,13 @@ https://stream.diazol.hu:7092/zene.mp3
 https://stream.diazol.hu:7092/mese.mp3
 #EXTINF:-1 station-id="awb_bf65d0e42e1fc9796142" stream-id="aws_1b2578378a0a6a4dafe9" codec="mp3" bitrate="192",MR1 - Kossuth Rádió
 https://mr-stream.connectmedia.hu/4736/mr1.mp3
-#EXTINF:-1 station-id="awb_e8cccd42dde76183a9c6" stream-id="aws_79651cd99fa16bf1a8e2" codec="mp3" bitrate="192",MR2 - Petőfi Rádió
+#EXTINF:-1 station-id="awb_e8cccd42dde76183a9c6" stream-id="aws_79651cd99fa16bf1a8e2" codec="mp3" bitrate="128",MR2 - Petőfi Rádió
 https://mr-stream.connectmedia.hu/4738/mr2.mp3
 #EXTINF:-1 station-id="awb_43d9a3a1074193e70d0c" stream-id="aws_0199f68fddde5560d185" codec="mp3" bitrate="320",MR3 - Bartók Rádió
 https://mr-stream.connectmedia.hu/4741/mr3.mp3
 #EXTINF:-1 station-id="awb_e3724054ef0bb75b2634" stream-id="aws_cf8f15d2ef667f1fba6b" codec="mp3" bitrate="192",MR4 - Nemzetiségi Adások
 https://mr-stream.connectmedia.hu/4744/mr4.mp3
 #EXTINF:-1 station-id="awb_e2cd1d62b248014c84c7" stream-id="aws_daa9fc52b53b91e00a49" codec="mp3" bitrate="192",MR5 - Parlamenti Adások
-https://mr-stream.connectmedia.hu/4746/mr5.mp3
-#EXTINF:-1 station-id="awb_1f772b355a2ae6471051" stream-id="aws_40206bd0152058b774e0" codec="mp3" bitrate="192",MR5 - Parlamenti Adások
 https://mr-stream.connectmedia.hu/4746/mr5.mp3
 #EXTINF:-1 station-id="awb_e8b75c044f1fa9baabcd" stream-id="aws_dd622b9edfdaaf474d22" codec="mp3" bitrate="192",MR7 - Dankó Rádió
 https://mr-stream.connectmedia.hu/4748/mr7.mp3
@@ -461,13 +443,11 @@ https://a9.asurahosting.com/listen/passion_radio_hungary/radio.mp3
 https://stream.pecsaktual.hu/paradio.mp3
 #EXTINF:-1 station-id="awb_6468ea1c872e14c1115b" stream-id="aws_ea9da343a58ee70e18b4" codec="mp3" bitrate="256",Periszkop Radio
 https://mumia.periszkopradio.hu:8443/;stream.mp3
-#EXTINF:-1 station-id="awb_86e556786221d5a64710" stream-id="aws_85098ffca066e9c31d50" codec="mp3" bitrate="256",Periszkóp Rádió
-https://mumia.periszkopradio.hu:8443/;stream.mp3
 #EXTINF:-1 station-id="awb_ca37d2cf7197fe124946" stream-id="aws_173c84ce34f96cb6c6cb" codec="mp3" bitrate="192",Petőfi
 https://icast.connectmedia.hu/4738/mr2.mp3
 #EXTINF:-1 station-id="awb_e810c719ef5c1b430f3b" stream-id="aws_138e04ea457d9b3af03a" codec="aac+" bitrate="112",Petőfi Rádió
 http://mr-stream.mediaconnect.hu/4737/mr2.aac
-#EXTINF:-1 station-id="awb_e810c719ef5c1b430f3b" stream-id="aws_604ac4a8e55b584d668b" codec="mp3" bitrate="192",Petőfi Rádió
+#EXTINF:-1 station-id="awb_e810c719ef5c1b430f3b" stream-id="aws_604ac4a8e55b584d668b" codec="mp3" bitrate="128",Petőfi Rádió
 https://icast.connectmedia.hu/4738/mr2.mp3
 #EXTINF:-1 station-id="awb_0bbc50e761e91d9f6d9b" stream-id="aws_fa180ef65eb1a7eab39c" codec="mp3" bitrate="192",Petőfi Rádió
 https://mr-stream.connectmedia.hu/4738/mr2.mp3
@@ -481,8 +461,6 @@ http://adas.poptarisznya.hu:8200/oldies.mp3
 http://s39.myradiostream.com:11590/listen/;.mp3
 #EXTINF:-1 station-id="awb_2baec2e15eab0c8ebd14" stream-id="aws_5bac71027385a1f36239" codec="mp3" bitrate="160",Rábaköz Rádió
 https://radio.molnarkft.hu/rabakozradio
-#EXTINF:-1 station-id="awb_49b4d6a680f15af90424" stream-id="aws_22a1f92ed4be31cb6ef7" codec="mp3" bitrate="128",Rádió 1
-https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 station-id="awb_0fa10312bec302912dd6" stream-id="aws_fcfe6de9f1e42f977d5f" codec="mp3" bitrate="128",Radio 1
 https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 station-id="awb_c007f1b1dac619c84f8b" stream-id="aws_e47ad50b6c9ddc79aecb" codec="mp3" bitrate="128",Rádió 1
@@ -493,8 +471,6 @@ https://icast.connectmedia.hu/5233/live.mp3
 http://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 station-id="awb_27e240ccfbd94d54fe60" stream-id="aws_509235b45a6882847e72" codec="mp3" bitrate="128",Rádió 1 - Gyöngyös
 https://icast.connectmedia.hu/5039/live.mp3
-#EXTINF:-1 station-id="awb_34fe48c23ed3e5278a57" stream-id="aws_32b853b6e4ebd96f9386" codec="mp3" bitrate="128",Rádió 1 - Sopron
-http://icast.connectmedia.hu/5015/live.mp3
 #EXTINF:-1 station-id="awb_298539fb8e4dc3dac919" stream-id="aws_ca48a92416712b01e1cc" codec="mp3" bitrate="0",Rádió 1 Debrecen
 http://91.82.85.44:8080/debrecenradiofm95
 #EXTINF:-1 station-id="awb_21f2fb0650a6c996f1d1" stream-id="aws_3eeab98ab0743654aa34" codec="mp3" bitrate="192",Rádió 1 Eger
@@ -530,8 +506,6 @@ https://a7.asurahosting.com:8430/radio.mp3
 #EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_a37f97a20a0a196528c0" codec="mp3" bitrate="128",Rádió Comedy
 https://a7.asurahosting.com/listen/radio_comedy/radio.mp3
 #EXTINF:-1 station-id="awb_bed2b1f049d5f96c5688" stream-id="aws_eec21f6927ebbbd8ced0" codec="mp3" bitrate="128",Rádió Dabas
-http://stream3.virtualisan.net:7040/;
-#EXTINF:-1 station-id="awb_1619b159f0a92cef549c" stream-id="aws_e5ed94f5d5a4431c7d68" codec="mp3" bitrate="128",Rádió Dabas
 http://stream3.virtualisan.net:7040/;
 #EXTINF:-1 station-id="awb_dc44122fb1b3f8475552" stream-id="aws_b3843214b7225bb8277b" codec="mp3" bitrate="128",Rádió Dikh
 http://icast.connectmedia.hu/6121/live.mp3
@@ -587,8 +561,6 @@ http://trance.out.airtime.pro:8000/trance_a
 http://chill.out.airtime.pro:8000/chill_a
 #EXTINF:-1 station-id="awb_3dcac49e2d36adeb67b9" stream-id="aws_be1c996317d33ef64935" codec="mp3" bitrate="192",RadiOzora Chill
 https://chill.out.airtime.pro/chill_a
-#EXTINF:-1 station-id="awb_007f5731f4522f89a1fa" stream-id="aws_5c1b4b0a2cedf07d94c1" codec="mp3" bitrate="192",RadiOzora Trance
-https://trance.out.airtime.pro/trance_a
 #EXTINF:-1 station-id="awb_8d1732e0501db3827330" stream-id="aws_32dfb8842af1d8eb494e" codec="aac" bitrate="64",Reménység Hangja Rádió
 https://live.rvs.ro/mg
 #EXTINF:-1 station-id="awb_b013ee29a5cb4709d8ce" stream-id="aws_24f873ffc7cf83b9f54f" codec="mp3" bitrate="128",Retro Rádió
@@ -603,8 +575,6 @@ http://rockerradio.online/live.mp3
 https://rockerradio.online/live.mp3
 #EXTINF:-1 station-id="awb_a405ad868553d51e4331" stream-id="aws_3f5a931ea916d288418e" codec="mp3" bitrate="128",Röhej rádió
 https://listen.radioking.com/radio/641950/stream/704998
-#EXTINF:-1 station-id="awb_4351e4b326c7294badc6" stream-id="aws_4b7acf04eafb2a2ff82e" codec="mp3" bitrate="192",Roxy Radio
-https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1 station-id="awb_7a3bdbd953773c437b1c" stream-id="aws_5e7fbed7546b12a79d90" codec="mp3" bitrate="192",Roxy Rádió
 https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1 station-id="awb_0f3f098cb05d3cd8eaee" stream-id="aws_8fd1249ed5fb23a38ab0" codec="mp3" bitrate="320",Sárvár Rádió

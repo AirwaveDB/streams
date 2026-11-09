@@ -19,27 +19,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_4503915d1352d0aa3fe9",
-    "stationId": "awb_05c2140974c38534b2f3",
-    "name": "Al Karma FM",
-    "country": "SY",
-    "url": "https://broadcast.shoutstream.co.uk/stream/8112",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "SY:al-karma-fm",
-      "efdb05b0-a41c-487b-9cd2-a37652dd16b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
     "id": "aws_f64b39fde1e546262335",
     "stationId": "awb_24b6774ccc3c12220371",
     "name": "Al Karma FM",
@@ -57,6 +36,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:03:21Z"
+  },
+  {
+    "id": "aws_4503915d1352d0aa3fe9",
+    "stationId": "awb_05c2140974c38534b2f3",
+    "name": "Al Karma FM",
+    "country": "SY",
+    "url": "https://broadcast.shoutstream.co.uk/stream/8112",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "SY:al-karma-fm"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_6a62f0bc1c9dc011463b",
@@ -97,25 +95,6 @@
     "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
-    "id": "aws_0913e2f0766f57ead8ed",
-    "stationId": "awb_1aa8e79449dd5c012c59",
-    "name": "Arta FM",
-    "country": "SY",
-    "url": "http://edge.mixlr.com/channel/qtgru",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9744b93a-bf81-49a9-9fcc-bc3dcebc6e54"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_2ec4715f7bc223ea8da3",
     "stationId": "awb_b8259f1ae337b75effd4",
     "name": "Arta Radio",
@@ -152,25 +131,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:46:09Z"
-  },
-  {
-    "id": "aws_92b2ebbc4d719482a1ab",
-    "stationId": "awb_708f45ba92f8b3c0c4ce",
-    "name": "Asima Online Radio",
-    "country": "SY",
-    "url": "https://asima.out.airtime.pro/asima_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab0064e8-1f59-48a4-ad18-f288497abd79"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
   },
   {
     "id": "aws_5ec2ca2e6997dbb6b463",
@@ -223,15 +183,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5cc35d1b-1ff5-47c9-835d-a4ecc9ab7e76",
       "SY:denge-qamishlo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:05Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4b32ddba864e12480d33",
@@ -247,11 +205,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "261a7a31-985c-4561-9bc3-fa3b35d3a3ab",
-      "ac6a43db-e1c3-43fa-bdf8-cd2dddfc7101"
+      "261a7a31-985c-4561-9bc3-fa3b35d3a3ab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:43:51Z"
+    "lastCheckedAt": "2026-11-06T17:45:24Z"
   },
   {
     "id": "aws_95330434b936a3653a0a",
@@ -283,34 +240,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "626dd325-07e4-4187-b52f-d426af977c8a",
       "SY:exclusively-meat-loaf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:23:55Z"
-  },
-  {
-    "id": "aws_e96b458695bdfc14003b",
-    "stationId": "awb_772f5510116070d01676",
-    "name": "Farah FM",
-    "country": "SY",
-    "url": "https://radio.farah.fm/",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da5b77ca-890b-46da-aa24-e21502b50c65"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_dfa682fb354c46cda758",
@@ -450,25 +386,6 @@
     "lastCheckedAt": "2026-11-06T01:23:52Z"
   },
   {
-    "id": "aws_ab58a786955c107fee2b",
-    "stationId": "awb_f23f89f72ae915d60839",
-    "name": "Sawt Al Farah",
-    "country": "SY",
-    "url": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "033b6d50-6d02-4cdb-ac9a-73faba3881d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
     "id": "aws_e38fcb07b8aaf6fa2b88",
     "stationId": "awb_90486cd732802c59d540",
     "name": "sham fm",
@@ -505,25 +422,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:21:14Z"
-  },
-  {
-    "id": "aws_4666c6c1907f16626f0e",
-    "stationId": "awb_5bb186ae5f0716fe4dbd",
-    "name": "Syria TV",
-    "country": "SY",
-    "url": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "707a7780-9e40-4025-bb70-d19567af3f03"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:50:00Z"
   },
   {
     "id": "aws_0d520e479149e51ed0dc",
@@ -582,7 +480,7 @@
       "82a5c307-2dd2-4166-a455-11866a40be3b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_884ae202bc521d6f89a2",

@@ -114,25 +114,6 @@
     "lastCheckedAt": "2026-11-06T02:36:16Z"
   },
   {
-    "id": "aws_9896f1140f1e90109577",
-    "stationId": "awb_235350574af1995a79c9",
-    "name": "go",
-    "country": "IR",
-    "url": "https://stream.zeno.fm/v5kxmagseg0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a23469c1-a0f4-42f7-80d3-ca69f6ddaa01"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
-  },
-  {
     "id": "aws_a199305cbe2658ea20b9",
     "stationId": "awb_7e5198caa78a4567280c",
     "name": "go",
@@ -278,15 +259,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5c6c092b-2b8b-4ac1-a8d0-090f87037fd9",
       "IR:iraninternational"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:22:08Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f78be729e195a4efa8c3",
@@ -299,15 +278,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "65e1462d-1463-4d6a-8fa6-b06b3566ca34",
       "IR:muhammad-siddiq-al-minshawi"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:30:50Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e3df4f181f1d4790a598",
@@ -369,26 +346,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:55:36Z"
-  },
-  {
-    "id": "aws_f7221a091c1a87637a51",
-    "stationId": "awb_e34ac04820652f1a511d",
-    "name": "Radio Iran International",
-    "country": "IR",
-    "url": "https://radio.iraninternational.app/iintl_c",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4f2b0037-b429-4f36-8e42-0dd29c7d0f62",
-      "eb68658e-6039-4bef-924b-cfae14098abb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:07:20Z"
   },
   {
     "id": "aws_fc73551c352b95e9ab53",
@@ -551,25 +508,6 @@
     "lastCheckedAt": "2026-11-06T05:29:45Z"
   },
   {
-    "id": "aws_c533d4c53b1040218ed4",
-    "stationId": "awb_0ea239062c3a62e4c9b5",
-    "name": "RadioSimorgh",
-    "country": "IR",
-    "url": "https://stream.zeno.fm/jl8n7thgcdftv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ec389853-09d2-499a-8be2-f58dfe8f118c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:35:25Z"
-  },
-  {
     "id": "aws_89058f8f2e2245b48adb",
     "stationId": "awb_808658320cc23f8fdf6c",
     "name": "RadioSimorgh Authentic Iranian music",
@@ -599,15 +537,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7714000a-8b12-47b0-932c-c946527aec12",
       "IR:radioyar"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_068f4a91c7a0122d8131",
@@ -658,14 +594,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IR:radio-liberty-iran-official-stream",
-      "b6eedfc6-4a4b-4899-852f-03dd833f1f1b"
+      "IR:radio-liberty-iran-official-stream"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:26:30Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

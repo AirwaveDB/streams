@@ -62,20 +62,18 @@
     "name": "3ABN Christian Radio",
     "country": "NZ",
     "url": "https://stream.3abnaustralia.org.au:8443/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 56,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4bcd4860-b8b6-4dc7-834c-d0dce43e9291",
       "NZ:3abn-christian-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6b6532f415407bd00641",
@@ -141,25 +139,6 @@
     "lastCheckedAt": "2026-11-06T17:02:34Z"
   },
   {
-    "id": "aws_7073db75a1dc272d5259",
-    "stationId": "awb_dafc668aadbe40bd1d73",
-    "name": "95 BFM",
-    "country": "NZ",
-    "url": "https://streams.95bfm.com/stream128",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0fae7b5a-1f0c-41cf-96d8-1784bef0d0b7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:13:57Z"
-  },
-  {
     "id": "aws_4d4a563868daa746e4f7",
     "stationId": "awb_d0d794df50a4d7cd4ec4",
     "name": "95bFM - 256Kbps MP3",
@@ -221,25 +200,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:11:50Z"
-  },
-  {
-    "id": "aws_ec7f91535b9099b03377",
-    "stationId": "awb_0c6336e83b69799e5a8a",
-    "name": "95bFM Radio",
-    "country": "NZ",
-    "url": "https://streams.95bfm.com/stream112",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b228c63f-9303-4052-9d8f-692831140aee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
   },
   {
     "id": "aws_ffd726d7caad0c9c4d76",
@@ -339,25 +299,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
-    "id": "aws_82c33c21a79d5f0b9948",
-    "stationId": "awb_bdd33c2d70c755b97f47",
-    "name": "Arrow FM 92.7",
-    "country": "NZ",
-    "url": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
-    "codec": "mp3",
-    "bitrate": 134,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1777228-19a9-4bb4-9e1e-5fa5b657a32c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
   },
   {
     "id": "aws_64b1995c2b7c6321ad41",
@@ -469,15 +410,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NZ:beagle-88-1",
-      "d19d47a8-0ca0-438f-9273-25a117109dfe"
+      "NZ:beagle-88-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:08:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f54f984b63c131bbe4ec",
@@ -497,25 +436,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:32:27Z"
-  },
-  {
-    "id": "aws_5f88d8d91799e302fb81",
-    "stationId": "awb_63eb9914b5ffc09a8ff9",
-    "name": "Bollybop",
-    "country": "NZ",
-    "url": "https://s3.radio.co/s2f19d44d0/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42ade87d-8430-4599-9384-c792b1c97b9a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:24:28Z"
   },
   {
     "id": "aws_2d3611ba231910d0586f",
@@ -604,15 +524,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NZ:brian-fm-91-2-whanganui-nz",
-      "e0c08e17-4b92-4625-b090-df6a57b67018"
+      "NZ:brian-fm-91-2-whanganui-nz"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:59:46Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_364a295aa673a8e4d867",
@@ -652,7 +570,7 @@
       "178837fa-8850-434e-9c25-065c9450ec50"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_b26ee2a4b36bb6677007",
@@ -870,44 +788,6 @@
     "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
-    "id": "aws_7bcc3bf212dace91116b",
-    "stationId": "awb_22b70cab25e4471f7688",
-    "name": "Cool Blue Taupo",
-    "country": "NZ",
-    "url": "http://falcon.shoutca.st:8166/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "286bc0f6-8c74-4783-a343-6410c12fb752"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:12Z"
-  },
-  {
-    "id": "aws_6dc5395959be5ba84740",
-    "stationId": "awb_fe3c418c5b1fa62b61a6",
-    "name": "Country Radio Invercargill 105.2FM",
-    "country": "NZ",
-    "url": "http://countryradio2.no-ip.org:8000/;",
-    "codec": "mp3",
-    "bitrate": 40,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9ef832af-3283-4d23-acbf-2b4c2c2c697b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:37:58Z"
-  },
-  {
     "id": "aws_72b4f3bca8789bc2393e",
     "stationId": "awb_8fab5dd49c73646130a1",
     "name": "Country Radio Invercargilll",
@@ -999,8 +879,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c7e7b2e0-c99d-45e3-92ca-f709346a071a",
-      "e6f28764-3433-439c-9eb8-8f9fd0e95a88"
+      "c7e7b2e0-c99d-45e3-92ca-f709346a071a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:38:17Z"
@@ -1358,8 +1237,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0ff88412-d300-4660-9754-88199aa12e0f",
-      "b3d31ee0-e6ee-43c7-8315-1258553e70f5"
+      "0ff88412-d300-4660-9754-88199aa12e0f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:40:01Z"
@@ -1426,25 +1304,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:30:25Z"
-  },
-  {
-    "id": "aws_27c4efa7532e79d811d2",
-    "stationId": "awb_c9355fdbcd692af1ec36",
-    "name": "https://www.newstalkzb.co.nz/",
-    "country": "NZ",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_11AAC.m3u8",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e72b2d2b-fde1-4c71-9548-6a76513cbc17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:57:48Z"
   },
   {
     "id": "aws_29f58beea6019d08d60e",
@@ -1849,25 +1708,6 @@
     "lastCheckedAt": "2026-11-06T05:40:15Z"
   },
   {
-    "id": "aws_17be0f2513f5dca9fb96",
-    "stationId": "awb_c8c5c6adb9815d2c0715",
-    "name": "metalradio.co.nz",
-    "country": "NZ",
-    "url": "http://curiosity.shoutca.st:9073/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d596f379-e7a5-49c6-923c-117e26d9d365"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
-  },
-  {
     "id": "aws_535387620a7cddae6e4c",
     "stationId": "awb_50a7d0a98bbbd58591cd",
     "name": "metalradio.co.nz",
@@ -1881,8 +1721,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0189c6f6-3880-4381-8511-a4b694753ccf",
-      "ef5519ea-980a-4eb3-8282-c9275b639147"
+      "0189c6f6-3880-4381-8511-a4b694753ccf"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:56:42Z"
@@ -1902,7 +1741,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3a8a8d3c-00ef-48fa-be6e-90b352c01fca",
+      "9cbf430d-5fe4-4ecd-a99e-9c27f7c33d45",
       "NZ:mix-fm-87-9-wellington-new-zealand"
     ],
     "lastCheckOk": true,
@@ -2041,8 +1880,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4406eb02-8077-4035-999a-73ec35bf51d9",
-      "NZ:mouthfull-radio"
+      "NZ:mouthfull-radio",
+      "de0f20c2-a5b9-41fd-91e0-8b419acf52da"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T09:32:40Z"
@@ -2534,7 +2373,7 @@
       "c7e32893-dc87-48df-8b0d-04c1fb721a16"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_b36d9a21b5a2774504c0",
@@ -2596,25 +2435,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
-    "id": "aws_e0426e55f33ab1585cd8",
-    "stationId": "awb_bf0599c8794177e24f09",
-    "name": "Radio A - Nelson NZ",
-    "country": "NZ",
-    "url": "https://listen.radioking.com/radio/106324/stream/145267",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e3daf602-40fe-433a-810f-4807031f4af4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
   },
   {
     "id": "aws_71f622749a5e87fdddd5",
@@ -2855,25 +2675,6 @@
     "lastCheckedAt": "2026-11-07T01:00:42Z"
   },
   {
-    "id": "aws_bbdfca748ad860059539",
-    "stationId": "awb_f2fc892fe874f1d1d670",
-    "name": "Radio New Zealand National",
-    "country": "NZ",
-    "url": "http://radionz-ice.streamguys.com/national.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7350f5a9-b488-44ee-8a8d-3ba123ead9e9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
-  },
-  {
     "id": "aws_574f01effcd2d7fd82e0",
     "stationId": "awb_eb6686c00c2710ee4c4b",
     "name": "Radio one 91 fm",
@@ -2903,15 +2704,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "NZ:radio-one-91fm",
-      "b562983d-1c3d-456c-acdd-bcef491f245e"
+      "NZ:radio-one-91fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:14:35Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c1e88e1a9bde0f963f8e",
@@ -3139,15 +2938,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "35732d95-d390-4097-94c5-017385c081ca",
       "NZ:radioactive-fm-88-6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:01:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_32b8d4d9a313396877c0",
@@ -3468,44 +3265,6 @@
     "lastCheckedAt": "2026-11-06T18:18:44Z"
   },
   {
-    "id": "aws_d3c86cf97146a479a8f7",
-    "stationId": "awb_32c80fc5df18943846fe",
-    "name": "RNZ National",
-    "country": "NZ",
-    "url": "http://radionz-ice.streamguys.com/national.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e3b25d8-5e08-488c-adb7-a83b5139ffc6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
-  },
-  {
-    "id": "aws_cd2f10251c3103d1c790",
-    "stationId": "awb_b1a0210384a16830d3bc",
-    "name": "RNZ National",
-    "country": "NZ",
-    "url": "http://radionz-ice.streamguys.com/national.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "423659fb-532d-4490-9d7d-a2f1f9a682f0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:56:29Z"
-  },
-  {
     "id": "aws_ea0b39864fbe8d1c83e9",
     "stationId": "awb_3c601aa3f820934725ea",
     "name": "RNZ National",
@@ -3701,7 +3460,7 @@
       "NZ:sayhifm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
+    "lastCheckedAt": "2026-11-06T00:16:28Z"
   },
   {
     "id": "aws_de6a0f474a27d1e704b9",
@@ -4400,25 +4159,6 @@
     "lastCheckedAt": "2026-11-06T03:43:29Z"
   },
   {
-    "id": "aws_e3fd58251b825e3893f3",
-    "stationId": "awb_436fcc163a3bbad09c16",
-    "name": "Wandering Sheep Radio - Jazz Cafe",
-    "country": "NZ",
-    "url": "http://radio.wanderingsheep.tv:8000/jazzcafe",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962b96e7-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
-  },
-  {
     "id": "aws_db1ddd05ff4e6a6d96d4",
     "stationId": "awb_4de6ab5ce1901f9001cb",
     "name": "WCR 87.6 FM",
@@ -4455,25 +4195,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:44:52Z"
-  },
-  {
-    "id": "aws_910cf3c77f855ba3111e",
-    "stationId": "awb_710170e739f32e35e28b",
-    "name": "West Coast Radio",
-    "country": "NZ",
-    "url": "http://stream2.nrgkits.co.nz:5000/wcrfm",
-    "codec": "mp3",
-    "bitrate": 170,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1af0dac-2021-42d1-9d5d-ca5dbc4301f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
   },
   {
     "id": "aws_6679b12b53174748909e",
@@ -4527,11 +4248,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "441d7702-b003-4668-ab26-589f3a4c4934",
-      "d8ea3ea6-fb6d-4e54-9f19-9a8b76b124e2"
+      "441d7702-b003-4668-ab26-589f3a4c4934"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
+    "lastCheckedAt": "2026-11-06T13:51:00Z"
   },
   {
     "id": "aws_2ab3c8fc86e270197652",

@@ -76,25 +76,6 @@
     "lastCheckedAt": "2026-11-06T18:00:22Z"
   },
   {
-    "id": "aws_f7589d57bb982a27857a",
-    "stationId": "awb_539ba6ca4528f0463ef6",
-    "name": "achkid fm",
-    "country": "MA",
-    "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d7b5fc56-9ab0-4ed8-a3d0-9e5fe1169e6d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:03:49Z"
-  },
-  {
     "id": "aws_9295e718bda03e2b676e",
     "stationId": "awb_16bc7b09bbffceb6e65e",
     "name": "Adwaafm",
@@ -191,26 +172,7 @@
       "MA:atlantic-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:43:25Z"
-  },
-  {
-    "id": "aws_baf0882a2028684ac71e",
-    "stationId": "awb_7ca177ac3648a8cd3afb",
-    "name": "Atlantic Radio Maroc",
-    "country": "MA",
-    "url": "https://atlantic-sonic.nindohost.net:9300/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6549b907-adb2-4d0f-a896-1f0e7da460d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:50Z"
+    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_d8d2c0d82e8ed9e6d6c1",
@@ -231,7 +193,7 @@
       "a182e5ba-a840-40bf-9e51-01bef3ad9e24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-11-06T09:34:33Z"
   },
   {
     "id": "aws_bad68232305374c38ca7",
@@ -282,15 +244,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "MA:capradio",
-      "bd0dfbbf-7594-4980-98de-8311c4522b2e"
+      "MA:capradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:31:17Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f0ef06248d2823c79e6c",
@@ -360,15 +320,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "45fbac1d-4838-4b51-b3eb-7c92fba5ef1a",
       "MA:hit-radio-morocco"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:38:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_2ee082c76199181f381b",
@@ -438,15 +396,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6df8b651-cc31-44ed-bdbe-c602f85b707e",
       "MA:marrakechplus"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_42c859de0680d74eac6d",
@@ -466,25 +422,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:31:00Z"
-  },
-  {
-    "id": "aws_c6599bd3148408484ef9",
-    "stationId": "awb_ad56c59b455011ace9ed",
-    "name": "MEDI 1 RADIO",
-    "country": "MA",
-    "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "239e89a7-62a1-4c5c-b9a1-132dae7a3ac8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
   },
   {
     "id": "aws_fe029b1ef6ea13f0e14a",
@@ -628,25 +565,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:01:25Z"
-  },
-  {
-    "id": "aws_7a7e9f08139240ac626d",
-    "stationId": "awb_f70e8ebf34e42a748fb9",
-    "name": "Medina FM Nachat (128 kbps)",
-    "country": "MA",
-    "url": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8ada979f-dc6b-49ca-9dc9-bd3377c99aac"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_896af1d1d6a10f79e1cb",
@@ -864,25 +782,6 @@
     "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
-    "id": "aws_ed9390afb5fe51c7b996",
-    "stationId": "awb_acef471d8df3beeba2bc",
-    "name": "radio achkid fm راديوأشكيدإف إم",
-    "country": "MA",
-    "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "716b3744-d497-4dcf-a0fb-d4563c3e58b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:18:42Z"
-  },
-  {
     "id": "aws_460a6c0e278f076f24f8",
     "stationId": "awb_54ea3e561b1646a6bd99",
     "name": "Radio Adwaa FM 6",
@@ -900,25 +799,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:16:28Z"
-  },
-  {
-    "id": "aws_56dfbe9014ca9b70772c",
-    "stationId": "awb_b27f97bf7048f3a3d33b",
-    "name": "Radio Adwaa FM6",
-    "country": "MA",
-    "url": "https://stream.zeno.fm/tvxvud2kpm0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dffdfa3f-13fd-4a77-9e42-b80ed79913f9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
     "id": "aws_c087352c25f40611c25b",
@@ -1072,15 +952,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "377ec7c3-41fd-48d0-ab98-0c2485ec7d4d",
       "MA:radio-mfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f1098d483f185ffe7b53",
@@ -1255,7 +1133,7 @@
       "787ca047-b18b-4430-b5cb-54628d77751e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_68c8b0c36b003b9a9175",

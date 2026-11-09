@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 station-id="awb_ddd2f0a889b5b975fca5" stream-id="aws_448d524f8c856b2c36a8" codec="ogg" bitrate="0",&#1056;&#1072;&#1076;&#1080;&#1086; FM+
-http://31.13.223.148:8000/fmplus.ogg
 #EXTINF:-1 station-id="awb_358c035cee4ad4488780" stream-id="aws_0a00d4ea8eded0f5232b" codec="mp3" bitrate="0",1 Rock Bulgaria
 http://31.13.223.148:8000/1_rock.mp3
 #EXTINF:-1 station-id="awb_e55e88e8f36481bd824a" stream-id="aws_f94200b2bb09dd6edd89" codec="aac" bitrate="160",ALMA MATER
@@ -15,7 +13,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L
 https://play-radio0.jump.bg:7028/live
 #EXTINF:-1 station-id="awb_3ce076a8968d5877fad1" stream-id="aws_907edf3451535bef1bf9" codec="mp3" bitrate="96",BadRock Classic Rock
 https://play-radio0.jump.bg:7489/live
-#EXTINF:-1 station-id="awb_e854bc6fd7e6b4b73ff6" stream-id="aws_fb040c318b0522c25fb1" codec="mp3" bitrate="320",Badrock Classic Rock
+#EXTINF:-1 station-id="awb_e854bc6fd7e6b4b73ff6" stream-id="aws_fb040c318b0522c25fb1" codec="mp3" bitrate="320",BadRock Classic Rock
 https://streams.badrockradio.net/classic-rock
 #EXTINF:-1 station-id="awb_c8882d24fb65be524286" stream-id="aws_9373c8362d8657007789" codec="mp3" bitrate="320",Badrock Golden Era
 https://streams.badrockradio.net/golden-era
@@ -23,8 +21,6 @@ https://streams.badrockradio.net/golden-era
 https://play-radio0.jump.bg:7049/live
 #EXTINF:-1 station-id="awb_0fcfe26da09ac30faf8f" stream-id="aws_4f4c7bab1b08a73b3517" codec="mp3" bitrate="320",Badrock Hard & Heavy
 https://streams.badrockradio.net/hard-heavy
-#EXTINF:-1 station-id="awb_b6d3031d6900f4c8795d" stream-id="aws_de80ffa77e15543e9924" codec="mp3" bitrate="320",Badrock National
-https://streams.badrockradio.net/national
 #EXTINF:-1 station-id="awb_35fbc0cdf40cfda5afb5" stream-id="aws_12d5d724f7ae1d20c658" codec="mp3" bitrate="96",BadRock Radio
 https://radio.jump.bg:7028/live
 #EXTINF:-1 station-id="awb_35fbc0cdf40cfda5afb5" stream-id="aws_47d53ad8961c76d1ee90" codec="mp3" bitrate="320",BadRock Radio
@@ -49,16 +45,12 @@ http://stream.radioreklama.bg/bgradio128
 https://stream.radio.co/s53f1b7497/listen
 #EXTINF:-1 station-id="awb_28aaa9e00860c163ec49" stream-id="aws_90de9bb65fca4a64326d" codec="aac" bitrate="41",BNR - Hristo Botev
 https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_f54efb7a02fe2a59cb38" stream-id="aws_c81fb153168f84cbeb22" codec="aac+" bitrate="36",BNR Burgas
-http://stream.bnr.bg:8037/radio-burgas.aac
-#EXTINF:-1 station-id="awb_738dcf1ed569f72b810d" stream-id="aws_2c2e0c5d508b1ef5c148" codec="aac" bitrate="48",BNR Horizont
-https://play.global.audio/testb.aac?dist=RADIOPLAY
 #EXTINF:-1 station-id="awb_77406ad6bac48e01dcc7" stream-id="aws_c7e353618c10df852d8b" codec="aac" bitrate="48",BNR Horizont
+https://play.global.audio/testb.aac?dist=RADIOPLAY
+#EXTINF:-1 station-id="awb_738dcf1ed569f72b810d" stream-id="aws_2c2e0c5d508b1ef5c148" codec="aac" bitrate="48",BNR Horizont
 https://play.global.audio/testb.aac?dist=RADIOPLAY
 #EXTINF:-1 station-id="awb_e593a04accde5dd621db" stream-id="aws_d43169904750cb679b6d" codec="mp3" bitrate="192",BNR Stara Zagora
 http://82.103.99.99:8000/radiosz
-#EXTINF:-1 station-id="awb_2867865c4d3a784bd327" stream-id="aws_f8966c85a5a2b05e3e98" codec="mp3" bitrate="128",BNR Varna
-http://broadcast.masters.bg:8000/live
 #EXTINF:-1 station-id="awb_bffdf09b1e1c95dd265e" stream-id="aws_2a2221adb616923444b8" codec="mp3" bitrate="192",Braille FM
 http://play-radio0.jump.bg:8181/live
 #EXTINF:-1 station-id="awb_8f1eecf367b556bee882" stream-id="aws_b17f6ae024f2481f9925" codec="mp3" bitrate="192",Braille FM
@@ -75,8 +67,6 @@ http://185.20.88.1:8010/
 http://radio.chanove.com:8000/stream
 #EXTINF:-1 station-id="awb_29062a31ce517b596650" stream-id="aws_64194142578484c4c280" codec="mp3" bitrate="128",Cherveniat Papagal
 https://stream-64.zeno.fm/80qzq207rm0uv?zs=_xFVUn2nS3qDiPZ-lCCmIQ
-#EXTINF:-1 station-id="awb_918ff4bb2b149a5373a6" stream-id="aws_44f9b3269274e6de60e9" codec="mp3" bitrate="0",City Bulgaria
-http://31.13.223.148:8000/city.mp3
 #EXTINF:-1 station-id="awb_a04102be6fb04c824374" stream-id="aws_a5f3f7b1e2c32efc727f" codec="aac" bitrate="128",City HipHop R&B
 https://play.global.audio/cityrabhi.aac
 #EXTINF:-1 station-id="awb_69999cd8283c68d86b97" stream-id="aws_e940b886f500274cd135" codec="aac" bitrate="48",City HipHop RaB
@@ -119,8 +109,6 @@ https://live.easyradio.bg/aac?type=.mp3
 https://live.easyradio.bg/flac
 #EXTINF:-1 station-id="awb_7b67bfe4f56fbee643b9" stream-id="aws_1b0e8ebfc90673897862" codec="mp3" bitrate="192",Easy Radio BG
 https://live.easyradio.bg/192?type=.mp3
-#EXTINF:-1 station-id="awb_ea39f4e9ccd15d546650" stream-id="aws_2dea309cc610e17244b5" codec="ogg" bitrate="16",Easy Radio FLAC
-http://live.easyradio.bg/flac
 #EXTINF:-1 station-id="awb_ea39f4e9ccd15d546650" stream-id="aws_747f7da675896822300f" codec="ogg" bitrate="1536",Easy Radio FLAC
 https://c30.radioboss.fm:8758/autodj
 #EXTINF:-1 station-id="awb_d824c6aea4d2bf2630b1" stream-id="aws_693412ecc84b96de7019" codec="ogg" bitrate="128",EasyRadio.Bg (FLAC)
@@ -189,12 +177,8 @@ http://listen.folkbg.net:8002/folkbg
 http://folkbg.ombadmin.com:8001/folkbg
 #EXTINF:-1 station-id="awb_00cae7ae4a24ce8f1075" stream-id="aws_ce4cc161cc1377d42ca9" codec="mp3" bitrate="128",Fred Film Radio(Български език)
 https://s10.webradio-hosting.com/proxy/fredradiobg/stream
-#EXTINF:-1 station-id="awb_f04d1037e4b41d8c9fc3" stream-id="aws_a47cfd065e3621eefb8a" codec="mp3" bitrate="128",Fresh Bulgaria
-http://31.13.223.148:8000/fresh.mp3
 #EXTINF:-1 station-id="awb_6679032d4d8b01f75932" stream-id="aws_8bd85e6341096bd7224a" codec="mp3" bitrate="128",Fresh!
 http://193.108.24.21:8000/fresh
-#EXTINF:-1 station-id="awb_9841b07bcdd5fc683bf7" stream-id="aws_98b7fe94168404c0d635" codec="mp3" bitrate="192",Fusion 7
-https://radio.palamarka.com/listen/fusion7/radio.mp3
 #EXTINF:-1 station-id="awb_602af5a9dcabd91616e2" stream-id="aws_8a799d0ea8e77bd0e13e" codec="mp3" bitrate="192",Fusion7
 https://radio.palamarka.com/listen/fusion7/radio.mp3
 #EXTINF:-1 station-id="awb_22aa3ef06c0335bd4711" stream-id="aws_df625f46ab2f13886a78" codec="mp3" bitrate="320",Glarus Retro FM
@@ -233,10 +217,6 @@ http://79.98.108.170:8332/;
 http://79.98.108.170:8332/;stream.mp3
 #EXTINF:-1 station-id="awb_69f064ae5df50e0da830" stream-id="aws_42a65e5b39c5d9bd1654" codec="mp3" bitrate="320",Lozenets Radio
 https://c18.radioboss.fm/stream/784
-#EXTINF:-1 station-id="awb_cbfd36c358c8e6600fdc" stream-id="aws_b3911861c7ff745b7e2c" codec="mp3" bitrate="128",Luxor Web Radio
-http://79.98.108.170:8078/autodj
-#EXTINF:-1 station-id="awb_4b60b267188cd065d874" stream-id="aws_68f14eca27e5e0586091" codec="aac" bitrate="105",MAGIC FM
-https://bss1.neterra.tv/magicfm/magicfm.m3u8
 #EXTINF:-1 station-id="awb_7c8b91c308b3b60472d7" stream-id="aws_92e10d42e66c26a2861a" codec="mp3" bitrate="128",MAGIC PARTY
 https://nova-radio.neterra.tv/magicparty
 #EXTINF:-1 station-id="awb_7f54734a016e30efab21" stream-id="aws_fb3fddab3a357269084e" codec="mp3" bitrate="192",Maxx FM Bulgaria | HQ
@@ -249,23 +229,17 @@ http://rnmediagroup.com:10000/;
 https://eu1.reliastream.com/proxy/feedb?mp=/CRR64
 #EXTINF:-1 station-id="awb_6c513890aec30b3a77ba" stream-id="aws_5b2af0c511e746881c6e" codec="mp3" bitrate="128",Metro Country Rock HD
 https://radio.jump.bg/proxy/feed104?mp=/MSRR
-#EXTINF:-1 station-id="awb_0feeeac60c825348656b" stream-id="aws_b5198e12d80edd25cae6" codec="mp3" bitrate="112",Metro DANCE Radio
+#EXTINF:-1 station-id="awb_0feeeac60c825348656b" stream-id="aws_b5198e12d80edd25cae6" codec="mp3" bitrate="112",Metro Dance Radio
 https://eu1.reliastream.com/proxy/mdr?mp=/MDR
 #EXTINF:-1 station-id="awb_ea20a888b58a4e2dfa14" stream-id="aws_b9dd082816514ccda585" codec="mp3" bitrate="128",Metro Dance Radio HD
 https://radio.jump.bg/proxy/predp?mp=/MDR
-#EXTINF:-1 station-id="awb_bbe41a1a6ef55a60e045" stream-id="aws_e04a17571c2ba62ac5e6" codec="mp3" bitrate="128",Metro Hits
-https://eu1.reliastream.com/proxy/mhr?mp=/MHR
 #EXTINF:-1 station-id="awb_2820769d914483708d5f" stream-id="aws_dbfbc524560af6c67250" codec="mp3" bitrate="128",Metro HITS Radio
 https://eu1.reliastream.com/proxy/mhr?mp=/MHR
 #EXTINF:-1 station-id="awb_ef4458fdae54c963d6ab" stream-id="aws_985067d7c9295575b4d9" codec="mp3" bitrate="128",Metro Love
 https://eu1.reliastream.com/proxy/service?mp=/service
 #EXTINF:-1 station-id="awb_2d1da81d9c175d4bbf05" stream-id="aws_ce7823174fcf08843894" codec="aac" bitrate="64",Metro Love 00s
 https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
-#EXTINF:-1 station-id="awb_7a43bbc1fadf539ad7df" stream-id="aws_4c4cb527c0b2cb378eab" codec="mp3" bitrate="128",Metro Love 70s
-https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S
 #EXTINF:-1 station-id="awb_faa075238bcce48209a5" stream-id="aws_78bc3c0fe09beed5bf9e" codec="mp3" bitrate="128",Metro Love 80s
-https://eu1.reliastream.com/proxy/love80?mp=/MLR80S
-#EXTINF:-1 station-id="awb_f0d3f15816c5a9bc72bc" stream-id="aws_3d735eff216fd2bb8fdf" codec="mp3" bitrate="128",Metro Love 90s
 https://eu1.reliastream.com/proxy/love80?mp=/MLR80S
 #EXTINF:-1 station-id="awb_d779557622876193283c" stream-id="aws_438138c003ae89400970" codec="mp3" bitrate="128",Metro Love 90s Plus
 https://eu1.reliastream.com/proxy/love80?mp=/MLR90S
@@ -353,8 +327,6 @@ http://79.98.108.170:8014/autodj
 http://87.252.182.193:8000/;
 #EXTINF:-1 station-id="awb_364ece3c0fb4ed6add66" stream-id="aws_1d6c67d79258c6a8e0ff" codec="mp3" bitrate="192",Radio Bella
 https://online.radiobella.com/listen/radio.bella/radio.mp3
-#EXTINF:-1 station-id="awb_0abb0eca31f1c6529a55" stream-id="aws_5d1db0b63d1577b606fb" codec="mp3" bitrate="128",Radio BG London Plus
-http://live.radiobg.co.uk:8000/live
 #EXTINF:-1 station-id="awb_ea974d7232889cdf5450" stream-id="aws_eab75b60c5a88d340227" codec="mp3" bitrate="128",RADIO BGRADIO
 https://play.global.audio/bgradio128
 #EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="64",Radio Big Boss
@@ -413,13 +385,9 @@ http://87.121.90.229:9000/live_128
 http://radio.helikon.bg:9000/live_128
 #EXTINF:-1 station-id="awb_f61821c72258bb9d1c2c" stream-id="aws_4955fa4e544356af1ce1" codec="mp3" bitrate="128",Radio Horo
 http://g5.turbohost.eu:8020/stream256
-#EXTINF:-1 station-id="awb_9279b609ca39ee544921" stream-id="aws_2b785ce831bc387c3d00" codec="mp3" bitrate="128",Radio Horo Plus
-http://g5.turbohost.eu:8020/stream256
 #EXTINF:-1 station-id="awb_1a067e31d4d100be4fac" stream-id="aws_af4edbe9fba191856a2f" codec="mp3" bitrate="128",Radio Hushove
 http://79.98.108.173:8006/radioxaschove
 #EXTINF:-1 station-id="awb_a2007afca185c9ee6e13" stream-id="aws_8f25eeb80dbbf8f5811b" codec="mp3" bitrate="128",Radio Jega
-http://g5.turbohost.eu:8004/stream
-#EXTINF:-1 station-id="awb_317cbe8c4d6abfcd1b85" stream-id="aws_547cd61d677a3747f9db" codec="mp3" bitrate="128",Radio Jega Жега
 http://g5.turbohost.eu:8004/stream
 #EXTINF:-1 station-id="awb_71490a590ba8591c2303" stream-id="aws_7686828542160bd0241a" codec="mp3" bitrate="128",Radio Jugomania
 https://s8.yesstreaming.net:17051/autodj
@@ -487,8 +455,6 @@ http://79.98.108.170:8043/;
 http://79.98.108.170:8033/autodj
 #EXTINF:-1 station-id="awb_2706db902c213fad03c1" stream-id="aws_38f141a2820bef8c839b" codec="mp3" bitrate="320",Radio Strimonika
 https://play-radio0.jump.bg:7666/stream
-#EXTINF:-1 station-id="awb_fdc05446acdc5d9dbe96" stream-id="aws_6540b1cf3ace9cfd2128" codec="mp3" bitrate="128",Radio Sunny Beach
-https://sunny-beachradio.stream.laut.fm/sunny-beachradio
 #EXTINF:-1 station-id="awb_767acd074ba054ac050d" stream-id="aws_973065e3057fccb3df6b" codec="mp3" bitrate="128",Radio Teteven
 http://g5.turbohost.eu:8001/teteven
 #EXTINF:-1 station-id="awb_84fb9ff1b03616c557a4" stream-id="aws_ff653040893db0b26134" codec="aac" bitrate="105",Radio The Voice
@@ -507,8 +473,6 @@ http://88.80.96.25:40070/vega.mp3
 http://play.global.audio/veronikahi.aac
 #EXTINF:-1 station-id="awb_8363fabd0b25d31e8731" stream-id="aws_ddfe4c06b38512314424" codec="mp3" bitrate="64",RADIO VERONIKA
 https://play.global.audio/veronika64
-#EXTINF:-1 station-id="awb_a9b5c1bb31d4d160c1d4" stream-id="aws_12855a05b871dcbf83b6" codec="aac" bitrate="105",Radio Veselina
-https://bss1.neterra.tv/veselina/veselina.m3u8
 #EXTINF:-1 station-id="awb_89fb63b4755a80ed2455" stream-id="aws_4af6be898acbaee26fe9" codec="aac" bitrate="105",Radio Veselina Bulgaria
 https://bss1.neterra.tv/veselina/veselina.m3u8
 #EXTINF:-1 station-id="awb_bc4288de0642ed4ef08a" stream-id="aws_c9afe1107de7ff22dbef" codec="mp3" bitrate="128",Radio Vidin
@@ -577,8 +541,6 @@ https://stream.sweetradio.online:8001/tvr
 http://88.80.96.25:3060/
 #EXTINF:-1 station-id="awb_99594c932a5ae08e07c4" stream-id="aws_875a8e67d234e726f55b" codec="mp3" bitrate="128",Ultra Pernik
 http://88.80.96.25:8000/
-#EXTINF:-1 station-id="awb_cbc40bf8ac018c56f801" stream-id="aws_b331a49f851d9f6ab2c2" codec="mp3" bitrate="128",Ultra Sandanski
-http://88.80.96.25:8000/
 #EXTINF:-1 station-id="awb_16304c543c32a75577f7" stream-id="aws_bf5aef3a0d50f47408c4" codec="aac" bitrate="160",Vanilla
 https://play.global.audio/vanillahi.aac
 #EXTINF:-1 station-id="awb_6f71a7f3af6aec4facf9" stream-id="aws_98a6a15da54ac60673cd" codec="mp3" bitrate="128",Vega+ Sandaski
@@ -621,26 +583,14 @@ http://stream.bnr.bg:8035/radio-blagoevgrad.aac
 https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_53bc795a3c96e907f185" stream-id="aws_c4978e038c12a7ab7194" codec="aac+" bitrate="36",БНР – Радио Бургас
 http://stream.bnr.bg:8037/radio-burgas.aac
-#EXTINF:-1 station-id="awb_8659c6032f2406add929" stream-id="aws_98e32932944106f456ad" codec="aac" bitrate="41",БНР – Радио Бургас
-https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_2257814131e6958c0672" stream-id="aws_867090b91e300acea5ac" codec="aac+" bitrate="36",БНР – Радио Видин
 http://stream.bnr.bg:8036/radio-vidin.aac
 #EXTINF:-1 station-id="awb_d6f2b483dedf3b56154b" stream-id="aws_989e492c8b6b5b904b91" codec="aac" bitrate="41",БНР – Радио Видин
 https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_3a189057bc06b6111317" stream-id="aws_06cfecb3300a008cce18" codec="aac+" bitrate="36",БНР – Радио Кърджали
 http://stream.bnr.bg:8038/radio-kardzhali.aac
-#EXTINF:-1 station-id="awb_0856711f11d8dc9779ce" stream-id="aws_d0026168b8ad95ace0ce" codec="aac" bitrate="41",БНР – Радио Кърджали
-https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_620934782e6a2992bd06" stream-id="aws_752fe46c75aa3c43a816" codec="aac" bitrate="41",БНР – Радио Пловдив
-https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_a74b6c39b0a7fcc897a7" stream-id="aws_e086b1f6d49f8ef76452" codec="aac" bitrate="41",БНР – Радио София
-https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_683a57d2332876687815" stream-id="aws_ce70964fffcc5bf19a28" codec="aac" bitrate="41",БНР – Радио Шумен
-https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_cb169c20cefb2de8feb2" stream-id="aws_10b8070f4a2f794d1f78" codec="unknown" bitrate="0",БНР Радио Русе 98.6 FM
 https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/chunklist.m3u8
-#EXTINF:-1 station-id="awb_954f591b0459853bc664" stream-id="aws_8829f6c122a11f2a58c3" codec="aac" bitrate="96",БНР Хоризонт
-https://play.global.audio/testbhi.aac
 #EXTINF:-1 station-id="awb_8f5181593360247299d3" stream-id="aws_0193cf36da22270430ec" codec="ogg" bitrate="0",Енерджи (opus)
 http://stream.radioreklama.bg/nrj.opus
 #EXTINF:-1 station-id="awb_d515aa4678ea8d51179a" stream-id="aws_81bc265779bd48cd16ff" codec="aac" bitrate="128",Коледно радио
@@ -649,8 +599,6 @@ https://play.global.audio/radio1-koledahi.aac
 http://www.rnmediagroup.com:9000/
 #EXTINF:-1 station-id="awb_6df71d154c08b34b6c96" stream-id="aws_8fdf5d32dc3b5eee2207" codec="mp3" bitrate="128",Общинско радио Разград
 http://stream.radioextra-bg.net:8000/razgrad
-#EXTINF:-1 station-id="awb_f77d63dd6b4ad41bf2a3" stream-id="aws_2d8027cd92de5b080803" codec="mp3" bitrate="320",Радио „Епархийски глас“
-http://radio.mitropolia-sofia.org:8610/stream
 #EXTINF:-1 station-id="awb_f77d63dd6b4ad41bf2a3" stream-id="aws_4ecd02fc1d48adccc3a4" codec="mp3" bitrate="320",Радио „Епархийски глас“
 https://radio.mitropolia-sofia.org:7610/stream
 #EXTINF:-1 station-id="awb_010bceb459c94a8b4437" stream-id="aws_46f44e8b5e5468b821be" codec="mp3" bitrate="320",Радио Bulgaria ON AIR Русе 103.9 FM
@@ -659,8 +607,6 @@ https://live.radio.bgonair.bg/RadioBOA
 http://31.13.223.148:8000/city.mp3
 #EXTINF:-1 station-id="awb_8f22ff6eebf97ae2c97d" stream-id="aws_38e2e6a6615dc06fe416" codec="aac+" bitrate="128",Радио Energy Болгария Русе 100.5 FM
 https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac
-#EXTINF:-1 station-id="awb_5af066a091e3c9464000" stream-id="aws_646bc1ab7bc6f8a3124d" codec="mp3" bitrate="128",Радио FM+
-http://193.108.24.21:8000/fmplus
 #EXTINF:-1 station-id="awb_80f9b79de68f5ad8be0f" stream-id="aws_fd0cc8bd29f4ba9cf842" codec="mp3" bitrate="128",Радио FM+ Русе 94.4 FM
 https://pulsar.atlantis.bg:8443/fmplusnew
 #EXTINF:-1 station-id="awb_83424475b7c3635dd414" stream-id="aws_1d19d8ffdafbf73ea506" codec="mp3" bitrate="128",Радио Fresh!
@@ -675,8 +621,6 @@ https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8
 https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8
 #EXTINF:-1 station-id="awb_3dc4f7cd86593c779bbd" stream-id="aws_4cd8cd263df67b3d7ff8" codec="mp3" bitrate="128",Радио Варна
 http://broadcast.masters.bg:8000/live
-#EXTINF:-1 station-id="awb_75bbb26ccbf65d1b4b55" stream-id="aws_641773c44a4734d539de" codec="mp3" bitrate="320",Радио Велико Търново
-http://195.34.121.140:8002/high
 #EXTINF:-1 station-id="awb_a5424efd5b53ce06cc62" stream-id="aws_560ecc413345a65869d8" codec="aac+" bitrate="128",Радио Вероника Русе 99.0 FM
 https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac
 #EXTINF:-1 station-id="awb_48ee774be901f2b78a20" stream-id="aws_7450d9818f13060ae9e6" codec="unknown" bitrate="0",Радио Веселина Русе 93.1 FM
@@ -691,8 +635,6 @@ https://play.global.audio/radio1-koledahi.aac
 https://radyo.yayin.com.tr:4474/stream
 #EXTINF:-1 station-id="awb_83b578df623077e858dd" stream-id="aws_e477997397143d2de733" codec="mp3" bitrate="128",Радио Канон - Radio Kanon
 http://79.98.108.170:8059/stream
-#EXTINF:-1 station-id="awb_c5057c4e73f2a3c5382c" stream-id="aws_5e50e6ceb13bd1f3b754" codec="mp3" bitrate="128",Радио Пауър ФМ - Radio Power FM
-http://a1.virtualradio.eu:8000/powerfm.mp3
 #EXTINF:-1 station-id="awb_bbf2fb28df03d6ee5b98" stream-id="aws_498bb35241a98b1bb1ba" codec="aac" bitrate="224",Радио Пияника
 http://mpc1.mediacp.eu:8024/;
 #EXTINF:-1 station-id="awb_d87209ba957558d16a55" stream-id="aws_96d128644a837a0c6e45" codec="mp3" bitrate="0",Радио Рибка.бг
@@ -705,22 +647,16 @@ https://focusradio.dataserv.cc/1
 https://radio.comnet.bg:12301/radio-folk.mp3
 #EXTINF:-1 station-id="awb_db99921f4bdebc6ff5ea" stream-id="aws_3553dca55ec6151130bc" codec="mp3" bitrate="128",Радио Хоро
 http://g5.turbohost.eu:8020/stream256
-#EXTINF:-1 station-id="awb_6d847d549ef6d64223b2" stream-id="aws_7dfd0825ddd3634ac2bd" codec="mp3" bitrate="320",Студио Оряхово
-https://play-radio0.jump.bg:7146/;stream
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_21294edd7d8fc640b672" codec="aac" bitrate="41",��� � ����� �����
 https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_1c477b34fa1e5979f2de" codec="aac" bitrate="41",��� � ����� �����
 https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_18f68173373dd7db117b" codec="aac" bitrate="41",��� � ����� �����
-https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_d265f68ada343550bcee" codec="aac" bitrate="41",��� � ����� ������
 https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_3a1b81ffee843b5ea0a1" codec="aac" bitrate="41",��� � ����� �������
 https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_55b43d00f155cf46f26f" codec="aac" bitrate="41",��� � ����� ��������
 https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_73c08221f2c66f032878" codec="aac" bitrate="41",��� � ����� �����������
-https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_ceac03347026f81dacb7" stream-id="aws_a3b683dc333cc541f4ee" codec="aac" bitrate="96",��� ��������
 https://play.global.audio/testbhi.aac
 #EXTINF:-1 station-id="awb_5c6e044cf5198de61ad4" stream-id="aws_cca744a6ae572e8ed1b3" codec="mp3" bitrate="320",����� ������ �������
@@ -729,5 +665,3 @@ http://195.34.121.140:8002/high
 http://radio.mitropolia-sofia.org:8610/stream
 #EXTINF:-1 station-id="awb_fa56185e91e767bde96d" stream-id="aws_6475079292e6db7d4c2a" codec="mp3" bitrate="320",������ �������
 https://play-radio0.jump.bg:7146/;stream
-#EXTINF:-1 station-id="awb_61541d4e9efef6b95f8c" stream-id="aws_a9de16bcd80b00f8b5e9" codec="mp3" bitrate="128",�������� ����� �������
-http://stream.radioextra-bg.net:8000/razgrad

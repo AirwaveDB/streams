@@ -19,44 +19,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_613dda308643a4c005d9",
-    "stationId": "awb_48568a6bb22b14209ce9",
-    "name": ".صور من حياة الصحابة",
-    "country": "DZ",
-    "url": "https://qurango.net/radio/sahabah",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23a9dbd1-575f-423f-a244-98ace5e1e603"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
-  },
-  {
-    "id": "aws_f9209da7e22e65a83fd3",
-    "stationId": "awb_940e88084bb11d84a596",
-    "name": ".مختصر السيرة",
-    "country": "DZ",
-    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:45:22Z"
-  },
-  {
     "id": "aws_06001230907e3b278f2a",
     "stationId": "awb_86e4455bf10cadf2bc75",
     "name": "109.0 FM Christmas Kids",
@@ -276,15 +238,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "DZ:antinea-radio",
-      "defa0e5c-f689-4db1-97db-87ebb759f7d1"
+      "DZ:antinea-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_acb779c5e5d15edb7b48",
@@ -316,15 +276,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "267b9ba1-fc4f-4877-8cca-baa06c04d371",
       "DZ:beautiful-recitation"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9c60ab13d900612d56fe",
@@ -839,11 +797,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6d04fce8-238d-4a15-8999-32333c870169",
-      "DZ:hitradio-rtl-chemnitz"
+      "DZ:hitradio-rtl-chemnitz",
+      "a7989b64-675c-46d0-9597-78f5e70450c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:39:20Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_87224217bcf099e91d4d",
@@ -1414,8 +1372,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8a4e7af2-393b-4c9e-bd05-fcf6a9f861de",
-      "91179202-a75a-4f78-ac75-42e81ba1cbfb"
+      "8a4e7af2-393b-4c9e-bd05-fcf6a9f861de"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T14:41:28Z"
@@ -1818,25 +1775,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
-  },
-  {
-    "id": "aws_17157ac5d6618d00a96d",
-    "stationId": "awb_8c61b4aa9564703232ad",
-    "name": "Radio Chaine 3",
-    "country": "DZ",
-    "url": "https://webradio1.tda.dz:8001/Chaine3_64K.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a66ef2d9-3cda-4dfe-8ffd-35476309543a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:37:20Z"
   },
   {
     "id": "aws_91691eae04b6c95caf3b",
@@ -2447,25 +2385,6 @@
     "lastCheckedAt": "2026-11-06T05:40:15Z"
   },
   {
-    "id": "aws_ce96d4510bd91dba5aab",
-    "stationId": "awb_e4d45a90e020fee2e888",
-    "name": "sleep",
-    "country": "DZ",
-    "url": "http://65.109.81.84:9851/stream",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7849d521-37f4-491e-ba1a-9df8bee5eee2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:24:40Z"
-  },
-  {
     "id": "aws_a7b3f2abea67f70cc712",
     "stationId": "awb_70c6c9cccb07920af413",
     "name": "Souk Ahras سوق أهراس",
@@ -2749,24 +2668,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
-  },
-  {
-    "id": "aws_9f9b1b6162240bdf408e",
-    "stationId": "awb_321a52ed44b6854e1fd6",
-    "name": "صوت الغد استراليا",
-    "country": "DZ",
-    "url": "http://s4.voscast.com:7648/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 80,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "df238336-9ab7-4697-840a-6f10c3ddde3e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
   }
 ]

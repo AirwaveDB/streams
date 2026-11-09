@@ -19,25 +19,6 @@
     "lastCheckedAt": "2026-11-06T04:14:28Z"
   },
   {
-    "id": "aws_162d91a6141117d5f1c4",
-    "stationId": "awb_b2d2793eadedcba13627",
-    "name": "103.1 FM Trinidad",
-    "country": "TT",
-    "url": "http://psn3.prostreaming.net:8310/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "641758a4-03d6-474c-81a4-cfb0be6967c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:12:30Z"
-  },
-  {
     "id": "aws_503a70d1b555f6ad15fd",
     "stationId": "awb_41eee0a86657af7d4254",
     "name": "95 the ultimate one",
@@ -205,20 +186,18 @@
     "name": "Isaac 98.1fm",
     "country": "TT",
     "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TT:isaac-98-1fm",
-      "cc80eeff-a65e-4411-ac33-5334bad1ad5c"
+      "TT:isaac-98-1fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:05:00Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_0013552a2356ac955297",
@@ -301,25 +280,6 @@
     "lastCheckedAt": "2026-11-06T15:20:18Z"
   },
   {
-    "id": "aws_c4c4df8badd5e0240f64",
-    "stationId": "awb_429e08993a034ed1429d",
-    "name": "Sangee 106.1 fm",
-    "country": "TT",
-    "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5cf8f2bd-65db-46dc-b6e3-d4f28dbc2640"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
     "id": "aws_64b1d04eabc6492ea840",
     "stationId": "awb_f62acf06606fbab0a79a",
     "name": "Sangeet Fm",
@@ -338,7 +298,7 @@
       "TT:sangeet-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:15:17Z"
+    "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
     "id": "aws_a75c0fc83d842bbe4c26",
@@ -376,7 +336,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "31384b28-8b42-4838-aa46-b8f57e570603",
+      "8efb1ac0-474f-4cb5-bfb0-b31d3bc145d0",
       "TT:slam-100-5"
     ],
     "lastCheckOk": true,
@@ -499,8 +459,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "313df7ec-69fd-4e5d-b9e8-e8c5ab7e8cd1",
-      "f75876b5-718d-4b81-9ed6-f5d5943770d9"
+      "313df7ec-69fd-4e5d-b9e8-e8c5ab7e8cd1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"

@@ -335,25 +335,6 @@
     "lastCheckedAt": "2026-11-06T01:13:57Z"
   },
   {
-    "id": "aws_66ce5c742189468c7fe1",
-    "stationId": "awb_a304d5b7c9e6705ea8eb",
-    "name": "Best FM",
-    "country": "HU",
-    "url": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960c0cbf-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:12:35Z"
-  },
-  {
     "id": "aws_0a02f2148a53a1589f08",
     "stationId": "awb_cc3e8feb75dca3fb6b41",
     "name": "Best FM - Budapest",
@@ -373,25 +354,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:17:37Z"
-  },
-  {
-    "id": "aws_d40b81686ae9c347d98d",
-    "stationId": "awb_63e196f07e433921a86b",
-    "name": "Best FM - Debrecen",
-    "country": "HU",
-    "url": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "611b0e08-adba-49f5-8bed-8407c1cfb1f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
   },
   {
     "id": "aws_e141334ae74a281176ae",
@@ -573,25 +535,6 @@
     "lastCheckedAt": "2026-11-06T18:43:25Z"
   },
   {
-    "id": "aws_966d677fa5ca4e92d11f",
-    "stationId": "awb_959ae3abccdbdcba3ec2",
-    "name": "BestFM Debrecen",
-    "country": "HU",
-    "url": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff4c0ff6-1f3c-4b43-a2fc-46d1d75eda61"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
     "id": "aws_23af95333a96d4cee28d",
     "stationId": "awb_0826acd3fc584fa013f7",
     "name": "Bias Radio",
@@ -626,8 +569,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "93a958a3-f700-4d7e-a863-5f4e5032cce3",
-      "950b5eec-c618-4c0a-8569-087b7580994a"
+      "93a958a3-f700-4d7e-a863-5f4e5032cce3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:59:09Z"
@@ -779,8 +721,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a61f0072-26ad-408f-9df2-b5c4857933ff",
-      "e2c246c6-a81c-4296-ba8a-6ce6c020cf37"
+      "a61f0072-26ad-408f-9df2-b5c4857933ff"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:20:31Z"
@@ -951,11 +892,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8dc603e8-3714-4136-acfc-8b351a3eefaa",
-      "c51eca39-e5b1-4a72-9ba3-b562f80dfffb"
+      "8dc603e8-3714-4136-acfc-8b351a3eefaa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-11-06T20:47:15Z"
   },
   {
     "id": "aws_cdae5421594f88417cc2",
@@ -1804,11 +1744,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b94b4a0b-f5b6-4870-afe0-c0ccfaedd788",
       "f80001ac-d2af-4678-98a6-9617da6e94bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:08:32Z"
+    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_434909ae1088b2f0020a",
@@ -2243,25 +2182,6 @@
     "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
-    "id": "aws_727a5eeb5aa766c4c2ca",
-    "stationId": "awb_aeb2ff0ce8371c7ef87f",
-    "name": "Folkrádió",
-    "country": "HU",
-    "url": "https://stream.folkradio.hu/folkradio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2cfe79a-bd51-4f4d-9117-5619352f9645"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
-  },
-  {
     "id": "aws_4fe3bf2a6781b81e4934",
     "stationId": "awb_8cebb6eec55139d45cee",
     "name": "Folkrádio",
@@ -2585,7 +2505,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "33f89d19-549b-4c61-ba30-43a0e67aca1b",
       "960ca20d-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -2609,25 +2528,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
-    "id": "aws_010e4dba71f33e914f6f",
-    "stationId": "awb_e199d9ba669085a0a344",
-    "name": "Hungarian dance",
-    "country": "HU",
-    "url": "http://gamershouse.hu:8000/livemega.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "91587233-bd80-442c-ba3a-19ea3b509b04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
     "id": "aws_7ee02c3323254a54204c",
@@ -2846,11 +2746,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07bf63f2-5ffe-4865-a571-7b1b0f6e6e05",
+      "8d506cea-1979-4732-8cd5-a493d13cee72",
       "HU:klasszik-radio-92-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:47:13Z"
+    "lastCheckedAt": "2026-11-06T05:11:32Z"
   },
   {
     "id": "aws_0220399f7003b713a5d2",
@@ -2975,25 +2875,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:15:26Z"
-  },
-  {
-    "id": "aws_41f0a66e2d9700f9823c",
-    "stationId": "awb_03de0cedb00fdac77480",
-    "name": "Kossuth Rádió",
-    "country": "HU",
-    "url": "http://mr-stream.mediaconnect.hu/4734/mr1.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960c0a73-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
   },
   {
     "id": "aws_3e01663fa7d161335d24",
@@ -3370,25 +3251,6 @@
     "lastCheckedAt": "2026-11-06T18:33:07Z"
   },
   {
-    "id": "aws_1f30a4bad0b6c79394c4",
-    "stationId": "awb_603b29337105038dd50e",
-    "name": "Megadance Rádió",
-    "country": "HU",
-    "url": "http://gamershouse.hu:8000/livemega.mp3",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bb8cefd5-7f28-48aa-a803-359c8a82997b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
-  },
-  {
     "id": "aws_64b94126cdefa07de1d4",
     "stationId": "awb_603b29337105038dd50e",
     "name": "MegaDance Rádió",
@@ -3406,25 +3268,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:47:13Z"
-  },
-  {
-    "id": "aws_66fcd85fcbb2b25149e5",
-    "stationId": "awb_603b29337105038dd50e",
-    "name": "MegaDance Rádió",
-    "country": "HU",
-    "url": "https://gamershouse.hu:8080/livemega.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "77c67d6f-3b73-4c2b-8eab-8d6b6a974dd7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
   },
   {
     "id": "aws_3a3637e0df4a02dad41f",
@@ -3461,8 +3304,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6de785e6-ee99-41a6-8b3a-3ee86d17c2a4",
-      "8eda7062-8a8c-4ba5-ba7d-67f7da5bba32"
+      "6de785e6-ee99-41a6-8b3a-3ee86d17c2a4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:40:25Z"
@@ -3710,19 +3552,17 @@
     "country": "HU",
     "url": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
     "codec": "mp3",
-    "bitrate": 192,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "HU:mr2-petofi-radio",
-      "c263c5f5-10c4-472f-b2f4-bb39cc2fa152"
+      "HU:mr2-petofi-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0199f68fddde5560d185",
@@ -3786,25 +3626,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:19:32Z"
-  },
-  {
-    "id": "aws_40206bd0152058b774e0",
-    "stationId": "awb_1f772b355a2ae6471051",
-    "name": "MR5 - Parlamenti Adások",
-    "country": "HU",
-    "url": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f258dd4d-ab88-427d-b357-967c3a16b8af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
   },
   {
     "id": "aws_dd622b9edfdaaf474d22",
@@ -4600,25 +4421,6 @@
     "lastCheckedAt": "2026-11-06T23:30:45Z"
   },
   {
-    "id": "aws_85098ffca066e9c31d50",
-    "stationId": "awb_86e556786221d5a64710",
-    "name": "Periszkóp Rádió",
-    "country": "HU",
-    "url": "https://mumia.periszkopradio.hu:8443/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "83c6b15d-850b-46a1-9d6f-b32fe1d97fa6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
-  },
-  {
     "id": "aws_173c84ce34f96cb6c6cb",
     "stationId": "awb_ca37d2cf7197fe124946",
     "name": "Petőfi",
@@ -4651,8 +4453,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "960e7334-0601-11e8-ae97-52543be04c81",
-      "b7ab0d71-30fc-4daf-a8ac-b034fb24f23f"
+      "960e7334-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:54:15Z"
@@ -4664,19 +4465,17 @@
     "country": "HU",
     "url": "https://icast.connectmedia.hu/4738/mr2.mp3",
     "codec": "mp3",
-    "bitrate": 192,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "79d8bcc0-e8c8-49a7-a160-2b41923b054a",
       "HU:petofi-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_fa180ef65eb1a7eab39c",
@@ -4795,26 +4594,6 @@
     "lastCheckedAt": "2026-11-06T02:39:01Z"
   },
   {
-    "id": "aws_22a1f92ed4be31cb6ef7",
-    "stationId": "awb_49b4d6a680f15af90424",
-    "name": "Rádió 1",
-    "country": "HU",
-    "url": "https://icast.connectmedia.hu/5201/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a48c73a8-03bb-40af-8f1c-69821fced3ab",
-      "f503d591-56b7-45d2-9a31-df046af717ae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:05:50Z"
-  },
-  {
     "id": "aws_fcfe6de9f1e42f977d5f",
     "stationId": "awb_0fa10312bec302912dd6",
     "name": "Radio 1",
@@ -4844,15 +4623,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "HU:radio-1",
-      "ca77fe5c-3a5c-47f6-b643-587e7c045374"
+      "HU:radio-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:04:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e98cfb3226ce1484ea36",
@@ -4916,25 +4693,6 @@
     "lastCheckedAt": "2026-11-06T08:55:10Z"
   },
   {
-    "id": "aws_32b853b6e4ebd96f9386",
-    "stationId": "awb_34fe48c23ed3e5278a57",
-    "name": "Rádió 1 - Sopron",
-    "country": "HU",
-    "url": "http://icast.connectmedia.hu/5015/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "58e80884-59a7-478c-a18d-cb389a2bd821"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
-  },
-  {
     "id": "aws_ca48a92416712b01e1cc",
     "stationId": "awb_298539fb8e4dc3dac919",
     "name": "Rádió 1 Debrecen",
@@ -4969,10 +4727,10 @@
     ],
     "sourceIds": [
       "HU:radio-1-eger",
-      "a45a1600-8fae-4449-b23d-9dc552a7adbd"
+      "bdb5260a-ae46-46d5-ac76-0df0df788d92"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
+    "lastCheckedAt": "2026-11-06T10:06:21Z"
   },
   {
     "id": "aws_8d5313811683b4cc0bf6",
@@ -5283,25 +5041,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:34:33Z"
-  },
-  {
-    "id": "aws_e5ed94f5d5a4431c7d68",
-    "stationId": "awb_1619b159f0a92cef549c",
-    "name": "Rádió Dabas",
-    "country": "HU",
-    "url": "http://stream3.virtualisan.net:7040/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9637c688-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:04Z"
   },
   {
     "id": "aws_b3843214b7225bb8277b",
@@ -5839,25 +5578,6 @@
     "lastCheckedAt": "2026-11-06T22:01:47Z"
   },
   {
-    "id": "aws_5c1b4b0a2cedf07d94c1",
-    "stationId": "awb_007f5731f4522f89a1fa",
-    "name": "RadiOzora Trance",
-    "country": "HU",
-    "url": "https://trance.out.airtime.pro/trance_a",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3280e71c-1df9-4805-98f3-9a5d60d5d5e7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:07Z"
-  },
-  {
     "id": "aws_32dfb8842af1d8eb494e",
     "stationId": "awb_8d1732e0501db3827330",
     "name": "Reménység Hangja Rádió",
@@ -5868,15 +5588,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "74288ff4-a65a-489f-a742-3b25513b3c34",
       "HU:remenyseg-hangja-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_24f873ffc7cf83b9f54f",
@@ -6001,25 +5719,6 @@
     "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
-    "id": "aws_4b7acf04eafb2a2ff82e",
-    "stationId": "awb_4351e4b326c7294badc6",
-    "name": "Roxy Radio",
-    "country": "HU",
-    "url": "https://s2.audiostream.hu/roxy_192k",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f9ef521e-bff0-4177-b140-1fe08381a4b7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:36:57Z"
-  },
-  {
     "id": "aws_5e7fbed7546b12a79d90",
     "stationId": "awb_7a3bdbd953773c437b1c",
     "name": "Roxy Rádió",
@@ -6134,7 +5833,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3e882afd-3bac-493b-8fd5-135064c26a18",
       "632ca123-17d6-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -6693,11 +6391,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "960bec79-0601-11e8-ae97-52543be04c81",
       "c7c8d89f-61b2-4716-b3e0-513b7e2f6666"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:23:20Z"
+    "lastCheckedAt": "2026-11-06T03:12:30Z"
   },
   {
     "id": "aws_8e844e9a212fc53c2bb5",
@@ -6807,15 +6504,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "228dc5d0-5e01-446f-8eb0-b51867dae2cd",
       "HU:trend-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:29:34Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_232b419848f5c044cb03",

@@ -61,25 +61,6 @@
     "lastCheckedAt": "2026-11-06T23:30:45Z"
   },
   {
-    "id": "aws_6f70e1759a9d26f627e2",
-    "stationId": "awb_e920fd11a04e9b512c11",
-    "name": "Radio des jeunes (RDJ)",
-    "country": "MG",
-    "url": "http://rdj966.net:8000/rdj966.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b34da1a-246d-4fcb-9d33-1af386e1c064"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
-  },
-  {
     "id": "aws_570c1721a8b6ace6f15f",
     "stationId": "awb_e94cd58947cd5f6bf50b",
     "name": "Radio Don Bosco",
@@ -116,25 +97,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:42:10Z"
-  },
-  {
-    "id": "aws_a8602ba61b71d397857e",
-    "stationId": "awb_052c17f88764a0443035",
-    "name": "Radio Don Bosco Madagascar",
-    "country": "MG",
-    "url": "http://onair15.xdevel.com:9248/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fdd518db-f5ac-408b-a262-5e41155f6c8d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
   },
   {
     "id": "aws_a95a54ffe612edcafae4",
@@ -309,15 +271,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7c0a647e-eda5-4eab-8bd7-e91ad62d6fab",
       "MG:top-radio-102-8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:34:42Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_66b8c262a31e0b850127",

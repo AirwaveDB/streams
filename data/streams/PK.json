@@ -73,8 +73,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2983eb2f-065f-4a8e-aadd-35a16b111ea2",
-      "PK:ak-radio-trarkhal"
+      "PK:ak-radio-trarkhal",
+      "ef58b117-6681-46f8-989f-fca63f34ed89"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:03:10Z"
@@ -134,30 +134,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1c4c4c77-a792-4075-846d-dff13cfc0980",
-      "PK:city-fm-89"
+      "PK:city-fm-89",
+      "daed4a04-0bca-4296-a5b4-cb19a0887812"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:33:08Z"
-  },
-  {
-    "id": "aws_5acb7c9d0ff0c788ae08",
-    "stationId": "awb_b70d85e988f761f4d3b8",
-    "name": "City FM 89 Islamabad",
-    "country": "PK",
-    "url": "https://radio.cityfm89.com/stream",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "33cab88d-c3d9-42f9-abaa-fd8c320fde8f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
     "id": "aws_af29acd2c89da6fac287",
@@ -196,25 +177,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:25:07Z"
-  },
-  {
-    "id": "aws_2dc1a9f6ef55666ae12e",
-    "stationId": "awb_581f3f2d413e3684386c",
-    "name": "FM 100 Pakistan Abbottabad",
-    "country": "PK",
-    "url": "http://162.244.80.118:4900/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9312c071-8882-4f85-8539-0dcb1b59f1a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_e274b07dfe0f5c463015",
@@ -598,7 +560,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2f17c476-3d67-40dc-8da7-94638f1b2b9e",
       "3ab56e05-9da3-4c21-8f0a-933f1763ee40"
     ],
     "lastCheckOk": true,
@@ -634,15 +595,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "658d9779-0334-4d8a-87bf-6872db0973e6",
       "PK:fm-94-4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c5bded6984867b67311a",
@@ -841,25 +800,6 @@
     "lastCheckedAt": "2026-11-06T20:00:37Z"
   },
   {
-    "id": "aws_5a66e2701d1387a24dac",
-    "stationId": "awb_63a5f45a2bce97284a91",
-    "name": "Multan MW",
-    "country": "PK",
-    "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a022e00c-7572-464d-9d7c-1d2064e4f411"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:51:57Z"
-  },
-  {
     "id": "aws_c990b8400721729d7958",
     "stationId": "awb_1268e41ae1df75efef18",
     "name": "Papa John's Pizza Pakistan",
@@ -955,25 +895,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_e70429d1c69857b12aa9",
-    "stationId": "awb_4421f949ef5de0ca881a",
-    "name": "Radio Pak Filmi",
-    "country": "PK",
-    "url": "http://s17.ssl-stream.com:8214/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc059379-dd72-451e-82af-434cb3859c7b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:25:44Z"
   },
   {
     "id": "aws_5efeeebc6fe92dd86aab",
@@ -1249,15 +1170,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PK:samaa-fm-107-4",
-      "babb87d8-14f7-4d42-b813-390ac01fb3c9"
+      "PK:samaa-fm-107-4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:01:14Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_d5ba850d756d8e996ebe",
@@ -1311,8 +1230,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9252737f-10e5-4b13-9dbf-2d579bcbce91",
-      "9ed2cc95-7b6f-42f3-805e-3e208425edef"
+      "e441e30a-a8bf-47c4-b294-9335d231cfe5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:05:39Z"
@@ -1349,14 +1267,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PK:whmsonic",
-      "fe532813-c79a-4c5d-9dfc-4e8c3f097cee"
+      "PK:whmsonic"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:49:18Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

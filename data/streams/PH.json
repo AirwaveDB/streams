@@ -76,25 +76,6 @@
     "lastCheckedAt": "2026-11-06T13:42:28Z"
   },
   {
-    "id": "aws_d3b887b91287c9780b63",
-    "stationId": "awb_7c2bc2eca177e6316a68",
-    "name": "101.1 Yes FM - DWYS",
-    "country": "PH",
-    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1f4fd143-b2fb-480a-b25a-9c5fbf129164"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:43:51Z"
-  },
-  {
     "id": "aws_fa4bb0d280d343a0924d",
     "stationId": "awb_6ed0b7bf7bd0157400c9",
     "name": "101.1 Yes FM Manila",
@@ -105,34 +86,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "23b18873-9071-460d-9571-3410c6177fe0",
       "PH:101-1-yes-fm-manila"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
-    "id": "aws_b434288c5690884645ef",
-    "stationId": "awb_3d5ab13bb046381bf806",
-    "name": "101.5 BiG SOUND FM - DWWG",
-    "country": "PH",
-    "url": "http://162.220.162.10:8184/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "997ad08f-0570-4176-b129-be0c7f2d6c3f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e5e84312498bec06e33c",
@@ -153,26 +113,7 @@
       "PH:101-7-your-love-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
-  },
-  {
-    "id": "aws_d4ef7fff4fe0177e2004",
-    "stationId": "awb_6bb922c47273effd3b54",
-    "name": "101.9 Hallypop Radio - DWAP",
-    "country": "PH",
-    "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_3c7e940cc23bca4019ab",
@@ -192,44 +133,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:44:44Z"
-  },
-  {
-    "id": "aws_e46403e17c93df533810",
-    "stationId": "awb_bb1c5deda6c2306b52fb",
-    "name": "102.7 Star FM Manila - DWSM",
-    "country": "PH",
-    "url": "https://stream-288.surfernetwork.com/g1pmt17nz9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXBtdDE3bno5ZHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMaXZRVVVnMVJBNllJVm1CMzZweXlRIiwiaWF0IjoxNzgxNjc4NzM0LCJleHAiOjE3ODE2Nzg3OTR9.5G1wZmONFqXySurSj1Oj6_UtSmcJMwlc6JJy2oL7fX8",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e293cd1-7490-41e1-9b9d-2679dcff5a08"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:36:11Z"
-  },
-  {
-    "id": "aws_77bf0a3730ae252f5ada",
-    "stationId": "awb_f9914a34cc0658d6f97e",
-    "name": "103.1 LITE FM - DWVA",
-    "country": "PH",
-    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnNlblZkQTNUaXE3UkFhXy1OaHJmZyIsImlhdCI6MTc3NTk5MTc0NCwiZXhwIjoxNzc1OTkxODA0fQ.ds0pf7JWT67FfqMWuimjGOjQWirdes3-Wvaxmk4rp8Q",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c258090-085a-47aa-a022-ca2d4d238a8a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
     "id": "aws_53526622660eb488bdc9",
@@ -291,44 +194,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:43:51Z"
-  },
-  {
-    "id": "aws_368725df1b9377171eb8",
-    "stationId": "awb_129565f66c810ebf0504",
-    "name": "104.3 The Capital",
-    "country": "PH",
-    "url": "http://58.97.187.52:5007/fm2",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "da75b266-5cb0-43ca-a9a8-8e56c6d3f6cf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
-  },
-  {
-    "id": "aws_a60c6f0bcdb8796ecb5e",
-    "stationId": "awb_f18b0bf0e1388d9e3b10",
-    "name": "105.5 BiG SOUND fm, San Fernando City, La Union",
-    "country": "PH",
-    "url": "http://162.220.162.10:8011/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c7a8e93-8642-4e53-9ad7-7185b1d0aaee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
   },
   {
     "id": "aws_c516ae938297435da9ef",
@@ -398,15 +263,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0943be1f-9401-489f-9863-78ea48f792fd",
       "PH:105-5-sky-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:46:59Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_421f6ff0aa328a2e2ddb",
@@ -426,82 +289,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:00:22Z"
-  },
-  {
-    "id": "aws_de1c1df3befdb3e77237",
-    "stationId": "awb_312ce5c516f91bca2aba",
-    "name": "105.5 SMOOTH RADIO HD",
-    "country": "PH",
-    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ac8e189b-ab44-42d0-8c34-14382513472c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:01:43Z"
-  },
-  {
-    "id": "aws_eb5afd05992c6ac1313d",
-    "stationId": "awb_ad28c8b5f669eddadfb0",
-    "name": "105.5 Wild FM Baguio",
-    "country": "PH",
-    "url": "http://62.138.18.102:8133/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "35f8ed99-190b-4626-9256-f068749e32b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
-    "id": "aws_baf51c42a8c94d048bbb",
-    "stationId": "awb_3cc2f50c23323e4179b2",
-    "name": "105.9 Energy FM - DWLA",
-    "country": "PH",
-    "url": "http://stream.zeno.fm/dnddzf0osc1uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a8594f31-acb5-49b8-9b8d-9025553a3573"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T16:12:19Z"
-  },
-  {
-    "id": "aws_676074e0cefec7ac9e45",
-    "stationId": "awb_3a730059cf2c4eaa0db6",
-    "name": "105.9 Hot FM - DWLA",
-    "country": "PH",
-    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "60999e60-266a-4ba7-afb6-a2cb1eeb21fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
   },
   {
     "id": "aws_ee3055ec94174d22c7af",
@@ -542,44 +329,6 @@
     "lastCheckedAt": "2026-11-06T14:21:17Z"
   },
   {
-    "id": "aws_783c6855a42a704b8d26",
-    "stationId": "awb_cf51d832c6e025dd820d",
-    "name": "105.9 True FM",
-    "country": "PH",
-    "url": "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e1844997-7eab-4371-abb6-c03b1d04ee83"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
-  },
-  {
-    "id": "aws_3abdbf606f4bcda19385",
-    "stationId": "awb_8b6e5589626eee2bb02c",
-    "name": "105.9 Wild FM",
-    "country": "PH",
-    "url": "http://62.138.18.102:8133/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c7b6d3e2-10a3-44ad-9d90-bf4910f9e17c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:48:58Z"
-  },
-  {
     "id": "aws_8c41606c021da97aa845",
     "stationId": "awb_f0ffcce47b68e5a5da6c",
     "name": "106 Dream FM",
@@ -618,45 +367,6 @@
     "lastCheckedAt": "2026-11-07T01:34:33Z"
   },
   {
-    "id": "aws_7917ad9b424b5f055ee2",
-    "stationId": "awb_2faae660f101a5e79ddb",
-    "name": "106.3 SMOOTH RADIO",
-    "country": "PH",
-    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnNlblZkQTNUaXE3UkFhXy1OaHJmZyIsImlhdCI6MTc3NTk5MTc0NCwiZXhwIjoxNzc1OTkxODA0fQ.ds0pf7JWT67FfqMWuimjGOjQWirdes3-Wvaxmk4rp8Q",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "507d0cf1-7dff-4ed0-bf2f-3049b8f81b89",
-      "88c190d1-7b0c-4524-90d6-76b2671ee9f0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
-  },
-  {
-    "id": "aws_d6d341a20d6058a0c4ab",
-    "stationId": "awb_2d683bdc4c13fc01aa21",
-    "name": "106.7 Easy Rock La Union",
-    "country": "PH",
-    "url": "http://proxima.shoutca.st:8227/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "459e819d-2e6d-4b6d-9c94-c4d83be58c52"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
     "id": "aws_68ec02521e5ec26dae0c",
     "stationId": "awb_cf89539a61bd7e9412ee",
     "name": "106.7 Hot FM Agoo",
@@ -693,63 +403,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:38:44Z"
-  },
-  {
-    "id": "aws_1712fd216707647038ce",
-    "stationId": "awb_7dc8429fade8542b97f8",
-    "name": "106.7 True FM - DWET",
-    "country": "PH",
-    "url": "https://cast5.servcast.net/proxy/truefmph/stream",
-    "codec": "mp3",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a563b91e-5747-44dd-bd52-ea8369f21141"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:10Z"
-  },
-  {
-    "id": "aws_142160ada2855778d678",
-    "stationId": "awb_849efeefaf0b3e91a027",
-    "name": "106.7 True FM - DWET",
-    "country": "PH",
-    "url": "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bd1aca93-f603-4bea-92fe-2fdd2eb7f964"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:44:50Z"
-  },
-  {
-    "id": "aws_ceae02e0023453a76c6e",
-    "stationId": "awb_b06d87d6360d991ed5e5",
-    "name": "107.1 RETRO DWKR-FM",
-    "country": "PH",
-    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7248f503-133d-4059-9915-d33c46f2eae2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:36:10Z"
   },
   {
     "id": "aws_1d16030ece6064a7e3bd",
@@ -925,25 +578,6 @@
     "lastCheckedAt": "2026-11-06T13:44:57Z"
   },
   {
-    "id": "aws_b8a3c173f385c68b2203",
-    "stationId": "awb_d4aba9bef362358a6915",
-    "name": "89.7 Manila Zounds",
-    "country": "PH",
-    "url": "https://visayas.radyonatinfm.com:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a2110a6-e38e-4ccd-92b4-bf42628555c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:17Z"
-  },
-  {
     "id": "aws_84632783cfc9ed9d6723",
     "stationId": "awb_173869fc2e50c47055a7",
     "name": "90.5 Hot FM Baguio",
@@ -980,25 +614,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:09:07Z"
-  },
-  {
-    "id": "aws_5324e61d41b0e9fa10eb",
-    "stationId": "awb_6ce60a479dbb02018d91",
-    "name": "90.7 Love Radio - DZMB",
-    "country": "PH",
-    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42d08428-c760-4a28-b484-3cf0fb03f496"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
   },
   {
     "id": "aws_f6c666615278fa42449e",
@@ -1210,25 +825,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:34:55Z"
-  },
-  {
-    "id": "aws_5a544e89fe54cfc100fa",
-    "stationId": "awb_4a978ac705d260a69a67",
-    "name": "93.5 City Radio",
-    "country": "PH",
-    "url": "https://cdnstream1.typicalmedia.net/yourradio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c6a3f8d-ae48-411d-b91b-af959573ce06"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
     "id": "aws_29b09e93424ea1ef8e95",
@@ -1453,30 +1049,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "122b2b49-596a-4a06-bd30-d8608b12b37c",
       "4e2b6259-aea9-4266-8423-327257fc4886"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:39:55Z"
-  },
-  {
-    "id": "aws_9dbd095727d4c7af87c4",
-    "stationId": "awb_3324afcbe7e70d2484d0",
-    "name": "97.9 Home Radio Manila",
-    "country": "PH",
-    "url": "http://142.44.212.114:9071/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1da0b790-aa59-44c5-93d7-55a80b953c9b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
   },
   {
     "id": "aws_a5feba6e47fd3cb5c264",
@@ -1649,26 +1225,7 @@
       "57f3b771-cea5-4a16-b3d8-3ad6f43b88e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T06:45:07Z"
-  },
-  {
-    "id": "aws_13d1ab18210605d69ca0",
-    "stationId": "awb_74e3a2b6b08b25ee7d35",
-    "name": "99.5 One FM - DZYW",
-    "country": "PH",
-    "url": "http://de3.amfmph.com:8715/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "84f8fabd-df15-4511-9e18-d31a21f46341"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T09:32:40Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_e28a9fdef523f6cb7046",
@@ -1772,25 +1329,6 @@
     "lastCheckedAt": "2026-11-06T14:46:30Z"
   },
   {
-    "id": "aws_cc13c6e5974f5ed192eb",
-    "stationId": "awb_40e620bf3d8369be6361",
-    "name": "Adventist World Radio 89.1 Manila",
-    "country": "PH",
-    "url": "http://192.53.113.120:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bfe7c6fc-04fe-466f-ae71-a05668ad3250"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
     "id": "aws_1d312f11c9e3cb6d11b5",
     "stationId": "awb_b5c7b53dcfb32da4a6f2",
     "name": "Adventist World Radio Manila",
@@ -1880,11 +1418,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "66c52037-403d-47a9-b6e3-acbe2ed2d9f3",
-      "fd40514c-bfee-417b-9f4c-e626b933981d"
+      "66c52037-403d-47a9-b6e3-acbe2ed2d9f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
+    "lastCheckedAt": "2026-11-06T05:39:33Z"
   },
   {
     "id": "aws_8cef9f9a4c32e959421f",
@@ -1925,25 +1462,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T05:24:33Z"
-  },
-  {
-    "id": "aws_6d303c33f45d9f060a75",
-    "stationId": "awb_b827d853bfaeb0f214e4",
-    "name": "Aksyon Radyo Cebu",
-    "country": "PH",
-    "url": "https://a9.asurahosting.com:8260/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ffb9816d-59b7-42a1-94b7-e5e8612dfce1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:06:38Z"
   },
   {
     "id": "aws_95d60cf51bdf4df707aa",
@@ -2426,25 +1944,6 @@
     "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
-    "id": "aws_18923d13e972bec51a31",
-    "stationId": "awb_226c1bf19c7984f99554",
-    "name": "Ang Totoong Buhay sa Diyos",
-    "country": "PH",
-    "url": "https://stream.tligradio.org/listen/filipino/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f04cd7a7-fcc7-4717-a4d7-1727af81c895"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
-  },
-  {
     "id": "aws_60e8e497ddf786921bee",
     "stationId": "awb_b4462b4d5c871f68b50f",
     "name": "Atlantis Radio Philippines",
@@ -2734,25 +2233,6 @@
     "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
-    "id": "aws_a4956231d688da212b50",
-    "stationId": "awb_ec837d30364b63eae909",
-    "name": "Barangay LS 97.1 Manila",
-    "country": "PH",
-    "url": "http://28093.live.streamtheworld.com:3690/MORFM_S01AAC_SC",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "604bb4af-ccf6-47bd-819e-7d1accd15e05"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:08:34Z"
-  },
-  {
     "id": "aws_ff238aa4247246e51a07",
     "stationId": "awb_f0e007dd0c0d9e66cb13",
     "name": "Barangay LS 97.5 Palawan",
@@ -2871,27 +2351,6 @@
     "lastCheckedAt": "2026-11-05T23:50:45Z"
   },
   {
-    "id": "aws_c262be1cc62e1a993b9e",
-    "stationId": "awb_4cbb8a4a159da888e1a1",
-    "name": "Bespren Radio",
-    "country": "PH",
-    "url": "https://streamnavs.net:8089/live",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "24aa9b14-9f26-4e49-b7c0-48a4917f472e",
-      "PH:bespren-radio"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:42:10Z"
-  },
-  {
     "id": "aws_ec881082135352a2b955",
     "stationId": "awb_43fe4480af57e1e475a2",
     "name": "Bespren Radio",
@@ -2909,6 +2368,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:42:42Z"
+  },
+  {
+    "id": "aws_c262be1cc62e1a993b9e",
+    "stationId": "awb_4cbb8a4a159da888e1a1",
+    "name": "Bespren Radio",
+    "country": "PH",
+    "url": "https://streamnavs.net:8089/live",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "PH:bespren-radio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5f6328d922a398bc04f8",
@@ -2989,44 +2467,6 @@
     "lastCheckedAt": "2026-11-06T03:34:56Z"
   },
   {
-    "id": "aws_cd5c2ed446294cf212bd",
-    "stationId": "awb_8e519c605b08828b324c",
-    "name": "Big Radio Pampanga 101.5 FM",
-    "country": "PH",
-    "url": "http://162.220.162.10:8184/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5941460f-79d3-44ac-af91-089be73dc26a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:05:52Z"
-  },
-  {
-    "id": "aws_1a08bbd0309ddee94c8a",
-    "stationId": "awb_98556f03816121ca6202",
-    "name": "Big Sound FM 105.5",
-    "country": "PH",
-    "url": "http://162.220.162.10:8184/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bd97d38d-6f6f-4090-808a-f9d79a12f05a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
-  },
-  {
     "id": "aws_30c6d03b2e306f862f85",
     "stationId": "awb_6604e79fe94a0ba0102c",
     "name": "Big Sound FM Baguio",
@@ -3044,25 +2484,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:31:39Z"
-  },
-  {
-    "id": "aws_2952f0cffff66155caf0",
-    "stationId": "awb_fdbf0675e55e377dfa62",
-    "name": "Big Sound FM Baguio",
-    "country": "PH",
-    "url": "http://162.220.162.10:8184/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8bfdc158-7c6e-4778-9449-3973f384da35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:13:49Z"
   },
   {
     "id": "aws_5257f430092d955176d8",
@@ -3276,25 +2697,6 @@
     "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
-    "id": "aws_3386d31e7d40566009d4",
-    "stationId": "awb_54c6dd973fa1b27e754a",
-    "name": "Bombo Radyo Iloilo",
-    "country": "PH",
-    "url": "https://stream.zenolive.com/gzudz59nz9duv",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9be45c80-d20b-4ae5-a6cb-0ac53856086f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:52:18Z"
-  },
-  {
     "id": "aws_bdc03f2e14f587301c8d",
     "stationId": "awb_324a4342b5f40e028cd4",
     "name": "Bombo Radyo Iloilo",
@@ -3308,11 +2710,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "08b806dd-7075-4fba-94e2-67f63624a13b",
       "4189f5ea-ba0c-488f-b8ff-4cd4360da6e6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:15:39Z"
+    "lastCheckedAt": "2026-11-06T18:45:24Z"
   },
   {
     "id": "aws_f8bebcdd42d8384a09b0",
@@ -3522,26 +2923,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
-    "id": "aws_a2658f1159bdeedc20d2",
-    "stationId": "awb_4b61d832ea726fe95635",
-    "name": "Boracay Beach Radio",
-    "country": "PH",
-    "url": "http://s7.viastreaming.net:8390/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2968dc84-5e39-4091-8365-bb9dd9ca1b27",
-      "db32ac00-138e-44a1-9901-a37ad1ad763e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:32:27Z"
   },
   {
     "id": "aws_3787596e5be205f507d9",
@@ -4070,30 +3451,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a2acaa01-59b6-4326-8c4c-591abec82884",
-      "a5f720cc-020f-49db-8ffe-dc742aee609c"
+      "a2acaa01-59b6-4326-8c4c-591abec82884"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
-  },
-  {
-    "id": "aws_ca6d1d61fa67ce6a98f5",
-    "stationId": "awb_fe5d812d926c5b811372",
-    "name": "Brigada News FM Manila",
-    "country": "PH",
-    "url": "https://makatistream.brigadanews.ph/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eb5bfaf0-1d51-41dc-a9d4-3a450ba75749"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:22:51Z"
+    "lastCheckedAt": "2026-11-06T03:05:50Z"
   },
   {
     "id": "aws_49011e02da7307a733df",
@@ -4533,25 +3894,6 @@
     "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
-    "id": "aws_0329a0d5b15871c0401b",
-    "stationId": "awb_7c44b5a91189c4997a31",
-    "name": "Capital FM2",
-    "country": "PH",
-    "url": "http://58.97.187.52:5007/fm2",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c52789b4-79c9-489b-89c0-805a719658f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_95affdd02a4c67fd0f09",
     "stationId": "awb_6dbfd19d933afad134c4",
     "name": "Capital FM2",
@@ -4590,25 +3932,6 @@
     "lastCheckedAt": "2026-11-06T09:12:03Z"
   },
   {
-    "id": "aws_e2634bb31879df16fbfb",
-    "stationId": "awb_e7d57d5643d6e5a9d139",
-    "name": "Caritas FM Iloilo",
-    "country": "PH",
-    "url": "http://us1.amfmph.com:8810/live",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "71192834-f34a-49ad-86a3-af0c1cdcf961"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
-  },
-  {
     "id": "aws_c40cce20b18f896cfc1f",
     "stationId": "awb_5388de91b7d6bcf2188a",
     "name": "CBCP Online Radio",
@@ -4626,25 +3949,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
-    "id": "aws_64bf3944aca9e0f99119",
-    "stationId": "awb_636d9a02f84f23781848",
-    "name": "CCTN 47 Cebu",
-    "country": "PH",
-    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4cdf3fc3-5bd7-46b8-b1c1-9d15bc64b603"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:58:47Z"
   },
   {
     "id": "aws_257b9a5a0cd677c49d29",
@@ -4843,25 +4147,6 @@
     "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
-    "id": "aws_5c5a3b75e58c6d8ab938",
-    "stationId": "awb_fd0b20118017352d38f7",
-    "name": "Downtown Eclipse",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/81sjev0tizduv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d9d877e2-0bf1-40c5-a183-af0d17802c33"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
     "id": "aws_85892dd04e1eb3fafc8a",
     "stationId": "awb_ffe95c3ce53d3b2403b0",
     "name": "Dream Radio Tacloban",
@@ -4875,11 +4160,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "773f1369-23d3-40fc-b058-906c15ab6a53",
-      "a7e5cb12-70fb-40c7-b8d5-172f94aea2b1"
+      "773f1369-23d3-40fc-b058-906c15ab6a53"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:05Z"
+    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_5df25fc36f3e14952cdb",
@@ -5015,25 +4299,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:23:52Z"
-  },
-  {
-    "id": "aws_57cd82d3b8f65eccec99",
-    "stationId": "awb_60622c904e224ba53b79",
-    "name": "DWIZ 882 Manila",
-    "country": "PH",
-    "url": "http://142.44.212.114:9079/stream",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ead8fbed-3f80-416b-943c-ff3e66ad3314"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:05:46Z"
   },
   {
     "id": "aws_55b8b08e8968503dc075",
@@ -5226,44 +4491,6 @@
     "lastCheckedAt": "2026-11-05T08:44:03Z"
   },
   {
-    "id": "aws_72e42bba1cb595f71792",
-    "stationId": "awb_2762801a5a6606004a84",
-    "name": "DWPM Radyo Sais Trenta",
-    "country": "PH",
-    "url": "http://209.126.124.126:8852/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "28a5e09d-e447-4c26-bb4a-96660ce42611"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
-    "id": "aws_6d55da6d4399e4aa24b6",
-    "stationId": "awb_a45ac16ebcd213d28e52",
-    "name": "DWWW 774",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/kc3cct89sxquv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c271a44-c6c7-46b6-a67c-805e04f7b1e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:37:23Z"
-  },
-  {
     "id": "aws_53c849f501fa13beda24",
     "stationId": "awb_6b197b916c1885e5a26e",
     "name": "DWYG LiPS 106 FM",
@@ -5397,25 +4624,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:32:27Z"
-  },
-  {
-    "id": "aws_afd489d0c4e390ddb44a",
-    "stationId": "awb_3c22b732c19df0a96912",
-    "name": "DYHB 747 RMN Bacolod",
-    "country": "PH",
-    "url": "http://148.72.153.65:8848/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6a907ca1-d05c-4056-91e3-562cfda8f05b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_8422f801151066507eeb",
@@ -5576,6 +4784,25 @@
     "lastCheckedAt": "2026-11-06T05:34:06Z"
   },
   {
+    "id": "aws_7130bf8eb7fc9149ae9c",
+    "stationId": "awb_c35bbf6931eab01fca64",
+    "name": "DZEX FM",
+    "country": "PH",
+    "url": "https://listen.smilemediaph.com/listen/zexfm/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4597ea64-6c40-44f6-aec0-c5c150704958"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
     "id": "aws_aaef2a193a468f9bccfb",
     "stationId": "awb_0aabcf9c2c37a97b876f",
     "name": "DZEX Radyo Pilipino 1026 AM",
@@ -5593,25 +4820,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T10:21:00Z"
-  },
-  {
-    "id": "aws_797e1138f2a7dbddd02e",
-    "stationId": "awb_3471b3e1fab437e4a57e",
-    "name": "DZMM Radyo Patrol 630",
-    "country": "PH",
-    "url": "http://209.126.124.126:8852/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ddccbd3-8691-4bb2-a3cf-38e632e1042e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:35:39Z"
   },
   {
     "id": "aws_9aabffe0d8cd533a20d2",
@@ -5783,8 +4991,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "13358c30-1623-4a61-a274-47d26e5144b6",
-      "7fe68e86-98f8-4c66-bf18-c4f75130b37f"
+      "13358c30-1623-4a61-a274-47d26e5144b6"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:51:00Z"
@@ -5898,11 +5105,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "31a893d7-d79f-44ae-b70a-cf511e863f49",
       "6d28b5fd-05cc-4959-a103-4a882949472b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
+    "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
     "id": "aws_339f8cca517d0b524e90",
@@ -5954,15 +5160,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:easy-rock-manila",
-      "f4305944-ac27-4b1e-981d-744d509220c0"
+      "PH:easy-rock-manila"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:07:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_60f47e1432f176b474f4",
@@ -6119,25 +5323,6 @@
     "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
-    "id": "aws_cb2eb31456314f3697ef",
-    "stationId": "awb_037fa8483aa3b71912db",
-    "name": "Energy FM Naga",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/klewk28qlqquv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5b822425-43b7-4b0c-b3af-a419ebf4e8b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:11:27Z"
-  },
-  {
     "id": "aws_913cb42b110180ef8790",
     "stationId": "awb_cd818a439ab75a0f5f25",
     "name": "Energy FM Naga",
@@ -6167,34 +5352,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:ewtn-philippines",
-      "fd1645c1-501a-4c04-b4af-4501ec71f735"
+      "PH:ewtn-philippines"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
-  },
-  {
-    "id": "aws_7ae18e641e830bbc6d5b",
-    "stationId": "awb_a985d84e264929e952bc",
-    "name": "EWTN Philippines",
-    "country": "PH",
-    "url": "https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a8c5888-6c4a-48ba-898b-c493fef4cb06"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_aa70c6f0e4f25f5ada95",
@@ -6248,11 +5412,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a18c1d9c-df4e-467a-b06a-e4beb410148e",
       "b23ba7d7-32b2-418d-9e9b-5b47d7c58130"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_dfd82f7f53b278160d92",
@@ -6347,8 +5510,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7077dc4d-4c48-46cf-827d-feb3096718be",
-      "PH:favorite-all-hit-radio-tagum"
+      "PH:favorite-all-hit-radio-tagum",
+      "c5a82161-a0f0-4875-b49c-11ca3614321e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:03:44Z"
@@ -6468,25 +5631,6 @@
     "lastCheckedAt": "2026-11-06T20:50:49Z"
   },
   {
-    "id": "aws_e12acbea2437a67b22a6",
-    "stationId": "awb_ea1c5c93d6ca8c543ac8",
-    "name": "FM Radio Camiguin",
-    "country": "PH",
-    "url": "http://62.138.18.102:8673/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "24b556fe-7fb8-446e-8374-9c4e246f8fab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
     "id": "aws_587d13f007f96888ae14",
     "stationId": "awb_82ee7c80e04e4cf22a26",
     "name": "FM Radio Cebu",
@@ -6504,25 +5648,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:30:48Z"
-  },
-  {
-    "id": "aws_d318481735dc8ada6e59",
-    "stationId": "awb_45fccffd9941a2d720a1",
-    "name": "FM Radio Davao Region (Davao and Tagum)",
-    "country": "PH",
-    "url": "http://148.72.153.65:9226/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf415bb4-e8ed-4cec-9e79-81972b8c3ccc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
   },
   {
     "id": "aws_2b073f9d0902b38f18f7",
@@ -6622,25 +5747,6 @@
     "lastCheckedAt": "2026-11-06T02:22:06Z"
   },
   {
-    "id": "aws_7be1e8af45ff6edebd59",
-    "stationId": "awb_03571c1d9737c5adf180",
-    "name": "FMR Baguio",
-    "country": "PH",
-    "url": "http://de3.amfmph.com:8715/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e9b6978a-4699-40c5-a609-baa5b2aff63f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:01:41Z"
-  },
-  {
     "id": "aws_754f000846373fafcff4",
     "stationId": "awb_86b942dd5c09a01da238",
     "name": "FMR Baguio",
@@ -6658,63 +5764,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
-    "id": "aws_4a3ab0a7e87f261afb3e",
-    "stationId": "awb_33c7311e7acac64620fe",
-    "name": "FMR Butuan",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/rdnfm6z4ks7uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "57d217b1-015c-421a-8f42-ce631133e5ac"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:24:24Z"
-  },
-  {
-    "id": "aws_a99a9a69ebe6ab500d8b",
-    "stationId": "awb_6d5496b6f1dca6947fa3",
-    "name": "FMR Camiguin",
-    "country": "PH",
-    "url": "http://148.72.153.65:9204/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f2b32ba-0c3c-415c-bbf5-2c543a5cfea8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
-    "id": "aws_008bceb360a633989e4a",
-    "stationId": "awb_a1d7ba8d7e9e9f487b54",
-    "name": "FMR Camiguin",
-    "country": "PH",
-    "url": "http://62.138.18.102:8673/stream",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed40011a-2919-4de8-8d96-1ed69e2aa63f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
     "id": "aws_dee857ce5f7b0945ff53",
@@ -6753,25 +5802,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
-    "id": "aws_5d5050779d90c33043b6",
-    "stationId": "awb_0046d98eaf8722659c1d",
-    "name": "FMR Regional",
-    "country": "PH",
-    "url": "http://de3.amfmph.com:8715/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f2386bf3-4144-42e3-99e2-7db545ae28d0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_a7616519e8b9d443c5ed",
@@ -6822,15 +5852,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:fresh-fm",
-      "bc16174c-0e9b-457c-b508-9f982e2368f4"
+      "PH:fresh-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b81608a5c54b7155324c",
@@ -6846,7 +5874,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "03317a8b-e4ab-44d1-b0d6-441a5f822d94",
       "2e911ad1-aec0-4227-85f5-36f9828a73bf"
     ],
     "lastCheckOk": true,
@@ -6912,25 +5939,6 @@
     "lastCheckedAt": "2026-11-06T11:52:13Z"
   },
   {
-    "id": "aws_a7fa1cb44e30decdce05",
-    "stationId": "awb_a730cc1600aeadaee34a",
-    "name": "GGEZ",
-    "country": "PH",
-    "url": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&raw=1",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "26dfdc6f-36c1-466b-90bf-23db9795f3eb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:02:42Z"
-  },
-  {
     "id": "aws_49df1c643609dfef4ab2",
     "stationId": "awb_c829a219ead65a47a3ef",
     "name": "Glitchy Radio",
@@ -6967,25 +5975,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-04T19:37:59Z"
-  },
-  {
-    "id": "aws_1baf23d09d94e8f7fd66",
-    "stationId": "awb_dbce6167b47fb31f1191",
-    "name": "Gold FM Kidapawan",
-    "country": "PH",
-    "url": "http://148.72.153.65:8119/high",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b75ded1-36b7-4756-be75-4a231bd41b6c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:24:45Z"
   },
   {
     "id": "aws_6d5f5918806980e3a868",
@@ -7036,34 +6025,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:gv-99-1",
-      "dc608ea2-161e-4876-9cf0-11b0422d0f2b"
+      "PH:gv-99-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
-    "id": "aws_f249fb6e13dbd8ac5333",
-    "stationId": "awb_7ffaf10d0f44c840dfcb",
-    "name": "GV 99.1",
-    "country": "PH",
-    "url": "https://video.gv99-9.live/gv991video/stream.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a1dff03f-18fb-45e7-9866-e43f3b96e5bc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9f6dda938d9930560cd3",
@@ -7083,25 +6051,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:38:17Z"
-  },
-  {
-    "id": "aws_b97a387897373d2bf6a4",
-    "stationId": "awb_7e2484d6e2a7df562988",
-    "name": "GV AM 792",
-    "country": "PH",
-    "url": "https://gvamaudio.tail160f79.ts.net/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7fc573e2-c2c3-4bb9-bb11-1b1aa04cb33f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
     "id": "aws_960a93110785ae5f6f8f",
@@ -7220,25 +6169,6 @@
     "lastCheckedAt": "2026-11-06T00:22:54Z"
   },
   {
-    "id": "aws_6ea82cc7633563fce52e",
-    "stationId": "awb_787a2a7ed319064e6cf7",
-    "name": "Home Radio Cebu",
-    "country": "PH",
-    "url": "http://142.44.212.114:9353/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8aaf4e7f-dfce-4874-856a-dce68359ab3f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:33:26Z"
-  },
-  {
     "id": "aws_e84cd2b61eaa2f7d9d6c",
     "stationId": "awb_7fe8972ecd2df7813d1c",
     "name": "Home Radio Davao",
@@ -7294,25 +6224,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:58:00Z"
-  },
-  {
-    "id": "aws_5f66b27e54d322f93f25",
-    "stationId": "awb_ce59fc0b8f8da4262c2a",
-    "name": "Home Radio Manila",
-    "country": "PH",
-    "url": "http://142.44.212.114:9071/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a453c884-1a69-4dd3-bb67-ad002cde311f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
     "id": "aws_407e232eacd11add54b2",
@@ -7454,6 +6365,25 @@
     "lastCheckedAt": "2026-11-06T20:22:05Z"
   },
   {
+    "id": "aws_c220c96f35935e70cea1",
+    "stationId": "awb_67ac19726628e06821bd",
+    "name": "iFM Baguio",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/ifmbaguio",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7e1fab6f-0e57-4014-9deb-971fc7a6ba20"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
+  },
+  {
     "id": "aws_e26d96e832d86f700515",
     "stationId": "awb_6296e51036862712b0c5",
     "name": "iFM Cagayan de Oro",
@@ -7470,7 +6400,7 @@
       "71ebab9a-ce19-4f2a-822d-473449e3d682"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_52bffb028dc22d6bab55",
@@ -7508,7 +6438,7 @@
       "ee072d0c-2212-4e7f-943a-c2b65695e4c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_5370bb8de919322c984e",
@@ -7527,7 +6457,7 @@
       "fc9e3de4-3431-42d5-8d98-85f242cf45fd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_c0d083443f77db6f212a",
@@ -7584,7 +6514,7 @@
       "e5a9acb7-2867-4125-ac41-57e3eeeb52bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_7d43ab525fea5a606711",
@@ -7642,25 +6572,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T21:02:01Z"
-  },
-  {
-    "id": "aws_48379e52705354131c84",
-    "stationId": "awb_0f5614c2c2c793173a8f",
-    "name": "iFM Vigan",
-    "country": "PH",
-    "url": "https://livestream.rmn.ph/ifmvigan",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "197ee5ab-b7bc-4fba-bb21-e40a19bfc6a5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
   },
   {
     "id": "aws_659aeced58975afcfc55",
@@ -7890,7 +6801,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0c01a3b0-94d0-4643-9f20-d851dcb0cf18",
+      "3ac90ab7-34f9-43d3-9f7c-26379a1a68a4",
       "PH:jungle-radio"
     ],
     "lastCheckOk": true,
@@ -7907,15 +6818,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:k-lite-101-9-fm-manila",
-      "a3a9c71b-a878-40ee-9481-eb1ac38af84c"
+      "PH:k-lite-101-9-fm-manila"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a381b890922dd944c77e",
@@ -7950,30 +6859,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4c4d8cfc-ccb7-4e2e-ad31-e355431985c2",
-      "d85461ed-b32f-4cb4-a6e9-4ebdb4d8d05d"
+      "e3cf89ab-a517-4165-884f-c0ea728297ed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
-  },
-  {
-    "id": "aws_5d4465b3db832fab3f96",
-    "stationId": "awb_e45c4726cf6e83d8028e",
-    "name": "K5 News FM Capiz",
-    "country": "PH",
-    "url": "http://209.126.124.126:8584/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "22b6e039-7bef-44ac-9904-ebb076a14404"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
+    "lastCheckedAt": "2026-11-06T18:32:04Z"
   },
   {
     "id": "aws_fdd32127af395127ecb4",
@@ -7989,8 +6878,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3eda85bc-3266-409d-bd2a-be56b14d10d7",
-      "5d0ab34d-5aab-4b4c-a69a-47e5cd008ee7"
+      "3eda85bc-3266-409d-bd2a-be56b14d10d7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:02:42Z"
@@ -8047,8 +6935,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "166bd539-4638-4375-bccc-8ce5b4bc9c0c",
-      "b8a80734-8260-40db-a896-78971b8b9410"
+      "166bd539-4638-4375-bccc-8ce5b4bc9c0c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:38:26Z"
@@ -8206,25 +7093,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
-    "id": "aws_4a20bd57cb521f595b13",
-    "stationId": "awb_12902c37ac3035073f5d",
-    "name": "Kiss 102.3 Bohol",
-    "country": "PH",
-    "url": "http://live.kiss102fmbohol.com:8000/kiss",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a8e4110a-01fa-491f-8467-24cc17a3b5fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_acf2ba6e8a841c26038e",
@@ -8394,11 +7262,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0c181cab-1728-46a5-b8b6-a6079d9818bb",
       "be01ad6d-28ec-4fea-8127-c67740fa3dd4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-11-06T00:15:42Z"
   },
   {
     "id": "aws_73b96efa7d824e928ea8",
@@ -8851,35 +7718,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:love-radio-manila",
-      "e29e370f-1421-4e53-9d0e-60ced0183d84"
+      "PH:love-radio-manila"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:12:19Z"
-  },
-  {
-    "id": "aws_11578e26501a2dadc169",
-    "stationId": "awb_d478f33655f12e56e442",
-    "name": "Love Radio Manila",
-    "country": "PH",
-    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "69ad1d66-f789-402f-8d9e-9a7ae14ce93f",
-      "93231003-cf3f-4c44-ae04-af9016afc42a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:03:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_eff982bf38bf1ffa71b4",
@@ -8972,8 +7817,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4eba7a27-db61-4d67-8bf9-46c9987dea62",
-      "d0d6d2ba-bff0-4376-b215-48f046889cad"
+      "4eba7a27-db61-4d67-8bf9-46c9987dea62"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:03:49Z"
@@ -9049,11 +7893,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1dfb2bc8-093f-40b3-8462-cc7aa48e9236",
       "f6937fa3-65b3-4411-b715-132bd060cc9a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:34:44Z"
+    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_21cf68ee875aba43e9ed",
@@ -9113,25 +7956,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:23:48Z"
-  },
-  {
-    "id": "aws_0ec6d31d21241794315c",
-    "stationId": "awb_c70c7776a0a084b25879",
-    "name": "Love Radio Tarlac",
-    "country": "PH",
-    "url": "http://148.251.43.231:8162/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1cc840b3-a907-418e-96c5-9fa9d0b950dd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:08:32Z"
   },
   {
     "id": "aws_7c4afe70179a02057c28",
@@ -9246,25 +8070,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:38:26Z"
-  },
-  {
-    "id": "aws_813200f3b2480cd97ab3",
-    "stationId": "awb_9570df0e651979b33312",
-    "name": "Magic 89.9 - DWTM",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/hcbrvvfd938uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e1783122-9ec6-4022-8cd4-0c59e4bc3c65"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:05:28Z"
   },
   {
     "id": "aws_2a7db7f60261a8a98fc9",
@@ -9501,25 +8306,6 @@
     "lastCheckedAt": "2026-11-06T17:06:38Z"
   },
   {
-    "id": "aws_a85ad3055ff537a7079b",
-    "stationId": "awb_93e511a9a33ac5f37393",
-    "name": "Mapua Radio Cardinal",
-    "country": "PH",
-    "url": "https://edge.mixlr.com/channel/nhtli",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3ce9269-a89a-42c3-b3dd-07790288fa23"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T16:12:19Z"
-  },
-  {
     "id": "aws_a3b303e98a014df77f02",
     "stationId": "awb_60d205755576f985038d",
     "name": "Marino News FM Zamboanga",
@@ -9587,34 +8373,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "29d089db-7676-4f24-b16b-f5cdc5b9c07e",
       "PH:mellow-94-7-bfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:41:28Z"
-  },
-  {
-    "id": "aws_9fe8be970ff9e9e72822",
-    "stationId": "awb_6fc266c65a475df41cce",
-    "name": "Mellow 94.7 BFM - DWLL",
-    "country": "PH",
-    "url": "https://streamer.radio.co/sec36cd5f1/listen",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "551b653c-628d-4800-beb8-b3f4264d7a47"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:31:39Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_24329c4edbd941ac813d",
@@ -9636,25 +8401,6 @@
     "lastCheckedAt": "2026-11-06T19:36:57Z"
   },
   {
-    "id": "aws_6192e69d86be58990c34",
-    "stationId": "awb_b2726aae7a2c7d3b445f",
-    "name": "MOR",
-    "country": "PH",
-    "url": "http://28103.live.streamtheworld.com/MORFM_S01_SC",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "41f0505a-f067-4b8c-a284-2a7a5794a6a5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
-  },
-  {
     "id": "aws_e7cff3782b438374be3b",
     "stationId": "awb_e8482130bbb21f03ccfd",
     "name": "MOR 101.9 FM",
@@ -9665,15 +8411,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:mor-101-9-fm",
-      "a90bf48e-c689-4394-a22b-a4980689cedf"
+      "PH:mor-101-9-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:10:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7e76833dfc7c9575c096",
@@ -9769,25 +8513,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
-    "id": "aws_c6aff2ce7036b6a5614f",
-    "stationId": "awb_8d928ae3d5e41780ca46",
-    "name": "MOR Entertainment",
-    "country": "PH",
-    "url": "https://stream-37.zeno.fm/26ea0anpms8uv",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96d56356-354d-4a2e-97a7-25483f992be2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
     "id": "aws_7d7a3cadb24728dbb160",
@@ -9920,7 +8645,7 @@
       "fc36e225-7d61-4492-b35d-dc87fdf0ed4d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_f3cb3288b85bae1d38ee",
@@ -10274,20 +8999,18 @@
     "name": "OPM RADIO",
     "country": "PH",
     "url": "https://listen.streamaudio.co/proxy/kaibiganradio/opm",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 112,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:opm-radio",
-      "b22aae1c-d965-48e8-9786-bf1dd627a8e6"
+      "PH:opm-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:07:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f16fe8bbcc725b3de6a7",
@@ -10303,8 +9026,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "12d32664-4248-4812-9f36-d55ac05dc8c5",
-      "b7271a80-05fe-40e1-95f8-9acf5de57db0"
+      "12d32664-4248-4812-9f36-d55ac05dc8c5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:42:42Z"
@@ -10368,7 +9090,7 @@
       "PH:palawan-wave-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:25:14Z"
+    "lastCheckedAt": "2026-11-06T14:34:56Z"
   },
   {
     "id": "aws_fa6c8472dd34a962de72",
@@ -10419,15 +9141,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "93c1c7eb-c4d1-4bce-925f-f4383e833e44",
       "PH:ph-lite"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:17:17Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_795b2225c0b47f565c4b",
@@ -10743,26 +9463,7 @@
       "PH:radio-maria-philippines"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
-  },
-  {
-    "id": "aws_51dcdd2d401dc592c17c",
-    "stationId": "awb_5dc7ad1c036474743746",
-    "name": "RADIO ONE BACKUP",
-    "country": "PH",
-    "url": "https://edge.mixlr.com/channel/gtqpn",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7f976840-dedc-47eb-8efb-0cd30798d048"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:23Z"
+    "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
     "id": "aws_1326f23e39ee2f65a282",
@@ -10904,44 +9605,6 @@
     "lastCheckedAt": "2026-11-06T20:03:00Z"
   },
   {
-    "id": "aws_12496b2f345f0ee495a7",
-    "stationId": "awb_fbe8c891a49d740ec858",
-    "name": "Radyo Bandera Sweet FM",
-    "country": "PH",
-    "url": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b3ef4cd3-20b6-40ca-a74a-15174b80f79f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
-  },
-  {
-    "id": "aws_17db0b98fe93c52cd00a",
-    "stationId": "awb_1563fe1d4b6955c2e05f",
-    "name": "Radyo Bandera Sweet FM Bacolod",
-    "country": "PH",
-    "url": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aafc0d48-2155-4260-ae73-d5d1db1cc45d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
-  },
-  {
     "id": "aws_2e9dca0125b65ac862e5",
     "stationId": "awb_27ac9e7f015fc00ad43e",
     "name": "Radyo Bandera Sweet FM Iloilo",
@@ -10956,8 +9619,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4c23cd97-9392-4bfe-95b7-6adb21052d28",
-      "PH:radyo-bandera-sweet-fm-iloilo"
+      "PH:radyo-bandera-sweet-fm-iloilo",
+      "c5ad079d-fa08-4523-a087-24174e804270"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T09:32:40Z"
@@ -11059,7 +9722,7 @@
       "b23241a8-5b48-4754-889e-4158ebda3bcd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:05:19Z"
+    "lastCheckedAt": "2026-11-06T16:01:38Z"
   },
   {
     "id": "aws_0b51f10398746114b044",
@@ -11100,25 +9763,6 @@
     "lastCheckedAt": "2026-11-06T01:22:59Z"
   },
   {
-    "id": "aws_c9b5de57c9a79ea34cdc",
-    "stationId": "awb_a2c6f2572b937337379f",
-    "name": "Radyo Natin (Mindanao)",
-    "country": "PH",
-    "url": "https://mindanao.radyonatinfm.com:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bce4972f-9c5b-4508-904a-b314601148f9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
-  },
-  {
     "id": "aws_330a8d47a17e9c3fb36b",
     "stationId": "awb_7857003310c9a893ab9c",
     "name": "Radyo Natin (Visayas)",
@@ -11129,15 +9773,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:radyo-natin-visayas",
-      "b1649096-e05b-4f53-bb6f-a426e3fcb096"
+      "PH:radyo-natin-visayas"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:36:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_96843ee4dfa206608bdc",
@@ -11192,11 +9834,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8a93fc65-55f8-4dc8-b0ee-fdfd3fde6372",
+      "9663abd4-45a3-48bc-b74c-66f91f7a9f71",
       "PH:radyo-natin-argao"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:38:40Z"
+    "lastCheckedAt": "2026-11-06T06:19:33Z"
   },
   {
     "id": "aws_e343a11b6b73339788bc",
@@ -11407,15 +10049,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "75d6fded-d002-4d38-b2c5-31b01b623e56",
       "PH:radyo-natin-brooke-s-point"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_164e9ea50f7d18fc96ce",
@@ -11451,7 +10091,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "364bafed-107e-4735-bb9d-8ce2d32e25ca",
+      "767f0506-e473-49fd-ad41-24e6909229c8",
       "PH:radyo-natin-buhi"
     ],
     "lastCheckOk": true,
@@ -11554,7 +10194,7 @@
       "PH:radyo-natin-cdo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
+    "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
     "id": "aws_bc4ffe9bd423fd9cd7aa",
@@ -11610,11 +10250,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1920b9d6-496a-469c-ae99-e985b475c54b",
       "a00f8618-d829-4b60-84c8-2a2278257e34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:34:06Z"
+    "lastCheckedAt": "2026-11-06T03:05:50Z"
   },
   {
     "id": "aws_400cb67fa85c6dd2a744",
@@ -12123,7 +10762,7 @@
       "PH:radyo-natin-mindanao"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
+    "lastCheckedAt": "2026-11-06T05:04:18Z"
   },
   {
     "id": "aws_cf5d8fa460b3611e8691",
@@ -12187,25 +10826,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:34:44Z"
-  },
-  {
-    "id": "aws_c271eeb032a116aca8a0",
-    "stationId": "awb_8640b3bb5b6e0c4ce988",
-    "name": "Radyo Natin Nationwide",
-    "country": "PH",
-    "url": "https://visayas.radyonatinfm.com:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70230b40-d053-4441-af72-b72f674eb7dd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
   },
   {
     "id": "aws_5fd939bd489731cb54c8",
@@ -12415,8 +11035,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14be702f-d819-4ab9-ab8c-e19ebd377e0d",
-      "48c44cb6-227f-4523-8193-49c2a1096610"
+      "14be702f-d819-4ab9-ab8c-e19ebd377e0d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:15:39Z"
@@ -12567,34 +11186,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4b8f3aae-3991-429f-b715-889b488dbd47",
       "PH:radyo-natin-sta-elena"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:05Z"
-  },
-  {
-    "id": "aws_40eae35321857db8fd95",
-    "stationId": "awb_4ae33755aa6ee9f2c26c",
-    "name": "Radyo Natin Sto. Tomas",
-    "country": "PH",
-    "url": "https://stream.radyonatinfm.com:8000/santotomas",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c795c03a-d1bb-4a2c-9760-0c0724135930"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_101f4d783347fcd7180f",
@@ -12867,25 +11465,6 @@
     "lastCheckedAt": "2026-11-06T05:56:04Z"
   },
   {
-    "id": "aws_4c1a387521c54ca9dee5",
-    "stationId": "awb_aa36944c2e2caf427930",
-    "name": "Radyo Trabungko",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/t9opranhul1uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b149ff07-1be7-4f3a-90f8-4f8950146113"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:32:21Z"
-  },
-  {
     "id": "aws_42f5935f53d2805d9a53",
     "stationId": "awb_c96976b5f226fdfd9f3b",
     "name": "Radyong Sira!",
@@ -12922,25 +11501,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
-    "id": "aws_04782cc53f915d75eb70",
-    "stationId": "awb_316b03ed75f93d27f548",
-    "name": "RAYSLAND CEBU",
-    "country": "PH",
-    "url": "http://173.208.146.230:8002/stream",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1f9758b7-c125-4cc4-a35c-385e8ed35453"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:14:23Z"
   },
   {
     "id": "aws_fff582010abcfaa7d6a4",
@@ -13096,7 +11656,7 @@
       "d780b8a6-bd93-42b9-b878-2dc1dbecba4b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_2a59cbc5f7a290f6e977",
@@ -13154,25 +11714,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T03:04:27Z"
-  },
-  {
-    "id": "aws_b8d41d34fe802705cff8",
-    "stationId": "awb_e8a8caa2b420c98dc692",
-    "name": "RMN DYHB 747 Bacolod",
-    "country": "PH",
-    "url": "http://148.72.153.65:8848/stream",
-    "codec": "aac+",
-    "bitrate": 24,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9bcd008b-7f2c-44ec-8401-480fe3eefd6c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
   },
   {
     "id": "aws_ea440a2eef7e9ee1c0ed",
@@ -13266,11 +11807,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6cdeeca8-6408-4f4d-83a8-cb4db77018ae",
-      "ca3f56c7-f5c4-4511-9c21-d56536a74bac"
+      "6cdeeca8-6408-4f4d-83a8-cb4db77018ae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T03:04:27Z"
+    "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
     "id": "aws_7557956dacce98cdfe8e",
@@ -13321,15 +11861,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9df104e1-ce7f-4531-8f5a-e4ce63811fac",
       "PH:rn-bayombong"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:36:57Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9ca6db07886dc4ec7a02",
@@ -13524,25 +12062,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:01:43Z"
-  },
-  {
-    "id": "aws_91054e209630d2bbeaac",
-    "stationId": "awb_155149036d2e3a89620e",
-    "name": "RW 95.1 FM - DWRW",
-    "country": "PH",
-    "url": "https://streamer.radio.co/sec36cd5f1/listen",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0ce1af8c-90d1-4d9a-a85a-2dba46bf142a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
   },
   {
     "id": "aws_d669ea3bf7f289a6d89b",
@@ -13758,25 +12277,6 @@
     "lastCheckedAt": "2026-11-05T23:58:12Z"
   },
   {
-    "id": "aws_f1ce730355d4a64ca6a4",
-    "stationId": "awb_d70c0a4098d17ee800ae",
-    "name": "Spirit FM Lucena 103.9",
-    "country": "PH",
-    "url": "http://stream.zeno.fm/fp689r8sty8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8e9677d0-a3ea-482a-a662-00515519b5e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:57:05Z"
-  },
-  {
     "id": "aws_472fed5add81b663167a",
     "stationId": "awb_50e0bf7f2cf77ca3881f",
     "name": "Spirit FM Masbate",
@@ -13931,25 +12431,6 @@
     "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
-    "id": "aws_3d33ad04f31a273a2fbb",
-    "stationId": "awb_07f5c5ccf85de0204d23",
-    "name": "Star FM Baguio",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/sa27v4d29heuv",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "713f6efa-a9c3-4848-ab75-6f11f9cfddd3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:52Z"
-  },
-  {
     "id": "aws_d15c38d9e09919633b54",
     "stationId": "awb_1fa330aa2e05e9f17b69",
     "name": "Star FM Cebu",
@@ -14024,45 +12505,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:52:18Z"
-  },
-  {
-    "id": "aws_a310cd08a34e93ae7fd5",
-    "stationId": "awb_79f4e924f8dbcf25283f",
-    "name": "Star FM Manila",
-    "country": "PH",
-    "url": "https://stream-13.zeno.fm/g1pmt17nz9duv",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c9368a3-8f90-4fc8-ba49-1127f9861d2f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:04:41Z"
-  },
-  {
-    "id": "aws_c1dd4aa5af2540ac10d6",
-    "stationId": "awb_f25ace1157c6d11d6e73",
-    "name": "Star FM Manila",
-    "country": "PH",
-    "url": "https://stream-13.zeno.fm/g1pmt17nz9duv",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "227a35f7-b84c-49f1-807a-672e89799e3c",
-      "81637121-15af-4eee-a30f-f81617c16b9a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
   },
   {
     "id": "aws_7db9b17621dae43b94dd",
@@ -14329,11 +12771,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "689677c8-da0b-421b-ab51-ad3e1c56577f",
       "ea0bc4dd-4ca3-4329-8f99-bc0439f04b34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
+    "lastCheckedAt": "2026-11-06T03:34:56Z"
   },
   {
     "id": "aws_45e6ad32a639bf8f25f8",
@@ -14392,7 +12833,7 @@
       "PH:tops-media-center"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
+    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_52477df9c8ebbed55054",
@@ -14499,20 +12940,18 @@
     "name": "V81 Radio",
     "country": "PH",
     "url": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "301db04e-9e6e-4488-b786-b904fcafa5c1",
       "PH:v81-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_308d4165f437b1b0aa8f",
@@ -14532,25 +12971,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:59:50Z"
-  },
-  {
-    "id": "aws_f6e950cd41c34699854e",
-    "stationId": "awb_a1c78466df1ad4076710",
-    "name": "Vibe Radio",
-    "country": "PH",
-    "url": "https://stream.zeno.fm/zf0ac4raqy8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d9a20ab2-1f10-4555-a657-4739a3c4273f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
   },
   {
     "id": "aws_679420f860a34e8df9c3",
@@ -14686,44 +13106,6 @@
     "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
-    "id": "aws_bcb6c2b9220f1a0cee93",
-    "stationId": "awb_66d92956174628c7877a",
-    "name": "Wild FM Manila",
-    "country": "PH",
-    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6dc7f2f7-41b7-4203-8337-86adf10d78c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:51:00Z"
-  },
-  {
-    "id": "aws_a8d32fef5582e37606bb",
-    "stationId": "awb_e7598c31b6b18c94dee7",
-    "name": "Win FM Manila",
-    "country": "PH",
-    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ea8b53c7-ca7a-49d6-9c01-fca6a6cf0942"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:31:57Z"
-  },
-  {
     "id": "aws_8dc6a8419a02805863bb",
     "stationId": "awb_0c4b69c97bb2da5a1757",
     "name": "Win Radio Cagayan de Oro",
@@ -14857,25 +13239,6 @@
     "lastCheckedAt": "2026-11-06T13:01:14Z"
   },
   {
-    "id": "aws_d5c85590abdb66b16976",
-    "stationId": "awb_b979a8082996c5264536",
-    "name": "Win Radio Manila",
-    "country": "PH",
-    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "91d4bd6e-fc70-4d77-a563-99682073a7ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:31:02Z"
-  },
-  {
     "id": "aws_c9228054296f97faf837",
     "stationId": "awb_3f454bfbc415ebccce61",
     "name": "Win Radio Naga",
@@ -14964,34 +13327,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PH:wxb-102",
-      "f13c6180-81e6-4bd0-8507-900519f989c8"
+      "PH:wxb-102"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:47:10Z"
-  },
-  {
-    "id": "aws_a04e5e9da01252b98ee0",
-    "stationId": "awb_4d9f54a6dbf63b8e802a",
-    "name": "WXB Loud 102.3 FM Pampanga",
-    "country": "PH",
-    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0",
-    "codec": "aac",
-    "bitrate": 211,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0ab1d3b9-26e1-4770-8de1-bb1f5f0ec5a5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:01:41Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ea6b48d8b41a7ea11901",
@@ -15091,25 +13433,6 @@
     "lastCheckedAt": "2026-11-06T11:52:13Z"
   },
   {
-    "id": "aws_5fd494dae119f6ba716c",
-    "stationId": "awb_3d2f01a025a0d9f30cd6",
-    "name": "XFM 99.5 Mega Manila",
-    "country": "PH",
-    "url": "http://148.72.153.65:9198/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0458b582-4d93-4761-8f6c-637fba99486e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
-  },
-  {
     "id": "aws_670d38a027871baeedd7",
     "stationId": "awb_de7f4fa0ea097cd71e4d",
     "name": "XFM BACOLOD",
@@ -15123,7 +13446,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "04cec6bc-b773-4e2e-98b1-3733901532a6",
       "94e150a9-7407-47bc-ade6-021fd4f85764"
     ],
     "lastCheckOk": true,
@@ -15181,11 +13503,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "77d21ffe-0889-4da6-952c-df9d4a24892d",
       "aa7e8adc-ed3c-49fb-b8a4-a5965f8831c1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:04:31Z"
+    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_2f820d5295db79fef011",
@@ -15205,25 +13526,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:09:12Z"
-  },
-  {
-    "id": "aws_43de23dfd6b6b22e73ca",
-    "stationId": "awb_21aad2de0884bf1e70c6",
-    "name": "XFM Palawan",
-    "country": "PH",
-    "url": "http://209.126.124.126:8835/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c356c8c-aaaa-4ed1-a2b0-6a1a856f545d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:00:31Z"
   },
   {
     "id": "aws_eb4e04d913ff930cf2f0",
@@ -15359,25 +13661,6 @@
     "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
-    "id": "aws_46742ef267a7b3cfdd0a",
-    "stationId": "awb_40c3f24ddaecf9e09752",
-    "name": "Yes FM Cagayan de Oro",
-    "country": "PH",
-    "url": "http://comet.shoutca.st:8040/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "09fad89d-183a-4a53-8ff4-c3c5acf27e66"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:18:58Z"
-  },
-  {
     "id": "aws_b626ec077ccdb3865948",
     "stationId": "awb_9c1da1a9b51199f05b16",
     "name": "Yes FM Cauayan",
@@ -15452,25 +13735,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:56:54Z"
-  },
-  {
-    "id": "aws_2229f86099379585956b",
-    "stationId": "awb_417b07561be5cfd1fa3f",
-    "name": "Yes FM Dagupan",
-    "country": "PH",
-    "url": "http://5.9.13.39:10300/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0789dd55-8153-44a7-9a0c-07696c42c8a9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:12:27Z"
   },
   {
     "id": "aws_9133980a12c4bc6726f8",
@@ -15569,25 +13833,6 @@
     "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
-    "id": "aws_65201779cf63a93d9250",
-    "stationId": "awb_19a57053a2e1537584d4",
-    "name": "Yes FM Valencia",
-    "country": "PH",
-    "url": "http://proxima.shoutca.st:8231/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dbb27d15-f05b-4b5a-acd2-9eea11c3e6e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:05Z"
-  },
-  {
     "id": "aws_c81557973921ffa99742",
     "stationId": "awb_42f5cd72e1e112df9401",
     "name": "Yes FM Valencia",
@@ -15684,44 +13929,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:26:30Z"
-  },
-  {
-    "id": "aws_af7b9201a899e97c669b",
-    "stationId": "awb_cca99450a153be68588d",
-    "name": "Yes The Best Cauayan",
-    "country": "PH",
-    "url": "http://yesfmcauayan.radioca.st:9933/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5fae016-01b1-4a2d-8694-1b14cb8256c3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:05Z"
-  },
-  {
-    "id": "aws_268e10e5f21b77a9f707",
-    "stationId": "awb_3afadba5075ec19658f5",
-    "name": "Yes The Best Cebu",
-    "country": "PH",
-    "url": "http://95.217.34.48:9136/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5dd2fb88-c059-409e-9496-e91bf242a3ba"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:29:46Z"
   },
   {
     "id": "aws_ca328f5f40fc32c1befb",

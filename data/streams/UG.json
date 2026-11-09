@@ -38,44 +38,6 @@
     "lastCheckedAt": "2026-11-06T16:03:21Z"
   },
   {
-    "id": "aws_cbcd21120baa96669ce6",
-    "stationId": "awb_d05bc52f24277cb4eff6",
-    "name": "101.8 Radio maria",
-    "country": "UG",
-    "url": "http://dreamsiteradiocp.com:8052/stream",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ead916ba-3727-41bb-91d2-95e2e95fdcc1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:08:34Z"
-  },
-  {
-    "id": "aws_9319534f86cf90dd4c7d",
-    "stationId": "awb_70ffe39cbb01885eeca5",
-    "name": "104.1 Favour FM - Gulu - 104.1 FM",
-    "country": "UG",
-    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96088068-8088-4db8-bd6c-6737a3c1e865"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:15:31Z"
-  },
-  {
     "id": "aws_8112b2fc26378694bdd9",
     "stationId": "awb_e8b159d96a3f42c778bb",
     "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
@@ -114,25 +76,6 @@
     "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
-    "id": "aws_3adce57c7ea81687bd36",
-    "stationId": "awb_a0d373c6932b450fd484",
-    "name": "106.1 Next Radio",
-    "country": "UG",
-    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "56d2d8d9-292b-470e-adfc-eea69932917b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:04Z"
-  },
-  {
     "id": "aws_aab27f445cdad941613e",
     "stationId": "awb_63f02c571d78d857f8e0",
     "name": "106.1 NxtRadio",
@@ -146,7 +89,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6a208ad3-4933-4247-8b02-f695fae45503",
       "892e3a5e-b658-498a-9895-6232543415a1"
     ],
     "lastCheckOk": true,
@@ -208,11 +150,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "38cff2cb-ad3d-4c56-a49a-46ccde9b6ec5",
       "b6989b83-7ee0-48b5-bbe5-c00d1b558bed"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
+    "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
     "id": "aws_e6e422ed8090d05561f7",
@@ -225,15 +166,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:107-9-pearl-fm",
-      "bf8d199f-e158-4205-bd1d-7cec0b8158aa"
+      "UG:107-9-pearl-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:01:50Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_355aa73e32bef0716657",
@@ -257,82 +196,6 @@
     "lastCheckedAt": "2026-11-06T03:30:54Z"
   },
   {
-    "id": "aws_3444e0a7423b2f7a5de7",
-    "stationId": "awb_9a40c0ed51c2c18ba47d",
-    "name": "87.9 Kaboozi Fm",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1c1d249-e2a8-4fd9-8967-f124f9dff21e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
-  },
-  {
-    "id": "aws_357b8bf662d103c2aa36",
-    "stationId": "awb_1be8d841ce9e28e54613",
-    "name": "87.9 Kaboozi fm",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "039e4828-55aa-45c5-a33f-0e70f98742ed"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:43:54Z"
-  },
-  {
-    "id": "aws_0eb141d23029260eebfd",
-    "stationId": "awb_e6c8070769fd446fdb6a",
-    "name": "87.9 Kaboozi Fm",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "47aeb481-6946-4680-9f4e-ced487f187cc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:03:28Z"
-  },
-  {
-    "id": "aws_a25a0641ca7cd7f34c2b",
-    "stationId": "awb_e7093c2a6ab091769172",
-    "name": "87.9 Kaboozi Fm",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "94495c5b-9f3e-4f90-a7fc-bc2ef1c8e383"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
     "id": "aws_0ba58ddaf9f3138e1869",
     "stationId": "awb_8c5f2b025323ee349fc3",
     "name": "88.2 Sanyu Fm",
@@ -350,25 +213,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:01:47Z"
-  },
-  {
-    "id": "aws_d57d5669491c6c4ed220",
-    "stationId": "awb_76d84ae7073262f070f9",
-    "name": "88.2 Sanyu FM - 88.2 FM (MP3)",
-    "country": "UG",
-    "url": "http://s44.myradiostream.com/8138/listen.mp3",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "39f27f69-ba0f-435b-8072-3794a76febc1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:54:58Z"
   },
   {
     "id": "aws_955382faa3180082fea9",
@@ -403,8 +247,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1a9a9129-4742-4b6b-b42f-32a976bb28d9",
-      "38eef14f-743e-45ba-b71b-ad39ca6d383d"
+      "1a9a9129-4742-4b6b-b42f-32a976bb28d9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:47:35Z"
@@ -505,25 +348,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:40:25Z"
-  },
-  {
-    "id": "aws_6c8fa1c3a0d1669f3d86",
-    "stationId": "awb_641aa7f6a8d946daae6c",
-    "name": "91.6 Christ Fm",
-    "country": "UG",
-    "url": "http://5.135.154.69:15664/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "971b5ae7-1474-4c4b-841a-fce8fcfe43d9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
   },
   {
     "id": "aws_3d31a29c9b2a554801f8",
@@ -631,15 +455,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:95-5-radio-buddu",
-      "e2d2f120-6771-4e92-8fff-7e5ba1052414"
+      "UG:95-5-radio-buddu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_502fd57cb49fbb1eb0f7",
@@ -666,58 +488,18 @@
     "name": "98.1 Isaiah FM Trinidad",
     "country": "UG",
     "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:98-1-isaiah-fm-trinidad",
-      "db6fc15f-68dd-43cb-91f0-881f02bdc478"
+      "UG:98-1-isaiah-fm-trinidad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
-    "id": "aws_59abdc392afde29344d9",
-    "stationId": "awb_24f9f7520b3b90722e91",
-    "name": "98.8 Buddu Fm",
-    "country": "UG",
-    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "28908138-4d4d-494d-a07e-90215025ebf8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:37:13Z"
-  },
-  {
-    "id": "aws_a63bee1a7e8fafdcb9d5",
-    "stationId": "awb_0955004fc5fda87eb73b",
-    "name": "98.8 Radio Buddu",
-    "country": "UG",
-    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "13c79848-b2bd-4d7d-b61c-dc1a0177e3a3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:42:40Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c986a91b7bb874bd78d9",
@@ -758,82 +540,23 @@
     "lastCheckedAt": "2026-11-06T08:55:10Z"
   },
   {
-    "id": "aws_790e3abfc3381efca654",
-    "stationId": "awb_a6be2c12f40011a9234f",
-    "name": "AKABOOZI FM",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1dda143-90d9-47e1-810b-48ee56b8ece0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
-  },
-  {
-    "id": "aws_a410f5f45ee5fa464b8d",
-    "stationId": "awb_56159d960a0072c2007e",
-    "name": "Akaboozi FM 87.9",
-    "country": "UG",
-    "url": "http://162.244.80.52:8732/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a8f7fb5-3159-11ea-afca-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:22:43Z"
-  },
-  {
     "id": "aws_3cbb535d8d96cb6396c5",
     "stationId": "awb_9b109d0a11070214b4f4",
     "name": "Ancient Faith Radio",
     "country": "UG",
     "url": "https://ancientfaith.streamguys1.com/music",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:ancient-faith-radio",
-      "d724edf2-85d8-4d84-901e-79d1b563f9c4"
+      "UG:ancient-faith-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:36:06Z"
-  },
-  {
-    "id": "aws_1143fa483bc7470517fa",
-    "stationId": "awb_fc195accc3909f4c6ad9",
-    "name": "ANCIENT FAITH RADIO",
-    "country": "UG",
-    "url": "https://ancientfaith.streamguys1.com/music",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f4f75a8-616f-48d2-99f7-71090ad852a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:51:19Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e36daf9b1c8a3cc1acaf",
@@ -906,49 +629,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0b50ad48-22b9-4f1f-bec1-8fadc6f609a5",
-      "3b154ff8-de6f-45c7-be2d-91eba608c646"
+      "0b50ad48-22b9-4f1f-bec1-8fadc6f609a5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
-    "id": "aws_2d4efb0adf081bb2745a",
-    "stationId": "awb_0959b1b005fdac43468b",
-    "name": "Bible 24/7",
-    "country": "UG",
-    "url": "http://c28.radioboss.fm:8335/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6af24820-f8e0-43d4-87c2-c78586fa8407"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
-  },
-  {
-    "id": "aws_04e344f6eec1fe9d7d96",
-    "stationId": "awb_0f9f431d32d0e1877895",
-    "name": "BIBLE 24/7",
-    "country": "UG",
-    "url": "http://c28.radioboss.fm:8335/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c2fc69a8-a09c-4a98-b4d6-040091a192fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
+    "lastCheckedAt": "2026-11-06T11:06:05Z"
   },
   {
     "id": "aws_c258b09d74dfe5f82ba9",
@@ -982,15 +666,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6f9f3d97-4308-4e59-af48-7c6a0c0e47c1",
       "UG:bible-trivia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_776062e832a7af5ed7e5",
@@ -1010,25 +692,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:38:04Z"
-  },
-  {
-    "id": "aws_f0da76384a9d0d6a2425",
-    "stationId": "awb_3e5f7620a3185fe0bb42",
-    "name": "BLOCK FM 103.2",
-    "country": "UG",
-    "url": "https://stream.zeno.fm/gxjhbloltwluv",
-    "codec": "mp3",
-    "bitrate": 112,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "be7863e5-65e9-42d0-8458-cd4404c8e777"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
   },
   {
     "id": "aws_48e1d87919337ed3a023",
@@ -1082,7 +745,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5917375f-b272-4570-929a-9d0bc7c1a1a8",
       "dd80c893-fd09-4e6c-963c-64b4dadcc8a6"
     ],
     "lastCheckOk": true,
@@ -1148,25 +810,6 @@
     "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
-    "id": "aws_f1588e9ffb5fc382415d",
-    "stationId": "awb_735dd8436e5c6332ef9d",
-    "name": "Buyinza Fm",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/wcancipcbrevv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5fc7166e-eb35-438b-b21c-96702f06c2e3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:28:16Z"
-  },
-  {
     "id": "aws_fd5953f740d42f925ea4",
     "stationId": "awb_bc275ff07e8afcdba5a6",
     "name": "Buyinza FM (MP3)",
@@ -1205,44 +848,6 @@
     "lastCheckedAt": "2026-11-06T15:09:32Z"
   },
   {
-    "id": "aws_0517bf5eb5d4418de596",
-    "stationId": "awb_e8d70f615dc3dd18fb57",
-    "name": "Capital FM - 91.3 FM (MP3)",
-    "country": "UG",
-    "url": "http://capitalfm.cloudrad.io/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7851fcf3-b13d-4404-aafa-13ff1462a6cd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:18:56Z"
-  },
-  {
-    "id": "aws_c50bf701fbf4440cf14d",
-    "stationId": "awb_c4565fbafdf88b9956a8",
-    "name": "Capital FM - Kampala - 91.3 FM (MP3)",
-    "country": "UG",
-    "url": "http://capitalfm.cloudrad.io/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c987055-1074-4d7b-950a-63e009e03d94"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:55:24Z"
-  },
-  {
     "id": "aws_cd02399ef7d93ad03fcb",
     "stationId": "awb_ca4f64bdc544fa16acf3",
     "name": "CAPITAL FM UG",
@@ -1272,34 +877,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "02024dbd-1dbb-4977-a689-a2eb3447a973",
       "UG:capital-fm-uganda"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
-  },
-  {
-    "id": "aws_0e98d30f565d1ed87bd1",
-    "stationId": "awb_bbed163d0670a806b1bd",
-    "name": "CAPITAL FM UK",
-    "country": "UG",
-    "url": "http://capitalfm.cloudrad.io/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02e26eb2-a558-4203-b0ea-088f6df44b54"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:26:36Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_a9ab49b3cad778c1ba02",
@@ -1350,34 +934,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2515ffad-a344-4d35-80ec-d386f03c8044",
       "UG:cbn-christmas-channel"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
-    "id": "aws_127a7fcca967d45c099b",
-    "stationId": "awb_d99cad80190830b2261a",
-    "name": "CBN News",
-    "country": "UG",
-    "url": "http://cbnradio.streamguys1.com/news-128K?app=cbnplayer",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "667c7f26-6241-48a8-a238-530770d185cf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:45:20Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_a7b08b8420eda4883be7",
@@ -1450,30 +1013,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3984b407-8b80-4df9-8d89-9e9fcdeaf8e2",
       "d3fb26f8-4168-4ba5-9f76-33ce96f30f93"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:32:41Z"
-  },
-  {
-    "id": "aws_cfaea7a704bc87a57150",
-    "stationId": "awb_4d0c94a4805ee5e4fe23",
-    "name": "CHRIST FM",
-    "country": "UG",
-    "url": "http://s39.myradiostream.com/:15664/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f1404e93-3dd0-46f6-a505-37a77fd2dc30"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:42:14Z"
   },
   {
     "id": "aws_6511a9e916fb4f7bae2e",
@@ -1527,11 +1070,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d093c6a2-00ba-4cdd-86fb-48e8a2766792",
-      "f374a93f-ee20-4a39-b05b-e677d39e9950"
+      "d093c6a2-00ba-4cdd-86fb-48e8a2766792"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:18:51Z"
+    "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
     "id": "aws_5678ae8de490bdc17e9f",
@@ -1563,15 +1105,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "83fb8a65-0272-4de9-9f9f-bbf1d1626bbc",
       "UG:christian-hits-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:44:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_d514f7f9037137d981a4",
@@ -1614,25 +1154,6 @@
     "lastCheckedAt": "2026-11-06T19:21:56Z"
   },
   {
-    "id": "aws_d9e7dd3c1874a8219287",
-    "stationId": "awb_5e026edc8d4fd7086213",
-    "name": "Christian Radio",
-    "country": "UG",
-    "url": "https://shoutcast.christianrock.net/stream/5/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "db765b26-de47-4663-b418-8b25dd27e20e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:00:54Z"
-  },
-  {
     "id": "aws_47e951898029d9f4b95e",
     "stationId": "awb_68208e51daebd2b24a95",
     "name": "Christmas choir",
@@ -1667,8 +1188,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "03264813-c0ea-4e7f-8ba7-63a5aef3bdc0",
-      "97c6888b-e7c9-46f1-90fb-737e1599e8c1"
+      "03264813-c0ea-4e7f-8ba7-63a5aef3bdc0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:01:47Z"
@@ -1684,15 +1204,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1afa6111-382a-426e-8a70-e5c680bc48f8",
       "UG:cnn-international"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_cd95236d2520ff8f7b90",
@@ -1708,8 +1226,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7efe33cf-f29b-411b-9f3d-6a50d38dcbd0",
-      "ceeb1115-afa7-4f8c-bcdb-894eaecedeb7"
+      "7efe33cf-f29b-411b-9f3d-6a50d38dcbd0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:13:11Z"
@@ -1766,31 +1283,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "48fd6aa0-4fdf-4d02-8b0d-bc3dfad59138",
-      "964f92e1-a1b6-4c61-95d5-d26714f04d71"
+      "48fd6aa0-4fdf-4d02-8b0d-bc3dfad59138"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:22:54Z"
-  },
-  {
-    "id": "aws_8f53560d410103283f32",
-    "stationId": "awb_616a4a9e211fe4342dc6",
-    "name": "Dema Radio - Gospel Promotions (MP3)",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1542aee8-5cfe-43a8-b84f-2dd6cd9cc85d",
-      "4fe0d46b-3298-4f2b-8c0b-5ed6764a7b30"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_b090e36ebadeb5c4c750",
@@ -1803,15 +1299,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "06369826-f900-4530-8b29-9b5978fc1ad3",
       "UG:dove-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:13:57Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_a7d0152fa0168fa4782f",
@@ -1862,15 +1356,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:dw-news",
-      "c04fdda3-b0f5-477b-a7a0-316ffe670524"
+      "UG:dw-news"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:15:31Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_1c1e1cd3f181e5e6f947",
@@ -1936,25 +1428,6 @@
     "lastCheckedAt": "2026-11-06T10:06:21Z"
   },
   {
-    "id": "aws_e1b8fb25df90560d1cfa",
-    "stationId": "awb_7b6f20208b7654b73292",
-    "name": "Enjiri Radio",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/xdb8nazajqcvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0110ab4-f8e2-4e1f-b5e9-7f825ba26986"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:33:02Z"
-  },
-  {
     "id": "aws_9125a7b334d39efeb885",
     "stationId": "awb_a198ad7e8ff398523cd7",
     "name": "Enjiri Radio (MP3)",
@@ -1993,25 +1466,6 @@
     "lastCheckedAt": "2026-11-06T09:04:31Z"
   },
   {
-    "id": "aws_b45f4ef2c751b133ee25",
-    "stationId": "awb_7249b18765a2ff115095",
-    "name": "Exodus Comfort Radio - Mbarara (MP3)",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/k2zma0qewtjvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c48c3052-569e-45e1-9d9e-1a3c9f040d7c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:04:18Z"
-  },
-  {
     "id": "aws_2633253b6d337cc2f399",
     "stationId": "awb_725f836a1aa3f426b5ba",
     "name": "Free Sports Radio",
@@ -2029,25 +1483,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
-    "id": "aws_d1be38d3fe9467d62a92",
-    "stationId": "awb_86f81204b616904e674a",
-    "name": "Fun Kids Radio",
-    "country": "UG",
-    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0906d356-df6e-48ce-8a21-2468b0b654d4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_c681bbcfce2b40794103",
@@ -2218,15 +1653,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "19dfa3bc-a3b2-4ca6-b4fa-27f44439acc5",
       "UG:heart-xmas"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:35:26Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_56f8d8d344622ae3e6ff",
@@ -2324,44 +1757,6 @@
     "lastCheckedAt": "2026-11-06T05:41:46Z"
   },
   {
-    "id": "aws_ac6ace01cc5910aa250c",
-    "stationId": "awb_78db7f1a8a2f8cbcc721",
-    "name": "ISLANDS FM",
-    "country": "UG",
-    "url": "http://radio.canstream.co.uk:8040/live.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d88313f5-5787-45d2-9a2e-beebbce0baa6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:21:17Z"
-  },
-  {
-    "id": "aws_bd067f20c238f4f82307",
-    "stationId": "awb_7b808fcf52416b7fbc9a",
-    "name": "Islands FM",
-    "country": "UG",
-    "url": "http://radio.canstream.co.uk:8040/live.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "128fa745-aacc-4549-9287-747055da8680"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:58:53Z"
-  },
-  {
     "id": "aws_af782f1eeb9e7f63c3ee",
     "stationId": "awb_2903a907dd3a55f82131",
     "name": "Jembe Fm",
@@ -2393,34 +1788,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0886be7e-39cd-4d9d-b7bd-322686320f7a",
       "UG:jesus-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
-    "id": "aws_adaf5974dd87b9eac34f",
-    "stationId": "awb_837cd39897c2f2ba19b8",
-    "name": "Jewish Music",
-    "country": "UG",
-    "url": "https://stream.jewishmusicstream.com:8000/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "95d63786-c406-4d85-a4c5-b147b5db2c34"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4914986f43c132046b79",
@@ -2442,26 +1816,6 @@
     "lastCheckedAt": "2026-11-06T23:59:50Z"
   },
   {
-    "id": "aws_e6a8d7802d1b46b6494a",
-    "stationId": "awb_433a18305b45ee47ec2b",
-    "name": "JOY HITS",
-    "country": "UG",
-    "url": "http://joyhits.online/joyhitshq.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "280f4391-ce9d-4a95-a545-5f97c7b3b005",
-      "645ed42e-36d8-4b29-ba28-7c1d8a89f1df"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:00:22Z"
-  },
-  {
     "id": "aws_b5bbde9aa43ff1917f44",
     "stationId": "awb_1e5a6b61522a454900e3",
     "name": "Joy hits channel",
@@ -2479,44 +1833,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:59:49Z"
-  },
-  {
-    "id": "aws_cace2f3005a44283358c",
-    "stationId": "awb_c285eccec86dc64d9f71",
-    "name": "Joy Hits Radio",
-    "country": "UG",
-    "url": "http://joyhits.online/joyhitshq.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c05cd429-6174-4d5f-b7d2-7b074776739a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:53:47Z"
-  },
-  {
-    "id": "aws_20055391933ba4471316",
-    "stationId": "awb_06bd71dca8bc07a78fa5",
-    "name": "JOY HITS RADIO",
-    "country": "UG",
-    "url": "http://joyhits.online/joyhitshq.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27cb1326-b3e5-46d8-8a3d-7c2b7cf4f6d7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_e1f73e3d3834ddf770ce",
@@ -2576,25 +1892,6 @@
     "lastCheckedAt": "2026-11-07T00:39:20Z"
   },
   {
-    "id": "aws_29ca29e81ea1e52cefb0",
-    "stationId": "awb_e2f0646345573be376bd",
-    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/iydttapi8rguv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "009174d2-2430-4ba4-a4b4-ae04a143b744"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:44:15Z"
-  },
-  {
     "id": "aws_9e625d54918d822f8443",
     "stationId": "awb_3d9f9107e1f87b9100e8",
     "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
@@ -2612,25 +1909,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:22:05Z"
-  },
-  {
-    "id": "aws_91697b02be8ad6bbfe05",
-    "stationId": "awb_57508068388c39ab66fa",
-    "name": "KIIS Uganda",
-    "country": "UG",
-    "url": "http://14867.cloudrad.io:9224/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e6a801bb-598b-452d-b2da-6a67042802b0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_7107ea6becad4ba8671e",
@@ -2690,26 +1968,6 @@
     "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
-    "id": "aws_b9772f2164f48d585910",
-    "stationId": "awb_ac04bc012c92548086b7",
-    "name": "LBC News",
-    "country": "UG",
-    "url": "http://media-ice.musicradio.com/LBCUK",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf7475cf-95c6-4244-b585-ae1793a9ccef",
-      "f9a04abe-34c3-45b1-ae33-eb81337d80c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:31:00Z"
-  },
-  {
     "id": "aws_62c713fccec20e7ce0e1",
     "stationId": "awb_fe35bc5620248d904d0b",
     "name": "LBC RADIO",
@@ -2729,25 +1987,6 @@
     "lastCheckedAt": "2026-11-06T23:59:10Z"
   },
   {
-    "id": "aws_85d09d09f22ee839964e",
-    "stationId": "awb_01a227436dc503deacb3",
-    "name": "Mello fm Jamaica",
-    "country": "UG",
-    "url": "http://peridot.streamguys.com:5660/live",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "30e2f2b4-0f85-482d-ba59-4ea85a679096"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:31:44Z"
-  },
-  {
     "id": "aws_78a57e9f765c5e2c63df",
     "stationId": "awb_f3637121136a48a0897c",
     "name": "Music for kids",
@@ -2765,25 +2004,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:07:44Z"
-  },
-  {
-    "id": "aws_6f981597cf6c7b3db4b5",
-    "stationId": "awb_7f5a53d03a1fc3226ebe",
-    "name": "My Radio",
-    "country": "UG",
-    "url": "http://myradioug.duckdns.org:8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e494c2a-4c3d-4a8f-9f8b-e5c92ec9c960"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_e8221eab14c2165d9d30",
@@ -2824,25 +2044,6 @@
     "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
-    "id": "aws_669c22e217b0d61012fb",
-    "stationId": "awb_eaf21d69ea2cbdd0162c",
-    "name": "NEXT RADIO UG",
-    "country": "UG",
-    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fcab4b3f-fecb-4c7d-964b-3f7b8d6a46b8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:12:43Z"
-  },
-  {
     "id": "aws_319831e14de5bbcceb2a",
     "stationId": "awb_1e3d787b2aaadfacde55",
     "name": "NRG Radio Uganda",
@@ -2872,34 +2073,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "16a7954b-fce0-4d3d-b06e-797e32b4c7ce",
       "UG:nrg-uganda-106-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:56Z"
-  },
-  {
-    "id": "aws_afc8c61ef7da73ac4ed4",
-    "stationId": "awb_e4d32d6f78a12c86b24e",
-    "name": "Nup Radio 91.4",
-    "country": "UG",
-    "url": "https://stream.zeno.fm/gxjhbloltwluv",
-    "codec": "mp3",
-    "bitrate": 112,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d35af201-6dab-45a8-8661-d3bdce1c21ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:45:43Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5866554ba7496751a657",
@@ -2931,15 +2111,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1ff2e73e-a58a-48cb-b3bc-996962b3a07e",
       "UG:old-school-music"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:01:53Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_7e32583cd8c2170eafc9",
@@ -2959,44 +2137,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:00:54Z"
-  },
-  {
-    "id": "aws_fb5e0f5922af0d89a953",
-    "stationId": "awb_036039dd28d943c8dcf2",
-    "name": "PEARL FM",
-    "country": "UG",
-    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "326bdf4e-4fdc-452a-a302-fbffb552c2e1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:36:06Z"
-  },
-  {
-    "id": "aws_1adbe5220767715f41de",
-    "stationId": "awb_f8714250be457e6b5778",
-    "name": "PEARL FM",
-    "country": "UG",
-    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b810ec6d-41fc-46bf-8aa0-59d7552103fb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:53:36Z"
   },
   {
     "id": "aws_a8f08091bb2d254323d2",
@@ -3035,25 +2175,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:08:40Z"
-  },
-  {
-    "id": "aws_2c39f6a83bbaa9e786df",
-    "stationId": "awb_fc49679a93766ef223ba",
-    "name": "Prayer Tower Radio (MP3)",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/ymapb78yznhvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4125a4a9-a020-49c6-98b3-a57f6e151ae6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
     "id": "aws_4c713ab84ec13200920f",
@@ -3115,25 +2236,6 @@
     "lastCheckedAt": "2026-11-07T02:28:32Z"
   },
   {
-    "id": "aws_ba9d2a3db2b0c485c5e7",
-    "stationId": "awb_ff9faa9b8f53e8339414",
-    "name": "RADIO BUDDU",
-    "country": "UG",
-    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4bfdc6b3-d0dd-41c6-8f3e-da986b89ab42"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
     "id": "aws_0956de9186c85cd85a35",
     "stationId": "awb_1b2ee6e81ffad797ea57",
     "name": "Radio Buddu",
@@ -3155,25 +2257,6 @@
     "lastCheckedAt": "2026-11-06T13:01:14Z"
   },
   {
-    "id": "aws_2534f641b23df318ddd9",
-    "stationId": "awb_cb4bcfc7b76c3e405d56",
-    "name": "Radio City",
-    "country": "UG",
-    "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "81b1c74b-5ee3-4504-85d0-d50bf5d9a2c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
-  },
-  {
     "id": "aws_5059bc29a00f0b28ad9b",
     "stationId": "awb_0fc874cb80b9f49dac3c",
     "name": "RADIO EAST NIGERIA",
@@ -3193,63 +2276,6 @@
     "lastCheckedAt": "2026-11-06T23:15:26Z"
   },
   {
-    "id": "aws_a68c389ed46b6351c7ac",
-    "stationId": "awb_9d5f2ed9e0d3c76567f2",
-    "name": "Radio for Jesus",
-    "country": "UG",
-    "url": "http://s2.stationplaylist.com:7132/listen.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b5ab69d-b35b-4481-bba7-d25d21845276"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
-  },
-  {
-    "id": "aws_e857d32d4cb06c545de2",
-    "stationId": "awb_480c6b86850d3cd2434b",
-    "name": "RADIO MARIA UG",
-    "country": "UG",
-    "url": "http://dreamsiteradiocp.com:8052/stream",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9bebf0ac-9715-48e4-afeb-1fa3060ef272"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:37:13Z"
-  },
-  {
-    "id": "aws_4450abb9561d6acda6c8",
-    "stationId": "awb_a5bca7910452f6b17d31",
-    "name": "RADIO MARIA UGANDA",
-    "country": "UG",
-    "url": "http://dreamsiteradiocp.com:8052/stream",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "488ec719-5aaa-11e9-a622-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
-  },
-  {
     "id": "aws_16dccff78fcf888706a5",
     "stationId": "awb_5106a183062bf1bc3164",
     "name": "Radio One",
@@ -3267,25 +2293,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:48:58Z"
-  },
-  {
-    "id": "aws_99a74899fa85c82e1b45",
-    "stationId": "awb_b523ccbed0dd932996cc",
-    "name": "Radio one",
-    "country": "UG",
-    "url": "http://162.244.80.52:8740/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c5db7864-b093-4844-8e0b-d63885cb0a79"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:06:38Z"
   },
   {
     "id": "aws_7543cfef2d1c957a6e95",
@@ -3379,7 +2386,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b5e63da1-8220-4924-aae2-7c5d59f50982",
       "bfab33ba-901b-4bc4-b5ff-eeb7d3ba3c3a"
     ],
     "lastCheckOk": true,
@@ -3399,30 +2405,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4e6767da-05d0-4bde-8bde-b35014182be1",
-      "ddb98f5e-a810-4222-a556-375dc38e05a1"
+      "fb8176a7-96f8-4103-bd9f-79566897d1e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:15:31Z"
-  },
-  {
-    "id": "aws_cfa763967a796db9ff30",
-    "stationId": "awb_c3405c575f9aeb99b005",
-    "name": "RADIO SSESE 101.9 FM KALANGALA",
-    "country": "UG",
-    "url": "https://stream.zeno.fm/bphnslpg8p1uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bd6575e4-5064-456a-b833-d7af16c2278a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:25:13Z"
+    "lastCheckedAt": "2026-11-06T07:56:36Z"
   },
   {
     "id": "aws_e7c9c47f381da3de60f9",
@@ -3454,15 +2440,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6e6a2c2c-ea78-4e22-8311-cb9d086577fc",
       "UG:radiocity-ug"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_8ff7d3c1277da5f0eb79",
@@ -3587,44 +2571,6 @@
     "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
-    "id": "aws_da43ce98af28bd655099",
-    "stationId": "awb_7d9b5a015d17dfe04fa7",
-    "name": "SANCTUARY FM",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/vyx334hsbphvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fa8609da-7b19-4945-a2aa-d6a8d15f8a85"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:03:49Z"
-  },
-  {
-    "id": "aws_b9b1f2a17c768cb874b0",
-    "stationId": "awb_14aac59a7b2e545de052",
-    "name": "SANCTUARY FM",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/vyx334hsbphvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70a2e2cc-35ae-4e6e-ae74-597162376e6c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:32:21Z"
-  },
-  {
     "id": "aws_a51e84bb5255b3884d2f",
     "stationId": "awb_723667742705fa5b1403",
     "name": "Sanctuary FM - Kampala (MP3)",
@@ -3642,45 +2588,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:39:20Z"
-  },
-  {
-    "id": "aws_04709cbb68acb1f936b4",
-    "stationId": "awb_716b76e51303452084a9",
-    "name": "SANYU FM",
-    "country": "UG",
-    "url": "http://s44.myradiostream.com:8138/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49f409da-6ddb-43cd-80ff-af069a032d42"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
-  },
-  {
-    "id": "aws_95e5e16f3de16f15366f",
-    "stationId": "awb_f6f2d10617fb89c46a29",
-    "name": "SANYU FM",
-    "country": "UG",
-    "url": "http://s44.myradiostream.com:8138/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7658ace6-1eea-4898-9107-cbf276ba98c4",
-      "97ef6ea6-b8c1-40a4-894c-e38e87f29e46"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:42:35Z"
   },
   {
     "id": "aws_817dc3d5468f71bcf915",
@@ -3731,15 +2638,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:sda-radio",
-      "b8476825-d0a0-4284-b811-ad54e4f5b331"
+      "UG:sda-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_b2277e0a2262ece06ba3",
@@ -3755,7 +2660,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4ff383c3-daaa-42b7-85b4-4b7b1c7627d1",
       "b231113f-2c90-441d-9f7d-67fcca003bf8"
     ],
     "lastCheckOk": true,
@@ -3775,11 +2679,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2b9f107c-8a62-44c5-84bf-0d99ba8a50a3",
-      "c6e7bf72-3dcf-400c-97ef-08f7eb258f7f"
+      "2b9f107c-8a62-44c5-84bf-0d99ba8a50a3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
+    "lastCheckedAt": "2026-11-05T22:36:10Z"
   },
   {
     "id": "aws_eac61b6b91d44f08be27",
@@ -3792,34 +2695,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "UG:sky-news",
-      "a40fcfd1-f3c9-4a8d-b982-710da9bc593d"
+      "UG:sky-news"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:08:42Z"
-  },
-  {
-    "id": "aws_c96f5e159c5b768ebc08",
-    "stationId": "awb_560b4d8f7b14808b9f12",
-    "name": "SKY NEWS UK",
-    "country": "UG",
-    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d231d5f8-bcd8-43bb-bf79-29206581eeb3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9ad3d02eed2d54bd9115",
@@ -3839,44 +2721,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:28:32Z"
-  },
-  {
-    "id": "aws_4df6c01b62b54f2ae38b",
-    "stationId": "awb_237d3f1160f034d82c8b",
-    "name": "Skynet Radio",
-    "country": "UG",
-    "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de087846-93cc-4b5c-8941-ac17910ac19c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
-    "id": "aws_98a18acd348c4b3801a8",
-    "stationId": "awb_f0e1b24eab785d2ab357",
-    "name": "Skynews Radio",
-    "country": "UG",
-    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "92cd5788-7550-4b4a-b06a-65121c129a40"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:27:12Z"
   },
   {
     "id": "aws_f5fa07dca4057a5a0802",
@@ -3932,29 +2776,10 @@
     ],
     "sourceIds": [
       "UG:smooth-country",
-      "e641f600-1e26-45d8-8160-35f3cee69617"
+      "f20b23cc-b795-4b50-a954-87edd2fb6bb8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:43:59Z"
-  },
-  {
-    "id": "aws_9db77cd625e5cb433d10",
-    "stationId": "awb_4a0b2e7855b1bb096862",
-    "name": "SMOOTH FM",
-    "country": "UG",
-    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c3ef6bb9-d7d3-4679-952d-55c87e8e1f32"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:56:15Z"
   },
   {
     "id": "aws_e8d2166f3957b2c89a29",
@@ -3974,44 +2799,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:38:58Z"
-  },
-  {
-    "id": "aws_bab27179e63b9a12ef0f",
-    "stationId": "awb_0316b1c17502e1b687bb",
-    "name": "Smooth Radio",
-    "country": "UG",
-    "url": "http://media-the.musicradio.com/SmoothEastMids",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "270342d1-157a-466e-9a1c-fdbb1427a463"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:48:28Z"
-  },
-  {
-    "id": "aws_acff862d2194d9862adf",
-    "stationId": "awb_9c11560ca6af38b7f85d",
-    "name": "SMOOTH RADIO UK",
-    "country": "UG",
-    "url": "http://media-the.musicradio.com/SmoothEastMids",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "55281986-5bd4-46f5-8dc8-b16a935a2950"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:11:50Z"
   },
   {
     "id": "aws_968be5954f9720d68747",
@@ -4052,25 +2839,6 @@
     "lastCheckedAt": "2026-11-06T15:41:16Z"
   },
   {
-    "id": "aws_2408d785de4ef770f076",
-    "stationId": "awb_c726b538ca6970a3adf9",
-    "name": "Sonlife Radio",
-    "country": "UG",
-    "url": "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4a85fcc1-f668-4b01-8cc9-1f86cf6d288f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
-  },
-  {
     "id": "aws_a7f58c98c6be5427f252",
     "stationId": "awb_2423629a84c4bf1e308c",
     "name": "Sound City",
@@ -4103,8 +2871,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a90e506d-46c8-4e39-be7e-8f5b9118604d",
-      "eba25e96-7529-4b7b-a9a8-279b8270a837"
+      "a90e506d-46c8-4e39-be7e-8f5b9118604d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:24:12Z"
@@ -4171,65 +2938,6 @@
     "lastCheckedAt": "2026-11-06T06:11:27Z"
   },
   {
-    "id": "aws_13d8c3e50dcfeaac2e6f",
-    "stationId": "awb_105fefdc877d7f103c0f",
-    "name": "talkRADIO",
-    "country": "UG",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6a63acd1-45bc-41a0-b17c-1a070a3fd448"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:54:07Z"
-  },
-  {
-    "id": "aws_9a309b403b0ed1ffdd86",
-    "stationId": "awb_918fb4fa8376de46bd91",
-    "name": "TALKRADIO",
-    "country": "UG",
-    "url": "https://radio.talkradio.co.uk/stream",
-    "codec": "aac",
-    "bitrate": 63,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "047aeeee-1e05-40c6-858a-784e4b057186"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
-  },
-  {
-    "id": "aws_7807b730a1dfe9c479e3",
-    "stationId": "awb_cb972091f2d5e152e923",
-    "name": "talkRADIO",
-    "country": "UG",
-    "url": "https://radio.talkradio.co.uk/stream",
-    "codec": "aac",
-    "bitrate": 63,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "97fc8f85-c738-4c8e-85f7-2c3e03a59d4d",
-      "UG:talkradio"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
-  },
-  {
     "id": "aws_7054d17ad0bf0efa8b5a",
     "stationId": "awb_d6e64a805e21fbdbb0af",
     "name": "talkRADIO",
@@ -4247,6 +2955,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:31:02Z"
+  },
+  {
+    "id": "aws_7807b730a1dfe9c479e3",
+    "stationId": "awb_cb972091f2d5e152e923",
+    "name": "talkRADIO",
+    "country": "UG",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "codec": "aac",
+    "bitrate": 63,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "UG:talkradio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f0fc080f136aae8020c7",
@@ -4367,25 +3094,6 @@
     "lastCheckedAt": "2026-11-06T11:03:49Z"
   },
   {
-    "id": "aws_91dd1945a89b2d511453",
-    "stationId": "awb_57002cb9d36bafb9d483",
-    "name": "TOTAL SOUL RADIO",
-    "country": "UG",
-    "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "80bd9deb-5dbd-45c6-9170-60de987c1414"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:53:19Z"
-  },
-  {
     "id": "aws_f91c70a41fe07a5af4b7",
     "stationId": "awb_9319501e028a65c22772",
     "name": "TOYAL SOUL RADIO",
@@ -4441,7 +3149,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0be26bde-7676-4954-aa2a-dc34417a4979",
       "19ddb20f-6c38-4e50-a809-64d22e60b336"
     ],
     "lastCheckOk": true,
@@ -4461,30 +3168,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "415fe488-d8bf-447d-9b6f-54df5d761bae",
-      "a28761b5-835e-46b3-a302-1f7767466947"
+      "415fe488-d8bf-447d-9b6f-54df5d761bae"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:05:50Z"
-  },
-  {
-    "id": "aws_ab40cde721bf0dfda20a",
-    "stationId": "awb_746bd68b5ad64875d6ae",
-    "name": "Turn Radio - Revive Your Soul (MP3)",
-    "country": "UG",
-    "url": "http://stream.zeno.fm/cuejngegi8btv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d35168a2-e74b-4d9e-a3da-a4d7d0364846"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
   },
   {
     "id": "aws_a5a737554e848e418164",
@@ -4519,7 +3206,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9c0e6a1e-0012-43b6-934c-2bcc4696cd66",
       "e4810b9d-dbe7-42f5-8233-186f6295c577"
     ],
     "lastCheckOk": true,
@@ -4555,15 +3241,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "31dd3b1e-35dd-438f-899c-e07530dcab6b",
       "UG:victors-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:48:02Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_9340024d54268c37df18",

@@ -100,20 +100,18 @@
     "name": "CRI Tiếng Việt",
     "country": "VN",
     "url": "https://ice5.securenetsystems.net:80/KALI",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "72aba108-76ae-443c-8531-80de3e86374f",
       "VN:cri-tieng-viet"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:56:51Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_59a1a968c38dabfd6235",
@@ -434,7 +432,7 @@
   {
     "id": "aws_63ffae850ab7b05fc079",
     "stationId": "awb_38df15b7ecfb85257ef3",
-    "name": "VIET WASHINGTON DC",
+    "name": "Viet Washington DC",
     "country": "VN",
     "url": "http://varadio.serverroom.net:7968/",
     "codec": "mp3",
@@ -445,11 +443,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c544fcb2-14fa-4051-a2c3-852bbee283ad",
-      "fe65dfdc-a666-4c7e-9777-d59187ac1a65"
+      "c544fcb2-14fa-4051-a2c3-852bbee283ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:50Z"
+    "lastCheckedAt": "2026-11-06T02:22:51Z"
   },
   {
     "id": "aws_f473a4e36d6ab5c12c03",
@@ -507,25 +504,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:14:51Z"
-  },
-  {
-    "id": "aws_0c16dbc9768d2a59ba3a",
-    "stationId": "awb_3e4541bf06f5020a0436",
-    "name": "VOV GT HCM",
-    "country": "VN",
-    "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 253,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2e12d816-cfe4-48f0-af9b-37e9f14eed35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:39:31Z"
   },
   {
     "id": "aws_debcb05cf5656fb6964b",

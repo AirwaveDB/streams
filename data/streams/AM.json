@@ -71,15 +71,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "067467aa-0430-4c24-9d17-6de0e4258349",
       "AM:armenian-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:16:34Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_72ec79acfbdefb7f00d2",
@@ -184,20 +182,18 @@
     "name": "LOVE RADIO",
     "country": "AM",
     "url": "https://loveradio.streamingmedia.it/play",
-    "codec": "aac+",
-    "bitrate": 194,
+    "codec": "aac",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "67559407-bf54-44ce-bc55-fe22efed1f88",
       "AM:love-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:07:20Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_0779f919677009fa8c61",
@@ -229,15 +225,32 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "93c5dc77-4865-4f51-9496-4f0f333949eb",
       "AM:mfm-music-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:41:16Z"
+    "lastCheckedAt": "2026-08-23"
+  },
+  {
+    "id": "aws_ba9417cef2b0000d14e1",
+    "stationId": "awb_30e0e67d73a0dc912a4d",
+    "name": "Radio Aurora Armenia",
+    "country": "AM",
+    "url": "https://de.auroramedia.am/aurora.mp3",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cec4e1cf-7f70-4b8d-8908-6a8c85b78e49"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_ca74847085f078b87019",

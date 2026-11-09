@@ -38,25 +38,6 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
-    "id": "aws_f62b853dae5ac5cd8044",
-    "stationId": "awb_c9c1162048ce26162eef",
-    "name": "Actitud 100.9",
-    "country": "GT",
-    "url": "https://ss.redradios.net:8002/stream?type=.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9038777d-df11-4e57-a0bb-5f190fc8afbc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
-  },
-  {
     "id": "aws_93032209a756ccb4cbf6",
     "stationId": "awb_cff0c120cb9a4ef49960",
     "name": "Actitud 100.9 FM",
@@ -74,25 +55,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:50:59Z"
-  },
-  {
-    "id": "aws_17888d0f1041ca3fa2c8",
-    "stationId": "awb_661d59a29c7e4453bb3d",
-    "name": "Actitud 100.9 FM Guatemala",
-    "country": "GT",
-    "url": "https://ss.redradios.net:8002/stream?type=.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06c833c3-6945-41d2-afef-b7ae14adcfe6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:19:17Z"
   },
   {
     "id": "aws_7f7e012ef5a9429bc250",
@@ -289,27 +251,6 @@
     "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
-    "id": "aws_3d0fae23e6f85ffb0844",
-    "stationId": "awb_f8ce015d3a17da7c23f0",
-    "name": "EMAUS RADIO",
-    "country": "GT",
-    "url": "https://sh2.radioonlinehd.com:8141/;",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "5e24cb0b-858a-4c8a-8604-e49b4eab8536",
-      "GT:emaus-radio"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:15:51Z"
-  },
-  {
     "id": "aws_31138a419c393344608a",
     "stationId": "awb_a397acf59c23426b98ca",
     "name": "Emaús Radio",
@@ -327,6 +268,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:14:51Z"
+  },
+  {
+    "id": "aws_3d0fae23e6f85ffb0844",
+    "stationId": "awb_f8ce015d3a17da7c23f0",
+    "name": "EMAUS RADIO",
+    "country": "GT",
+    "url": "https://sh2.radioonlinehd.com:8141/;",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "GT:emaus-radio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ec4e398d89e6184a5c1b",
@@ -521,25 +481,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:26:30Z"
-  },
-  {
-    "id": "aws_4b4a79a4610f4b3ca9ba",
-    "stationId": "awb_77064b5c04917e6ff53d",
-    "name": "Exa FM 101.7 Guatemala",
-    "country": "GT",
-    "url": "https://stream.zeno.fm/czdkk32qduhvv",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1b8296e1-6561-4094-82de-df4034de2bc0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
   },
   {
     "id": "aws_0cf9eaba1326735ce384",
@@ -755,25 +696,6 @@
     "lastCheckedAt": "2026-11-06T18:33:07Z"
   },
   {
-    "id": "aws_607c6238f12a6f08a182",
-    "stationId": "awb_d8be54bfbb7c0cbc1b5f",
-    "name": "Juventud Palabra Miel",
-    "country": "GT",
-    "url": "http://juventudpalabramiel.org:8000/radio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "79f1962a-f6f0-4972-a6c4-1ca4fc3247e0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:43:25Z"
-  },
-  {
     "id": "aws_5b1b7bbb0e1709dd7442",
     "stationId": "awb_401a0a5602367dc068ec",
     "name": "Kiss FM 97.7",
@@ -904,7 +826,7 @@
       "e6d7a104-c09d-42d6-985d-9da6c70c1d8b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_f42b941505e633aa3b6b",
@@ -1040,25 +962,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:59:48Z"
-  },
-  {
-    "id": "aws_3b2a997e3dd8f99ab3fc",
-    "stationId": "awb_b1cbce87e8aee4001578",
-    "name": "Radio Actitud",
-    "country": "GT",
-    "url": "https://ss.redradios.net:8002/stream?type=.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9b64520a-ae4e-4f41-aaeb-9fc3f635bd4a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:54:08Z"
   },
   {
     "id": "aws_5246420a25720ba6d2c6",

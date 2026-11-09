@@ -29,7 +29,7 @@ https://ec6.yesstreaming.net:4385/stream
 http://webradio.classicfm.dk/classichorsens
 #EXTINF:-1 station-id="awb_7ac9f648e880cccca062" stream-id="aws_2bbb3363916b38c9e8dc" codec="mp3" bitrate="192",Classic FM (Fyn)
 https://netradio.classicfm.dk/cla12a
-#EXTINF:-1 station-id="awb_9e68ac8eb63768905f18" stream-id="aws_702e4df78229fb26350a" codec="" bitrate="0",Classic FM Østjylland
+#EXTINF:-1 station-id="awb_9e68ac8eb63768905f18" stream-id="aws_702e4df78229fb26350a" codec="mp3" bitrate="192",Classic FM Østjylland
 https://netradio.classicfm.dk/cla8a
 #EXTINF:-1 station-id="awb_38bd4662fc82fe5307fc" stream-id="aws_e1c0e026f13005cab19a" codec="mp3" bitrate="192",Classic Rock Danmark
 https://netradio.classicfm.dk/classicrock
@@ -79,8 +79,6 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8
 http://live-icy.dr.dk/A/A06H.mp3
 #EXTINF:-1 station-id="awb_ea896a6ef2cae29248b2" stream-id="aws_d684b4ac17cfd143c89b" codec="mp3" bitrate="128",DR P4 Bornholm
 http://live-icy.gss.dr.dk/A/A06H.mp3
-#EXTINF:-1 station-id="awb_ea896a6ef2cae29248b2" stream-id="aws_5f065fb98c91ab31a57a" codec="mp3" bitrate="128",DR P4 Bornholm
-https://live-icy.dr.dk/A/A30H.mp3
 #EXTINF:-1 station-id="awb_cfb76b22f69740e702a6" stream-id="aws_732aab1f8716587da36d" codec="aac" bitrate="324",DR P4 Bornholm (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8
 #EXTINF:-1 station-id="awb_b7d6e09283cad25e388b" stream-id="aws_848995337d37b94f4c84" codec="mp3" bitrate="128",DR P4 Esbjerg
@@ -113,8 +111,6 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8
 http://live-icy.gss.dr.dk/A/A09H.mp3
 #EXTINF:-1 station-id="awb_05883a327ed7a6606439" stream-id="aws_63140906b68ec2bc5059" codec="mp3" bitrate="128",DR P4 Nordjylland
 http://live-icy.dr.dk/A/A10H.mp3
-#EXTINF:-1 station-id="awb_05883a327ed7a6606439" stream-id="aws_38a2328582f6b9d01248" codec="aac" bitrate="324",DR P4 Nordjylland
-https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
 #EXTINF:-1 station-id="awb_cab025bba71c6cf600a1" stream-id="aws_5cdc1fa9385075d505e1" codec="aac" bitrate="324",DR P4 Nordjylland (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
 #EXTINF:-1 station-id="awb_8343394db00833092374" stream-id="aws_add14d4cf50f6613fe47" codec="aac" bitrate="324",DR P4 Østjylland (AAC)
@@ -209,9 +205,7 @@ https://radioserver.dk/gofm
 https://cast1.asurahosting.com/proxy/historyr/stream.mp3
 #EXTINF:-1 station-id="awb_e5ec33f686e59470cc36" stream-id="aws_47ce2f295d13e6e5979a" codec="mp3" bitrate="256",Jazzkanalen
 http://ca6.rcast.net:4058/;stream
-#EXTINF:-1 station-id="awb_e5ec33f686e59470cc36" stream-id="aws_877818dd1a4b0e75823c" codec="mp3" bitrate="192",Jazzkanalen
-http://media.wlmm.dk/humleborg.m3u
-#EXTINF:-1 station-id="awb_443eb20025c6a9e2a773" stream-id="aws_559f717dc2ad6d678d70" codec="" bitrate="0",Julekanalen (Classic FM Jul)
+#EXTINF:-1 station-id="awb_443eb20025c6a9e2a773" stream-id="aws_559f717dc2ad6d678d70" codec="mp3" bitrate="192",Julekanalen (Classic FM Jul)
 https://netradio.julekanalen.dk/julekanalen
 #EXTINF:-1 station-id="awb_288a68665e88f46b1295" stream-id="aws_ad9f3c4d64d01f63132e" codec="mp3" bitrate="192",Kalaallit Nunaata Radioa
 https://knr.gl/radiolivestream
@@ -233,8 +227,6 @@ http://stream2.wlmm.dk/syddanmark.m3u
 https://fra-pioneer01.dedicateware.com:1465/stream
 #EXTINF:-1 station-id="awb_58467c399062f2b354ae" stream-id="aws_09d593b3030b32fea685" codec="mp3" bitrate="128",Magic Lumora Radio
 https://streaming.radio.co/sea3f7bae2/listen
-#EXTINF:-1 station-id="awb_16c31cf8ee4f37e1c82d" stream-id="aws_74a86047e521ccec605a" codec="mp3" bitrate="128",Midtfjord Radio
-http://stream.midtfjordradio.dk/netradio
 #EXTINF:-1 station-id="awb_edfd0de7dcd361e8cd0c" stream-id="aws_ac8e94953b9073decfc0" codec="mp3" bitrate="128",Midtfjord Radio / Radio Nibenitten
 http://stream.midtfjordradio.dk/netradio
 #EXTINF:-1 station-id="awb_c45ce9e2df9409b98526" stream-id="aws_8da5cbf5decc6c006b10" codec="mp3" bitrate="256",Mix FM
@@ -263,8 +255,6 @@ https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
 https://live-bauerdk.sharp-stream.com/nova_dk_mp3
 #EXTINF:-1 station-id="awb_52de8c7fdb0cd1046740" stream-id="aws_715c932db9d8be8bf018" codec="mp3" bitrate="192",NyhedsTjek.dk
 https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3
-#EXTINF:-1 station-id="awb_32c93fbc718574b1c585" stream-id="aws_5b4e668308b9af25b079" codec="mp3" bitrate="320",Party Fm
-http://stream1.partyfm.dk/Party320
 #EXTINF:-1 station-id="awb_1efd14d31a46f0804ea5" stream-id="aws_e485035681fe795d0da0" codec="mp3" bitrate="320",PartyFM
 http://stream.partyfm.dk/Party320/
 #EXTINF:-1 station-id="awb_143334c1ac3913ae9ce2" stream-id="aws_bdfa743a727b54039f7d" codec="mp3" bitrate="320",Partyfm
@@ -339,8 +329,6 @@ http://media.wlmm.dk/humleborg.m3u
 https://stream2.rcast.net/64145
 #EXTINF:-1 station-id="awb_c4b84e8ecc81cbdb67db" stream-id="aws_d5ee154a0073881def89" codec="mp3" bitrate="128",Radio IIII
 https://netradio.radio4.dk/radio4
-#EXTINF:-1 station-id="awb_28f2b5309afe2474ef4e" stream-id="aws_8f42ec6b60986c3e8c18" codec="mp3" bitrate="128",Radio Klitholm
-http://stream.radioklitholm.dk:8000/stream
 #EXTINF:-1 station-id="awb_06f70905d8621cdf8858" stream-id="aws_6b1a6e56f47c5a504025" codec="mp3" bitrate="128",Radio Klitholm - Det Ny Kanal 1
 http://stream.radioklitholm.dk:8000/stream
 #EXTINF:-1 station-id="awb_b6c486ad5813a752f41d" stream-id="aws_825e1331bd6376280c9d" codec="mp3" bitrate="192",Radio Koge
@@ -350,8 +338,6 @@ http://media.limfjordnetradio.dk/limfjord128
 #EXTINF:-1 station-id="awb_af7a3d8b592fdbff7f78" stream-id="aws_8c0ccc433221e5c44ab9" codec="mp3" bitrate="192",Radio M
 https://radioserver.dk/radiom
 #EXTINF:-1 station-id="awb_56d36e458af1df95113a" stream-id="aws_7ec8ac2799df8929243d" codec="mp3" bitrate="160",Radio Mælkebøtten
-http://live2.rcast.net:8722/;stream
-#EXTINF:-1 station-id="awb_4c84d2f52f6278b35698" stream-id="aws_fd2f018b063391f82e60" codec="mp3" bitrate="160",Radio MB
 http://live2.rcast.net:8722/;stream
 #EXTINF:-1 station-id="awb_41212c06d6a7668c11c6" stream-id="aws_3b50c29d90241aea486d" codec="mp3" bitrate="0",Radio Midtsjælland
 http://player.radiomidt.dk/broadwave.mp3
@@ -373,8 +359,6 @@ http://stream02.radioplayback.dk/stream
 https://stream02.radioplayback.dk/stream
 #EXTINF:-1 station-id="awb_d793e772ec4c61bd628d" stream-id="aws_5895e8f18bd7a22eff1d" codec="mp3" bitrate="128",Radio Ringkøbing
 http://netradio.radioringkobing.dk:8000/;
-#EXTINF:-1 station-id="awb_270bd6ade794c8737bb6" stream-id="aws_217bfcf4ca0b8abc4ad8" codec="mp3" bitrate="320",Radio Rollo
-http://stream.radiosolutions.dk/rollo
 #EXTINF:-1 station-id="awb_458207103dbe103d4b7e" stream-id="aws_0fbd1aa0eb4864da7a4a" codec="mp3" bitrate="128",Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr
 https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3
 #EXTINF:-1 station-id="awb_b74c3bd1f391394fb2f6" stream-id="aws_78d93b353a3e1136c7ca" codec="mp3" bitrate="256",Radio Solo
@@ -391,8 +375,6 @@ https://webradio.radioviborg.dk/viborg
 https://stream.probroadcast.dk/victoria
 #EXTINF:-1 station-id="awb_6ba136a916a995d1ecd6" stream-id="aws_27d9b78643390ef4464b" codec="mp3" bitrate="192",Radio Viva
 http://stream.wlmm.dk/radioviva
-#EXTINF:-1 station-id="awb_6ba136a916a995d1ecd6" stream-id="aws_fff86f40f3aca283f5ed" codec="mp3" bitrate="192",Radio Viva
-https://stream.probroadcast.dk/radioviva
 #EXTINF:-1 station-id="awb_346440c9c5d8096bd0bc" stream-id="aws_091a7e79306bf4b553d1" codec="mp3" bitrate="192",Radio Viva - Kolding
 https://stream.probroadcast.dk/radioviva
 #EXTINF:-1 station-id="awb_48eca25bf86de027244d" stream-id="aws_33319255e4afb76483b4" codec="mp3" bitrate="192",Radio VLR
@@ -405,13 +387,9 @@ http://netradio.radio4.dk/radio4
 http://play.radioflr.dk:9000/stream
 #EXTINF:-1 station-id="awb_27712858fa166528df31" stream-id="aws_96b4d0ca0e2f45d72326" codec="aac+" bitrate="47",Rar
 http://techno-low.rautemusik.fm/
-#EXTINF:-1 station-id="awb_52f270feabc76baf9419" stream-id="aws_6597555e51b130e29e14" codec="mp3" bitrate="128",Reggae
-https://stream.laut.fm/deutscher-reggae
 #EXTINF:-1 station-id="awb_3706abc88b0ec532463d" stream-id="aws_e533b0dbb04d15e9953c" codec="mp3" bitrate="192",Retro Millennium
 https://tx-2.retro-radio.dk/TX-2
-#EXTINF:-1 station-id="awb_ff43fe03a120529803fc" stream-id="aws_932e90e73960bd73fdd0" codec="aac+" bitrate="128",Retro Radio
-http://stream128.retro-radio.dk/retro
-#EXTINF:-1 station-id="awb_ff43fe03a120529803fc" stream-id="aws_c41d00839ec51939be52" codec="mp3" bitrate="192",Retro Radio
+#EXTINF:-1 station-id="awb_ff43fe03a120529803fc" stream-id="aws_c41d00839ec51939be52" codec="aac" bitrate="192",Retro Radio
 https://tx-2.retro-radio.dk/TX-2
 #EXTINF:-1 station-id="awb_36e6075b363fb6255d1f" stream-id="aws_579161fe4a0d352d8897" codec="aac+" bitrate="128",Retro-Radio
 http://stream128.retro-radio.dk/retro

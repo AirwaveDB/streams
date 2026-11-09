@@ -45,20 +45,18 @@
     "name": "Antenne Réunion Radio",
     "country": "RE",
     "url": "https://rtlre.ice.infomaniak.ch/rtlre-64.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0ad5c335-65c6-4a77-9b2b-4fcec7fa02d7",
       "RE:antenne-reunion-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:23:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f7f1df1041816286e4d3",
@@ -145,25 +143,6 @@
     "lastCheckedAt": "2026-11-06T13:32:21Z"
   },
   {
-    "id": "aws_39070064f2455b195f9a",
-    "stationId": "awb_9fae60fb4b173e121434",
-    "name": "Exo FM Réunion",
-    "country": "RE",
-    "url": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cb7859ce-d453-4eb8-b4a5-b64b906d5d35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
     "id": "aws_dae5640a89d027321043",
     "stationId": "awb_97a6d24748e7ead2342a",
     "name": "Free Dom",
@@ -246,26 +225,6 @@
     "lastCheckedAt": "2026-11-06T00:05:51Z"
   },
   {
-    "id": "aws_a77fcdf75ff2adb66dc5",
-    "stationId": "awb_690e3a984e4c05fc59e8",
-    "name": "louange radio",
-    "country": "RE",
-    "url": "https://radio13.pro-fhi.net:19079/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7b6e483-5936-42b0-a1aa-48adccd75d58",
-      "f8c5d6a3-e29f-48f2-b4b4-6d0033ce9837"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
-  },
-  {
     "id": "aws_ae89a002ece8186dba7c",
     "stationId": "awb_dad19c5d9075f9552d4b",
     "name": "Love Hit Reunion",
@@ -299,11 +258,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1278c033-d7da-4d07-888a-dbe1b213f69a",
-      "RE:maronrfm"
+      "RE:maronrfm",
+      "a3fa288f-1ce4-4d9a-a474-835c110a953c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
+    "lastCheckedAt": "2026-11-06T09:36:04Z"
   },
   {
     "id": "aws_932741b6079f93dedeab",
@@ -493,25 +452,6 @@
     "lastCheckedAt": "2026-11-06T14:49:18Z"
   },
   {
-    "id": "aws_df887f600f8f8211fd4c",
-    "stationId": "awb_4eb7e9a7279bfb1d3231",
-    "name": "Radio Pikan Réunion",
-    "country": "RE",
-    "url": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0ada677d-3a82-4bcb-9eaa-775b5177ae23"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:50:55Z"
-  },
-  {
     "id": "aws_2097ba0da16c243025ae",
     "stationId": "awb_5a4ecbc6b800a2a82648",
     "name": "Radio Star Réunion",
@@ -571,25 +511,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:59:10Z"
-  },
-  {
-    "id": "aws_9dc3685dfd84f0ea9e67",
-    "stationId": "awb_4e2374e7aa80225df5b6",
-    "name": "Réunion la 1ère (La1er)",
-    "country": "RE",
-    "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d60897d5-ceae-41f2-93e9-77ed010de01e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_175c8237095c4b5d99a7",
@@ -728,7 +649,7 @@
       "6026e76b-7e3e-410b-9d01-07883bf1a705"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_0e8507db235d9c866575",

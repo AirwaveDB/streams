@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_6f077bb411dcb08036bc",
-    "stationId": "awb_2f32ec200aa6df51f06b",
-    "name": "Alise Plus",
-    "country": "LV",
-    "url": "http://fm2inet.aliseplus.lv:8080/",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "188ed2d5-48ea-4c6f-a435-aebdd36c8c0e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
-  },
-  {
     "id": "aws_65b2446a1dabcc5966c6",
     "stationId": "awb_01f396173d670578e01a",
     "name": "AlisePlus",
@@ -173,7 +154,7 @@
     ],
     "sourceIds": [
       "LV:ehr",
-      "ae5eebee-fea8-4311-a507-e7c45f4730be"
+      "c7b1113e-531d-464a-af21-e25d5c6a28c9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T05:24:33Z"
@@ -711,25 +692,6 @@
     "lastCheckedAt": "2026-11-05T18:01:48Z"
   },
   {
-    "id": "aws_9c22840b86552c985ce7",
-    "stationId": "awb_58e0ad4fe3b3f28c1418",
-    "name": "European Hit Radio - Fresh",
-    "country": "LV",
-    "url": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "252ffb78-3725-11e8-bb9b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:09:17Z"
-  },
-  {
     "id": "aws_f80a0277c292d77beebf",
     "stationId": "awb_92b96caef52c550dfabd",
     "name": "European Hit Radio - KOOL hits",
@@ -918,25 +880,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T14:41:28Z"
-  },
-  {
-    "id": "aws_16fc0c1aa34b8aa53ce2",
-    "stationId": "awb_75c0129acda0553ba4dd",
-    "name": "European Hit Radio - Top 40",
-    "country": "LV",
-    "url": "http://stream.europeanhitradio.com:8000/Stream_27.aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962cd710-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
   },
   {
     "id": "aws_5ba1df960847e76817de",
@@ -2095,7 +2038,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "15ae3a8c-46df-4ca0-96a5-ed5302da061b",
       "960f3516-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
@@ -2432,7 +2374,7 @@
       "LV:relax"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:03:44Z"
+    "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
     "id": "aws_6dbc5e638b042d47fa01",
@@ -2588,11 +2530,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2cf8533f-0233-42df-bb21-d8369d32883a",
+      "843ab309-e1fa-4542-af6d-36b8c14494d5",
       "LV:skonto"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:22:40Z"
+    "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
     "id": "aws_8300abfdf20ff1529f52",
@@ -2619,20 +2561,18 @@
     "name": "Skonto Plus",
     "country": "LV",
     "url": "https://stream.radioskontoplus.lv:8443/st128",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "439af308-cfeb-44da-97f9-95fdefd6ecf1",
       "LV:skonto-plus"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5ec7b9917e5bfe68bdf8",
@@ -2747,30 +2687,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4a5e51cf-5e2b-4442-97dd-045235384d87",
-      "91f445bc-2ce6-4b8d-b6c8-801696911a8c"
+      "c87b38d0-7e79-4e28-a343-e40b6b46c103"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
-    "id": "aws_afc647f260f775ac492f",
-    "stationId": "awb_89fbc651fb51be673795",
-    "name": "SWH Plus",
-    "country": "LV",
-    "url": "http://80.232.162.149:8000/plus96mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "98d81f82-d9c8-48c7-8368-19eb62c1bbb3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
+    "lastCheckedAt": "2026-11-06T12:40:44Z"
   },
   {
     "id": "aws_68aa039c606759147c35",
@@ -2786,11 +2706,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "03a299c6-db3e-48fd-aace-a3a8c69f39bd",
-      "fb523525-d522-4216-922c-4b39c2826f64"
+      "03a299c6-db3e-48fd-aace-a3a8c69f39bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
+    "lastCheckedAt": "2026-11-06T14:59:46Z"
   },
   {
     "id": "aws_88a1986a1a46d3a115e4",

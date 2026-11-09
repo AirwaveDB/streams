@@ -1,81 +1,5 @@
 [
   {
-    "id": "aws_d61cc5a22f8fae3da29d",
-    "stationId": "awb_09f73c2a914cd288c34d",
-    "name": "' t Is Vloms - Affligem, be (New Stream)",
-    "country": "BE",
-    "url": "https://cast1.torontocast.com:4605/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c0f09661-faba-40c7-a6a7-1da8dfa7af14"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:19:33Z"
-  },
-  {
-    "id": "aws_c755dc2592fa1adaa8a5",
-    "stationId": "awb_eacba3277c200754d018",
-    "name": "' t Is Vloms Affligem (New stream)",
-    "country": "BE",
-    "url": "https://cast1.torontocast.com:4605/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2d3e3f60-79a5-45bc-ba9a-6abbd5a13138"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:41:40Z"
-  },
-  {
-    "id": "aws_d740efefa411330ba931",
-    "stationId": "awb_9c3e0a5d2ef97738ad60",
-    "name": "'t Is Vloms - Affligem,. be (n.s.)",
-    "country": "BE",
-    "url": "https://cast1.torontocast.com:4605/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "537023d4-f26c-48f9-8427-2eca45bbfd46"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
-  },
-  {
-    "id": "aws_31344fbfb554594c7f29",
-    "stationId": "awb_d04e8d35a00c620cbfb5",
-    "name": "'tis Vloms - Affligem, be (ns)",
-    "country": "BE",
-    "url": "https://cast1.torontocast.com:4605/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5a402f92-4b08-429e-a6ec-a6e915830098"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:50:45Z"
-  },
-  {
     "id": "aws_7bbaf77395d58b625417",
     "stationId": "awb_9b3eff41f529033ac6b5",
     "name": "\"name\": \"'undefined' -> 'AFN 360 Benelux'\",",
@@ -133,25 +57,6 @@
     "lastCheckedAt": "2026-11-06T14:35:39Z"
   },
   {
-    "id": "aws_80e3a1cc9fea8221bed5",
-    "stationId": "awb_322639626637d230ab82",
-    "name": "100,5 Das Hitradio",
-    "country": "BE",
-    "url": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9611b4a8-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
-  },
-  {
     "id": "aws_827fc36a650fe5caec90",
     "stationId": "awb_f5ca8fb734f16592e658",
     "name": "100% Retro",
@@ -162,15 +67,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:100-retro",
-      "f6e76c0f-9453-4ffc-ac1c-1e26e302ec61"
+      "BE:100-retro"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:18:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c943971ef2b1eaf451f8",
@@ -240,34 +143,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:accent-radio",
-      "ae600421-cec3-4913-87d6-ff3669498de1"
+      "BE:accent-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:32:41Z"
-  },
-  {
-    "id": "aws_ad8d62f33bc94c9a6b0e",
-    "stationId": "awb_057188b1c072cb7771ce",
-    "name": "AFN 360 Benelux",
-    "country": "BE",
-    "url": "http://14153.live.streamtheworld.com:3690/AFNE_BLX_SC",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0752b600-8f5e-4391-bba7-82f3226d0c64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:07:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f9a1dfacb40fa9393c9d",
@@ -477,11 +359,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "182fd9ff-588f-4d71-8ac3-5dd04d599b7f",
-      "33172e1d-7101-4a81-9e4a-2c1f339d4db4"
+      "182fd9ff-588f-4d71-8ac3-5dd04d599b7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:05:02Z"
+    "lastCheckedAt": "2026-11-06T06:32:41Z"
   },
   {
     "id": "aws_3081ca42e02262444359",
@@ -545,25 +426,6 @@
     "lastCheckedAt": "2026-11-06T08:53:11Z"
   },
   {
-    "id": "aws_94d2f3265fb5537e2d2c",
-    "stationId": "awb_436e0d909c44e376e369",
-    "name": "Boo",
-    "country": "BE",
-    "url": "http://stream03.level27.be/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ccf8ac31-b023-4299-b095-a4346668e7e6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:18:23Z"
-  },
-  {
     "id": "aws_73ff53a74989b21a144a",
     "stationId": "awb_b3895f849fa8c76ff227",
     "name": "Boo 105.1 FM - Bilzen, be",
@@ -577,8 +439,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "df2dee79-5b60-4320-b42d-0424ae0bc0e3",
-      "f825bc73-fd73-476a-b7ed-c53f866e52f8"
+      "df2dee79-5b60-4320-b42d-0424ae0bc0e3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:44:15Z"
@@ -651,15 +512,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:brf1-radio",
-      "c3d0f832-0822-472f-aadd-1c42ff5ff1d9"
+      "BE:brf1-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:09:08Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3cb249da5b7c061febeb",
@@ -700,25 +559,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T22:34:05Z"
-  },
-  {
-    "id": "aws_b4cfe2c68e2b36838048",
-    "stationId": "awb_4de1af1633c701512639",
-    "name": "BRF2 Radio",
-    "country": "BE",
-    "url": "https://streaming.brf.be/brf2-high.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1f1ee9f3-c327-4ae8-b0d0-4a6ff1d7b81a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:02:42Z"
   },
   {
     "id": "aws_a912989ba4daf685b953",
@@ -814,7 +654,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "399425d8-bb47-4950-abb6-5f042750261b",
       "9e1626b0-e79d-4d7f-9c12-1c31bfadbca1"
     ],
     "lastCheckOk": true,
@@ -1080,11 +919,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "92724201-4843-4671-9e8f-0c354689766a",
       "f7e02f87-86c7-4ecc-ae06-2d7e20d10ccc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:59:49Z"
+    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_938aba49c693955d8d41",
@@ -1283,25 +1121,6 @@
     "lastCheckedAt": "2026-11-06T06:36:05Z"
   },
   {
-    "id": "aws_5a4ef6c88dd65f6ef643",
-    "stationId": "awb_18fa5acf1a427fd16232",
-    "name": "Depeche Mode Radio",
-    "country": "BE",
-    "url": "https://c2.radioboss.fm:8494/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "553423c5-2bb2-44f3-9cd0-d50d6bab741f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
-  },
-  {
     "id": "aws_3281a0663243cd4ee6f4",
     "stationId": "awb_c6944fce188d190965dc",
     "name": "depechemode.be",
@@ -1453,7 +1272,7 @@
       "f53be8b0-f603-4a05-bc5c-4cad3ab46a9d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_612913ba63a2df4ac031",
@@ -1475,26 +1294,6 @@
     "lastCheckedAt": "2026-11-06T19:51:47Z"
   },
   {
-    "id": "aws_ca9a1ff3a0099725c5aa",
-    "stationId": "awb_aa9a14072387fb24670a",
-    "name": "Family Radio",
-    "country": "BE",
-    "url": "http://www.clubfmserver.be:8000/family.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d9ba8aaa-59fd-462b-81b0-1cde8a0afc14",
-      "fe17e9be-fd49-48b2-b75d-bc9f1c930bcb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
-  },
-  {
     "id": "aws_b845acc37b34044200af",
     "stationId": "awb_ee98317f053569c988c8",
     "name": "Family Radio (België/Belgique/Belgien)",
@@ -1508,30 +1307,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0c97fa76-60f2-41e8-aa06-0b641e0fb7c8",
-      "961bfc7d-0601-11e8-ae97-52543be04c81"
+      "0c97fa76-60f2-41e8-aa06-0b641e0fb7c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
-  },
-  {
-    "id": "aws_8c6540bf123c6fc228ae",
-    "stationId": "awb_c05ffb4bd006396c3af0",
-    "name": "FamilyRadio - Bij ons ben je thuis",
-    "country": "BE",
-    "url": "http://www.clubfmserver.be:8000/family.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6093af5b-eb4e-4d2d-99f0-fe59b0d975c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:43:59Z"
+    "lastCheckedAt": "2026-11-06T20:07:19Z"
   },
   {
     "id": "aws_14f082c3d06354c39d6f",
@@ -2157,15 +1936,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "529b71b3-ac05-426c-bd8c-6ae981713900",
       "BE:joe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:50:12Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0c2ca69764dafac73913",
@@ -2231,7 +2008,7 @@
   {
     "id": "aws_a34db7e89b6bfff3668d",
     "stationId": "awb_216d2aa62b344e9c53a9",
-    "name": "Joe 80's & 90's",
+    "name": "JOE 80's & 90's",
     "country": "BE",
     "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
     "codec": "mp3",
@@ -2247,7 +2024,7 @@
       "BE:joe-80-s-90-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
+    "lastCheckedAt": "2026-11-06T02:53:23Z"
   },
   {
     "id": "aws_c51acb69584f2e8049a0",
@@ -2301,8 +2078,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "18755444-1a74-4b92-98ef-b7ad49d35a8c",
-      "5fe682ec-3e99-4462-92d4-12464b8a95e7"
+      "eca42c69-afa8-427c-8ee0-604d474839a2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:11:42Z"
@@ -2331,7 +2107,7 @@
   {
     "id": "aws_bc86457b3f298e1ff20a",
     "stationId": "awb_2975664e262473fb4b1b",
-    "name": "Joe Gold",
+    "name": "joe gold",
     "country": "BE",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
     "codec": "aac+",
@@ -2343,7 +2119,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1fcdd3c4-5215-4cb2-b5b4-3c0aa3e606d8",
+      "6ea5b3c9-52f9-4604-aa1c-39a9f069d924",
       "BE:joe-gold"
     ],
     "lastCheckOk": true,
@@ -2479,11 +2255,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "55976b5f-4119-451b-833b-8897e66ce193",
       "7cef31ca-57a9-42c1-839e-4fecd0437989"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:29:34Z"
+    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_0249091892f5b6e2a693",
@@ -2539,11 +2314,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5318e680-4c9b-4325-968b-1801e3067eb8",
-      "96296561-0601-11e8-ae97-52543be04c81"
+      "5318e680-4c9b-4325-968b-1801e3067eb8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:22:39Z"
+    "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
     "id": "aws_aa43e6bf86d920e08c91",
@@ -2586,25 +2360,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:56:15Z"
-  },
-  {
-    "id": "aws_8484564a88a495d0c8c9",
-    "stationId": "awb_7c8746132dce40cfe955",
-    "name": "Kix",
-    "country": "BE",
-    "url": "http://stream.radiokix.be:10460/live.aac",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c1dc09fd-16d2-42d6-992d-1d54117d71af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:57:38Z"
   },
   {
     "id": "aws_61b3f6ef346c986ce832",
@@ -2989,25 +2744,6 @@
     "lastCheckedAt": "2026-11-06T01:51:57Z"
   },
   {
-    "id": "aws_a7e1a63629c311cc8e16",
-    "stationId": "awb_81a9952f6ad4d422df53",
-    "name": "MelindaFM",
-    "country": "BE",
-    "url": "http://stream.decibelhuis.be:8000/1",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c48e2d5b-d1d9-4309-b27c-95dba5c181ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:55:11Z"
-  },
-  {
     "id": "aws_0db36f9588e2b1dc2629",
     "stationId": "awb_d38e5446b2e6078d1d58",
     "name": "Mélodie FM",
@@ -3046,44 +2782,23 @@
     "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
-    "id": "aws_574b844761caf1797c0b",
-    "stationId": "awb_e8bf6fac761f5407d772",
-    "name": "Mint",
-    "country": "BE",
-    "url": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3",
-    "codec": "aac+",
-    "bitrate": 144,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "029ef185-d694-40a5-9298-8d6eb5799f80"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
-  },
-  {
     "id": "aws_b2011ac62a160807b9bd",
     "stationId": "awb_c315d484dbbd7ec7144a",
     "name": "Mint",
     "country": "BE",
     "url": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 144,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:mint",
-      "fc00e0c5-8876-4926-bf51-c0f70b11fc9e"
+      "BE:mint"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:22:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_56b96a6fa33e34accf75",
@@ -3252,34 +2967,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:musiq3-baroque",
-      "ef1c8706-bb25-4087-90f0-63b05a2bd8d0"
+      "BE:musiq3-baroque"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
-  },
-  {
-    "id": "aws_c57b5774fcf1fb8a10e3",
-    "stationId": "awb_695714c57a8323333533",
-    "name": "Musiq3 Jazz",
-    "country": "BE",
-    "url": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "539ecd46-8e75-48b8-9167-966441e9317d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4cb2f521814fafe27d97",
@@ -3322,25 +3016,6 @@
     "lastCheckedAt": "2026-11-06T23:44:59Z"
   },
   {
-    "id": "aws_8a4be223b1b9a6c4341e",
-    "stationId": "awb_8642cb09d24f866fd271",
-    "name": "MyNoise Ocean Waves",
-    "country": "BE",
-    "url": "http://oceanwaves.radio.mynoise.net/",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b69fe610-1522-47b1-a784-e7025d11f884"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
-  },
-  {
     "id": "aws_6a32e9cb2e8e278f6bdd",
     "stationId": "awb_56978860c5dc45b18628",
     "name": "MyNoise Pure Nature",
@@ -3360,25 +3035,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:00:38Z"
-  },
-  {
-    "id": "aws_50eb9d2637b3f5885ff1",
-    "stationId": "awb_e3876298f7f10d638f08",
-    "name": "MyNoise Rainy Day",
-    "country": "BE",
-    "url": "http://rainyday.radio.mynoise.net/",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "568c832b-671d-4397-b61b-b682b0d6baa7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:18:23Z"
   },
   {
     "id": "aws_70d109971e13a200ee9f",
@@ -3417,26 +3073,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
-    "id": "aws_33397b4e4d1ab9c3fc30",
-    "stationId": "awb_e404b384cc4d328d9208",
-    "name": "MyNoise Zen Garden",
-    "country": "BE",
-    "url": "http://zengarden.radio.mynoise.net/",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5bc3814a-b37e-4f48-b227-43200408528f",
-      "685b47ed-1703-4ddd-8c72-c3ac65e1e669"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:37:20Z"
   },
   {
     "id": "aws_d804efc85220b4b93707",
@@ -3679,25 +3315,6 @@
     "lastCheckedAt": "2026-11-06T23:59:50Z"
   },
   {
-    "id": "aws_0d3975f1d09e71b61542",
-    "stationId": "awb_8682a8efb43bb1c19975",
-    "name": "Nostalgie_Love",
-    "country": "BE",
-    "url": "https://stream.rcs.revma.com/53zabb43ehuvv",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e5649a5c-0a5b-4298-b4be-df18e1e74184"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
-  },
-  {
     "id": "aws_77ef2cdc2f2c22b34f07",
     "stationId": "awb_5e6d387023aea413f39e",
     "name": "NRJ België",
@@ -3869,11 +3486,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4e153421-127c-495c-a823-440ccf5ab636",
-      "e35dca60-057c-4524-862c-39161d796a5a"
+      "4e153421-127c-495c-a823-440ccf5ab636"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
+    "lastCheckedAt": "2026-11-06T11:39:25Z"
   },
   {
     "id": "aws_b87cd606619578d4c541",
@@ -4012,11 +3628,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "025b77d1-c4ca-4c87-ba47-ab92e1e22109",
+      "070ab013-9d67-46cf-830a-f65cc6d9c79f",
       "BE:pink"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:28:32Z"
+    "lastCheckedAt": "2026-11-06T22:04:41Z"
   },
   {
     "id": "aws_a5bf5b1b843a1225420c",
@@ -4050,15 +3666,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "964fea63-0601-11e8-ae97-52543be04c81",
       "BE:pure-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_f43b647335517bc0c6e5",
@@ -4149,15 +3763,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1b7d90db-1645-47a2-99fb-4810efbf4ff0",
       "BE:q-foute-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:54:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6371a002bc9865428cc4",
@@ -4174,25 +3786,6 @@
     ],
     "sourceIds": [
       "a5e06b90-2234-40e9-838a-3c3fb1e5e6b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
-    "id": "aws_d6a11e60a193110745f6",
-    "stationId": "awb_eebc5fa7890b070db600",
-    "name": "Q-music België",
-    "country": "BE",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ab448f4-5fc7-4760-a3cb-ece46f4996a9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:37Z"
@@ -4232,11 +3825,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bb5d1c8f-7be9-4f75-9e10-735a9ac776b3",
       "eb08fd6e-fc21-4c9f-b720-63bea8c7ef0f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:43:25Z"
+    "lastCheckedAt": "2026-11-06T05:39:33Z"
   },
   {
     "id": "aws_b3914399b58b70938cad",
@@ -4244,20 +3836,18 @@
     "name": "Qmusic Belgium",
     "country": "BE",
     "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
-    "codec": "aac+",
-    "bitrate": 96,
+    "codec": "aac",
+    "bitrate": 95,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "00dc2e9a-578c-430b-bdc2-244b71444dfc",
       "BE:qmusic-belgium"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:03:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d2decef5bb049196f798",
@@ -4361,25 +3951,6 @@
     "lastCheckedAt": "2026-11-06T01:58:00Z"
   },
   {
-    "id": "aws_7436e9c43c4b8052b311",
-    "stationId": "awb_e15c853db90b91fb3afb",
-    "name": "Radio +",
-    "country": "BE",
-    "url": "https://radio-plus.be/",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c310fdcf-523d-48c5-879c-ff85e952b97e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_cfd1976e8cf63d9ddf62",
     "stationId": "awb_53a67db446080d2862fb",
     "name": "Radio 1",
@@ -4437,25 +4008,6 @@
     "lastCheckedAt": "2026-11-06T23:59:10Z"
   },
   {
-    "id": "aws_7a98ed1aae2d984c8dee",
-    "stationId": "awb_58ce33a65f4e9ae9d08b",
-    "name": "Radio 2 Antwerpen",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/ra2ant-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960cf504-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
     "id": "aws_1247fab5ffa2fa72bc51",
     "stationId": "awb_78ed9649456c04e77d25",
     "name": "Radio 2 Bene Bene",
@@ -4473,63 +4025,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:42:42Z"
-  },
-  {
-    "id": "aws_3853c363d57c440b075b",
-    "stationId": "awb_b342ff10981d7a15f2b4",
-    "name": "Radio 2 Limburg",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/ra2lim-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1928d18d-0ece-11e9-a80b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:28:09Z"
-  },
-  {
-    "id": "aws_fa321905cb97be05140d",
-    "stationId": "awb_eee817afa108f14c9c43",
-    "name": "Radio 2 Oost-Vlaanderen",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9619dbe5-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:16:34Z"
-  },
-  {
-    "id": "aws_b120340d2f8051299a6f",
-    "stationId": "awb_67197a65196c36eaf841",
-    "name": "Radio 2 Vlaams-Brabant",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/ra2vlb-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961becca-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:38:40Z"
   },
   {
     "id": "aws_0d01fc1cf27187b9ed5c",
@@ -4550,7 +4045,7 @@
       "BE:radio-4910"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
+    "lastCheckedAt": "2026-11-06T12:18:25Z"
   },
   {
     "id": "aws_321fd179f81808f37f7b",
@@ -4664,8 +4159,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "55e7d7ad-f65c-4346-96c7-19afc7ae78b5",
-      "BE:radio-air-libre"
+      "BE:radio-air-libre",
+      "a0e80ce9-b58c-411a-a69d-033f91dd021b"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:15:51Z"
@@ -4688,25 +4183,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:38:58Z"
-  },
-  {
-    "id": "aws_94d310ac46251bb5d084",
-    "stationId": "awb_fd61f422e1e9a6407167",
-    "name": "Radio Alma",
-    "country": "BE",
-    "url": "http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "832e9054-46bd-11ea-a860-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
   },
   {
     "id": "aws_05bf69cafe9833ec5ea8",
@@ -4766,25 +4242,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:52:21Z"
-  },
-  {
-    "id": "aws_40600094a071f830d68e",
-    "stationId": "awb_01fd0093969a956dd13c",
-    "name": "Radio Appolo, Wiekevorst, be",
-    "country": "BE",
-    "url": "https://radioapollo.beheerstream.nl/8004/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ce06b773-a03c-4c71-b8de-197aff7f6759"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:14:23Z"
   },
   {
     "id": "aws_a9c35f147412dd146b7a",
@@ -4903,25 +4360,6 @@
     "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
-    "id": "aws_2c726bf1df86e31a4163",
-    "stationId": "awb_0fc8f0cc9ed92d8779b5",
-    "name": "Radio Campus Bruxelles 92.1",
-    "country": "BE",
-    "url": "http://164.15.252.129:8000/stream.aacplus",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cef12917-6422-4668-8be4-345aa69c37ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:04Z"
-  },
-  {
     "id": "aws_fe1aeda49060997590f0",
     "stationId": "awb_42709fbc4eadf6600362",
     "name": "Radio Campus BXL 92.1 [AAC+]",
@@ -4935,11 +4373,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "05d4fdce-30a1-49e4-bdf2-58ecf7560606",
       "11b71495-0443-473e-95b2-e6d454200888"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:50:01Z"
+    "lastCheckedAt": "2026-11-06T02:45:20Z"
   },
   {
     "id": "aws_d1a86c5fb9af440e28b7",
@@ -5102,7 +4539,7 @@
   {
     "id": "aws_c0ef17f003b8e42e9f34",
     "stationId": "awb_5fe4828afcf2697469e5",
-    "name": "Radio contact",
+    "name": "Radio Contact",
     "country": "BE",
     "url": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3",
     "codec": "mp3",
@@ -5113,11 +4550,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7811920c-a9d5-4e84-a6aa-b9aa4a0661e4",
-      "f5798d6a-ef45-410c-be31-601791118126"
+      "7811920c-a9d5-4e84-a6aa-b9aa4a0661e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_9521fa2e7ea8b345a6fd",
@@ -5236,25 +4672,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:34:42Z"
-  },
-  {
-    "id": "aws_727e302481408266ce50",
-    "stationId": "awb_df0e6caa8b7240a8e5cb",
-    "name": "Radio Expres (Antwerpen)",
-    "country": "BE",
-    "url": "http://www.clubfmserver.be:8000/expres.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b1db8b1d-bc6e-4205-b806-6e57ef37f1c9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_8cf5f7202392f7944bea",
@@ -5444,7 +4861,7 @@
       "908cbf34-83ea-41ce-b5af-d5878ea1a2c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_2676a5a635afd73f99e7",
@@ -6050,25 +5467,6 @@
     "lastCheckedAt": "2026-11-06T06:31:20Z"
   },
   {
-    "id": "aws_888617cf9a6af7cc7232",
-    "stationId": "awb_07141d9a5f6cc48a5888",
-    "name": "Radio Pallieter Lier, Be",
-    "country": "BE",
-    "url": "http://s39.myradiostream.com:14494/listen.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "804a9c38-d831-478b-acc5-df20e0740241"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
     "id": "aws_47514574361530413cbf",
     "stationId": "awb_c3301b6ab08e9bbfd2e2",
     "name": "Radio Paloma Poppel,be",
@@ -6106,7 +5504,7 @@
       "BE:radio-panik"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:21:16Z"
+    "lastCheckedAt": "2026-11-06T00:52:05Z"
   },
   {
     "id": "aws_decdf759274863dfcda3",
@@ -6187,25 +5585,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:13:08Z"
-  },
-  {
-    "id": "aws_2109b9bbd1b370bb6041",
-    "stationId": "awb_817a3dc746d8c22d153c",
-    "name": "Radio Plus - Gent, be",
-    "country": "BE",
-    "url": "http://live.radiostudio.be/plus",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59440347-4d4c-4272-869d-80cdab241be6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:01:22Z"
   },
   {
     "id": "aws_375d252274551b8ae960",
@@ -6373,11 +5752,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1c4e9198-8e1f-4025-b2f0-982f6a479774",
       "6e3ce923-751a-41fa-86b1-a74c5e719b5e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:17:31Z"
+    "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
     "id": "aws_18df3e47837a3ebe156d",
@@ -6416,26 +5794,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:05:32Z"
-  },
-  {
-    "id": "aws_d907255cf56a74ca08fe",
-    "stationId": "awb_c960451a3238ed95cb18",
-    "name": "Radio Seven 105.84FM, Costa Brava",
-    "country": "BE",
-    "url": "http://s1.voscast.com:10584/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bf854fd9-1b69-4e20-8277-09532e6591f1",
-      "dd9874e5-503c-4611-9742-1ac6dd157d17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
   },
   {
     "id": "aws_e10c4f940cdad68a7edb",
@@ -6546,8 +5904,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a2c5f7f3-31df-4863-9e97-7465e22230b9",
-      "d8778a33-a4e1-44dd-a4b6-7ee9f7e3ce6c"
+      "a2c5f7f3-31df-4863-9e97-7465e22230b9"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:36:17Z"
@@ -6585,7 +5942,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "44476151-f9a3-4a0b-983f-440d097c8185",
       "e132b003-018b-41a6-b43b-ec7432dfb7c7"
     ],
     "lastCheckOk": true,
@@ -6839,7 +6195,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c152c468-64d6-4131-9b82-f60a01d39aed",
       "d381aaae-54c7-4a4d-aa8e-674876731226"
     ],
     "lastCheckOk": true,
@@ -7082,25 +6437,6 @@
     "lastCheckedAt": "2026-11-06T15:44:05Z"
   },
   {
-    "id": "aws_a866fb887c09fd90d2e4",
-    "stationId": "awb_fcecbe4b7e55ec7fd2bd",
-    "name": "Retro C-dance",
-    "country": "BE",
-    "url": "http://s45.myradiostream.com:18304/",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42b76664-0ae8-47cd-9e1d-3afc64058eb3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
     "id": "aws_d81906d65d67a0476ef5",
     "stationId": "awb_83c4d279e0b353b2d3f3",
     "name": "RGR classic",
@@ -7177,45 +6513,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:15:31Z"
-  },
-  {
-    "id": "aws_9e79d906c4aef1e51457",
-    "stationId": "awb_2316563c7b0313d1fd25",
-    "name": "Rowyna Music (n.strm)",
-    "country": "BE",
-    "url": "https://server7.radio-streams.net/proxy/rowynamu/stream",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "68da0f9e-3a29-4805-bd17-9e0b83228bf6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
-  },
-  {
-    "id": "aws_278ba27f0964956aeecf",
-    "stationId": "awb_4efbd7a6b22fc211c2b1",
-    "name": "Rowyna Music (NEW stream)",
-    "country": "BE",
-    "url": "http://server7.radio-streams.net:8157/stream",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "24ef489b-1006-46bb-832e-6c5b884114eb",
-      "566e434c-f911-4fa1-a558-619a2ee38057"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:37:23Z"
   },
   {
     "id": "aws_f981e46cf3017bba7033",
@@ -7365,15 +6662,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "961bdc71-0601-11e8-ae97-52543be04c81",
       "BE:rtbf-classic-21-70-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:24:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_914acb8284ee10ecd218",
@@ -7390,8 +6685,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "960edd4c-0601-11e8-ae97-52543be04c81",
-      "BE:rtbf-classic-21-80-s"
+      "BE:rtbf-classic-21-80-s",
+      "a4250b45-2be3-4671-a9b0-1e6363e7a8f4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:23:23Z"
@@ -7415,7 +6710,7 @@
       "BE:rtbf-classic-21-90-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:11:50Z"
+    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_18e041a5dc1d01b01207",
@@ -7431,11 +6726,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6353b917-e10f-4fbb-a530-284b893c570a",
       "92e4950e-b1e3-4d62-af16-b884105257e2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:04:07Z"
+    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_ffb8795a7012e9678fa6",
@@ -7536,8 +6830,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07b4724a-675b-4e06-b6a9-d692036cd441",
-      "BE:rtbf-classic-21-underground"
+      "BE:rtbf-classic-21-underground",
+      "ae51caba-95a5-4b6d-8fe8-ca1c211bc81c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:32:04Z"
@@ -7598,11 +6892,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14234878-05b0-445a-86ee-e56ad6ae3090",
-      "25603ce0-8175-411d-9b65-72d60d7e32d0"
+      "14234878-05b0-445a-86ee-e56ad6ae3090"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:35:26Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_98cdafce1d4f0baf6bcb",
@@ -7638,11 +6931,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1569d2db-f987-4090-a9f1-07dc43183b78",
+      "1ad6beb7-0e3f-46e6-a455-a730bb2e884f",
       "BE:rtbf-musiq3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
+    "lastCheckedAt": "2026-11-06T23:51:27Z"
   },
   {
     "id": "aws_f6f1ccd24d731e4cc00b",
@@ -7701,7 +6994,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "82329bca-e104-11e9-a8ba-52543be04c81",
+      "9d4d67e0-686d-496a-bb68-24a629b93664",
       "BE:rtbf-viva"
     ],
     "lastCheckOk": true,
@@ -7805,7 +7098,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1c0f537f-ce20-4a43-a639-c858afcb49f0",
       "a5d3dbee-25a8-4575-9a9a-f35a815e7f9b"
     ],
     "lastCheckOk": true,
@@ -7852,25 +7144,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:21:07Z"
-  },
-  {
-    "id": "aws_a4de76f8221087fd54a8",
-    "stationId": "awb_d42f79e7953e4802ff20",
-    "name": "RTBF-Musiq3 Jazz",
-    "country": "BE",
-    "url": "https://radios.rtbf.be/wr-m3-jazz-128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf217b92-6c9b-4dbb-8aeb-21687185efd1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
   },
   {
     "id": "aws_ef1a0bccfafba4710da2",
@@ -8046,44 +7319,6 @@
     "lastCheckedAt": "2026-11-06T13:42:28Z"
   },
   {
-    "id": "aws_1f8b8069cb97e44b6e47",
-    "stationId": "awb_15fa44bb702dedb1e07b",
-    "name": "stu bru UNTZ",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_untz-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5b8a7044-a2b5-495d-bd9c-adc6d0f5449f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:13:25Z"
-  },
-  {
-    "id": "aws_fbf989f2b2bdd193b81f",
-    "stationId": "awb_de97d24e95ee5799544d",
-    "name": "StuBru",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fd2b3609-d95a-4e6a-aa50-e040e9836cf6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
-  },
-  {
     "id": "aws_12be0548db5bab929626",
     "stationId": "awb_46cfa8b6583823625f41",
     "name": "Studio Brussel",
@@ -8141,25 +7376,6 @@
     "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
-    "id": "aws_1a656d2e231d81877ec4",
-    "stationId": "awb_a859bf09dec44fe08f88",
-    "name": "Studio Brussel - De Tijdloze",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bbf00866-9ff9-42c2-babe-ebeec5691a78"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:55:46Z"
-  },
-  {
     "id": "aws_96abe93bf87e7e30543c",
     "stationId": "awb_6be14114cc53255c27e4",
     "name": "Studio Brussel - Vuurland",
@@ -8196,26 +7412,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:34:56Z"
-  },
-  {
-    "id": "aws_905b283d1d5ebb6d8a96",
-    "stationId": "awb_a2f67dcdaa68fae6d5dd",
-    "name": "Studio Brussel - Vuurland",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_tgs.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "164c8117-0b4b-4c7c-9714-766056b40d16",
-      "efd04088-aec6-4817-9e95-ca71dd9cf379"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
     "id": "aws_a9cd7abc6b3deb006878",
@@ -8372,26 +7568,6 @@
     "lastCheckedAt": "2026-11-06T20:23:43Z"
   },
   {
-    "id": "aws_32435f6f6ee07989a516",
-    "stationId": "awb_81ece71019658a06b36e",
-    "name": "test arabic",
-    "country": "BE",
-    "url": "http://serverkw.quran-uni.com:8238/;*.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9de21770-119b-448b-a6e0-bc691d2a7b05",
-      "a62fb7e1-7747-463b-aab6-ee8ade0c5748"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
-  },
-  {
     "id": "aws_d6a3f457115125f2b5ab",
     "stationId": "awb_8358c2a42865a9856564",
     "name": "The Funky Channel",
@@ -8451,25 +7627,6 @@
     "lastCheckedAt": "2026-11-07T02:01:29Z"
   },
   {
-    "id": "aws_6a9f8e416b4e9a7d2068",
-    "stationId": "awb_34413a134b54650728d2",
-    "name": "Tipik",
-    "country": "BE",
-    "url": "https://radios.rtbf.be/pure-128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "73b1c888-e135-49db-a5c5-09e104088c13"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
     "id": "aws_c81fe71e0a9de391d31a",
     "stationId": "awb_11a7dc6269c886870986",
     "name": "Tipik à l'ancienne (RTBF)",
@@ -8489,44 +7646,23 @@
     "lastCheckedAt": "2026-11-07T00:18:56Z"
   },
   {
-    "id": "aws_3ef56f65f3bc375984cb",
-    "stationId": "awb_67789b2656c50dff8de0",
-    "name": "Tis Vloms Affligem, be (NEW stream!)",
-    "country": "BE",
-    "url": "https://cast1.torontocast.com:4605/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "db4418fc-d1b3-4965-87dc-30d903d4c693"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:12:19Z"
-  },
-  {
     "id": "aws_af03993530c62b1f92ed",
     "stationId": "awb_6e24d6bf62232dd86eb3",
     "name": "Tommorowland One World Radio - Daybreak Sessions",
     "country": "BE",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:tommorowland-one-world-radio-daybreak-sessions",
-      "c77644fa-5d0d-47f6-93ef-850805efefad"
+      "BE:tommorowland-one-world-radio-daybreak-sessions"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:02:29Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_1f0579930b33a378a94d",
@@ -8553,20 +7689,18 @@
     "name": "Tomorrowland One World Radio",
     "country": "BE",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 256,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9e31c4e7-03b6-4a80-a4e2-5977b023d32c",
       "BE:tomorrowland-one-world-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:06:38Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7e208a09a039e5fdb344",
@@ -8659,15 +7793,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:top-radio-retro",
-      "fa4f0df3-5386-42ed-959d-e0ee2511fd36"
+      "BE:top-radio-retro"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_52e67880f44e25b0fdb3",
@@ -8708,25 +7840,6 @@
     "lastCheckedAt": "2026-11-06T14:46:30Z"
   },
   {
-    "id": "aws_0875e546930e93806686",
-    "stationId": "awb_fe158d59cb9b3815576a",
-    "name": "TOPradio Belgium",
-    "country": "BE",
-    "url": "http://str.topradio.be/topradio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a2c199e5-cff2-11e8-a54a-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
-  },
-  {
     "id": "aws_5b669ae9a56a032eebbe",
     "stationId": "awb_7bfb67361a07a6fc75d0",
     "name": "TopRadio FM",
@@ -8759,11 +7872,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8c7b3535-b5a9-4547-8dbb-bb7e8c004b6b",
       "adc91d61-678e-48e4-a8af-8ca40d817276"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:21:17Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_ecd4d9ac4ad0b77d7730",
@@ -8776,15 +7888,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5ede37ba-a332-4607-b0c6-2469318c3649",
       "BE:topradio-topbam"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:13:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8f9d88196e645a29d70c",
@@ -9080,6 +8190,25 @@
     "lastCheckedAt": "2026-11-06T08:55:10Z"
   },
   {
+    "id": "aws_00d2fffa505fdd0e5d8b",
+    "stationId": "awb_8a7c8a7ea751180058a8",
+    "name": "Versuz Radio",
+    "country": "BE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3?dist=onlineradiobox",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "515649cb-b397-4372-b655-e3700f8fabeb"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
+  },
+  {
     "id": "aws_dd36883ccf49a61fc3a0",
     "stationId": "awb_04bb3d4496b93bf5e05f",
     "name": "Vibration.FM Be",
@@ -9160,123 +8289,6 @@
     "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
-    "id": "aws_35f24162873b184e79cd",
-    "stationId": "awb_d481effff0b9f2f2453d",
-    "name": "VRT - Klara",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/klara-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9d68e4fa-db60-4b8b-918b-5451c9e5a54b",
-      "b71eee1c-f772-42d3-bca6-103c1a4aeca5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
-  },
-  {
-    "id": "aws_62c3edbef153a0f83a3b",
-    "stationId": "awb_d481effff0b9f2f2453d",
-    "name": "VRT - Klara",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/klara.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "45105e26-eb72-436e-bd93-7be72da52084"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
-  },
-  {
-    "id": "aws_48e9fd3e7062d3caaaa6",
-    "stationId": "awb_80eb93b3e89ede3edf38",
-    "name": "VRT - Klara Continuo",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d6b4608d-5502-4f77-9c63-ac56f9cba33f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:05:46Z"
-  },
-  {
-    "id": "aws_07e5eccf4188a44243fd",
-    "stationId": "awb_80eb93b3e89ede3edf38",
-    "name": "VRT - Klara Continuo",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/klaracontinuo.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "43f5ab0d-49c0-414a-8d33-9315c97f96b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:23:06Z"
-  },
-  {
-    "id": "aws_6a70966fe2e846b42a72",
-    "stationId": "awb_96755df1e0e0d8649a81",
-    "name": "VRT - MNM",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "309f2ec8-5c52-4fb2-bc49-28020ce4242b",
-      "f4433c2c-6e2a-4a75-a44d-dd0f658f18dc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
-    "id": "aws_11f3e63da1547b7bd99c",
-    "stationId": "awb_544e94c0813a85c1308b",
-    "name": "VRT - MNM Hits",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "09756bab-d326-4384-b8dc-c309b1c41292",
-      "9888766e-df02-4feb-8e7d-caf714b64cd4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:10Z"
-  },
-  {
     "id": "aws_816ea2dd9336ac306d33",
     "stationId": "awb_e07e7923ed986ed3da2c",
     "name": "VRT - NWS",
@@ -9290,31 +8302,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "39e4f088-3af2-4e7f-8276-9fdbb4ae63ca",
       "54481a58-5f17-44a8-ba7e-96a90d4f943a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:42:28Z"
-  },
-  {
-    "id": "aws_204155a8984a3be21351",
-    "stationId": "awb_dff3c30db2202e04f7f0",
-    "name": "VRT - Radio 1",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a016286-5baa-4e42-acd1-dbdf3425f1a2",
-      "960ef35c-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:54:43Z"
+    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_c0978ef24e95b5ae8037",
@@ -9387,87 +8378,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "36053fe3-c763-4a9f-838c-b5995dcb92ea",
-      "a859bf36-5288-4017-b49b-bced2ef0f90d"
+      "36053fe3-c763-4a9f-838c-b5995dcb92ea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:19Z"
-  },
-  {
-    "id": "aws_8fe224031f236f2d7398",
-    "stationId": "awb_d6747797bf43c4e1f0d8",
-    "name": "VRT - StuBru - De Tijdloze",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "18baf432-b80e-49d4-8c34-c343bd306029"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
-  },
-  {
-    "id": "aws_2968de8f0e5e85b4979b",
-    "stationId": "awb_53362bae15c87426c423",
-    "name": "VRT - Studio Brussel",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a8421c27-760a-43c5-a488-02c391a3c39f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
-    "id": "aws_3c71db37897d4d2fd67b",
-    "stationId": "awb_07ef5012fb45b2f8fab6",
-    "name": "VRT - Studio Brussel - UNTZ",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_untz.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "57c9c7ad-89ad-405a-b996-740dc57c1048"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:13:11Z"
-  },
-  {
-    "id": "aws_a8bc812aa4c6db6da320",
-    "stationId": "awb_e1d4f4c2b53cf904b72d",
-    "name": "VRT - Studio Brussel - Vuurland",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/stubru_tgs.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4d7003b2-dd5f-49d0-b4b6-af70e304e96f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
+    "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
     "id": "aws_e6f88986aa43b7edd4fb",
@@ -9489,25 +8403,6 @@
     "lastCheckedAt": "2026-11-05T00:25:13Z"
   },
   {
-    "id": "aws_92ed77de51a341abf574",
-    "stationId": "awb_4a97cbf03a3d4daed236",
-    "name": "vrt klara high quality",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/klara-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ee1a0d32-1bb7-4e67-8622-0ab87e1c91a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:07:19Z"
-  },
-  {
     "id": "aws_ae247ed889a2a4e93bee",
     "stationId": "awb_9c06c43fe1ce7e64fdd2",
     "name": "VRT MNM",
@@ -9527,44 +8422,6 @@
     "lastCheckedAt": "2026-11-04T21:18:03Z"
   },
   {
-    "id": "aws_6f9994e3b240e94a88d7",
-    "stationId": "awb_faf29f38eea9589515a4",
-    "name": "VRT Nieuws",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio1.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1362eaef-452f-4a7d-8a9f-5e547d5a2a02"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:56:23Z"
-  },
-  {
-    "id": "aws_7ce067a382dd4cee83ea",
-    "stationId": "awb_9a5bca09e8aba7f32c4b",
-    "name": "VRT NWS High Quality",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio1.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4a5bda67-ac64-4dfc-bfa3-b7beda98d1f3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
-  },
-  {
     "id": "aws_f5ae9326d529c3a0eecc",
     "stationId": "awb_1cbb7fffeb27bd8abc4f",
     "name": "VRT NWS HQ",
@@ -9582,6 +8439,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:08:00Z"
+  },
+  {
+    "id": "aws_204155a8984a3be21351",
+    "stationId": "awb_dff3c30db2202e04f7f0",
+    "name": "VRT Radio 1",
+    "country": "BE",
+    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "960ef35c-0601-11e8-ae97-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T08:47:37Z"
   },
   {
     "id": "aws_5222a86d9e27ae4e653d",
@@ -9620,25 +8496,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:41:41Z"
-  },
-  {
-    "id": "aws_08df597e8df365ade4ec",
-    "stationId": "awb_1918fafb48d156b220ad",
-    "name": "VRT Radio 1 - De LageLandenLijst",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "66c0eb09-f57a-47eb-879f-a10a4ee352bb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
     "id": "aws_cffa5d6c21db000d3cf9",
@@ -9736,25 +8593,6 @@
     "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
-    "id": "aws_b72712497026ff5b9a08",
-    "stationId": "awb_762acd2a74922c445792",
-    "name": "VRT Radio 2 Antwerpen - AAC",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/ra2ant.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a07cb922-d7af-4408-8b3c-0d5d9bebbeff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:19Z"
-  },
-  {
     "id": "aws_62710d41be66bb13c41c",
     "stationId": "awb_e6f4fc3b6e04bfa9b2f9",
     "name": "Vrt Radio 2 Antwerpen -AAC",
@@ -9772,25 +8610,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:35:25Z"
-  },
-  {
-    "id": "aws_b1b04f06e58b147909df",
-    "stationId": "awb_000c718c5f7cfeb7ea9d",
-    "name": "VRT Radio 2 Bene Bene",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c22e991-4134-45da-895b-b8326cb461ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
     "id": "aws_537029dc4509c0f276c4",
@@ -9829,25 +8648,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:19:22Z"
-  },
-  {
-    "id": "aws_1a5d5e68635c6fb9a090",
-    "stationId": "awb_4e4a29868a399914ffdc",
-    "name": "VRT Radio 2 Relax",
-    "country": "BE",
-    "url": "http://icecast.vrtcdn.be/radio2_relax.aac",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "de2a1b25-612e-448b-af9e-407f8f973b8b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
   },
   {
     "id": "aws_36e26e7cc4b0c3be7edc",
@@ -10023,25 +8823,6 @@
     "lastCheckedAt": "2026-11-06T19:36:57Z"
   },
   {
-    "id": "aws_0e22c047c356b41e14be",
-    "stationId": "awb_e2635908b154dd85b4ec",
-    "name": "WILLY",
-    "country": "BE",
-    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-    "codec": "aac+",
-    "bitrate": 95,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07b53b92-2892-4996-8e60-d3a626c46cb4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
     "id": "aws_d9e56e49eb931e9eebff",
     "stationId": "awb_e2635908b154dd85b4ec",
     "name": "Willy",
@@ -10052,34 +8833,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:willy",
-      "c44a072c-f08f-429f-be16-a017ff3628a0"
+      "BE:willy"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:00:38Z"
-  },
-  {
-    "id": "aws_fadeefc7a0cdc1d71b3b",
-    "stationId": "awb_e2635908b154dd85b4ec",
-    "name": "Willy",
-    "country": "BE",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7bfe222c-6b98-4aec-8550-93c491bb2d1f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_67fabf10a6dbd08f95d6",
@@ -10120,25 +8880,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:56:27Z"
-  },
-  {
-    "id": "aws_13e09d4594d0468b6a34",
-    "stationId": "awb_106021ee271ebbc21aa4",
-    "name": "Willy Class X",
-    "country": "BE",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c89e0869-1247-4d43-9a96-84a4e1524b0b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:07:19Z"
   },
   {
     "id": "aws_b1872a9c12759a0a612d",
@@ -10237,7 +8978,7 @@
       "BE:xbeat"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
+    "lastCheckedAt": "2026-11-06T13:47:17Z"
   },
   {
     "id": "aws_fabcb3a8958de6d5b371",
@@ -10290,15 +9031,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BE:yujen-briag",
-      "babffc8b-35ea-40ac-90df-89b5e7228203"
+      "BE:yujen-briag"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:07:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_76a25e61892f6c8cc57d",
@@ -10392,11 +9131,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2907c326-9572-4de5-ac9b-b71c3e22a942",
-      "dde7404f-b54e-4cd7-9a3d-6ea809d1de79"
+      "2907c326-9572-4de5-ac9b-b71c3e22a942"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
+    "lastCheckedAt": "2026-11-06T13:42:28Z"
   },
   {
     "id": "aws_6cc3126d9b2353c44218",

@@ -29,7 +29,7 @@ https://streaming.broadcast.radio/fugefm
 https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1 station-id="awb_27355ab3e49eebe7e243" stream-id="aws_84462a935ed3d4b10b60" codec="aac" bitrate="262",Groove FM
 https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
-#EXTINF:-1 station-id="awb_fada87fc69bb497071e0" stream-id="aws_de28c9d850b27db8f5d2" codec="mp3" bitrate="128",HaulFM
+#EXTINF:-1 station-id="awb_fada87fc69bb497071e0" stream-id="aws_de28c9d850b27db8f5d2" codec="mp3" bitrate="320",HaulFM
 https://stream.haul.fm/haulmpfm.mp3
 #EXTINF:-1 station-id="awb_2ea0738bd74ab9692a57" stream-id="aws_9b85af30aa7d9bc1fca8" codec="unknown" bitrate="0",HitMix
 https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
@@ -51,8 +51,6 @@ http://stream.kaaosradio.fi:8000/chip
 http://stream.kaaosradio.fi:8000/stream2
 #EXTINF:-1 station-id="awb_b8d99af341dfc167e93b" stream-id="aws_98adb44cefd01e942fc1" codec="mp3" bitrate="0",Kaaosradio - 24h
 http://stream.kaaosradio.fi:8000/stream
-#EXTINF:-1 station-id="awb_1cc49bb7d20c9706b09e" stream-id="aws_9390bdf51da20f7a3db2" codec="mp3" bitrate="0",Kaaosradio - 24h Chill
-http://stream.kaaosradio.fi:8000/chill
 #EXTINF:-1 station-id="awb_dbede36672232745e005" stream-id="aws_e45112b7972f791d17bd" codec="unknown" bitrate="0",Kantriradio
 https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1 station-id="awb_00ace9f8343a128c5f16" stream-id="aws_1630c868c349556e3e10" codec="mp3" bitrate="320",Karjalainen Syke
@@ -84,8 +82,6 @@ https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_
 #EXTINF:-1 station-id="awb_903cf4fb00d38eb812e7" stream-id="aws_889db85792f81a484caa" codec="aac" bitrate="64",NRJ
 https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_7d01cf5f8b2e370f4330" stream-id="aws_81fe1cf7581b4797e067" codec="ogg" bitrate="1200",POP fm
-http://stream.nsp.se:8000/pop
-#EXTINF:-1 station-id="awb_3eb45acd20f26d887ae8" stream-id="aws_089379c8149434b50995" codec="ogg" bitrate="1200",POPfm
 http://stream.nsp.se:8000/pop
 #EXTINF:-1 station-id="awb_3eb45acd20f26d887ae8" stream-id="aws_6b390ca5761e5f18b3aa" codec="aac" bitrate="96",POPfm
 https://stream.madmenmedia.se/popfm
@@ -151,8 +147,6 @@ https://streaming.radioplay.fi/fi_radiomega_128.mp3
 https://moreenistream.tuni.fi/moreeni.mp3
 #EXTINF:-1 station-id="awb_6fad1059055845dbdbc5" stream-id="aws_42e93f15ab6b24573ce4" codec="mp3" bitrate="0",Radio Musa
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
-#EXTINF:-1 station-id="awb_c5a963d778fa0e963aa1" stream-id="aws_30abc12a9d33ef53d555" codec="mp3" bitrate="0",Radio Musa
-http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 #EXTINF:-1 station-id="awb_edd3da0bffcf1fe995d0" stream-id="aws_c2fd11bc45620d13e419" codec="aac" bitrate="67",Radio Nostalgia
 https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690
 #EXTINF:-1 station-id="awb_9b6b0b46bb53d10e7951" stream-id="aws_21911b96f1124ce57cfd" codec="aac" bitrate="68",Radio Nova
@@ -169,11 +163,9 @@ https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer
 https://stream.protonbroadcast.com:8443/ramona.mp3
 #EXTINF:-1 station-id="awb_28fa2e76e60fa1bc6c40" stream-id="aws_7d891c62f37fda28d2e8" codec="unknown" bitrate="0",Radio Rock
 https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
-#EXTINF:-1 station-id="awb_28fa2e76e60fa1bc6c40" stream-id="aws_ad6e88a18c4c6afd4bea" codec="aac" bitrate="262",Radio Rock
-https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8
 #EXTINF:-1 station-id="awb_fbbe232872a537fce48b" stream-id="aws_988cae7c5fcfa79b9041" codec="aac" bitrate="262",Radio Rock
 https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8
-#EXTINF:-1 station-id="awb_e42a57d485e7f8f3d780" stream-id="aws_7dbb08c87fecf7be0a73" codec="mp3" bitrate="128",RADIO SANDELS
+#EXTINF:-1 station-id="awb_e42a57d485e7f8f3d780" stream-id="aws_7dbb08c87fecf7be0a73" codec="mp3" bitrate="128",Radio Sandels
 https://radiosandels.radiotaajuus.fi:9050/radio
 #EXTINF:-1 station-id="awb_635c68e7d8f6d157d363" stream-id="aws_0434b2cd79fbe7edabef" codec="mp3" bitrate="128",Radio Santa Claus
 https://streaming.radiostreamlive.com/radiosantaclaus_devices
@@ -217,8 +209,6 @@ https://iradio.fi/klasu.flac
 https://iradio.fi/klasupro.flac
 #EXTINF:-1 station-id="awb_99b02e4cac482f0a37b3" stream-id="aws_c9dd848d648697013047" codec="aac" bitrate="137",Rouhea Joulu
 https://aud-stream-jouluradio06.nm-elemental.nelonenmedia.fi/master.m3u8
-#EXTINF:-1 station-id="awb_8a9de30b6855d73149d3" stream-id="aws_1c6bef565502f6d1cd82" codec="mp3" bitrate="128",Sandels
-https://radiosandels.radiotaajuus.fi:9050/radio
 #EXTINF:-1 station-id="awb_5ece0750ff8638a55b34" stream-id="aws_053c2239ec4bafea1145" codec="mp3" bitrate="320",Savon Aallot
 https://cast.savonaallot.fi/savonaallot
 #EXTINF:-1 station-id="awb_aedbee93cbabf8d060f0" stream-id="aws_0571138b655db91ac9b3" codec="mp3" bitrate="192",Sea fm
@@ -249,8 +239,6 @@ https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8
 http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
 #EXTINF:-1 station-id="awb_d9e2c00ca6bbb5883cff" stream-id="aws_f94535957512f25a33fb" codec="aac+" bitrate="0",Yle Radio Suomi - Pori
 https://icecast.live.yle.fi/radio/YlePori/icecast.audio
-#EXTINF:-1 station-id="awb_b9bba166a0fd3d3520c3" stream-id="aws_f7e16600398ce43cbf00" codec="aac+" bitrate="0",YLE Radio Suomi - Tampere
-https://icecast.live.yle.fi/radio/YleTampere/icecast.audio
 #EXTINF:-1 station-id="awb_c6f7aeef7d47cf7d3a60" stream-id="aws_f24265115a090456a00b" codec="aac+" bitrate="0",Yle radio Suomi Etelä-pohjanmaa
 https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio
 #EXTINF:-1 station-id="awb_4408372a737ae0d5cd82" stream-id="aws_a456357ff31e155a1107" codec="aac+" bitrate="0",YLE Radio Suomi Hämeenlinna
@@ -279,8 +267,6 @@ https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio
 http://icecast.live.yle.fi/radio/YleTurku/icecast.audio
 #EXTINF:-1 station-id="awb_11cd50ae6408165e75d0" stream-id="aws_9e87e361677355c59b4c" codec="aac+" bitrate="0",Yle radio Vega Östnyland
 https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
-#EXTINF:-1 station-id="awb_ebf7568a41f41f03c748" stream-id="aws_1ebf7c952169fc8e69bd" codec="aac+" bitrate="0",Yle Radio1HIFI 256 Kb/s
-http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
 #EXTINF:-1 station-id="awb_b4bdd8027bd400f8205a" stream-id="aws_6e7f8f283372489b65cb" codec="aac+" bitrate="0",Yle Sámi Radio
 https://icecast.live.yle.fi/radio/YleSami/icecast.audio
 #EXTINF:-1 station-id="awb_b94de56ebf70737f9d42" stream-id="aws_7b15d263446ca0bd07b6" codec="aac+" bitrate="0",Yle Vega Åboland

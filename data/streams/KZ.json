@@ -97,25 +97,6 @@
     "lastCheckedAt": "2026-11-06T15:54:07Z"
   },
   {
-    "id": "aws_f3300c766238dd9db08d",
-    "stationId": "awb_438752769070f474df98",
-    "name": "Avtoradio",
-    "country": "KZ",
-    "url": "http://178.88.167.62:8080/AVTORADIO_192",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a03c96c-e9a8-40de-ac2e-5c523447cf3e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:03:21Z"
-  },
-  {
     "id": "aws_ad3d61005ece2027025c",
     "stationId": "awb_7c5245ac1d5da9af6b4a",
     "name": "Darhan Radio",
@@ -130,7 +111,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "33abb82a-5f4f-4405-aa22-1a1005b63a1b",
+      "56963e07-ab34-4a52-9149-b4a6ee37fbe3",
       "KZ:darhan-radio"
     ],
     "lastCheckOk": true,
@@ -154,6 +135,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:20:08Z"
+  },
+  {
+    "id": "aws_d01fc140a60298e92632",
+    "stationId": "awb_1decc4ac5dd0c1c18626",
+    "name": "Green Dance Kazachstan",
+    "country": "KZ",
+    "url": "https://listen.radio-greendance.su/listen/green_dance/green_dance",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2b89d5b7-6cee-447c-8561-2f564ef33ec0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_a5ad03abc5642fd159ae",
@@ -288,11 +288,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2866af84-c9ad-4c68-bb72-ea7b1f22d2e0",
+      "41a64f88-c639-4f5b-8dec-0543f94ceb1a",
       "KZ:pioner-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:06Z"
+    "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
     "id": "aws_7296dd651059e50c50b5",
@@ -316,25 +316,6 @@
     "lastCheckedAt": "2026-11-06T06:30:08Z"
   },
   {
-    "id": "aws_d4a5b7fbf2e037da5648",
-    "stationId": "awb_cc47c4a7e50f43aca953",
-    "name": "RADIO 7 SEMEY",
-    "country": "KZ",
-    "url": "https://listen2.myradio24.com/8334",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "30bd4d7c-b165-4c20-ad91-36fca521d3c6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
-  },
-  {
     "id": "aws_dbe2df4bd1a09fb87ae8",
     "stationId": "awb_aff47e8c585687c9de93",
     "name": "Radio 90s Eurodance",
@@ -345,15 +326,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "963fb135-0601-11e8-ae97-52543be04c81",
       "KZ:radio-90s-eurodance"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_373c90edca47c5fcb242",
@@ -522,25 +501,6 @@
     "lastCheckedAt": "2026-11-06T21:05:39Z"
   },
   {
-    "id": "aws_913bb1e68ea98b007640",
-    "stationId": "awb_8c1370c2a562bacd4816",
-    "name": "Tengri FM",
-    "country": "KZ",
-    "url": "http://91.201.214.229:8000/tengrifm",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a252eb81-a2bb-41ab-9f7d-13d792cb7a72"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:56:27Z"
-  },
-  {
     "id": "aws_bb1d60c33b7f9fab66f4",
     "stationId": "awb_3df9690a334e168e7b9b",
     "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
@@ -684,25 +644,6 @@
     "lastCheckedAt": "2026-11-07T01:20:31Z"
   },
   {
-    "id": "aws_13212e2740e7cdadef82",
-    "stationId": "awb_f8bc482391b2cd55c9ad",
-    "name": "Народное Радио",
-    "country": "KZ",
-    "url": "http://178.88.167.62:8080/DALA_192",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab723787-b6b8-4a03-8114-403ee4bd82c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
-  },
-  {
     "id": "aws_18eb2387d3cbb2d778d4",
     "stationId": "awb_3ef0c3daae6c5ee4d0c9",
     "name": "Народное радио",
@@ -841,11 +782,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0b4826f5-02f3-4257-a1e4-cc3fde604c9f",
+      "4beb9a12-0267-4726-a9ea-33a88754811b",
       "KZ:talap"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
+    "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
     "id": "aws_6e74a5976a6b080eb1f0",

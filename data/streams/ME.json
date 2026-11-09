@@ -157,7 +157,7 @@
       "ME:drugacija-radio-stanica"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:47:17Z"
+    "lastCheckedAt": "2026-11-06T01:32:34Z"
   },
   {
     "id": "aws_dfe4d03c693fd6deb6dc",
@@ -279,7 +279,7 @@
       "ME:play-radio-mne-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
+    "lastCheckedAt": "2026-11-06T10:52:18Z"
   },
   {
     "id": "aws_573a7a7c0c0d3b90535f",
@@ -383,25 +383,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:21:07Z"
-  },
-  {
-    "id": "aws_4c1135eb96b6bdbfaf51",
-    "stationId": "awb_9f30cd5726391c80da1e",
-    "name": "Radio Berane",
-    "country": "ME",
-    "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4384a02b-3625-44df-aaae-dede1a96e4b8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
     "id": "aws_6cb5a5cb3ec7d9ab697f",
@@ -911,24 +892,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:41:28Z"
-  },
-  {
-    "id": "aws_023ba81663eaa9777738",
-    "stationId": "awb_79150c4817ff07cc4d94",
-    "name": "TDI Radio Crna Gora",
-    "country": "ME",
-    "url": "https://streaming.tdiradio.com/crnagora.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3cb00022-e471-4315-8b3c-b00296d0b947"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:52:06Z"
   }
 ]

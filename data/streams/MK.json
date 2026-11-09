@@ -51,7 +51,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0021f2fb-6023-40a4-815f-5177d8f65afd",
       "eaff1518-955b-4069-8001-2a3d405473c9"
     ],
     "lastCheckOk": true,
@@ -96,25 +95,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T10:21:00Z"
-  },
-  {
-    "id": "aws_77687e46f76007b3b9e7",
-    "stationId": "awb_57ad3e2965d29a916f23",
-    "name": "Antenna 5 Macedonia",
-    "country": "MK",
-    "url": "http://antenna5stream.neotel.mk:8000/live128",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "442a3644-15a2-4b2a-a881-720e2124009b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
   },
   {
     "id": "aws_f97faccde0187377cda5",
@@ -214,25 +194,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:40:01Z"
-  },
-  {
-    "id": "aws_8a3b9cb7605b56d50d2d",
-    "stationId": "awb_0a6226cf603412e1a266",
-    "name": "Kanal 103",
-    "country": "MK",
-    "url": "http://radiostream.neotel.mk/kanal103",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96152e10-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:50Z"
   },
   {
     "id": "aws_88b4da5c6b54b81fc8cb",
@@ -383,8 +344,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9328b039-eae7-4bbd-8bbd-3d17502e73fd",
-      "9840be42-81ca-4072-8558-01bb7e79c3ea"
+      "9328b039-eae7-4bbd-8bbd-3d17502e73fd"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:57:06Z"
@@ -445,10 +405,10 @@
     ],
     "sourceIds": [
       "MK:radio-fortuna-96-8-fm",
-      "e51d5caf-1af4-4b93-b4f7-85a34bc7da59"
+      "e9587234-cad2-4953-8d0c-73d95abcd09b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
+    "lastCheckedAt": "2026-11-06T01:59:54Z"
   },
   {
     "id": "aws_c2c80748efa22e4bb5df",
@@ -672,25 +632,6 @@
     "lastCheckedAt": "2026-11-07T00:55:09Z"
   },
   {
-    "id": "aws_1212820cff746f9de494",
-    "stationId": "awb_7877f44eeeeef92e8b5d",
-    "name": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
-    "country": "MK",
-    "url": "http://s1.skyradio.com.mk:8000/",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e764559-cb2b-43a5-b732-ba7340ab12bf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:31:57Z"
-  },
-  {
     "id": "aws_6f742c11bda1832093c2",
     "stationId": "awb_2c7b45d0370854ed34e8",
     "name": "Sky Radio 102.5 Skopje, Macedonia",
@@ -722,15 +663,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "MK:sky-radio-hits-skopje-macedonia",
-      "a2d9154b-3d89-4cdc-81de-1a8b8802e2e8"
+      "MK:sky-radio-hits-skopje-macedonia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:48Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_29855e85d5ff5b8a6db2",
@@ -885,20 +824,18 @@
     "name": "STIL RADIO",
     "country": "MK",
     "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 320,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "MK:stil-radio",
-      "f95f2aed-b4b7-4a17-84d9-422614720fac"
+      "MK:stil-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:53:19Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_844f249b081a36dbb338",

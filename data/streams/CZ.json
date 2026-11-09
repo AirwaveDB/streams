@@ -248,34 +248,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07eb56e1-0eb8-4070-a68e-4bd24b545db3",
       "CZ:cesky-rozhlas-ceske-budejovice"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
-  },
-  {
-    "id": "aws_1b66fac6e3a4f2d383a8",
-    "stationId": "awb_add428641a9212b48e1e",
-    "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
-    "country": "CZ",
-    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aaec68f1-aa06-423e-aa82-2dab5a36ff82"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:40:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d7b943ef1223ef150d86",
@@ -374,7 +353,7 @@
       "a4e768c5-118e-4bf3-96b8-b7bff791dd67"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_d3a4d146c7e1163ca3b3",
@@ -393,7 +372,7 @@
       "ff45409c-eb15-4b53-8a21-49ca1c6624e1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_6fc34021e6ac63007444",
@@ -434,25 +413,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:13:23Z"
-  },
-  {
-    "id": "aws_10ccdd4a3d416066644a",
-    "stationId": "awb_88fd575f675aacf993c4",
-    "name": "City FM",
-    "country": "CZ",
-    "url": "http://ice.abradio.cz/cityfm128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "58633ddd-fa5d-4ead-a150-a95137ac094d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
     "id": "aws_da9d07e11629eb52896f",
@@ -632,25 +592,6 @@
     "lastCheckedAt": "2026-11-06T09:12:03Z"
   },
   {
-    "id": "aws_72a0b2d51620ec62ceca",
-    "stationId": "awb_85d3fc52efe63daba776",
-    "name": "Country Radio",
-    "country": "CZ",
-    "url": "http://icecast4.play.cz/country128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7ecb52d8-d8ea-4750-855a-69950f7226ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
-  },
-  {
     "id": "aws_f77179908259516dc12a",
     "stationId": "awb_5dc7b1a1db268459f472",
     "name": "County",
@@ -710,25 +651,6 @@
     "lastCheckedAt": "2026-11-06T19:36:57Z"
   },
   {
-    "id": "aws_8cf2d26ad0a50c665486",
-    "stationId": "awb_b676250263b9347e73ea",
-    "name": "ČRo D-dur",
-    "country": "CZ",
-    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0b88b8ac-30cb-4ee7-af0e-e76b01960c55"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:11:47Z"
-  },
-  {
     "id": "aws_859b53b76e984578f672",
     "stationId": "awb_b676250263b9347e73ea",
     "name": "ČRo D-dur",
@@ -748,25 +670,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:30:04Z"
-  },
-  {
-    "id": "aws_fecf607f1ca0ad977d7a",
-    "stationId": "awb_b16e3ff7db40a718566f",
-    "name": "ČRo D-dur FLAC",
-    "country": "CZ",
-    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0933cedf-76b4-4953-8561-12563becd8ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_d45754f57f6c485b3940",
@@ -824,25 +727,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:36:57Z"
-  },
-  {
-    "id": "aws_d257f0db1dfabe8188d1",
-    "stationId": "awb_c1ec017dff361209557c",
-    "name": "ČRo Jazz",
-    "country": "CZ",
-    "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1c73ba77-2de2-420f-90dd-74d15118a9be"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:56Z"
   },
   {
     "id": "aws_de56ed444aabb8c36159",
@@ -1112,15 +996,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CZ:cro-radiozurnal-sport",
-      "c1f742d6-b2c4-4b73-a9ad-30ddf194345e"
+      "CZ:cro-radiozurnal-sport"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b84aa00202959a3ffce8",
@@ -1192,15 +1074,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CZ:cro-radiozurnal-sport-stream-adhoc-2",
-      "d45dca1f-d3ab-4bc6-a247-ad98d91cb09e"
+      "CZ:cro-radiozurnal-sport-stream-adhoc-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_35c80b012c17d8371eda",
@@ -1346,25 +1226,6 @@
     "lastCheckedAt": "2026-11-06T18:43:25Z"
   },
   {
-    "id": "aws_846599e029ac67518aa3",
-    "stationId": "awb_5d368669e31753937c2d",
-    "name": "Czech radio classical",
-    "country": "CZ",
-    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6f61cd1b-a6f8-4546-b8f5-c848571c116a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:17:37Z"
-  },
-  {
     "id": "aws_62772caa549413c81820",
     "stationId": "awb_5b0734cde5ef9c258eab",
     "name": "Czech Radio ČRo D-dur",
@@ -1382,25 +1243,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_4b9c4723be22fd88e333",
-    "stationId": "awb_48bd6bdd214268a0eed0",
-    "name": "Czech Radio ČRo Jazz | aac 160",
-    "country": "CZ",
-    "url": "https://rozhlas.stream/jazz_high.aac",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "65b6d53e-63af-426d-b14e-f50ecbb50edf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
   },
   {
     "id": "aws_60ccf69ff0d90a4127ce",
@@ -1563,25 +1405,6 @@
     "lastCheckedAt": "2026-11-06T05:39:33Z"
   },
   {
-    "id": "aws_de88ed92a4f0241b610d",
-    "stationId": "awb_b895ce14d9fabdacb20c",
-    "name": "ENERGIC",
-    "country": "CZ",
-    "url": "https://icecast9.play.cz/energic.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5145b3a-7814-4690-b496-a04f02ff0ce9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:45:20Z"
-  },
-  {
     "id": "aws_9020afa08eeab0e54881",
     "stationId": "awb_7efea91df0c636dded06",
     "name": "Evropa 2 - aac",
@@ -1653,15 +1476,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1b568695-9ce7-493d-ba72-d9b3d5e0a364",
       "CZ:evropa-2-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:42:14Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d27735fc75505496dc6d",
@@ -1683,25 +1504,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:15:42Z"
-  },
-  {
-    "id": "aws_c0bd80325092992f0203",
-    "stationId": "awb_ab83d4c1e21e7e936a69",
-    "name": "Expres FM",
-    "country": "CZ",
-    "url": "http://icecast8.play.cz/expres128mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d6bb6104-fc0b-41d9-9e46-24ffb08543ef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:23:48Z"
   },
   {
     "id": "aws_44689c85798e331d254e",
@@ -1836,7 +1638,7 @@
       "CZ:fed-s-trap-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:18:51Z"
+    "lastCheckedAt": "2026-11-06T06:47:10Z"
   },
   {
     "id": "aws_b8af17e41acb5e165142",
@@ -1871,11 +1673,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "33d5e36b-7301-494c-b022-d7f3a304f72b",
-      "961f6cc4-0601-11e8-ae97-52543be04c81"
+      "33d5e36b-7301-494c-b022-d7f3a304f72b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
+    "lastCheckedAt": "2026-11-06T17:20:45Z"
   },
   {
     "id": "aws_b51ec7dc1888d9531df9",
@@ -2048,11 +1849,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "120f9ba0-c55a-498a-ae36-58b5c27ac2af",
+      "28bf6c75-4377-4488-a898-c44ee1152803",
       "CZ:funkstar-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:59:28Z"
+    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_f9a9fd2261b331b208ac",
@@ -2209,25 +2010,6 @@
     "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
-    "id": "aws_197c92d988109e3fd388",
-    "stationId": "awb_7dd032095cfca3702883",
-    "name": "Hit PopRock",
-    "country": "CZ",
-    "url": "http://ice.abradio.cz/hitpoprock128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9bea3d90-d08b-4441-ab92-47ab2ccb5c9b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
     "id": "aws_ab654b017cce17432347",
     "stationId": "awb_8c5ebe5be06a30d9a191",
     "name": "HIT Rádio Orion",
@@ -2245,25 +2027,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:08:40Z"
-  },
-  {
-    "id": "aws_c17bf270b4c06798ceb6",
-    "stationId": "awb_9f0f88f85c95a3b789d4",
-    "name": "Hitrádio Černá Hora",
-    "country": "CZ",
-    "url": "http://ice.abradio.cz/cernahora128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "81361abb-1d2f-4064-bace-ac0e32bbe505"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:59:09Z"
   },
   {
     "id": "aws_fa0fa87c5a5a83ea9552",
@@ -2435,11 +2198,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "31988e3e-db92-4d93-8c5a-d7b56bbebc92",
       "ca6353a3-fb85-4277-8490-7afabc388cf2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
+    "lastCheckedAt": "2026-11-06T21:03:37Z"
   },
   {
     "id": "aws_30450e10de94bf2e6609",
@@ -2637,7 +2399,7 @@
       "ce32fdeb-3e90-49b7-b7da-5904cbd6798e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
+    "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
     "id": "aws_45b792c02380f0839e1e",
@@ -2752,25 +2514,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
-    "id": "aws_2a80988fc90d29f8681d",
-    "stationId": "awb_7392cf17db6b2cdcdbdf",
-    "name": "Kiss Radio",
-    "country": "CZ",
-    "url": "http://icecast4.play.cz/kiss128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "348fdad1-69cc-4f53-a848-a73175aad522"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
   },
   {
     "id": "aws_d48517f8cb25fc619d25",
@@ -2935,7 +2678,7 @@
   {
     "id": "aws_25d9acf728761d02aa7c",
     "stationId": "awb_bf8b9843d7e50b90f876",
-    "name": "Netro Life radio 100,8 FM",
+    "name": "Netro Life Radio 100,8 FM",
     "country": "CZ",
     "url": "https://icecast9.play.cz/netro-life-radio.mp3",
     "codec": "mp3",
@@ -2947,11 +2690,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4300fc98-119d-417d-b9d7-f06578d68240",
+      "86ade1ec-0b06-4ede-97a1-04ab18299265",
       "CZ:netro-life-radio-100-8-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
+    "lastCheckedAt": "2026-11-05T23:33:02Z"
   },
   {
     "id": "aws_e75a93671fea0d22a5d1",
@@ -3049,25 +2792,6 @@
     "lastCheckedAt": "2026-11-06T04:25:16Z"
   },
   {
-    "id": "aws_2171373e62d21afcedde",
-    "stationId": "awb_7325c10a1ba2c902607e",
-    "name": "Oldies Rádio",
-    "country": "CZ",
-    "url": "http://ice.abradio.cz/oldiesradio128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59425e67-86b7-11e9-aa30-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
-  },
-  {
     "id": "aws_58736773e4f4b0ba2474",
     "stationId": "awb_84f5497ceb9e3c2c493f",
     "name": "Phonk Nation Radio",
@@ -3082,11 +2806,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4e9b0f36-3b10-4e00-baa0-ab2e18322dbe",
+      "4ee5a87d-e445-4ce2-8cad-da534e8be10b",
       "CZ:phonk-nation-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
+    "lastCheckedAt": "2026-11-06T19:40:55Z"
   },
   {
     "id": "aws_8438e100b58e3c8b3ad3",
@@ -3222,25 +2946,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:28:32Z"
-  },
-  {
-    "id": "aws_141b9167005bbc99dc53",
-    "stationId": "awb_0f7829e917fe40ba9390",
-    "name": "PowerPonies Radio",
-    "country": "CZ",
-    "url": "http://powerponies.cz:8000/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2391e0fd-3755-41f7-8389-f9bd9e89d350"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
     "id": "aws_1b9f2619cafdd510ba09",
@@ -3419,7 +3124,7 @@
       "5a184df3-6c4a-4ed9-a172-19ec43466ddd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_d2461dc03ddf5034219c",
@@ -3432,15 +3137,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "28c96823-53d0-46b4-bc3d-eb29350db6f5",
       "CZ:radio-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:36:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_b25e54a172b23b537e52",
@@ -3517,45 +3220,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:43:21Z"
-  },
-  {
-    "id": "aws_5171605c6bc97b17d8ca",
-    "stationId": "awb_d398be0c14942616fdc6",
-    "name": "Rádio Beat",
-    "country": "CZ",
-    "url": "http://icecast2.play.cz/radiobeat128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05af3db3-5b11-483c-b008-07f3fd56df15"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:52Z"
-  },
-  {
-    "id": "aws_5ce6e09b644eb4db5298",
-    "stationId": "awb_f355679a90eb4b7fc45a",
-    "name": "Radio Beat",
-    "country": "CZ",
-    "url": "http://icecast2.play.cz/radiobeat128.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961d7ccb-0601-11e8-ae97-52543be04c81",
-      "fd85ae48-f7ae-4e77-91f0-aac9160fcdd4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:22:08Z"
   },
   {
     "id": "aws_1bbb6e52ef490b5ad433",
@@ -3777,25 +3441,6 @@
     "lastCheckedAt": "2026-11-06T06:40:25Z"
   },
   {
-    "id": "aws_b819e99d637680015172",
-    "stationId": "awb_d3b7e6eb34fd704fa326",
-    "name": "Radio Čas",
-    "country": "CZ",
-    "url": "http://icecast6.play.cz/casradio128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7bd36bea-3d4f-43cc-8ff1-28ad8e4d24a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:21:54Z"
-  },
-  {
     "id": "aws_ea945e67107a24717292",
     "stationId": "awb_8f2e7c2c117589aee48a",
     "name": "Radio Cas",
@@ -3828,30 +3473,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "298d3e94-dd4b-4dbd-b336-2d7b631b1d79",
       "8214fbd9-51be-4222-b9a6-47aa0c6c71a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
-    "id": "aws_5f8b341f328a90e58e72",
-    "stationId": "awb_608899b99a9b010d61bd",
-    "name": "Radio Čas Rock",
-    "country": "CZ",
-    "url": "http://icecast6.play.cz/casrock128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9641d770-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
+    "lastCheckedAt": "2026-11-06T20:30:45Z"
   },
   {
     "id": "aws_c1f2a7baac87c6b486e6",
@@ -3930,25 +3555,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:34:05Z"
-  },
-  {
-    "id": "aws_1ea1e6cb6f84c5a56cce",
-    "stationId": "awb_091d574c163c074438a9",
-    "name": "Radio Depeche Mode",
-    "country": "CZ",
-    "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961d4a91-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:31:19Z"
   },
   {
     "id": "aws_264013937466208e8bd8",
@@ -4066,11 +3672,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "09583181-fc2c-4e96-b432-55bbeacd040b",
+      "511c1130-53b9-478c-8ec7-29d36f7e90aa",
       "CZ:radio-fonlord"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
+    "lastCheckedAt": "2026-11-06T00:52:47Z"
   },
   {
     "id": "aws_2cca97a37a050de86733",
@@ -4229,25 +3835,6 @@
     "lastCheckedAt": "2026-11-06T00:08:01Z"
   },
   {
-    "id": "aws_388587dc0973771e69b9",
-    "stationId": "awb_54da9a626e51633a4992",
-    "name": "Rádio Jih Cimbálka",
-    "country": "CZ",
-    "url": "http://icecast6.play.cz/jihcimbalka128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "df3f953b-10e4-444e-b2db-a009459f54c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
     "id": "aws_12dac23bc4823a77bbfd",
     "stationId": "awb_40cfb81c519dfe156457",
     "name": "Rádio Junior",
@@ -4341,11 +3928,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5275df88-4198-4524-acf3-abc564737131",
-      "961e622e-0601-11e8-ae97-52543be04c81"
+      "5275df88-4198-4524-acf3-abc564737131"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
+    "lastCheckedAt": "2026-11-06T00:28:25Z"
   },
   {
     "id": "aws_fdae60bb6c99c92b260e",
@@ -4383,7 +3969,7 @@
       "ebc7ae7c-c07a-4968-9b08-775da44c7612"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_cb63a858c31f6023acbb",
@@ -4746,25 +4332,6 @@
     "lastCheckedAt": "2026-11-06T05:40:15Z"
   },
   {
-    "id": "aws_57abcc1ecfccf80eade8",
-    "stationId": "awb_304bf36f082959e38959",
-    "name": "Rádio Relax",
-    "country": "CZ",
-    "url": "http://icecast7.play.cz/relax128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "edff4cbe-7e39-44bc-a248-29744cd303ed"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:10:09Z"
-  },
-  {
     "id": "aws_f1916f821ee5684970c0",
     "stationId": "awb_f853c94d9ba8bc448474",
     "name": "Radio ROCK",
@@ -5039,25 +4606,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:24:15Z"
-  },
-  {
-    "id": "aws_5bc1007d4eaa888ac29c",
-    "stationId": "awb_c9c72ef9d381ba2663e4",
-    "name": "Radio7",
-    "country": "CZ",
-    "url": "http://icecast8.play.cz/radio7-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d4482e6e-7a01-45b3-addb-a88224d39026"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
   },
   {
     "id": "aws_0a0d4f191736f05c4ad9",
@@ -5349,25 +4897,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:08:42Z"
-  },
-  {
-    "id": "aws_d4efad670643b30a6783",
-    "stationId": "awb_c45d0d877c32cd0a9ce4",
-    "name": "SeeJay Radio",
-    "country": "CZ",
-    "url": "http://icecast6.play.cz/seejay128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eb59211d-4643-4b66-be2f-9d4be3948963"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:55:45Z"
   },
   {
     "id": "aws_e940d49acfa69dd82248",
@@ -5804,44 +5333,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:44:59Z"
-  },
-  {
-    "id": "aws_6747ffd690c7a12a44cc",
-    "stationId": "awb_fe797c3188aa27e7db8b",
-    "name": "Радио Свобода",
-    "country": "CZ",
-    "url": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 140,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9d2b7b0b-f0cf-4c32-a1ce-bc6e964a7c1a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:08:32Z"
-  },
-  {
-    "id": "aws_0159f4efcaee63b0527b",
-    "stationId": "awb_91b26ec1906ea4b6ad82",
-    "name": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
-    "country": "CZ",
-    "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964959cb-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:21:53Z"
   },
   {
     "id": "aws_349429b9c044fe92f531",

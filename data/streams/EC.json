@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_9137105e479a2b3fd591",
-    "stationId": "awb_f36122d4819d9ca5934a",
-    "name": "Abba FM",
-    "country": "EC",
-    "url": "http://streamingecuador.net:7500/stream",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8947e7f1-b474-4914-bc39-b08008e31ff1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:02:01Z"
-  },
-  {
     "id": "aws_3d816f953654d6885779",
     "stationId": "awb_592da2750f224f3a2795",
     "name": "Alfa Radio98.5FM",
@@ -35,7 +16,7 @@
       "2470939f-bb77-4193-a35b-3d93d4cb7da7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_b863795a5449bcf72ed3",
@@ -243,20 +224,18 @@
     "name": "Cómplice FM 99.7 FM",
     "country": "EC",
     "url": "https://dattavolt.com/8422/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "85e60866-89fd-4513-91ad-2b006aa4c56a",
       "EC:complice-fm-99-7-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_89ea16379700a931421c",
@@ -377,6 +356,25 @@
     "lastCheckedAt": "2026-11-06T14:57:49Z"
   },
   {
+    "id": "aws_875fa6da3a21c9e5ba11",
+    "stationId": "awb_b372c128b0914dc6255f",
+    "name": "Ecuatorial fm",
+    "country": "EC",
+    "url": "https://listen.usuarios.space/ecuatorialfm/",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cafbcdbc-3e0b-4f0a-8272-5eec34c47770"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
     "id": "aws_3d39c7fafeeee4592ff5",
     "stationId": "awb_c920bbd4bbbc7f4e97e4",
     "name": "EXA FM",
@@ -393,26 +391,7 @@
       "321cfe8f-5319-4192-a782-3969a64dbeaa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
-  },
-  {
-    "id": "aws_e95edcc1bfa5b57ff769",
-    "stationId": "awb_fa698ef67941757f0f8b",
-    "name": "EXA FM 92.5 FM",
-    "country": "EC",
-    "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1edb99b0-006b-4655-8d15-281eb1bafdd2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_9df744e4177e12e2e4af",
@@ -537,25 +516,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
-    "id": "aws_7b67e91e51dc54fa9ec1",
-    "stationId": "awb_a7ff5bb83d562db7eecb",
-    "name": "HCJB",
-    "country": "EC",
-    "url": "http://segenswelle.de:8000/hcjb",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2149aad1-6b74-436a-8e20-f4e47f67b0dd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
   },
   {
     "id": "aws_d533ad149a082ef8c21d",
@@ -836,6 +796,25 @@
     "lastCheckedAt": "2026-11-06T06:04:07Z"
   },
   {
+    "id": "aws_b25b77db033a9dc05f75",
+    "stationId": "awb_88a4346d9ad88cec8245",
+    "name": "La voz de Crucita",
+    "country": "EC",
+    "url": "https://stream2.mcvhost.com/lavozdecrucita/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d52f480c-4487-44af-b789-b4c7d346e26e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
+  },
+  {
     "id": "aws_f3e68bc06bacef5b3954",
     "stationId": "awb_85370a6b44a5f1b65128",
     "name": "La Voz de los Caras 95.3 FM",
@@ -1011,11 +990,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0e59cd7f-c160-4444-ac8b-662c348571bb",
-      "9e8f5ff9-4155-45a5-b4ab-5800a2d67973"
+      "0e59cd7f-c160-4444-ac8b-662c348571bb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
     "id": "aws_9633cf8df9ded9bbf41b",
@@ -1031,7 +1009,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1eb67513-409d-4a4b-aa6d-c713aad29112",
       "d57ca1f3-525d-48ea-8419-0ce295010f3b"
     ],
     "lastCheckOk": true,
@@ -1134,7 +1111,7 @@
       "7b70c207-0c51-4d1e-958f-cb608ec5d4fb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_0c260c8b9dcbfa43d65f",
@@ -1495,6 +1472,25 @@
     "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
+    "id": "aws_69dab16a3568a59b4538",
+    "stationId": "awb_a5c4daf33cef53257642",
+    "name": "radio búfalo",
+    "country": "EC",
+    "url": "https://stream1.mcvhost.com/radiobufalo/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "27156896-2af6-4a8c-a873-05da841d99ec"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
+  },
+  {
     "id": "aws_f7e1020bf9309d1980af",
     "stationId": "awb_95aeda46a0a873cf4a7d",
     "name": "Radio Cadena Stereo 107.1",
@@ -1620,20 +1616,18 @@
     "name": "Radio Canela Guayas",
     "country": "EC",
     "url": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2730de1b-dcd9-41aa-adcb-ff202d4cad22",
       "EC:radio-canela-guayas"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:37:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4255eca4a031098103eb",
@@ -1798,6 +1792,25 @@
     "lastCheckedAt": "2026-11-06T18:00:23Z"
   },
   {
+    "id": "aws_43c820e02c2cfc04dff2",
+    "stationId": "awb_9b2e2f4131905d0b9b5f",
+    "name": "radio Caravana 750 am Guayaquil",
+    "country": "EC",
+    "url": "https://streamingecuador.net:9006/stream",
+    "codec": "aac+",
+    "bitrate": 24,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "889bbd25-dc8e-44f0-8ada-923020c4a101"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
+  },
+  {
     "id": "aws_25537eb2a80b61a97178",
     "stationId": "awb_cfb9d678c0f653feda09",
     "name": "Radio Carisma",
@@ -1814,7 +1827,7 @@
       "e5c99c37-7e28-4b60-95ef-992444bc4350"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_2f551ac9aadcb19515df",
@@ -1841,20 +1854,18 @@
     "name": "Radio Diblu",
     "country": "EC",
     "url": "https://streamingecuador.net:9002/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 24,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4eaf7c6f-8fb0-46a5-858f-2e9337aa2046",
       "EC:radio-diblu"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5dbf6b5fc273100bac81",
@@ -1970,15 +1981,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "49ebe1cc-f65e-4bc1-9393-465cd74d417a",
       "EC:radio-evolucion"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:13:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_9e36c9ccc1485f8bf311",
@@ -2038,25 +2047,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:01:25Z"
-  },
-  {
-    "id": "aws_60ad66612c3a7508eeaf",
-    "stationId": "awb_4ef63f358bbdbdf14a42",
-    "name": "Radio HCJB German",
-    "country": "EC",
-    "url": "http://segenswelle.de:8000/hcjb",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96366fb7-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:37:59Z"
   },
   {
     "id": "aws_5b35d6c9c04eea7b7531",

@@ -1,43 +1,5 @@
 [
   {
-    "id": "aws_f8faac1a5c86235adfef",
-    "stationId": "awb_7580fb7c36cddd9a8a3f",
-    "name": "=KECO=70s ROCK",
-    "country": "AU",
-    "url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a2affa72-a575-4393-b073-6ad852b5c647"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
-    "id": "aws_4b3a7a1bac0013b30346",
-    "stationId": "awb_ff73921d29c34d5a25d5",
-    "name": "=KECO=ROCK BALLADS",
-    "country": "AU",
-    "url": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9aba9171-6d18-4245-b948-4802720c194d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
-  },
-  {
     "id": "aws_6993da8b93d48480a12b",
     "stationId": "awb_83c1fdd55b79a3e55c1e",
     "name": "1",
@@ -246,8 +208,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6a66aa84-57f2-4904-a737-af1521597f16",
-      "AU:104-1-territory-fm-darwin-104-1-fm-mp3"
+      "AU:104-1-territory-fm-darwin-104-1-fm-mp3",
+      "a0b53465-58bb-4d63-a08a-f15cec9a63f5"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:38:32Z"
@@ -639,25 +601,6 @@
     "lastCheckedAt": "2026-11-06T08:09:17Z"
   },
   {
-    "id": "aws_c8bec7f797cd589a4ad4",
-    "stationId": "awb_567cc2e58e9b7cd07eff",
-    "name": "2CA - 1053 AM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f4b6f204-044d-42b6-8dbc-b6dc38deeab0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
     "id": "aws_5ccd7507a69079a7652d",
     "stationId": "awb_db44be9ed1b12ca1b716",
     "name": "2CA - Canberra - 1053 AM (AAC)",
@@ -734,25 +677,6 @@
     "lastCheckedAt": "2026-11-06T00:36:15Z"
   },
   {
-    "id": "aws_f2e930adb6b4a6d89ba7",
-    "stationId": "awb_869ff8ff1d7117a1cbcc",
-    "name": "2CC - 1206 AM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b0df6818-9094-4696-af43-f6aef849f0e2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:35:26Z"
-  },
-  {
     "id": "aws_09256d653af7e13b4459",
     "stationId": "awb_66f0bce155d16c7180b4",
     "name": "2CC - Canberra - 1206 AM (AAC)",
@@ -825,7 +749,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "02cbc00b-94c3-410b-9c42-132a53c329e9",
       "75ce97d9-0381-4343-a85c-8577368493b5"
     ],
     "lastCheckOk": true,
@@ -996,15 +919,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3d913c40-3ef9-4a82-9f88-687e59193e35",
       "AU:2fbi-fbi-radio-94-5-fm-sydney-nsw"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0d639b29974c0319380f",
@@ -1020,11 +941,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9572f71b-9657-4d02-94f4-c9fe05ba26d3",
-      "9e7f4c38-6e4f-4185-a5e8-0405c1f2483f"
+      "9572f71b-9657-4d02-94f4-c9fe05ba26d3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
+    "lastCheckedAt": "2026-11-06T10:55:06Z"
   },
   {
     "id": "aws_52068f2c8217ab23103d",
@@ -1046,25 +966,6 @@
     "lastCheckedAt": "2026-11-06T20:09:12Z"
   },
   {
-    "id": "aws_9d444551600c46869a3b",
-    "stationId": "awb_5e1f47f6e5d289183529",
-    "name": "2GB Sydney",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6794ba90-1029-4673-8aeb-206e2b59d591"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:42:10Z"
-  },
-  {
     "id": "aws_ef3ed4a6d4b0d58bda4a",
     "stationId": "awb_1fd427cc0e6dc680bf5f",
     "name": "2GHR Greater Hume Radio",
@@ -1078,11 +979,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1746e108-7a11-464f-b366-1e03e03ee7e5",
-      "b0a84d93-b6e3-4413-b79d-f14002598148"
+      "1746e108-7a11-464f-b366-1e03e03ee7e5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:14:23Z"
+    "lastCheckedAt": "2026-11-06T02:26:30Z"
   },
   {
     "id": "aws_0e51331b474b130a6e32",
@@ -1376,25 +1276,6 @@
     "lastCheckedAt": "2026-11-06T14:48:41Z"
   },
   {
-    "id": "aws_71af8cdec4acff552ecb",
-    "stationId": "awb_a32642e8e19feba4ce29",
-    "name": "2ME Radio Arabic",
-    "country": "AU",
-    "url": "https://streaming.2me.com.au/2me",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aa5dc44c-84bf-48dd-a8a3-e6821e46cc71"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:47:16Z"
-  },
-  {
     "id": "aws_22c480551b54eb0a0720",
     "stationId": "awb_add655c23db398c23940",
     "name": "2MFM",
@@ -1488,25 +1369,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:30:45Z"
-  },
-  {
-    "id": "aws_105e36ceabbe4e0dbd72",
-    "stationId": "awb_8f152b3018d204f45909",
-    "name": "2MNO Monaro FM - Cooma - 90.5 FM",
-    "country": "AU",
-    "url": "http://220.233.66.253:88/broadwave.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27631371-5b01-4c5a-b671-bc90a17e580c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:41:06Z"
   },
   {
     "id": "aws_a65b14e16035fd413279",
@@ -1676,8 +1538,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "354c6ad0-dbcb-4db5-aed3-74865879244d",
-      "51742cd5-255a-4cbb-916f-f54c881fb105"
+      "354c6ad0-dbcb-4db5-aed3-74865879244d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:46:30Z"
@@ -1696,8 +1557,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4b4c220c-78af-4556-8c92-8b72cc43cd52",
-      "a4314093-bcb7-4745-90a5-6184296e6a76"
+      "4b4c220c-78af-4556-8c92-8b72cc43cd52"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:30:45Z"
@@ -1803,20 +1663,18 @@
     "name": "2SM SRN Sydney",
     "country": "AU",
     "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AU:2sm-srn-sydney",
-      "ebb7df21-bfd3-4dba-851f-ad2acc7234bc"
+      "AU:2sm-srn-sydney"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_3877e198ebe4ca9a6075",
@@ -1855,25 +1713,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:04:41Z"
-  },
-  {
-    "id": "aws_6377c655df11938abc5c",
-    "stationId": "awb_c7c1c6b84e195ec32781",
-    "name": "2SSR-FM",
-    "country": "AU",
-    "url": "https://radio12.shoutcast.net.au:8000/stream",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3979f06a-f330-4836-b98c-3b2276400dab"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:15:51Z"
   },
   {
     "id": "aws_297693e23c6f504d47a1",
@@ -1931,63 +1770,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:51:38Z"
-  },
-  {
-    "id": "aws_ed248d8ab99b81ba0f5a",
-    "stationId": "awb_3dd8e681af85d65e3d21",
-    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dc6b1a66-997e-4e0d-9502-8641f052d044"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
-  },
-  {
-    "id": "aws_03631206a2196f390910",
-    "stationId": "awb_5399b6c6b550e20c0012",
-    "name": "2ST - Southern Highlands - 102.9 FM (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b29cf93d-4327-4455-9ee0-f7c397961d9d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:05:46Z"
-  },
-  {
-    "id": "aws_dbf24836fda3115ec04d",
-    "stationId": "awb_252609d4411da23de418",
-    "name": "2ST - Southern Highlands - 91.7 FM (AAC)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "767422cd-b521-4b8c-81b4-3c9b565134c1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:23Z"
   },
   {
     "id": "aws_67ab2655c08f9aed2b1a",
@@ -2161,26 +1943,6 @@
     "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
-    "id": "aws_c716276f2d104a72e827",
-    "stationId": "awb_951dc1d124b0caf0e0d0",
-    "name": "2XXfm 98.3 - Canberra's Oldest Community Radio Station",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2XXAAC.aac",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5238dc3d-ce5a-4f42-8ca0-a4f3bb97b583",
-      "c8004914-40ad-429a-b29f-4caaaf63b18c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
-  },
-  {
     "id": "aws_1c8ca0e0315ec66a0b1c",
     "stationId": "awb_f2040185871311f8d630",
     "name": "2YYY - Young - 92.3 FM (MP3)",
@@ -2234,8 +1996,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3c481eff-6cfa-400d-b355-358aaff199d7",
-      "94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6"
+      "3c481eff-6cfa-400d-b355-358aaff199d7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:48:02Z"
@@ -2745,25 +2506,6 @@
     "lastCheckedAt": "2026-11-06T10:59:49Z"
   },
   {
-    "id": "aws_ff1b8acbee658df17beb",
-    "stationId": "awb_f0495e0c5eac8d7e276c",
-    "name": "4CA - Cairns - 846 AM (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4dcc21ca-7f83-4ce5-a9fb-acb24c583d04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
-  },
-  {
     "id": "aws_b2e2c16c99a6b3924eaa",
     "stationId": "awb_b7dfb593b184f21c3dd5",
     "name": "4CA - Cairns - 846 AM (MP3)",
@@ -2821,25 +2563,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
-    "id": "aws_c6ae31c70209595efe41",
-    "stationId": "awb_07f71ea7bec6c274eacf",
-    "name": "4CC - Gladstone - 927 AM (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e2daf662-7fcb-4114-b835-aae4754e2a3a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:58:00Z"
   },
   {
     "id": "aws_b421a579e8d00eca0539",
@@ -3019,25 +2742,6 @@
     "lastCheckedAt": "2026-11-06T10:59:49Z"
   },
   {
-    "id": "aws_0c08e34c84e37ef889da",
-    "stationId": "awb_f104177457776f4be8db",
-    "name": "4MK 1026 AM Mackay",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cffaa527-a90a-4042-984f-68c8444f132e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:52Z"
-  },
-  {
     "id": "aws_1cc9fff1a7fbaf319c11",
     "stationId": "awb_4b2a105ead6956f11c2f",
     "name": "4OUR 101.5 fm",
@@ -3116,25 +2820,6 @@
     "lastCheckedAt": "2026-11-06T18:21:07Z"
   },
   {
-    "id": "aws_1d4b3a482c6402f37ab8",
-    "stationId": "awb_fe3c116b6cbba2b03f96",
-    "name": "4RO 990 AM Rockhampton",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f880343e-4f60-4fb5-9569-3b1ce6757774"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:28Z"
-  },
-  {
     "id": "aws_718da46586940b0c4345",
     "stationId": "awb_a403a73b59bf21ed6583",
     "name": "4RPH Reading Radio",
@@ -3154,63 +2839,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T03:11:45Z"
-  },
-  {
-    "id": "aws_8a8accf8241afdbafc80",
-    "stationId": "awb_795a7eaff39122e75a50",
-    "name": "4RR - Charleville - 105.7 FM (HD) (MP3)",
-    "country": "AU",
-    "url": "http://azure.bullantcomm.com:8030/HD",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a126521-a96f-44e4-9ccf-26bd955a72a6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:39:08Z"
-  },
-  {
-    "id": "aws_13815a185ee6635923b8",
-    "stationId": "awb_598d4f4543c337592f0a",
-    "name": "4RR - Charleville - 105.7 FM (Mobile) (MP3)",
-    "country": "AU",
-    "url": "http://azure.bullantcomm.com:8030/Mobile",
-    "codec": "mp3",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "57b0fe13-8635-4333-bc1c-872f5f0da33b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:19:17Z"
-  },
-  {
-    "id": "aws_7a5ad776bce7bb0e491c",
-    "stationId": "awb_2aa11134a20a632e8884",
-    "name": "4RR - Charleville - 105.7 FM (SD) (MP3)",
-    "country": "AU",
-    "url": "http://azure.bullantcomm.com:8030/SD",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "03b46a2c-5f6e-48e5-bde8-b6bac717bb6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:59:48Z"
   },
   {
     "id": "aws_0b60c28a05a76401d186",
@@ -3289,25 +2917,6 @@
     "lastCheckedAt": "2026-11-06T12:02:58Z"
   },
   {
-    "id": "aws_343be1e1f57517b5decf",
-    "stationId": "awb_733ad67ac174536daabe",
-    "name": "4RR FM - Charleville - 105.7 FM (Transmission) (MP3)",
-    "country": "AU",
-    "url": "http://azure.bullantcomm.com:8030/Transmission",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e97624f6-c5e7-429c-8ff4-52cc265b142e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:21:07Z"
-  },
-  {
     "id": "aws_be9e48983372a511dafe",
     "stationId": "awb_1f5743fa4b570b36b78d",
     "name": "4TTT-FM 103.9MHz Community Radio Townsville",
@@ -3377,15 +2986,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AU:4zzz",
-      "b6794d5d-2053-4390-82b5-5dc750972069"
+      "AU:4zzz"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2dd30a12d8c16d08ed79",
@@ -3407,25 +3014,6 @@
     "lastCheckedAt": "2026-11-06T06:51:19Z"
   },
   {
-    "id": "aws_151ce50e6a879dd71367",
-    "stationId": "awb_620c85c34acc32e69fc9",
-    "name": "4ZZZ Community Radio",
-    "country": "AU",
-    "url": "https://iheart.4zzz.org.au/4zzz",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14183617-53a1-46fe-97bb-e7059b7d84af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:37:37Z"
-  },
-  {
     "id": "aws_da52672c2bd3ca276893",
     "stationId": "awb_97681f5c84d9de1c7750",
     "name": "4ZZZ Digital",
@@ -3445,25 +3033,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
-    "id": "aws_1e0f569bc202935547e4",
-    "stationId": "awb_87bfd1c0fcc76a1c0507",
-    "name": "4ZZZ FM",
-    "country": "AU",
-    "url": "https://iheart.4zzz.org.au/4zzz",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "935d2898-5d9e-49a2-986f-f169831cfdcc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
   },
   {
     "id": "aws_9b8c9bf9cd10ff0b79e4",
@@ -3522,7 +3091,7 @@
       "72452618-dcd0-4e72-adf2-a3df331956e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_5d20c9daad8cb99dab91",
@@ -3554,15 +3123,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "349c1e42-c072-4311-8111-e8242af6af38",
       "AU:5mbs-99-9fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:59:46Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_53c4ea80773cc2e70027",
@@ -3732,11 +3299,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "655b54c2-1e92-4346-80c5-8bb2ac1168b8",
       "bce6703f-3a02-4b71-ad94-62b5bcd343b6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:46:09Z"
+    "lastCheckedAt": "2026-11-06T01:05:00Z"
   },
   {
     "id": "aws_756b04bb1c660a3fd0de",
@@ -3891,25 +3457,6 @@
     "lastCheckedAt": "2026-11-07T01:20:31Z"
   },
   {
-    "id": "aws_30d5baccd62fe6e3738e",
-    "stationId": "awb_57d43f2dab59c7d51a96",
-    "name": "7HOFM - Hobart - 101.7 FM (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f08d23e8-bdf7-45f5-b68b-41ad7281bd06"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:51:19Z"
-  },
-  {
     "id": "aws_faf065362c4283f70f40",
     "stationId": "awb_840a636753e1018be5aa",
     "name": "7RPH \"Print Radio Tasmania\"",
@@ -3964,7 +3511,7 @@
       "b053c7be-2ead-4139-be64-f3733ed80631"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_f812f3e8cfc1ba3334ed",
@@ -4215,7 +3762,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "27e2d732-2afd-4378-a926-e24e6fcbd291",
+      "3d360d4c-c45d-4626-bd3a-8a0bb7cc317d",
       "AU:90-1-happy-fm"
     ],
     "lastCheckOk": true,
@@ -4239,25 +3786,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T05:24:33Z"
-  },
-  {
-    "id": "aws_2ffbe3700f72b6ab608d",
-    "stationId": "awb_116c4d9b7b1ab683f0ae",
-    "name": "90.1 NBC FM - Narwee - 90.1 FM (MP3)",
-    "country": "AU",
-    "url": "https://studio.901nbcfm.com.au:8902/newstream",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2b0f66d1-d459-44ae-8dad-383625816284"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:48:58Z"
   },
   {
     "id": "aws_197b143d69557c16bc09",
@@ -4413,7 +3941,7 @@
       "AU:93-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
+    "lastCheckedAt": "2026-11-06T06:30:08Z"
   },
   {
     "id": "aws_53aaa91c97ca04a09796",
@@ -4568,25 +4096,6 @@
     "lastCheckedAt": "2026-11-07T03:11:45Z"
   },
   {
-    "id": "aws_ef224dce124857b03e72",
-    "stationId": "awb_81e29c4c97d0de23f69f",
-    "name": "96.7 2HGR Hume Radio",
-    "country": "AU",
-    "url": "https://stream.2ghr.org.au:8000/2ghr",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "299b7aa1-57ea-4929-abcf-32dc81c6dff7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:07:47Z"
-  },
-  {
     "id": "aws_98d1b3616b3a09caba69",
     "stationId": "awb_8057b982c0c617c63173",
     "name": "96five Brisbane",
@@ -4659,8 +4168,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "442509d9-d48e-475e-a06b-1efde29b3f39",
-      "a226d5c3-7ad1-42da-a19e-6a6ec5205f6f"
+      "442509d9-d48e-475e-a06b-1efde29b3f39"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:37:37Z"
@@ -4900,25 +4408,6 @@
     "lastCheckedAt": "2026-11-06T07:04:33Z"
   },
   {
-    "id": "aws_53e0280fcd2a3dda7208",
-    "stationId": "awb_6d977ee25e95160f4ec4",
-    "name": "A.i.R - Hip Hop, Rap, Trap & Grime",
-    "country": "AU",
-    "url": "https://radio.autismo.biz/all",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23ab5c1d-f651-4387-a284-731ff456ca04"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
-  },
-  {
     "id": "aws_c8b65f47f4f1c96734f2",
     "stationId": "awb_ab0ef8dd2ca134833058",
     "name": "A.i.R Station",
@@ -4970,11 +4459,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a6c9c48c-ec92-4831-896a-c5cb29bf5551",
-      "c7eec0a0-2f81-4ffa-ab74-d5a4f1f1b5db"
+      "a6c9c48c-ec92-4831-896a-c5cb29bf5551"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
+    "lastCheckedAt": "2026-11-06T11:36:35Z"
   },
   {
     "id": "aws_8922bebdd2d11172136c",
@@ -5807,7 +5295,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5822f0c8-178e-11e8-ae97-52543be04c81",
       "d873afb3-277f-4d42-9b36-ced320409734"
     ],
     "lastCheckOk": true,
@@ -5890,25 +5377,6 @@
     "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
-    "id": "aws_c87c345b9ca12e753f0e",
-    "stationId": "awb_5c8ca26e7955760d5b04",
-    "name": "ABC NewsRadio MP3",
-    "country": "AU",
-    "url": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9615d27a-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:09:07Z"
-  },
-  {
     "id": "aws_67ffb77762db78152bd0",
     "stationId": "awb_1b09c582d330127dd6b3",
     "name": "ABC North Coast",
@@ -5985,25 +5453,6 @@
     "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
-    "id": "aws_42c1ee886127b8ac42e5",
-    "stationId": "awb_2b033bf0751494302394",
-    "name": "ABC Radio Australia",
-    "country": "AU",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
-    "codec": "aac",
-    "bitrate": 115,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a9c5e895-0b34-4f17-9147-2b9b9747a124"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:56:15Z"
-  },
-  {
     "id": "aws_f83bcc5947d151ee9add",
     "stationId": "awb_983208754a31e205b9bb",
     "name": "ABC Radio Australia 20220701",
@@ -6078,25 +5527,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:49:18Z"
-  },
-  {
-    "id": "aws_8f257376501cccb96941",
-    "stationId": "awb_44411bef172bfb7772a9",
-    "name": "ABC Radio Brisbane",
-    "country": "AU",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8",
-    "codec": "aac",
-    "bitrate": 115,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eef0bb13-3c86-4ff9-9f7e-2a0610f09d1b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
   },
   {
     "id": "aws_56ea2e61b6ffc0ae23cc",
@@ -6435,8 +5865,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e09be200-3702-4fb4-bc96-edf8a11a9b38",
-      "e85c06f5-4adc-48a7-a9d7-87b2a91de9be"
+      "e09be200-3702-4fb4-bc96-edf8a11a9b38"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:51:38Z"
@@ -6725,25 +6154,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:40:01Z"
-  },
-  {
-    "id": "aws_7061970113d1509d3183",
-    "stationId": "awb_b60922f5138d66872e8d",
-    "name": "ABC Radio National Live 20220701",
-    "country": "AU",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8",
-    "codec": "aac",
-    "bitrate": 115,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49cedc35-151f-4ec7-86f8-5486224497c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:04:00Z"
   },
   {
     "id": "aws_51f798e92dd8de24d67b",
@@ -7204,25 +6614,6 @@
     "lastCheckedAt": "2026-11-06T03:55:20Z"
   },
   {
-    "id": "aws_b496454a64269afbca9a",
-    "stationId": "awb_dda482b7976aeb1e72a0",
-    "name": "ABC Radio Sydney",
-    "country": "AU",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
-    "codec": "aac",
-    "bitrate": 115,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fe852cc8-1a27-4dcd-8465-917ec32d8b64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:12:30Z"
-  },
-  {
     "id": "aws_67bbe98a8507fb721112",
     "stationId": "awb_ad629396f9a3ef842cb2",
     "name": "ABC Radio Tropical North",
@@ -7658,11 +7049,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1372b707-627f-442b-aafe-50cb24a3744a",
-      "868ad6c2-1cfa-44ba-98c4-c8c3e31da511"
+      "1372b707-627f-442b-aafe-50cb24a3744a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:22Z"
+    "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
     "id": "aws_76d9dd228dbd84cf494c",
@@ -7678,8 +7068,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2c315e40-2e19-44d3-80d5-2e94e8bc8e01",
-      "ffa057aa-1bc3-4b5b-8396-9ea56822f549"
+      "2c315e40-2e19-44d3-80d5-2e94e8bc8e01"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:04:41Z"
@@ -7736,11 +7125,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9b706daa-14fb-4db6-9a0b-d0a140a211ed",
       "a9c9f532-408e-4d42-b9b3-c2c375bc6151"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:35:39Z"
+    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_5f6652d0e6819b2bafa0",
@@ -7777,11 +7165,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7ca5d959-37f3-42a6-837c-ac779208be15",
-      "cdbe0a98-ed37-4cc3-9ae3-81fce91ddca3"
+      "7ca5d959-37f3-42a6-837c-ac779208be15"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-11-06T12:29:46Z"
   },
   {
     "id": "aws_dd2155fe623d18a6ddc8",
@@ -7797,11 +7184,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5e775fc6-6ade-4cc7-942f-dc9129b60515",
-      "ee2ae716-5f15-4890-b687-fee4d2727df3"
+      "5e775fc6-6ade-4cc7-942f-dc9129b60515"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
+    "lastCheckedAt": "2026-11-06T04:51:03Z"
   },
   {
     "id": "aws_173b0881356e023f1f72",
@@ -7855,8 +7241,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4c85828d-f0dd-4b35-9fd4-0d11f060e181",
-      "57615a7f-0363-4378-bdc4-0af49962d52a"
+      "4c85828d-f0dd-4b35-9fd4-0d11f060e181"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
@@ -7919,25 +7304,6 @@
     "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
-    "id": "aws_5eea0b7ce168f98b6cb8",
-    "stationId": "awb_fee21b2964021516ff49",
-    "name": "All Time Hits Radio Party - Melbourne (MP3)",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/mkc0e9ymnchvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "45ba2bed-0f35-4b87-9b0e-f57e3eb94389"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
-  },
-  {
     "id": "aws_0b7f87db44ed9b0bf31a",
     "stationId": "awb_7509270ef59ea424b422",
     "name": "All Time Hits Radio Worship - Melbourne (MP3)",
@@ -7951,11 +7317,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "ac0c2151-b01e-48b4-9c6c-3858a2c99c04",
       "b8ff1973-32e4-4047-a16d-b00506c35507"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:32:34Z"
+    "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
     "id": "aws_f8b1d9c6b0afa0c54d9d",
@@ -8034,25 +7399,6 @@
     "lastCheckedAt": "2026-11-06T22:00:57Z"
   },
   {
-    "id": "aws_59286dd5253a06cd90fd",
-    "stationId": "awb_6b8d11602039a149aac6",
-    "name": "Anthony Borghesi",
-    "country": "AU",
-    "url": "http://abc.streamguys1.com/live/localhobart/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fd4b1e6c-ce45-4201-ba08-820079321972"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:33:02Z"
-  },
-  {
     "id": "aws_2be0bac333015d7befd5",
     "stationId": "awb_9bdce481e0ad40a04845",
     "name": "Apple - Bacchus Marsh - 98.5 FM (MP3)",
@@ -8070,25 +7416,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
-    "id": "aws_5d5f497eb56c7d30ec21",
-    "stationId": "awb_b9b7f5007e85f0a9da61",
-    "name": "Apple 98.5 FM Bacchus Marsh",
-    "country": "AU",
-    "url": "http://s23.myradiostream.com:13240/;",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2dc8495a-b4fc-4ef1-9ff1-4aeead816617"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:29:34Z"
   },
   {
     "id": "aws_97a98c4049a09b0a7966",
@@ -8168,7 +7495,7 @@
       "AU:asp-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:30:50Z"
+    "lastCheckedAt": "2026-11-06T20:22:05Z"
   },
   {
     "id": "aws_9a11e1048061ae8c2ece",
@@ -8203,11 +7530,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4a6c53dc-71e3-45a7-8b60-341ffd27c3c6",
-      "ee2889a2-35c4-4a1e-8fc7-6d7f39eec626"
+      "4a6c53dc-71e3-45a7-8b60-341ffd27c3c6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:19:31Z"
+    "lastCheckedAt": "2026-11-06T05:01:53Z"
   },
   {
     "id": "aws_2e47ceb13aeed13784b3",
@@ -10072,25 +9398,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:19:33Z"
-  },
-  {
-    "id": "aws_7c441a69c93fad0eb25f",
-    "stationId": "awb_3dc67a624d7e1a4f90d8",
-    "name": "Australian Digital Radio Network - Country (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER140",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b0c170c7-28ca-4930-bd71-c2edc2f2e0ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:51:28Z"
   },
   {
     "id": "aws_95d28e86fd19c843bee1",
@@ -12886,25 +12193,6 @@
     "lastCheckedAt": "2026-11-06T20:23:43Z"
   },
   {
-    "id": "aws_aa100d8ca94d8ab12ba7",
-    "stationId": "awb_1abe2a69edd0d0def257",
-    "name": "Australian Digital Radio Network - Old Time Radio Channel 1 - Crime, Detective (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER2",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e5cb1a01-c9bd-48cf-a8e4-d55fa16b8020"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
-  },
-  {
     "id": "aws_d37a4fa34e0037015f17",
     "stationId": "awb_a0c3b0c49ca8a398fce3",
     "name": "Australian Digital Radio Network - Old Time Radio Channel 2 - Drama, Thriller (MP3)",
@@ -12922,25 +12210,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:12:27Z"
-  },
-  {
-    "id": "aws_3f97e9861722f36e29d5",
-    "stationId": "awb_461e070e743e325e9bc1",
-    "name": "Australian Digital Radio Network - Old Time Radio Channel 3 - Non Fiction, Comedy, Western, History (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER4",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "81801e2b-f650-4c2f-ab29-184450bfe0ef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
   },
   {
     "id": "aws_b71051759f7d6a717ba4",
@@ -12981,25 +12250,6 @@
     "lastCheckedAt": "2026-11-05T23:10:31Z"
   },
   {
-    "id": "aws_2cc7c916234941f5054d",
-    "stationId": "awb_736e80faec21a1fa59fb",
-    "name": "Australian Digital Radio Network - Only Mozart (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER10",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a9da9e3b-be92-4352-b88f-6738c6ff36b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
-  },
-  {
     "id": "aws_6ad7e7ec0d72f777baf4",
     "stationId": "awb_e40ba85ddda8dda8c1d1",
     "name": "Australian Digital Radio Network - Opera (MP3)",
@@ -13036,25 +12286,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:56:23Z"
-  },
-  {
-    "id": "aws_17ed988087ce6e1bc153",
-    "stationId": "awb_11cd1bab82af984bd40a",
-    "name": "Australian Digital Radio Network - Party Mix 1 (MP3)",
-    "country": "AU",
-    "url": "http://abm22.com.au:8000/CONTAINER52",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "57985c7e-b85a-4fe0-8dec-1d6e82b412b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
   },
   {
     "id": "aws_27dd878ee19d704fb041",
@@ -13131,25 +12362,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:56:54Z"
-  },
-  {
-    "id": "aws_de8174ae18e23b4a9122",
-    "stationId": "awb_1c890ee93a19007032a6",
-    "name": "Australian Digital Radio Network - Pop (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER29",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f0577992-3c7b-4245-b447-bbaf8dcb0bbd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_952e6d5e6c31b1fafeee",
@@ -13473,25 +12685,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:05:19Z"
-  },
-  {
-    "id": "aws_480ee1ce4f02186d6bf5",
-    "stationId": "awb_a23ee564e943b6e90757",
-    "name": "Australian Digital Radio Network - Pop Master Mix (MP3)",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER29",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "459a6c13-6cff-45aa-a799-28c2cdbec339"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:31:02Z"
   },
   {
     "id": "aws_6e4e41dcc9a3d7455c27",
@@ -15885,25 +15078,6 @@
     "lastCheckedAt": "2026-11-06T23:03:32Z"
   },
   {
-    "id": "aws_adb40020ce53d11ddc10",
-    "stationId": "awb_c0b3fc6509a43dee63a5",
-    "name": "Chilli FM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_CHILLI.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "617cdb9a-2aa8-4238-b019-b73c096c8766"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:02:58Z"
-  },
-  {
     "id": "aws_22977e7ad74a9f63f731",
     "stationId": "awb_3d7cf3079a11d6ebd88b",
     "name": "Chilli FM - Launceston - 90.1 FM (AAC)",
@@ -16075,25 +15249,6 @@
     "lastCheckedAt": "2026-11-06T07:47:35Z"
   },
   {
-    "id": "aws_ac098d808c83c432e6cf",
-    "stationId": "awb_b4030d9197ed019f4502",
-    "name": "Classic Radio NSW - 1900s to 1950s",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/wbb1hramzd0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f2c7e54-37c8-4d01-8e6b-9672962ff3a7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:42:13Z"
-  },
-  {
     "id": "aws_83760f11b72dc24c52ec",
     "stationId": "awb_b7f011df084be2bf0682",
     "name": "Classic Radio NSW - 1900s to 1950s (MP3)",
@@ -16111,25 +15266,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:47:16Z"
-  },
-  {
-    "id": "aws_fcb3db07db206d9e8ea3",
-    "stationId": "awb_1524d00c61934dbf0dd9",
-    "name": "Classic Radio NSW (MP3)",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/gtevhb0m5f0uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "88baabe8-7c90-4d51-9212-3d803ce423b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:36:57Z"
   },
   {
     "id": "aws_b7434597b075838a5a5e",
@@ -16202,30 +15338,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "226c97ce-d088-4242-b354-27b4122951ae",
-      "f3c6cae3-5f81-4e7c-bb5f-2f1bd4fbca7e"
+      "6c57e7dc-3f30-4791-91de-5e4f6632af1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:38:32Z"
-  },
-  {
-    "id": "aws_9c6b3559a82f982ce39a",
-    "stationId": "awb_e87fd7a8a000a14a5137",
-    "name": "CMS RADIO",
-    "country": "AU",
-    "url": "https://c13.radioboss.fm:18190/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8281de8e-8772-472e-aad2-9a744a4ecefd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:53:27Z"
+    "lastCheckedAt": "2026-11-06T18:29:34Z"
   },
   {
     "id": "aws_c4bf64e55916f5d11743",
@@ -16342,25 +15458,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:47:49Z"
-  },
-  {
-    "id": "aws_2f394908fabca5e35d63",
-    "stationId": "awb_0de5aee8f2de52c7cdc2",
-    "name": "Coast FM Adelaide - 88.7 FM",
-    "country": "AU",
-    "url": "http://streaming1.coastfm.com.au:8000/broadwavehigh.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0b78bf82-f473-420a-8456-855678c3cf46"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
   },
   {
     "id": "aws_fa465a488e13a8ec84fa",
@@ -16912,7 +16009,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1231a0a3-b72a-4297-aa18-8c82b1d0f51f",
       "96014199-3465-4d0c-8e60-a2e58e32f7f4"
     ],
     "lastCheckOk": true,
@@ -17014,25 +16110,6 @@
     "lastCheckedAt": "2026-11-06T19:54:58Z"
   },
   {
-    "id": "aws_4cf32be42231a495cb04",
-    "stationId": "awb_5b1b99d79695b383b331",
-    "name": "DooshFM",
-    "country": "AU",
-    "url": "https://a9.asurahosting.com:7050/stream",
-    "codec": "aac+",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ce24066c-1f88-4d10-bd93-c2191e3572d3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
-  },
-  {
     "id": "aws_116b1a161734a2ef2417",
     "stationId": "awb_e7132244903268c4013a",
     "name": "Double J",
@@ -17126,25 +16203,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:43:10Z"
-  },
-  {
-    "id": "aws_6fe9c25a8a30d562c26a",
-    "stationId": "awb_d4fc1b152a4cd1ecb7f8",
-    "name": "drama, thriller Australian Digital Radio Network Old Time Radio Channel 2",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ea827e0-5ee5-4331-944b-fe21faa1e1ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:55Z"
   },
   {
     "id": "aws_c5f18d09d40c680dac0e",
@@ -17379,26 +16437,6 @@
     "lastCheckedAt": "2026-11-05T11:08:37Z"
   },
   {
-    "id": "aws_db4ea7374855df033742",
-    "stationId": "awb_85c59cedbf1c42e0499e",
-    "name": "FBi Radio",
-    "country": "AU",
-    "url": "https://streamer.fbiradio.com/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6c5babb6-2c8d-44dc-82fe-74ab38c87edf",
-      "bef9d309-5eee-486a-a954-f524220b6aee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
-  },
-  {
     "id": "aws_261d1bf0c517cf285cba",
     "stationId": "awb_08450de8b563a5553eba",
     "name": "FBi Radio - Sydney - 94.5 FM (MP3)",
@@ -17431,30 +16469,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0873183a-b155-40db-9982-64547241c5d6",
       "fcbf4a98-47d7-40ee-a9b3-ade6d87b70b0"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:54:15Z"
-  },
-  {
-    "id": "aws_1dac73ee13b63ed2683c",
-    "stationId": "awb_9e477f505a01d6133c79",
-    "name": "films, horror, sci fi, adventure Australian Digital Radio Network Old Time Radio Channel 4",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER5",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7bec7089-6f46-4b8a-80b3-db436a311b93"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:37:36Z"
   },
   {
     "id": "aws_2e89c3ff49bba0e76edc",
@@ -17919,25 +16937,6 @@
     "lastCheckedAt": "2026-11-06T02:50:26Z"
   },
   {
-    "id": "aws_f627040c0a53e22c2a5f",
-    "stationId": "awb_1f70d91f65607b4f77c8",
-    "name": "Fresh 92.7 (192kbps)",
-    "country": "AU",
-    "url": "https://live.fresh927.com.au/freshmp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "33c742b0-2567-4723-a4e4-26d5ab3549db"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:43Z"
-  },
-  {
     "id": "aws_4903760b24c4f06433db",
     "stationId": "awb_aaa1c68b3b3ed530e602",
     "name": "Fresh FM 87.6 - Woolgoolga - 87.6 FM (MP3)",
@@ -18019,20 +17018,18 @@
     "name": "FSJ Radio - XRN Australia",
     "country": "AU",
     "url": "https://us01.xrn.com.au/listen/fsj/FsjSd",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4f7ee84f-4f8a-437f-8751-d16e42cd9ab2",
       "AU:fsj-radio-xrn-australia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f85fe02c3f338b627ef7",
@@ -18170,25 +17167,6 @@
     "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
-    "id": "aws_2d210409ebc9cba5b839",
-    "stationId": "awb_09f0bd600df9d9191b12",
-    "name": "Gin Gin's Own 104.9",
-    "country": "AU",
-    "url": "https://ginginsown1049.out.airtime.pro/ginginsown1049_a",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d3a64dc6-b2a6-4d49-af60-24a497b3f4ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
-  },
-  {
     "id": "aws_8664214fba5e069135b8",
     "stationId": "awb_7aab814463bf7286f34b",
     "name": "Gippsland FM - Morwell - 104.7 FM (AAC+)",
@@ -18297,11 +17275,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "aa4ece30-29eb-4f39-beb8-1d86110b1312",
-      "ecfff2c4-aed7-438a-a15a-2cbab53b8b37"
+      "aa4ece30-29eb-4f39-beb8-1d86110b1312"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
+    "lastCheckedAt": "2026-11-06T03:32:21Z"
   },
   {
     "id": "aws_bb6229f310cad98f5341",
@@ -18340,44 +17317,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:15:05Z"
-  },
-  {
-    "id": "aws_1fcd07c8757080ba060e",
-    "stationId": "awb_2c0ed8fe7e1f80456597",
-    "name": "GOLD 101.7 (80s) - Sydney (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cf107e3d-780a-4a12-a55b-851afd667508"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:33:02Z"
-  },
-  {
-    "id": "aws_48a06364e2754b18b191",
-    "stationId": "awb_0b0f6d7e9baf1884f8fc",
-    "name": "GOLD 101.7 (80s) - Sydney (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "25774fe4-fce4-4cb7-914a-9098fb430aea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
   },
   {
     "id": "aws_eae9884d584cc7cb74eb",
@@ -18458,25 +17397,6 @@
     "lastCheckedAt": "2026-11-06T14:17:28Z"
   },
   {
-    "id": "aws_69759008b84d7b8a7678",
-    "stationId": "awb_f807b4ef12bf0de588f7",
-    "name": "GOLD 104.3 (80s) - Melbourne (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d9edac7-6aa8-41f8-8bae-af672902ac22"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:02:16Z"
-  },
-  {
     "id": "aws_2bc725abb1db84d85a07",
     "stationId": "awb_20b5a28830b51b93d6d3",
     "name": "GOLD 104.3 (80s) - Melbourne (MP3)",
@@ -18494,25 +17414,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:15:53Z"
-  },
-  {
-    "id": "aws_b4087b809df36c7f866b",
-    "stationId": "awb_4e9fb35cc14809bc950c",
-    "name": "Gold Central Victoria",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BEN_GOLDAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c951bc2-622c-4c19-b239-abeebd3256bd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:57:28Z"
   },
   {
     "id": "aws_72fd47321adbb4ecbc99",
@@ -18590,7 +17491,7 @@
       "AU:golden-days-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
+    "lastCheckedAt": "2026-11-06T11:46:09Z"
   },
   {
     "id": "aws_5aba5dcdd8f5d65e820f",
@@ -18726,25 +17627,6 @@
     "lastCheckedAt": "2026-11-06T00:12:43Z"
   },
   {
-    "id": "aws_9c4c98eb88cdb4d053c9",
-    "stationId": "awb_1371d835517c85f2768d",
-    "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GLAAAC.aac",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51469689-d579-4bf5-9a77-78af01e36a17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:43:13Z"
-  },
-  {
     "id": "aws_313103873234db27aa2d",
     "stationId": "awb_307df7ef6681f5f0dae4",
     "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (MP3)",
@@ -18762,25 +17644,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:37:04Z"
-  },
-  {
-    "id": "aws_a5def54c856d82ce9904",
-    "stationId": "awb_5c34430ba76ac26aefb2",
-    "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GLA.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e4f63aac-c5c1-4c62-a733-421d012ecb38"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:15:36Z"
   },
   {
     "id": "aws_d97ccdb40f511b04d3d0",
@@ -18840,44 +17703,6 @@
     "lastCheckedAt": "2026-11-06T21:37:29Z"
   },
   {
-    "id": "aws_a6dd53ae325b8eff4eba",
-    "stationId": "awb_4e745736a1410f88b7d3",
-    "name": "Guy Glenwood Sydney",
-    "country": "AU",
-    "url": "http://radio2.sikhnet.com:8047/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b29239e-051a-4e07-ba79-b0658e505a7f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:58Z"
-  },
-  {
-    "id": "aws_9af9768bfa8ccc5915e1",
-    "stationId": "awb_3908cae41e8e80fbf303",
-    "name": "Gympie's Positive 91FIVE - Gympie - 91.5 FM (AAC+)",
-    "country": "AU",
-    "url": "http://s2.stationplaylist.com:7082/listen.aac",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "21409826-c463-4d25-8f30-aaffdbb4b43a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:56Z"
-  },
-  {
     "id": "aws_80a8a83ed69633ed9242",
     "stationId": "awb_f84ed2a9ac3b49cd1246",
     "name": "Happy Radio",
@@ -18891,7 +17716,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "998bdac9-324e-451c-a57d-2670cfe815ac",
       "eee408cd-7d2d-45bd-a20c-3467c6c88202"
     ],
     "lastCheckOk": true,
@@ -18949,11 +17773,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "e87e7515-f645-4b2b-a1ff-2d6368ccc94c",
-      "f5cf0293-002c-4df7-9520-5abb1f0d1edf"
+      "e87e7515-f645-4b2b-a1ff-2d6368ccc94c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:54:07Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_27e75cdf5f24de6000d3",
@@ -19186,25 +18009,6 @@
     "lastCheckedAt": "2026-11-06T17:58:04Z"
   },
   {
-    "id": "aws_5ccbeb084527e36851cd",
-    "stationId": "awb_89598b3f7e0ecf7e729a",
-    "name": "Hit104.7 Canberra - 104.7 FM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f83adb39-7daf-44dc-ad88-33779ac39b97"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:24:20Z"
-  },
-  {
     "id": "aws_1f0a68174ae2fe021ba9",
     "stationId": "awb_b90ad3f3f34832d85318",
     "name": "Hit104.7 Canberra - 104.7 FM (AAC)",
@@ -19218,8 +18022,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "23bf7550-fd77-4f42-9a20-77137951b4f4",
-      "e89c13cc-fae5-4efc-bd24-da9cf64e7541"
+      "23bf7550-fd77-4f42-9a20-77137951b4f4"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
@@ -19279,7 +18082,7 @@
       "c39c4033-487a-4f89-9d41-bbb0fde522e8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_97e245bd1913385219df",
@@ -19299,25 +18102,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T00:25:13Z"
-  },
-  {
-    "id": "aws_a75b2bcd4a9cef6bb8ad",
-    "stationId": "awb_f9e87449cb6295d3c260",
-    "name": "Hot 100 - Darwin - 100.1 FM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "499abb39-c338-45f1-ba39-b0890a58df73"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
     "id": "aws_03de2f2c9a238bb8960c",
@@ -19533,25 +18317,6 @@
     "lastCheckedAt": "2026-11-06T09:36:04Z"
   },
   {
-    "id": "aws_a9447f5fc425aedee1e9",
-    "stationId": "awb_60956124592c745f690d",
-    "name": "iHeartAustralia (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT3.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "034aab31-43f2-41ca-b09c-ec23c8a57ffd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:29:45Z"
-  },
-  {
     "id": "aws_42de01d80ad1d496177c",
     "stationId": "awb_d8edd2391178eb6e231b",
     "name": "iHeartCountry Australia (AAC)",
@@ -19588,45 +18353,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:44:59Z"
-  },
-  {
-    "id": "aws_fca587a94135817d4bd6",
-    "stationId": "awb_df961a1ff7a8d5815a5d",
-    "name": "iHeartDance Australia (AAC)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c3457e20-c5fb-4201-bc09-49d7f3745f36"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:11Z"
-  },
-  {
-    "id": "aws_de0680bceda8bb122155",
-    "stationId": "awb_069425192fda6cb371ab",
-    "name": "iHeartDance Australia (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b121079b-a8d6-4967-8280-b761981124d1",
-      "f21e2ef0-536a-40f6-b10b-d765627e9fee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:47:17Z"
   },
   {
     "id": "aws_7843ff77f491e5d1fb55",
@@ -19821,25 +18547,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:21:16Z"
-  },
-  {
-    "id": "aws_c882c4bdf5b56ed07a0e",
-    "stationId": "awb_232ae2464492cd647b1e",
-    "name": "JOY 94.9",
-    "country": "AU",
-    "url": "https://stream.joy.org.au/proxy/joy949?mp=/live",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "24593ecf-273b-45e7-9a19-e929dceba9fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:22:08Z"
   },
   {
     "id": "aws_409a4adf2425012fb5fe",
@@ -20076,44 +18783,6 @@
     "lastCheckedAt": "2026-11-05T22:12:20Z"
   },
   {
-    "id": "aws_0f198d83ac41943d0d54",
-    "stationId": "awb_ecbced28f8e895950134",
-    "name": "KIIS 101.1 (90s) - Melbourne (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9c17c86a-a3a8-4ee7-b325-dca60d789429"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:50:59Z"
-  },
-  {
-    "id": "aws_11450f69975639654544",
-    "stationId": "awb_77ddd5f87f57f078df53",
-    "name": "KIIS 101.1 (90s) - Melbourne (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2574108a-e8bf-4530-b8bc-c6f7b009f2fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:55:24Z"
-  },
-  {
     "id": "aws_a5e2c360238a5921f72f",
     "stationId": "awb_5a06cbeb145aa1fc412b",
     "name": "KIIS 1011 - Melbourne - 101.1 FM (AAC)",
@@ -20205,11 +18874,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4488f95b-00be-4c7c-814c-565cae7941c2",
       "77d4186b-f77b-46f1-bf36-011a0109ead1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
+    "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
     "id": "aws_dbc473c9315f9cffd8f0",
@@ -20229,25 +18897,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:36:57Z"
-  },
-  {
-    "id": "aws_54a7286578feff6d2a78",
-    "stationId": "awb_b4e8cd94d0b7ee853051",
-    "name": "KIIS 1065 (90s) - Sydney (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9fc0790e-7483-419e-b3ee-8a222b66a630"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:37:23Z"
   },
   {
     "id": "aws_4c9aec5ac492565676f1",
@@ -20286,25 +18935,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:08:32Z"
-  },
-  {
-    "id": "aws_f577c568993de91216c2",
-    "stationId": "awb_a891ac3f3d40bedad613",
-    "name": "KIIS Australia (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT3AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "749545cb-46d2-4258-9f6c-9a1675f9a2c2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_855f5feaba1d93dcdd12",
@@ -20746,25 +19376,6 @@
     "lastCheckedAt": "2026-11-06T01:22:59Z"
   },
   {
-    "id": "aws_fc62423ff0466e0c6729",
-    "stationId": "awb_f93610307dab5e12883b",
-    "name": "Lake Macquarie FM - Lake Macquarie - 97.3 FM (AAC+)",
-    "country": "AU",
-    "url": "http://lmfm.f1.net.au:10768/;",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "32415224-b452-4c16-9dac-436ad8db4f69"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:36:16Z"
-  },
-  {
     "id": "aws_06df34781844844a1343",
     "stationId": "awb_ddc7170f125b9d48b55f",
     "name": "Lake Macquarie FM 97.3",
@@ -21166,25 +19777,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:04:41Z"
-  },
-  {
-    "id": "aws_63d2773b475fd7d5e60b",
-    "stationId": "awb_4047e1582da56f9abce8",
-    "name": "LiSTNR - Backyard BBQ (HLS)",
-    "country": "AU",
-    "url": "http://wz0liw.scahw.com.au/live/backyard-bbq.stream/playlist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c518a3b-44c6-44e1-862f-16e2e4742269"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
     "id": "aws_8bb7589df723de1ef5a4",
@@ -23431,25 +22023,6 @@
     "lastCheckedAt": "2026-11-06T01:40:01Z"
   },
   {
-    "id": "aws_5f90f1bdf7fbb12fe102",
-    "stationId": "awb_d5b8005c0e261fee2464",
-    "name": "Main FM Castlemaine",
-    "country": "AU",
-    "url": "http://s1.communitybroadcastnetwork.com.au:8000/MAINFM/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ee158645-d03a-4b4a-8234-b603ce1b6a41"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:18:51Z"
-  },
-  {
     "id": "aws_038405eb665fab293b22",
     "stationId": "awb_be9f7bae64a060234c11",
     "name": "MAINfm",
@@ -23467,25 +22040,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:33:07Z"
-  },
-  {
-    "id": "aws_7457c4a2c20bc7610ac3",
-    "stationId": "awb_427be6e3f4408a49f390",
-    "name": "MainFM - Castlemaine - 94.9 FM (MP3)",
-    "country": "AU",
-    "url": "http://s1.communitybroadcastnetwork.com.au:8000/MAINFM/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "70e68668-3d85-45a3-ad5b-5ebb21e0bb83"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
   },
   {
     "id": "aws_5db4167d6a7bf45d4354",
@@ -23627,26 +22181,6 @@
     "lastCheckedAt": "2026-11-04T23:40:03Z"
   },
   {
-    "id": "aws_3861fb8f3a70613c00c5",
-    "stationId": "awb_0afca40662ced9a635f1",
-    "name": "Midnight Oil",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER176",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3734ea48-2ef8-434e-a3d0-b30430e41bcc",
-      "7656f0a9-b654-43fd-8700-0e10e48e60fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:16Z"
-  },
-  {
     "id": "aws_338af9edbce1af20f5d5",
     "stationId": "awb_b61b18279af3be7f173e",
     "name": "MITE Radio",
@@ -23736,11 +22270,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4169bfa9-c41c-4d5e-9510-ef371f23a8c7",
-      "5dd13bbf-e073-4034-944b-07d5e7f9c593"
+      "f8d1dde6-5a48-48cc-95fe-2b328f891bea"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
+    "lastCheckedAt": "2026-11-06T08:56:54Z"
   },
   {
     "id": "aws_3da9e29dc36f448a29d2",
@@ -23756,51 +22289,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "12fcf0e2-b59c-4a06-b48e-5fdfb4555d45",
-      "28a37783-ee38-4037-bffd-f6a8477a9b25"
+      "abf200e9-56c8-442e-b349-dc4aecddccfa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
-  },
-  {
-    "id": "aws_dfab53e7bf4c06a3cc59",
-    "stationId": "awb_fb056d70bc548df888ff",
-    "name": "Mix 106.3 - Canberra - 106.3 FM (AAC)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b40fc816-4601-42c0-a980-cd3e25d66c66",
-      "d7078dd5-8522-4d5c-92d3-463d82b65cd8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:29:06Z"
-  },
-  {
-    "id": "aws_1979c5baf22793b5e27b",
-    "stationId": "awb_0419a3c8b834be83ce57",
-    "name": "Mix 106.3 - Canberra - 106.3 FM (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "365a7cfd-a737-4fac-afa5-a4e5e8d12900",
-      "d6ac8646-f003-4fde-922c-90bea9d6f008"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:38:16Z"
+    "lastCheckedAt": "2026-11-06T04:28:35Z"
   },
   {
     "id": "aws_444c728ac484aeae0c23",
@@ -23822,9 +22314,28 @@
     "lastCheckedAt": "2026-11-07T00:55:09Z"
   },
   {
-    "id": "aws_67745716884f9c367fd5",
-    "stationId": "awb_9b1e5e4186fddc874b0e",
-    "name": "Mix 106.3 Canberra - 106.3 FM",
+    "id": "aws_dfab53e7bf4c06a3cc59",
+    "stationId": "awb_fb056d70bc548df888ff",
+    "name": "Mix 106.3 Canberra - 106.3 FM (AAC)",
+    "country": "AU",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063AAC.aac",
+    "codec": "aac+",
+    "bitrate": 48,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d7078dd5-8522-4d5c-92d3-463d82b65cd8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-06T16:29:06Z"
+  },
+  {
+    "id": "aws_1979c5baf22793b5e27b",
+    "stationId": "awb_0419a3c8b834be83ce57",
+    "name": "Mix 106.3 Canberra - 106.3 FM (MP3)",
     "country": "AU",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3",
     "codec": "mp3",
@@ -23835,10 +22346,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "341dc11d-6489-463d-8e38-283ddac75981"
+      "d6ac8646-f003-4fde-922c-90bea9d6f008"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:22:40Z"
+    "lastCheckedAt": "2026-11-06T14:31:57Z"
   },
   {
     "id": "aws_c02d046e722510aa59d6",
@@ -24081,15 +22592,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4ed5306f-d8b8-47ef-83d0-ce07ac019a8d",
       "AU:nightride-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2e9b3d77766eb7763836",
@@ -24320,8 +22829,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3f0c1a47-79c1-4645-b4be-59b7dbe29770",
-      "d0163262-151a-4d35-bcba-ee7624727c0f"
+      "3f0c1a47-79c1-4645-b4be-59b7dbe29770"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:09:32Z"
@@ -24922,25 +23430,6 @@
     "lastCheckedAt": "2026-11-06T00:48:58Z"
   },
   {
-    "id": "aws_9d940491dcc25fec2f87",
-    "stationId": "awb_ec26e8af93af199df72d",
-    "name": "Nova Fresh Country (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_POPUP1.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "03e9d631-36a0-49d1-afca-b3a98b668f72"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
     "id": "aws_2065764b51920c091b54",
     "stationId": "awb_bf976ee7ef22a781d9c4",
     "name": "Nova Jamz (AAC+ 128k)",
@@ -25239,8 +23728,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3090e29d-b866-4676-b506-b387191e8f99",
-      "6a54a68c-5853-41f7-96de-71f75993e40e"
+      "3090e29d-b866-4676-b506-b387191e8f99"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:16:59Z"
@@ -25305,25 +23793,6 @@
     "lastCheckedAt": "2026-11-06T06:07:47Z"
   },
   {
-    "id": "aws_0756fea46e8d44294094",
-    "stationId": "awb_dba5dcdc8d836ce0208c",
-    "name": "Only Mozart",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER10",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fc19b74a-8447-4dd2-bf07-ab3bffe06a2d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:50Z"
-  },
-  {
     "id": "aws_d793e3e5cdee3c1ce525",
     "stationId": "awb_72df4507bf86a274ac0b",
     "name": "Outback Radio 2WEB",
@@ -25380,7 +23849,7 @@
       "5da9e61c-add8-47d5-b648-3f4420fc4b60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_1b61cb12e796826f00f5",
@@ -25396,7 +23865,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3b88af6e-3585-4d33-b1a6-8349cedd0cf7",
       "82da11bc-03d8-4b18-b851-892d287a28cd"
     ],
     "lastCheckOk": true,
@@ -26000,26 +24468,6 @@
     "lastCheckedAt": "2026-11-06T04:38:27Z"
   },
   {
-    "id": "aws_d1bd16ae3232cbb2596d",
-    "stationId": "awb_b05f6341648553c61947",
-    "name": "QBN FM - 96.7 FM",
-    "country": "AU",
-    "url": "http://streaming.qbn967.com.au:8000/stream/",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "26111e1d-faa4-4463-8ab5-9d6edd52c74b",
-      "947b900d-e401-43da-bd8e-d8cbd93cacbd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:15:33Z"
-  },
-  {
     "id": "aws_8d5a08930cad07783b7c",
     "stationId": "awb_fe59259d4fefad1aa243",
     "name": "QBN FM - Queanbeyan - 96.7 FM",
@@ -26056,44 +24504,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
-    "id": "aws_4312c1fdc01967bea32e",
-    "stationId": "awb_db3366f7fdf8f4f95daf",
-    "name": "QFM by Queye",
-    "country": "AU",
-    "url": "https://stream.zeno.fm/wnbq9apyv14tv?an-uid=1741603114512061909&mm-uid=98c2665f-f368-4900-93b0-d427fd9777ee&dot-uid=0a98220400a951786d9e8802&triton-uid=cookie%3Aae35d476-584e-465b-ac85-898cc5e036d9&amb-uid=9042076293310527344&dbm-uid=CAESEEUSELk1rmCmdnxbYmAsIc4&cto-uid=9a8cd501-adcf-4a08-a60c-38259241445a-665ff379-5553&bsw-uid=49b8ee44-922b-41f4-96f4-02120aa6b5cd&dyn-uid=6107108616908101367&ttd-uid=3ec03d28-b1e8-4c90-ae88-97e66a9a7a11",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ee16098a-a147-4532-a2c2-de53461b294e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
-  },
-  {
-    "id": "aws_c02d597f141d2b199379",
-    "stationId": "awb_d0b877c72c9566a608f0",
-    "name": "QFM by Queye (MP3)",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/wnbq9apyv14tv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab9a4d55-6c30-482e-9b80-9440afc7f038"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:41:41Z"
   },
   {
     "id": "aws_435afb84bf675cab5ab8",
@@ -26329,20 +24739,18 @@
     "name": "Radio Adelaide 101.5",
     "country": "AU",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADEAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "28c83847-fa26-499a-b3a6-48f38c8a49bf",
       "AU:radio-adelaide-101-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7564d88d61a08bc78648",
@@ -26632,25 +25040,6 @@
     "lastCheckedAt": "2026-11-06T07:29:46Z"
   },
   {
-    "id": "aws_5e8ff88e70a9732cedbe",
-    "stationId": "awb_e20d0bb465456aa2c5a6",
-    "name": "Radio Mansfield",
-    "country": "AU",
-    "url": "https://c7.radioboss.fm:18291/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "95536c23-2e06-4771-9725-62afbc75a08b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:15:48Z"
-  },
-  {
     "id": "aws_403a9b79318fed1464cf",
     "stationId": "awb_ff7e7752cf45bfb098cf",
     "name": "Radio Mansfield - Mansfield / Tolmie / Woods Point - 99.7 FM / 88.7 FM / 90.1 FM (MP3)",
@@ -26748,25 +25137,6 @@
     "lastCheckedAt": "2026-11-06T19:45:08Z"
   },
   {
-    "id": "aws_743ba05d1da41503eefb",
-    "stationId": "awb_9ceb553942aae623537a",
-    "name": "Radio National WA",
-    "country": "AU",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038354/rnwa/index.m3u8",
-    "codec": "aac",
-    "bitrate": 115,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7555a8f-3b89-4f95-8112-44b66319cb11"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:12:02Z"
-  },
-  {
     "id": "aws_95def40c7c00de33874c",
     "stationId": "awb_9da405d5876775f6b72c",
     "name": "radio PCM 99% Total Schlager(Australia)",
@@ -26824,25 +25194,6 @@
     "lastCheckedAt": "2026-11-07T00:24:20Z"
   },
   {
-    "id": "aws_fc5964a3a4d999bb7b1f",
-    "stationId": "awb_b1b7d009ef1f14600cbb",
-    "name": "Radio Sydney - Blues and Soul",
-    "country": "AU",
-    "url": "http://abm21.com.au:8000/CONTAINER118",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "657bf3a6-077b-4239-9cef-22a2f9caebcf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
     "id": "aws_ad968a94666bed29f863",
     "stationId": "awb_a5ab1dfb28d4a2872651",
     "name": "Radio Trainwreck Live",
@@ -26860,25 +25211,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:05:32Z"
-  },
-  {
-    "id": "aws_e83966e5b2c8a8756323",
-    "stationId": "awb_0b84f1aaaacf5434f65f",
-    "name": "Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM",
-    "country": "AU",
-    "url": "http://stream.mjm-webhosting.com.au:8036/;",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7c7bf976-330c-4542-8672-c4e5cd2b0a58"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_ad657445216d527352e7",
@@ -26976,25 +25308,6 @@
     "lastCheckedAt": "2026-11-07T02:01:29Z"
   },
   {
-    "id": "aws_07b983229202274fc6d9",
-    "stationId": "awb_fbb136325c90df6a2bce",
-    "name": "RADIOTELESENTINEL",
-    "country": "AU",
-    "url": "https://us1.streamingpulse.com/stream/trinity3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c760f583-285b-4f8b-8b78-56f5f24f400e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:34:05Z"
-  },
-  {
     "id": "aws_578f244573241dbdbb31",
     "stationId": "awb_8d337b918a0de025f7c7",
     "name": "RAMfm - Goulburn - 103.3 FM (AAC+)",
@@ -27081,15 +25394,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4bbab618-32ac-4a2c-b48a-1b75663c648a",
       "AU:rebel-99-4-gold-coast"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:07:40Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_afa04726be813ab7f6ca",
@@ -27102,15 +25413,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "42391b1b-7bce-4b8f-9075-12558d6bd877",
       "AU:rebel-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:42:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_745758e72d57da85a714",
@@ -27130,44 +25439,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
-    "id": "aws_c8d7d190970c57d046d9",
-    "stationId": "awb_d5786242b395ef36b36a",
-    "name": "Rebel FM - Canungra - 93.7 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblGC",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8945df15-497e-45ca-9e15-75ebe0e4e0c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
-  },
-  {
-    "id": "aws_05b50ee0167d193510e7",
-    "stationId": "awb_fee1d5c4ca1deb61d119",
-    "name": "Rebel FM - Chinchilla - 97.1 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2a02084d-4f8d-46cf-a003-4f9e92661584"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "aws_49a2c3a2113e65f691bb",
@@ -27210,44 +25481,6 @@
     "lastCheckedAt": "2026-11-06T09:34:33Z"
   },
   {
-    "id": "aws_cc77ba353e6269b1c6fc",
-    "stationId": "awb_947f55007f70d403d52d",
-    "name": "Rebel FM - Goondiwindi - 96.3 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "14e6be06-90da-4800-ad2a-764a3d6905d1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
-    "id": "aws_c873aa3fdcba987a9e77",
-    "stationId": "awb_d159cb7207d26410b92a",
-    "name": "Rebel FM - Kooralbyn - 102.5 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblLgn",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2bd7c4f2-0c50-40de-b048-206211eb086d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
-  },
-  {
     "id": "aws_4828e46d07e0123feea3",
     "stationId": "awb_4b0ce4e73d18fa6b3762",
     "name": "Rebel FM - Logan - 90.5 FM (AAC)",
@@ -27284,44 +25517,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:58:53Z"
-  },
-  {
-    "id": "aws_ebe20f99ab07481b01c6",
-    "stationId": "awb_16c2dda74be46f2b411a",
-    "name": "Rebel FM - Stanthorpe - 97.1 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "88c5ac7c-dda5-4edf-828c-db018e7950a0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:09:40Z"
-  },
-  {
-    "id": "aws_d145814287213cca5ebd",
-    "stationId": "awb_812947955ba55c9e58af",
-    "name": "Rebel FM - Tenterfield - 93.7 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17099/RblDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51003f88-0831-49c3-92e8-920fd58e1e12"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:02:29Z"
   },
   {
     "id": "aws_adf07e03166ec40d163b",
@@ -27510,11 +25705,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "456c9160-b16b-4f63-b2ef-589dc334855f",
       "af133e8e-3068-427e-9268-c86f86aa819d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
+    "lastCheckedAt": "2026-11-06T00:12:43Z"
   },
   {
     "id": "aws_0cb1809ed7fb1739dd9a",
@@ -27840,25 +26034,6 @@
     "lastCheckedAt": "2026-11-06T13:40:51Z"
   },
   {
-    "id": "aws_a5983da6b1a04169df91",
-    "stationId": "awb_581bc9456e5c79bde529",
-    "name": "Rose City FM Warwick",
-    "country": "AU",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SDBAAC.aac",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b1a42ca-66ca-479f-ba7a-687679683bf1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:47:16Z"
-  },
-  {
     "id": "aws_acbdbd600c8636377d4c",
     "stationId": "awb_509cc28b3d014677ef6f",
     "name": "RPP FM",
@@ -28124,7 +26299,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0865e273-90cf-47fd-8edc-354b2fef32b6",
+      "52691bbc-72f0-4b1c-93f0-2a0fd13d9018",
       "AU:sawt-sydney"
     ],
     "lastCheckOk": true,
@@ -28298,11 +26473,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "39914ca6-90f3-46a1-8704-c89f463f90ce",
       "e4806048-d722-4f7e-8482-75792f5e8f4e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:21:41Z"
+    "lastCheckedAt": "2026-11-06T11:31:33Z"
   },
   {
     "id": "aws_d7e6c5c1fcfeb34b1a38",
@@ -29071,25 +27245,6 @@
     "lastCheckedAt": "2026-11-06T14:34:05Z"
   },
   {
-    "id": "aws_5e129ed0d2d6706ee318",
-    "stationId": "awb_a0f8fb956154f83c544e",
-    "name": "Smooth-Relax",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "db10a9b9-1efa-4e5f-a22f-c24666d0b1bf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:02:29Z"
-  },
-  {
     "id": "aws_7265b690b043aea3d90f",
     "stationId": "awb_24805b9e75fdad5f4ddc",
     "name": "Snow DAB+ - Canberra (AAC+)",
@@ -29299,25 +27454,6 @@
     "lastCheckedAt": "2026-11-06T22:04:41Z"
   },
   {
-    "id": "aws_d97995d5f2f56601dadf",
-    "stationId": "awb_b105e15b6cd4724c6beb",
-    "name": "Southern FM Melbourne Australia",
-    "country": "AU",
-    "url": "https://stream.swifthosting.com.au/;",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0ad344f3-b08d-4442-b0fe-a9eff4c3fe40"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
-  },
-  {
     "id": "aws_551ad274925e6580e656",
     "stationId": "awb_d553ba656ba585dd7670",
     "name": "Sparx Radio",
@@ -29491,25 +27627,6 @@
     "lastCheckedAt": "2026-11-06T23:19:36Z"
   },
   {
-    "id": "aws_557279d163557ad59c42",
-    "stationId": "awb_746df6c9dcac088132bd",
-    "name": "Star 104.5",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "03c8bf97-491e-443b-9fc3-a5f96acf1c64"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
-  },
-  {
     "id": "aws_bf0f6435b663335cb589",
     "stationId": "awb_cfe9c8f74028e1c25bed",
     "name": "Star 104.5 - Gosford - 104.5 FM (AAC 128k)",
@@ -29546,25 +27663,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:36:05Z"
-  },
-  {
-    "id": "aws_b7bfd0033731725a047f",
-    "stationId": "awb_e1b715ae835a2e612ef7",
-    "name": "Star 104.5 - Gosford - 104.5 FM (AAC 320k)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC320.aac",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "496d48c0-3a75-4306-9b71-736ec723ed6e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:22:40Z"
   },
   {
     "id": "aws_eca1eedc852936a2cbef",
@@ -29775,7 +27873,7 @@
       "AU:station-x-xrn-australia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:07:19Z"
+    "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
     "id": "aws_04243a17d4e297c75d8a",
@@ -30117,20 +28215,18 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1c3cc672-9a11-4b95-8f73-7f3d160560f3",
       "AU:systrum-sistum-ssr1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:24:12Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_dbd3cb77afd0cd4c3460",
     "stationId": "awb_13c606cc9be94072f902",
-    "name": "Systrum Sistum - SSR2",
+    "name": "Systrum Sistum (SSR2)",
     "country": "AU",
     "url": "https://systrum.net:8443/SSR2",
     "codec": "mp3",
@@ -30327,25 +28423,6 @@
     "lastCheckedAt": "2026-11-06T09:05:21Z"
   },
   {
-    "id": "aws_d1562d39672e066e1a53",
-    "stationId": "awb_46726e76c07cb403272d",
-    "name": "Ten FM - Tenderfield - 89.7 FM (AAC+)",
-    "country": "AU",
-    "url": "https://stream.tcom.net.au/2ten",
-    "codec": "aac+",
-    "bitrate": 80,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9e200b25-e1e3-4b70-a444-bec1e3cf05e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:39:25Z"
-  },
-  {
     "id": "aws_c956a4c4aea79d75a16f",
     "stationId": "awb_c891d08bf805b2c09308",
     "name": "Ten FM - Tenterfield - 89.7 FM (AAC+)",
@@ -30384,25 +28461,6 @@
     "lastCheckedAt": "2026-11-06T18:21:07Z"
   },
   {
-    "id": "aws_d5c4a7ff0d2c3f9119cd",
-    "stationId": "awb_0c9e0175d65bc817a888",
-    "name": "Territory FM Darwin",
-    "country": "AU",
-    "url": "https://streaming.territoryfm.com:8443/TerritoryFM",
-    "codec": "mp3",
-    "bitrate": 185,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "baba31a5-ff36-43fb-a86b-5ddca4229105"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:30:50Z"
-  },
-  {
     "id": "aws_c8536fe10429388e2cfa",
     "stationId": "awb_3f3928b0b8b767b14d1b",
     "name": "The 80s iHeartRadio Australia (AAC+)",
@@ -30420,44 +28478,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:24:24Z"
-  },
-  {
-    "id": "aws_26a763caa34a20ecf3ff",
-    "stationId": "awb_92bb4ab423e2d6f1d00e",
-    "name": "The 80s iHeartRadio Australia (MP3)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b762a0ce-1f90-472a-8fce-5cf9a07ed0fa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:52:06Z"
-  },
-  {
-    "id": "aws_416fedaf31ba639e7ab9",
-    "stationId": "awb_6270ce3c1a38f3ded9b8",
-    "name": "The 90s iHeartRadio Australia (AAC+)",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10AAC.aac",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f7da6ef0-5e07-4e01-b34e-e306d93863a4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
   },
   {
     "id": "aws_c1951ec006f8adaef814",
@@ -30489,15 +28509,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "32f65eaa-cd71-4d34-bbe5-7b9ac9152963",
       "AU:the-breez-102-5-wide-bay"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_546fc2320e36bc6f0063",
@@ -30519,25 +28537,6 @@
     "lastCheckedAt": "2026-11-06T13:42:28Z"
   },
   {
-    "id": "aws_92a97470f54596d60f57",
-    "stationId": "awb_90ad8b448e2eaf8e72c0",
-    "name": "The Breeze - Chinchilla - 95.5 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17065/BrzDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7152fbc5-e953-44cf-881d-b6107f4d1b4e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:36:11Z"
-  },
-  {
     "id": "aws_786105320fd488a52989",
     "stationId": "awb_29757576aac499181d94",
     "name": "The Breeze - Gloucester - 97.7 FM (AAC)",
@@ -30551,7 +28550,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a74282f-d93f-41f9-a9fa-b4cd7fb7d072",
       "848ee788-c7ef-446a-9e29-66c92e6df228"
     ],
     "lastCheckOk": true,
@@ -30568,34 +28566,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AU:the-breeze-gold-coast-100-6-fm-aac",
-      "b4056d58-bc8f-4705-bdf1-3cb40ce96d40"
+      "AU:the-breeze-gold-coast-100-6-fm-aac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:44:50Z"
-  },
-  {
-    "id": "aws_696553e71fab0bd10e35",
-    "stationId": "awb_493f7595e89396a2081b",
-    "name": "The Breeze - Goondiwindi - 98.7 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17065/BrzDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5c032f19-5b54-4683-a4ce-94ce60b685c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:32:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_68f8b03cca234a6c7274",
@@ -30615,63 +28592,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:46:09Z"
-  },
-  {
-    "id": "aws_4b170b91567862a568f8",
-    "stationId": "awb_b41ef25a3a2bb6704d09",
-    "name": "The Breeze - Logan - 92.1 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17065/BrzLgn",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a01f0ceb-caef-49e6-8a6a-8ab5a9d6761a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
-  },
-  {
-    "id": "aws_3f8c9d86c3871bd3da07",
-    "stationId": "awb_959c18969d794c85c15d",
-    "name": "The Breeze - Miles - 101.3 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17065/BrzDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e6980fa5-6dd7-41ab-81ec-43e1fd39bfee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:51Z"
-  },
-  {
-    "id": "aws_03051328b7d7d40081ed",
-    "stationId": "awb_921b3a8c4cca6d274270",
-    "name": "The Breeze - Stanthorpe - 90.1 FM (AAC)",
-    "country": "AU",
-    "url": "https://s8.yesstreaming.net:17065/BrzDD",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06a5d6d4-4502-4c1c-84bb-75b6a3858365"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:49:56Z"
   },
   {
     "id": "aws_490d838621d539f4540b",
@@ -30860,8 +28780,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "46c93011-b0ea-49e1-9075-2ac58fa70ce7",
-      "960b9025-0601-11e8-ae97-52543be04c81"
+      "46c93011-b0ea-49e1-9075-2ac58fa70ce7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:53:23Z"
@@ -30960,25 +28879,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:19:48Z"
-  },
-  {
-    "id": "aws_01dc85998c89da2a77e0",
-    "stationId": "awb_7bab2e927242b9c94901",
-    "name": "TOOWOOMBA'S 102.7 FM",
-    "country": "AU",
-    "url": "http://s7.voscast.com:10184/4DDBFM",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bdd1d9d1-795d-496e-91aa-c3bf4fb01af6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:41:28Z"
   },
   {
     "id": "aws_5419d350dc0b56b2e3f3",
@@ -31171,6 +29071,44 @@
     "lastCheckedAt": "2026-11-05T23:58:12Z"
   },
   {
+    "id": "aws_8389e9c9e6a82f0731ed",
+    "stationId": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio - Christmas",
+    "country": "AU",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TOTALLYXMAS_S01.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7646e2c8-42cc-4186-9aec-b56d37660e69"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
+    "id": "aws_a4b63fd05a87e6f4ca8c",
+    "stationId": "awb_3e82a5295a0004d788e4",
+    "name": "Totally Radio - Classical",
+    "country": "AU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOTALLY_RADIO_CLASSICAL_S01.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f4c96fa4-2f75-4576-944e-d0d734a83584"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
     "id": "aws_c7889b697dea5547e4c0",
     "stationId": "awb_d245e950761faf7d5f68",
     "name": "Totally Radio - Country (AAC)",
@@ -31361,6 +29299,25 @@
     "lastCheckedAt": "2026-11-06T23:15:26Z"
   },
   {
+    "id": "aws_736d915a4f731256489a",
+    "stationId": "awb_3c3ee782088a2aad88f1",
+    "name": "Totally Radio - Throwbacks",
+    "country": "AU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOTALLY_RADIO_THROWBACKS_S01.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f9a70426-137d-4f9c-a85e-2ec75009f95d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
+  },
+  {
     "id": "aws_0cb6e001c802a9dfdfbc",
     "stationId": "awb_530d11ecf179089023cf",
     "name": "Totally Radio (MP3)",
@@ -31374,11 +29331,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "438144c7-adef-4aa1-9420-2b523541d390",
-      "4fee4308-0df3-4093-a392-15e63bdf4faa"
+      "438144c7-adef-4aa1-9420-2b523541d390"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:53:11Z"
+    "lastCheckedAt": "2026-11-05T23:19:48Z"
   },
   {
     "id": "aws_96416830c6e4b74a2c54",
@@ -31394,11 +29350,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "73900a3e-f6a7-4dfb-9d97-0e385d81173d",
       "b4dfd71f-4809-419d-9b12-3a24a1d20f68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:05:18Z"
+    "lastCheckedAt": "2026-11-06T02:30:04Z"
   },
   {
     "id": "aws_16d56a85dd2417159ec3",
@@ -31433,30 +29388,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2e2ece70-aecf-4f43-9635-860d5230e712",
-      "91476dc9-ccfd-45d7-a1ac-156181b782a3"
+      "2e2ece70-aecf-4f43-9635-860d5230e712"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
-  },
-  {
-    "id": "aws_eceacdfca25808199f21",
-    "stationId": "awb_18e45bc780d10115ea1d",
-    "name": "Treasure Emporium Christmas Radio - Central Coast (MP3)",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/gker4h42c48uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c43feb7e-8b6d-4c15-b7f0-808b6b722382"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:37:13Z"
+    "lastCheckedAt": "2026-11-06T09:56:51Z"
   },
   {
     "id": "aws_d161a74ce6fd607a6dbb",
@@ -31588,30 +29523,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8d2fb38c-c7c7-4da0-b7b0-2ab06e248e33",
-      "bb5dd6e8-aa4e-4af6-a631-bceae91f7fd5"
+      "8d2fb38c-c7c7-4da0-b7b0-2ab06e248e33"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:29:54Z"
-  },
-  {
-    "id": "aws_8781476d35541792503c",
-    "stationId": "awb_b03548061eba838c65d8",
-    "name": "Triple A FM - Wagga Wagga - 107.1 FM (MP3)",
-    "country": "AU",
-    "url": "http://stream.tripleafm.com.au//",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dec2a953-3338-4ca2-b8eb-dc577c8dca98"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
     "id": "aws_8a32ce070a2ecab661ac",
@@ -32038,25 +29953,6 @@
     "lastCheckedAt": "2026-11-07T01:40:08Z"
   },
   {
-    "id": "aws_4651635df53f4b077d5b",
-    "stationId": "awb_7d30eeb34b21a0be5518",
-    "name": "triple t Townsville",
-    "country": "AU",
-    "url": "http://159.196.29.55:7000/TripleTFM",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e2564960-1863-4d26-ad6c-d68ae3b0b9ac"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:34:44Z"
-  },
-  {
     "id": "aws_bd333d909aab2626d188",
     "stationId": "awb_3ab1b17f7a835c77e711",
     "name": "Triple U - Shoalhaven Community Radio - Nowra - 104.5 FM (MP3)",
@@ -32070,7 +29966,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5942a903-e79b-47b0-abc0-0e131c122d63",
       "e805727e-7430-4b38-8091-7d8ebddb840f"
     ],
     "lastCheckOk": true,
@@ -32134,25 +30029,6 @@
     "lastCheckedAt": "2026-11-05T04:42:11Z"
   },
   {
-    "id": "aws_92c8b10469991b9ee489",
-    "stationId": "awb_0d9db1969d1f9a45c99f",
-    "name": "UCFM - Canberra - 87.8 FM (MP3)",
-    "country": "AU",
-    "url": "http://www.radioking.com/play/ucfm/631505",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "dd775b21-365c-4789-94b5-b9d967916990"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
-  },
-  {
     "id": "aws_df1425ab8bc2f9ffdf53",
     "stationId": "awb_0fd097b423a7f87b957d",
     "name": "UCFM 87.8 - Canberra - 87.8 FM (MP3)",
@@ -32189,25 +30065,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T09:32:40Z"
-  },
-  {
-    "id": "aws_fc9a0e256ee312a1adb0",
-    "stationId": "awb_330102c34c7819e3ef26",
-    "name": "Ultra 106.5 Hobart",
-    "country": "AU",
-    "url": "https://stream2.cnmns.net/106five",
-    "codec": "aac",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1d631856-7c57-4a36-b178-8ce6965f4afa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
   },
   {
     "id": "aws_bab2f80487ab332c5e0c",
@@ -32267,25 +30124,6 @@
     "lastCheckedAt": "2026-11-06T23:24:24Z"
   },
   {
-    "id": "aws_ee52f0ebcbeb477ade96",
-    "stationId": "awb_ee14a710f5ad8ba514ab",
-    "name": "Valley FM - 89.5 FM",
-    "country": "AU",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/1VFM.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5d046ad3-9927-4c0c-b0c3-36ae431d2efa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
-  },
-  {
     "id": "aws_88f35c73ef8ff4cb640e",
     "stationId": "awb_e7004abaf2f1ed9cf68f",
     "name": "Valley FM - Parkes & Forbes - 97.9 FM (MP3)",
@@ -32318,11 +30156,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3d7c2b4e-cd40-4615-a9b2-ab373daa5198",
-      "6157234d-049f-47fa-be8f-41bc81e746fc"
+      "3d7c2b4e-cd40-4615-a9b2-ab373daa5198"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_026ff14b183576bb0bc3",
@@ -32338,8 +30175,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0f8e48ef-48dc-4f6a-889b-aad2af1c8566",
-      "5e206f9c-35ab-490e-a626-7a2c040c20d7"
+      "0f8e48ef-48dc-4f6a-889b-aad2af1c8566"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:30:50Z"
@@ -32380,8 +30216,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "542ef53c-b349-4dea-9262-9b22eb91c736",
-      "AU:vintage-fm"
+      "AU:vintage-fm",
+      "e695d417-1b34-4806-8acd-a4332d2437ba"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:56:46Z"
@@ -32750,7 +30586,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "98416c69-a886-463d-b8e6-a02e2c65b77d",
       "aef09fe7-3d02-4eab-bbd6-ef53901bdf13"
     ],
     "lastCheckOk": true,
@@ -32967,8 +30802,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4f8a973c-1c0d-4891-8ab7-2cd10e9a527e",
-      "AU:wow-fm-100-5"
+      "AU:wow-fm-100-5",
+      "a4e143e4-3c1c-4184-a0bb-8a17a25d4cf7"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T00:32:06Z"
@@ -33027,8 +30862,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5686a02a-1a43-4ed3-b44c-9428941e9bf2",
-      "be0c2f14-e44a-49c3-a38c-fb27d52fdc39"
+      "5686a02a-1a43-4ed3-b44c-9428941e9bf2"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
@@ -33089,25 +30923,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:49:56Z"
-  },
-  {
-    "id": "aws_9953f719244f15ec5b59",
-    "stationId": "awb_d461d1bee4a41fa2df40",
-    "name": "Your Hits Radio (MP3)",
-    "country": "AU",
-    "url": "http://stream.zeno.fm/htcnnynw5fhvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "863946fb-12a5-4cc0-9069-c2f98936c445"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:08:13Z"
   },
   {
     "id": "aws_65b781c4030c96c16c86",

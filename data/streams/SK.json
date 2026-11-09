@@ -172,7 +172,7 @@
       "SK:europa-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:50Z"
+    "lastCheckedAt": "2026-11-06T15:15:48Z"
   },
   {
     "id": "aws_c9939d4b36f8b0c84b16",
@@ -191,7 +191,7 @@
       "3b3e684e-252b-4623-86c8-4113935159f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_481425c5ac22615f4884",
@@ -200,7 +200,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/radio-show-hi.aac",
     "codec": "aac+",
-    "bitrate": 96,
+    "bitrate": 95,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -210,7 +210,7 @@
       "cb2b0430-122d-4e72-9baa-f96ef5e0a2f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_c81df36265e479f63b22",
@@ -219,7 +219,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/top-40-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -229,7 +229,7 @@
       "429c2099-26e7-416c-aeab-5ba4407d6973"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_4a4ac97182dc2416c10f",
@@ -248,7 +248,7 @@
       "97d4d739-3d8a-4cae-9f17-5a60fc6f2176"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_9d5d55b1c3508a85e48a",
@@ -293,7 +293,7 @@
   {
     "id": "aws_9b256b623a63b6d2bbbd",
     "stationId": "awb_94377d6ff7083e794a2c",
-    "name": "Fresh Rádio",
+    "name": "FRESH Rádio",
     "country": "SK",
     "url": "https://icecast2.radionet.sk/freshradio.sk",
     "codec": "mp3",
@@ -309,27 +309,7 @@
       "SK:fresh-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
-  },
-  {
-    "id": "aws_bf1d609ae293bc969da7",
-    "stationId": "awb_6390863cc7e8a5f422d8",
-    "name": "Fun Radio",
-    "country": "SK",
-    "url": "http://stream.funradio.sk:8000/fun128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960efe59-0601-11e8-ae97-52543be04c81",
-      "9d69cc77-b698-40c0-8036-17cd1f09ca44"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:18:44Z"
+    "lastCheckedAt": "2026-11-06T11:48:02Z"
   },
   {
     "id": "aws_dc4a67315be01e6f795d",
@@ -364,30 +344,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "847dd754-4b32-40d5-be4a-a8e91c2bd5e8",
       "89902d6b-8d45-4856-ae81-ca2f769a8615"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:00:37Z"
-  },
-  {
-    "id": "aws_74a59d5c227c7babeb57",
-    "stationId": "awb_9f6daf0d6167e5718b0a",
-    "name": "Fun Radio 80&90",
-    "country": "SK",
-    "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960f00de-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
+    "lastCheckedAt": "2026-11-06T04:02:29Z"
   },
   {
     "id": "aws_f1b8a4164791de4508e2",
@@ -430,25 +390,6 @@
     "lastCheckedAt": "2026-11-06T22:09:30Z"
   },
   {
-    "id": "aws_9105585722a24b1e2681",
-    "stationId": "awb_19b952855af6d2f62ff8",
-    "name": "Fun Radio Dance",
-    "country": "SK",
-    "url": "http://stream.funradio.sk:8000/dance128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960f000f-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
-  },
-  {
     "id": "aws_c0734528450e5c92a001",
     "stationId": "awb_275eb68f2db11b8de026",
     "name": "FUN RÁDIO DANCE",
@@ -462,7 +403,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "25bdc571-f069-408c-844d-9810075c2f89",
       "71d410fa-dedb-4566-ba65-09c42735096b"
     ],
     "lastCheckOk": true,
@@ -501,11 +441,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "42b85b36-77e3-11ea-b1cf-52543be04c81",
-      "f0e06d4a-fdad-4773-a046-1eda297aa349"
+      "42b85b36-77e3-11ea-b1cf-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
+    "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
     "id": "aws_1a9c25cba26ad64aa4a2",
@@ -548,25 +487,6 @@
     "lastCheckedAt": "2026-11-06T09:36:04Z"
   },
   {
-    "id": "aws_6f364e7e263e33fba47d",
-    "stationId": "awb_e25e5a8939fb5b62a7e0",
-    "name": "Info_vojna",
-    "country": "SK",
-    "url": "https://stream1.infovojna.com:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ede239eb-5ed8-449d-bcd9-6481c1a3ff24"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:33:08Z"
-  },
-  {
     "id": "aws_5fa861020d6265b81300",
     "stationId": "awb_0efb5660f82c11fc4659",
     "name": "Infovojna",
@@ -603,25 +523,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
-    "id": "aws_96fe14b47341e8a0c157",
-    "stationId": "awb_bbeb2becf94a146fdfa4",
-    "name": "Infovojna",
-    "country": "SK",
-    "url": "https://stream1.infovojna.com:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3d9a1f30-6466-4e6b-a7b3-96f507b8674d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:23:55Z"
   },
   {
     "id": "aws_226129c51d1ed0036677",
@@ -706,7 +607,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/best-of-80s-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -716,7 +617,7 @@
       "9c9a7d14-7226-4ae7-97dd-e8ac3198d7b3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_f26e6f0059d66228906c",
@@ -735,7 +636,7 @@
       "4e7ad858-9752-4fd3-a79e-940c00d27bbc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_69c5cdd8e0f0a6ef8b76",
@@ -744,7 +645,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/filmove-hity-hi.aac",
     "codec": "aac+",
-    "bitrate": 96,
+    "bitrate": 95,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -754,7 +655,7 @@
       "869d9a1c-1b98-4454-9026-a2e21be79667"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_8676e4b05d530e701cde",
@@ -773,7 +674,7 @@
       "aac35c88-bee2-4aa2-a375-536c0bf81e10"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_fb499b73603a8fcd968d",
@@ -792,7 +693,7 @@
       "852668be-3247-46e7-9e6d-8fb1ec45352c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_1d90c24ca5193618f105",
@@ -894,27 +795,6 @@
     "lastCheckedAt": "2026-11-06T00:37:59Z"
   },
   {
-    "id": "aws_0d2118022f78d309ad50",
-    "stationId": "awb_0d3df76cdc85873ef95c",
-    "name": "Radio 7",
-    "country": "SK",
-    "url": "https://play.radio7.sk/128",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "SK:radio-7",
-      "e61ff127-65d0-429d-9c5e-83a9803b697c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
     "id": "aws_6f56b5220dd9ca466ad8",
     "stationId": "awb_131328c5913ddc45c5fd",
     "name": "Rádio 7",
@@ -928,11 +808,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "45efb51c-b6a3-401e-971f-44e1c4d6005b",
-      "cf9eb622-1a4e-4998-81f0-1b98cf538a39"
+      "45efb51c-b6a3-401e-971f-44e1c4d6005b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:32:54Z"
+    "lastCheckedAt": "2026-11-06T09:44:04Z"
+  },
+  {
+    "id": "aws_0d2118022f78d309ad50",
+    "stationId": "awb_0d3df76cdc85873ef95c",
+    "name": "Radio 7",
+    "country": "SK",
+    "url": "https://play.radio7.sk/128",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "SK:radio-7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_fe689db13a83b45357d4",
@@ -992,25 +890,6 @@
     "lastCheckedAt": "2026-11-07T00:40:01Z"
   },
   {
-    "id": "aws_b96d5902d3e85702dd68",
-    "stationId": "awb_77053a475d4e67f4aadc",
-    "name": "RÁDIO BEST FM",
-    "country": "SK",
-    "url": "https://stream3.bestfm.sk:8000/128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1a7b895a-56a7-422d-b498-8a282f73430f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:41:28Z"
-  },
-  {
     "id": "aws_f10f9740f3cc1e9f7ae7",
     "stationId": "awb_451e408a5018cf92745c",
     "name": "Rádio BestFM",
@@ -1032,7 +911,7 @@
   {
     "id": "aws_cdefbc0c0c69f3b8ecaf",
     "stationId": "awb_88287a24c481792cfc13",
-    "name": "Rádio Beta",
+    "name": "RÁDIO BETA",
     "country": "SK",
     "url": "http://109.71.67.102:8000/beta_live_high.mp3",
     "codec": "mp3",
@@ -1043,8 +922,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "53801113-bed5-4b44-979f-a56d610f3991",
-      "c3b1d4ff-0e01-4139-95e6-c54da7b6acb0"
+      "53801113-bed5-4b44-979f-a56d610f3991"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:43:51Z"
@@ -1086,25 +964,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:28:09Z"
-  },
-  {
-    "id": "aws_5d6d45216c2c5b58669f",
-    "stationId": "awb_8f42b2f3971dfeb23710",
-    "name": "RADIO BIBLIA SK",
-    "country": "SK",
-    "url": "http://radiobiblia.online:8000/stream.ogg",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "705b9534-2708-11ea-aa0c-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:21:14Z"
   },
   {
     "id": "aws_6545e2722cc7fab81543",
@@ -1179,7 +1038,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7759341b-7e8d-462b-885a-d6e974fc3816",
       "d1b6b7c4-f503-4211-a99f-9a11b60fe649"
     ],
     "lastCheckOk": true,
@@ -1232,7 +1090,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/best-of-90s-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1242,7 +1100,7 @@
       "272a355b-954c-4d5f-9e37-00fb2911fd73"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_39c35599c57221e4de05",
@@ -1251,7 +1109,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/detske-hity-hi.aac",
     "codec": "aac+",
-    "bitrate": 96,
+    "bitrate": 95,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1261,7 +1119,7 @@
       "6845849f-ada1-40f2-9447-0e135e628b9f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:07:01Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_01201569cf8b9469821b",
@@ -1280,7 +1138,7 @@
       "ac27f0e9-29f4-4f47-9f7e-eb4f12dd066c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_57b83e651aa82fbc82e4",
@@ -1289,7 +1147,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/millennials-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1299,7 +1157,7 @@
       "052d2e9b-17c7-4029-8718-472a08bf69ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_8609d119767feb72f19a",
@@ -1334,7 +1192,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "24b5be31-68e8-4cb9-a5ce-4cefefeef98f",
       "329577b0-b2ed-4191-bab7-a44dd1d790c0"
     ],
     "lastCheckOk": true,
@@ -1351,15 +1208,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "576e64fd-74ac-11ea-b1cf-52543be04c81",
       "SK:radio-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:09:12Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_63862d21e0f303f735c5",
@@ -1451,8 +1306,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "524c6d90-493a-4692-aa6d-292ab4cc6350",
-      "d936322c-e288-44e7-a60e-7f3d5e1d6d30"
+      "524c6d90-493a-4692-aa6d-292ab4cc6350"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:22:39Z"
@@ -1712,7 +1566,7 @@
       "dfb09fd4-9844-46ef-8905-906e6b1e62eb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:41:46Z"
+    "lastCheckedAt": "2026-11-06T04:42:42Z"
   },
   {
     "id": "aws_9187f6794a0d324fb422",
@@ -1826,11 +1680,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "043fba3d-9977-4991-97b1-64576df4da6d",
+      "1592f35d-74f8-4ed1-a2bf-ad2df2f4e50d",
       "SK:radio-regina-zapad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:51:28Z"
+    "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
     "id": "aws_4318701a714d9cce6973",
@@ -1854,7 +1708,7 @@
   {
     "id": "aws_29a9f178f10bb45c28b3",
     "stationId": "awb_f9212d2bb98619b4dc1f",
-    "name": "Rádio Rock",
+    "name": "Rádio ROCK",
     "country": "SK",
     "url": "https://stream.bauermedia.sk/rock-hi.mp3",
     "codec": "mp3",
@@ -1862,15 +1716,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4b4bc460-26f2-4bd3-b845-53544d3ee990",
       "SK:radio-rock"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:23:54Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_82eab3d21df3dfdff7fd",
@@ -1898,7 +1750,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/classic-rock-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1908,7 +1760,7 @@
       "19b0f6a2-c628-45fa-a7fc-cb824c70aaef"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_cb4fdc7674522967b52b",
@@ -1917,7 +1769,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/grunge-90s-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1927,7 +1779,7 @@
       "5d5f2483-d641-4c03-afa3-271de19a514e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_dfb7946fd4bdfef4d084",
@@ -1936,7 +1788,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/hard-rock-hi.aac",
     "codec": "aac+",
-    "bitrate": 96,
+    "bitrate": 95,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1946,7 +1798,7 @@
       "d7be93d3-067b-4056-8759-fdefc607cc17"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_70914507ff7f540ae8bb",
@@ -1955,7 +1807,7 @@
     "country": "SK",
     "url": "https://stream.bauermedia.sk/rockove-balady-hi.aac",
     "codec": "aac+",
-    "bitrate": 95,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1965,7 +1817,7 @@
       "06a222f1-be49-45c6-8eed-c6effea6f3a8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T16:58:02Z"
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_25719d01a041d5178854",
@@ -2048,26 +1900,6 @@
     "lastCheckedAt": "2026-11-06T16:56:19Z"
   },
   {
-    "id": "aws_3bc0818f0fed1be02f11",
-    "stationId": "awb_6d75e8d695f7c4ea2698",
-    "name": "RÁDIO SLOVENSKO",
-    "country": "SK",
-    "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "800803bb-a650-4711-b1eb-d7bd33674aee",
-      "e131b9aa-3c63-4b58-a852-d1363158ea31"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
-  },
-  {
     "id": "aws_7ed5e132bfaf0e78c55a",
     "stationId": "awb_162db48588031d0c7fcf",
     "name": "Radio Slovensko",
@@ -2140,11 +1972,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "70680e8d-8b0e-4935-a2a6-8cb6a3d0bf64",
       "7ee66666-7361-468c-ace4-1f7a357b58f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
+    "lastCheckedAt": "2026-11-06T14:59:46Z"
   },
   {
     "id": "aws_69bd77d8907e8056f591",
@@ -2160,11 +1991,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "59223240-4a86-492d-aed7-14025920265d",
       "9fdb8374-aba2-4ecf-91e8-460c4761af7c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
+    "lastCheckedAt": "2026-11-06T08:59:27Z"
   },
   {
     "id": "aws_52ed50808cb259930487",
@@ -2188,28 +2018,9 @@
     "lastCheckedAt": "2026-11-06T13:15:15Z"
   },
   {
-    "id": "aws_b85944c961d7a8692475",
-    "stationId": "awb_d188c2feaf9f5647f958",
-    "name": "Radio Viva Metropol",
-    "country": "SK",
-    "url": "http://stream.sepia.sk:8000/viva128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "960f082d-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:42:40Z"
-  },
-  {
     "id": "aws_f8acf50b8af32e08fb4c",
     "stationId": "awb_d32e714036b6997e8ed1",
-    "name": "Rádio Vlna",
+    "name": "RÁDIO VLNA",
     "country": "SK",
     "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
     "codec": "mp3",
@@ -2220,7 +2031,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a1c284b-7ebc-4714-9f17-c5b164a68dbb",
       "6f0d9de7-af4f-454f-81f1-cbb7b68b5f82"
     ],
     "lastCheckOk": true,
@@ -2240,8 +2050,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2237de8b-11bf-4c6f-a857-aa51d994c240",
-      "982bbf49-215e-4d6c-ab01-0fe48b025e6c"
+      "2237de8b-11bf-4c6f-a857-aa51d994c240"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:38:32Z"
@@ -2260,11 +2069,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "333d11b1-7841-4352-b023-549c87b27f8e",
-      "8586f9dc-278c-411b-89de-ba114db35c32"
+      "333d11b1-7841-4352-b023-549c87b27f8e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:42:45Z"
+    "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
     "id": "aws_50dcd014ed8feb9d075b",
@@ -2277,20 +2085,18 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6d8788ec-3006-40de-b674-35b367940e0d",
       "SK:radio-vlna-golden-hits"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:15:15Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5709fdc5e4bff5aa5d2d",
     "stationId": "awb_5f77825b6ae922680522",
-    "name": "Rádio Vlna Oldies Party",
+    "name": "RÁDIO VLNA Oldies Party",
     "country": "SK",
     "url": "https://stream.radiovlna.sk/party-hi.mp3",
     "codec": "mp3",
@@ -2302,7 +2108,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2fb5eb01-7e34-42b7-9b06-2bff5084127b",
+      "571b264d-e432-4281-93fb-0efc77dd5fb6",
       "SK:radio-vlna-oldies-party"
     ],
     "lastCheckOk": true,
@@ -2417,7 +2223,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "b6c91be8-beb1-4d2e-8ab7-3c853e19bdb5",
       "f98d1243-c62c-4726-ae79-ab728182b098"
     ],
     "lastCheckOk": true,
@@ -2553,7 +2358,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9633f1f6-0601-11e8-ae97-52543be04c81",
       "9c72a077-97ee-494a-80e8-6f6a30661185"
     ],
     "lastCheckOk": true,
@@ -2611,8 +2415,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a5b3820c-14d8-4bde-a10a-9ebf75d8e296",
-      "cef9d349-beb3-4f40-978a-7160e163926f"
+      "a5b3820c-14d8-4bde-a10a-9ebf75d8e296"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:51:47Z"
@@ -2631,8 +2434,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4997994c-7e38-4263-a9db-3d262c995936",
-      "960efc45-0601-11e8-ae97-52543be04c81"
+      "4997994c-7e38-4263-a9db-3d262c995936"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:00:38Z"
@@ -2731,25 +2533,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:59:08Z"
-  },
-  {
-    "id": "aws_d0f454fd2cce31d4cb79",
-    "stationId": "awb_0755c9af00a1f0920e0e",
-    "name": "SRo4 Rádio FM",
-    "country": "SK",
-    "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
-    "codec": "mp3",
-    "bitrate": 256,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96121f0f-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:59:09Z"
   },
   {
     "id": "aws_318b76c658b25cc5fd29",
@@ -2942,26 +2725,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:17:10Z"
-  },
-  {
-    "id": "aws_5f13b5711acd6e28aeda",
-    "stationId": "awb_fb6ca06b89ed64639285",
-    "name": "Trnavské Rádio",
-    "country": "SK",
-    "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7c46c1ce-376c-4b38-ab73-a43b9e2681e3",
-      "f6da7b70-916b-4c64-bf73-ddbb5a561734"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
   },
   {
     "id": "aws_a76221cd914e767c0a05",

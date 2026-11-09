@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 station-id="awb_f36122d4819d9ca5934a" stream-id="aws_9137105e479a2b3fd591" codec="aac" bitrate="128",Abba FM
-http://streamingecuador.net:7500/stream
 #EXTINF:-1 station-id="awb_592da2750f224f3a2795" stream-id="aws_3d816f953654d6885779" codec="unknown" bitrate="0",Alfa Radio98.5FM
 https://d3487bptzruln7.cloudfront.net/hls/t6z22lsrczux/2/index.m3u8
 #EXTINF:-1 station-id="awb_7e9c1c0c1a0cd46860dc" stream-id="aws_b863795a5449bcf72ed3" codec="aac+" bitrate="64",Amazonas FM 92.1
@@ -23,7 +21,7 @@ https://ecuamedios.net:10937/stream
 https://radiohdstreaming.com/radio/8230/catolica
 #EXTINF:-1 station-id="awb_576e062de1a26828ef2f" stream-id="aws_33b10e052d310b0e5a3e" codec="aac" bitrate="382",Clásica FM
 https://radio.soft-dg.com/clasica_fm/index.m3u8
-#EXTINF:-1 station-id="awb_e2757a8ebab236c14704" stream-id="aws_78e3bbef9834f3dbc6d5" codec="aac+" bitrate="48",Cómplice FM 99.7 FM
+#EXTINF:-1 station-id="awb_e2757a8ebab236c14704" stream-id="aws_78e3bbef9834f3dbc6d5" codec="aac" bitrate="48",Cómplice FM 99.7 FM
 https://dattavolt.com/8422/stream
 #EXTINF:-1 station-id="awb_53e8c5361eb358e46ed7" stream-id="aws_89ea16379700a931421c" codec="mp3" bitrate="128",Contigo Fm
 https://panel.innovatestream.pe:10852/stream
@@ -37,9 +35,9 @@ http://stream.zeno.fm/63eny6sypuhvv
 https://streamingecuador.net:9002/stream
 #EXTINF:-1 station-id="awb_7c2aca68801489390418" stream-id="aws_45b69b593d15850e0dbd" codec="mp3" bitrate="128",Ecua Stereo Bohemia
 https://stream-069.zeno.fm/xlrqrx7wuwcvv
+#EXTINF:-1 station-id="awb_b372c128b0914dc6255f" stream-id="aws_875fa6da3a21c9e5ba11" codec="mp3" bitrate="160",Ecuatorial fm
+https://listen.usuarios.space/ecuatorialfm/
 #EXTINF:-1 station-id="awb_c920bbd4bbbc7f4e97e4" stream-id="aws_3d39c7fafeeee4592ff5" codec="aac+" bitrate="48",EXA FM
-https://27423.live.streamtheworld.com/ECUADORAAC.aac
-#EXTINF:-1 station-id="awb_fa698ef67941757f0f8b" stream-id="aws_e95edcc1bfa5b57ff769" codec="aac+" bitrate="48",EXA FM 92.5 FM
 https://27423.live.streamtheworld.com/ECUADORAAC.aac
 #EXTINF:-1 station-id="awb_ccb25f025eb1949607ea" stream-id="aws_9df744e4177e12e2e4af" codec="aac" bitrate="64",Expresiun FM 102.9
 https://usa3.lhdserver.es:8031/stream
@@ -53,8 +51,6 @@ https://streamingecuador.com:9810/stream
 https://streamingecuador.net:8014/forever
 #EXTINF:-1 station-id="awb_2b0bf81c800d3e0d24b9" stream-id="aws_78493c00b47196c419e9" codec="aac" bitrate="48",Gualaceo Stereo 92.7
 https://stream.zeno.fm/s74szs5uquhvv
-#EXTINF:-1 station-id="awb_a7ff5bb83d562db7eecb" stream-id="aws_7b67e91e51dc54fa9ec1" codec="mp3" bitrate="64",HCJB
-http://segenswelle.de:8000/hcjb
 #EXTINF:-1 station-id="awb_368e8284ae903bd8a4a1" stream-id="aws_d533ad149a082ef8c21d" codec="aac+" bitrate="64",HCJB 2
 https://hcjb2.makrodigital.com:8013/stream
 #EXTINF:-1 station-id="awb_5ec90088ccf7ba59ac32" stream-id="aws_6b7f5114b8b8071c9078" codec="aac+" bitrate="64",HCJB La Voz de los Andes 89.3 FM
@@ -83,6 +79,8 @@ https://streamingecuador.net:8035/stream
 https://laredondafm.makrodigital.com:9550/stream
 #EXTINF:-1 station-id="awb_2795035429487a47c6cd" stream-id="aws_57f39a8cad3054a41f1b" codec="aac" bitrate="32",La tukka Ec
 http://grupomundodigital.com:8673/live
+#EXTINF:-1 station-id="awb_88a4346d9ad88cec8245" stream-id="aws_b25b77db033a9dc05f75" codec="mp3" bitrate="128",La voz de Crucita
+https://stream2.mcvhost.com/lavozdecrucita/
 #EXTINF:-1 station-id="awb_85370a6b44a5f1b65128" stream-id="aws_f3e68bc06bacef5b3954" codec="aac+" bitrate="64",La Voz de los Caras 95.3 FM
 http://streaming.hdserver.biz:9368/stream
 #EXTINF:-1 station-id="awb_a75befe8d2460b23c3a6" stream-id="aws_70f0d109bc12dbab1bce" codec="aac+" bitrate="32",la voz del Tomebamba
@@ -149,6 +147,8 @@ https://radiohdstreaming.com/radio/8040/armonia
 http://stream.zeno.fm/63feuw9ezs8uv
 #EXTINF:-1 station-id="awb_81d35ddc5cfc47f0a5ea" stream-id="aws_744cfbc6dc71df4968ac" codec="aac+" bitrate="64",Radio Aventura 107.1 FM
 http://streaming.hdserver.biz:9424/stream
+#EXTINF:-1 station-id="awb_a5c4daf33cef53257642" stream-id="aws_69dab16a3568a59b4538" codec="mp3" bitrate="128",radio búfalo
+https://stream1.mcvhost.com/radiobufalo/
 #EXTINF:-1 station-id="awb_95aeda46a0a873cf4a7d" stream-id="aws_f7e1020bf9309d1980af" codec="aac" bitrate="48",Radio Cadena Stereo 107.1
 http://stream.zeno.fm/10g8v80ta2zuv
 #EXTINF:-1 station-id="awb_3a61e70ec16effe424be" stream-id="aws_69db39af1e19f8f36175" codec="mp3" bitrate="128",Radio Cadena Stereo Country
@@ -161,7 +161,7 @@ https://canelaradio.makrodigital.com/stream/canelaradiocuenca
 https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
 #EXTINF:-1 station-id="awb_a9bdcc8d90de78a316aa" stream-id="aws_d1735dc051ccfe0a2d6c" codec="aac+" bitrate="128",Radio Canela El Oro 100.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradiomachala
-#EXTINF:-1 station-id="awb_3b374fd3edc20f308c95" stream-id="aws_c2d833ab06303e0e405a" codec="aac+" bitrate="64",Radio Canela Guayas
+#EXTINF:-1 station-id="awb_3b374fd3edc20f308c95" stream-id="aws_c2d833ab06303e0e405a" codec="aac" bitrate="64",Radio Canela Guayas
 https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
 #EXTINF:-1 station-id="awb_5201e02ef67cdf81a030" stream-id="aws_4255eca4a031098103eb" codec="aac+" bitrate="64",Radio Canela Guayas 90.5 FM
 https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
@@ -179,11 +179,13 @@ https://canelaradio.makrodigital.com:9280/stream
 https://ecuadorstreaming.net:9280/stream
 #EXTINF:-1 station-id="awb_8f0d48f5806257752cd2" stream-id="aws_e3487efc89780d84a260" codec="mp3" bitrate="96",Radio Canela Pichincha 106.5 FM
 https://canelaradio.makrodigital.com/stream/canelaradioquito
+#EXTINF:-1 station-id="awb_9b2e2f4131905d0b9b5f" stream-id="aws_43c820e02c2cfc04dff2" codec="aac+" bitrate="24",radio Caravana 750 am Guayaquil
+https://streamingecuador.net:9006/stream
 #EXTINF:-1 station-id="awb_cfb9d678c0f653feda09" stream-id="aws_25537eb2a80b61a97178" codec="mp3" bitrate="128",Radio Carisma
 https://aacplus.rstreaminghd.com:7081/live
 #EXTINF:-1 station-id="awb_7920274a35b6f920b11e" stream-id="aws_2f551ac9aadcb19515df" codec="aac+" bitrate="40",Radio Complice Fm.
 https://dattavolt.com/8422/stream
-#EXTINF:-1 station-id="awb_c17c96e51fcd31f3378e" stream-id="aws_0fefbc4917deac1ebe7b" codec="aac+" bitrate="24",Radio Diblu
+#EXTINF:-1 station-id="awb_c17c96e51fcd31f3378e" stream-id="aws_0fefbc4917deac1ebe7b" codec="aac" bitrate="24",Radio Diblu
 https://streamingecuador.net:9002/stream
 #EXTINF:-1 station-id="awb_bb39e1a3266e3788f53e" stream-id="aws_5dbf6b5fc273100bac81" codec="aac+" bitrate="64",Radio Disney Ecuador 93.7 FM Guayaquil - Salinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GYAAC.aac
@@ -203,8 +205,6 @@ https://stream.gradio.net/evolucion
 https://streamingecuador.com/stream/radiofavorita/stream
 #EXTINF:-1 station-id="awb_b5e6451f94a59a548d31" stream-id="aws_d98e806112d00f6cfc4d" codec="aac" bitrate="128",Radio Gaviota 105.1 FM
 https://streamingecuador.net:9000/radiogaviota
-#EXTINF:-1 station-id="awb_4ef63f358bbdbdf14a42" stream-id="aws_60ad66612c3a7508eeaf" codec="mp3" bitrate="64",Radio HCJB German
-http://segenswelle.de:8000/hcjb
 #EXTINF:-1 station-id="awb_dc6a9a59e59cfe9d38f1" stream-id="aws_5b35d6c9c04eea7b7531" codec="aac+" bitrate="32",Radio HCJB German (32kbps)
 http://segenswelle.de:8000/hcjb-aac
 #EXTINF:-1 station-id="awb_02d5e853a3f02ce353b1" stream-id="aws_dae43055f75a245e7c63" codec="aac" bitrate="128",RADIO IMPACTO 107.9

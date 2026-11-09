@@ -45,20 +45,18 @@
     "name": "ATB Radio",
     "country": "BO",
     "url": "https://streamingenbolivia.com/8006/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0084a9be-7747-4995-b35a-ec936fe16ef6",
       "BO:atb-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:41:06Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_4b19226ac586000e6796",
@@ -206,15 +204,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BO:diana-d-102-1-fm",
-      "ce25fd4b-aaf3-457b-a1f5-713f902f2f47"
+      "BO:diana-d-102-1-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:52Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_100d2a0690b929cb961e",
@@ -339,44 +335,6 @@
     "lastCheckedAt": "2026-11-07T02:42:52Z"
   },
   {
-    "id": "aws_96c7d617167ec795665a",
-    "stationId": "awb_4b4c54cbf7027217e890",
-    "name": "Fides La Paz",
-    "country": "BO",
-    "url": "http://192.95.23.89:6358/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff5a9bdb-d2de-48fd-9538-bad8cf1b1ed2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:48:41Z"
-  },
-  {
-    "id": "aws_97e6d5247dd11cf72a9a",
-    "stationId": "awb_deaa450f7b2eee00c7b4",
-    "name": "Fides Tarija",
-    "country": "BO",
-    "url": "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4178b259-a98e-4ff5-b33f-91c89095b4da"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
-  },
-  {
     "id": "aws_8c598e22cdf84cc4a2c3",
     "stationId": "awb_a6f4b7b6c37b440f57b3",
     "name": "FM La Paz",
@@ -480,25 +438,6 @@
     "lastCheckedAt": "2026-11-06T02:50:25Z"
   },
   {
-    "id": "aws_b93abc99d197b0da9173",
-    "stationId": "awb_9cce4dfac411de38df90",
-    "name": "Radio \"Cumbia 90s\"",
-    "country": "BO",
-    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cd77cd14-e83f-4fc5-937e-5bdf185dedaf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:51:27Z"
-  },
-  {
     "id": "aws_0314aa6043facb5af348",
     "stationId": "awb_d0b967170cabd4cd324b",
     "name": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
@@ -532,11 +471,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "10c1b020-4cf2-4479-aba9-ed9853251984",
+      "65523a12-8427-4e09-ae7b-c71d0bddd10a",
       "BO:radio-acer"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
+    "lastCheckedAt": "2026-11-06T15:15:48Z"
   },
   {
     "id": "aws_216cbfba07fe05789160",
@@ -1099,25 +1038,6 @@
     "lastCheckedAt": "2026-11-06T04:25:50Z"
   },
   {
-    "id": "aws_4592cca58f0a7a38d4a4",
-    "stationId": "awb_da343305e07d25bf68a1",
-    "name": "Radio Pueblo",
-    "country": "BO",
-    "url": "https://stream.zeno.fm/dinhdjwdjeltv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a16a7d51-5b1d-4240-a23e-4807c343a940"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:45:48Z"
-  },
-  {
     "id": "aws_614ba8c0ef89065d1ef8",
     "stationId": "awb_2c1d22e9f8d20ad1329c",
     "name": "Radio Pueblo Bolivia",
@@ -1332,7 +1252,7 @@
       "BO:radiosat-fm-bolivia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:02:32Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_72fad3a43701a8049741",
@@ -1524,15 +1444,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BO:zoy-milton",
-      "bf0f25f9-b242-4c91-9718-43c9d86b8199"
+      "BO:zoy-milton"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:04Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_127943ca70c366be2ea4",

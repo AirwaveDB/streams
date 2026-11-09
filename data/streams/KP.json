@@ -86,15 +86,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2d8ae9e8-d207-44fe-8a35-196388626837",
       "KP:pyongyang-radio-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:10:31Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ce65645d4001b9cf40d2",
@@ -116,44 +114,23 @@
     "lastCheckedAt": "2026-11-06T14:47:50Z"
   },
   {
-    "id": "aws_77f2363c358568eecbe5",
-    "stationId": "awb_b1381ec3f2ea55bbbd61",
-    "name": "Voice of Korea",
-    "country": "KP",
-    "url": "https://listen7.myradio24.com/69366",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9cc87217-fc59-4335-a7d7-050407527f9a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
     "id": "aws_3dee85e70c562630a960",
     "stationId": "awb_13c44d8be199898e727e",
     "name": "Voice of Korea (Russian)",
     "country": "KP",
     "url": "https://listen4.myradio24.com/60315",
     "codec": "mp3",
-    "bitrate": 320,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "KP:voice-of-korea-russian",
-      "f4d082ad-d030-4a17-8467-7f9b99f4ce2d"
+      "KP:voice-of-korea-russian"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_91653261917cde0b21cf",
@@ -192,25 +169,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:17:17Z"
-  },
-  {
-    "id": "aws_5926f248281d15765171",
-    "stationId": "awb_2e9c2b80a3eb948bc86c",
-    "name": "조선의 소리 방송 Voice of Korea",
-    "country": "KP",
-    "url": "https://stream.intchoson.com/vok/main_stream.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a4ee7325-58ef-4922-8a26-7837b1ce8fa7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:13:08Z"
   },
   {
     "id": "aws_4de078754a46ebdb7483",

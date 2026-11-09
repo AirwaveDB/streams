@@ -32,11 +32,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "08fd517b-8943-43b3-9371-f13fc77e9304",
-      "cf8f4744-c913-11e8-a54a-52543be04c81"
+      "25970dbd-3591-46b6-bfaa-668e8be26152"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:27Z"
+    "lastCheckedAt": "2026-11-06T17:37:20Z"
   },
   {
     "id": "aws_c255a4f80bd5aa205020",
@@ -186,15 +185,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "TW:boss-boss-radio",
-      "dadc974a-f037-44a9-9d8b-7a01a39d229b"
+      "TW:boss-boss-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_42a001ccf7cb7118fd72",
@@ -311,8 +308,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a2ae6e7e-e193-4f95-b25d-1fa4e5a7d632",
-      "ef2e5996-1f46-44bf-a07b-2949615f60ce"
+      "a2ae6e7e-e193-4f95-b25d-1fa4e5a7d632"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:05:39Z"
@@ -335,25 +331,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:57:28Z"
-  },
-  {
-    "id": "aws_af92d3636619e9600ba6",
-    "stationId": "awb_53e8d18ddfe4b7882868",
-    "name": "HappyRadio",
-    "country": "TW",
-    "url": "https://happyradio.com.tw/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "00f874ec-f9af-41b9-a636-e852a7f135cd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:42:52Z"
   },
   {
     "id": "aws_160f165ed013a991d30b",
@@ -485,11 +462,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7431ad39-122d-4428-b268-b1a9fc8ddba1",
-      "c976a1fa-100d-43e4-9fe1-52b60097c0f9"
+      "7431ad39-122d-4428-b268-b1a9fc8ddba1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:20:18Z"
+    "lastCheckedAt": "2026-11-06T08:37:37Z"
   },
   {
     "id": "aws_ceb46111c8bf736e250f",
@@ -505,11 +481,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "80a68b7e-66e4-4478-8065-c7c10f1cb934",
       "e0401ca6-9638-11e8-a767-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
+    "lastCheckedAt": "2026-11-06T20:03:00Z"
   },
   {
     "id": "aws_5e4fed0da73a755d5fdf",
@@ -602,15 +577,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5b80d82b-5f15-4472-a1a7-8aad8307973a",
       "TW:1940-s-shanghai-vintage-jazz-shidaiqu-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_3abcfd5c0ac098b8bd7e",
@@ -689,25 +662,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:02:59Z"
-  },
-  {
-    "id": "aws_85c9324074470f29b0c2",
-    "stationId": "awb_0badc76863548ceaae87",
-    "name": "中央廣播電台",
-    "country": "TW",
-    "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b40c66c7-c7d1-498d-8a06-375fa94c03fc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:34:33Z"
   },
   {
     "id": "aws_e6ce071e594139a7ef4a",
@@ -885,25 +839,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:13:11Z"
-  },
-  {
-    "id": "aws_b2c2270ad04004b7bf2f",
-    "stationId": "awb_95a95579ecbfe0af0438",
-    "name": "佳音電台",
-    "country": "TW",
-    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 65,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bf3382fb-d8b8-448c-b69f-35e2e39a4904"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
     "id": "aws_9709f7d9a0eeb12a6f5c",
@@ -1096,25 +1031,6 @@
     "lastCheckedAt": "2026-11-06T12:18:25Z"
   },
   {
-    "id": "aws_29196c6ae99c81d2cb4e",
-    "stationId": "awb_8680b049adc451946726",
-    "name": "台中城市廣播",
-    "country": "TW",
-    "url": "http://fm901.cityfm.tw:8080/901.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fa102bd1-a71d-4048-baad-e173b92ddad0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:18:25Z"
-  },
-  {
     "id": "aws_e1eb901fc4ff40f0435c",
     "stationId": "awb_94f29663c6295eb9e751",
     "name": "台中廣播",
@@ -1128,7 +1044,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4527d225-da4e-4bf1-be75-15a272cd4d49",
       "4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9"
     ],
     "lastCheckOk": true,
@@ -1517,25 +1432,6 @@
     "lastCheckedAt": "2026-11-06T04:15:22Z"
   },
   {
-    "id": "aws_f69153a5849ae68c7230",
-    "stationId": "awb_4845ac4953a685fd42a0",
-    "name": "城市廣播網-台北健康",
-    "country": "TW",
-    "url": "http://fm901.cityfm.tw:8080/901.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c9acf570-8018-473e-a345-97a1cd294619"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
-  },
-  {
     "id": "aws_3257a752f8c396c7a440",
     "stationId": "awb_a151657ce1d63a4c9b35",
     "name": "城市廣播網-台南知音",
@@ -1549,7 +1445,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "43e049f0-c8f5-11e8-a54a-52543be04c81",
       "af7cf56a-a366-47fc-bbb4-e6c4bd5b2ec6"
     ],
     "lastCheckOk": true,
@@ -1653,25 +1548,6 @@
     "lastCheckedAt": "2026-11-06T22:37:30Z"
   },
   {
-    "id": "aws_d3a37a14bc1872553abd",
-    "stationId": "awb_14ad9c41f240e6273356",
-    "name": "大漢之音",
-    "country": "TW",
-    "url": "http://taiwan-radio.tw:8000/ML.FM97.1",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ea256c29-779e-42ad-898e-d2b6a9a8db75"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:30:03Z"
-  },
-  {
     "id": "aws_38d7f4141b4092b19638",
     "stationId": "awb_c75f57230a1760db8833",
     "name": "天南AM999",
@@ -1742,7 +1618,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4aece3ae-e1d0-4347-9231-9d81207e2373",
       "ef129d58-ac72-4e69-a1ae-2cb896611d3c"
     ],
     "lastCheckOk": true,
@@ -1823,25 +1698,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
-    "id": "aws_539b844990c92fa22873",
-    "stationId": "awb_11d72aa4affef9d38bb7",
-    "name": "寶島新聲廣播電台",
-    "country": "TW",
-    "url": "http://125.227.87.206:8000/FM98.5",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a04e099e-c0b7-46f5-b4ad-ed9f669b394d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:08:17Z"
   },
   {
     "id": "aws_9f59c0d2231804166b6f",
@@ -2338,8 +2194,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4c7d3d26-6339-4535-a4e6-98284f519cbc",
-      "93f83583-6964-4208-9446-15f4c2c51587"
+      "4c7d3d26-6339-4535-a4e6-98284f519cbc"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:41:16Z"
@@ -2706,25 +2561,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:59:46Z"
-  },
-  {
-    "id": "aws_64c835e37360fe0a2a28",
-    "stationId": "awb_d58da1ab7980acf0a5bf",
-    "name": "臺北電台",
-    "country": "TW",
-    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 322,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96b88cb2-76a4-43fb-9257-e791103f5fa8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:28:03Z"
   },
   {
     "id": "aws_bc9a6ca6749231ac7187",

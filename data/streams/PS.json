@@ -184,19 +184,17 @@
     "name": "راديو الناس",
     "country": "PS",
     "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PS:nasradio",
-      "bcfe2aae-33fa-494a-a571-c3bbc8715c7d"
+      "PS:nasradio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:14:28Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

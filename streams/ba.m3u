@@ -17,16 +17,12 @@ https://webtvstream.bhtelecom.ba/bh_radio1.m3u8
 http://big2.bigportal.ba:8100/big2
 #EXTINF:-1 station-id="awb_88303d7102b384496d82" stream-id="aws_9ac46cec31ff0bda5e89" codec="aac+" bitrate="36",BIG 3
 http://big3.bigportal.ba:8100/big3?1548653014620
-#EXTINF:-1 station-id="awb_1e08cbd0d81fb7f23dbc" stream-id="aws_cdb80619ca778ea15fba" codec="aac+" bitrate="36",Big Radio 1 Banja Luka
-http://big1.bigportal.ba:8100/big1
 #EXTINF:-1 station-id="awb_afc7355f645f97a8b82f" stream-id="aws_73872e88718cbb88d65d" codec="aac+" bitrate="36",BIG radio 1 Banja Luka
 http://big1.bigportal.ba:8100/big1
 #EXTINF:-1 station-id="awb_41382815c4804d4b5768" stream-id="aws_d21f79006e0018c136b5" codec="aac+" bitrate="36",BIG Radio 2 Banja Luka
 https://big2.bigportal.ba:8080/big2
 #EXTINF:-1 station-id="awb_69e5616f0c219b147cee" stream-id="aws_7d3b85ce8f68f20149f2" codec="aac+" bitrate="36",Big Radio 4 Domaćica
 http://domacica.bigportal.ba:8100/domacica
-#EXTINF:-1 station-id="awb_33c7acce6497b61002b2" stream-id="aws_99dff67b8e3cf7074a6e" codec="aac+" bitrate="36",Big2
-http://big2.bigportal.ba:8100/big2
 #EXTINF:-1 station-id="awb_0d3ba8dbfb2966550761" stream-id="aws_fb69d4383a6b7c73a5d1" codec="mp3" bitrate="128",Day Dee Eurodance Radio
 http://daydeeeurodance.stream.laut.fm/daydeeeurodance
 #EXTINF:-1 station-id="awb_879ee052930e22d4a73c" stream-id="aws_6185581858e503326a2b" codec="mp3" bitrate="192",Esoterica Radio S1
@@ -59,8 +55,6 @@ https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516
 http://mojstream.eu:8114/kontaktradio
 #EXTINF:-1 station-id="awb_7d47696940e36f6cc06f" stream-id="aws_a044e15308894cacf65e" codec="aac+" bitrate="112",Koprivljanski radio
 http://cast2.name.ba:8101/
-#EXTINF:-1 station-id="awb_03b40a4e2e58912ce2d2" stream-id="aws_b7ac220f6fb8abd670df" codec="mp3" bitrate="128",Krajiški Radio Dubica
-https://stream1.srvnetplus.com:18039/
 #EXTINF:-1 station-id="awb_769330fcad28e37ce5c1" stream-id="aws_50863f43e8805b416afe" codec="aac+" bitrate="64",KUPRESKIRADIO
 https://ec2s.crolive.com.hr:1265/stream
 #EXTINF:-1 station-id="awb_7be2f9d233144fcab2b0" stream-id="aws_41234e65b4d004e916df" codec="unknown" bitrate="128",Moj Radio
@@ -79,12 +73,10 @@ https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8
 https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3
 #EXTINF:-1 station-id="awb_7a0ab4ee6136281ad2af" stream-id="aws_7d97d9e4b742051f7720" codec="mp3" bitrate="160",Pakao Radio
 https://securestream.pakaoradio.net/live
-#EXTINF:-1 station-id="awb_961bc394e92343c4315e" stream-id="aws_9c08843613e0daaa0bf5" codec="mp3" bitrate="0",Patrisamato Radio
+#EXTINF:-1 station-id="awb_961bc394e92343c4315e" stream-id="aws_9c08843613e0daaa0bf5" codec="mp3" bitrate="0",patrisamato radio
 https://patrisamato.com/listen/live/radio.mp3
 #EXTINF:-1 station-id="awb_24bf386d1e829fadf43a" stream-id="aws_2ff5a5d0cabe29c77000" codec="mp3" bitrate="192",Pop FM
 http://188.40.62.20:8032/
-#EXTINF:-1 station-id="awb_99a9e3a046988b762b32" stream-id="aws_dc89f189d4a6ec5e94c4" codec="mp3" bitrate="192",Pop FM - Slusaj glasno!!!
-http://188.40.62.20:8032/;stream.nsv
 #EXTINF:-1 station-id="awb_1392d997705c8534774b" stream-id="aws_39a562a7f321b6a96d1c" codec="mp3" bitrate="192",Pop FM Bosnia and Herzegovina
 http://188.40.62.20:8032/;stream.nsv
 #EXTINF:-1 station-id="awb_8b79073cee59291027d8" stream-id="aws_a8a175db9cc878e6da2f" codec="mp3" bitrate="128",Radio - Livno
@@ -249,8 +241,6 @@ https://webtvstream.bhtelecom.ba/radio_usk.m3u8
 https://radiousk.radioca.st/stream/
 #EXTINF:-1 station-id="awb_2172e65b90f53bc81605" stream-id="aws_d639605d8724bafb0d37" codec="mp3" bitrate="128",Radio USK 2
 https://radiousk2.radioca.st/;
-#EXTINF:-1 station-id="awb_d502e0a04051ffdb0376" stream-id="aws_f9f982dc3d52cc375f4d" codec="unknown" bitrate="128",Radio Usora
-https://webtvstream.bhtelecom.ba/radio_usora.m3u8
 #EXTINF:-1 station-id="awb_a8da6df792cdbabdb893" stream-id="aws_a2d70365f4af37f6ec5d" codec="unknown" bitrate="128",Radio Usora
 https://webtvstream.bhtelecom.ba/radio_usora.m3u8
 #EXTINF:-1 station-id="awb_2e39704f7f1fc51bdab4" stream-id="aws_317dbcde519264e82fec" codec="unknown" bitrate="128",Radio Valentino
@@ -269,8 +259,6 @@ https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8
 http://5.189.168.133:8020/1
 #EXTINF:-1 station-id="awb_071cba1581e4a47fb66a" stream-id="aws_52d7a9f4cdc8e9166f0c" codec="mp3" bitrate="128",Radio Zenit - caffe
 http://5.189.168.133:8020/stream/2/;
-#EXTINF:-1 station-id="awb_0ddd67ce05d865e5aac5" stream-id="aws_926e5f1c45a12e5a0272" codec="mp3" bitrate="128",Radio ZENIT Zenica
-http://5.189.168.133:8020/1
 #EXTINF:-1 station-id="awb_7124f7b8ed876c053cc8" stream-id="aws_bf658e2eed27d84af35f" codec="mp3" bitrate="128",RadioAktivan
 https://stream-152.zeno.fm/4qe0awx37wquv?zs=LaZXevHRRP2c8j2V0O-NOA
 #EXTINF:-1 station-id="awb_9f20dbf9c83e16faa761" stream-id="aws_d3bbfa30e94bd725c6ac" codec="mp3" bitrate="96",RadioMajevica.com

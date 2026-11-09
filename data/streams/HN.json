@@ -215,25 +215,6 @@
     "lastCheckedAt": "2026-11-06T09:33:53Z"
   },
   {
-    "id": "aws_c7e76ebacd8af636b404",
-    "stationId": "awb_4e7702f4521853a3e01a",
-    "name": "Exa FM Honduras",
-    "country": "HN",
-    "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9912b3cc-85af-4b31-800d-40dcdc41bcb3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:19:32Z"
-  },
-  {
     "id": "aws_c166b00b8b8532122782",
     "stationId": "awb_082820fc4f3b8e818842",
     "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
@@ -531,25 +512,6 @@
     "lastCheckedAt": "2026-11-06T10:56:42Z"
   },
   {
-    "id": "aws_cb1331e1f24d5abaa8bd",
-    "stationId": "awb_8374936653872fe2a6f3",
-    "name": "Radio Activa Honduras",
-    "country": "HN",
-    "url": "https://stream.zeno.fm/6n7fp9t2pceuv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b424be26-51c4-48cf-b113-9fc29a923701"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:14:49Z"
-  },
-  {
     "id": "aws_21c65a3d36c5470ff525",
     "stationId": "awb_69c0d48e30b0da81ca12",
     "name": "Radio America 94.7 Tegucigalpa",
@@ -779,7 +741,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "02f71899-4f63-4768-8d79-36da4556251c",
+      "18259b0a-0d0f-444c-b76b-55dbb7254dbc",
       "HN:stereo-dimension-la-96"
     ],
     "lastCheckOk": true,
@@ -872,72 +834,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "HN:vox-fm",
-      "f8a206ac-7546-460e-8751-d66a2a3ff6b6"
+      "HN:vox-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:36:11Z"
-  },
-  {
-    "id": "aws_665b693a3cb012b4b6a3",
-    "stationId": "awb_25de4c4671b55935a44a",
-    "name": "Vox FM Honduras",
-    "country": "HN",
-    "url": "https://ice42.securenetsystems.net/VOXFM",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3b737c6d-dadf-465f-b87e-05fe5ef1e087"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:07:06Z"
-  },
-  {
-    "id": "aws_3ff47a174450ee443cca",
-    "stationId": "awb_f14c699593657e86185b",
-    "name": "Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM",
-    "country": "HN",
-    "url": "https://ice42.securenetsystems.net/VOXFM",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "42800d21-bb2e-43d0-a4e4-2e0567479c62"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
-  },
-  {
-    "id": "aws_58b4947e372075083d99",
-    "stationId": "awb_5db9acc32c5d28207c8c",
-    "name": "XY 90.5 FM - Tegucigalpa, Honduras",
-    "country": "HN",
-    "url": "http://ice42.securenetsystems.net/XY905",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "25554e01-23c1-4956-b414-71f4ef375353"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:36:17Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_2993c37a00e7aa094a80",

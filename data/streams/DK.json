@@ -128,15 +128,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "DK:alfa-gold",
-      "e463f4fd-8de9-44e7-b139-7ffc309c4520"
+      "DK:alfa-gold"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a56cdf0f6de58d49db75",
@@ -306,8 +304,8 @@
     "name": "Classic FM Østjylland",
     "country": "DK",
     "url": "https://netradio.classicfm.dk/cla8a",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -317,7 +315,7 @@
       "e93c991e-e930-4531-8ade-a624b3452e5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_e1c0e026f13005cab19a",
@@ -408,15 +406,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "DK:danmarks-radio-p2",
-      "c7e105b6-4e4d-4b30-a1a6-9f496c8d43b4"
+      "DK:danmarks-radio-p2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0467a8885468547d60ec",
@@ -788,25 +784,6 @@
     "lastCheckedAt": "2026-11-06T16:40:45Z"
   },
   {
-    "id": "aws_5f065fb98c91ab31a57a",
-    "stationId": "awb_ea896a6ef2cae29248b2",
-    "name": "DR P4 Bornholm",
-    "country": "DK",
-    "url": "https://live-icy.dr.dk/A/A30H.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9edda838-dfaf-44fa-8c13-23972afac6e7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:15:22Z"
-  },
-  {
     "id": "aws_732aab1f8716587da36d",
     "stationId": "awb_cfb76b22f69740e702a6",
     "name": "DR P4 Bornholm (AAC)",
@@ -1051,7 +1028,7 @@
     ],
     "sourceIds": [
       "DK:dr-p4-midt-vest",
-      "b10cb925-5094-4504-9d15-b3cde1d31c59"
+      "d22c0906-9ce1-435d-b4a8-05e68a16d7df"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:11:07Z"
@@ -1113,25 +1090,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:21:53Z"
-  },
-  {
-    "id": "aws_38a2328582f6b9d01248",
-    "stationId": "awb_05883a327ed7a6606439",
-    "name": "DR P4 Nordjylland",
-    "country": "DK",
-    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8",
-    "codec": "aac",
-    "bitrate": 324,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "addd84e9-2723-460e-8b8f-b2c19a854ece"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:52:05Z"
   },
   {
     "id": "aws_5cdc1fa9385075d505e1",
@@ -1299,8 +1257,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "1acd0e04-ea0c-46e8-9d5c-bd7d0233532c",
-      "9aa58b89-2aae-4dc3-9634-fce0e92177a1"
+      "1acd0e04-ea0c-46e8-9d5c-bd7d0233532c"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:34:05Z"
@@ -2047,32 +2004,13 @@
     "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
-    "id": "aws_877818dd1a4b0e75823c",
-    "stationId": "awb_e5ec33f686e59470cc36",
-    "name": "Jazzkanalen",
-    "country": "DK",
-    "url": "http://media.wlmm.dk/humleborg.m3u",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "064e5ce0-bf9f-44d6-af36-e00b75e95217"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:27:04Z"
-  },
-  {
     "id": "aws_559f717dc2ad6d678d70",
     "stationId": "awb_443eb20025c6a9e2a773",
     "name": "Julekanalen (Classic FM Jul)",
     "country": "DK",
     "url": "https://netradio.julekanalen.dk/julekanalen",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2082,7 +2020,7 @@
       "d181c551-b869-4cf8-b50c-682c34dc0272"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_ad9f3c4d64d01f63132e",
@@ -2281,25 +2219,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:32:38Z"
-  },
-  {
-    "id": "aws_74a86047e521ccec605a",
-    "stationId": "awb_16c31cf8ee4f37e1c82d",
-    "name": "Midtfjord Radio",
-    "country": "DK",
-    "url": "http://stream.midtfjordradio.dk/netradio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c63d6c6e-4edc-4fe4-91fc-823dc0dc3c47"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
   },
   {
     "id": "aws_ac8e94953b9073decfc0",
@@ -2527,8 +2446,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1eb0a70c-2cc1-11e9-a35e-52543be04c81",
-      "DK:nova-100-dansk"
+      "DK:nova-100-dansk",
+      "effb3b79-8c7f-41c9-83d4-b7bdc393b937"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:18:51Z"
@@ -2544,15 +2463,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd",
       "DK:nova-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:32:54Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_715c932db9d8be8bf018",
@@ -2572,25 +2489,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-04T21:18:03Z"
-  },
-  {
-    "id": "aws_5b4e668308b9af25b079",
-    "stationId": "awb_32c93fbc718574b1c585",
-    "name": "Party Fm",
-    "country": "DK",
-    "url": "http://stream1.partyfm.dk/Party320",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d252b764-8920-4d6f-9b03-a68813a6c93f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:59:49Z"
   },
   {
     "id": "aws_e485035681fe795d0da0",
@@ -2625,7 +2523,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "37de7ca3-9cad-479b-ad27-4f3a4d068636",
       "4c493e5b-983d-4ad8-9e6a-290dccf730b7"
     ],
     "lastCheckOk": true,
@@ -2764,15 +2661,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2fec1d56-0045-44ae-9ead-c975cbcb3af1",
       "DK:radio-100"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:23:43Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_41ee67fa6ad98d68a463",
@@ -2846,7 +2741,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "16e4f32b-81d3-42e5-b6ac-38a15ef148f1",
+      "9cb2aa9d-b96d-497e-8389-85664ebbf867",
       "DK:radio-abc"
     ],
     "lastCheckOk": true,
@@ -3210,7 +3105,7 @@
       "DK:radio-globus"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
+    "lastCheckedAt": "2026-11-06T09:33:53Z"
   },
   {
     "id": "aws_64d9f1a2f9b6b182379c",
@@ -3333,25 +3228,6 @@
     "lastCheckedAt": "2026-11-06T12:01:22Z"
   },
   {
-    "id": "aws_8f42ec6b60986c3e8c18",
-    "stationId": "awb_28f2b5309afe2474ef4e",
-    "name": "Radio Klitholm",
-    "country": "DK",
-    "url": "http://stream.radioklitholm.dk:8000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "59a304c4-39f4-49f4-abc7-6a086f6d1de4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
-  },
-  {
     "id": "aws_6b1a6e56f47c5a504025",
     "stationId": "awb_06f70905d8621cdf8858",
     "name": "Radio Klitholm - Det Ny Kanal 1",
@@ -3449,25 +3325,6 @@
     "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
-    "id": "aws_fd2f018b063391f82e60",
-    "stationId": "awb_4c84d2f52f6278b35698",
-    "name": "Radio MB",
-    "country": "DK",
-    "url": "http://live2.rcast.net:8722/;stream",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9159f400-d6a3-4408-adfc-42ffd95f049d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:59:13Z"
-  },
-  {
     "id": "aws_3b50c29d90241aea486d",
     "stationId": "awb_41212c06d6a7668c11c6",
     "name": "Radio Midtsjælland",
@@ -3500,7 +3357,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "96298c0b-0601-11e8-ae97-52543be04c81",
       "f9ce659b-0727-4ac1-af3b-b3171b10d1d0"
     ],
     "lastCheckOk": true,
@@ -3665,25 +3521,6 @@
     "lastCheckedAt": "2026-11-06T02:57:05Z"
   },
   {
-    "id": "aws_217bfcf4ca0b8abc4ad8",
-    "stationId": "awb_270bd6ade794c8737bb6",
-    "name": "Radio Rollo",
-    "country": "DK",
-    "url": "http://stream.radiosolutions.dk/rollo",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1507676e-a63a-4b0b-817e-e63cad25a8af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
     "id": "aws_0fbd1aa0eb4864da7a4a",
     "stationId": "awb_458207103dbe103d4b7e",
     "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
@@ -3844,25 +3681,6 @@
     "lastCheckedAt": "2026-11-06T20:23:43Z"
   },
   {
-    "id": "aws_fff86f40f3aca283f5ed",
-    "stationId": "awb_6ba136a916a995d1ecd6",
-    "name": "Radio Viva",
-    "country": "DK",
-    "url": "https://stream.probroadcast.dk/radioviva",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d549216c-f943-48c7-8c39-324214177c60"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
     "id": "aws_091a7e79306bf4b553d1",
     "stationId": "awb_346440c9c5d8096bd0bc",
     "name": "Radio Viva - Kolding",
@@ -3958,7 +3776,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3a8dcb6e-224e-4a42-a894-ca74f244e5f4",
       "81b665cb-7867-48f3-92a7-968acbf5ae06"
     ],
     "lastCheckOk": true,
@@ -3984,25 +3801,6 @@
     "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
-    "id": "aws_6597555e51b130e29e14",
-    "stationId": "awb_52f270feabc76baf9419",
-    "name": "Reggae",
-    "country": "DK",
-    "url": "https://stream.laut.fm/deutscher-reggae",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "50b65d66-a8c4-4905-8211-21a3c1d3193a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:45:08Z"
-  },
-  {
     "id": "aws_e533b0dbb04d15e9953c",
     "stationId": "awb_3706abc88b0ec532463d",
     "name": "Retro Millennium",
@@ -4022,45 +3820,23 @@
     "lastCheckedAt": "2026-11-06T23:51:27Z"
   },
   {
-    "id": "aws_932e90e73960bd73fdd0",
-    "stationId": "awb_ff43fe03a120529803fc",
-    "name": "Retro Radio",
-    "country": "DK",
-    "url": "http://stream128.retro-radio.dk/retro",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "962ee337-0601-11e8-ae97-52543be04c81",
-      "e2116c20-ca0c-4f9e-a25c-4c66df33bf13"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:17:37Z"
-  },
-  {
     "id": "aws_c41d00839ec51939be52",
     "stationId": "awb_ff43fe03a120529803fc",
     "name": "Retro Radio",
     "country": "DK",
     "url": "https://tx-2.retro-radio.dk/TX-2",
-    "codec": "mp3",
+    "codec": "aac",
     "bitrate": 192,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9a5f3b79-13c6-4a0e-a41f-6b5ad048c1a4",
       "DK:retro-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:36:16Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_579161fe4a0d352d8897",
@@ -4076,7 +3852,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "11c1b080-88c0-4dc1-a6aa-d77b1b30ff6d",
       "86407434-f7f1-4de0-9f85-d5ecfe0016e4"
     ],
     "lastCheckOk": true,
@@ -4422,15 +4197,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "632fe760-a124-4385-9061-6acb4bd14d0f",
       "DK:the-voice-danmarks-hitstation"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:01:43Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f14d00dfee0a1f84cd10",

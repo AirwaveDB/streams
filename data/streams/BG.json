@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_448d524f8c856b2c36a8",
-    "stationId": "awb_ddd2f0a889b5b975fca5",
-    "name": "&#1056;&#1072;&#1076;&#1080;&#1086; FM+",
-    "country": "BG",
-    "url": "http://31.13.223.148:8000/fmplus.ogg",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "506ab128-67ec-4b81-9a98-51f113a3028a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:58:12Z"
-  },
-  {
     "id": "aws_0a00d4ea8eded0f5232b",
     "stationId": "awb_358c035cee4ad4488780",
     "name": "1 Rock Bulgaria",
@@ -70,7 +51,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6aba3f3a-e654-4f5e-ae63-0dd52a8be621",
       "e60ba523-c593-4c1f-9cb2-5bdce0155c67"
     ],
     "lastCheckOk": true,
@@ -159,7 +139,7 @@
   {
     "id": "aws_fb040c318b0522c25fb1",
     "stationId": "awb_e854bc6fd7e6b4b73ff6",
-    "name": "Badrock Classic Rock",
+    "name": "BadRock Classic Rock",
     "country": "BG",
     "url": "https://streams.badrockradio.net/classic-rock",
     "codec": "mp3",
@@ -172,7 +152,7 @@
     ],
     "sourceIds": [
       "BG:badrock-classic-rock-2",
-      "d9f10aef-3453-4a7a-9ba9-35f5931392a9"
+      "fe5ee614-070b-4fe1-a03e-9d3e1b5a435f"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-08T04:24:14Z"
@@ -237,25 +217,6 @@
     "lastCheckedAt": "2026-11-06T09:37:50Z"
   },
   {
-    "id": "aws_de80ffa77e15543e9924",
-    "stationId": "awb_b6d3031d6900f4c8795d",
-    "name": "Badrock National",
-    "country": "BG",
-    "url": "https://streams.badrockradio.net/national",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ca1fac2-47b7-4140-8d5b-81a90bfee743"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:49:12Z"
-  },
-  {
     "id": "aws_12d5d724f7ae1d20c658",
     "stationId": "awb_35fbc0cdf40cfda5afb5",
     "name": "BadRock Radio",
@@ -288,11 +249,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "190089aa-0a7f-433a-bb1a-79129e0f0e1c",
       "558c4adf-b1ab-4c2e-99ab-ae2755f2a538"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T04:24:14Z"
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_11b68026cdb5eec2faec",
@@ -489,46 +449,6 @@
     "lastCheckedAt": "2026-11-06T21:38:44Z"
   },
   {
-    "id": "aws_c81fb153168f84cbeb22",
-    "stationId": "awb_f54efb7a02fe2a59cb38",
-    "name": "BNR Burgas",
-    "country": "BG",
-    "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
-    "codec": "aac+",
-    "bitrate": 36,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9dc887fc-81d1-459c-b07f-c70d02581dbc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
-  },
-  {
-    "id": "aws_2c2e0c5d508b1ef5c148",
-    "stationId": "awb_738dcf1ed569f72b810d",
-    "name": "BNR Horizont",
-    "country": "BG",
-    "url": "https://play.global.audio/testb.aac?dist=RADIOPLAY",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "231b256b-06b1-44c6-abe4-cc6b136ec706",
-      "BG:bnr-horizont"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:04Z"
-  },
-  {
     "id": "aws_c7e353618c10df852d8b",
     "stationId": "awb_77406ad6bac48e01dcc7",
     "name": "BNR Horizont",
@@ -548,6 +468,25 @@
     "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
+    "id": "aws_2c2e0c5d508b1ef5c148",
+    "stationId": "awb_738dcf1ed569f72b810d",
+    "name": "BNR Horizont",
+    "country": "BG",
+    "url": "https://play.global.audio/testb.aac?dist=RADIOPLAY",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "BG:bnr-horizont"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
+  },
+  {
     "id": "aws_d43169904750cb679b6d",
     "stationId": "awb_e593a04accde5dd621db",
     "name": "BNR Stara Zagora",
@@ -565,25 +504,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:11:27Z"
-  },
-  {
-    "id": "aws_f8966c85a5a2b05e3e98",
-    "stationId": "awb_2867865c4d3a784bd327",
-    "name": "BNR Varna",
-    "country": "BG",
-    "url": "http://broadcast.masters.bg:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9618b6d0-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
   },
   {
     "id": "aws_2a2221adb616923444b8",
@@ -741,25 +661,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:12:43Z"
-  },
-  {
-    "id": "aws_44f9b3269274e6de60e9",
-    "stationId": "awb_918ff4bb2b149a5373a6",
-    "name": "City Bulgaria",
-    "country": "BG",
-    "url": "http://31.13.223.148:8000/city.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96423f28-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:06:21Z"
   },
   {
     "id": "aws_a5f3f7b1e2c32efc727f",
@@ -953,15 +854,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "685133a7-f3df-428c-aca7-e24ffd649049",
       "BG:darik"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:19:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2a434b52892561ce213a",
@@ -1022,7 +921,7 @@
       "36e3ed92-00ce-4992-9c1c-201e58606e5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_5be2aa4c78204e38c6b6",
@@ -1176,30 +1075,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4cd7c5b3-4b5e-41aa-a93e-cdfd46e71a1d",
-      "BG:easy-radio-bg"
+      "BG:easy-radio-bg",
+      "eeab63e3-9d8c-4b8e-8139-44412206400a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:28:32Z"
-  },
-  {
-    "id": "aws_2dea309cc610e17244b5",
-    "stationId": "awb_ea39f4e9ccd15d546650",
-    "name": "Easy Radio FLAC",
-    "country": "BG",
-    "url": "http://live.easyradio.bg/flac",
-    "codec": "ogg",
-    "bitrate": 16,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "45a1c011-fbef-4216-a60f-d9dfb3ead8bc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:56:29Z"
   },
   {
     "id": "aws_747f7da675896822300f",
@@ -1779,11 +1659,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8fc1369b-c2fa-4cba-8563-548110540b12",
-      "BG:folk-mix"
+      "BG:folk-mix",
+      "e1ad62d7-44ef-4cb6-aa9f-fded04e06477"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:57:48Z"
+    "lastCheckedAt": "2026-11-06T14:54:43Z"
   },
   {
     "id": "aws_8f9f7342d4823889bee8",
@@ -1864,25 +1744,6 @@
     "lastCheckedAt": "2026-11-06T12:34:44Z"
   },
   {
-    "id": "aws_a47cfd065e3621eefb8a",
-    "stationId": "awb_f04d1037e4b41d8c9fc3",
-    "name": "Fresh Bulgaria",
-    "country": "BG",
-    "url": "http://31.13.223.148:8000/fresh.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "96429b7d-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:17:10Z"
-  },
-  {
     "id": "aws_8bd85e6341096bd7224a",
     "stationId": "awb_6679032d4d8b01f75932",
     "name": "Fresh!",
@@ -1900,25 +1761,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:48:02Z"
-  },
-  {
-    "id": "aws_98b7fe94168404c0d635",
-    "stationId": "awb_9841b07bcdd5fc683bf7",
-    "name": "Fusion 7",
-    "country": "BG",
-    "url": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cdfb7ff1-8318-4e80-ba28-ef01e7a96a11"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:42:13Z"
   },
   {
     "id": "aws_8a799d0ea8e77bd0e13e",
@@ -2127,15 +1969,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BG:jazz-fm",
-      "d834a724-89c4-4ae6-8378-28ea8a75a82f"
+      "BG:jazz-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:04:27Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_71ec3e4759d5a7f2f8f8",
@@ -2170,8 +2010,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "927a952c-ff3f-43e7-8c37-10644fd5ea25",
-      "96163e36-0601-11e8-ae97-52543be04c81"
+      "927a952c-ff3f-43e7-8c37-10644fd5ea25"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
@@ -2299,44 +2138,6 @@
     "lastCheckedAt": "2026-11-06T17:37:20Z"
   },
   {
-    "id": "aws_b3911861c7ff745b7e2c",
-    "stationId": "awb_cbfd36c358c8e6600fdc",
-    "name": "Luxor Web Radio",
-    "country": "BG",
-    "url": "http://79.98.108.170:8078/autodj",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fa31fdf1-d6f5-46d5-b40a-5893c0afce5b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
-  },
-  {
-    "id": "aws_68f14eca27e5e0586091",
-    "stationId": "awb_4b60b267188cd065d874",
-    "name": "MAGIC FM",
-    "country": "BG",
-    "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
-    "codec": "aac",
-    "bitrate": 105,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ecd2cab-8138-4023-ba47-c8c2d8308d5f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:28:02Z"
-  },
-  {
     "id": "aws_92e10d42e66c26a2861a",
     "stationId": "awb_7c8b91c308b3b60472d7",
     "name": "MAGIC PARTY",
@@ -2459,7 +2260,7 @@
   {
     "id": "aws_b5198e12d80edd25cae6",
     "stationId": "awb_0feeeac60c825348656b",
-    "name": "Metro DANCE Radio",
+    "name": "Metro Dance Radio",
     "country": "BG",
     "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
     "codec": "mp3",
@@ -2472,10 +2273,10 @@
     ],
     "sourceIds": [
       "BG:metro-dance-radio",
-      "b3a8e73b-f079-4f5f-adc3-3f75d219a3a5"
+      "e22716d5-e746-4434-aafb-d1d4efa5c208"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:29:54Z"
+    "lastCheckedAt": "2026-11-06T19:18:58Z"
   },
   {
     "id": "aws_b9dd082816514ccda585",
@@ -2497,25 +2298,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
-    "id": "aws_e04a17571c2ba62ac5e6",
-    "stationId": "awb_bbe41a1a6ef55a60e045",
-    "name": "Metro Hits",
-    "country": "BG",
-    "url": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "12220754-4e6c-4ae6-95eb-18122fbfc52c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_dbfbc524560af6c67250",
@@ -2549,15 +2331,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8e9187e5-a6fe-449b-b378-0aad6af5b134",
       "BG:metro-love"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:04Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ce7823174fcf08843894",
@@ -2581,25 +2361,6 @@
     "lastCheckedAt": "2026-11-06T01:39:21Z"
   },
   {
-    "id": "aws_4c4cb527c0b2cb378eab",
-    "stationId": "awb_7a43bbc1fadf539ad7df",
-    "name": "Metro Love 70s",
-    "country": "BG",
-    "url": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a711adad-edf3-4b47-abf5-c64cf20063ee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
-  },
-  {
     "id": "aws_78bc3c0fe09beed5bf9e",
     "stationId": "awb_faa075238bcce48209a5",
     "name": "Metro Love 80s",
@@ -2619,25 +2380,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T03:30:54Z"
-  },
-  {
-    "id": "aws_3d735eff216fd2bb8fdf",
-    "stationId": "awb_f0d3f15816c5a9bc72bc",
-    "name": "Metro Love 90s",
-    "country": "BG",
-    "url": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4e81cf51-3844-4a17-b377-54173f58fbae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:19:22Z"
   },
   {
     "id": "aws_438138c003ae89400970",
@@ -2753,15 +2495,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BG:metro-virtuoso",
-      "aaea8fca-00f1-423f-a2f9-5f80ebc8ff5f"
+      "BG:metro-virtuoso"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_2b3d11fe670668951ee0",
@@ -2799,7 +2539,7 @@
       "dc699a1f-9d20-4993-b42d-70d28e444a87"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:02Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_14fa92a1406137729588",
@@ -2936,11 +2676,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "41b7e7f7-9542-4393-9b81-ce99000f62b4",
-      "BG:note-fm"
+      "BG:note-fm",
+      "f716da14-3b8b-4d87-a680-6f40dba97f65"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:44:59Z"
+    "lastCheckedAt": "2026-11-06T03:24:15Z"
   },
   {
     "id": "aws_60cda736112dc28e8e4a",
@@ -3207,7 +2947,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "96165755-0601-11e8-ae97-52543be04c81",
       "c26c7bbd-65fc-4142-930c-14d2aa3c7b6d"
     ],
     "lastCheckOk": true,
@@ -3482,25 +3221,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:33:02Z"
-  },
-  {
-    "id": "aws_5d1db0b63d1577b606fb",
-    "stationId": "awb_0abb0eca31f1c6529a55",
-    "name": "Radio BG London Plus",
-    "country": "BG",
-    "url": "http://live.radiobg.co.uk:8000/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fddb5705-c10e-491d-b2e0-4e4008c0bdbe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
   },
   {
     "id": "aws_eab75b60c5a88d340227",
@@ -3884,7 +3604,7 @@
       "9e415d73-38d5-412d-8c17-e667844717db"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_8cc70e9e134c1b7ee58d",
@@ -4060,25 +3780,6 @@
     "lastCheckedAt": "2026-11-07T01:57:28Z"
   },
   {
-    "id": "aws_2b785ce831bc387c3d00",
-    "stationId": "awb_9279b609ca39ee544921",
-    "name": "Radio Horo Plus",
-    "country": "BG",
-    "url": "http://g5.turbohost.eu:8020/stream256",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cdc70bdd-0050-4595-8be2-bf3ff7da6110"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:56:54Z"
-  },
-  {
     "id": "aws_af4edbe9fba191856a2f",
     "stationId": "awb_1a067e31d4d100be4fac",
     "name": "Radio Hushove",
@@ -4115,25 +3816,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:50:25Z"
-  },
-  {
-    "id": "aws_547cd61d677a3747f9db",
-    "stationId": "awb_317cbe8c4d6abfcd1b85",
-    "name": "Radio Jega Жега",
-    "country": "BG",
-    "url": "http://g5.turbohost.eu:8004/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a6f4586-ce79-43f9-aad9-22c4467558c8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:55:06Z"
   },
   {
     "id": "aws_7686828542160bd0241a",
@@ -4522,11 +4204,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "862b1105-8980-41eb-88b5-df2285afb385",
-      "a5071b03-9004-4329-a3ab-4788c563406c"
+      "862b1105-8980-41eb-88b5-df2285afb385"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:50:01Z"
+    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_a09e7840c5e4f1a1df3e",
@@ -4582,11 +4263,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "3672a2f3-a7d9-4319-8d2c-9089bb43505e",
       "375229cb-2a6b-4814-a679-ff67cd72c236"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:12:44Z"
+    "lastCheckedAt": "2026-11-05T23:38:04Z"
   },
   {
     "id": "aws_ac85e193f7b8ad7ddc7e",
@@ -4702,7 +4382,7 @@
       "BG:radio-ruse"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:24:03Z"
+    "lastCheckedAt": "2026-11-06T13:01:14Z"
   },
   {
     "id": "aws_a33d2ba2c6a886f2bf63",
@@ -4781,25 +4461,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:51:03Z"
-  },
-  {
-    "id": "aws_6540b1cf3ace9cfd2128",
-    "stationId": "awb_fdc05446acdc5d9dbe96",
-    "name": "Radio Sunny Beach",
-    "country": "BG",
-    "url": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b931402f-f49d-4507-b98c-e728f3472d24"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
   },
   {
     "id": "aws_973065e3057fccb3df6b",
@@ -4973,25 +4634,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:12:22Z"
-  },
-  {
-    "id": "aws_12855a05b871dcbf83b6",
-    "stationId": "awb_a9b5c1bb31d4d160c1d4",
-    "name": "Radio Veselina",
-    "country": "BG",
-    "url": "https://bss1.neterra.tv/veselina/veselina.m3u8",
-    "codec": "aac",
-    "bitrate": 105,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f4f82780-1bcb-4f5f-9f58-b0db5af0d568"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_4af6be898acbaee26fe9",
@@ -5240,11 +4882,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0cd0d5e4-41b6-485e-ad39-15250aaa18e1",
-      "BG:radioplay-cafe"
+      "BG:radioplay-cafe",
+      "d89f7a54-c6fa-4e60-a7ff-f787a4749576"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:15:25Z"
+    "lastCheckedAt": "2026-11-06T05:49:38Z"
   },
   {
     "id": "aws_055fcb575581aac5c39d",
@@ -5449,15 +5091,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "BG:sweet-radio-bulgaria",
-      "d994df65-5c71-48ec-b675-96b8d14bd4e9"
+      "BG:sweet-radio-bulgaria"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:47:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0c4f60c955c346dc31b6",
@@ -5648,25 +5288,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:08:32Z"
-  },
-  {
-    "id": "aws_b331a49f851d9f6ab2c2",
-    "stationId": "awb_cbc40bf8ac018c56f801",
-    "name": "Ultra Sandanski",
-    "country": "BG",
-    "url": "http://88.80.96.25:8000/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9619f87b-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:05:11Z"
   },
   {
     "id": "aws_bf5aef3a0d50f47408c4",
@@ -6082,25 +5703,6 @@
     "lastCheckedAt": "2026-11-06T16:31:06Z"
   },
   {
-    "id": "aws_98e32932944106f456ad",
-    "stationId": "awb_8659c6032f2406add929",
-    "name": "БНР – Радио Бургас",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c9d436f9-707c-48ce-8e75-52acfa3331d8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:41:06Z"
-  },
-  {
     "id": "aws_867090b91e300acea5ac",
     "stationId": "awb_2257814131e6958c0672",
     "name": "БНР – Радио Видин",
@@ -6158,82 +5760,6 @@
     "lastCheckedAt": "2026-11-06T03:53:19Z"
   },
   {
-    "id": "aws_d0026168b8ad95ace0ce",
-    "stationId": "awb_0856711f11d8dc9779ce",
-    "name": "БНР – Радио Кърджали",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f85fa234-ffbf-4e36-b3f5-7115128c9ebb"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
-    "id": "aws_752fe46c75aa3c43a816",
-    "stationId": "awb_620934782e6a2992bd06",
-    "name": "БНР – Радио Пловдив",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "51e64141-bc08-4269-8d86-0686983ca710"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:27:47Z"
-  },
-  {
-    "id": "aws_e086b1f6d49f8ef76452",
-    "stationId": "awb_a74b6c39b0a7fcc897a7",
-    "name": "БНР – Радио София",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "930c6825-0da4-41ca-beb9-b53ef7368754"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
-  },
-  {
-    "id": "aws_ce70964fffcc5bf19a28",
-    "stationId": "awb_683a57d2332876687815",
-    "name": "БНР – Радио Шумен",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5390d1c8-2fca-4d56-b72d-44819485e1de"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:01:36Z"
-  },
-  {
     "id": "aws_10b8070f4a2f794d1f78",
     "stationId": "awb_cb169c20cefb2de8feb2",
     "name": "БНР Радио Русе 98.6 FM",
@@ -6251,25 +5777,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:24:24Z"
-  },
-  {
-    "id": "aws_8829f6c122a11f2a58c3",
-    "stationId": "awb_954f591b0459853bc664",
-    "name": "БНР Хоризонт",
-    "country": "BG",
-    "url": "https://play.global.audio/testbhi.aac",
-    "codec": "aac",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7d5f038b-2f8a-42ca-bd0b-b58d0232222a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:01:50Z"
   },
   {
     "id": "aws_0193cf36da22270430ec",
@@ -6348,25 +5855,6 @@
     "lastCheckedAt": "2026-11-06T22:00:57Z"
   },
   {
-    "id": "aws_2d8027cd92de5b080803",
-    "stationId": "awb_f77d63dd6b4ad41bf2a3",
-    "name": "Радио „Епархийски глас“",
-    "country": "BG",
-    "url": "http://radio.mitropolia-sofia.org:8610/stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e3f86cf5-7d3d-42c5-a59e-d11dbc4eee94"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:36:59Z"
-  },
-  {
     "id": "aws_4ecd02fc1d48adccc3a4",
     "stationId": "awb_f77d63dd6b4ad41bf2a3",
     "name": "Радио „Епархийски глас“",
@@ -6380,11 +5868,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "087bbce7-9fc7-48f3-9f8b-1b1109852108",
-      "72ed6ad2-92b4-47f1-9cea-b203fe237f9d"
+      "087bbce7-9fc7-48f3-9f8b-1b1109852108"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:30:48Z"
+    "lastCheckedAt": "2026-11-06T19:21:56Z"
   },
   {
     "id": "aws_46f44e8b5e5468b821be",
@@ -6421,8 +5908,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "63bbbebd-bea1-4397-bce1-224cf6f874a3",
-      "e85f2cdf-af29-4765-8dc5-e75b6f519873"
+      "63bbbebd-bea1-4397-bce1-224cf6f874a3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:05:52Z"
@@ -6447,25 +5933,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:52:47Z"
-  },
-  {
-    "id": "aws_646bc1ab7bc6f8a3124d",
-    "stationId": "awb_5af066a091e3c9464000",
-    "name": "Радио FM+",
-    "country": "BG",
-    "url": "http://193.108.24.21:8000/fmplus",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3d836275-00e5-4df2-84ce-dea9957ea387"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:13:23Z"
   },
   {
     "id": "aws_fd0cc8bd29f4ba9cf842",
@@ -6607,25 +6074,6 @@
     "lastCheckedAt": "2026-11-06T04:13:48Z"
   },
   {
-    "id": "aws_641773c44a4734d539de",
-    "stationId": "awb_75bbb26ccbf65d1b4b55",
-    "name": "Радио Велико Търново",
-    "country": "BG",
-    "url": "http://195.34.121.140:8002/high",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9884bf04-4600-4e65-b73b-281372a22207"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:49:52Z"
-  },
-  {
     "id": "aws_560ecc413345a65869d8",
     "stationId": "awb_a5424efd5b53ce06cc62",
     "name": "Радио Вероника Русе 99.0 FM",
@@ -6761,25 +6209,6 @@
     "lastCheckedAt": "2026-11-06T20:38:44Z"
   },
   {
-    "id": "aws_5e50e6ceb13bd1f3b754",
-    "stationId": "awb_c5057c4e73f2a3c5382c",
-    "name": "Радио Пауър ФМ - Radio Power FM",
-    "country": "BG",
-    "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964a1e75-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:59:50Z"
-  },
-  {
     "id": "aws_498bb35241a98b1bb1ba",
     "stationId": "awb_bbf2fb28df03d6ee5b98",
     "name": "Радио Пияника",
@@ -6815,7 +6244,7 @@
       "96b58791-6b1e-409c-83ca-ba018080427c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T01:41:49Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_4355bc3b694c8a65c461",
@@ -6896,25 +6325,6 @@
     "lastCheckedAt": "2026-11-06T23:09:07Z"
   },
   {
-    "id": "aws_7dfd0825ddd3634ac2bd",
-    "stationId": "awb_6d847d549ef6d64223b2",
-    "name": "Студио Оряхово",
-    "country": "BG",
-    "url": "https://play-radio0.jump.bg:7146/;stream",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2f08f847-04b3-494f-839a-16ab2f7674b1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:59:35Z"
-  },
-  {
     "id": "aws_21294edd7d8fc640b672",
     "stationId": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
@@ -6951,25 +6361,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:32:27Z"
-  },
-  {
-    "id": "aws_18f68173373dd7db117b",
-    "stationId": "awb_ceac03347026f81dacb7",
-    "name": "��� � ����� �����",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31b00ae5-cb3f-4b05-855d-5034f0af5af2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:24:25Z"
   },
   {
     "id": "aws_d265f68ada343550bcee",
@@ -7027,25 +6418,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:39:01Z"
-  },
-  {
-    "id": "aws_73c08221f2c66f032878",
-    "stationId": "awb_ceac03347026f81dacb7",
-    "name": "��� � ����� �����������",
-    "country": "BG",
-    "url": "https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 41,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "06c0897c-572b-46a4-b227-b66f2fb11cfa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_a3b683dc333cc541f4ee",
@@ -7122,24 +6494,5 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:24:28Z"
-  },
-  {
-    "id": "aws_a9de16bcd80b00f8b5e9",
-    "stationId": "awb_61541d4e9efef6b95f8c",
-    "name": "�������� ����� �������",
-    "country": "BG",
-    "url": "http://stream.radioextra-bg.net:8000/razgrad",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7c555751-1cd2-46b3-94e4-2678966b8251"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:45:24Z"
   }
 ]

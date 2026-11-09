@@ -151,15 +151,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PR:cnn-en-espanol",
-      "ccbb579c-5d52-47de-8327-bfa81f2bf1f5"
+      "PR:cnn-en-espanol"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:51:38Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_11f652cb077c04d694c3",
@@ -277,11 +275,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "54dd2436-a952-451c-89e5-24977d4f5cbd",
-      "PR:fuzed-club-radio"
+      "PR:fuzed-club-radio",
+      "e43c6bc3-8847-4ffe-b252-c242d5453b98"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:06:20Z"
+    "lastCheckedAt": "2026-11-05T22:42:18Z"
   },
   {
     "id": "aws_94629182ab52062fa822",
@@ -463,25 +461,6 @@
     "lastCheckedAt": "2026-11-06T08:59:27Z"
   },
   {
-    "id": "aws_8e62fe15b7aaab66cd81",
-    "stationId": "awb_2e6dee31372e158e5287",
-    "name": "La X 100.7 FM",
-    "country": "PR",
-    "url": "http://stream.eleden.com:8235/lax.ogg",
-    "codec": "ogg",
-    "bitrate": 48,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2d661749-ce77-4514-bfd8-271cf8847cf5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:38:17Z"
-  },
-  {
     "id": "aws_12f07a054412998dbeff",
     "stationId": "awb_1bb1dbbaef00c58e6006",
     "name": "Nova Wave Radio",
@@ -581,25 +560,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
-  },
-  {
-    "id": "aws_b12279ccc35d16ba75fc",
-    "stationId": "awb_88074d6f7c513eca109d",
-    "name": "Pura Gracia Radio | WRPG-DB",
-    "country": "PR",
-    "url": "https://15113.live.streamtheworld.com/SAM05AAC459_SC",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a5518803-f2ed-4e53-a5df-d4b7a6c731ea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
   },
   {
     "id": "aws_337a75ec0756f7129689",
@@ -772,15 +732,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "143cc7af-f0f0-44cd-9384-b6cd7c031a5b",
       "PR:radio-tropical-pr"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:00Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5deb321965605deb0fd8",

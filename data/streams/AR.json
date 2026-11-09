@@ -95,25 +95,6 @@
     "lastCheckedAt": "2026-11-06T10:46:14Z"
   },
   {
-    "id": "aws_8db14f853b4c103eaedd",
-    "stationId": "awb_cad9bd97e2261f8bfa99",
-    "name": "89 Net Radio",
-    "country": "AR",
-    "url": "http://streaming.escuchanosonline.com:8062/stream;",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e78939ef-f1f1-463b-aa45-ae9267645718"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
-  },
-  {
     "id": "aws_71fa944b6ad8cf9aa626",
     "stationId": "awb_1c5ad834639ffb26a752",
     "name": "89 Net Radio",
@@ -150,25 +131,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:06:20Z"
-  },
-  {
-    "id": "aws_0b01fdd2b7e88fbcc3d7",
-    "stationId": "awb_5dc02e659e28648c0d07",
-    "name": "90.1 MHz FM EL CHUBUT",
-    "country": "AR",
-    "url": "https://radios.streamingdha.com.ar:9382/;",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cc5aae14-31ef-469d-aabe-288d1ab6160c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:17:36Z"
   },
   {
     "id": "aws_d08296c6a96de847a293",
@@ -243,11 +205,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7dac6761-3afa-426a-a055-4590b6d5ba81",
       "94f9c4eb-179c-4d92-8ae0-4777278d2d04"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:01:14Z"
+    "lastCheckedAt": "2026-11-06T09:49:52Z"
   },
   {
     "id": "aws_4faf5a28b6620f856d2b",
@@ -539,25 +500,6 @@
     "lastCheckedAt": "2026-11-06T13:00:38Z"
   },
   {
-    "id": "aws_eb4b65b42eb76cfb799d",
-    "stationId": "awb_c02d681c75b32c81ee31",
-    "name": "AM 1270 - Radio Provincia de Buenos Aires",
-    "country": "AR",
-    "url": "https://streaming.provinciaradio.com.ar:7008/am",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b51ad016-f7a3-45ab-84dc-792a2701666b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
-  },
-  {
     "id": "aws_803b5fac474161f10447",
     "stationId": "awb_8829e23cb05cd109e65b",
     "name": "AM 1330 Rosario",
@@ -582,20 +524,18 @@
     "name": "AM 530 Somos radio",
     "country": "AR",
     "url": "https://ipanel.instream.audio:7000/stream",
-    "codec": "mp3",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AR:am-530-somos-radio",
-      "cfeebcdf-7b9f-4561-86b4-abf24a185bcf"
+      "AR:am-530-somos-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:38:44Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_11c732ca7cb90a91c4bc",
@@ -725,30 +665,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c46cbd29-f900-43c0-95e8-6201f5904892",
-      "ca580b43-41d2-4a17-8814-d4c63a714623"
+      "c46cbd29-f900-43c0-95e8-6201f5904892"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:09:12Z"
-  },
-  {
-    "id": "aws_438fde25d17ce53a8bbc",
-    "stationId": "awb_50e37400a8ed68bd04a0",
-    "name": "AM710 - Radio 10 (El sonido de la realidad)",
-    "country": "AR",
-    "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 65,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ca61e243-0120-4da2-94fb-7386667f3c1e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:40:01Z"
   },
   {
     "id": "aws_de2468a94595b52a3283",
@@ -1064,11 +984,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4285a122-9c78-417e-879e-5440c0482c56",
-      "AR:aspen-102-3"
+      "AR:aspen-102-3",
+      "b6f8c65a-43c5-4990-be58-8440d2cbf9f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
+    "lastCheckedAt": "2026-11-06T15:35:25Z"
   },
   {
     "id": "aws_31ef6cfd4d555587f246",
@@ -1316,25 +1236,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:41:25Z"
-  },
-  {
-    "id": "aws_7529b1fade65e98d51ca",
-    "stationId": "awb_e65d94bdac5de70f30fc",
-    "name": "Blue 100.7 FM",
-    "country": "AR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4520c04e-0514-43f9-9fe6-89d2f6d746f5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:39:33Z"
   },
   {
     "id": "aws_623cf704fa8b82b197c5",
@@ -1621,15 +1522,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AR:cadena-heat",
-      "cb95b539-fa13-47a0-b440-f14ed86ef204"
+      "AR:cadena-heat"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:19:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6dc3b9125c75b3f24296",
@@ -1710,6 +1609,25 @@
     "lastCheckedAt": "2026-11-06T06:05:50Z"
   },
   {
+    "id": "aws_39508b03ce1e7cc50a45",
+    "stationId": "awb_e3f238ca8bdc7ff259a0",
+    "name": "canal 26",
+    "country": "AR",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+    "codec": "aac,h.264",
+    "bitrate": 211,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2a1509b8-f8a7-4559-97e8-ee7d2daf0c31"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
+  },
+  {
     "id": "aws_4bd26547fd6b6a77bd1d",
     "stationId": "awb_a56442e32099543d5abb",
     "name": "Cantata y Puentes",
@@ -1765,25 +1683,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:56:23Z"
-  },
-  {
-    "id": "aws_754eddf42b0691e22417",
-    "stationId": "awb_0dfffc594c4d0cec88d8",
-    "name": "Chascomús AM 1520",
-    "country": "AR",
-    "url": "https://streaming1.locucionar.com/proxy/radiochascomus?mp=/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "864f4354-0584-441d-ba4d-bbca0255bb7f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:32:38Z"
   },
   {
     "id": "aws_af1d9966d693c02d451f",
@@ -1886,8 +1785,8 @@
     "name": "Cienradios - New Age",
     "country": "AR",
     "url": "https://24223.live.streamtheworld.com/NEWAGE_PYTAAC.aac?",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "aac+",
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -1897,7 +1796,7 @@
       "9d763e6b-8eea-46df-9c06-70b514434e48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-08T17:02:13Z"
   },
   {
     "id": "aws_1aebd7d90e09741c6941",
@@ -2055,7 +1954,7 @@
       "AR:classique-una-radio-de-clasicos"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:03:28Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_db86b426e238ea24dca4",
@@ -2393,25 +2292,6 @@
     "lastCheckedAt": "2026-11-06T17:41:06Z"
   },
   {
-    "id": "aws_028976256760a263f0a1",
-    "stationId": "awb_23f77633213aa28fb428",
-    "name": "Cristal FM 107.9",
-    "country": "AR",
-    "url": "https://radio02.ferozo.com/proxy/ra02001330?mp=/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ed6a894-780e-479c-88f7-eb5427cc2c9a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:59:13Z"
-  },
-  {
     "id": "aws_96adb834054049043219",
     "stationId": "awb_eaf517e90835ce361edd",
     "name": "CRISTAL FM Noetinger",
@@ -2447,7 +2327,7 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2b5f60ce-4cdd-4af1-8310-be56e9ef58e1",
+      "84771452-e9dd-46ae-a8a9-8e578aeac494",
       "AR:cvc-la-voz-urbano"
     ],
     "lastCheckOk": true,
@@ -2471,25 +2351,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:06:29Z"
-  },
-  {
-    "id": "aws_cc928974c62ca33e5cf9",
-    "stationId": "awb_20576a1c740949606bc4",
-    "name": "D Sports Radio 103.1 FM",
-    "country": "AR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af0345ca-6565-483c-9ccc-7129b7e78ecd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:55:37Z"
   },
   {
     "id": "aws_261dd51e8f894ab7b184",
@@ -3020,7 +2881,7 @@
       "96b0d68b-a57d-46e0-a33d-29b9238b07ae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_2c272f3f116b7f2713e9",
@@ -3036,11 +2897,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "12f21dcf-b3a6-4a41-8ee8-d8ee72983ffb",
-      "c9e76d51-4032-4ea8-bb67-1d267b591e4b"
+      "df12530c-0ec3-4d97-8c54-d7fdffad2dae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T00:32:06Z"
+    "lastCheckedAt": "2026-11-06T01:30:04Z"
   },
   {
     "id": "aws_ed1a8dc24dc35b0fca83",
@@ -3048,39 +2908,18 @@
     "name": "El Destape Radio",
     "country": "AR",
     "url": "https://ipanel.instream.audio/8004/stream",
-    "codec": "mp3",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 48,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "46441e95-bc58-46c2-b094-49abf929a24c",
       "AR:el-destape-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:43:20Z"
-  },
-  {
-    "id": "aws_4f83e97744750211fdb1",
-    "stationId": "awb_ac175cedde0c887c8496",
-    "name": "el destape sin fin",
-    "country": "AR",
-    "url": "https://ipanel.instream.audio/8004/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d5932907-2d3b-4bb9-9278-eaca41e86016"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_63ed8df5c5ab60e418c7",
@@ -3432,7 +3271,7 @@
       "f15af84b-34b3-43ba-a039-b80435ae2b6a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:19:24Z"
   },
   {
     "id": "aws_20700c07312508d9b949",
@@ -3452,25 +3291,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_53b09aecc121bcd533c4",
-    "stationId": "awb_26ec6b21df3ba41d543c",
-    "name": "Estación Quince Cincuenta 1550 AM",
-    "country": "AR",
-    "url": "http://streaming2.locucionar.com:8312/stream",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d887ea38-2580-41bc-ba18-a9b9b9e34ab4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:09:32Z"
   },
   {
     "id": "aws_532833915272ece0381f",
@@ -3745,44 +3565,6 @@
     "lastCheckedAt": "2026-11-07T01:37:23Z"
   },
   {
-    "id": "aws_83cbb0c98710e6791911",
-    "stationId": "awb_eb658a14df44dcb5d6e7",
-    "name": "Feeling 91.9 FM",
-    "country": "AR",
-    "url": "http://turadioenvivo.com:8430/stream",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4b71738a-9eaf-11e8-a767-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:24:45Z"
-  },
-  {
-    "id": "aws_7f53c18648c94e5c4e83",
-    "stationId": "awb_bb6c904fdcc990c6fcc8",
-    "name": "Feeling FM 91.7",
-    "country": "AR",
-    "url": "http://turadioenvivo.com:8430/stream",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "126aab05-fe78-4589-8d8d-004790436599"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
-  },
-  {
     "id": "aws_530be4eb15a7f0b004c1",
     "stationId": "awb_b4371ef8659dbbc38b16",
     "name": "Feeling FM 91.7",
@@ -3819,25 +3601,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_9b39c63b581b99783282",
-    "stationId": "awb_d4ec92098739cf7048a8",
-    "name": "Feeling FM 97.1 - Corrientes, Argentina",
-    "country": "AR",
-    "url": "http://turadioenvivo.com:8430/stream",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b2250755-fe2a-4800-91fe-0247a5733e13"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:03:45Z"
   },
   {
     "id": "aws_034c2196e1eab571552b",
@@ -3960,25 +3723,6 @@
     "lastCheckedAt": "2026-11-06T08:37:37Z"
   },
   {
-    "id": "aws_2ccbf731a692849bed88",
-    "stationId": "awb_ecfdedc916adb21bc809",
-    "name": "FM 103.1 DirecTV Sports Radio - Argentina",
-    "country": "AR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "31360479-abb1-470e-96b2-4bf6f726b64f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
     "id": "aws_0074670fb095e00ee710",
     "stationId": "awb_5fe9dc39649c749824fe",
     "name": "FM 105.7",
@@ -4036,25 +3780,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:15:48Z"
-  },
-  {
-    "id": "aws_e5ac6ad16e9e72892eda",
-    "stationId": "awb_5070e16a85cf05832c30",
-    "name": "FM 90 Saladillo FM 90.7",
-    "country": "AR",
-    "url": "https://chino.republicahosting.com:2316/live",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "93a6169c-8fd4-42fa-b1f4-9a958c13a9a2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:07:39Z"
   },
   {
     "id": "aws_f8f5e69b6c93de9db2a0",
@@ -4116,25 +3841,6 @@
     "lastCheckedAt": "2026-11-06T20:36:33Z"
   },
   {
-    "id": "aws_ff2f060bd1f587c726dd",
-    "stationId": "awb_a791b8e1785c8f102d54",
-    "name": "Fm 95.5 Republica",
-    "country": "AR",
-    "url": "https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3",
-    "codec": "aac",
-    "bitrate": 40,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2828ec80-35ea-4b75-91df-376d50d6b733"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:08Z"
-  },
-  {
     "id": "aws_86a3c89302608721df76",
     "stationId": "awb_0e4f9d35780415a27d2f",
     "name": "FM 97.9 Vida",
@@ -4159,20 +3865,18 @@
     "name": "FM 97.9 Vida",
     "country": "AR",
     "url": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AR:fm-97-9-vida",
-      "ad563392-497b-4fe0-a3e6-4a6b30d57bbe"
+      "AR:fm-97-9-vida"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:08:00Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_a1a53b9d42cfcd5406f0",
@@ -4188,11 +3892,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "064fdef2-6704-4a47-9ed4-340b57a32b65",
       "b9307751-b03b-4998-9eb2-9543f2a1e2be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
+    "lastCheckedAt": "2026-11-06T06:34:06Z"
   },
   {
     "id": "aws_00750da21e93339b3069",
@@ -4309,8 +4012,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7a557cfa-0de9-4e09-a2ee-58f82979fc1e",
-      "cfb1d1f7-922e-472f-a3fb-a4a8538cdd0d"
+      "7a557cfa-0de9-4e09-a2ee-58f82979fc1e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:08:32Z"
@@ -4697,15 +4399,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1391cd49-440b-43c0-a84f-be9e6175ceb8",
       "AR:fm-blackie-89-1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:59:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4856d981442c8381dc53",
@@ -4955,7 +4655,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "28b09ba3-2b4a-4a53-bd41-1ac026118f84",
       "936c0964-ea41-4fb9-892a-cc6fe0609fcd"
     ],
     "lastCheckOk": true,
@@ -4993,15 +4692,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "33efd213-28e6-40d0-9e0a-dacf1f855c80",
       "AR:fm-ciudad-94-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:17:31Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0ee59144c5f6d9eee34f",
@@ -5317,7 +5014,7 @@
       "db813d4e-6532-47c7-8ceb-eeed2fd4558d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
+    "lastCheckedAt": "2026-11-06T08:31:49Z"
   },
   {
     "id": "aws_ac97b730b173f1d4af05",
@@ -5832,26 +5529,6 @@
     "lastCheckedAt": "2026-11-06T09:49:12Z"
   },
   {
-    "id": "aws_4104fc4cde81b38ed02e",
-    "stationId": "awb_ff280f8d19de263d708c",
-    "name": "FM Esperanza 107.1 - Maquinista Savio",
-    "country": "AR",
-    "url": "https://streaming01.shockmedia.com.ar:10404/stream?icy=http",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "027d5007-0628-4d33-9e86-b2389a516745",
-      "edf7d983-fb5f-4fde-b8f1-a95beee73ff0"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
     "id": "aws_64a459ca82f414b00ef5",
     "stationId": "awb_a43e0fa998bef84b8f17",
     "name": "FM ESPERANZA 107.1 MHZ",
@@ -6046,25 +5723,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
-    "id": "aws_31749fc22dbf9061648e",
-    "stationId": "awb_edf7cb7d745c685d319f",
-    "name": "FM HIT 97.3 Mar del Plata",
-    "country": "AR",
-    "url": "https://streaming01.shockmedia.com.ar:10586/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7a48415d-c4b1-41bc-bed1-7bf2f3cf295c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
   },
   {
     "id": "aws_aaa7ed340ab88573025e",
@@ -6411,25 +6069,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
-    "id": "aws_5a5c4116b073fdccbd0a",
-    "stationId": "awb_7bdfb8343a54df4041ce",
-    "name": "FM Laser 98.5 - General Pico",
-    "country": "AR",
-    "url": "https://streamconex.com:8076/stream/",
-    "codec": "mp3",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "eff66d04-4e04-4a4c-b07d-68e2f15aea51"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:11:42Z"
   },
   {
     "id": "aws_53501d2d8c31ad665588",
@@ -6909,25 +6548,6 @@
     "lastCheckedAt": "2026-11-05T23:58:12Z"
   },
   {
-    "id": "aws_163d1bbfe70d87925525",
-    "stationId": "awb_3e4e97b4617780779acd",
-    "name": "Fm Sierras 107.9Mhz",
-    "country": "AR",
-    "url": "http://giss.tv:8000/fmsierras.mp3",
-    "codec": "mp3",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2015d9a0-69b1-48c2-8b7f-b0b39c3173ce"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:44:52Z"
-  },
-  {
     "id": "aws_c1ae42724a9f956a09e7",
     "stationId": "awb_06ef690cdd91242095ad",
     "name": "FM Soldados 87.5",
@@ -6941,11 +6561,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "960839d5-212d-4fcb-8af0-e672133582b0",
       "bf675a9c-f03f-4825-8d8c-51757472b811"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:53:47Z"
+    "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
     "id": "aws_0ba53ee4107ef04df22c",
@@ -7328,45 +6947,6 @@
     "lastCheckedAt": "2026-11-07T01:56:40Z"
   },
   {
-    "id": "aws_0182c50cff311bdc93a5",
-    "stationId": "awb_34782a5d162d2872b4ed",
-    "name": "FM105.7",
-    "country": "AR",
-    "url": "https://streaming3.locucionar.com/proxy/fm1057?mp=/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6061c8ac-1445-4230-9bde-5a33cd436581",
-      "99972c9c-5e23-4460-ae6d-8a34e64e860f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:07:05Z"
-  },
-  {
-    "id": "aws_b84feaaef4ff54c614da",
-    "stationId": "awb_7e28235147b45d2c2fff",
-    "name": "FMi 99.1",
-    "country": "AR",
-    "url": "https://ssl.radiosnethosting.com/index.php?port=9808",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5e3d900d-0ac5-4b5a-a479-4e715fa57805"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
-  },
-  {
     "id": "aws_b9863c291309ee3f979c",
     "stationId": "awb_52fed9a81f9f8b9bf96f",
     "name": "FMi 99.1 FM",
@@ -7441,25 +7021,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:05:11Z"
-  },
-  {
-    "id": "aws_8fba369b14091e4c71f4",
-    "stationId": "awb_c629393eae9f8913506a",
-    "name": "FMQ 93.5",
-    "country": "AR",
-    "url": "https://streamlky.alsolnet.com/radiofmq",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "438935da-40d9-498e-b481-ebd7d9dc89a2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
     "id": "aws_a441ec40f6f35222c559",
@@ -7677,44 +7238,6 @@
     "lastCheckedAt": "2026-11-06T11:46:09Z"
   },
   {
-    "id": "aws_3e0cf3f6048938ae7c74",
-    "stationId": "awb_8aa50641d7d5a4b91068",
-    "name": "Futura FM 90.5",
-    "country": "AR",
-    "url": "https://streamer.fmfutura.com.ar/vivo.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2eac5d27-f4dc-455b-8257-48899716b279"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:57:28Z"
-  },
-  {
-    "id": "aws_8e7297eea042100cb935",
-    "stationId": "awb_64f7a710266e2964c69f",
-    "name": "FutuRÖck",
-    "country": "AR",
-    "url": "https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8",
-    "codec": "aac",
-    "bitrate": 150,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f1b958c4-d1d8-4cc0-b4c3-cc9a3c2e129d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:49:04Z"
-  },
-  {
     "id": "aws_c9dc3042fdcf53777a67",
     "stationId": "awb_fd19e96a186262ad398a",
     "name": "FutuRock",
@@ -7770,25 +7293,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T16:41:25Z"
-  },
-  {
-    "id": "aws_939d72df96013f52e591",
-    "stationId": "awb_fc5d3887e7e86b6af799",
-    "name": "Glam Fm 96.3",
-    "country": "AR",
-    "url": "https://streaming2.locucionar.com/proxy/glam963?mp=/stream",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0587886c-a96a-4ee1-bd39-d8791a71faef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:21:17Z"
   },
   {
     "id": "aws_a81c972ad79b4d02d8d1",
@@ -7991,15 +7495,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "14fb6733-3aa6-4fdb-b4cf-0d890cd91e16",
       "AR:hollywood-101-3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_69e29ef495dad5872e4f",
@@ -8078,25 +7580,6 @@
     "lastCheckedAt": "2026-11-05T22:34:05Z"
   },
   {
-    "id": "aws_e86fc641f83d00acd8ac",
-    "stationId": "awb_77f768d5d041cbcc3682",
-    "name": "HORIZONTE RADIO CORDOBA",
-    "country": "AR",
-    "url": "https://stream-179.surfernetwork.com/xl8dtwzk7zetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bDhkdHd6azd6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJseHhPeXJBbVNVLXlNaFJxeGVtVDd3IiwiaWF0IjoxNzkzOTI0NTQ2LCJleHAiOjE3OTM5MjQ2MDZ9.C4zz95ZA7aSu5rOSmB-_ISvqvkGpeImb3g5gdeOU1Eo",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ff5c53c-21eb-4884-9015-37484126a7d3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:22:54Z"
-  },
-  {
     "id": "aws_70d1ff31d5d87ecf0ab8",
     "stationId": "awb_0e0444bd46b24b63bb60",
     "name": "in.radio",
@@ -8152,25 +7635,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:19:33Z"
-  },
-  {
-    "id": "aws_2f0809787385d5a92263",
-    "stationId": "awb_450217e460087d9dad4c",
-    "name": "iTUNES TOP 40 FFH. 128K AAC. Argentina",
-    "country": "AR",
-    "url": "https://mp3.ffh.de/ffhchannels/hqtop40.aac",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7534f5b2-3d66-4849-bd22-197af557e821"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:20:37Z"
   },
   {
     "id": "aws_d4f3801a434aa0a6b3c3",
@@ -8732,7 +8196,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5ae5dad7-31bd-46cb-8373-240b550025a0",
       "7ef33df3-1bb2-44f0-af8c-555cd023f20a"
     ],
     "lastCheckOk": true,
@@ -8771,11 +8234,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c83f69db-611c-4d61-a6f3-7c54f794e1a9",
       "ffd3b544-5ab7-4ca1-ad2b-1df7a7e0bafc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:18:44Z"
+    "lastCheckedAt": "2026-11-06T03:28:02Z"
   },
   {
     "id": "aws_4f1d2125253c7618bd3c",
@@ -8883,34 +8345,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AR:la-nacion-104-9",
-      "ced4eb46-0a32-4ea7-bf28-e26c94d989f8"
+      "AR:la-nacion-104-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:29:45Z"
-  },
-  {
-    "id": "aws_d325fc9d9d8ce2c9b89e",
-    "stationId": "awb_4e8c1842057fcd31fb6e",
-    "name": "LA NACION 104.9 Más Música",
-    "country": "AR",
-    "url": "https://das-edge63-live365-dal03.cdnstream.com/a98981",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0c78d81a-0118-49bc-bb5d-2109c031305d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c9632dd792cd178c443a",
@@ -9221,25 +8662,6 @@
     "lastCheckedAt": "2026-11-06T11:05:18Z"
   },
   {
-    "id": "aws_bd06ad1fee388998bc0b",
-    "stationId": "awb_c3844aa3dd3150ad028e",
-    "name": "La Retro Fest",
-    "country": "AR",
-    "url": "https://streaming01.shockmedia.com.ar/9716/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f931d316-f814-4257-9b39-bdd7cd1036af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
     "id": "aws_0747ee72d7a989c50860",
     "stationId": "awb_23e9376c7aaf24dc8b5b",
     "name": "La Rocka 80 Argentina",
@@ -9310,11 +8732,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "233ea441-7da7-4c0e-b92f-70fdf771b68f",
-      "913fdede-7788-4172-b207-7974c49e3d02"
+      "233ea441-7da7-4c0e-b92f-70fdf771b68f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:56:46Z"
+    "lastCheckedAt": "2026-11-06T03:32:21Z"
   },
   {
     "id": "aws_dcd75314b89b899ab1e6",
@@ -9372,25 +8793,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:53:31Z"
-  },
-  {
-    "id": "aws_4a1f97022d42cebb8dc3",
-    "stationId": "awb_373c6a803d50348b322a",
-    "name": "LaRadioDeLosLentos - Just Ballads",
-    "country": "AR",
-    "url": "https://01.solumedia.com.ar:7828/stream",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ace0894b-f833-4ac1-adaf-3773583d9a87"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_54eded9143c9789bd6b4",
@@ -9602,25 +9004,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:58:12Z"
-  },
-  {
-    "id": "aws_abe1bbb2e8fbb2d917e6",
-    "stationId": "awb_f73d2016585329f00987",
-    "name": "Los 40 Santa Fe 97.7 FM",
-    "country": "AR",
-    "url": "https://radios.solumedia.com:6158/stream?icy=http",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "37f4c385-a167-4706-8d9a-846a6bbc2d1d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
   },
   {
     "id": "aws_feccff1500f12652ccc3",
@@ -10092,8 +9475,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "58247a7d-5bfb-4002-8ac5-156970e1faa3",
-      "663b9393-04d8-4201-b847-89a34146ad28"
+      "58247a7d-5bfb-4002-8ac5-156970e1faa3"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:46:30Z"
@@ -10671,44 +10053,6 @@
     "lastCheckedAt": "2026-11-06T19:45:08Z"
   },
   {
-    "id": "aws_55b2c6306f4b5071c82b",
-    "stationId": "awb_42746dae801feff70530",
-    "name": "LU12 La Radio De La Gente, Rio Gallegos",
-    "country": "AR",
-    "url": "https://sa.mp3.icecast.magma.edge-access.net/LOA_LaOpinionAustral",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961fabcc-0907-48ec-98da-efc7616c9619"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:36:11Z"
-  },
-  {
-    "id": "aws_3deea5f54e1440f8d54f",
-    "stationId": "awb_cef307bdf758c91cc42b",
-    "name": "LU14 Radio Provincia de Santa Cruz AM 830 khz",
-    "country": "AR",
-    "url": "https://transmision-lu14.santacruz.gob.ar/lu14.mp3",
-    "codec": "ogg",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d1b0080c-506b-49bc-bb25-9a302cbb3eb7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:21:58Z"
-  },
-  {
     "id": "aws_7436a070d13ea93b3c98",
     "stationId": "awb_2ec859e91fc53530c561",
     "name": "LU18 AM 640 Radio del Valle (Rio Negro)",
@@ -10766,44 +10110,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:54:43Z"
-  },
-  {
-    "id": "aws_be3875333acaa57a4547",
-    "stationId": "awb_b71294cb21e3e9277f68",
-    "name": "LU20 Radio Chubut Trelew AM 580",
-    "country": "AR",
-    "url": "https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f74a407d-f6a5-4b23-a8a5-2542daeab587"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:40:51Z"
-  },
-  {
-    "id": "aws_abf992f05ce848f5631c",
-    "stationId": "awb_4671a01806f35956a645",
-    "name": "LU22 Radio Tandil AM1140",
-    "country": "AR",
-    "url": "https://streaming01.shockmedia.com.ar/8170/live",
-    "codec": "mp3",
-    "bitrate": 160,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6b0e13c5-3f5d-4d1d-b05e-ccb7f3885dc5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:45:17Z"
   },
   {
     "id": "aws_651cb3e8fe22a440abf6",
@@ -11093,25 +10399,6 @@
     "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
-    "id": "aws_ef12b69cbc0bed251f0b",
-    "stationId": "awb_b3cf31f6f69297ee5b96",
-    "name": "m4dr35",
-    "country": "AR",
-    "url": "https://cdn.instream.audio:9288/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e7e78f55-8383-4086-8c7a-03a63a962f46"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T00:32:06Z"
-  },
-  {
     "id": "aws_66e613c6b278cc9bb636",
     "stationId": "awb_5b621c72e8f37e3be255",
     "name": "M90 89.9 FM",
@@ -11245,25 +10532,6 @@
     "lastCheckedAt": "2026-11-07T02:42:52Z"
   },
   {
-    "id": "aws_b0858b3a605b3493d195",
-    "stationId": "awb_8c3d159d09f2343887ef",
-    "name": "Mas que Musica",
-    "country": "AR",
-    "url": "https://radios.solumedia.com:6276/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0df11a87-7483-4ee1-a589-8c653869133a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:31:17Z"
-  },
-  {
     "id": "aws_06240a0fdc50f7ea71ba",
     "stationId": "awb_624943872bb743318c56",
     "name": "Master 89.9",
@@ -11395,45 +10663,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T07:56:36Z"
-  },
-  {
-    "id": "aws_f343700dcdc88aa90489",
-    "stationId": "awb_2ea9fbc4a2208c375eed",
-    "name": "MEGA 98.3",
-    "country": "AR",
-    "url": "https://mega.stweb.tv/mega983/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "55b910e3-ab26-4f13-8aae-6409bbdfe15d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
-  },
-  {
-    "id": "aws_599eec8f7662cdfe28c5",
-    "stationId": "awb_2dacde210926ee7a3a14",
-    "name": "Mega 98.3 FM",
-    "country": "AR",
-    "url": "https://mega.stweb.tv/mega983/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "22e587bb-e9ca-42d9-863d-61470b697eb3",
-      "47c1e2be-cfae-48c2-be10-be9324f898ef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:25:53Z"
   },
   {
     "id": "aws_079d09094ab558f701ed",
@@ -11672,25 +10901,6 @@
     "lastCheckedAt": "2026-11-06T19:19:32Z"
   },
   {
-    "id": "aws_3e503ac2ba8886e685c2",
-    "stationId": "awb_df9e0f82964f32671002",
-    "name": "Milenium 94.1 FM",
-    "country": "AR",
-    "url": "http://23.111.184.195:8020/mileniumrosario.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b67bee65-159d-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:51:03Z"
-  },
-  {
     "id": "aws_eec92ba189b1ef183487",
     "stationId": "awb_9fbf6171fcd651913e61",
     "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
@@ -11710,25 +10920,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T15:20:18Z"
-  },
-  {
-    "id": "aws_97678659e5bba6a610b9",
-    "stationId": "awb_0dd1f37dba4e0a36b03f",
-    "name": "Mucha Radio",
-    "country": "AR",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c82972c8-9048-4791-a296-b5cb5b482270"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
     "id": "aws_238f325d04f25ada776c",
@@ -12149,7 +11340,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a65022b0-b696-4fbe-9d38-bff5e9ed74d0",
       "fa9690fc-ec27-496f-b704-c475144506d7"
     ],
     "lastCheckOk": true,
@@ -12466,25 +11656,6 @@
     "lastCheckedAt": "2026-11-06T23:36:10Z"
   },
   {
-    "id": "aws_ee57fbe36fc5f22c830c",
-    "stationId": "awb_694c4d733c0f24a5f2fd",
-    "name": "Pop Radio 101.5",
-    "country": "AR",
-    "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "cdab75e3-1924-4103-86c0-33f049f6ca7a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:15:23Z"
-  },
-  {
     "id": "aws_add5b01a2d184fcf9b01",
     "stationId": "awb_bec8f50623bfb7c6e5f6",
     "name": "Pop Radio. FM 101.5. Ciudad de Bs. As. Version 3",
@@ -12502,25 +11673,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:31:49Z"
-  },
-  {
-    "id": "aws_be6bd88ec6cd7429496e",
-    "stationId": "awb_f7365a9287287e322d02",
-    "name": "Pop Radui FM 101.5. Ciudad de Bs. As. Version 2",
-    "country": "AR",
-    "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4d97e7c1-dbea-4e16-ae51-8ebc3a643b17"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:04Z"
   },
   {
     "id": "aws_250cb404062a0204566e",
@@ -12612,11 +11764,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "11b3a020-0fb3-47ec-91c3-96d5acc08869",
-      "ccb19396-4c44-49d6-95e8-9abac0d50f8b"
+      "11b3a020-0fb3-47ec-91c3-96d5acc08869"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:38:26Z"
+    "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
     "id": "aws_31e7433b46066ab33bda",
@@ -12822,30 +11973,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7bc38611-e8d6-494d-9f71-2c1be5341f12",
       "9c7ea959-9006-4176-8bfa-7b392dea84f2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
-  },
-  {
-    "id": "aws_e48b88de8d490e6b23af",
-    "stationId": "awb_079c5846b40a9b3d3cd5",
-    "name": "Radio 10 710 AM",
-    "country": "AR",
-    "url": "https://radio10.stweb.tv/radio10/live/chunks.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7a36295d-00f2-4559-81e6-3f1ec63393e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:34:05Z"
+    "lastCheckedAt": "2026-11-05T23:01:49Z"
   },
   {
     "id": "aws_2c61b7486fefbccb7270",
@@ -12884,25 +12015,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T12:40:44Z"
-  },
-  {
-    "id": "aws_f82bb456236c9dbf5ed0",
-    "stationId": "awb_5e03ea6a7ae86693288e",
-    "name": "Radio 10 Mar del Plata FM 105.5 / Miramar 101.7 / Balcarce",
-    "country": "AR",
-    "url": "https://stream.zeno.fm/4r530f2a9f0uv",
-    "codec": "aac",
-    "bitrate": 112,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "847b4f9a-5b66-4dec-a0aa-d2e3131ab8a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:02:37Z"
   },
   {
     "id": "aws_c19175babb43c952fc90",
@@ -12981,25 +12093,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:02:29Z"
-  },
-  {
-    "id": "aws_aaa357fc66d402a764ec",
-    "stationId": "awb_c78da2240173b1eb73e4",
-    "name": "RADIO 2 105.5 FM - Jujuy",
-    "country": "AR",
-    "url": "http://181.177.20.20:8000/radio2",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4873389e-f2b7-43c1-bfd6-bd9a70216440"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:07Z"
   },
   {
     "id": "aws_b944b82f2adb1448cec1",
@@ -13129,11 +12222,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6c7070c0-a473-4110-8020-826cf37ef4ff",
-      "8f72f359-eb53-4a0b-85c7-07707df09980"
+      "6c7070c0-a473-4110-8020-826cf37ef4ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T19:21:56Z"
+    "lastCheckedAt": "2026-11-06T06:59:26Z"
   },
   {
     "id": "aws_fdac9ce24d4fcdec4462",
@@ -13227,11 +12319,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9f93d2f9-d044-4a17-b6cd-7d9ea7306a19",
-      "fc6421f2-e490-4d01-be12-626b074f0d14"
+      "9f93d2f9-d044-4a17-b6cd-7d9ea7306a19"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:41:16Z"
+    "lastCheckedAt": "2026-11-06T00:10:48Z"
   },
   {
     "id": "aws_2655165fe1e233031ef7",
@@ -13327,25 +12418,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:15:22Z"
-  },
-  {
-    "id": "aws_cdbf50f6c7708d18196c",
-    "stationId": "awb_896cecdf5a5a371b9406",
-    "name": "RADIO ACTIVA COMUNITARIA - FM 96.9 - MASHWITZ",
-    "country": "AR",
-    "url": "https://streaming01.shockmedia.com.ar:10870/stream?icy=http",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ff58ff5c-6487-42d1-bd25-fda8d86727ef"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
   },
   {
     "id": "aws_211ac2e46c71a954bb69",
@@ -13486,20 +12558,18 @@
     "name": "Radio Amanecer AM 1290 - FM 92.7",
     "country": "AR",
     "url": "https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 24,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "AR:radio-amanecer-am-1290-fm-92-7",
-      "b0b1f8f1-432d-4e4a-9bf5-7067bf609ad2"
+      "AR:radio-amanecer-am-1290-fm-92-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:59:19Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_88450a7c6d9efafbb113",
@@ -13629,11 +12699,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7826b1a0-3498-4610-af79-6fdeebdb23d7",
       "fdd73599-e2a1-40b0-96bc-874663ce7215"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:20:31Z"
+    "lastCheckedAt": "2026-11-06T03:27:04Z"
   },
   {
     "id": "aws_8905a4a0b76259722b2a",
@@ -13767,25 +12836,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:14:35Z"
-  },
-  {
-    "id": "aws_ae295e26aa0e014be529",
-    "stationId": "awb_2a21879ba4dbd561a2c3",
-    "name": "Radio Bicentenario Tucumán",
-    "country": "AR",
-    "url": "http://01.solumedia.com.ar:7792/;stream/1",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b8058f33-ea9a-426e-ac86-be2ef987c131"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
   },
   {
     "id": "aws_521cb434b058ff315c9c",
@@ -15061,20 +14111,18 @@
     "name": "Radio Disney 94.3 - Buenos Aires, Argentina",
     "country": "AR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9257ed3b-c422-43cf-a8dd-8165861b3187",
       "AR:radio-disney-94-3-buenos-aires-argentina"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:17:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_97ca2c0aae378587e8ba",
@@ -15588,8 +14636,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "287c657e-b135-43ba-95c5-198e933fc91a",
-      "675a292b-4b56-4fcd-9735-cc7964681c8e"
+      "287c657e-b135-43ba-95c5-198e933fc91a"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:10:05Z"
@@ -15767,44 +14814,6 @@
     "lastCheckedAt": "2026-11-06T19:15:39Z"
   },
   {
-    "id": "aws_9ab5066a123aef0c48d2",
-    "stationId": "awb_cb08be6504fc144dd13f",
-    "name": "Radio FM UTN 94.5 - Regional Mendoza",
-    "country": "AR",
-    "url": "http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f097bc3-0e35-4971-a2cb-a7f35e391464"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
-    "id": "aws_37698cdd4e120e0e085d",
-    "stationId": "awb_e0e7025497cd5f888263",
-    "name": "Radio FMQ 93.5",
-    "country": "AR",
-    "url": "https://streamlky.alsolnet.com/radiofmq",
-    "codec": "aac+",
-    "bitrate": 32,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3b702e1-2e3f-402d-9b26-329b5b6c9c1e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:42:38Z"
-  },
-  {
     "id": "aws_ad28779727f3eaa712bb",
     "stationId": "awb_e1a838459ff526ba82d1",
     "name": "Radio Folclorisimo AM 1410",
@@ -15970,11 +14979,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "25044f96-81d1-44fb-87a2-650333a932b5",
       "c30bbbf9-b1a8-4a27-b880-4c0c4c8b81a5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:41:25Z"
+    "lastCheckedAt": "2026-11-06T06:12:35Z"
   },
   {
     "id": "aws_ef45ce630e8bc35fc04a",
@@ -16089,6 +15097,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:24:24Z"
+  },
+  {
+    "id": "aws_50e239a9b09faeec39fe",
+    "stationId": "awb_f40dc54742ec4f2ff540",
+    "name": "Radio Infinito",
+    "country": "AR",
+    "url": "https://radiosar.com/8088/stream",
+    "codec": "aac+",
+    "bitrate": 56,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8a341c5c-3f65-42b7-ba8f-4c16a61ed9c2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_6f94117fe10ec7c801c0",
@@ -16792,11 +15819,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "33c980ec-9b55-435e-ada9-579267c86c12",
-      "ea63eebb-cdae-4821-aa1c-cda4f3bfae80"
+      "33c980ec-9b55-435e-ada9-579267c86c12"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T16:12:19Z"
+    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_09a4f8e3d3516df7c336",
@@ -16972,25 +15998,6 @@
     "lastCheckedAt": "2026-11-07T00:55:09Z"
   },
   {
-    "id": "aws_56f89f81d9662d78e661",
-    "stationId": "awb_0028c827b5e1cdf18574",
-    "name": "RADIO MASTERS",
-    "country": "AR",
-    "url": "https://streamingradiolinks.xyz/8130/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "49da4728-6edb-4192-b088-d791df846e4f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:15:42Z"
-  },
-  {
     "id": "aws_da5ec9e315c03051af6c",
     "stationId": "awb_a675c52d7c48fad7d4f3",
     "name": "Radio Masters - FM 101.3 - Zarate",
@@ -17046,25 +16053,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:37:36Z"
-  },
-  {
-    "id": "aws_7f9744d92905c5ab8d98",
-    "stationId": "awb_9415071c8da14e5d0512",
-    "name": "Radio Meridiano",
-    "country": "AR",
-    "url": "http://23.111.184.195:8050/fmmeridiano.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "123904d6-69ec-4639-a4b6-ecb945d02e2d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:03:43Z"
   },
   {
     "id": "aws_d79ef022b4e11490728a",
@@ -17487,25 +16475,6 @@
     "lastCheckedAt": "2026-11-06T03:43:29Z"
   },
   {
-    "id": "aws_54bc1f4b4cb61b762f4e",
-    "stationId": "awb_ce2bb9863f0ce306ede5",
-    "name": "radio nacional Viedma AM 1150",
-    "country": "AR",
-    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad2",
-    "codec": "mp3",
-    "bitrate": 75,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6f7280ac-1d72-4d1a-a6a4-fab019ab3d09"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:01:47Z"
-  },
-  {
     "id": "aws_30406c564f075ad41ced",
     "stationId": "awb_ba5bf30abb453d9eb7d3",
     "name": "Radio News Posadas 89.5",
@@ -17713,63 +16682,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:56:22Z"
-  },
-  {
-    "id": "aws_95fbc598aeed5e44b233",
-    "stationId": "awb_930706835b88029ad86b",
-    "name": "Radio one",
-    "country": "AR",
-    "url": "https://one.stweb.tv/one/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "93eeeeb2-12ea-4f63-aada-e2d53729d2a5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
-  },
-  {
-    "id": "aws_86ac46b0e86ec50a69f2",
-    "stationId": "awb_384e15acf07d49aa2a7c",
-    "name": "Radio One 103.7",
-    "country": "AR",
-    "url": "https://one.stweb.tv/one/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a571a206-324e-474a-9001-3e5947b18685"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
-  },
-  {
-    "id": "aws_f98ddd568edac4d7cc27",
-    "stationId": "awb_b480484bacb6a2d770da",
-    "name": "Radio ONE FM 103.7",
-    "country": "AR",
-    "url": "https://one.stweb.tv/one/live/playlist.m3u8",
-    "codec": "aac",
-    "bitrate": 98,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "62fcfdcd-a2c1-44b3-bc57-7533013bdcb4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:59:35Z"
   },
   {
     "id": "aws_ee6156a6bcc6304da812",
@@ -17998,25 +16910,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:27:47Z"
-  },
-  {
-    "id": "aws_32013088ef2955f78ca4",
-    "stationId": "awb_ee74c245fd7909d357f0",
-    "name": "Radio Provincia - AM1270",
-    "country": "AR",
-    "url": "https://streaming.provinciaradio.com.ar:7008/am",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "02052484-6b24-4c54-9384-98d001d20dff"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:49:38Z"
   },
   {
     "id": "aws_6b8b3be1b6cf4e7147ca",
@@ -18261,30 +17154,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "04b78f5a-a9f3-4555-8938-ba680b8bb402",
-      "AR:radio-rio-cuarto"
+      "AR:radio-rio-cuarto",
+      "c149fdd5-fe73-45a0-8d2d-56f3799b726d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:39:01Z"
-  },
-  {
-    "id": "aws_4399550b0dab188ef741",
-    "stationId": "awb_500a6d50635b4e140951",
-    "name": "Radio Rit moOnline",
-    "country": "AR",
-    "url": "https://stream4.mcvhost.com/ritmo",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1ee5f860-eb60-45b8-8a1d-3465eee057d1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:23:52Z"
   },
   {
     "id": "aws_bf934ea06d37e1127c16",
@@ -18332,20 +17206,18 @@
     "name": "Radio Rivadavia",
     "country": "AR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6cee259f-5aa9-42eb-92f0-fc61bdf4e0ec",
       "AR:radio-rivadavia-2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:34:56Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_cfe7aa8fa601accc6ddd",
@@ -18353,20 +17225,18 @@
     "name": "Radio Rivadavia AM 630. Ciudad de Buenos Aires",
     "country": "AR",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3c6c111c-6bbc-44ae-8ad8-46b502b3002a",
       "AR:radio-rivadavia-am-630-ciudad-de-buenos-aires"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:47:13Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8fec3b6b54012205456a",
@@ -18683,15 +17553,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "70f45026-a937-4084-95fb-95ddb581ca7c",
       "AR:radio-shopping"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:04:33Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c2f9c121b8c04bfce510",
@@ -19190,120 +18058,6 @@
     "lastCheckedAt": "2026-11-06T10:10:09Z"
   },
   {
-    "id": "aws_10bd4347c6339a8cd6be",
-    "stationId": "awb_edf23bdfcf1b04bc27fe",
-    "name": "radio universidad de rosario",
-    "country": "AR",
-    "url": "https://cdn.instream.audio/:9202/stream",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c30e559c-03bd-448d-a1bb-bc572a833c01"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:03:32Z"
-  },
-  {
-    "id": "aws_281e3cf46a1a1ddcf382",
-    "stationId": "awb_3e9e7876c7041143be46",
-    "name": "Radio Universidad FM 93.5 Rio Grande",
-    "country": "AR",
-    "url": "http://streamall.alsolnet.com/latecno",
-    "codec": "aac",
-    "bitrate": 32,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8673d9fa-12da-49c9-9399-8ba9622fabfe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:39:08Z"
-  },
-  {
-    "id": "aws_52478d1562a5a95ae0c1",
-    "stationId": "awb_20d80ebff3ea777afce2",
-    "name": "Radio Universidad Mendoza",
-    "country": "AR",
-    "url": "https://fm.uncu.edu.ar/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "6d4cc42b-f6c4-4e75-9ede-0ccad6b908a9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
-  },
-  {
-    "id": "aws_24811654408b798cab7d",
-    "stationId": "awb_6e1d3da60fe9a0d08289",
-    "name": "Radio Universidad Nacional de Cuyo FM 96.5",
-    "country": "AR",
-    "url": "https://fm.uncu.edu.ar/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "539864b4-3a61-42e9-9a94-5802010687f2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:01:14Z"
-  },
-  {
-    "id": "aws_1e19892e471f191abf4a",
-    "stationId": "awb_de59f1ec30b4cee75520",
-    "name": "Radio Universidad Nacional de Uncuyo FM 96.5",
-    "country": "AR",
-    "url": "https://fm.uncu.edu.ar/",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bc476f32-7366-401e-a4ca-3463c4a3174e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:55:11Z"
-  },
-  {
-    "id": "aws_32268b7f6fff0affe999",
-    "stationId": "awb_e73a7616b0afd1484638",
-    "name": "Radio Universidad Rosario",
-    "country": "AR",
-    "url": "https://cdn.instream.audio/:9202/stream",
-    "codec": "aac",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "07499cb0-b91e-4150-a085-26e5039c3033"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:22:27Z"
-  },
-  {
     "id": "aws_266c5050914b24f2d843",
     "stationId": "awb_43fd30747ffa00f1f2c1",
     "name": "Radio Universo FM100.3 Carhue",
@@ -19412,11 +18166,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "af3e7d23-07d4-4037-9869-f78acdce1fcb",
       "bb1b8dab-23ec-47b9-bc5e-1b8055ef64f7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:31:49Z"
+    "lastCheckedAt": "2026-11-05T23:18:31Z"
   },
   {
     "id": "aws_203cb9450f0399a22ea9",
@@ -19518,25 +18271,6 @@
     "lastCheckedAt": "2026-11-06T15:17:31Z"
   },
   {
-    "id": "aws_968f4542cdf14b49e435",
-    "stationId": "awb_68f0300abe59252d2615",
-    "name": "Radio UTN Mendoza 94.5",
-    "country": "AR",
-    "url": "http://streaming.fmutn.com.ar:8000/FMUTN",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "af54732d-4afa-418f-a2cd-6240235edb4e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:05:32Z"
-  },
-  {
     "id": "aws_71ae7b8f1788810f24fc",
     "stationId": "awb_b66ace925fd5805cf134",
     "name": "Radio Vale 97.5",
@@ -19580,20 +18314,18 @@
     "name": "Radio Verdad (Villa Dolores)",
     "country": "AR",
     "url": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 32,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "37c3b553-3b31-4140-9171-487d38ba34e1",
       "AR:radio-verdad-villa-dolores"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:46:26Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c5ded36c43457a49ac24",
@@ -19689,25 +18421,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:45:21Z"
-  },
-  {
-    "id": "aws_cf7757bf7f92779eb6bd",
-    "stationId": "awb_661b560bd261f6d76051",
-    "name": "RADIO ZEN",
-    "country": "AR",
-    "url": "https://server.streamcasthd.com/8008/stream",
-    "codec": "aac+",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "fb3f2185-9f95-4de1-bc75-7717814508c7"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_792a4b2d8373173f1de4",
@@ -19995,11 +18708,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5900d5d0-9e79-4a3a-b1dc-7ec7a928d11b",
       "dc9572a1-dc65-42b2-9abf-2393f37f5b68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:31:33Z"
+    "lastCheckedAt": "2026-11-06T02:31:49Z"
   },
   {
     "id": "aws_b0655d19938dc8a42319",
@@ -20072,11 +18784,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "26f358d9-7127-400b-ba11-e4a1956ecabb",
       "ee5e3a50-80bb-440e-97ac-2d82145574bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:15:17Z"
+    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_b6297568d76f23bcef4a",
@@ -20306,8 +19017,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "902e817e-36d0-490e-a61a-09fb1ba9c3a8",
-      "AR:rock-pop-95-9-fm"
+      "AR:rock-pop-95-9-fm",
+      "c8d58585-109d-4486-ab89-9e7fe5a41968"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:37:50Z"
@@ -20345,11 +19056,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "96a44187-8d0d-4044-b7ae-349dab4264be",
-      "c9782691-c50c-4c85-916e-1f64c055fec5"
+      "96a44187-8d0d-4044-b7ae-349dab4264be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:03:37Z"
+    "lastCheckedAt": "2026-11-06T18:14:47Z"
   },
   {
     "id": "aws_dc270ef3822cd8b1b27c",
@@ -20523,11 +19233,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "188ef2a6-bc4e-4bb9-8078-7d600ffae328",
       "ec81125d-379e-413f-9883-bd5628a8c72d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
+    "lastCheckedAt": "2026-11-05T23:11:23Z"
   },
   {
     "id": "aws_cfb0194fbaaf02d38650",
@@ -20701,25 +19410,6 @@
     "lastCheckedAt": "2026-11-06T05:16:39Z"
   },
   {
-    "id": "aws_29adc4572bdc4e476eed",
-    "stationId": "awb_ee2e0bae63d7aee09f89",
-    "name": "Somos Radio - AM 530 (Radio de las Madres de Plaza de Mayo)",
-    "country": "AR",
-    "url": "https://cdn.instream.audio:9288/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0d24740e-2f73-4f4e-8b89-674d9e1e4ec5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:50:01Z"
-  },
-  {
     "id": "aws_940237eaa4de817c58d0",
     "stationId": "awb_b22f724cd02c271fc7a8",
     "name": "Somos Radio AM530",
@@ -20828,11 +19518,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "455ffa03-2fed-45f1-b6f6-beb444dc6d44",
-      "557e7b85-1809-46eb-90cf-1376beedec28"
+      "455ffa03-2fed-45f1-b6f6-beb444dc6d44"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:19:36Z"
+    "lastCheckedAt": "2026-11-06T01:39:21Z"
   },
   {
     "id": "aws_998cb6508b15c77787b6",
@@ -21062,7 +19751,7 @@
       "AR:undinamo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:34:42Z"
+    "lastCheckedAt": "2026-11-05T23:38:04Z"
   },
   {
     "id": "aws_25111d066bf69062ac00",
@@ -21082,25 +19771,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:40:25Z"
-  },
-  {
-    "id": "aws_c93072a22d423b9c7c87",
-    "stationId": "awb_49e5482aa64f643f1d10",
-    "name": "Universidad AM 580",
-    "country": "AR",
-    "url": "https://radios.solumedia.com:10976/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "564de354-d68f-43f8-a63e-cbfa06d826e2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:30:27Z"
   },
   {
     "id": "aws_9d9614426be2e0fb4044",
@@ -21173,11 +19843,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "d2f327b0-471d-4465-95ba-6ebc372a3beb",
-      "ec6d7f77-f87c-4d37-b953-546ac5f3f331"
+      "d2f327b0-471d-4465-95ba-6ebc372a3beb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
+    "lastCheckedAt": "2026-11-06T08:43:10Z"
   },
   {
     "id": "aws_9e7970b4a9d91e4f7bbf",
@@ -21529,6 +20198,6 @@
       "AR:xradio-bariloche"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T09:32:40Z"
+    "lastCheckedAt": "2026-11-06T14:45:43Z"
   }
 ]

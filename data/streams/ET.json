@@ -105,15 +105,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2c8b5f24-7c2e-413c-b1f0-4bc3cc50e84c",
       "ET:dw-amharic"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:47:37Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_17c05e1705a45e1d89d2",
@@ -164,15 +162,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "974d15ea-33a8-4190-8436-1b9a184f82e3",
       "ET:ethio-oldies"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:34:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_79f345dd6a64017433ce",
@@ -188,11 +184,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a46114c6-db82-4d3b-a9da-4a981504f7ff",
-      "b3a4ecc3-7b00-4f2c-9de6-dde0e3bbe4d7"
+      "a46114c6-db82-4d3b-a9da-4a981504f7ff"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:00:42Z"
+    "lastCheckedAt": "2026-11-06T15:52:06Z"
   },
   {
     "id": "aws_667f9873f095d4d0302e",
@@ -271,44 +266,6 @@
     "lastCheckedAt": "2026-11-06T17:32:17Z"
   },
   {
-    "id": "aws_860682afd658a4c07538",
-    "stationId": "awb_adb88248d60cb59d48fc",
-    "name": "Halaal Radio",
-    "country": "ET",
-    "url": "https://stream.zeno.fm/rqx24qj7offvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "39ac64ba-e165-44a5-a497-41e5219648e5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:59:26Z"
-  },
-  {
-    "id": "aws_02b572b791b95c54bc24",
-    "stationId": "awb_39c16125dc3c7e9ba488",
-    "name": "hip hop",
-    "country": "ET",
-    "url": "http://stream.rtlradio.de/rnb/mp3-192/",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "54a821ef-8b79-47e0-91f5-b6c1e12acc40"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:56:37Z"
-  },
-  {
     "id": "aws_103910418d978a04b18e",
     "stationId": "awb_b3bc72288f5fed6e5f13",
     "name": "Jano FM",
@@ -326,63 +283,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:43:59Z"
-  },
-  {
-    "id": "aws_ef3324d8895d67e79696",
-    "stationId": "awb_d4030aee7b3f5a361007",
-    "name": "jazz",
-    "country": "ET",
-    "url": "http://mediaserv38.live-streams.nl:8006/live",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7ba493cb-7be2-498b-8726-2403d972be14"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:15:05Z"
-  },
-  {
-    "id": "aws_c3ee13181c80c491fb19",
-    "stationId": "awb_01343d8d930f384ec571",
-    "name": "jazz",
-    "country": "ET",
-    "url": "http://mediaserv38.live-streams.nl:8006/live",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e22de1ef-1524-411d-b2b7-60391a9c65d2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
-  },
-  {
-    "id": "aws_da008f5cba8d36d7ae0c",
-    "stationId": "awb_bbe19f6f395aed2ef48b",
-    "name": "jazz Ethiopia world",
-    "country": "ET",
-    "url": "http://mediaserv38.live-streams.nl:8006/live",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36b1497e-d57f-47d1-8826-8a393e120cea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:04:13Z"
   },
   {
     "id": "aws_50279fd8144442522dae",
@@ -404,25 +304,6 @@
     "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
-    "id": "aws_447fe695ca5521fe93a5",
-    "stationId": "awb_36fd6222f734c674bf97",
-    "name": "Jazz Ethopia World",
-    "country": "ET",
-    "url": "http://mediaserv38.live-streams.nl:8006/live",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "44bdfe71-e1ce-4852-ad81-0836401df9d3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:22:39Z"
-  },
-  {
     "id": "aws_d41ad5a0ae4654024605",
     "stationId": "awb_2e2f03028dcb93d93eb0",
     "name": "Mirt Internet Radio",
@@ -440,25 +321,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:30:04Z"
-  },
-  {
-    "id": "aws_f43ad61e0c011bceb1f6",
-    "stationId": "awb_a8d7472a1c36e0d19ac3",
-    "name": "music",
-    "country": "ET",
-    "url": "http://mediaserv38.live-streams.nl:8006/live",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4c2837e3-b459-46a9-9af4-530fdf712bae"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:38:17Z"
   },
   {
     "id": "aws_12a1a3ee98d840104325",

@@ -64,20 +64,18 @@
     "name": "Nostalgie 100% Francais 80",
     "country": "PF",
     "url": "https://streaming.nrjaudio.fm/out2976ubafg?origine=playernostalgie&aw_0_req.userConsentV2=CQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-100-Francais-80",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6aadb9d6-6a51-4ffe-998c-c05ca0608991",
       "PF:nostalgie-100-francais-80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:47:55Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_ad3b4bbf37799b3c54fe",
@@ -90,15 +88,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "5c5beb65-ef62-4730-ac64-b3b24e046620",
       "PF:polynesie-1ere"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_c4155b92e0184ff09032",
@@ -177,25 +173,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:02:20Z"
-  },
-  {
-    "id": "aws_1099c6b04ad0cbb848e1",
-    "stationId": "awb_fc8e8c99cb47183918bd",
-    "name": "Radio1 Tahiti",
-    "country": "PF",
-    "url": "https://live.radio1.pf:8443/radio1",
-    "codec": "aac+",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "56825315-02bd-4cfb-b5da-bf516f75a139"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:27:48Z"
   },
   {
     "id": "aws_f7a5934c12c551d7d165",

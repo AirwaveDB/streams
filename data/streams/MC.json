@@ -57,25 +57,6 @@
     "lastCheckedAt": "2026-11-06T20:38:44Z"
   },
   {
-    "id": "aws_2674106030c77014e4a0",
-    "stationId": "awb_f3956cbd8db78a793b6a",
-    "name": "Radio Monte Carlo",
-    "country": "MC",
-    "url": "http://edge.radiomontecarlo.net/RMC.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "346d36f4-497a-11e8-b1b0-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:37:04Z"
-  },
-  {
     "id": "aws_6b8310d989b22d7c3a9a",
     "stationId": "awb_2df1db1c981df0708b26",
     "name": "Radio Monte Carlo Italia",
@@ -168,14 +149,12 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "MC:yellow-radio",
-      "ca5129a8-43b7-4c2d-882f-83c412265358"
+      "MC:yellow-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:53:27Z"
+    "lastCheckedAt": "2026-08-23"
   }
 ]

@@ -124,15 +124,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "8a15a9d8-9d83-4671-8d43-1b616f63beef",
       "HR:057-radio-zadar-croatia"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:35:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_aaa936201434f22aecec",
@@ -152,25 +150,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
-  },
-  {
-    "id": "aws_42bcefde2faa5c6e2664",
-    "stationId": "awb_28133eab08fb43bbf50a",
-    "name": "Antena Zagreb - Live",
-    "country": "HR",
-    "url": "http://live.antenazagreb.hr:8000/;",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0a53101-7ce3-4a69-aa5c-cac3cef968cd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
     "id": "aws_09bbf419f6dbc399c4b6",
@@ -361,30 +340,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "43a06798-bea3-4912-be7f-0f8dcc0f3369",
-      "cf965660-0a86-41d3-822f-9064f9a8020a"
+      "43a06798-bea3-4912-be7f-0f8dcc0f3369"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:46:30Z"
-  },
-  {
-    "id": "aws_d819086b15c0f949fd70",
-    "stationId": "awb_c33a49ec19cdd0071fb7",
-    "name": "Braniteljski radio \"Nepokoreni grad\"",
-    "country": "HR",
-    "url": "http://s3.radio.co/se83499ee0/listen",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "afdba2d7-0eee-4dcc-adf7-9a1819383eb6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:07:05Z"
+    "lastCheckedAt": "2026-11-06T04:31:18Z"
   },
   {
     "id": "aws_4c5038a009904de246e1",
@@ -419,7 +378,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8ff493c0-a656-4e24-a8b0-fffb818759e6",
       "cb6a1e40-09af-4177-81df-983c86896a1a"
     ],
     "lastCheckOk": true,
@@ -1900,27 +1858,6 @@
     "lastCheckedAt": "2026-11-06T04:24:40Z"
   },
   {
-    "id": "aws_bb5872da7ee2484ba718",
-    "stationId": "awb_da2376f052c1743fd466",
-    "name": "Hrvatski Katolički Radio",
-    "country": "HR",
-    "url": "https://stream.hkr.hr/hkr.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "5d429726-08ac-4785-8e12-292054d1d6cc",
-      "HR:hrvatski-katolicki-radio"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:50:12Z"
-  },
-  {
     "id": "aws_4691b9fbe56e1bb87114",
     "stationId": "awb_00339c9f2c4f6654ce90",
     "name": "Hrvatski katolicki radio",
@@ -1938,6 +1875,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:01:41Z"
+  },
+  {
+    "id": "aws_bb5872da7ee2484ba718",
+    "stationId": "awb_da2376f052c1743fd466",
+    "name": "Hrvatski Katolički Radio",
+    "country": "HR",
+    "url": "https://stream.hkr.hr/hkr.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "HR:hrvatski-katolicki-radio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_5de751476a60cf17db64",
@@ -2018,7 +1974,7 @@
   {
     "id": "aws_269b4aedfb58306c2468",
     "stationId": "awb_0d892ae3cc85403d2bc0",
-    "name": "Hrvatski Radio Čakovec d.o.o. Stream",
+    "name": "Hrvatski radio Čakovec d.o.o. Stream",
     "country": "HR",
     "url": "http://live.radio-cakovec.hr:7020/stream",
     "codec": "mp3",
@@ -2029,7 +1985,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "311b357a-fd6a-483e-969d-cc8985e05413",
       "c4b33d60-422e-4aaf-a504-b808c5fddf4a"
     ],
     "lastCheckOk": true,
@@ -2163,7 +2118,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "10810cb5-dcdf-4608-ac3b-3d325ef11073",
       "b7b99e0d-b083-4606-9f5e-62dd0e64a3b7"
     ],
     "lastCheckOk": true,
@@ -2324,44 +2278,6 @@
     "lastCheckedAt": "2026-11-07T01:50:55Z"
   },
   {
-    "id": "aws_686d9deb2d3a8911f3d5",
-    "stationId": "awb_58e22cb9a7bc45d41efe",
-    "name": "Narodni - Totalno opušteno",
-    "country": "HR",
-    "url": "http://c5.hostingcentar.com:8348/;",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ee0a71a1-fd26-449f-9bdf-e17a9f4dc746"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:12:03Z"
-  },
-  {
-    "id": "aws_1ad2fb087c06b9c0e07e",
-    "stationId": "awb_34cb089c307448f58614",
-    "name": "Narodni - Uživo",
-    "country": "HR",
-    "url": "http://c5.hostingcentar.com:8059/;",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "baceda46-01d3-485e-8026-cbbc3c4687b2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:56:22Z"
-  },
-  {
     "id": "aws_14a455f12ef68af523cf",
     "stationId": "awb_72eebae5a3f08c1929ae",
     "name": "Narodni Radio Goga",
@@ -2415,8 +2331,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2e779571-5cc1-4feb-9803-9b82632dcef1",
-      "5cf3d24c-1b1f-11e8-a334-52543be04c81"
+      "2e779571-5cc1-4feb-9803-9b82632dcef1"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:42:52Z"
@@ -2424,7 +2339,7 @@
   {
     "id": "aws_8a39c10c6bac9d250f00",
     "stationId": "awb_57f333319cf5eabd4dfe",
-    "name": "OBITELJSKI RADIO IVANIĆ",
+    "name": "Obiteljski Radio Ivanić",
     "country": "HR",
     "url": "http://s8.iqstreaming.com:8080/stream",
     "codec": "mp3",
@@ -2435,68 +2350,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2a8e0877-7f91-4109-9e0a-30d50c2c00a3",
       "96235f09-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T02:01:29Z"
-  },
-  {
-    "id": "aws_49dd0f3537b9a4b36df8",
-    "stationId": "awb_532ae7049ef280aa2126",
-    "name": "Online Radio Kneginec",
-    "country": "HR",
-    "url": "http://stream.zeno.fm/yetzdv442k8uv",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8e9af197-9772-49ae-a288-9bbc420827b5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
-  },
-  {
-    "id": "aws_68d007fc0396db2d805a",
-    "stationId": "awb_7c0359940a2c077331f2",
-    "name": "Otvoreni - Live",
-    "country": "HR",
-    "url": "https://stream.otvoreni.hr/otvoreni",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3a23d0e2-4ceb-4439-a33a-6feb575b1bf6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:31:49Z"
-  },
-  {
-    "id": "aws_4545d2ec31cec023ddb7",
-    "stationId": "awb_9c66089f9137575c36f0",
-    "name": "Otvoreni Chill",
-    "country": "HR",
-    "url": "https://stream.otvoreni.hr/chill",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9f21fc9f-6cc0-4aea-b6d3-60ba1b546f71"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:51:08Z"
   },
   {
     "id": "aws_7bb3e5c57b857088e993",
@@ -2518,25 +2375,6 @@
     "lastCheckedAt": "2026-11-06T20:23:43Z"
   },
   {
-    "id": "aws_7f18a7bb8a8beba891fe",
-    "stationId": "awb_f4e5c9535219f7bd2fd7",
-    "name": "Otvoreni Hot",
-    "country": "HR",
-    "url": "https://stream.otvoreni.hr/hot",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4e57d9c6-267a-47c8-a55e-6473b3d2228c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:14:47Z"
-  },
-  {
     "id": "aws_7ced960e94873aebe231",
     "stationId": "awb_7c0359940a2c077331f2",
     "name": "Otvoreni LIVE",
@@ -2554,25 +2392,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:37:59Z"
-  },
-  {
-    "id": "aws_b95b4da33e87116eaa26",
-    "stationId": "awb_7c0359940a2c077331f2",
-    "name": "Otvoreni Live",
-    "country": "HR",
-    "url": "https://stream2.otvoreni.hr/otvoreni",
-    "codec": "aac",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "74e490a5-462b-4407-b6be-e0e298800a82"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:38:32Z"
   },
   {
     "id": "aws_37805ce29ed0c44eec64",
@@ -2615,7 +2434,7 @@
   {
     "id": "aws_ce3d6d199bfea01de1bf",
     "stationId": "awb_33a5e7eb3e9a53c5bf89",
-    "name": "Otvoreni Radio",
+    "name": "Otvoreni radio",
     "country": "HR",
     "url": "https://stream.otvoreni.hr/otvoreni",
     "codec": "aac",
@@ -2627,11 +2446,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "51501335-c294-4084-97d6-6ee4e8441c0d",
+      "52ec6f2a-79d8-4a2c-8088-d16caf2ddb00",
       "HR:otvoreni-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
+    "lastCheckedAt": "2026-11-06T22:11:42Z"
   },
   {
     "id": "aws_86374fdafd0816513621",
@@ -2893,25 +2712,6 @@
     "lastCheckedAt": "2026-11-06T23:35:26Z"
   },
   {
-    "id": "aws_9589db5a11736aaecabf",
-    "stationId": "awb_940fe1a7a8e41f18d474",
-    "name": "Prigorski radio 96.6MHz",
-    "country": "HR",
-    "url": "http://s8.iqstreaming.com:8048/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "630e56b9-7675-42e7-b1cc-bebbabdbf082"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:26:48Z"
-  },
-  {
     "id": "aws_ffed493b1297b936e514",
     "stationId": "awb_83dcc52d84202cbc2e17",
     "name": "Prolaznik Evergreen Lepoglava",
@@ -2965,7 +2765,6 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2dfd48d8-734e-4ba4-9eb4-a0909b753573",
       "aa4cd159-fcc5-49f6-a663-c1b7b1d77692"
     ],
     "lastCheckOk": true,
@@ -3364,26 +3163,6 @@
     "lastCheckedAt": "2026-11-06T20:30:45Z"
   },
   {
-    "id": "aws_9d2457f5f3a31657b3c9",
-    "stationId": "awb_c0a25242ef4210bc8d1a",
-    "name": "radio dalmacija",
-    "country": "HR",
-    "url": "http://shoutcast.pondi.hr:8000/;",
-    "codec": "aac+",
-    "bitrate": 72,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0be05318-b6ad-11e8-aaf2-52543be04c81",
-      "7eafad57-ec8e-48a1-999c-86093a496c84"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:37Z"
-  },
-  {
     "id": "aws_4f3df860103f52866f55",
     "stationId": "awb_3e14323074f92bdebb5d",
     "name": "Radio Dalmacija - Furešta",
@@ -3439,44 +3218,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T05:30:33Z"
-  },
-  {
-    "id": "aws_f3bc140bd93499051df7",
-    "stationId": "awb_19fc64b7f1d5e5457aef",
-    "name": "Radio Dalmacija - Oliver",
-    "country": "HR",
-    "url": "http://c5.hostingcentar.com:8275/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2dcb60cb-87a8-4640-819a-5a0c1c6e5022"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:07:39Z"
-  },
-  {
-    "id": "aws_708ee0f8460033816a8e",
-    "stationId": "awb_7555edbc4444f24c4aec",
-    "name": "Radio Dalmacija - Olivet",
-    "country": "HR",
-    "url": "http://c5.hostingcentar.com:8275/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2b72e4cd-edb6-4001-a7cd-7a824f3a3d59"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:18:09Z"
   },
   {
     "id": "aws_ab0a80b0365826ee211b",
@@ -3850,7 +3591,7 @@
       "c9b4b33a-89ca-4dbd-9022-d43326ff0b09"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T21:25:30Z"
+    "lastCheckedAt": "2026-11-08T21:31:31Z"
   },
   {
     "id": "aws_19f4cdfee35a4010ede2",
@@ -3948,25 +3689,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T02:27:10Z"
-  },
-  {
-    "id": "aws_09ead33998686369daf0",
-    "stationId": "awb_f62ee0703059764bcee2",
-    "name": "Radio Maestral Pula",
-    "country": "HR",
-    "url": "http://ec2s.crolive.com.hr:1630/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "13caab3d-9245-4a9c-be62-84a858d8f65d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:15:22Z"
   },
   {
     "id": "aws_8f5256035e04b0bdfbcc",
@@ -4160,11 +3882,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2752be59-6ab9-4437-86a5-42d84c858535",
+      "2e8e4cd5-7600-40a1-a2d4-ef687e9f9f2c",
       "HR:radio-megaton"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:48:11Z"
+    "lastCheckedAt": "2026-11-06T00:10:08Z"
   },
   {
     "id": "aws_bdde203ac1961bf8ec45",
@@ -4228,25 +3950,6 @@
     "lastCheckedAt": "2026-11-06T06:02:01Z"
   },
   {
-    "id": "aws_b4d44694463224c14ffd",
-    "stationId": "awb_9535a794afc437b87066",
-    "name": "Radio Otocac",
-    "country": "HR",
-    "url": "http://s8.iqstreaming.com:8024/stream",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0641ad9b-6935-4a1b-a406-d34971a09565"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:50:25Z"
-  },
-  {
     "id": "aws_738d471b031fee5a601d",
     "stationId": "awb_8dfbdce888b6511c4f0a",
     "name": "Radio Otok Krk",
@@ -4265,7 +3968,7 @@
       "c9cd8b34-8d5f-4c42-b891-c5355bae400e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:30:27Z"
+    "lastCheckedAt": "2026-11-06T00:16:28Z"
   },
   {
     "id": "aws_3c0c65b383dc9a86c57d",
@@ -4335,15 +4038,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6a60f518-c951-4d19-8f7a-1e69ecbbda04",
       "HR:radio-ritam-sibenik"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:53:23Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_06485a19acddb1807a37",
@@ -5408,25 +5109,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:58:04Z"
-  },
-  {
-    "id": "aws_b16e0743c9942d5e45f9",
-    "stationId": "awb_ef8fb0e8ebb96166d278",
-    "name": "ZFM 99.5 & 96.0",
-    "country": "HR",
-    "url": "https://ec2s.crolive.com.hr:7015/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ed25c1d5-b229-449f-b66f-43be3643f661"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:18:51Z"
   },
   {
     "id": "aws_cb13edf36b8133a7daca",

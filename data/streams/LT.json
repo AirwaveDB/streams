@@ -299,25 +299,6 @@
     "lastCheckedAt": "2026-11-06T10:32:09Z"
   },
   {
-    "id": "aws_06fbacfbddd67ec9a743",
-    "stationId": "awb_b880a38a3e4909dc65aa",
-    "name": "Gold FM",
-    "country": "LT",
-    "url": "http://stream.goldfm.lt/goldfm.aac",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "bc9a5610-6706-472e-a815-1d97c3fa3176"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:52:21Z"
-  },
-  {
     "id": "aws_7d26292e624348d1ae16",
     "stationId": "awb_b880a38a3e4909dc65aa",
     "name": "Gold FM",
@@ -582,11 +563,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "6bf3559c-2163-4450-b60b-b6007be5d7f8",
       "9d7164f4-a886-4b05-be3c-f54229e443f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:10:05Z"
+    "lastCheckedAt": "2026-11-06T05:22:54Z"
   },
   {
     "id": "aws_3613b45b8cdfbca0a3e4",
@@ -709,25 +689,6 @@
     "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
-    "id": "aws_5faaba4ae64b7e532647",
-    "stationId": "awb_cd785ffcaa1211d5b6ca",
-    "name": "Mano",
-    "country": "LT",
-    "url": "http://klausyk.manofm.lt:8000/Icecast2",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "4672f3ab-7d31-4779-925f-0cc7fb802436"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:20:45Z"
-  },
-  {
     "id": "aws_4337214dff5a677b0432",
     "stationId": "awb_f15e74cb2b0a712a6b80",
     "name": "Mano FM",
@@ -745,25 +706,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T04:02:29Z"
-  },
-  {
-    "id": "aws_2ebc96edf4c853e2cd36",
-    "stationId": "awb_c033025c3367aab287fd",
-    "name": "MANO FM",
-    "country": "LT",
-    "url": "http://klausyk.manofm.lt:8000/Icecast2",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b4431493-7fea-438c-9e3d-58c00d9f40d5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:14:14Z"
   },
   {
     "id": "aws_af95c9a48698cd5105c2",
@@ -838,11 +780,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4d364a9b-453a-42be-a1da-fd71fafc81a4",
       "bb99cddc-0054-4f6c-9913-cf78470b4d7c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:23:06Z"
+    "lastCheckedAt": "2026-11-06T05:04:18Z"
   },
   {
     "id": "aws_fb045bb053389c06697d",
@@ -995,25 +936,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:16:50Z"
-  },
-  {
-    "id": "aws_4caa88ae7215f58b6c4d",
-    "stationId": "awb_e3965b5859c0ae589d61",
-    "name": "NeringaFM",
-    "country": "LT",
-    "url": "http://185.11.24.72:8000/neringafm",
-    "codec": "aac+",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "370189e7-3883-499d-bf89-701906716c65"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:11:07Z"
   },
   {
     "id": "aws_37ed5e7b261fcbb774f9",
@@ -1252,25 +1174,6 @@
     "lastCheckedAt": "2026-11-06T17:11:51Z"
   },
   {
-    "id": "aws_3a18d7d66d3e529df010",
-    "stationId": "awb_efd6328623d1f1e311ed",
-    "name": "Pukas Lt",
-    "country": "LT",
-    "url": "http://212.95.45.82:8000/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3d651b1e-3355-4eab-9295-487a40f745a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:51:27Z"
-  },
-  {
     "id": "aws_01476e37c0385a5d8dab",
     "stationId": "awb_34c03b2dbc5bed442653",
     "name": "Puko Radijas",
@@ -1499,10 +1402,10 @@
     ],
     "sourceIds": [
       "LT:radio-fiesta",
-      "beb0a9b3-b050-4af4-8341-cd74fba76b64"
+      "f4ad2cb4-8380-4158-826d-79708d93e068"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:00:38Z"
+    "lastCheckedAt": "2026-11-06T00:44:44Z"
   },
   {
     "id": "aws_577d79b85e8300a73b22",
@@ -1793,15 +1696,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "267e2897-d074-4bce-a3b4-815e28e42723",
       "LT:relax-fm-sentimentai"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:40:08Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_84a008568a6bfdca2aeb",
@@ -1833,15 +1734,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "LT:rock-fm",
-      "d82775da-f080-44d2-8de0-0effb81db596"
+      "LT:rock-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:16:28Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_102056ca37f04c8c2ae5",
@@ -1914,11 +1813,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "690f0f04-2f41-4c5c-b3d8-0b5fb0a923b0",
       "ef12e0f8-b4d0-4f41-ac37-014b7f5b823d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:31:39Z"
+    "lastCheckedAt": "2026-11-06T23:04:27Z"
   },
   {
     "id": "aws_ee30b4db74d0ef53cc95",
@@ -1961,25 +1859,6 @@
     "lastCheckedAt": "2026-11-06T15:39:08Z"
   },
   {
-    "id": "aws_3128db7d48768b1b9576",
-    "stationId": "awb_d2bcee9721b41ea58fbe",
-    "name": "TOP FM",
-    "country": "LT",
-    "url": "https://radio.topfm.lt/listen/topfm/topfm-320",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7f2107bb-de3d-4526-8d19-5d8ddb902e78"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
     "id": "aws_d547d8ab97544096b38d",
     "stationId": "awb_06baf55c84090d494b0b",
     "name": "TOP FM LT",
@@ -2009,34 +1888,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07489f83-e84e-408e-8cba-e65d8d79e83c",
       "LT:topfm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:01:22Z"
-  },
-  {
-    "id": "aws_a75a5a525fa7cbdb625b",
-    "stationId": "awb_03b3e0f805367e54ad12",
-    "name": "TopFm.lt",
-    "country": "LT",
-    "url": "https://radio.topfm.lt/listen/topfm/topfm-320",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c840c28f-8036-4aa8-b77c-dae6686f4b95"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:10:35Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_00127b555d6820493848",
@@ -2249,7 +2107,7 @@
       "LT:zip-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:48:16Z"
+    "lastCheckedAt": "2026-11-06T16:39:18Z"
   },
   {
     "id": "aws_e047636e4812bb434916",

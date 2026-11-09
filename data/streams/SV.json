@@ -18,26 +18,7 @@
       "SV:100-7-stereo"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:22:55Z"
-  },
-  {
-    "id": "aws_eb516fd588d5ad680ea6",
-    "stationId": "awb_cc6419d42da1ff6c98a3",
-    "name": "102.1 VIVE FM",
-    "country": "SV",
-    "url": "https://jfm1.hostingradio.ru:14536/rock80.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ec57ad0-8733-4cda-bcd7-0359713a2b7c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:11:47Z"
+    "lastCheckedAt": "2026-11-06T14:49:18Z"
   },
   {
     "id": "aws_26666b0d8ed564aa867a",
@@ -284,15 +265,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "90bb3e88-c954-4a6d-a5fa-781643e4adfb",
       "SV:femenina"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:04:46Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_5474db5a8f7e766f94df",
@@ -465,15 +444,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0dc41c42-b357-4f7d-9f9a-053c621a33a8",
       "SV:radio-abc-stereo-100-1-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_adac54a9cadcd60d6b03",
@@ -572,8 +549,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "99f52282-6f5c-49b9-a8de-831658ee37b7",
-      "SV:radio-el-camino"
+      "SV:radio-el-camino",
+      "bdbefe7d-67fb-4841-a4a2-f97ae9df3123"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:48:41Z"
@@ -1042,20 +1019,18 @@
     "name": "Radio Verdad 95.7 FM | Voz del Pentecostes",
     "country": "SV",
     "url": "https://cloudstream2036.conectarhosting.com/8168/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "9436e834-8bef-4a2b-b3db-5bedece2a994",
       "SV:radio-verdad-95-7-fm-voz-del-pentecostes"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:29:46Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_79f75f02b733b3a41f0a",
@@ -1093,11 +1068,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "64423ad8-8c64-42ae-9de7-0a5ed2dd1d7a",
-      "SV:radio-ysuca-91-7-fm"
+      "SV:radio-ysuca-91-7-fm",
+      "ec7bc4ac-3a3a-4caf-ab46-c22865f534a9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:21:41Z"
+    "lastCheckedAt": "2026-11-06T11:41:25Z"
   },
   {
     "id": "aws_1e9549aab617e8e4eccc",

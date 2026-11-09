@@ -152,25 +152,6 @@
     "lastCheckedAt": "2026-11-07T00:11:50Z"
   },
   {
-    "id": "aws_479cccf46b2e476234b7",
-    "stationId": "awb_0f839914d0067227239b",
-    "name": "Bethel Radio",
-    "country": "PE",
-    "url": "https://alfa.betheltv.tv/radiobethel/1/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c67eb313-388a-424c-970a-a76330ddb585"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:01:25Z"
-  },
-  {
     "id": "aws_cbe1b7937d60812e66c1",
     "stationId": "awb_9cc525a2074d0ac0c6ca",
     "name": "Boleros Inolvidables (FMLima)",
@@ -195,20 +176,18 @@
     "name": "Carolina FM",
     "country": "PE",
     "url": "https://radio.livestreamingmundial.com:8016/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 288,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PE:carolina-fm",
-      "e72b83b5-8ced-4d35-bf70-ab7e830f1913"
+      "PE:carolina-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6fe3e05f70e7b19de455",
@@ -519,25 +498,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
-  },
-  {
-    "id": "aws_45cd56a833d8461f6d3c",
-    "stationId": "awb_c740d989146f7c6101bb",
-    "name": "Faceit FM",
-    "country": "PE",
-    "url": "https://stream.zeno.fm/c6ufpty9w1ctv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b920b110-62a0-489e-bd4c-2e3683b6369c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:02:59Z"
   },
   {
     "id": "aws_d5b64a18065b4207de7f",
@@ -875,25 +835,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_cf4b647daf1aa8ea136e",
-    "stationId": "awb_3b1e22936aecaea3e0e1",
-    "name": "JVM la Estación",
-    "country": "PE",
-    "url": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-11-06_07-33-38&uuid=fe78b69f-4197-f825-9d1c-60883d516ced",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5ee9bf79-c6c0-4c6d-b835-17100d8517fe"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:34:06Z"
-  },
-  {
     "id": "aws_f5a3f7b9289d2d4f91d2",
     "stationId": "awb_31fed6eec6018166e563",
     "name": "JVM la Estación (Cusco)",
@@ -1004,11 +945,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "8d7c5c53-26b4-4770-b3a7-77d2677567e2",
       "c742391e-88d8-401b-b6ab-ebe87d14e5af"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:43:21Z"
+    "lastCheckedAt": "2026-11-04T15:51:07Z"
   },
   {
     "id": "aws_b190e6e5169bedb3f6a0",
@@ -1080,15 +1020,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "4c19dd70-7049-43c2-98a1-ff37b37cad91",
       "PE:la-kalle-96-1-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:48:28Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_ec64ca2755365662fb38",
@@ -1226,25 +1164,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:47:37Z"
-  },
-  {
-    "id": "aws_29905327c4828cdf12fb",
-    "stationId": "awb_259b30993ca88454b6a2",
-    "name": "La zona Lima",
-    "country": "PE",
-    "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "36bc8b2a-ecd5-48fe-986a-ce35e326aafd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:44:05Z"
   },
   {
     "id": "aws_3c4fdeca37cf713a825e",
@@ -1464,25 +1383,6 @@
     "lastCheckedAt": "2026-11-06T06:34:06Z"
   },
   {
-    "id": "aws_d587b92dc60bd9723e36",
-    "stationId": "awb_c413024b76c6ed47ea3d",
-    "name": "Mundo Beatles Radio (MP3)",
-    "country": "PE",
-    "url": "http://stream.zeno.fm/y79be89qxrhvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab21a670-5d48-4369-976d-313df87cf791"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:02:16Z"
-  },
-  {
     "id": "aws_a490c6e08e4a17752069",
     "stationId": "awb_2945174222aafa202596",
     "name": "Música Urbana Nacional",
@@ -1544,7 +1444,7 @@
   {
     "id": "aws_d04e7abb7f25f941e144",
     "stationId": "awb_6383bfdcbad5a847db68",
-    "name": "Onda Cero Te Activa",
+    "name": "Onda Cero te Activa",
     "country": "PE",
     "url": "https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio",
     "codec": "aac",
@@ -1637,11 +1537,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "4d1246e6-4fcd-422c-b4d7-ed7dda3bad57",
       "672121fa-a8fe-42a8-9b92-ae1fb76d0e8c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:16:59Z"
+    "lastCheckedAt": "2026-11-06T14:22:08Z"
   },
   {
     "id": "aws_1220611a55d37dffb394",
@@ -1785,27 +1684,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_89700e9e28443be093ea",
-    "stationId": "awb_5dd00b86f9421ca54eb5",
-    "name": "Peru folk radio",
-    "country": "PE",
-    "url": "https://raymistream.net/listen/perufolkradio/live",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "PE:peru-folk-radio",
-      "c4d96664-6f34-4fd4-b6b0-0a5b46bede35"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
-  },
-  {
     "id": "aws_a7ee20329e1891aa9da2",
     "stationId": "awb_c4683de84b966281fe7c",
     "name": "Peru Folk radio",
@@ -1823,6 +1701,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T17:17:37Z"
+  },
+  {
+    "id": "aws_89700e9e28443be093ea",
+    "stationId": "awb_5dd00b86f9421ca54eb5",
+    "name": "Peru folk radio",
+    "country": "PE",
+    "url": "https://raymistream.net/listen/perufolkradio/live",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "PE:peru-folk-radio"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_dd618629cb899ecae67a",
@@ -1944,96 +1841,18 @@
     "name": "Radio 1160 Peru",
     "country": "PE",
     "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye",
-    "codec": "aac+",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 127,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "95d0710f-3665-47a4-856f-e9bd7e5f208b",
       "PE:radio-1160-peru"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T05:49:38Z"
-  },
-  {
-    "id": "aws_34626f35d00580d13962",
-    "stationId": "awb_fbf23c966b5c24d6a761",
-    "name": "Radio 1550",
-    "country": "PE",
-    "url": "https://streaming.virtugo.digital:8002/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c08bdf87-7d4b-45b0-abe5-e62655fe9cb6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:28:25Z"
-  },
-  {
-    "id": "aws_1a23bfada9358c0a08dc",
-    "stationId": "awb_540ec8f586aa0edf86c9",
-    "name": "Radio 1550 FM",
-    "country": "PE",
-    "url": "https://streaming.virtugo.digital:8002/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aed4d9f8-06d3-4bfe-b690-44bcbd74747e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T22:22:51Z"
-  },
-  {
-    "id": "aws_e7e9c75bcb1fe04f0906",
-    "stationId": "awb_b393ec8e65c57585604c",
-    "name": "Radio 1550 Huancayo",
-    "country": "PE",
-    "url": "https://streaming.virtugo.digital:8002/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9360107e-67c1-4e1e-aba6-59453d609759"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:21:17Z"
-  },
-  {
-    "id": "aws_3e3221dd94f01b6cba69",
-    "stationId": "awb_744039386d628e4a63cc",
-    "name": "Radio 1550 La Radio Joven",
-    "country": "PE",
-    "url": "https://streaming.virtugo.digital:8002/stream",
-    "codec": "aac+",
-    "bitrate": 96,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7e4d5ac3-900f-4744-b625-f02e9d81c3ec"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:08:34Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_f512c233aaf625afde24",
@@ -2506,11 +2325,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "0162a574-ea7c-4b22-97fd-e30c012992f5",
       "7f8a02e2-24c9-4ac9-8bae-84ddbd73fa68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:32:17Z"
+    "lastCheckedAt": "2026-11-06T14:40:37Z"
   },
   {
     "id": "aws_c62b980a950e44f7705b",
@@ -2716,20 +2534,18 @@
     "name": "Radio Curahuasi 104.5 fm",
     "country": "PE",
     "url": "https://radio.rtvstreaming.com/8028/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PE:radio-curahuasi-104-5-fm",
-      "e7e87aac-67c8-4ce8-b540-29d37904cfba"
+      "PE:radio-curahuasi-104-5-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:09:12Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_33968099049aac7a0ab2",
@@ -2806,25 +2622,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:51:47Z"
-  },
-  {
-    "id": "aws_7f114fe14ebdb9ecdec1",
-    "stationId": "awb_ed05c2c80d96fd5e25d0",
-    "name": "Radio Disney Peru",
-    "country": "PE",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "27c39f9c-b402-4452-a0cf-f11834c378aa"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T14:41:28Z"
   },
   {
     "id": "aws_1f228da9df56dbebc529",
@@ -2922,25 +2719,6 @@
     "lastCheckedAt": "2026-11-06T08:12:22Z"
   },
   {
-    "id": "aws_b0b3d0ec3445ce837f41",
-    "stationId": "awb_9afe85f2547db5208be0",
-    "name": "Radio Estacion Techno",
-    "country": "PE",
-    "url": "http://stream.zeno.fm/t3sqkau72rhvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c5cb655d-0ab6-4a2f-9f45-bb7a1e48544d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T13:47:17Z"
-  },
-  {
     "id": "aws_fee5b8805c00a3cdbe75",
     "stationId": "awb_34bd75d464a9c318e281",
     "name": "Radio Estación Techno",
@@ -3033,15 +2811,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "00c552e8-1508-4d18-bc26-eba064dbb191",
       "PE:radio-felicidad-88-9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:45:34Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_62fed10e79c31c87fb1e",
@@ -3290,11 +3066,11 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3bd39221-b930-418b-9a8a-3f7f25b2f8d8",
-      "PE:radio-huancayo"
+      "PE:radio-huancayo",
+      "c6fa893b-8530-4d7c-803e-724e1575239f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:41:25Z"
+    "lastCheckedAt": "2026-11-06T07:15:51Z"
   },
   {
     "id": "aws_f8744ba04e5c7657e640",
@@ -3348,11 +3124,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c7ff14a3-806e-42ee-bd69-d0d3675fd060",
-      "d7d20807-ea25-4e75-af43-cbee0207c2cc"
+      "c7ff14a3-806e-42ee-bd69-d0d3675fd060"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:06:26Z"
+    "lastCheckedAt": "2026-11-06T00:31:02Z"
   },
   {
     "id": "aws_a7f10bafc4e4e2c9b01f",
@@ -3597,25 +3372,6 @@
     "lastCheckedAt": "2026-11-06T22:43:51Z"
   },
   {
-    "id": "aws_9b0e1f439182411136a5",
-    "stationId": "awb_29e64eaa6aa95cda0bc2",
-    "name": "Radio La Inolvidable",
-    "country": "PE",
-    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8?listeningSessionID=6941574b117acc42_9248139_F598Qfgy_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000006JdQ0&downloadSessionID=0&aid=68386a6e44ba64f6064b25c9&property=aiir&pid=vCkzQt26xqyiEWEr9pFao3SUO1wP9Bnd&sid=0RirczdGkUi63O3paJYxUpGaICJcKwQT&uid=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1775224405820&ot=R750hnwZDEoPTrF6aUN4bA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9a5d0d36-e832-4312-8bb9-6d3b3fafce8e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:22:05Z"
-  },
-  {
     "id": "aws_09d31f600feb799fca7c",
     "stationId": "awb_34131950c16b6b62e051",
     "name": "Radio la inolvidable fm",
@@ -3645,15 +3401,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "6126eeef-43c0-4f10-b9bc-9fd66f2f3cd9",
       "PE:radio-la-mega"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:47:10Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_860d5dd260131c2db25c",
@@ -3666,15 +3420,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PE:radio-la-mega-96-7-fm-peru",
-      "d104634a-7073-4e67-9d64-2e50398eb857"
+      "PE:radio-la-mega-96-7-fm-peru"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:19:58Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_4138fc54a288e443a467",
@@ -3749,10 +3501,10 @@
     ],
     "sourceIds": [
       "PE:radio-la-tremenda",
-      "b461321f-26de-4e05-98fb-61e1a105e21a"
+      "ee4f190b-72a9-4006-900d-54a75bbfcfc0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:03:56Z"
+    "lastCheckedAt": "2026-11-06T02:57:05Z"
   },
   {
     "id": "aws_35e24b087bd2cfd9ed27",
@@ -3826,15 +3578,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "97a514db-b31f-4bd7-97c7-d308195644d3",
       "PE:radio-la-zona-90-5-fm-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:31:18Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6b7aed58da27051c6850",
@@ -3999,7 +3749,7 @@
   {
     "id": "aws_fa8b4c3942403af58091",
     "stationId": "awb_c8a684c1b92112e729d6",
-    "name": "Radio Maxima del peru",
+    "name": "RADIO MAXIMA DEL PERU",
     "country": "PE",
     "url": "https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3",
     "codec": "mp3",
@@ -4015,7 +3765,7 @@
       "PE:radio-maxima-del-peru"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:16:43Z"
+    "lastCheckedAt": "2026-11-06T17:20:45Z"
   },
   {
     "id": "aws_5d34851fc1c2f3d8e1e8",
@@ -4111,25 +3861,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-04T16:57:56Z"
-  },
-  {
-    "id": "aws_a6f8366ba25fce4cd9b1",
-    "stationId": "awb_9c6febb5c1168da1b8de",
-    "name": "Radio Megamix Lima",
-    "country": "PE",
-    "url": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8",
-    "codec": "aac",
-    "bitrate": 130,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "d2830deb-5658-4405-a1e5-c35437d97527"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
     "id": "aws_6f0d604caf46485f8134",
@@ -4269,25 +4000,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:59:27Z"
-  },
-  {
-    "id": "aws_b6f2014087b0c4aea8d1",
-    "stationId": "awb_4b4659eaffaec84c16d5",
-    "name": "Radio Nacional del Perú",
-    "country": "PE",
-    "url": "http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "932e46b2-d048-4c81-9c74-3cd72a38a824"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
   },
   {
     "id": "aws_682726477142a37d2605",
@@ -4524,31 +4236,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "ae8efb05-14f8-4fbf-accd-11ca8b006254",
-      "ecdf7075-c593-4d42-8947-2d2c3b4bab74"
+      "eebfc4a6-ec1c-4380-955e-9ed6393dc430"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:22:22Z"
-  },
-  {
-    "id": "aws_7564f82d5333db66f9d5",
-    "stationId": "awb_791e158295f4565b73bb",
-    "name": "Radio peru andino",
-    "country": "PE",
-    "url": "https://stream-175.zeno.fm/sv5a3s8waxtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdjVhM3M4d2F4dHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVKSEZqaVFoUUxLdmNXNVJwel94WkEiLCJpYXQiOjE3Nzk2MDIwMzcsImV4cCI6MTc3OTYwMjA5N30.ZoeD-FPRM0sxxpAfj2yfPJvTVHmf8SXrdESE_EcPdIg",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0ea668d2-39ce-4459-b73c-a12835f3481c",
-      "ff2a3f5f-8d42-4c1e-8238-0f2843d334f6"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T09:28:02Z"
   },
   {
     "id": "aws_b5d34c56cd92a5d8376b",
@@ -4556,20 +4247,18 @@
     "name": "Radio Pirata 97.7 tu radio retro",
     "country": "PE",
     "url": "https://panel.innovatestream.pe:10995/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "088ddb40-e725-41af-a005-bd969a2ea186",
       "PE:radio-pirata-97-7-tu-radio-retro"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:23:20Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_7b2e89fb5aafabbe6092",
@@ -4650,25 +4339,6 @@
     "lastCheckedAt": "2026-11-06T16:16:59Z"
   },
   {
-    "id": "aws_81f52e8371a2bcb5203f",
-    "stationId": "awb_8bdeaaad38c5ecbf3732",
-    "name": "Radio Quechua, Lo mejor de nuestro idioma",
-    "country": "PE",
-    "url": "https://stream-178.surfernetwork.com/txnx98nzng8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eG54OThuem5nOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlKS0tpV2pNU3FpdTV6Y01GS0pwQ1EiLCJpYXQiOjE3ODU3MTIyMzksImV4cCI6MTc4NTcxMjI5OX0.XjCaoDKl5ewuTmjwRx1zt0hh_CoJ1e75hemtuFW2sRo",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "21f6e569-7ae2-47a5-9793-70c0ae6ec129"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
-  },
-  {
     "id": "aws_765fb6994fd0e7b3d35f",
     "stationId": "awb_b32e9e11cd6c9bea3ffc",
     "name": "RADIO RECUERDOS",
@@ -4682,11 +4352,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "dfc0a424-cbd8-46aa-9506-f01cec4887e4",
       "ff01d412-7a67-48ee-9b3d-1826f00537ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:24:45Z"
+    "lastCheckedAt": "2026-11-05T00:25:13Z"
   },
   {
     "id": "aws_244c3f7c419b6a562986",
@@ -4739,15 +4408,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "70881e6e-0783-4842-b77a-cda155e10804",
       "PE:radio-ritmo-romantica"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:28:25Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_0e5121555d3e0e9b7c86",
@@ -4910,25 +4577,6 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
-    "id": "aws_f174e1af1fea1ab48100",
-    "stationId": "awb_fa7df00a25ded8420b8b",
-    "name": "Radio Santa Lucía 93.7 FM",
-    "country": "PE",
-    "url": "https://sp.dattavolt.com/8014/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a73bcfb1-b09f-4f27-a60c-f2a0d8555a07"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:31:06Z"
-  },
-  {
     "id": "aws_5c1e797abbe193de38fd",
     "stationId": "awb_ba73ae2c6a8ef4c7603c",
     "name": "Radio Santa Rosa",
@@ -5024,44 +4672,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:06:21Z"
-  },
-  {
-    "id": "aws_6c3d2ff30ad49e7da202",
-    "stationId": "awb_fe451ec7623a32062d7a",
-    "name": "RADIO SINPATRONES (AREQUIPA)",
-    "country": "PE",
-    "url": "https://panelautodj.innovatestream.pe:10685/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "23f2ae09-b645-4e59-ac8a-f8a5b5d774b4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:25:16Z"
-  },
-  {
-    "id": "aws_4e3fb2e85e6f0026664e",
-    "stationId": "awb_f97de98da4506c5e1fab",
-    "name": "Radio SinPatrones (Valle de Tambo)",
-    "country": "PE",
-    "url": "https://panelautodj.innovatestream.pe:10685/",
-    "codec": "mp3",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "05714870-2b6d-4abd-9b46-55444b584af4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:19:33Z"
   },
   {
     "id": "aws_55839b88a51b1106593e",
@@ -5346,25 +4956,6 @@
     "lastCheckedAt": "2026-11-06T01:10:03Z"
   },
   {
-    "id": "aws_dade7ffa46611349d2d1",
-    "stationId": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña (Puno, Juliaca)",
-    "country": "PE",
-    "url": "https://stream-204.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRmSjREWmVfU3VlaUJIY3FwRFRQY2ciLCJpYXQiOjE3OTM5NzgyNjgsImV4cCI6MTc5Mzk3ODMyOH0.ltPiawaxcrpDHyAylrJP7XdaFghyUihb7-jj_ImIE10",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9cb47e32-c712-4f2b-8d0b-87fd81c6fbdc"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:18:39Z"
-  },
-  {
     "id": "aws_8c67df709a3b7e123b01",
     "stationId": "awb_f06ad5cbc252a421cab3",
     "name": "Radio Un Hueco en el Espacio",
@@ -5462,27 +5053,6 @@
     "lastCheckedAt": "2026-11-06T18:00:23Z"
   },
   {
-    "id": "aws_2e79e40d1d018c1a666e",
-    "stationId": "awb_13d4cee2505e3330fffe",
-    "name": "Radio Yaraví",
-    "country": "PE",
-    "url": "https://tupanel.info/stream/radioyaravi/stream",
-    "codec": "aac+",
-    "bitrate": 48,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "914aee43-15ad-493d-b956-da04e2c03d76",
-      "PE:radio-yaravi"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:12:22Z"
-  },
-  {
     "id": "aws_56138762b4d368783041",
     "stationId": "awb_3703dbb0be65443f2d7b",
     "name": "RADIO YARAVI",
@@ -5500,6 +5070,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:21:07Z"
+  },
+  {
+    "id": "aws_2e79e40d1d018c1a666e",
+    "stationId": "awb_13d4cee2505e3330fffe",
+    "name": "Radio Yaraví",
+    "country": "PE",
+    "url": "https://tupanel.info/stream/radioyaravi/stream",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "PE:radio-yaravi"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_8f4373909af9684aec57",
@@ -5534,11 +5123,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "73747953-9d35-4635-b328-b60fc3fd6bf5",
       "9dccedd8-3aa8-4a74-b86c-f3689290bc97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:57:38Z"
+    "lastCheckedAt": "2026-11-06T04:19:03Z"
   },
   {
     "id": "aws_a391698c5ba40e92f71f",
@@ -5660,20 +5248,18 @@
     "name": "Red Radio Integridad (RRI)",
     "country": "PE",
     "url": "https://dattavolt.com/8164/stream",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "87196b80-8fb8-4b18-922a-3da0dbb14cff",
       "PE:red-radio-integridad-rri"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T16:12:19Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_6e0b24e422eb3ac35f1f",
@@ -5727,30 +5313,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "194fd928-8664-4543-b0c1-5eda742161e9",
       "bd6254ae-cca3-4aff-a639-c488f7abfffc"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:32:04Z"
-  },
-  {
-    "id": "aws_fa3c61d123bd610154cb",
-    "stationId": "awb_a86b57e412ca26785074",
-    "name": "Rock&Pop",
-    "country": "PE",
-    "url": "http://stream.zeno.fm/0k6va3rg8rhvv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "637f70ac-1493-4801-8928-ff3c6343ebd9"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:17:10Z"
   },
   {
     "id": "aws_c451bd975a2fa860f349",
@@ -5831,25 +5397,6 @@
     "lastCheckedAt": "2026-11-06T07:47:35Z"
   },
   {
-    "id": "aws_115d19644f19cd4eacc5",
-    "stationId": "awb_15e88e860c9282ec59c8",
-    "name": "RPP+",
-    "country": "PE",
-    "url": "https://pe-p4-p-e-cx1-audio.cdn.mdstrm.com/live-audio-aw/5faee448445c6107b3fee13f/playlist.m3u8?listeningSessionID=69f0808001cf2895_4181173_LOxDBfCQ_cGUtcDQtcC1lLWN4MS1hdWRpby5jZG4ubWRzdHJtLmNvbTo4MDAw_0000000I6al&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf&sid=oeKDIAFTGUom6Rdb4fYtg9WBGDutEkfM&pid=iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY&ref=rpp.pe&ext_pb=0&CMCD=cid%3D%225faee448445c6107b3fee13f%22%2Cmtp%3D13000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY%22&es=pe-p4-p-e-cx1-audio.cdn.mdstrm.com&ote=1781636788860&ot=KEgeLIFdM8e3HRdIBT_Rrw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee448445c6107b3fee13f&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v1.0.79&listenerId=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "947e8b45-a62c-4f03-8a1e-54f4a233b68b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T03:31:44Z"
-  },
-  {
     "id": "aws_55345a61e0d955ff6f07",
     "stationId": "awb_fc4b506a2887daf1bc45",
     "name": "RPT Radio - Radio Para Todos",
@@ -5866,7 +5413,7 @@
       "4e5ca54f-bb14-4b31-949b-7e38b72afc9b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-08T22:07:07Z"
   },
   {
     "id": "aws_e2a0209326077fd89885",
@@ -5938,15 +5485,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "066d74a1-ae0f-4fea-9393-e102bd337e5c",
       "PE:sol-frecuencia-primera-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:31:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e8a1f31642097b99e121",
@@ -6026,7 +5571,7 @@
       "PE:studio-92-92-5-fm-lima"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:06:05Z"
+    "lastCheckedAt": "2026-11-06T01:28:09Z"
   },
   {
     "id": "aws_89858a4c603d250119a6",
@@ -6086,25 +5631,6 @@
     "lastCheckedAt": "2026-11-06T07:12:27Z"
   },
   {
-    "id": "aws_f2ea0f46302c583bb52d",
-    "stationId": "awb_1ba186db99e4eadc6035",
-    "name": "Techno Radio",
-    "country": "PE",
-    "url": "https://stream.zeno.fm/wucx5xcgqeruv",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8d739066-f610-4697-9017-cd1d7d342d8c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
-  },
-  {
     "id": "aws_e2b5861c6259fcfb332f",
     "stationId": "awb_e1887167f62d14844ce5",
     "name": "Top Latino",
@@ -6134,15 +5660,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "PE:tropical-tarapoto",
-      "a6c10cf4-6332-40e2-91fd-bba111eea953"
+      "PE:tropical-tarapoto"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:21:41Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_e78570908c94560cb57d",
@@ -6190,20 +5714,18 @@
     "name": "Viva FM Smart",
     "country": "PE",
     "url": "https://tupanel.info:8780/stream",
-    "codec": "aac+",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "07563164-7ad1-4549-92e0-6f282a5d897c",
       "PE:viva-fm-smart"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:30:45Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_d0dc926345afad837e1e",
@@ -6262,26 +5784,7 @@
       "PE:z-rock-pop"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:07:34Z"
-  },
-  {
-    "id": "aws_e764827a836bf34231a4",
-    "stationId": "awb_82087a568faae267f2ba",
-    "name": "Z rock and pop",
-    "country": "PE",
-    "url": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ae1c9d66-f9b7-4bee-b00b-488ffe9812ed"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:54:43Z"
+    "lastCheckedAt": "2026-11-06T06:21:16Z"
   },
   {
     "id": "aws_92312a12945242c86eb6",

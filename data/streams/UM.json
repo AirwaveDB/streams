@@ -1,24 +1,5 @@
 [
   {
-    "id": "aws_3b085672143f39538f0b",
-    "stationId": "awb_9572c5c7d59ca33536af",
-    "name": "106.9 KROC FM",
-    "country": "UM",
-    "url": "https://prod-52-55-242-202.amperwave.net/townsquare-krocfmaac-hlsc3.m3u8?",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "aefb32ae-2817-4383-be33-e2ab49d1af6a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:12:07Z"
-  },
-  {
     "id": "aws_110cb7b5ddf0d958448f",
     "stationId": "awb_6ee9156638650e47ac20",
     "name": "92 KQRS",
@@ -128,15 +109,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "1256059c-4517-47cb-969a-89b6bfb5bb70",
       "UM:amr"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:58:20Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_253aba1d4810b9a27d9e",
@@ -158,25 +137,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:21:56Z"
-  },
-  {
-    "id": "aws_692c28ddd8834d5f6fbf",
-    "stationId": "awb_f34675c15e5732db1c12",
-    "name": "Dps Soul",
-    "country": "UM",
-    "url": "https://streaming.live365.com/a50157",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "850d5eef-5d9f-43d2-861e-c4c02d377807"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:23:23Z"
   },
   {
     "id": "aws_1ab974e5730828309167",
@@ -342,20 +302,18 @@
     "name": "KRPR 89.9 FM",
     "country": "UM",
     "url": "https://ice23.securenetsystems.net/KRPR",
-    "codec": "aac+",
+    "codec": "aac",
     "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "2a7e65cc-5315-4a54-a02e-49572e917e86",
       "UM:krpr-89-9-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:47:35Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_00fd05ad059e41c1a64a",

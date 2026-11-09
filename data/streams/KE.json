@@ -78,25 +78,6 @@
     "lastCheckedAt": "2026-11-05T23:32:05Z"
   },
   {
-    "id": "aws_e94b98178c50b49aedf6",
-    "stationId": "awb_38de57778f7593564f59",
-    "name": "AT254 Online Radio",
-    "country": "KE",
-    "url": "https://s127.radiolize.com/radio/8100/radio.mp3",
-    "codec": "aac",
-    "bitrate": 192,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "ab349279-ae07-49ce-8c18-2dfe3dec2051"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:06:29Z"
-  },
-  {
     "id": "aws_08a801d8afcb8b755240",
     "stationId": "awb_f942f6e7d53c3f4495d2",
     "name": "At254 Radio",
@@ -177,25 +158,6 @@
     "lastCheckedAt": "2026-11-06T13:51:00Z"
   },
   {
-    "id": "aws_f73a5d8537b95f630917",
-    "stationId": "awb_2de42a4d5a1c012a1919",
-    "name": "CRI Kiswahili",
-    "country": "KE",
-    "url": "https://sk.cri.cn/kenya.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7c9a4de1-17b5-497f-9c3e-22c2dd741a11"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T21:16:26Z"
-  },
-  {
     "id": "aws_69c9f372dc067f56ec0e",
     "stationId": "awb_f103c0df09a5ad8d188a",
     "name": "CRI Nairobi FM91.9",
@@ -232,6 +194,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-05T23:56:27Z"
+  },
+  {
+    "id": "aws_5cb549e6c6e8d4e22709",
+    "stationId": "awb_a8892b3ca472e5703d6f",
+    "name": "Elixir.fm - The Uncompromised Signal",
+    "country": "KE",
+    "url": "https://streaming.live365.com/a89962",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "84ec1d59-348c-4fc2-b4f3-e851cad7a27d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_e14c2be6b63bd2c3a9d1",
@@ -314,25 +295,6 @@
     "lastCheckedAt": "2026-11-06T19:36:57Z"
   },
   {
-    "id": "aws_155ea5fa26b3e7c55f5d",
-    "stationId": "awb_0bc385a944384aeb2c06",
-    "name": "FM RASSTYLE KENYA",
-    "country": "KE",
-    "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "0fb85fdf-34ae-40a3-a6ac-1b5fbedf6cea"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T01:56:40Z"
-  },
-  {
     "id": "aws_706d39936abd9e0d205d",
     "stationId": "awb_9d8a3f72702126a0b048",
     "name": "George Jones",
@@ -386,8 +348,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "03b2bf54-42b9-45e5-b298-281d45f44c3e",
-      "6b002723-bdbe-4a74-b5dd-009e2443930b"
+      "03b2bf54-42b9-45e5-b298-281d45f44c3e"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:31:49Z"
@@ -406,8 +367,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "a0e293c3-f091-4794-a6bf-4918f72d1c76",
-      "cde57b4c-11d1-49a0-b7e3-98f5f943653f"
+      "a0e293c3-f091-4794-a6bf-4918f72d1c76"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:15:53Z"
@@ -521,11 +481,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14e9b3f0-748d-417f-8373-b94844c5df38",
-      "7b9608c6-7fb4-43ad-9069-db5c32bac77a"
+      "14e9b3f0-748d-417f-8373-b94844c5df38"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:15:48Z"
+    "lastCheckedAt": "2026-11-06T11:06:37Z"
   },
   {
     "id": "aws_dcbb1542d27ea0bb5e3d",
@@ -557,15 +516,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "KE:jembe-fm",
-      "eeeb6128-8f59-410a-aef9-c5971d3ff9ad"
+      "KE:jembe-fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:47:15Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e315dc17f6bb55d4b227",
@@ -581,11 +538,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "5b47e763-07e5-11ea-a87e-52543be04c81",
       "83b489b6-521e-4991-bf0c-8a3b3e28196c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:55:09Z"
+    "lastCheckedAt": "2026-11-06T14:47:50Z"
   },
   {
     "id": "aws_78e215f923ef5dec4649",
@@ -710,7 +666,7 @@
     "country": "KE",
     "url": "https://atunwadigital.streamguys1.com/kiss100fm",
     "codec": "aac",
-    "bitrate": 63,
+    "bitrate": 64,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -720,7 +676,7 @@
       "f80d8f29-56a7-4c5b-83c2-b9d21c0c5d99"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T20:05:03Z"
+    "lastCheckedAt": "2026-11-08T20:07:08Z"
   },
   {
     "id": "aws_76d6b5e921865440352d",
@@ -736,8 +692,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9c21bc88-69c8-4d42-b265-9ed5181c09c8",
-      "a25e72d6-c20f-4ca5-8fcc-522569a3b56b"
+      "9c21bc88-69c8-4d42-b265-9ed5181c09c8"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T00:48:15Z"
@@ -781,26 +736,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:49:12Z"
-  },
-  {
-    "id": "aws_2cae4e5c48c28c8feb5b",
-    "stationId": "awb_2d25cd332e85ac4b5df3",
-    "name": "NATION KENYA",
-    "country": "KE",
-    "url": "http://stream.radiojar.com/3by7s8eg65quv",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "060d26ef-0252-49ea-a276-c0b7acfeca6b",
-      "4eafd95a-ec03-4ed6-9708-98dbcb536df1"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T23:44:59Z"
   },
   {
     "id": "aws_e437cee646b71f34811d",
@@ -1071,25 +1006,6 @@
     "lastCheckedAt": "2026-11-07T00:12:44Z"
   },
   {
-    "id": "aws_0f2c428e87eddfe5dee4",
-    "stationId": "awb_b88296a9c9b27a4b2bb4",
-    "name": "RAS STYLE KENYA",
-    "country": "KE",
-    "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b11c47b6-89d5-49f3-bd55-52d237748f53"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:18:25Z"
-  },
-  {
     "id": "aws_74c41e8e06332c79ed42",
     "stationId": "awb_26f6e7483f34a342d08b",
     "name": "RASSS KENYA",
@@ -1103,8 +1019,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7f1c783d-58d7-4aea-80bc-4fab33f8770c",
-      "e4e6b342-57b4-400a-8389-39c27465a4a6"
+      "d46fd457-57f6-4ffe-98dd-9b6563cbec02"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
@@ -1123,51 +1038,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "bdf7c1da-1370-4782-ba1e-015322a2aa4e",
       "c53d06dc-4425-46c5-96f6-f81923599e5d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T01:35:20Z"
-  },
-  {
-    "id": "aws_c7fe7b4257b412e6c00f",
-    "stationId": "awb_35d7a97c3ae4dd1ae82b",
-    "name": "RASTYLEstream.zeno.fm",
-    "country": "KE",
-    "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3ec35af5-d7dd-41ff-94af-bd5cacfc44c3",
-      "d562cd7a-b2b2-446d-aed0-f15ce0ab3e4f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T16:01:38Z"
-  },
-  {
-    "id": "aws_bd3351d8271e3ceb48c2",
-    "stationId": "awb_00c10421cdb65cb12614",
-    "name": "RE",
-    "country": "KE",
-    "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b6b3bd4a-f790-47aa-8c7f-7f46c6f3101d",
-      "de207600-b283-4346-9d0b-46639221c99e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T06:30:08Z"
   },
   {
     "id": "aws_dba6758d2632a55861f9",
@@ -1183,11 +1057,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "262c5929-b34f-4440-886f-9adcaa480c1f",
       "9573cd3d-27bc-417b-b627-b02e94b83b24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:18:39Z"
+    "lastCheckedAt": "2026-11-06T07:15:51Z"
   },
   {
     "id": "aws_448f386e66e9bbefae93",

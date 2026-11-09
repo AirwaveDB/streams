@@ -5,15 +5,11 @@ http://stream.radioaktual.si/AktualK
 https://radio.ambiland.space/live.mp3?src=radio-browser
 #EXTINF:-1 station-id="awb_f5663b2607e2ddee1e73" stream-id="aws_1feb301602a1ce8f692a" codec="mp3" bitrate="128",Ambiland Spatial
 https://radio.ambiland.space/spatial.mp3?src=radio-browser
-#EXTINF:-1 station-id="awb_232527de7b8bf8fd38b7" stream-id="aws_c7467bc14f04bc2a7ca2" codec="aac" bitrate="192",Ars
-http://mp3.rtvslo.si/ars
 #EXTINF:-1 station-id="awb_f361f87b65b595f3eeb9" stream-id="aws_6e2fc1aaea5ea5b16377" codec="aac" bitrate="192",Ars Tretji program
 http://mp3.rtvslo.si/ars
 #EXTINF:-1 station-id="awb_0100410711fb5d44ada4" stream-id="aws_698ecd8c007054537c0c" codec="mp3" bitrate="320",bAm BaM RADIO - All shades of house
 https://stream.laidbackvib.es:8888/320
 #EXTINF:-1 station-id="awb_3d199d882420baffbfd0" stream-id="aws_492c8392654faa11f37e" codec="mp3" bitrate="0",Best FM Ljubljana
-https://live.radio.si/BestFM
-#EXTINF:-1 station-id="awb_9eea1fd9c64b88b42ae3" stream-id="aws_b7477bd58550e56570a8" codec="mp3" bitrate="0",BestFM
 https://live.radio.si/BestFM
 #EXTINF:-1 station-id="awb_e15645fd18762e6ca9a5" stream-id="aws_e0af4e4e54b1449f8232" codec="mp3" bitrate="128",Capital Radio SL
 http://live.capitalradio.sl/
@@ -57,8 +53,6 @@ https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8
 http://live.radio.si/Radio1
 #EXTINF:-1 station-id="awb_aa68deee4197a0300b73" stream-id="aws_c6c3ea7f0bbdb6c8f3ad" codec="mp3" bitrate="128",Radio 1
 https://live.radio.si/Radio1
-#EXTINF:-1 station-id="awb_03fd749ded6c5960b78f" stream-id="aws_f2dadc3535729c6a8cce" codec="mp3" bitrate="128",Radio 1
-https://live.radio1.si/Radio1
 #EXTINF:-1 station-id="awb_977256694a3dec22f024" stream-id="aws_3d3f00da45fd43f7180d" codec="mp3" bitrate="128",Radio 1 - Maribor (107.9MHz)
 https://live.radio1.si/Radio1
 #EXTINF:-1 station-id="awb_433cae52efaa290aea5c" stream-id="aws_edfe13e984ee227cffae" codec="mp3" bitrate="320",Radio 1 80-a
@@ -125,7 +119,7 @@ http://82.149.22.34:8000/CityMp364mono.mp3
 http://82.149.22.34:8000/CityMp3128.mp3
 #EXTINF:-1 station-id="awb_6421185af0c73225deec" stream-id="aws_0036d235eff0b1d7bccc" codec="mp3" bitrate="128",Radio Ekspres SI
 http://145.14.14.93:8016/stream/1/
-#EXTINF:-1 station-id="awb_7c680d94ab2b7e7efb49" stream-id="aws_5fa26a60704ad5dddd62" codec="aac+" bitrate="128",Radio ENTER
+#EXTINF:-1 station-id="awb_7c680d94ab2b7e7efb49" stream-id="aws_5fa26a60704ad5dddd62" codec="aac" bitrate="128",Radio ENTER
 https://stream.nextmedia.si/proxy/enter_1?mp=/enter
 #EXTINF:-1 station-id="awb_ab0ce0dadb816429d1b7" stream-id="aws_24a917d84bf3eec31a97" codec="mp3" bitrate="128",Radio Expres
 http://stream2.radioekspres.si:8016/stream?type=http&nocache=138
@@ -139,8 +133,6 @@ http://mp3.rtvslo.si/rakp
 https://live.radio.si/Krka
 #EXTINF:-1 station-id="awb_fdd70da083fd49e877f9" stream-id="aws_50f26e8066ede03644b3" codec="aac" bitrate="192",Radio Maribor
 https://mp3.rtvslo.si/rmb
-#EXTINF:-1 station-id="awb_7617d6a78a187d5d6ab8" stream-id="aws_68e9a7f419788a78e1ac" codec="mp3" bitrate="320",Radio MARŠ
-http://frekvenca.eu:8000/radiomars.mp3
 #EXTINF:-1 station-id="awb_a4ae672b61e1bd8dab46" stream-id="aws_9fc06bd8cac6de508bb5" codec="mp3" bitrate="0",Radio Maxi
 http://live2.infonetmedia.si:8000/Maxi
 #EXTINF:-1 station-id="awb_a4ae672b61e1bd8dab46" stream-id="aws_4ee10a8a15e72f890299" codec="mp3" bitrate="0",Radio Maxi
@@ -161,10 +153,8 @@ https://strm.radionula.com/classics
 https://strm.radionula.com/classics
 #EXTINF:-1 station-id="awb_74802f4badd719ad7301" stream-id="aws_2d1e054c30f4366351cd" codec="mp3" bitrate="0",radio nula 2
 http://streaming.radionula.com:8800/channel2
-#EXTINF:-1 station-id="awb_2a0912a27cea37c8ac4c" stream-id="aws_51df04b90fb29cb8139b" codec="mp3" bitrate="0",Radio Nula Beatz
+#EXTINF:-1 station-id="awb_2a0912a27cea37c8ac4c" stream-id="aws_51df04b90fb29cb8139b" codec="mp3" bitrate="0",Radio NULA Beatz
 https://strm.radionula.com/lounge
-#EXTINF:-1 station-id="awb_cc44efd69103d9098fcd" stream-id="aws_38d0503c9f1b9c2f18a3" codec="mp3" bitrate="0",Radio Nula Classic
-https://strm.radionula.com/classics
 #EXTINF:-1 station-id="awb_799faf918593b58cbfb5" stream-id="aws_22b843edd727d9bba4a4" codec="mp3" bitrate="0",Radio Nula Classics
 http://streaming.radionula.com:8800/classics
 #EXTINF:-1 station-id="awb_75c15df5dce900d7ecb1" stream-id="aws_3887b233476b1c533434" codec="mp3" bitrate="0",radio nula lounge
@@ -189,8 +179,6 @@ http://193.105.67.24:8010/;?type=http&nocache=3804
 http://stream.zeno.fm/q7300aptbwzuv
 #EXTINF:-1 station-id="awb_3b7d11d53697b822a215" stream-id="aws_4bc3cc038ae2eefad6f8" codec="mp3" bitrate="128",Radio Salomon
 http://84.52.138.44/Salomon
-#EXTINF:-1 station-id="awb_eda2258097ffa92236ed" stream-id="aws_0ea022bcc6e32ccdc4fa" codec="aac" bitrate="192",Radio Si
-http://mp3.rtvslo.si/rsi
 #EXTINF:-1 station-id="awb_5bc6526bd3b17a89b1fc" stream-id="aws_a6ba6820585a9526842d" codec="aac" bitrate="192",Radio Si - Radio Slovenija International
 http://mp3.rtvslo.si/rsi
 #EXTINF:-1 station-id="awb_ba5a06da501c18247df0" stream-id="aws_c3c0dacde21306ac000d" codec="aac" bitrate="192",Radio Sloven'c
@@ -249,8 +237,6 @@ https://stream.nextmedia.si/proxy/rocks_3
 https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb
 #EXTINF:-1 station-id="awb_e0bf30e7fbafb64358f6" stream-id="aws_087a4156394920c273a1" codec="mp3" bitrate="128",Rock Radio Classics SLO
 https://stream.nextmedia.si/proxy/rocks_3?mp=/stream
-#EXTINF:-1 station-id="awb_aa9acde77f066b18dff7" stream-id="aws_ca8e2d1c8c7698df2152" codec="mp3" bitrate="128",ROCK RADIO Hard & Heavy
-https://stream.nextmedia.si/proxy/rocks_2?mp=/stream
 #EXTINF:-1 station-id="awb_8b9e81504b4ffe7d4495" stream-id="aws_115908bd7f8626d31418" codec="mp3" bitrate="128",Rock Radio Hard & Heavy SLO
 https://stream.nextmedia.si/proxy/rocks_2?mp=/stream
 #EXTINF:-1 station-id="awb_4b3dc9c02546b9bc7950" stream-id="aws_224e495b13392aba55bb" codec="mp3" bitrate="128",ROCK RADIO SI
@@ -267,8 +253,6 @@ https://live.radio.si/Toti
 https://live.radio.si/Toti?t=1722581297315
 #EXTINF:-1 station-id="awb_ffc337763b2807759a4c" stream-id="aws_848092c510145e3d24b6" codec="mp3" bitrate="320",Univox
 https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream
-#EXTINF:-1 station-id="awb_e509ced1161baeadae45" stream-id="aws_e32c8ffb3c379138eb69" codec="aac" bitrate="192",VAL 202
-http://mp3.rtvslo.si:8000/val202
 #EXTINF:-1 station-id="awb_e509ced1161baeadae45" stream-id="aws_1e0fb28f3d855e5bf580" codec="aac" bitrate="192",Val 202
 http://mp3.rtvslo.si/val202
 #EXTINF:-1 station-id="awb_79ab3b03d88a2412c198" stream-id="aws_627b5778de080962b842" codec="aac" bitrate="192",Val202

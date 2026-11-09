@@ -116,25 +116,6 @@
     "lastCheckedAt": "2026-11-06T07:15:51Z"
   },
   {
-    "id": "aws_3e3fa2e48d2c51fc96e4",
-    "stationId": "awb_440887b2ba44f346f5bd",
-    "name": "90 rakthai",
-    "country": "TH",
-    "url": "http://radio11.plathong.net:8896/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 96,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "964326ca-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:13:57Z"
-  },
-  {
     "id": "aws_8ee7ea755474908a7b57",
     "stationId": "awb_a3878ccbd8c8698411fc",
     "name": "90.5 Delight",
@@ -453,7 +434,7 @@
   {
     "id": "aws_b788f44c6f43a6352078",
     "stationId": "awb_e89268d88eb9449b5f9e",
-    "name": "Cool fahrenheit",
+    "name": "Cool Fahrenheit",
     "country": "TH",
     "url": "https://coolism-web.cdn.byteark.com/;stream/1",
     "codec": "mp3",
@@ -469,7 +450,7 @@
       "TH:cool-fahrenheit"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:55:10Z"
+    "lastCheckedAt": "2026-11-06T08:03:10Z"
   },
   {
     "id": "aws_ae8fc87b76ce586b65b0",
@@ -491,44 +472,6 @@
     "lastCheckedAt": "2026-11-06T18:56:23Z"
   },
   {
-    "id": "aws_93ed6630f0df0b35571b",
-    "stationId": "awb_6b691bfc0e32dfbc87eb",
-    "name": "COOL Fahrenheit 93 FM",
-    "country": "TH",
-    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "c764e9db-1d62-47fb-bb10-bcf132702499"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T00:31:39Z"
-  },
-  {
-    "id": "aws_8feb48697718b73e79c8",
-    "stationId": "awb_0336b322e5a9e5f2fd6f",
-    "name": "COOLISM",
-    "country": "TH",
-    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "db30d2d4-7f59-410d-9c8c-36979b103fe8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T09:36:04Z"
-  },
-  {
     "id": "aws_83bddc8f33a75c1954a5",
     "stationId": "awb_c071bed2f998fba5b237",
     "name": "CWK",
@@ -546,25 +489,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
-    "id": "aws_9b823d248c48a9a6b71c",
-    "stationId": "awb_c071bed2f998fba5b237",
-    "name": "CWK",
-    "country": "TH",
-    "url": "https://radio11.plathong.net/7050/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9be77ddd-64f6-438e-a7f0-24b57ca55214"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T04:24:14Z"
   },
   {
     "id": "aws_aa66a0a88af5a6447479",
@@ -620,11 +544,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "9727e8fc-c905-43e9-b067-a998de4a23c9",
-      "fbe4a5fd-373b-4183-bfe1-86c136af4dde"
+      "9727e8fc-c905-43e9-b067-a998de4a23c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:32:09Z"
+    "lastCheckedAt": "2026-11-05T22:22:51Z"
   },
   {
     "id": "aws_4827e79183decd02f7b5",
@@ -909,15 +832,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "3a87428d-5de8-4b64-8389-6cd48f868ec2",
       "TH:keangun-radio"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:13:48Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_7dd8cad7cab9a3ca73ad",
@@ -983,25 +904,6 @@
     "lastCheckedAt": "2026-11-06T01:44:50Z"
   },
   {
-    "id": "aws_220d41557fba88feffc4",
-    "stationId": "awb_53646f1f91824bdf31c6",
-    "name": "Looktung Eing",
-    "country": "TH",
-    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "99dfc803-36e7-4fc4-b225-825c2f7e9c4e"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:29:20Z"
-  },
-  {
     "id": "aws_dc01cf117bcebd6ddb20",
     "stationId": "awb_50db184e596988ddb990",
     "name": "Looktung Eingdoi",
@@ -1016,10 +918,10 @@
     ],
     "sourceIds": [
       "5cd58d6c-a937-49d5-b9db-61cecb3460d5",
-      "fc23a2c3-00a0-4692-857f-da3c3334e457"
+      "c92ebfc3-e6cd-483f-85ce-976ce7530ccc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T10:59:49Z"
+    "lastCheckedAt": "2026-11-06T02:50:25Z"
   },
   {
     "id": "aws_2cabe381bcb1cf011753",
@@ -1130,8 +1032,8 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "19b3fb44-5a6d-4ae7-8552-5f58db63355f",
-      "3c7fd0ce-fb96-461c-b6ae-c5ce168f632b"
+      "3c7fd0ce-fb96-461c-b6ae-c5ce168f632b",
+      "f27524da-f427-4081-b77f-e1bbb6ff40dd"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:24:24Z"
@@ -1340,11 +1242,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "14e41fc9-aeb1-4d18-8777-4cb9677e93fd",
       "be8e2e87-7a7c-46cd-95aa-3a5436a3b82a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:51:40Z"
+    "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
     "id": "aws_54109db9be00958ec1b9",
@@ -1366,25 +1267,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:51:27Z"
-  },
-  {
-    "id": "aws_ae0fc888b64c9e7d718a",
-    "stationId": "awb_cd19a0478e11015f53b6",
-    "name": "Radio Samui",
-    "country": "TH",
-    "url": "https://stream.mixadance.fm/radiosamui",
-    "codec": "aac",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a3fa76c9-30d4-4abc-bd2f-fda28281bbee"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T21:05:39Z"
   },
   {
     "id": "aws_f659c823d07276c0aef2",
@@ -1670,8 +1552,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "48bdff19-f367-409a-b965-9825393dbe2d",
-      "84899ea4-376a-44ed-a07f-023fdbb04f45"
+      "48bdff19-f367-409a-b965-9825393dbe2d"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T09:36:04Z"
@@ -1763,15 +1644,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7316c4df-d61f-4ba1-9de4-f92e66b97f03",
       "TH:fm-106-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T20:41:28Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_30c235937504a826dcf2",
@@ -1793,63 +1672,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:55:06Z"
-  },
-  {
-    "id": "aws_3a2f6612f0dc3e46af61",
-    "stationId": "awb_cf3af08adc20889f9155",
-    "name": "มิติข่าว 90.5",
-    "country": "TH",
-    "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b192034c-6cbd-11e8-b15b-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:22:08Z"
-  },
-  {
-    "id": "aws_149a88bc2fa70d55ec0d",
-    "stationId": "awb_5137daf657d23693ba9c",
-    "name": "ล้านนา เรดิโอ",
-    "country": "TH",
-    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a96eb618-1e83-4513-9165-b21a19477d90"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T01:40:01Z"
-  },
-  {
-    "id": "aws_bd1c26ff9897746b337e",
-    "stationId": "awb_395ba1408dc588399b94",
-    "name": "ลานนาเรดิโอ",
-    "country": "TH",
-    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "a0910224-dfca-4a2d-8693-f0e86b28d148"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T07:20:10Z"
   },
   {
     "id": "aws_a8cfab2bcd67b0d51793",
@@ -1884,8 +1706,7 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "2c7a4dc9-f174-4fb2-94d0-40f50276d1dd",
-      "38b22bc7-e2a1-43b9-9fbf-f66d275e9188"
+      "2c7a4dc9-f174-4fb2-94d0-40f50276d1dd"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T23:01:25Z"
@@ -1964,8 +1785,8 @@
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "7ed7ae3f-97fb-4704-971c-c932392afc39",
-      "TH:watpasaingam"
+      "TH:watpasaingam",
+      "ccea138b-a69b-4d23-990c-9322e5081468"
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:42:40Z"
@@ -2087,25 +1908,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T18:06:26Z"
-  },
-  {
-    "id": "aws_a41b69c71f1e291ec027",
-    "stationId": "awb_8260f8ae2e349e842da7",
-    "name": "สังฆทานธรม",
-    "country": "TH",
-    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
-    "codec": "mp3",
-    "bitrate": 40,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "8ed3ae14-1b53-4469-a8f8-be2be28af043"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T02:29:18Z"
   },
   {
     "id": "aws_e90fea0d88c5f04a44b1",

@@ -52,34 +52,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CR:95-5-jazz",
-      "e367b7d5-c51c-4c6e-8442-019cc028d159"
+      "CR:95-5-jazz"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:51:38Z"
-  },
-  {
-    "id": "aws_c0c049460c557dd4b0a9",
-    "stationId": "awb_b03fbc08451309213892",
-    "name": "95.5 Jazz Radio",
-    "country": "CR",
-    "url": "https://streaming.radio.co/s36bd2a451/listen",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1df6a2fe-bd24-4b65-8bb5-c7cb6a10c9c4"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T00:31:02Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_fb193dd735b3d02cd1bb",
@@ -395,7 +374,7 @@
       "6a802097-b54f-49c7-9eaf-a6c3896041a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-03T22:03:13Z"
+    "lastCheckedAt": "2026-11-09T01:43:49Z"
   },
   {
     "id": "aws_8b1b39201e11f3f7651a",
@@ -639,7 +618,7 @@
       "CR:planet-107-5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:48Z"
+    "lastCheckedAt": "2026-11-06T00:59:19Z"
   },
   {
     "id": "aws_fa7245cdab7141be20c4",
@@ -690,15 +669,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "0882f370-54f4-45c2-8468-aecbb09cf61b",
       "CR:radio-casino-98-3fm"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T18:18:44Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_855aa5424e786b1a0ac3",
@@ -827,15 +804,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "CR:radio-hit-104-7",
-      "e85d7f6a-7a18-4d92-a939-b34eb56eb5f6"
+      "CR:radio-hit-104-7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T04:19:03Z"
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_75180c3035dc4807771b",
@@ -876,27 +851,6 @@
     "lastCheckedAt": "2026-11-06T22:31:49Z"
   },
   {
-    "id": "aws_1d86154a2e8e7f1f3ef5",
-    "stationId": "awb_ede93c7fef1c7647a263",
-    "name": "Radio Mil Recuerdos Stereo",
-    "country": "CR",
-    "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
-    "codec": "mp3",
-    "bitrate": 320,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser",
-      "verified-radio-streams"
-    ],
-    "sourceIds": [
-      "CR:radio-mil-recuerdos-stereo",
-      "c54361d9-0e76-410c-815e-e577acbbcff5"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T15:21:00Z"
-  },
-  {
     "id": "aws_dce27cfa4f8ea323604b",
     "stationId": "awb_63f481a4b379c51fa3cc",
     "name": "Radio Mil Recuerdos Stereo",
@@ -914,6 +868,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T14:48:41Z"
+  },
+  {
+    "id": "aws_1d86154a2e8e7f1f3ef5",
+    "stationId": "awb_ede93c7fef1c7647a263",
+    "name": "Radio Mil Recuerdos Stereo",
+    "country": "CR",
+    "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "CR:radio-mil-recuerdos-stereo"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-23"
   },
   {
     "id": "aws_e7c40e1564dfc526620d",
@@ -956,25 +929,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T10:09:21Z"
-  },
-  {
-    "id": "aws_e36274d88406e02f2517",
-    "stationId": "awb_f08a1a67016d8a5bd86c",
-    "name": "Radio Nosara",
-    "country": "CR",
-    "url": "https://sonicpanel.zonaradio.net/8038/stream",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "50171903-83dc-4c82-ae54-d853e3859833"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-07T02:19:49Z"
   },
   {
     "id": "aws_636a9fddda317e206756",
@@ -1144,11 +1098,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "74039849-26f7-43f8-aa55-90827e0ae4bb",
-      "a443555b-0b95-41eb-9819-2b21bb52178a"
+      "74039849-26f7-43f8-aa55-90827e0ae4bb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T08:02:29Z"
+    "lastCheckedAt": "2026-11-06T07:01:32Z"
   },
   {
     "id": "aws_b11b9fee6004847d574c",
