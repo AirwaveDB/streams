@@ -10608,7 +10608,7 @@
       "d1d3c9d6-c4d2-4be1-b818-3d482c259a48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_6a4af1c6bdfe461068f1",
@@ -11634,7 +11634,7 @@
       "c47c4814-9f9b-4155-9c56-7d5bf3b1e219"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_06051984149636bf9c2e",
@@ -11691,7 +11691,7 @@
       "5051abf0-2a74-40be-ba0c-2164d5a4c110"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_1ce2e54132c09fee4291",
@@ -11710,7 +11710,7 @@
       "9ea42a3e-169e-4019-ad41-1e22075c0765"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
   },
   {
     "id": "aws_d6378ffb150544b5a496",
@@ -12130,7 +12130,7 @@
       "af19cc54-761c-409a-b95a-a5558bac3217"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_bcff2ddd038768eb092b",
@@ -17345,6 +17345,25 @@
     "lastCheckedAt": "2026-11-05T22:54:00Z"
   },
   {
+    "id": "aws_d649b0a1218c52f7029f",
+    "stationId": "awb_47d589f64072f7dc1808",
+    "name": "Antenne NRW 70er Hits",
+    "country": "DE",
+    "url": "http://stream.antenne.nrw/antenne-nrw-70er-hits",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a19050e1-f3c7-4ca5-a12d-26b8360f8122"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
+  },
+  {
     "id": "aws_c521072fcafcd337e77d",
     "stationId": "awb_47d589f64072f7dc1808",
     "name": "Antenne NRW 70er Hits",
@@ -19014,7 +19033,7 @@
       "380a0773-6a92-4406-8312-10a286d55003"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_ef040e4831299ac2430e",
@@ -19375,7 +19394,7 @@
       "566ca5d3-83b4-4352-8d59-c91446df0716"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_c89596308e4493e1ddd8",
@@ -20028,7 +20047,7 @@
       "57d09e05-50cb-4acd-819e-d73145c18f2f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_0af69ed38068d16fdb62",
@@ -20257,6 +20276,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:50:25Z"
+  },
+  {
+    "id": "aws_68905b1e0f45544be4d2",
+    "stationId": "awb_c0b320bd9655bec2fb70",
+    "name": "Berliner Rundfunk - Rick De Lisle",
+    "country": "DE",
+    "url": "https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/brf-rik_mp3-128",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fccbc5fb-f122-4d3b-b8e7-271c6c608907"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_5ad5f92ca83e8549312b",
@@ -22654,7 +22692,7 @@
       "8b513449-56e6-473e-8841-472f2a2b9731"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_9bf3126d17728d80da82",
@@ -27968,6 +28006,25 @@
     "lastCheckedAt": "2026-11-06T05:26:48Z"
   },
   {
+    "id": "aws_3cc8b7df213422b6d2ad",
+    "stationId": "awb_f49c8ba6cc154911f991",
+    "name": "Depeche Mode Universe",
+    "country": "DE",
+    "url": "https://stream.laut.fm/depeche-mode-universe",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f70996aa-91ea-468b-9741-4783523acb1a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
+  },
+  {
     "id": "aws_e737c0721c37c112ff68",
     "stationId": "awb_6406988e0fa29ba68def",
     "name": "dererweckungssender",
@@ -29390,7 +29447,7 @@
       "c9a53991-f37e-4802-882b-f72fdafe75cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_0af653895af75e99c0b9",
@@ -31444,7 +31501,7 @@
       "83dd8961-3c26-4edf-87ed-3cf8e907cf3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_80cbe71453aa2501a228",
@@ -34965,6 +35022,25 @@
     "lastCheckedAt": "2026-11-06T14:49:18Z"
   },
   {
+    "id": "aws_4c22ae5b39171807ef4d",
+    "stationId": "awb_8c1bd98a366d0d2aaeec",
+    "name": "Feebels World Radio",
+    "country": "DE",
+    "url": "https://eu4.fastcast4u.com/proxy/feebelsworld/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "54dc2377-06a0-4387-b7e3-b919785fdd5f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T08:44:46Z"
+  },
+  {
     "id": "aws_b0d7a2423a14ec29ccf5",
     "stationId": "awb_21f980eaf095c91fbd0f",
     "name": "FEELALIVE",
@@ -35399,7 +35475,7 @@
       "5d0144fb-2d84-4271-a4f0-54995083d8c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_6f1b0ffe48546091ff0a",
@@ -41045,7 +41121,7 @@
       "6c3755c7-6c9c-4fb2-a51d-f3b352ed4ae5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:02:09Z"
+    "lastCheckedAt": "2026-11-10T11:03:18Z"
   },
   {
     "id": "aws_e43049e48e55b765a03c",
@@ -41672,7 +41748,7 @@
       "f75f4d49-4d40-405c-b84f-6cee59474ef1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_cf4ad5a26a625c07d016",
@@ -42831,7 +42907,7 @@
       "6f48e7e7-6274-4b27-b7de-b409063339be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_906035d3d98a05a20787",
@@ -47603,25 +47679,6 @@
     "lastCheckedAt": "2026-11-06T21:07:34Z"
   },
   {
-    "id": "aws_df8d254261b4e2f7a270",
-    "stationId": "awb_616ed3903ac8c03719ff",
-    "name": "Jazzradio",
-    "country": "DE",
-    "url": "https://jazzradio.net/#",
-    "codec": null,
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3c1ed431-884a-45d4-9bfd-0175b237b750"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": null
-  },
-  {
     "id": "aws_1d25c44ca5e38948937d",
     "stationId": "awb_f7f0f286984e863951f5",
     "name": "JazzRadio 106.8 Berlin",
@@ -48058,7 +48115,7 @@
       "22b2dd8c-db6c-41ac-b453-00e615abfede"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_c90e57f6995919f28c11",
@@ -48439,7 +48496,7 @@
       "feb24e11-3602-4102-8563-f3cbc2ca7111"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_165d06dfba3a5002a36c",
@@ -53201,8 +53258,8 @@
     "name": "laut.fm Smooth Jazz Instrumental",
     "country": "DE",
     "url": "https://stream.laut.fm/smooth-jazz",
-    "codec": null,
-    "bitrate": 0,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -53212,7 +53269,7 @@
       "72378655-b407-4a07-9865-7f4320ae870e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": null
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
   },
   {
     "id": "aws_6d16723117d33ce54ca7",
@@ -58616,7 +58673,7 @@
       "0637227a-faf0-4107-8412-99b4d12506e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T04:42:11Z"
+    "lastCheckedAt": "2026-11-10T04:45:53Z"
   },
   {
     "id": "aws_a39edfec3da1107aa72c",
@@ -59529,7 +59586,7 @@
       "c8a101cc-c981-42e5-889d-3cc351f6fa82"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_8efeca120282c9dbd7fb",
@@ -59548,7 +59605,7 @@
       "3341d46f-64a5-42f8-a0e5-bb94a7a79e25"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_72f5dc5c04aa1ae72e03",
@@ -59586,7 +59643,7 @@
       "ad8c4d53-774d-482d-97c3-aa31c243748a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
   },
   {
     "id": "aws_2871f0d80de2231b2a81",
@@ -67233,7 +67290,7 @@
       "7654dead-5813-4cfb-92d0-c1302176bb7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_3dfc20f13e0521e96ca9",
@@ -67328,7 +67385,7 @@
       "77e50893-69ba-400a-8693-4f1fdbb0376d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_920e8b42db59ba6de428",
@@ -69480,7 +69537,7 @@
       "bd656b4c-4c06-4871-bbf3-c55ca7ed51f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_01092e327115d27b64de",
@@ -70506,7 +70563,7 @@
       "628a0810-0f3a-4b5d-8258-5cfb114f335a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:25:13Z"
+    "lastCheckedAt": "2026-11-10T00:26:02Z"
   },
   {
     "id": "aws_344bbe27304be20b38de",
@@ -72197,7 +72254,7 @@
       "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T04:42:11Z"
+    "lastCheckedAt": "2026-11-10T04:45:53Z"
   },
   {
     "id": "aws_3766ef101f67198ffb97",
@@ -72216,7 +72273,7 @@
       "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T08:44:03Z"
+    "lastCheckedAt": "2026-11-10T08:44:46Z"
   },
   {
     "id": "aws_1904e4641c527264e8fc",
@@ -73321,6 +73378,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T06:32:41Z"
+  },
+  {
+    "id": "aws_a8645e45932c50e4e105",
+    "stationId": "awb_09d1700e066a32398c63",
+    "name": "Radio Essen",
+    "country": "DE",
+    "url": "https://edge20.streamonkey.net/wf-radioessen",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a5772b7c-a1bf-48e6-99b1-ba66ac2c4af6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
   },
   {
     "id": "aws_7f481a77183b6c1f41fb",
@@ -75657,7 +75733,7 @@
       "fff5c4fc-da45-4fff-b605-2da41e3e6647"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_906157cd96604d1489c5",
@@ -84344,7 +84420,7 @@
       "0aa8da4f-33cf-40b2-8d91-f479a535b13e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_f3131860816dde4fe2d7",
@@ -87805,7 +87881,7 @@
       "901887b0-69c4-48b6-bf87-6f9802f92e8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_9c447164e28f170c51f6",
@@ -100934,7 +101010,7 @@
       "55ba1adc-6379-448a-b529-99abec40d506"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T16:00:20Z"
   },
   {
     "id": "aws_d1181f203864b7de203f",
@@ -106391,7 +106467,7 @@
       "a7cfd884-c6c7-4f6b-9590-184febeb3180"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_91ad7490b5e3c375021d",

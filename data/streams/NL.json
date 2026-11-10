@@ -2591,7 +2591,7 @@
       "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_96b4f6d5bc88a1a93731",
@@ -3777,7 +3777,7 @@
       "efda155e-a306-4ba6-831b-6356059950e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T23:40:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_89ba271fe8c98b6be602",
@@ -3796,7 +3796,7 @@
       "5f872740-75a2-496a-8030-a1f7bfad180c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T08:44:03Z"
+    "lastCheckedAt": "2026-11-10T08:44:46Z"
   },
   {
     "id": "aws_a793b316b24208a04a97",
@@ -4026,7 +4026,7 @@
       "216f499d-50ef-4c50-a986-1fdf04977736"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T23:41:23Z"
   },
   {
     "id": "aws_6e754c17df1bdedda57c",
@@ -4828,7 +4828,7 @@
       "ed940dc7-9b3a-413c-9171-9bbdab04536a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_1b808e59f0e755375a05",
@@ -8383,7 +8383,7 @@
       "9793e740-8c38-4bcb-998d-5baf96edced3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T21:18:03Z"
+    "lastCheckedAt": "2026-11-09T21:24:07Z"
   },
   {
     "id": "aws_e24a4dcd2c8b68a529b7",
@@ -9305,7 +9305,7 @@
       "e02acb43-e955-479e-9f4a-37bc48701ea7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_e2459555a9549b1b85d7",
@@ -10549,7 +10549,7 @@
       "8a3496d2-aeee-424e-bc02-7e39992ee493"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_c57ad8d0d624004e2785",
@@ -15727,7 +15727,7 @@
       "a8c6ab94-bfea-462d-91a5-a06bb4db6cfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_386cf3fab75b25d87555",
@@ -18326,7 +18326,7 @@
       "acf040ca-135f-42b6-afc9-cc6298d8226a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T16:57:56Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_b4c3cf1cc5d731c7fc9b",
@@ -18558,7 +18558,7 @@
       "767e6fd1-b42d-4e47-982e-4a010e757868"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_e077224d7bb49c849b7b",
@@ -21335,6 +21335,44 @@
     "lastCheckedAt": "2026-11-06T02:59:56Z"
   },
   {
+    "id": "aws_4ab18718c4f6fc0b5b6e",
+    "stationId": "awb_b6fab58149b97ed90b1f",
+    "name": "The Finest Beat Street",
+    "country": "NL",
+    "url": "http://live.thefinest.amsterdam:8000/mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "71c53fde-3d85-4d43-be01-de21725c75b4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T08:44:46Z"
+  },
+  {
+    "id": "aws_562fe2330f01604876e6",
+    "stationId": "awb_b6fab58149b97ed90b1f",
+    "name": "The Finest Beat Street",
+    "country": "NL",
+    "url": "https://beatstreet.thefinest.amsterdam/",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "289089e8-b461-4baf-8fd4-17d8d7d19146"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T08:44:46Z"
+  },
+  {
     "id": "aws_87767d26d46d64130155",
     "stationId": "awb_1b745215995ea30fdde2",
     "name": "The Great American Songbook",
@@ -21370,7 +21408,7 @@
       "a472120e-740c-4d81-88c2-5576da8b6597"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:02:09Z"
+    "lastCheckedAt": "2026-11-10T11:03:18Z"
   },
   {
     "id": "aws_ad247c90c5931acfc316",
@@ -22020,7 +22058,7 @@
       "6e068ca8-192f-414e-86b1-ac37536de512"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T15:51:07Z"
+    "lastCheckedAt": "2026-11-09T17:05:33Z"
   },
   {
     "id": "aws_0a4d7d1a1e29226f5d21",

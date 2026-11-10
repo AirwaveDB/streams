@@ -255,6 +255,8 @@ http://stream2.hippynet.co.uk:8013/;
 http://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:-1 station-id="awb_1883977650a816519499" stream-id="aws_d360dadf49d1d874cb70" codec="aac+" bitrate="0",ALL FM 96.9
 http://uksoutha.streaming.broadcast.radio:15870/allfm
+#EXTINF:-1 station-id="awb_72f2d08a1a0c97bb2880" stream-id="aws_21473c6e9e6ddb507ee3" codec="mp3" bitrate="192",All Out 80s
+https://a10.asurahosting.com:7960/radio.mp3
 #EXTINF:-1 station-id="awb_3e8699b654f8b5f26831" stream-id="aws_499eee8ed82af6d9516e" codec="mp3" bitrate="192",allsoundsradio
 https://servidor31-5.brlogic.com:7036/live
 #EXTINF:-1 station-id="awb_ebfe18d0d1887c91cbe8" stream-id="aws_787236388c2ff6363b55" codec="aac" bitrate="128",Allstar Youth Radio
@@ -865,6 +867,8 @@ https://media-the.musicradio.com/CapitalXTRALondonMP3
 https://media-ice.musicradio.com/CapitalXTRAReloaded
 #EXTINF:-1 station-id="awb_d6c387407e133fa20676" stream-id="aws_74f45aa2536eec5417ce" codec="mp3" bitrate="128",Capital Xtra Reloaded
 https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
+#EXTINF:-1 station-id="awb_feeb10fe56a652a75cf7" stream-id="aws_113d76af3bab4bd66633" codec="mp3" bitrate="128",Capital Yorkshire (South and West)
+http://icecast.thisisdax.com/CapitalYorkshireSouthWestMP3
 #EXTINF:-1 station-id="awb_50114413e697c03035e7" stream-id="aws_4120945ada9d28a41f34" codec="mp3" bitrate="128",Captital Dance
 http://ice-sov.musicradio.com/CapitalDanceMP3
 #EXTINF:-1 station-id="awb_2183d49350f8ea5aa2ba" stream-id="aws_c7b84c4eb1b09798ae7a" codec="mp3" bitrate="192",Caravan Radio
@@ -1665,6 +1669,8 @@ http://ice-sov.musicradio.com/HeartDorsetMP3
 http://ice-sov.musicradio.com/HeartEssexMP3
 #EXTINF:-1 station-id="awb_ed3f36bba0046219cfc8" stream-id="aws_f66708ce0d799e2755f4" codec="aac" bitrate="48",Heart FM Glasgow
 http://media-the.musicradio.com/HeartGlasgow?amsparams=playerid:UKRP;skey:1546958888&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958886&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D
+#EXTINF:-1 station-id="awb_a5e62a120e1b68f9ce9e" stream-id="aws_4f8964c81f728216d3d6" codec="aac" bitrate="48",Heart Glasgow West
+https://media-ice.musicradio.com/HeartGlasgow
 #EXTINF:-1 station-id="awb_7a5841c3e4955db4ffec" stream-id="aws_e4ade96a1ce3ce112476" codec="mp3" bitrate="128",Heart Gloucestershire
 http://icecast.thisisdax.com/HeartGloucestershireMP3
 #EXTINF:-1 station-id="awb_bf70abde4006f74caeb4" stream-id="aws_dc8e7d99d80f4084b5e3" codec="aac" bitrate="48",Heart Kent 103.1 & 102.8
@@ -2297,6 +2303,8 @@ https://uksoutha.streaming.broadcast.radio/meridianfm
 https://stream.shoutcastservices.com/proxy/merseyradio/stream
 #EXTINF:-1 station-id="awb_980b91b3b3c891315f7e" stream-id="aws_35350758ccb2970c932a" codec="mp3" bitrate="128",Merseyland Alternative Radio
 http://centova2.whsh4u.com:9209/stream
+#EXTINF:-1 station-id="awb_48fc29a1330171c167e3" stream-id="aws_fae5c0063bbca00ff86a" codec="mp3" bitrate="160",Metal Radio UK
+https://metal-radio-uk-c12658c4.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_01143636d65ce98feabd" stream-id="aws_95b57f97e113cf58fee0" codec="mp3" bitrate="192",Metro Sound
 https://stream.onlineaudience.co.uk:8050/radio.mp3
 #EXTINF:-1 station-id="awb_237d25b8cbbb9debc7b8" stream-id="aws_3f416f49e0553de9d81f" codec="aac+" bitrate="48",MFR - Moray Firth Radio
@@ -2927,6 +2935,8 @@ https://s3.radio.co/s201b7a9d0/listen
 https://icecast.maxxwave.co.uk/radioseerah
 #EXTINF:-1 station-id="awb_fd586392d50cfe599ee0" stream-id="aws_794357dad981608a86e7" codec="mp3" bitrate="128",Radio Six International
 http://www.radiosix.com/radiosix.mp3
+#EXTINF:-1 station-id="awb_f46ebc4ee42bdc4f6075" stream-id="aws_6d703825b640b9cecc14" codec="mp3" bitrate="0",Radio Social Music
+https://hq3.yesstreaming.net/21/stream
 #EXTINF:-1 station-id="awb_b288837efe3e54f0fee2" stream-id="aws_96178a6b26f99dc0713a" codec="mp3" bitrate="128",Radio Stitch
 http://radiostitch.nth.nhs.uk:8000/Stream.mp3
 #EXTINF:-1 station-id="awb_7702a5a7548b770cde27" stream-id="aws_eebe249157b7c629ea61" codec="mp3" bitrate="128",Radio TV Pater
@@ -3635,6 +3645,8 @@ https://s42.myradiostream.com/29400/listen.mp3?_=135900
 https://ec6.yesstreaming.net:3615/stream
 #EXTINF:-1 station-id="awb_a1e7d849da46ff95e771" stream-id="aws_a41c4b21e7d45ad687ec" codec="mp3" bitrate="192",Time Football Academy
 https://tfa.persianviberadio.com/stream
+#EXTINF:-1 station-id="awb_8065feb94abceec67176" stream-id="aws_91f753e3260edcbb706f" codec="aac" bitrate="127",Times Radio 127kbps
+https://times.live.stream.broadcasting.news/stream
 #EXTINF:-1 station-id="awb_b5a3a4ea7c4d8f05a738" stream-id="aws_4d9d61d48a88af442119" codec="mp3" bitrate="128",TK Radio
 http://tktechnicals.co.uk:8000/live
 #EXTINF:-1 station-id="awb_d2322da58c7d19490700" stream-id="aws_b5ee9411e6726eae77aa" codec="mp3" bitrate="128",TK Radio 80's

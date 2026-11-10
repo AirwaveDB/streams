@@ -2274,7 +2274,7 @@
       "8793f47d-eb51-4ea2-a39f-e738f4dabb8b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:02:09Z"
+    "lastCheckedAt": "2026-11-10T11:03:18Z"
   },
   {
     "id": "aws_a4a38d72827b68e3392b",
@@ -6776,20 +6776,37 @@
     "name": "Radio Freee 89.9",
     "country": "PL",
     "url": "https://streaming.radio.lublin.pl:8843/radiofreeeacp",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "verified-radio-streams"
+    ],
+    "sourceIds": [
+      "PL:radio-freee-89-9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-08-24"
+  },
+  {
+    "id": "aws_229fb0e81581a388dfbc",
+    "stationId": "awb_330939f4715aba217d89",
+    "name": "Radio Freee 89.9 FM",
+    "country": "PL",
+    "url": "https://streaming.radio.lublin.pl:8843/radiofreeeacp",
     "codec": "aac+",
     "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
-      "verified-radio-streams"
+      "radio-browser"
     ],
     "sourceIds": [
-      "29d78408-3fd3-4778-9786-526a03a7f428",
-      "PL:radio-freee-89-9"
+      "59c9533d-bff8-4936-925d-8ea934d0cad7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:01:43Z"
+    "lastCheckedAt": "2026-11-10T11:03:18Z"
   },
   {
     "id": "aws_bbda15452cdf39f57f43",
@@ -11578,7 +11595,7 @@
       "d07e291a-f9c5-42a6-8989-c34877b1f712"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:02:09Z"
+    "lastCheckedAt": "2026-11-10T11:03:18Z"
   },
   {
     "id": "aws_0c7ba76bbb3f579d5de2",
@@ -14238,7 +14255,7 @@
       "4150fce5-cc6d-401c-8f42-c3a1716fc064"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T00:43:24Z"
+    "lastCheckedAt": "2026-11-10T00:58:07Z"
   },
   {
     "id": "aws_24f3886fc9bfda6c3772",
@@ -16890,7 +16907,7 @@
       "0a65af8b-9b86-4a3a-9a79-f12e1defe9cc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-04T19:37:59Z"
+    "lastCheckedAt": "2026-11-09T19:41:04Z"
   },
   {
     "id": "aws_ef85529b27b02111de40",
