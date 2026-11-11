@@ -795,6 +795,25 @@
     "lastCheckedAt": "2026-11-06T14:05:02Z"
   },
   {
+    "id": "aws_f3e6652df1dad405dc03",
+    "stationId": "awb_b4c496adeb8e19239ba6",
+    "name": "Radio Dar",
+    "country": "MD",
+    "url": "https://radiodar.md/stream.php",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f9aa87c1-a788-4c69-b9df-1c0beb36d293"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
+  },
+  {
     "id": "aws_820ed8131dc398784f2d",
     "stationId": "awb_a31508e92b5a3fbe959d",
     "name": "Radio Fresh MD",
@@ -1628,6 +1647,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:40:01Z"
+  },
+  {
+    "id": "aws_0c15b70c9d9d9c9e0c1f",
+    "stationId": "awb_c952964cf25c49d71269",
+    "name": "SoundAds",
+    "country": "MD",
+    "url": "https://radio-soundads.webdelo.com/listen/soundads/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ac110d5f-a387-4f02-a253-d08268921a29"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T11:18:09Z"
   },
   {
     "id": "aws_70abe3faf591aa0531d0",

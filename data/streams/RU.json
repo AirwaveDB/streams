@@ -837,7 +837,7 @@
       "4f11fb5d-ecd1-4808-a5be-fa9342e901a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
+    "lastCheckedAt": "2026-11-10T11:18:09Z"
   },
   {
     "id": "aws_59a5a3c1aba223320509",
@@ -5695,6 +5695,44 @@
     "lastCheckedAt": "2026-11-06T00:52:05Z"
   },
   {
+    "id": "aws_75333cdd12da0717215d",
+    "stationId": "awb_b73b457f9d5cc04f2691",
+    "name": "Dfm Hands Up",
+    "country": "RU",
+    "url": "https://hls-01-dfm.hostingradio.ru/handsup/playlist.m3u8?n=d2b9415be72edcb20ce0",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5bebff7c-d756-414e-96d2-dc1ccc3698db"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
+    "id": "aws_348b62cf47e6dbcd786c",
+    "stationId": "awb_e2e5c7308fbe62c8d8df",
+    "name": "Dfm Ibiza",
+    "country": "RU",
+    "url": "https://dfm.hostingradio.ru/ibiza96.aacp?n=3309249787066e78494a",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b652f362-fbc7-499f-9486-2f01a4e579b9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_278ce5f19b3b62ffcd00",
     "stationId": "awb_9a72361f4360d19d84d9",
     "name": "DFM Insomnia",
@@ -7062,6 +7100,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T13:38:40Z"
+  },
+  {
+    "id": "aws_9310c5ebb9b34353622a",
+    "stationId": "awb_c88a6dadf89c334cfae3",
+    "name": "Eurodance 90's",
+    "country": "RU",
+    "url": "https://listen1.myradio24.com/5967",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8a9768fa-c4f6-4be3-b449-b87dd9856606"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_cda18403fc71db8b7c32",
@@ -28144,7 +28201,7 @@
       "2617085e-2363-49f3-9c19-01af0b5a1fb4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_3c4e02d5a59948129de9",
@@ -28163,7 +28220,7 @@
       "1eaa3c6c-cb3d-4249-9ee3-aea232500563"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_a0e033a15780f8161073",
@@ -28201,7 +28258,7 @@
       "b7193cae-4c77-4385-aaf0-0a1a1bbfac90"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_a7d5bd39a2a3ecf429a0",
@@ -28239,7 +28296,7 @@
       "f2807f41-4ce7-4d1c-8783-dda57dc4a785"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_aac2ba7578fc2aac515d",
@@ -29101,6 +29158,25 @@
     "lastCheckedAt": "2026-11-07T00:22:05Z"
   },
   {
+    "id": "aws_239d11e7c6b8bb445256",
+    "stationId": "awb_4117055a907518a1d4fc",
+    "name": "Svoe Fm",
+    "country": "RU",
+    "url": "https://h.getradio.me/svoefm/hls.m3u8",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d36206f1-a504-4507-8201-d631b3a59f8c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_d51240f71c9250856aef",
     "stationId": "awb_d4b356ee93ab9c1afe8d",
     "name": "syg.ma",
@@ -29612,6 +29688,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T20:19:26Z"
+  },
+  {
+    "id": "aws_a7b53d18150b60945c03",
+    "stationId": "awb_290cf08c98879854b581",
+    "name": "VERSUM FM",
+    "country": "RU",
+    "url": "https://versum.one/listen/versum/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4839c023-813a-4b78-9c1a-02a7a71ea805"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_a4c89721d939b2a7c326",
@@ -39772,7 +39867,7 @@
       "076b3ca3-93ff-41be-aff9-5da1d7b04f37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_1c376d60884890c30e4a",
@@ -39886,7 +39981,7 @@
       "90dbdbfc-43cc-4fae-a907-18a3b5e63a81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_939d3cfa42d6191cb72a",

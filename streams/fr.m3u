@@ -2911,10 +2911,10 @@ http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
 http://stream.fr.morow.com:8080/morow_med.aacp
 #EXTINF:-1 station-id="awb_6122dd6243bb496619a2" stream-id="aws_b7ac0c04d339727079d3" codec="aac+" bitrate="64",MOROW [AAC+ 64k]
 http://stream.fr.morow.com:8080/morow_med.aacp
-#EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_266abc9f86a7002768ba" codec="aac+" bitrate="64",Morow Prog Rock Radio
-http://stream.fr.morow.com:8080/morow_med.aacp
 #EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_e1a1dfa33697177a6bd4" codec="mp3" bitrate="128",Morow Prog Rock Radio
 http://stream.fr.morow.com:8080/morow_med.mp3
+#EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_266abc9f86a7002768ba" codec="mp3" bitrate="128",Morow Prog Rock Radio
+http://stream.fr.morow.com:9090/
 #EXTINF:-1 station-id="awb_cf16ee7bf5b87bcff845" stream-id="aws_4cadba3c8c4bd63a23c0" codec="aac+" bitrate="128",Morow Progressive Rock Radio
 http://stream.fr.morow.com:8080/morow_hi.aacp
 #EXTINF:-1 station-id="awb_249b1991240b8c7e53f8" stream-id="aws_8f10b015086ae3d9cca3" codec="mp3" bitrate="128",Mouteyen jean-philippe
@@ -4485,6 +4485,8 @@ http://radiomontblanc1.ice.infomaniak.ch/radiomontblanc1-128.mp3
 https://radio.montana-funk.fr/listen/montana_funk/radio.mp3
 #EXTINF:-1 station-id="awb_68d1c4b8e3382ace7c96" stream-id="aws_f97f284fee72ae213d55" codec="aac+" bitrate="64",Radio Montmartre
 http://montmartre.ice.infomaniak.ch/montmartre.aac
+#EXTINF:-1 station-id="awb_3e0dfd2cddb93c4142c2" stream-id="aws_8492484815193277b75b" codec="mp3" bitrate="128",Radio Montmartre
+https://montmartre.ice.infomaniak.ch/montmartre.mp3
 #EXTINF:-1 station-id="awb_46c01b2fd1baac7c06fe" stream-id="aws_310cb740bc9868ae9dde" codec="mp3" bitrate="128",Radio Montmartre
 https://montmartre.ice.infomaniak.ch/montmartre.mp3?aw_0_1st.playerId=radiomontmartre_web&i=98726
 #EXTINF:-1 station-id="awb_0dab682f321bc1866c2a" stream-id="aws_d2433b09ce8f7b000a2c" codec="mp3" bitrate="128",Radio Mulhouse
@@ -4611,6 +4613,8 @@ https://radiopulsar.ice.infomaniak.ch/radiopulsar-192.mp3
 http://radiopulse.fr:8080/pulse
 #EXTINF:-1 station-id="awb_54764c36c49b298e952d" stream-id="aws_ad00d970f9f2a2072c97" codec="mp3" bitrate="128",Radio RBS
 https://www.radioking.com/play/radio-rbs-1
+#EXTINF:-1 station-id="awb_6d4468dc05ac75b1e451" stream-id="aws_00f737e1c924165d932c" codec="mp3" bitrate="96",RADIO RCU
+http://91.121.59.45:8169/rcu
 #EXTINF:-1 station-id="awb_1b8005206fcd58d1dec4" stream-id="aws_8f80bde716cc62b28048" codec="mp3" bitrate="256",Radio Rempart
 https://radio.pro-fhi.net:19112/;stream1
 #EXTINF:-1 station-id="awb_9f78f08cc8415c40f48b" stream-id="aws_ab319e1ba539bef5ad90" codec="mp3" bitrate="128",Radio Rencontre Dunkerque
@@ -4749,6 +4753,8 @@ https://streaming.radio-valois-multien.fr/live.mp3
 http://radiovassiviere.ice.infomaniak.ch/radiovassiviere-128.aac
 #EXTINF:-1 station-id="awb_b3bd7ff9c601143d184c" stream-id="aws_95320ed8929abb9d9b77" codec="mp3" bitrate="128",Radio Vaticana Francais
 https://radio.vaticannews.va/stream-fr
+#EXTINF:-1 station-id="awb_dea38b500376789463ec" stream-id="aws_b5cce96b9e1421cb8c88" codec="mp3" bitrate="192",Radio vénèr
+https://stream.p-node.org/radiovnr.mp3
 #EXTINF:-1 station-id="awb_7fcc36d07a5f065eef42" stream-id="aws_0cff144a548e2e6cea73" codec="mp3" bitrate="192",Radio VFM
 http://str0.creacast.com/vfm
 #EXTINF:-1 station-id="awb_0849baf4de05fae00848" stream-id="aws_f8dd8a70622a2d84acab" codec="mp3" bitrate="128",Radio Vibration

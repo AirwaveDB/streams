@@ -24255,7 +24255,7 @@
       "f0208910-995e-4b8a-8c80-c978f3691a48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_d0fb58685bd373b01d0b",
@@ -27154,7 +27154,7 @@
       "e647ac86-39e5-46ae-96de-bd4ce6428871"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_e728435d4fd37708e60a",
@@ -27826,25 +27826,6 @@
     "lastCheckedAt": "2026-11-06T22:15:31Z"
   },
   {
-    "id": "aws_266abc9f86a7002768ba",
-    "stationId": "awb_48e4521b9edaa1c1bddd",
-    "name": "Morow Prog Rock Radio",
-    "country": "FR",
-    "url": "http://stream.fr.morow.com:8080/morow_med.aacp",
-    "codec": "aac+",
-    "bitrate": 64,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "87de55fe-1695-4bf4-a2f6-9155171e926f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T18:01:48Z"
-  },
-  {
     "id": "aws_e1a1dfa33697177a6bd4",
     "stationId": "awb_48e4521b9edaa1c1bddd",
     "name": "Morow Prog Rock Radio",
@@ -27862,6 +27843,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T19:51:47Z"
+  },
+  {
+    "id": "aws_266abc9f86a7002768ba",
+    "stationId": "awb_48e4521b9edaa1c1bddd",
+    "name": "Morow Prog Rock Radio",
+    "country": "FR",
+    "url": "http://stream.fr.morow.com:9090/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "87de55fe-1695-4bf4-a2f6-9155171e926f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_4cadba3c8c4bd63a23c0",
@@ -28089,7 +28089,7 @@
       "b371f883-73ca-4a54-a5b8-636a22af4a61"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T14:41:28Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_f0e331ba76ad2e46a211",
@@ -28108,7 +28108,7 @@
       "78f0b16e-0a80-4c3d-b601-ee1e080c3d8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T14:41:28Z"
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_0404020fee055db7323a",
@@ -28184,7 +28184,7 @@
       "5f8e5140-d97e-4f4b-95eb-d28b1240db5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_46483e395400852b7835",
@@ -28222,7 +28222,7 @@
       "0531d2b6-d012-4f28-ab44-0f5a0b14ef18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T14:41:28Z"
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_eee4dac7b824994477fd",
@@ -28241,7 +28241,7 @@
       "6e8dbdd0-5eca-4fa1-bdb0-fe6c3d4f0852"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_6fbb4e6228ef8469808f",
@@ -28393,7 +28393,7 @@
       "ed519cc4-2585-4249-8577-26b46b1935f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_c28a7082218619c10f94",
@@ -28545,7 +28545,7 @@
       "f5b6b351-df31-4df5-8e9d-659f11f0d9a2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T11:08:37Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_659dee93e59c1789802e",
@@ -42840,6 +42840,25 @@
     "lastCheckedAt": "2026-11-07T01:56:40Z"
   },
   {
+    "id": "aws_8492484815193277b75b",
+    "stationId": "awb_3e0dfd2cddb93c4142c2",
+    "name": "Radio Montmartre",
+    "country": "FR",
+    "url": "https://montmartre.ice.infomaniak.ch/montmartre.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "001bc55d-c8de-44e3-b94e-204495ee396f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
+  },
+  {
     "id": "aws_310cb740bc9868ae9dde",
     "stationId": "awb_46c01b2fd1baac7c06fe",
     "name": "Radio Montmartre",
@@ -44041,6 +44060,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:18:56Z"
+  },
+  {
+    "id": "aws_00f737e1c924165d932c",
+    "stationId": "awb_6d4468dc05ac75b1e451",
+    "name": "RADIO RCU",
+    "country": "FR",
+    "url": "http://91.121.59.45:8169/rcu",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a7af27ed-a31b-46eb-9d6a-d7dcff16f0f4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_8f80bde716cc62b28048",
@@ -45354,6 +45392,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-07T00:47:55Z"
+  },
+  {
+    "id": "aws_b5cce96b9e1421cb8c88",
+    "stationId": "awb_dea38b500376789463ec",
+    "name": "Radio vénèr",
+    "country": "FR",
+    "url": "https://stream.p-node.org/radiovnr.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "468eb513-0007-4eda-8e12-43dcf39928f1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_0cff144a548e2e6cea73",

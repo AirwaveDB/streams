@@ -3347,7 +3347,7 @@
       "5bf1b4f7-7469-4ded-bfe5-b9f9cc7bad1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_46f6de6c68e7689933e9",
@@ -12539,6 +12539,25 @@
     "lastCheckedAt": "2026-11-06T03:14:03Z"
   },
   {
+    "id": "aws_87479f967bab508b2bd8",
+    "stationId": "awb_256249938015fd0024af",
+    "name": "Radio.Sighet.Xyz",
+    "country": "RO",
+    "url": "http://radio.sighet.xyz/listen/radio/radio.mp3",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dea3291a-9e11-41d3-b244-b75a25dd3fa9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_83651cf339b54d29b21c",
     "stationId": "awb_a457e45d93399b8548b5",
     "name": "Radio7ABC",
@@ -15568,6 +15587,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T08:43:10Z"
+  },
+  {
+    "id": "aws_5adfa7b7a0d8d9ce216c",
+    "stationId": "awb_62025e8e767faffb06f4",
+    "name": "Trance Energy",
+    "country": "RO",
+    "url": "https://fra-pioneer01.dedicateware.com:2990/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3109d513-30ce-41ba-974b-9b16bb48d6f1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_835b55cf141ecbbdde2a",

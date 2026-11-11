@@ -175,6 +175,25 @@
     "lastCheckedAt": "2026-11-06T08:22:43Z"
   },
   {
+    "id": "aws_70247f7ad017356720f1",
+    "stationId": "awb_23f3105fa3e8c96b0a47",
+    "name": "70 80",
+    "country": "IT",
+    "url": "https://onair18.xdevel.com/proxy/7080it?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d2f8ffd6-48ff-48da-a1c2-bd3fabd5f61d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
+  },
+  {
     "id": "aws_429e6691e89b216cd665",
     "stationId": "awb_e6075ffa22097961252a",
     "name": "70 80 90",
@@ -246,15 +265,13 @@
     "protocol": "https",
     "hls": false,
     "sources": [
-      "radio-browser",
       "verified-radio-streams"
     ],
     "sourceIds": [
-      "IT:70-80-it",
-      "ca839a3b-1e0d-40e6-9131-3f15071dcd07"
+      "IT:70-80-it"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T11:55:06Z"
+    "lastCheckedAt": "2026-08-24"
   },
   {
     "id": "aws_c183d430699817e955cc",
@@ -1304,25 +1321,6 @@
     "lastCheckedAt": "2026-11-07T00:39:20Z"
   },
   {
-    "id": "aws_f60805d24dad50e92016",
-    "stationId": "awb_a91af7e1fa28eb59cb4d",
-    "name": "Chill Out Zone",
-    "country": "IT",
-    "url": "https://stream.laut.fm/chilloutzone",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "e8878650-cd54-46b3-b835-6e44077fe1a8"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T12:44:19Z"
-  },
-  {
     "id": "aws_13bc3caafc435e964ffa",
     "stationId": "awb_191eea5cbe3fdd92379a",
     "name": "chilloutzone",
@@ -2129,25 +2127,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T22:00:57Z"
-  },
-  {
-    "id": "aws_eedd1d6624874c991318",
-    "stationId": "awb_2b50d42e9e0cfb50108f",
-    "name": "DJ Osso Radio",
-    "country": "IT",
-    "url": "https://stream.rcs.revma.com/x3ab37sgn7uvv",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "9fd24138-a782-4719-ab8a-cf8b43d657d2"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T14:40:37Z"
   },
   {
     "id": "aws_63cb975077ace8c2efeb",
@@ -25697,6 +25676,25 @@
     "lastCheckedAt": "2026-11-06T13:53:36Z"
   },
   {
+    "id": "aws_4e52acff7b6eb63e6c85",
+    "stationId": "awb_c85ac57af8039d71ca6d",
+    "name": "RDS",
+    "country": "IT",
+    "url": "https://stream.rcs.revma.com/x3ab37sgn7uvv",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "76b1c401-f539-4dcb-8790-55acb1cbcba3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
+  },
+  {
     "id": "aws_d363a015e41d9709abef",
     "stationId": "awb_b043a8a8ae07d5da2a36",
     "name": "RDS",
@@ -30358,6 +30356,63 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T21:38:44Z"
+  },
+  {
+    "id": "aws_359ae3cfa52f4c056822",
+    "stationId": "awb_b457512efb1c7e8d0d28",
+    "name": "VOX-ARIA",
+    "country": "IT",
+    "url": "https://stream.voxaria.live/listen/voxaria/diretta.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "aec98a52-f859-40f9-93e3-2d73bec9cdd7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
+  },
+  {
+    "id": "aws_a2eafa0041c5f6149275",
+    "stationId": "awb_572a394393070fb8c26d",
+    "name": "VOX-ARIA English",
+    "country": "IT",
+    "url": "https://stream.voxaria.live/listen/voxaria_en/diretta.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3f38393f-fee4-4b07-b585-d00eecc78b86"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
+  },
+  {
+    "id": "aws_df533fab5d2bdb89a255",
+    "stationId": "awb_6680ea0923b010a8fee4",
+    "name": "VOX-ARIA Francais",
+    "country": "IT",
+    "url": "https://stream.voxaria.live/listen/voxaria_fr/diretta.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "22deeb8b-0be7-4495-abed-277a8ec69043"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_b394424515004dcdc326",

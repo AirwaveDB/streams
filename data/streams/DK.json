@@ -896,7 +896,7 @@
       "960f528a-0601-11e8-ae97-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-06T17:45:24Z"
+    "lastCheckedAt": "2026-11-10T18:03:34Z"
   },
   {
     "id": "aws_94dfc0fef953bc5664b4",
@@ -3323,6 +3323,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T01:42:13Z"
+  },
+  {
+    "id": "aws_7006d5f6030b24feb233",
+    "stationId": "awb_475ebcd175249aa1d5ac",
+    "name": "Radio MFK",
+    "country": "DK",
+    "url": "http://stream1.radiomfk.dk/radiomfk",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3599ed11-adf7-456d-b768-bd397f290475"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_3b50c29d90241aea486d",

@@ -17,6 +17,8 @@ http://16radio.stream.laut.fm/16radio?uuid=8b6fc254-b84f-f030-a985-303d1b3408cd&
 https://stream.zeno.fm/pxzwykxbluitv
 #EXTINF:-1 station-id="awb_be263cf79542cf000cb2" stream-id="aws_c0da25a839f39353b6ed" codec="aac,h.264" bitrate="2162",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 station-id="awb_23f3105fa3e8c96b0a47" stream-id="aws_70247f7ad017356720f1" codec="mp3" bitrate="0",70 80
+https://onair18.xdevel.com/proxy/7080it?mp=/stream
 #EXTINF:-1 station-id="awb_e6075ffa22097961252a" stream-id="aws_429e6691e89b216cd665" codec="mp3" bitrate="192",70 80 90
 https://rblive.it:8170/radio.mp3
 #EXTINF:-1 station-id="awb_fd2ccce36715fdcae076" stream-id="aws_b63676613b86ed5cd2ac" codec="mp3" bitrate="192",70 80 Disco Funk ModernSoul e Boogie
@@ -135,8 +137,6 @@ https://radio.celodex.com/stream/disco.mp3
 http://quasar.shoutca.st:8283/;
 #EXTINF:-1 station-id="awb_c4a42a39b917b6df87e2" stream-id="aws_ffd8075f9e0f9eea96f1" codec="mp3" bitrate="128",Centro Suono Sport
 http://streaming.centrosuono.com:8000/cssport.mp3
-#EXTINF:-1 station-id="awb_a91af7e1fa28eb59cb4d" stream-id="aws_f60805d24dad50e92016" codec="mp3" bitrate="128",Chill Out Zone
-https://stream.laut.fm/chilloutzone
 #EXTINF:-1 station-id="awb_191eea5cbe3fdd92379a" stream-id="aws_13bc3caafc435e964ffa" codec="mp3" bitrate="128",chilloutzone
 http://stream.laut.fm/chilloutzone
 #EXTINF:-1 station-id="awb_32ec2a18e3b0866f0ea9" stream-id="aws_83595b048cfb3532489e" codec="mp3" bitrate="192",CiaoComo Radio
@@ -221,8 +221,6 @@ http://icstream.rds.radio/disco
 https://maurizi1.radioca.st/stream.mp3
 #EXTINF:-1 station-id="awb_dd947855ea4d4820ba8c" stream-id="aws_e80e8bd5258ed5990682" codec="mp3" bitrate="96",DJ FullTime
 http://djft.radioca.st:8152/stream
-#EXTINF:-1 station-id="awb_2b50d42e9e0cfb50108f" stream-id="aws_eedd1d6624874c991318" codec="mp3" bitrate="0",DJ Osso Radio
-https://stream.rcs.revma.com/x3ab37sgn7uvv
 #EXTINF:-1 station-id="awb_1d7fee9ffb9c4e5970d5" stream-id="aws_63cb975077ace8c2efeb" codec="mp3" bitrate="0",DJ Osso Radio | Happy Music, Happy People
 https://stream.rcs.revma.com/rqh8st7he5uvv
 #EXTINF:-1 station-id="awb_7b1a0632ae8e67bf2e83" stream-id="aws_940f7b9d227a76a81c04" codec="mp3" bitrate="128",Dolce la Vita
@@ -2681,6 +2679,8 @@ https://stream12.xdevel.com/audio4s977583-3056/stream/icecast.audio
 http://shoutcast.streamingmedia.it:7167/stream
 #EXTINF:-1 station-id="awb_d4ccef9ab2603622d81e" stream-id="aws_a5242c9bee3f57f9e8aa" codec="mp3" bitrate="128",RDR Rainbow Diversamente Radio
 https://rdrtv.radioca.st/stream
+#EXTINF:-1 station-id="awb_c85ac57af8039d71ca6d" stream-id="aws_4e52acff7b6eb63e6c85" codec="" bitrate="0",RDS
+https://stream.rcs.revma.com/x3ab37sgn7uvv
 #EXTINF:-1 station-id="awb_b043a8a8ae07d5da2a36" stream-id="aws_d363a015e41d9709abef" codec="unknown" bitrate="0",RDS
 https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
 #EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="130",RDS - Radio Dimensione Suono
@@ -3167,6 +3167,12 @@ https://icy.unitedradio.it/Virgin_05.mp3
 https://icy.unitedradio.it/VirginSpecialEvent.mp3
 #EXTINF:-1 station-id="awb_3c54612905319bdb4d29" stream-id="aws_3f71743413ef515a49bd" codec="mp3" bitrate="320",VisiOnAir
 https://live.s1.radiovisionair.net:8443/?ver=710800
+#EXTINF:-1 station-id="awb_b457512efb1c7e8d0d28" stream-id="aws_359ae3cfa52f4c056822" codec="mp3" bitrate="128",VOX-ARIA
+https://stream.voxaria.live/listen/voxaria/diretta.mp3
+#EXTINF:-1 station-id="awb_572a394393070fb8c26d" stream-id="aws_a2eafa0041c5f6149275" codec="mp3" bitrate="128",VOX-ARIA English
+https://stream.voxaria.live/listen/voxaria_en/diretta.mp3
+#EXTINF:-1 station-id="awb_6680ea0923b010a8fee4" stream-id="aws_df533fab5d2bdb89a255" codec="mp3" bitrate="128",VOX-ARIA Francais
+https://stream.voxaria.live/listen/voxaria_fr/diretta.mp3
 #EXTINF:-1 station-id="awb_982b42b67a1e1843becb" stream-id="aws_b394424515004dcdc326" codec="aac+" bitrate="128",W - DabliuRadio
 http://sr10.inmystream.info:8114/;
 #EXTINF:-1 station-id="awb_ef47e08cc41bcb90f280" stream-id="aws_a4c8065cd2da63ed952d" codec="mp3" bitrate="128",Web Radio Network Palermo

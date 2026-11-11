@@ -1253,7 +1253,7 @@
       "d1347701-b875-4427-a5d9-47aae60dc1b2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-05T17:33:51Z"
+    "lastCheckedAt": "2026-11-10T17:35:39Z"
   },
   {
     "id": "aws_e6c85893c15f30b12271",
@@ -3808,6 +3808,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-06T11:06:37Z"
+  },
+  {
+    "id": "aws_8568afaf38af1f38cf31",
+    "stationId": "awb_51242c97ce196b35d17f",
+    "name": "Q-Music",
+    "country": "BE",
+    "url": "https://audio-streaming.qmusic.be/qmusic.aac",
+    "codec": null,
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "63bbf50a-6cb6-41c7-ba9d-d1919cb76514"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": null
   },
   {
     "id": "aws_9a4d24956d2f46707d1e",
@@ -8439,6 +8458,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-10T00:26:02Z"
+  },
+  {
+    "id": "aws_ea6c31eac7f9f4ab2a6f",
+    "stationId": "awb_349c80ede452701daf04",
+    "name": "VRT Klara Continuo",
+    "country": "BE",
+    "url": "https://vrt.streamabc.net/vrt-klaracontinuo-mp3-128-6851541?sABC=6ns30rr3%230%236o7o9721r626s2oq7s0rq59121rp27p1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1794313955",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7ce17a66-7cf4-4558-9797-98583f68207f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-10T14:44:27Z"
   },
   {
     "id": "aws_ae247ed889a2a4e93bee",
