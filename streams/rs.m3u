@@ -29,7 +29,7 @@ http://91.221.134.252:8002/;*.mp3
 https://bumbum.nlnet.rs:8443/bumbum?download=false
 #EXTINF:-1 station-id="awb_3930d4bdbe34a22c6b08" stream-id="aws_c26cf94744b29843f6b5" codec="mp3" bitrate="256",City Ub 92.7
 http://109.72.57.12:8000/;stream.nsv
-#EXTINF:-1 station-id="awb_be253ac0c709c5cbc892" stream-id="aws_0d7feadb205367ebd8a7" codec="mp3" bitrate="128",Čivijaš Radio
+#EXTINF:-1 station-id="awb_be253ac0c709c5cbc892" stream-id="aws_0d7feadb205367ebd8a7" codec="aac+" bitrate="128",Čivijaš Radio
 http://media.srb-streaming.com:9078/stream
 #EXTINF:-1 station-id="awb_89c2895ced5eb7384fcf" stream-id="aws_c59e3b9baa1a53e89454" codec="mp3" bitrate="128",Cool Radio
 http://176.9.30.66/cool64
@@ -251,8 +251,6 @@ https://radio.nisville.com/listen/live/live
 https://nostalgie128ssl.streaming.rs:9252/;stream.mp3
 #EXTINF:-1 station-id="awb_25a7c70248414588ecc3" stream-id="aws_6034710f0ab8db4601c3" codec="mp3" bitrate="128",Nostalgija Radio
 http://nostalgie128.streaming.rs:9250/;
-#EXTINF:-1 station-id="awb_c52db673b84c24f8daaa" stream-id="aws_1f588e6f6662ffce480f" codec="mp3" bitrate="128",Nova S
-http://radio.novas.tv/novas.mp3
 #EXTINF:-1 station-id="awb_e895ca5ed1e952d07620" stream-id="aws_5f6e6e73013d31d49233" codec="aac+" bitrate="128",OK Plus Radio
 https://stream.okplus.rs/listen/plus/radio.mp3
 #EXTINF:-1 station-id="awb_8647d853f71e2ba939ee" stream-id="aws_774f0d26842366b0a5a5" codec="aac+" bitrate="128",OK Prelo Radio
@@ -405,7 +403,7 @@ http://82.145.41.8:37185/
 https://cast2.asurahosting.com/proxy/kissdoog/stream
 #EXTINF:-1 station-id="awb_dac59c8981ce530b677f" stream-id="aws_b5cdf3edd452350f6683" codec="aac+" bitrate="48",Radio Klas
 http://195.201.172.217:9014/;
-#EXTINF:-1 station-id="awb_77a6a203de480a7e1150" stream-id="aws_21beb3308e5c03676586" codec="aac" bitrate="80",Radio Klik Arilje
+#EXTINF:-1 station-id="awb_77a6a203de480a7e1150" stream-id="aws_21beb3308e5c03676586" codec="aac" bitrate="128",Radio Klik Arilje
 https://stream.zeno.fm/mhuilnb3yoxuv
 #EXTINF:-1 station-id="awb_c8a43539b033eeb36fe9" stream-id="aws_05cd49f3f02e3e08986a" codec="mp3" bitrate="320",Radio Kolo
 https://mars.streamerr.co/8280/stream
@@ -493,20 +491,14 @@ https://stream.radios.rs:9066/stream
 https://6069699a9e3f3.streamlock.net/asmedia/s_classic/playlist.m3u8
 #EXTINF:-1 station-id="awb_d97608992b50ecdbd01c" stream-id="aws_b5accb52cadc68e11a7e" codec="aac+" bitrate="64",Radio S Classic
 https://stream.radios.rs:9074/stream
-#EXTINF:-1 station-id="awb_83eb1c2bb85178981f8c" stream-id="aws_d3e83ff02ba0268631e5" codec="aac" bitrate="42",Radio S Dance
-https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8
 #EXTINF:-1 station-id="awb_a66170113bbe5b8ba7ec" stream-id="aws_2248b1b54ebd4da188c3" codec="aac+" bitrate="32",Radio S Dance
 https://stream.radios.rs:9014/stream
 #EXTINF:-1 station-id="awb_61f915818736a7f99ca1" stream-id="aws_8513cdd791c13ee0f510" codec="aac+" bitrate="32",Radio S Easy
 https://stream.radios.rs:9044/stream
 #EXTINF:-1 station-id="awb_406946ea2cccf015d431" stream-id="aws_2e74270ef47c87357a81" codec="aac" bitrate="36",Radio S Easy
 https://stream.radios.rs:9044/stream
-#EXTINF:-1 station-id="awb_659ecad19b57c02acb6a" stream-id="aws_794258a7335d64196c9b" codec="aac" bitrate="43",Radio S EX YU
-https://53a7ed211fc32.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8
 #EXTINF:-1 station-id="awb_659ecad19b57c02acb6a" stream-id="aws_8f49429b8a1a04336a33" codec="aac+" bitrate="36",Radio S EX YU
 https://stream.radios.rs:9042/stream
-#EXTINF:-1 station-id="awb_11fb1602db5e7b752294" stream-id="aws_3e6e9385b65986aa5356" codec="aac" bitrate="43",Radio S Folk Stars
-https://53a7ed211fc32.streamlock.net/asmedia/radio_s_lounge/playlist.m3u8
 #EXTINF:-1 station-id="awb_7c8e5dd440fb906d1d69" stream-id="aws_c843601c1520be66ff2e" codec="aac+" bitrate="64",Radio S Folk Stars
 https://stream.radios.rs:9024/stream
 #EXTINF:-1 station-id="awb_dbc9f6388852701b2a58" stream-id="aws_962d0637da278fc40c94" codec="aac+" bitrate="36",Radio S Gold
@@ -517,8 +509,6 @@ https://stream.radios.rs:9068/stream
 https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8
 #EXTINF:-1 station-id="awb_7e96ad689f2125d2a8d7" stream-id="aws_8ffec18acfca8fe1bf05" codec="aac+" bitrate="64",Radio S Jazz
 https://stream.radios.rs:9076/stream
-#EXTINF:-1 station-id="awb_8b1683e2f467e9877484" stream-id="aws_98ae133f66f0e56b5798" codec="aac" bitrate="43",Radio S Južni
-https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8
 #EXTINF:-1 station-id="awb_fdd514d47fed234e2fbe" stream-id="aws_a3c0af0d1341d12ed1e1" codec="aac+" bitrate="32",Radio S Južni
 https://stream.radios.rs:9038/stream
 #EXTINF:-1 station-id="awb_82ac66410c8f952138af" stream-id="aws_acf42f82eb8d8435b810" codec="aac" bitrate="43",Radio S Kids
@@ -557,8 +547,6 @@ https://stream.radios.rs:9080/stream
 https://stream.radios.rs:9064/stream
 #EXTINF:-1 station-id="awb_7964eeac614127d070a6" stream-id="aws_1a8cd3d20e7db1a62b1b" codec="aac+" bitrate="64",Radio S Trap & Rap
 https://stream.radios.rs:9030/stream
-#EXTINF:-1 station-id="awb_ffae7317099708a9558e" stream-id="aws_2e905c163f5edf9cf0c5" codec="aac" bitrate="43",Radio S Trap&Rap
-https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8
 #EXTINF:-1 station-id="awb_248e02988a3ac3475877" stream-id="aws_7872e0a60ac93b1be9f9" codec="aac+" bitrate="64",Radio S XTRA
 https://stream.radios.rs:9026/;*.mp3
 #EXTINF:-1 station-id="awb_248e02988a3ac3475877" stream-id="aws_18c177a56bb09ea118ae" codec="aac+" bitrate="64",Radio S Xtra
@@ -579,16 +567,12 @@ http://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8
 https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8
 #EXTINF:-1 station-id="awb_6da10f79cfbb96cef507" stream-id="aws_106d2ae4953043ebb0a1" codec="aac+" bitrate="64",Radio S3 Folk stars
 https://stream.radios.rs:9024/;
-#EXTINF:-1 station-id="awb_9731eb784396cd0b0adc" stream-id="aws_83d0834933c0a15225c4" codec="unknown" bitrate="0",Radio S3 Juzni
-http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704
 #EXTINF:-1 station-id="awb_3c1b78eaa2b1dafe23a3" stream-id="aws_7fb971f9ee6715beb7ed" codec="aac+" bitrate="32",Radio S3 Južni
 https://stream.radios.rs:9038/;*.mp3
 #EXTINF:-1 station-id="awb_a1f41d94b9eb238d6b56" stream-id="aws_49a6798226d8e40b1f92" codec="aac+" bitrate="64",Radio S3 Narodni
 https://stream.radios.rs:9016/;
 #EXTINF:-1 station-id="awb_9ff1cd1da181db731c4e" stream-id="aws_e7b9482078911bbc8aaa" codec="aac+" bitrate="64",Radio S3 Trap And Rap
 https://stream.radios.rs:9030/;
-#EXTINF:-1 station-id="awb_2014f78dd86e4992d258" stream-id="aws_3b7eeaaaf7a20de3b042" codec="aac" bitrate="43",Radio S4
-https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8
 #EXTINF:-1 station-id="awb_e489e1e74f231bb4ecb2" stream-id="aws_01af1fe12471d02ea746" codec="aac" bitrate="43",Radio S4
 https://53be5ef2d13aa.streamlock.net/asmedia/gradski/playlist.m3u8
 #EXTINF:-1 station-id="awb_2014f78dd86e4992d258" stream-id="aws_be74a2792de0f5bc48a4" codec="aac+" bitrate="64",Radio S4
@@ -656,7 +640,7 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1 station-id="awb_4547ad2124efc1ed94dc" stream-id="aws_88e2a1a0adc0eac7ea26" codec="mp3" bitrate="128",Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1 station-id="awb_6703e9402f79a042de4a" stream-id="aws_f85242912ad27d041827" codec="mp3" bitrate="0",RADIO.D59B
-http://n08.radiojar.com/gn6dqzhf9mzuv
+http://n01.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1 station-id="awb_ac38d2b43d4b74e65a8f" stream-id="aws_d9be3c78f879d584a355" codec="mp3" bitrate="192",Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1 station-id="awb_6bd321bece6b796e1f6f" stream-id="aws_abe0db86cb6a2f410657" codec="mp3" bitrate="128",Resavski radio

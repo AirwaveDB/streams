@@ -19,7 +19,7 @@ http://radioserver.dk/alwayselvisradio
 https://radioserver.dk/alwayselvisradio
 #EXTINF:-1 station-id="awb_f03ba92d95b260b8dc8b" stream-id="aws_d6d05cef487cf6f8a552" codec="aac+" bitrate="256",ANR
 http://stream.anr.dk/anr
-#EXTINF:-1 station-id="awb_3e50eb97f5a72eecaa88" stream-id="aws_12cfba2a07efb45fa1bb" codec="aac+" bitrate="95",Boybands Forever
+#EXTINF:-1 station-id="awb_3e50eb97f5a72eecaa88" stream-id="aws_12cfba2a07efb45fa1bb" codec="aac+" bitrate="96",Boybands Forever
 https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac
 #EXTINF:-1 station-id="awb_ada5fbcb5ec3573e18d9" stream-id="aws_ddc7ec4d39b823e23a7a" codec="mp3" bitrate="320",Charlie Classical
 https://ec6.yesstreaming.net:4365/stream
@@ -64,7 +64,7 @@ http://live-icy.dr.dk/A/A03H.mp3
 #EXTINF:-1 station-id="awb_0fdd198e5bf75210cde4" stream-id="aws_a4143861147f8046eed4" codec="mp3" bitrate="128",DR P1
 http://live-icy.gss.dr.dk/A/A03H.mp3
 #EXTINF:-1 station-id="awb_287fa8649a054d9fb5ec" stream-id="aws_7d09111fa29ceee252c3" codec="aac" bitrate="324",DR P1 (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p1/masterab.m3u8
 #EXTINF:-1 station-id="awb_054c660ad8ace2449f6d" stream-id="aws_3565ae9e2113b045cd2b" codec="mp3" bitrate="128",DR P2
 http://live-icy.dr.dk/A/A04H.mp3
 #EXTINF:-1 station-id="awb_054c660ad8ace2449f6d" stream-id="aws_432b3a99c68d6aabff09" codec="mp3" bitrate="128",DR P2
@@ -174,13 +174,13 @@ http://live-icy.dr.dk/A/A29H.mp3
 #EXTINF:-1 station-id="awb_bf42b8a7c5690f9b50b9" stream-id="aws_0bd057af413e70f8694a" codec="mp3" bitrate="128",DR P6 Beat
 http://live-icy.gss.dr.dk/A/A29H.mp3
 #EXTINF:-1 station-id="awb_2fc874de22410f9b42a3" stream-id="aws_65506977ec506357cb46" codec="aac" bitrate="324",DR P6 BEAT (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p6/masterab.m3u8
 #EXTINF:-1 station-id="awb_60dfb6474c01f0da2fe9" stream-id="aws_5f19a6bfa1ddb17c3f2d" codec="mp3" bitrate="128",DR P8 JAZZ
 http://live-icy.dr.dk/A/A22H.mp3
 #EXTINF:-1 station-id="awb_60dfb6474c01f0da2fe9" stream-id="aws_087743adfa59cde4d213" codec="mp3" bitrate="128",DR P8 Jazz
 http://live-icy.gss.dr.dk/A/A22H.mp3
 #EXTINF:-1 station-id="awb_54e602e585a126a070f3" stream-id="aws_ff93ca1750957c9003b4" codec="aac" bitrate="324",DR P8 JAZZ (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p8/masterab.m3u8
 #EXTINF:-1 station-id="awb_54e602e585a126a070f3" stream-id="aws_c39c330d0d96cdd9782c" codec="unknown" bitrate="0",DR P8 Jazz (AAC)
 https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8
 #EXTINF:-1 station-id="awb_61cd69fb3070b625cae8" stream-id="aws_9fc05608d725e5cd7a93" codec="mp3" bitrate="128",DR Ramasjang/Ultra Radio
@@ -249,7 +249,7 @@ http://radio.norea.dk:8080/;
 http://live-bauerdk.sharp-stream.com/nova128.mp3
 #EXTINF:-1 station-id="awb_b1a411e1929edf146003" stream-id="aws_b0aec7b959b5411f2347" codec="mp3" bitrate="128",NOVA - Horsens 103.6 FM
 https://live-bauerdk.sharp-stream.com/nova_dk_mp3
-#EXTINF:-1 station-id="awb_de800d748b6f8cbff630" stream-id="aws_cda9e6c2aec8e607816b" codec="aac+" bitrate="96",Nova 100 Dansk
+#EXTINF:-1 station-id="awb_de800d748b6f8cbff630" stream-id="aws_cda9e6c2aec8e607816b" codec="aac+" bitrate="95",Nova 100 Dansk
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
 #EXTINF:-1 station-id="awb_d6512f017acc6a28f724" stream-id="aws_0b4ea8a789c154dc5d8f" codec="mp3" bitrate="128",Nova FM
 https://live-bauerdk.sharp-stream.com/nova_dk_mp3
@@ -295,7 +295,7 @@ https://radioserver.dk/alfamidt
 https://radioserver.dk/alfasilk
 #EXTINF:-1 station-id="awb_0ede8f128d141f4ef355" stream-id="aws_0c528c65fae74f782f1f" codec="mp3" bitrate="192",Radio Alfa Skive
 https://radioserver.dk/alfaskive
-#EXTINF:-1 station-id="awb_18b1386ff6582b9f407c" stream-id="aws_da306da982b0e9d47e3b" codec="mp3" bitrate="0",Radio Alfa Viborg
+#EXTINF:-1 station-id="awb_18b1386ff6582b9f407c" stream-id="aws_da306da982b0e9d47e3b" codec="mp3" bitrate="256",Radio Alfa Viborg
 https://radioserver.dk/alfaviborg
 #EXTINF:-1 station-id="awb_130a9ee6e5c52e2e95aa" stream-id="aws_5f7d6a65e198dab1ce08" codec="mp3" bitrate="192",Radio ALR
 http://streamer.radio.co/s6a9beb92e/listen
@@ -339,7 +339,7 @@ http://media.limfjordnetradio.dk/limfjord128
 https://radioserver.dk/radiom
 #EXTINF:-1 station-id="awb_56d36e458af1df95113a" stream-id="aws_7ec8ac2799df8929243d" codec="mp3" bitrate="160",Radio Mælkebøtten
 http://live2.rcast.net:8722/;stream
-#EXTINF:-1 station-id="awb_475ebcd175249aa1d5ac" stream-id="aws_7006d5f6030b24feb233" codec="" bitrate="0",Radio MFK
+#EXTINF:-1 station-id="awb_475ebcd175249aa1d5ac" stream-id="aws_7006d5f6030b24feb233" codec="mp3" bitrate="192",Radio MFK
 http://stream1.radiomfk.dk/radiomfk
 #EXTINF:-1 station-id="awb_41212c06d6a7668c11c6" stream-id="aws_3b50c29d90241aea486d" codec="mp3" bitrate="0",Radio Midtsjælland
 http://player.radiomidt.dk/broadwave.mp3

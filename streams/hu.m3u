@@ -203,8 +203,6 @@ http://dombradio.dyndns.tv:8000/live.mp3
 http://dombradio.mooo.com:8000/live.mp3
 #EXTINF:-1 station-id="awb_bb1e72c5d131746a9ed9" stream-id="aws_5b685938b88b5f9473c9" codec="aac" bitrate="64",Droid Radio
 https://s41.radiolize.com/radio/8140/radio.mp3
-#EXTINF:-1 station-id="awb_4295de9803b3acde5581" stream-id="aws_d2fe7c24866ea0360f06" codec="aac+" bitrate="40",Duna World Rádió
-http://mr-stream.mediaconnect.hu/4760/dwr.aac
 #EXTINF:-1 station-id="awb_9282c76cbf255209b8ba" stream-id="aws_137355b14770df53eed4" codec="mp3" bitrate="128",Élő Víz Rádió - Living Water Radio
 https://radio.truth.fm:8000/hungary
 #EXTINF:-1 station-id="awb_9a77215cd4277bebc6b8" stream-id="aws_a3a2748fa21fd0a04a64" codec="mp3" bitrate="320",Enying FM Hungary
@@ -367,13 +365,13 @@ https://mr-stream.connectmedia.hu/4744/mr4.mp3
 https://mr-stream.connectmedia.hu/4746/mr5.mp3
 #EXTINF:-1 station-id="awb_e8b75c044f1fa9baabcd" stream-id="aws_dd622b9edfdaaf474d22" codec="mp3" bitrate="192",MR7 - Dankó Rádió
 https://mr-stream.connectmedia.hu/4748/mr7.mp3
-#EXTINF:-1 station-id="awb_d2d190e541b9a0c83917" stream-id="aws_f918ffdf335b1bdbd7ce" codec="mp3" bitrate="192",MR8 - Duna World Rádió
+#EXTINF:-1 station-id="awb_d2d190e541b9a0c83917" stream-id="aws_f918ffdf335b1bdbd7ce" codec="mp3" bitrate="40",MR8 - Duna World Rádió
 https://mr-stream.connectmedia.hu/4761/dwr.mp3
 #EXTINF:-1 station-id="awb_7455a9fced09ffaf1fb5" stream-id="aws_b9b164d09b53f35e6676" codec="mp3" bitrate="128",Mustár Rádió
 http://193.138.125.14:8500/;
-#EXTINF:-1 station-id="awb_349d6878a482a699824a" stream-id="aws_c9278b48016b2bffcebd" codec="aac+" bitrate="96",Nemzeti Sport Radio
+#EXTINF:-1 station-id="awb_349d6878a482a699824a" stream-id="aws_c9278b48016b2bffcebd" codec="aac" bitrate="96",Nemzeti Sport Radio
 https://icast.connectmedia.hu/4656/mr11.aac
-#EXTINF:-1 station-id="awb_cb42d0c35fa136c7a77a" stream-id="aws_6a3cfa1b993fa388cefb" codec="mp3" bitrate="192",Nemzeti Sportrádió
+#EXTINF:-1 station-id="awb_cb42d0c35fa136c7a77a" stream-id="aws_6a3cfa1b993fa388cefb" codec="mp3" bitrate="64",Nemzeti Sportrádió
 https://icast.connectmedia.hu/4657/mr11.mp3
 #EXTINF:-1 station-id="awb_7f10cba350b35d71515c" stream-id="aws_12b35a21c03b1b63f311" codec="aac+" bitrate="40",Nemzetiségi adások
 http://mr-stream.mediaconnect.hu/4743/mr4.aac
@@ -555,8 +553,6 @@ https://music.radiocafe98.hu/music_radiocafe98_192k.mp3
 https://radio.radiocafe98.hu/radiocafe98_192k.mp3
 #EXTINF:-1 station-id="awb_d81b2575628f288229bd" stream-id="aws_2438d56a90be6fc8d8e8" codec="mp3" bitrate="0",Radiopod Fediverse
 https://radiopod.top/radio.mp3
-#EXTINF:-1 station-id="awb_31b58a664a56e701f14a" stream-id="aws_eb75f6f04672593322fc" codec="mp3" bitrate="128",RádióX
-https://stream.phost.hu:8002/stream2
 #EXTINF:-1 station-id="awb_4b704d98e705028e6d16" stream-id="aws_9badb3f61fcbb7557c3a" codec="mp3" bitrate="192",RadiOzora
 http://trance.out.airtime.pro:8000/trance_a
 #EXTINF:-1 station-id="awb_3dcac49e2d36adeb67b9" stream-id="aws_2a4d5bf8be18b0ec1dee" codec="mp3" bitrate="192",RadiOzora Chill

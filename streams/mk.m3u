@@ -31,7 +31,7 @@ http://liferadio.ddns.net:8000/;
 https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8
 #EXTINF:-1 station-id="awb_4f5a59b16f7b16bbbc47" stream-id="aws_5aa88715224362b28da6" codec="mp3" bitrate="128",Metropolis Radio Network
 https://eu4.fastcast4u.com/proxy/metradio?mp=/1
-#EXTINF:-1 station-id="awb_adbb04f2cad8a7421a90" stream-id="aws_3873e645c9df72d7dd20" codec="" bitrate="0",Play Radio
+#EXTINF:-1 station-id="awb_adbb04f2cad8a7421a90" stream-id="aws_3873e645c9df72d7dd20" codec="mp3" bitrate="128",Play Radio
 https://live.playfm.mk:8046/live
 #EXTINF:-1 station-id="awb_742bf163dcdbcf7ad608" stream-id="aws_6872c583d5de846da85c" codec="mp3" bitrate="128",Radio 105 Bombarder
 https://radio105bombarder.com:21010/
@@ -87,7 +87,7 @@ https://radiostar.pro/stream/worldretro.php
 https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1
 #EXTINF:-1 station-id="awb_299e9220ad96cdc51a7f" stream-id="aws_844f249b081a36dbb338" codec="aac+" bitrate="320",Stil Radio Live Macedonia
 https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1
-#EXTINF:-1 station-id="awb_372dc8ce9e995b4adf63" stream-id="aws_9ff602f843c28dd6d6e4" codec="mp3" bitrate="128",Time FM Gevgelija
+#EXTINF:-1 station-id="awb_372dc8ce9e995b4adf63" stream-id="aws_9ff602f843c28dd6d6e4" codec="mp3" bitrate="192",Time FM Gevgelija
 https://s2.free-shoutcast.com/stream/18058
 #EXTINF:-1 station-id="awb_e4643d45eff2eacb2d49" stream-id="aws_3084def493a2c88ec7b8" codec="mp3" bitrate="128",Urban FM 90.8 Skopje
 https://securestreams4.autopo.st:1668/stream
@@ -95,5 +95,5 @@ https://securestreams4.autopo.st:1668/stream
 http://ekspresradio.dyndns.org:8000/
 #EXTINF:-1 station-id="awb_2a97c14a99f1315904a6" stream-id="aws_5ff1dcb45dc8e5d1f89d" codec="mp3" bitrate="128",Канал 77 Радио Мрежа
 https://radiocnd.mms.mk/proxy/player/stream
-#EXTINF:-1 station-id="awb_e3621825b049af0766bd" stream-id="aws_9ef4148139b3bc21a42d" codec="aac+" bitrate="64",Скај Радио
-http://s1.skyradio.com.mk:8000/
+#EXTINF:-1 station-id="awb_e3621825b049af0766bd" stream-id="aws_9ef4148139b3bc21a42d" codec="mp3" bitrate="192",Скај Радио
+http://s1.skyradio.com.mk:8002/

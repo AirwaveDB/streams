@@ -203,7 +203,7 @@ https://aaja-2.radiocult.fm/stream
 http://streaming04.liveboxstream.uk:8051/;
 #EXTINF:-1 station-id="awb_c83bea688f3b28ca38a0" stream-id="aws_9a0bd581b40a7f48d021" codec="aac+" bitrate="47",Absolute Classic Rock
 https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
-#EXTINF:-1 station-id="awb_6e93ca9e31dc66823c9c" stream-id="aws_c5f371fd51c52326c442" codec="aac" bitrate="128",Absolute Radio
+#EXTINF:-1 station-id="awb_6e93ca9e31dc66823c9c" stream-id="aws_c5f371fd51c52326c442" codec="aac" bitrate="127",Absolute Radio
 http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s
 #EXTINF:-1 station-id="awb_6e93ca9e31dc66823c9c" stream-id="aws_03dad402ef4176f48f67" codec="aac+" bitrate="47",Absolute Radio
 https://stream-ar.hellorayo.co.uk/absoluteradio.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
@@ -211,7 +211,7 @@ https://stream-ar.hellorayo.co.uk/absoluteradio.aac?aw_0_1st.skey=1602676850&dir
 https://stream-ar.hellorayo.co.uk/absolute00shigh.aac
 #EXTINF:-1 station-id="awb_08383f279b79bb579001" stream-id="aws_1e1526a5665f3f39382a" codec="aac+" bitrate="48",Absolute Radio 10s
 https://stream-ar.hellorayo.co.uk/absolute10s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~&=&&___cb=850509090209086
-#EXTINF:-1 station-id="awb_b7d98e34a0051616b399" stream-id="aws_7c221813b6a46b155779" codec="aac" bitrate="128",Absolute Radio 80s
+#EXTINF:-1 station-id="awb_b7d98e34a0051616b399" stream-id="aws_7c221813b6a46b155779" codec="aac" bitrate="127",Absolute Radio 80s
 http://stream-ar.planetradio.co.uk/absolute80shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true
 #EXTINF:-1 station-id="awb_b7d98e34a0051616b399" stream-id="aws_f28be79fbdaf1658c80f" codec="aac" bitrate="128",Absolute Radio 80s
 https://stream-ar.hellorayo.co.uk/absolute80shigh.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
@@ -339,8 +339,6 @@ http://s1.voscast.com:9038/
 https://stream4.themediasite.co.uk:8042/
 #EXTINF:-1 station-id="awb_fd1a1eb69f21af2c99a1" stream-id="aws_bcd6953c1123354c7743" codec="mp3" bitrate="192",Atlantic 252
 https://stream4.themediasite.co.uk:8042/Server
-#EXTINF:-1 station-id="awb_a0ccf5885ddf876674f6" stream-id="aws_3f6be5db9ac368c40a2f" codec="mp3" bitrate="192",Atlantis
-http://listen.radioking.com/radio/776405/stream/843824
 #EXTINF:-1 station-id="awb_bb864a3061a3ea325936" stream-id="aws_64dd7d125c8d6233c4d3" codec="mp3" bitrate="128",Attila1 FM
 https://stream.zeno.fm/k1mqxcqj9jruv
 #EXTINF:-1 station-id="awb_3731f8ac25c356108d02" stream-id="aws_7c177d59369b140f0eab" codec="mp3" bitrate="192",Audio Force Radio
@@ -644,7 +642,7 @@ https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac
 #EXTINF:-1 station-id="awb_e3d94b348d1037f86f8a" stream-id="aws_68eb56099a47500dfab6" codec="aac+" bitrate="64",BFBS Beats
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats
 #EXTINF:-1 station-id="awb_d426552c2058bae73131" stream-id="aws_4f8b62fc0669c552be00" codec="mp3" bitrate="128",BFBS Edge
-http://edge-audio-w2-04.sharp-stream.com/ssvcbfbs22.mp3
+http://edge-audio-w2-03.sharp-stream.com/ssvcbfbs22.mp3
 #EXTINF:-1 station-id="awb_185b72a003550c54289e" stream-id="aws_b98fa95210d1afca2b92" codec="aac+" bitrate="64",BFBS UK
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1 station-id="awb_2c7b8cfe594d0d35be2b" stream-id="aws_98f0208bc661164960d1" codec="mp3" bitrate="64",BHBN Radio
@@ -805,6 +803,8 @@ https://streaming.broadcastradio.com:9312/burgesshillradio
 http://149.255.60.193:8084/stream3
 #EXTINF:-1 station-id="awb_4b457183a52878f0f453" stream-id="aws_53bf4224e0748ed6b284" codec="mp3" bitrate="192",Cabin FM
 http://streaming06.liveboxstream.uk:8017/live
+#EXTINF:-1 station-id="awb_a2002214dc9f634b8d00" stream-id="aws_2c284b0fd4e8dd9bb428" codec="mp3" bitrate="192",Caithness FM
+https://streamer.radio.co/s2b0b90cfe/listen
 #EXTINF:-1 station-id="awb_8746418d6ee6afe44abd" stream-id="aws_fb37be742f118a34d4d9" codec="mp3" bitrate="192",Calder Valley Radio
 http://ais-sa2.cdnstream1.com/2293_192.mp3?_=276155
 #EXTINF:-1 station-id="awb_cd8d358a79ea08d37fbb" stream-id="aws_764708576006c793fae6" codec="mp3" bitrate="128",Calm N Chill Radio
@@ -885,9 +885,9 @@ http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242
 https://c36.radioboss.fm:8114/stream
 #EXTINF:-1 station-id="awb_a3684b4a7db4d5891702" stream-id="aws_2a9a56e7100ba058ff18" codec="mp3" bitrate="192",Catamaran Radio
 https://c2.radioboss.fm:9271/stream
-#EXTINF:-1 station-id="awb_22bb3a5151ac737cb9ad" stream-id="aws_f1b27b328471ac63a6cd" codec="aac,h.264" bitrate="2012",CBN-Television
+#EXTINF:-1 station-id="awb_22bb3a5151ac737cb9ad" stream-id="aws_f1b27b328471ac63a6cd" codec="aac,h.264" bitrate="2018",CBN-Television
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
-#EXTINF:-1 station-id="awb_4bcf77c9f18470d40382" stream-id="aws_c91b33886552cb9571d0" codec="mp3" bitrate="128",Celtic Music Radio
+#EXTINF:-1 station-id="awb_4bcf77c9f18470d40382" stream-id="aws_c91b33886552cb9571d0" codec="mp3" bitrate="0",Celtic Music Radio
 https://uksoutha.streaming.broadcast.radio/celtic
 #EXTINF:-1 station-id="awb_2f58a0b7b237547e1b1e" stream-id="aws_2f62ff9b954f4b5610b1" codec="mp3" bitrate="128",Celtica Radio
 http://eu8.fastcast4u.com:5232/stream1
@@ -1219,8 +1219,6 @@ http://icecast.easystream.co.uk:8000/drive105
 http://www.partyviberadio.com:8004/stream/1/
 #EXTINF:-1 station-id="awb_7fb8368981adb88af6b6" stream-id="aws_85a5c0a99b4008816e38" codec="mp3" bitrate="128",Drum & Bass Radio
 http://eilo.org:8000/drum
-#EXTINF:-1 station-id="awb_7cd531c7a109a612b1ef" stream-id="aws_d0eb8b7c4310c4ba1137" codec="mp3" bitrate="128",Drums Radio
-https://streams.radio.co/sa75718856/listen
 #EXTINF:-1 station-id="awb_eace9660efd94eb478a9" stream-id="aws_46dd4ad35e1765e3488f" codec="mp3" bitrate="128",Drystone Radio
 https://uksoutha.streaming.broadcast.radio/drystoneradio?1724596500437=
 #EXTINF:-1 station-id="awb_ff017e1ca6d8582667f6" stream-id="aws_e156ff126e62d7ff2c45" codec="mp3" bitrate="256",Dubplate.fm Dub &Bass
@@ -1273,6 +1271,8 @@ https://stream-15.aiir.com/vps1vob4wpfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-15.aiir.com/rhjjpgb4uwitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyaGpqcGdiNHV3aXR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6IjBXd1EzdjRJVDhHU1VjZEZEaHBjTEEiLCJpYXQiOjE3ODgxMjc1ODQsImV4cCI6MTc4ODEyNzY0NH0.zh1rL9ClYYJjsVY2AYwR9PNQUHhYoi-DuGcmmpsDf7c
 #EXTINF:-1 station-id="awb_879a9beaef48230ca713" stream-id="aws_a8a19423e240473d0e50" codec="mp3" bitrate="128",EDM Addicts
 https://emlrecordings.radioca.st/;
+#EXTINF:-1 station-id="awb_b1bf3631c5613583bbb5" stream-id="aws_48f5f0e6b6579cb20df9" codec="mp3" bitrate="64",Ef Gospel and Hymns
+http://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 station-id="awb_11e5a88eef7de58df36f" stream-id="aws_d285b8573306b49b7a56" codec="mp3" bitrate="192",EHFM
 https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1 station-id="awb_f8f56698653711d7ac3d" stream-id="aws_8a92231b85806172d843" codec="mp3" bitrate="0",Eirewave
@@ -1449,7 +1449,7 @@ http://uk3.internet-radio.com:8108/
 http://radio.canstream.co.uk:8007/live.mp3
 #EXTINF:-1 station-id="awb_d2f5175461fbbedbde9d" stream-id="aws_5f946fb577adb2ebb137" codec="mp3" bitrate="128",Futuredrumz Jungle Drum & Bass Radio
 http://148.251.43.231:8006/stream
-#EXTINF:-1 station-id="awb_b4fa888cd368b380dd47" stream-id="aws_88bd9a2b75aa5da12e03" codec="" bitrate="0",Fuzzy Radio
+#EXTINF:-1 station-id="awb_b4fa888cd368b380dd47" stream-id="aws_88bd9a2b75aa5da12e03" codec="mp3" bitrate="128",Fuzzy Radio
 https://vega.streamerr.co:8730/radio.mp3
 #EXTINF:-1 station-id="awb_5f44e3cac8a7d828a37a" stream-id="aws_9bc961ca5c29eeaf4ffe" codec="aac" bitrate="48",Galaxy of Stars
 https://media-ssl.musicradio.com/Global-M-GalaxyStars
@@ -1555,11 +1555,11 @@ https://s8.myradiostream.com/58238//listen.mp3
 https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
 #EXTINF:-1 station-id="awb_a78649f07d7973018b3b" stream-id="aws_b31a051fc79279b33218" codec="mp3" bitrate="112",Greatest Hits Radio (Devon)
 http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850
-#EXTINF:-1 station-id="awb_ba7d4b610d37ff3ae377" stream-id="aws_63ed7f001e499ca54fbc" codec="aac+" bitrate="48",Greatest Hits Radio 60s
+#EXTINF:-1 station-id="awb_ba7d4b610d37ff3ae377" stream-id="aws_63ed7f001e499ca54fbc" codec="aac+" bitrate="47",Greatest Hits Radio 60s
 https://stream-al.hellorayo.co.uk/ghr60s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
-#EXTINF:-1 station-id="awb_10c253e1366e17f6a00c" stream-id="aws_a4689cbfe2290d8cd78d" codec="aac+" bitrate="47",Greatest Hits Radio 70s
+#EXTINF:-1 station-id="awb_10c253e1366e17f6a00c" stream-id="aws_a4689cbfe2290d8cd78d" codec="aac+" bitrate="48",Greatest Hits Radio 70s
 https://stream-al.hellorayo.co.uk/ghr70s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
-#EXTINF:-1 station-id="awb_b6f9cb2b50802fee917b" stream-id="aws_da3d4c7f42dc958c6634" codec="aac+" bitrate="48",Greatest Hits Radio 80s
+#EXTINF:-1 station-id="awb_b6f9cb2b50802fee917b" stream-id="aws_da3d4c7f42dc958c6634" codec="aac+" bitrate="47",Greatest Hits Radio 80s
 https://stream-al.hellorayo.co.uk/ghr80s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
 #EXTINF:-1 station-id="awb_2ba3457b07b7dcb9cdd1" stream-id="aws_4b8660b873fe49428f79" codec="mp3" bitrate="128",GreekBeat Radio
 http://s2.voscast.com:9576/1/stream
@@ -1755,7 +1755,7 @@ https://stream3.themediasite.co.uk:8260/stream
 https://radio.canstream.co.uk:8156/live.mp3
 #EXTINF:-1 station-id="awb_35fb95f541edfe895273" stream-id="aws_c6f156c326d6bc030c41" codec="mp3" bitrate="128",Hits hull & East York
 https://listen-nation.sharp-stream.com/hull.mp3?aw_0_1st.playerid=BMUK_html5
-#EXTINF:-1 station-id="awb_97b38919a438a1435a26" stream-id="aws_ce0d300f29837e1d5175" codec="aac+" bitrate="47",Hits Radio London
+#EXTINF:-1 station-id="awb_97b38919a438a1435a26" stream-id="aws_ce0d300f29837e1d5175" codec="aac+" bitrate="48",Hits Radio London
 https://stream-mz.hellorayo.co.uk/net1london.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
 #EXTINF:-1 station-id="awb_716e36d4ea5b19119cd4" stream-id="aws_6b364178834eb765ec07" codec="aac+" bitrate="47",Hits Radio UK
 https://stream-al.hellorayo.co.uk/key.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
@@ -1871,7 +1871,7 @@ https://carol.epichosts.co.uk:8232/live.mp3
 https://stream.dulcet.cloud/infusion
 #EXTINF:-1 station-id="awb_b4ac78ed4234c317538d" stream-id="aws_9cbf001ff5b2086d33bf" codec="ogg" bitrate="0",Insanity Radio
 http://stream.cor.insanityradio.com/insanity_unprocessed.flac
-#EXTINF:-1 station-id="awb_b4ac78ed4234c317538d" stream-id="aws_d5f0cd4d35483522de58" codec="unknown" bitrate="135",Insanity Radio
+#EXTINF:-1 station-id="awb_b4ac78ed4234c317538d" stream-id="aws_d5f0cd4d35483522de58" codec="unknown" bitrate="134",Insanity Radio
 https://scdnc.insanityradio.com/dash/hls/insanity/index.m3u8
 #EXTINF:-1 station-id="awb_b4ac78ed4234c317538d" stream-id="aws_807f5c1980592ddde403" codec="ogg" bitrate="0",Insanity Radio
 https://stream.cor.insanityradio.com/insanity.flac
@@ -1903,7 +1903,7 @@ http://54.36.89.71:8102/stream
 https://streaming.radio.co/s264858a04/listen
 #EXTINF:-1 station-id="awb_109741f551ab3e5be87f" stream-id="aws_1dedf500d121aae78163" codec="mp3" bitrate="128",itisnow Radio
 https://stream.radio.co/sc41e33712/listen
-#EXTINF:-1 station-id="awb_17543adbae3be0f89ad5" stream-id="aws_1e2708d00eca95eacbd1" codec="mp3" bitrate="192",ITV
+#EXTINF:-1 station-id="awb_17543adbae3be0f89ad5" stream-id="aws_1e2708d00eca95eacbd1" codec="mp3" bitrate="0",ITV
 http://onj2.andrelouis.com:8000/itv
 #EXTINF:-1 station-id="awb_e600ef7df1f6c16f88ce" stream-id="aws_8ddc4fb78a367b205473" codec="aac" bitrate="192",J80s - Fun Facts & Tracks!
 https://streamz.anytek.co.uk/proxy/justeighties/J80s
@@ -1913,8 +1913,6 @@ http://stream.zeno.fm/n958khk73hhvv
 https://stream.jamradio.uk/live
 #EXTINF:-1 station-id="awb_5c183b5c9619f514f6e8" stream-id="aws_19bc19a2bf974faa4692" codec="mp3" bitrate="192",Jambo! Radio
 https://stream3.themediasite.co.uk:8130/stream
-#EXTINF:-1 station-id="awb_25e8a736a8cadf047f2c" stream-id="aws_cedff2d811d1955308a3" codec="ogg" bitrate="0",Jamie Radio
-http://cast1.typicalmedia.net/stream/jamieradio/flac
 #EXTINF:-1 station-id="awb_8d5635a91168dff9e265" stream-id="aws_eeba34134e13a9d8ba6f" codec="mp3" bitrate="128",JAZZ & CHILL
 http://salalondon.ddns.net:8002/;.m3u
 #EXTINF:-1 station-id="awb_c49a21c89af709269036" stream-id="aws_a9259fc3817f2fe27789" codec="mp3" bitrate="256",Jazz London Radio
@@ -1945,8 +1943,6 @@ http://uk5.internet-radio.com/proxy/joyradio?mp=/stream
 http://joyhits.online/joyhits.flac.ogg
 #EXTINF:-1 station-id="awb_958c0cd3d4af4f5b111a" stream-id="aws_587c842018e3bcb12a1e" codec="aac" bitrate="0",Judas Priest
 https://stream.pcradio.ru/judas_priest-hi
-#EXTINF:-1 station-id="awb_d821703c4ea01ca6c611" stream-id="aws_7049c72c0da21a059d48" codec="aac+" bitrate="96",Juice Liverpool
-https://uksouth1.juiceboxradio.com/JuiceLiverpool
 #EXTINF:-1 station-id="awb_9eddec177c527e99c73c" stream-id="aws_23c928542ace41ca9288" codec="mp3" bitrate="0",Juice Radio
 https://n18-eu.rcs.revma.com/yb1ut1uvz42vv?rj-ttl=5&rj-tok=AAABnxGTmHIAVjQns1DDlukppg
 #EXTINF:-1 station-id="awb_510c579fb5bc24baf0aa" stream-id="aws_25022c5d94c0f2aa2921" codec="aac" bitrate="320",JUNGLE DOPE LABS
@@ -1993,7 +1989,7 @@ http://s3.radio.co/se1c4cc1fb/listen
 https://kinclubradio.com/kinclub-radio.mp3
 #EXTINF:-1 station-id="awb_abf714f9bada3c848939" stream-id="aws_6880e2374dcb2117346d" codec="mp3" bitrate="320",KINDRED
 https://kindred.radiocult.fm/stream
-#EXTINF:-1 station-id="awb_7177b24f31e723e48e5c" stream-id="aws_02ba7387dc9d6f3a402a" codec="aac+" bitrate="47",KISS - The Best Vibes & Energy
+#EXTINF:-1 station-id="awb_7177b24f31e723e48e5c" stream-id="aws_02ba7387dc9d6f3a402a" codec="aac+" bitrate="48",KISS - The Best Vibes & Energy
 https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
 #EXTINF:-1 station-id="awb_47728ae69cf773a5b96e" stream-id="aws_4990706d08f5bcab4e3d" codec="aac" bitrate="127",KISS DANCE: The Biggest Dance Anthems 24/7
 https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
@@ -2309,7 +2305,7 @@ http://centova2.whsh4u.com:9209/stream
 https://metal-radio-uk-c12658c4.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_01143636d65ce98feabd" stream-id="aws_95b57f97e113cf58fee0" codec="mp3" bitrate="192",Metro Sound
 https://stream.onlineaudience.co.uk:8050/radio.mp3
-#EXTINF:-1 station-id="awb_237d25b8cbbb9debc7b8" stream-id="aws_3f416f49e0553de9d81f" codec="aac+" bitrate="48",MFR - Moray Firth Radio
+#EXTINF:-1 station-id="awb_237d25b8cbbb9debc7b8" stream-id="aws_3f416f49e0553de9d81f" codec="aac+" bitrate="47",MFR - Moray Firth Radio
 http://stream-mz.hellorayo.co.uk/mfrfm.aac?aw_0_1st.skey=1602676850
 #EXTINF:-1 station-id="awb_6aaf11d8e71a90638983" stream-id="aws_ee91a7531741a580807b" codec="mp3" bitrate="128",Mi-Soul Radio
 https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3
@@ -2317,7 +2313,7 @@ https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3
 https://s9.citrus3.com:8370/stream
 #EXTINF:-1 station-id="awb_959038799033878eb716" stream-id="aws_dfd5b55230c759ff6079" codec="mp3" bitrate="65",Mid Downs Radio
 https://listen-mdr.sharp-stream.com/mdr.mp3
-#EXTINF:-1 station-id="awb_5f7f1b2a0e5449d57985" stream-id="aws_a0292dcbf506c8d577d3" codec="aac" bitrate="96",Midlands Radio
+#EXTINF:-1 station-id="awb_5f7f1b2a0e5449d57985" stream-id="aws_a0292dcbf506c8d577d3" codec="aac" bitrate="112",Midlands Radio
 https://stream-153.zeno.fm/2mn7tdzkug0uv
 #EXTINF:-1 station-id="awb_d5020010b94f2d8006fd" stream-id="aws_b201e6e1298e3d8db589" codec="mp3" bitrate="128",Midlands Radio Christmas (MP3)
 http://stream.zeno.fm/b0ykm1bpb78uv
@@ -2415,7 +2411,7 @@ http://listen-nation.sharp-stream.com/nationradio00s.aac?ref=RF
 https://listen-nation.sharp-stream.com/nation60s.mp3
 #EXTINF:-1 station-id="awb_af3cc4973fd712574a84" stream-id="aws_068c5fabcae219bdca57" codec="aac+" bitrate="47",Nation 80s
 http://listen-nation.sharp-stream.com/nationradio80s.aac
-#EXTINF:-1 station-id="awb_2f343a43cfe1cb0a6b60" stream-id="aws_0bb95c6504d6fe149abd" codec="aac+" bitrate="47",Nation 90s
+#EXTINF:-1 station-id="awb_2f343a43cfe1cb0a6b60" stream-id="aws_0bb95c6504d6fe149abd" codec="aac+" bitrate="48",Nation 90s
 http://listen-nation.sharp-stream.com/nationradio90s.aac
 #EXTINF:-1 station-id="awb_b06468743394399d43dc" stream-id="aws_42cdea605aa3ce50b764" codec="mp3" bitrate="128",Nation Classic Hits
 https://listen-nation.sharp-stream.com/nationparty.mp3
@@ -2431,9 +2427,9 @@ http://listen-nation.sharp-stream.com/nationhulldab.mp3?ref=RF
 http://listen-nation.sharp-stream.com/nationradio80s.mp3
 #EXTINF:-1 station-id="awb_8a4dba3ae566d963b58d" stream-id="aws_216ee0dd03f1aee777c1" codec="mp3" bitrate="320",Nation Radio South Coast Dorset
 http://listen-nation.sharp-stream.com/nationdorsetdab.mp3?ref=RF
-#EXTINF:-1 station-id="awb_2475f49ab4a2e1691ee7" stream-id="aws_4739022ea29d3d8a8c4c" codec="aac+" bitrate="48",Nation Radio Wales
+#EXTINF:-1 station-id="awb_2475f49ab4a2e1691ee7" stream-id="aws_4739022ea29d3d8a8c4c" codec="aac+" bitrate="47",Nation Radio Wales
 https://edge-ads-05-gos2.sharp-stream.com/tcnationi.aac
-#EXTINF:-1 station-id="awb_c801eb9cc894ecabdc2c" stream-id="aws_f29d8f2e300f0cc69629" codec="aac+" bitrate="47",Nation Rocks
+#EXTINF:-1 station-id="awb_c801eb9cc894ecabdc2c" stream-id="aws_f29d8f2e300f0cc69629" codec="aac+" bitrate="48",Nation Rocks
 http://listen-nation.sharp-stream.com/nationrocks.aac?ref=RF
 #EXTINF:-1 station-id="awb_c801eb9cc894ecabdc2c" stream-id="aws_8182cfa5fcee951a59a2" codec="mp3" bitrate="320",Nation Rocks
 http://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RFn
@@ -2567,7 +2563,7 @@ https://stream.stuallan.com/stream3
 https://stream.stuallan.com/stream2
 #EXTINF:-1 station-id="awb_bc91314f76672c35a213" stream-id="aws_de8dff9a3fc266d8257a" codec="mp3" bitrate="128",OSTM Radio
 https://stream.zeno.fm/1vx25xbdmzzuv
-#EXTINF:-1 station-id="awb_6b14ea162a70fce88e56" stream-id="aws_a108d930b003fb1bc446" codec="mp3" bitrate="256",Otaku - Infinite Mixtapes | NTS
+#EXTINF:-1 station-id="awb_6b14ea162a70fce88e56" stream-id="aws_a108d930b003fb1bc446" codec="mp3" bitrate="128",Otaku - Infinite Mixtapes | NTS
 https://stream-mixtape-geo.ntslive.net/mixtape36
 #EXTINF:-1 station-id="awb_4f409bab6dadd9b5e3cd" stream-id="aws_8a915bfb228d92012549" codec="aac" bitrate="0",Outreach Dance
 https://live.ukrp.tv/outreachdance.aac
@@ -2891,13 +2887,13 @@ https://n12.radiojar.com/ku02q7d2mewtv.m4a?1692523176=&rj-tok=AAABihJHf8oAqyE3Vo
 https://a9.asurahosting.com/listen/radio_mtv_madagacar/radio.mp3
 #EXTINF:-1 station-id="awb_6a8014b68f0a62efa53e" stream-id="aws_2c0fa49892bf995384f8" codec="mp3" bitrate="128",Radio New Springs
 http://stream.aiir.com/snlfrauztitvv
-#EXTINF:-1 station-id="awb_ded2f998ea88821e208b" stream-id="aws_1f3d16d7d349bfc34e79" codec="aac+" bitrate="64",Radio Newquay
+#EXTINF:-1 station-id="awb_ded2f998ea88821e208b" stream-id="aws_1f3d16d7d349bfc34e79" codec="aac+" bitrate="56",Radio Newquay
 http://s46.myradiostream.com:8816/stream
-#EXTINF:-1 station-id="awb_ded2f998ea88821e208b" stream-id="aws_932811f7af5d9a22d6c8" codec="aac+" bitrate="64",Radio Newquay
+#EXTINF:-1 station-id="awb_ded2f998ea88821e208b" stream-id="aws_932811f7af5d9a22d6c8" codec="aac+" bitrate="56",Radio Newquay
 https://s46.myradiostream.com/8816/listen.mp3
 #EXTINF:-1 station-id="awb_cee6dd93f1b99080931d" stream-id="aws_7c1ea44642b996ca78aa" codec="mp3" bitrate="256",Radio Ninesprings
 https://stream.radioninesprings.com/ninesprings-high?_=293441
-#EXTINF:-1 station-id="awb_0818724b1484d76325fc" stream-id="aws_4b90a8b5b1c21e82c7a8" codec="mp3" bitrate="48",Radio North Angus
+#EXTINF:-1 station-id="awb_0818724b1484d76325fc" stream-id="aws_4b90a8b5b1c21e82c7a8" codec="mp3" bitrate="54",Radio North Angus
 https://uk3-vn.mixstream.net/8192/listen.mp3
 #EXTINF:-1 station-id="awb_992adca91911f5d3ad6b" stream-id="aws_d907a288ade2252610a2" codec="mp3" bitrate="320",Radio Northsea UK
 https://listentomystream.com:8008/;
@@ -2977,8 +2973,6 @@ http://hyades.shoutca.st:8034/stream
 http://hyades.shoutca.st:8034/wokinglow
 #EXTINF:-1 station-id="awb_798f0822949f00203611" stream-id="aws_47dc7ef1d6416674909e" codec="mp3" bitrate="192",Radio Woking
 https://radiowoking.radioca.st/stream?rp_source=1&=&&___cb=821829812672569
-#EXTINF:-1 station-id="awb_34b2758b7df4b5a58d5e" stream-id="aws_bdaaa52a12fb5e8c2524" codec="mp3" bitrate="160",Radio Wyvern
-https://radio.canstream.co.uk:8039/live.mp3?_=977325
 #EXTINF:-1 station-id="awb_153c6f67e9743b1ac789" stream-id="aws_af7d8351ccb4ad2a6504" codec="mp3" bitrate="128",Radio X
 http://icecast.thisisdax.com/RadioXUKMP3
 #EXTINF:-1 station-id="awb_1c30c6cd7dc67abc368a" stream-id="aws_8ae4551b985f87358c17" codec="aac" bitrate="48",Radio X
@@ -3013,25 +3007,25 @@ https://n18a-eu.rcs.revma.com/nye22yatz42vv?rj-ttl=5&rj-tok=AAABm86No4cAj3cUwHek
 https://c30.radioboss.fm:8613/stream
 #EXTINF:-1 station-id="awb_b5de2e2a08aba2fed949" stream-id="aws_4aa3ec946cfd67963101" codec="mp3" bitrate="128",Radio2Funky
 https://s6.citrus3.com:8006/stream
-#EXTINF:-1 station-id="awb_1e2a5d23854d121842f8" stream-id="aws_e43638bce9be8d476307" codec="mp3" bitrate="128",radioalfa15 latin hits
+#EXTINF:-1 station-id="awb_1e2a5d23854d121842f8" stream-id="aws_e43638bce9be8d476307" codec="mp3" bitrate="48",radioalfa15 latin hits
 http://stream.zeno.fm/034v7pbzxwzuv
-#EXTINF:-1 station-id="awb_9408a08bef885c73defc" stream-id="aws_70d6feffc8e28c8c0db6" codec="mp3" bitrate="128",radioalfa16 latin hits
+#EXTINF:-1 station-id="awb_9408a08bef885c73defc" stream-id="aws_70d6feffc8e28c8c0db6" codec="mp3" bitrate="48",radioalfa16 latin hits
 http://stream.zeno.fm/zxh8nt5dtwzuv
-#EXTINF:-1 station-id="awb_25a95db0e22f2e53fb0c" stream-id="aws_c547d217db4e7590ade0" codec="mp3" bitrate="96",radioalfa17 latin hits
+#EXTINF:-1 station-id="awb_25a95db0e22f2e53fb0c" stream-id="aws_c547d217db4e7590ade0" codec="mp3" bitrate="48",radioalfa17 latin hits
 http://stream.zeno.fm/9cw9n1nm0d0uv
-#EXTINF:-1 station-id="awb_5fc7e6cc08bafe653241" stream-id="aws_68e201fb4385ad342f62" codec="mp3" bitrate="128",radioalfa18 latin hits
+#EXTINF:-1 station-id="awb_5fc7e6cc08bafe653241" stream-id="aws_68e201fb4385ad342f62" codec="mp3" bitrate="48",radioalfa18 latin hits
 http://stream.zeno.fm/d8gdu7nm0d0uv
-#EXTINF:-1 station-id="awb_fd35a1ff9b3825fbe622" stream-id="aws_2b6caae0f367dab2c54b" codec="mp3" bitrate="128",radioalfa19 latin hits
+#EXTINF:-1 station-id="awb_fd35a1ff9b3825fbe622" stream-id="aws_2b6caae0f367dab2c54b" codec="mp3" bitrate="48",radioalfa19 latin hits
 http://stream.zeno.fm/5ue6sepm0d0uv
-#EXTINF:-1 station-id="awb_b5afa4ae5849487e3385" stream-id="aws_08e01b585a8cce71dc5e" codec="mp3" bitrate="32",radioalfa20 latin hits
+#EXTINF:-1 station-id="awb_b5afa4ae5849487e3385" stream-id="aws_08e01b585a8cce71dc5e" codec="mp3" bitrate="48",radioalfa20 latin hits
 http://stream.zeno.fm/nh4m3mpm0d0uv
-#EXTINF:-1 station-id="awb_c316772443711b9e7f0b" stream-id="aws_87c4f0fd8b154bc028e2" codec="mp3" bitrate="128",radioalfa6 latin hits
+#EXTINF:-1 station-id="awb_c316772443711b9e7f0b" stream-id="aws_87c4f0fd8b154bc028e2" codec="mp3" bitrate="48",radioalfa6 latin hits
 http://stream.zeno.fm/t1q7vkkavqzuv
-#EXTINF:-1 station-id="awb_3ad03491fdb91ad1558c" stream-id="aws_5d2c003a8b4de0ef7b0b" codec="mp3" bitrate="128",radioalfa7 latin hits
+#EXTINF:-1 station-id="awb_3ad03491fdb91ad1558c" stream-id="aws_5d2c003a8b4de0ef7b0b" codec="mp3" bitrate="48",radioalfa7 latin hits
 http://stream.zeno.fm/gxpcf0kavqzuv
-#EXTINF:-1 station-id="awb_8c43ac999dddf18aba0c" stream-id="aws_06e5c9489243035dd5bc" codec="mp3" bitrate="128",radioalfa8 latin hits
+#EXTINF:-1 station-id="awb_8c43ac999dddf18aba0c" stream-id="aws_06e5c9489243035dd5bc" codec="mp3" bitrate="48",radioalfa8 latin hits
 http://stream.zeno.fm/51z3n54r1qzuv
-#EXTINF:-1 station-id="awb_4e65371b72454bc4396e" stream-id="aws_db93e4b3385993180da1" codec="mp3" bitrate="128",radioalfa9 latin hits
+#EXTINF:-1 station-id="awb_4e65371b72454bc4396e" stream-id="aws_db93e4b3385993180da1" codec="mp3" bitrate="48",radioalfa9 latin hits
 http://stream.zeno.fm/4px23a06qtzuv
 #EXTINF:-1 station-id="awb_3d7b272e1bcf87f80395" stream-id="aws_79ab0b0877b33d6501c0" codec="mp3" bitrate="96",RadioArt: Greek Art for Kids
 http://live.radioart.com/fGreek_art_for_kids.mp3
@@ -3112,7 +3106,7 @@ https://s10.myradiostream.com/35820/listen.mp3
 #EXTINF:-1 station-id="awb_d9a558c77a4799b3fc3e" stream-id="aws_a94ea97a9b5993e7a79a" codec="mp3" bitrate="0",Reload Radio
 https://stream.rcs.revma.com/uevbqsdd52nwv
 #EXTINF:-1 station-id="awb_f50b83cf6e535117851e" stream-id="aws_9483925cf1b26b8a8a12" codec="mp3" bitrate="128",Renegade Radio
-https://149.255.60.195/proxy/renegade?mp=/stream
+http://149.255.60.195:8085/stream
 #EXTINF:-1 station-id="awb_77b4018d6a8ca6cc1bda" stream-id="aws_c03d33b894b04d6cebff" codec="mp3" bitrate="128",REPLAY NEWS - English News radio every 5 minutes
 https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3
 #EXTINF:-1 station-id="awb_5a8e01d91ff923a6c9dd" stream-id="aws_51e746940fa33c1a92a9" codec="mp3" bitrate="320",Reprezent Radio
@@ -3127,6 +3121,8 @@ https://stream.resonance.fm/resonance-extra
 http://stream.resonance.fm:8000/resonance
 #EXTINF:-1 station-id="awb_b0df0178087ec106cbc7" stream-id="aws_e807ded96bd57fa73532" codec="aac" bitrate="48",Retro Mix Radio
 https://stream.retromixradio.co.uk/radio48
+#EXTINF:-1 station-id="awb_5c3960fd8d1fb24d0dea" stream-id="aws_22bc5eb05fb9f7c8358e" codec="mp3" bitrate="192",Retro Music Radio UK
+https://stream.radiostudio24.com/listen/rs24_66/radio.mp3
 #EXTINF:-1 station-id="awb_a27cb7d7ea5383074785" stream-id="aws_ff3d77650f41c3db70d8" codec="mp3" bitrate="192",Retro Soul Radio
 https://streaming.galaxywebsolutions.com/stream/retrosoul
 #EXTINF:-1 station-id="awb_36736f39449ce6a3bd6e" stream-id="aws_ff4d083dd4da51b63a3f" codec="mp3" bitrate="128",RetroByte Radio
@@ -3297,8 +3293,6 @@ https://simulatorradio.stream/stream.mp3
 https://uksoutha.streaming.broadcast.radio/sinefm
 #EXTINF:-1 station-id="awb_79b40fbcc2b92a7fc70b" stream-id="aws_d5661453f13d7c9ddd6f" codec="mp3" bitrate="0",Sine FM
 https://uksoutha.streaming.broadcast.radio/sinefm?1716196689781=
-#EXTINF:-1 station-id="awb_d4ce9f71e44c337c7dc6" stream-id="aws_376cef0c22a96ff25bc2" codec="mp3" bitrate="0",Skylab Radio
-https://uksoutha.streaming.broadcast.radio:29690/skylab-radio-limited
 #EXTINF:-1 station-id="awb_2dcffc20f9a75a425218" stream-id="aws_6bbf9bfdb3181a4d43af" codec="mp3" bitrate="128",Skyline Radio - Wolverhampton (MP3)
 http://stream.zeno.fm/gppe0uht9c0uv
 #EXTINF:-1 station-id="awb_a214a6e265bcb788db17" stream-id="aws_794f0e47b8603a879194" codec="mp3" bitrate="128",SlaveFM
@@ -3441,7 +3435,7 @@ https://s6.autopo.st/proxy/shrinternet?mp=/stream
 https://uksoutha.streaming.broadcast.radio/southern-roots-radio.mp3
 #EXTINF:-1 station-id="awb_9b148f004702e1397747" stream-id="aws_73d3fa12da7ee80c04f9" codec="mp3" bitrate="192",Space Unicorn Radio
 https://spaceunicorn.radio/stream
-#EXTINF:-1 station-id="awb_47dc726d0868a62c9060" stream-id="aws_28d1906d3b8c0fd28c80" codec="mp3" bitrate="320",Space Unicorn Radio (not https)
+#EXTINF:-1 station-id="awb_47dc726d0868a62c9060" stream-id="aws_28d1906d3b8c0fd28c80" codec="mp3" bitrate="192",Space Unicorn Radio (not https)
 http://spaceunicorn.radio:8000/stream
 #EXTINF:-1 station-id="awb_51ac31b82e52be089312" stream-id="aws_ab06db55288b28108ed9" codec="mp3" bitrate="320",Spark FM
 https://stream1.hippynet.co.uk:8117/live.mp3
@@ -3563,7 +3557,7 @@ http://stream.techno.fm/radio320.mp3
 https://onlineradiobox.com/json/fr/teenagekicks/play
 #EXTINF:-1 station-id="awb_731b891cf74346df72cc" stream-id="aws_86a483ba804baecdef52" codec="ogg" bitrate="128",TEKnival Radio
 https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
-#EXTINF:-1 station-id="awb_731b891cf74346df72cc" stream-id="aws_5a6629d717e42495924f" codec="mp3" bitrate="0",Teknival Radio
+#EXTINF:-1 station-id="awb_731b891cf74346df72cc" stream-id="aws_5a6629d717e42495924f" codec="mp3" bitrate="96",Teknival Radio
 https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
 #EXTINF:-1 station-id="awb_c393755d18d8e4d85620" stream-id="aws_48d3538a51c645f8de0d" codec="mp3" bitrate="256",telstar
 http://streaming04.liveboxstream.uk:8032/stream
@@ -3727,14 +3721,10 @@ https://listen.thethursdaynightshow.com/live
 https://c18.radioboss.fm:8423/stream
 #EXTINF:-1 station-id="awb_b591b89d45d51626230f" stream-id="aws_e7b1cc4cb09b4b0ad1c8" codec="mp3" bitrate="128",TWR UK
 https://direct.sharp-stream.com/twruk.mp3
-#EXTINF:-1 station-id="awb_72e2d75c95256fb4d7df" stream-id="aws_eb0b7e7c1414ba744617" codec="aac" bitrate="127",U105
-http://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645
-#EXTINF:-1 station-id="awb_72e2d75c95256fb4d7df" stream-id="aws_45c0e43391cc9171b753" codec="aac" bitrate="127",U105
-http://gbradio.cdn.tibus.net/U105?ref=rf
 #EXTINF:-1 station-id="awb_b4fc9b0095d9ca2eaa33" stream-id="aws_8c02d3154e4980ecf4ef" codec="mp3" bitrate="128",UCB 1
-https://edge-audio-w1-02.sharp-stream.com:80/55_ucb_1_128_mp3
+https://edge-audio-w1-01.sharp-stream.com:80/55_ucb_1_128_mp3
 #EXTINF:-1 station-id="awb_e25ccc7c438b367edc8d" stream-id="aws_537de7331c5998722efd" codec="mp3" bitrate="128",UCB 2
-https://edge-audio-w2-02.sharp-stream.com:80/55_ucb_2_128_mp3
+https://edge-audio-w1-03.sharp-stream.com:80/55_ucb_2_128_mp3
 #EXTINF:-1 station-id="awb_c9e77a4095d18478a2dd" stream-id="aws_a278b66eea5cf2dfcae5" codec="mp3" bitrate="128",Ujima Radio
 https://radio.canstream.co.uk:8037/live.mp3
 #EXTINF:-1 station-id="awb_757f8c0343b0da4cae49" stream-id="aws_c9bacfe825ce0f7ab8e5" codec="mp3" bitrate="128",UK 1940S Radio
@@ -3909,10 +3899,6 @@ https://s3.radio.co/s113a5dc46/listen
 https://casper.radioca.st/
 #EXTINF:-1 station-id="awb_f00cbfa579712e99e74f" stream-id="aws_91fb1b7240de96280aa6" codec="mp3" bitrate="128",Xpression FM
 https://streaming.broadcastradio.com:10855/xpression
-#EXTINF:-1 station-id="awb_f74dbd051c04e26cf4ff" stream-id="aws_5edfacfcd4359f143e03" codec="mp3" bitrate="160",Xtra Hot
-https://stream1.hippynet.co.uk/stream/xtrahot/live
-#EXTINF:-1 station-id="awb_b751e50203541ed73b9c" stream-id="aws_4ce3bd65613960ae2080" codec="mp3" bitrate="160",Xtra Hot
-https://stream1.hippynet.co.uk/stream/xtrahot/live?_=441643
 #EXTINF:-1 station-id="awb_0983061855621c94c0d2" stream-id="aws_caeeff2b754720639033" codec="ogg" bitrate="80000",YellowTealPurple
 https://yellowtealpurple.net/radio/stream
 #EXTINF:-1 station-id="awb_36447f9b39a56308e7f9" stream-id="aws_9b9ccbc776c97192da1f" codec="mp3" bitrate="128",YO1 Extra
@@ -3927,8 +3913,6 @@ https://stream1.superstreaming.co.uk/proxy/yorkhospradio/stream
 http://stream2.hippynet.co.uk:8020/streamb
 #EXTINF:-1 station-id="awb_40ffe8148c167aeab307" stream-id="aws_46cab8a31004c6736f71" codec="aac+" bitrate="64",Your Hits Digital
 https://stream-yourhitsdigital.creativedork.com/
-#EXTINF:-1 station-id="awb_907ebc3032ba12361d4e" stream-id="aws_841fc7ba22b62b2bc215" codec="mp3" bitrate="160",Youthcomm Radio
-http://radio.canstream.co.uk:8039/live.mp3
 #EXTINF:-1 station-id="awb_c9a6d08d18791176bedf" stream-id="aws_76272df1347fd03addde" codec="ogg" bitrate="0",Zack FM
 https://s2.streamer1.com/listen/zackfm/zackTEST.mp3
 #EXTINF:-1 station-id="awb_3e9c7c37286f048dabf4" stream-id="aws_406fa228df8765601f93" codec="ogg" bitrate="0",zappa streams

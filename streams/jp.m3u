@@ -5,8 +5,8 @@ https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2
 https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a
 #EXTINF:-1 station-id="awb_e95f4ac1a668a2439c11" stream-id="aws_1ef4cf0c36ca0723286a" codec="aac" bitrate="96",A Radio for ACG & others
 https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-#EXTINF:-1 station-id="awb_e95f4ac1a668a2439c11" stream-id="aws_0be36d34f29f62b8d9ce" codec="aac" bitrate="320",A Radio for ACG & others
-https://hkradio.myaddr.io/listen/new_radio/radio.mp3
+#EXTINF:-1 station-id="awb_e95f4ac1a668a2439c11" stream-id="aws_0be36d34f29f62b8d9ce" codec="aac" bitrate="64",A Radio for ACG & others
+https://hkradio.myaddr.io/listen/new_radio/radio.aac
 #EXTINF:-1 station-id="awb_5e4649da32d9652495a7" stream-id="aws_f4c6f78b0c355eacf759" codec="mp3" bitrate="192",Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1 station-id="awb_253eb91c847ccea92683" stream-id="aws_6e91a96fbfd792b4eb08" codec="mp3" bitrate="96",AFN GO TOKYO
@@ -57,8 +57,6 @@ https://stream.gensokyoradio.net/1
 https://radio.gotanno.love/;
 #EXTINF:-1 station-id="awb_25f5530b0b75bf5a8d45" stream-id="aws_365cd577feda81eb7c4d" codec="mp3" bitrate="128",Gotanno Radio micro FM station
 https://radio.gotanno.love/;
-#EXTINF:-1 station-id="awb_cf48526c6928f95c08c4" stream-id="aws_715ffc111244c28e2cc1" codec="mp3" bitrate="128",Hitsujikai Radio
-http://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1 station-id="awb_8ad7f8e60f62f7558d57" stream-id="aws_bbd2a6eed440951c7c2b" codec="mp3" bitrate="128",J-Club Club Bandstand
 https://cast1.torontocast.com:2060/;.mp3
 #EXTINF:-1 station-id="awb_fd6733ab1c0d9e687c5a" stream-id="aws_e96881dc3cfe08fe6c79" codec="mp3" bitrate="128",J-Club Powerplay HipHop
@@ -113,8 +111,6 @@ https://listen.moe/fallback
 https://listen.moe/stream
 #EXTINF:-1 station-id="awb_95295012f7234c7ac399" stream-id="aws_131524b76ee871f8e613" codec="mp3" bitrate="128",Miku Radio
 https://miku.fm/listen/miku/mp3-128
-#EXTINF:-1 station-id="awb_95295012f7234c7ac399" stream-id="aws_e0ff0a62e2b701e21d7c" codec="mp3" bitrate="320",Miku Radio
-https://miku.fm/listen/miku/mp3-320
 #EXTINF:-1 station-id="awb_a5027a27d841ef3dad2b" stream-id="aws_042710691caf8e24e41a" codec="aac" bitrate="211",MILCpod
 https://radio.milradio.info:9000/milcpod.m3u8
 #EXTINF:-1 station-id="awb_24e63c633663db392dda" stream-id="aws_e24edf4b2d447f2ffced" codec="mp3" bitrate="128",Moon Mission Recordings
@@ -245,9 +241,9 @@ https://streamer.radio.co/s83eb8ff39/listen
 https://tilderadio.org/listen
 #EXTINF:-1 station-id="awb_c4953f97d528cd031551" stream-id="aws_8bfda7c9bb1c80907a0e" codec="mp3" bitrate="128",Vocaloid Radio (Classic & Legacy Stream)
 https://stream.zeno.fm/0qmy834zm7zuv?aw_0_req_lsid=466c98abd83ac97274346856d171d0ba
-#EXTINF:-1 station-id="awb_c14d44bf6c8bb753b335" stream-id="aws_2dc2c779f6d67b4edea0" codec="aac" bitrate="1442",VR Soundscape TV
+#EXTINF:-1 station-id="awb_c14d44bf6c8bb753b335" stream-id="aws_2dc2c779f6d67b4edea0" codec="aac" bitrate="1450",VR Soundscape TV
 https://stream.vrstv.jp/
-#EXTINF:-1 station-id="awb_62cbb250547500bf72ca" stream-id="aws_64d8a32de35a86fb9ee5" codec="aac" bitrate="1321",VRC放送局
+#EXTINF:-1 station-id="awb_62cbb250547500bf72ca" stream-id="aws_64d8a32de35a86fb9ee5" codec="aac" bitrate="1353",VRC放送局
 https://vrc.gate.vrtv.jp/live?p=g&u=d
 #EXTINF:-1 station-id="awb_ce4da1c77540851cb3d3" stream-id="aws_da98b3f51df67a72ccd9" codec="aac" bitrate="48",WREP
 http://c13.radioboss.fm:8200/stream

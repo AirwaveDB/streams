@@ -26,7 +26,7 @@ http://radio.host.com.py:9460/;
 #EXTINF:-1 station-id="awb_3661ac058bb1d7e5f179" stream-id="aws_483820bba1c1aaeefb81" codec="aac" bitrate="48",Exa FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 #EXTINF:-1 station-id="awb_ba41668d0c9c72ccde60" stream-id="aws_b52e597dba93fcd4c701" codec="unknown" bitrate="0",Exclusiva FM 103.7 FM
-https://sesion.desdeparaguay.net/hls/playlist.m3u8
+https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_5ca8336cbdccaf558f67" stream-id="aws_c5feac9b5b2722581d64" codec="aac+" bitrate="56",Fabulosa FM 104.5
 https://radio.host.com.py:7034/;
 #EXTINF:-1 station-id="awb_cbaefe6e777c3436db7b" stream-id="aws_8dc9a5fd2cdaf3489ea6" codec="unknown" bitrate="0",FM POPULAR 103.1
@@ -89,7 +89,7 @@ https://radio.host.com.py:7137/;
 http://radio.host.com.py:9714/stream
 #EXTINF:-1 station-id="awb_e96ee203b0d25706a2bb" stream-id="aws_3e7f03ec3198ad6a0cea" codec="mp3" bitrate="128",RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
-#EXTINF:-1 station-id="awb_744236c6a3bde3cfc9eb" stream-id="aws_430db25e22d3a913892a" codec="aac" bitrate="32",Radio Mix 90.1 FM
+#EXTINF:-1 station-id="awb_744236c6a3bde3cfc9eb" stream-id="aws_430db25e22d3a913892a" codec="unknown" bitrate="32",Radio Mix 90.1 FM
 https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_265fe53dee2802df2f38" stream-id="aws_f136114ad36d61a59363" codec="aac" bitrate="93",Radio Monumental 1080 AM
 http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b
@@ -129,8 +129,8 @@ https://cp9.serverse.com/proxy/rockandpop/stream
 http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_e4ea44b926ce9b7b33cf" stream-id="aws_b1d0e9f9a3e856919dfc" codec="mp3" bitrate="128",super radio
 https://c32.radioboss.fm:8139/stream
-#EXTINF:-1 station-id="awb_7a19547ac5f42d1ef5a8" stream-id="aws_4daf205914520aaa406a" codec="aac" bitrate="64",Tereré Mix Paraguay
-https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpOaUFuMnVlUUdtdUphU2VFWlc1WnciLCJpYXQiOjE3OTQwMDYyMjgsImV4cCI6MTc5NDAwNjI4OH0.dBF1ogtDMXDixPWlgb-WTpNT8aNn2BIQXmXltU7KRIQ
+#EXTINF:-1 station-id="awb_7a19547ac5f42d1ef5a8" stream-id="aws_4daf205914520aaa406a" codec="aac" bitrate="48",Tereré Mix Paraguay
+https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRuZlhmeWpBU0lLeFduR3RkRHNXcGciLCJpYXQiOjE3OTQ0MzkyOTYsImV4cCI6MTc5NDQzOTM1Nn0.kbs4t5aa1-7qGncqrTRNbp5wLBNIhtwR0JpeG1rbkT8
 #EXTINF:-1 station-id="awb_63ba44efc7511b1e773a" stream-id="aws_f0e932b5175f7b0465b9" codec="unknown" bitrate="0",Tropicalia 93.9FM
 https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_c81071ebef7278151e04" stream-id="aws_b7fd9f22acecf7174a39" codec="unknown" bitrate="0",Vibras 92.7FM

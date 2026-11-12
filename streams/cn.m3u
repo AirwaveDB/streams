@@ -87,9 +87,7 @@ https://streaming.live365.com/a19203_2
 https://streaming.live365.com/a36860
 #EXTINF:-1 station-id="awb_338cda749167632881f4" stream-id="aws_d6a7e8c3c7d55d6d4cfc" codec="aac+" bitrate="320",Bridge Radio - 华语 HITS
 https://das-edge11-live365-dal03.cdnstream.com/a57743_2
-#EXTINF:-1 station-id="awb_5a4f0044070894c77ec0" stream-id="aws_690dd21d1fb03a8ce116" codec="aac+" bitrate="320",Bridge Radio - 华语 HITS （2）
-https://das-edge11-live365-dal03.cdnstream.com/a57743_2
-#EXTINF:-1 station-id="awb_5a4f0044070894c77ec0" stream-id="aws_4e35fedb2c4ad161c791" codec="aac" bitrate="320",Bridge Radio - 华语 HITS （2）
+#EXTINF:-1 station-id="awb_5a4f0044070894c77ec0" stream-id="aws_4e35fedb2c4ad161c791" codec="aac+" bitrate="320",Bridge Radio - 华语 HITS （2）
 https://das-edge14-live365-dal02.cdnstream.com/a57743_2
 #EXTINF:-1 station-id="awb_c8f7d796369903040322" stream-id="aws_588d12f51457a84a4805" codec="unknown" bitrate="0",BRTV京津冀之声
 https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
@@ -547,6 +545,8 @@ http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 http://lhttp.qingting.fm/live/4923/64k.mp3
 #EXTINF:-1 station-id="awb_6523dd1c98df7f3a7e14" stream-id="aws_ef75afb82ae1efb64bd6" codec="unknown" bitrate="0",Yunho TV
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 station-id="awb_a5760c230f17cac7c915" stream-id="aws_24bcb89835632041e2c8" codec="unknown" bitrate="0",Yurao Culture TV
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 station-id="awb_c39f9d555f947e12294e" stream-id="aws_f43f66dec1bdb5a49f73" codec="unknown" bitrate="0",Yurao News TV
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 station-id="awb_93842f25dc52f241182e" stream-id="aws_4c768f29c84bc720a390" codec="mp3" bitrate="128",ZENO FM Candid Talk
@@ -629,7 +629,7 @@ https://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8
 http://stream3.jlntv.cn/dfgb/playlist.m3u8
 #EXTINF:-1 station-id="awb_6a15f843c53a1fd0bb06" stream-id="aws_df4ceb61928d4427ea5a" codec="unknown" bitrate="0",东方卫视伴音
 https://piccpndali.v.myalicdn.com/audio/dongfang_2.m3u8
-#EXTINF:-1 station-id="awb_8f74ca6a2d44de4a7445" stream-id="aws_2f7051c7d326c5f2588d" codec="unknown" bitrate="1220",东方购物
+#EXTINF:-1 station-id="awb_8f74ca6a2d44de4a7445" stream-id="aws_2f7051c7d326c5f2588d" codec="unknown" bitrate="1194",东方购物
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 station-id="awb_5905a48a8bb316f2ccba" stream-id="aws_9736c688aea68a525472" codec="mp3" bitrate="320",东方音乐电台 THMR
 https://radio.yunmoan.cn/radio/touhou/320k
@@ -1013,7 +1013,7 @@ http://lhttp.qingting.fm/live/20338/64k.mp3
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_ddf95d79ab3c0545c78c" stream-id="aws_8b0aa6592fa12ecfbe8e" codec="unknown" bitrate="0",华藏净宗弘化网净空老法师
 https://vod.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_b828000.m3u8
-#EXTINF:-1 station-id="awb_07c8675577a09fdfb94c" stream-id="aws_4c41693f9dcd3b89050d" codec="aac" bitrate="1362",华藏净宗弘化网多元文化台
+#EXTINF:-1 station-id="awb_07c8675577a09fdfb94c" stream-id="aws_4c41693f9dcd3b89050d" codec="aac" bitrate="1546",华藏净宗弘化网多元文化台
 https://js1.amtb.cn/liveedge/_definst_/education/playlist.m3u8
 #EXTINF:-1 station-id="awb_9758063c5a40501c7b07" stream-id="aws_9456aad4aac7f7554e69" codec="unknown" bitrate="0",华藏净宗弘化网悟道法师
 https://js1.amtb.cn/liveedge/_definst_/wdmaster/chunklist.m3u8
@@ -1273,8 +1273,6 @@ https://lhttp-hw.qtfm.cn/live/1154/64k.mp3
 http://lhttp.qingting.fm/live/1136/64k.mp3
 #EXTINF:-1 station-id="awb_5f53e9f9fa71ab7c9174" stream-id="aws_d9ca08b8c3844e5fe6f7" codec="unknown" bitrate="0",嘉善新闻综合广播
 https://p2hs.vzan.com/slowlive/389856315099073802/live.m3u8
-#EXTINF:-1 station-id="awb_5117c3e9f6ef12802611" stream-id="aws_c8fa6df322d0071dac7e" codec="unknown" bitrate="0",嘉定综合广播
-http://5730.liveplay.myqcloud.com/live/JcmcGBMar.m3u8
 #EXTINF:-1 station-id="awb_ef8b68b9ca40a4747ff0" stream-id="aws_4748cc5319b4fc31ea46" codec="unknown" bitrate="2560",嘉峪关交通广播
 https://play.kankanlive.com/live/1677655747873919.m3u8
 #EXTINF:-1 station-id="awb_22793172d3dd7630dceb" stream-id="aws_c5c96d78a6273c6d4a6a" codec="unknown" bitrate="2560",嘉峪关综合广播
@@ -1395,8 +1393,6 @@ http://lhttp.qingting.fm/live/1084/64k.mp3
 https://lhttp.qingting.fm/live/5022200/64k.mp3
 #EXTINF:-1 station-id="awb_af1533400c958c8258ca" stream-id="aws_4ef13062aa74b28b0b98" codec="unknown" bitrate="2560",天水交通广播
 http://play.kankanlive.com/live/1735268253198106.m3u8
-#EXTINF:-1 station-id="awb_f8cd476ddad85b6fd411" stream-id="aws_ec57c2c359da8c4a0035" codec="mp3" bitrate="0",天水交通广播频道
-https://lhttp.qtfm.cn/live/20211613/64k.mp3
 #EXTINF:-1 station-id="awb_1bd8ec4eb373328dd8b1" stream-id="aws_6f10e32e099d94da77ad" codec="unknown" bitrate="2560",天水综合广播
 http://play.kankanlive.com/live/1735268289979102.m3u8
 #EXTINF:-1 station-id="awb_b528de6c6463f786886f" stream-id="aws_56f0cd7cedb49d23d39d" codec="mp3" bitrate="0",天水综合频道
@@ -1461,8 +1457,6 @@ https://lhttp-hw.qtfm.cn/live/5022063/64k.mp3
 https://lhttp-hw.qtfm.cn/live/5022064/64k.mp3
 #EXTINF:-1 station-id="awb_9d2b99f293f2fc7cc4e2" stream-id="aws_9e03883358104853817c" codec="mp3" bitrate="0",孝昌964电台
 https://lhttp-hw.qtfm.cn/live/15318546/64k.mp3
-#EXTINF:-1 station-id="awb_c5a04c6aa351df7ae781" stream-id="aws_2e81d485a35921c7d316" codec="mp3" bitrate="0",孟村回族自治县人民广播电台
-http://lhttp.qingting.fm/live/5021914/64k.mp3
 #EXTINF:-1 station-id="awb_e02a80860af05d76df86" stream-id="aws_b767618eb1a72ac54bd0" codec="mp3" bitrate="0",孟村综合广播 沧州1058汽车音乐广播
 https://lhttp-hw.qtfm.cn/live/5021914/64k.mp3
 #EXTINF:-1 station-id="awb_db407ae807c619de314c" stream-id="aws_f3eca0156aa00f64190e" codec="mp3" bitrate="0",宁夏交通广播
@@ -1501,11 +1495,11 @@ http://lhttp.qingting.fm/live/5021862/64k.mp3
 https://lhttp-hw.qtfm.cn/live/5021862/64k.mp3
 #EXTINF:-1 station-id="awb_e1dedca6aff337e30871" stream-id="aws_d946356cda42d35eedaf" codec="mp3" bitrate="0",安康综合广播
 http://lhttp.qingting.fm/live/5021861/64k.mp3
-#EXTINF:-1 station-id="awb_4bf1bcc0f0e2c234cd2c" stream-id="aws_900468f985ade62d9409" codec="unknown" bitrate="222",安徽交通广播
+#EXTINF:-1 station-id="awb_4bf1bcc0f0e2c234cd2c" stream-id="aws_900468f985ade62d9409" codec="unknown" bitrate="223",安徽交通广播
 http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 station-id="awb_4bf1bcc0f0e2c234cd2c" stream-id="aws_54a45de1d2a1976d962a" codec="mp3" bitrate="0",安徽交通广播
 https://lhttp.qtfm.cn/live/1949/64k.mp3
-#EXTINF:-1 station-id="awb_4bf1bcc0f0e2c234cd2c" stream-id="aws_36f3ee7b59148aff2c02" codec="unknown" bitrate="230",安徽交通广播
+#EXTINF:-1 station-id="awb_4bf1bcc0f0e2c234cd2c" stream-id="aws_36f3ee7b59148aff2c02" codec="unknown" bitrate="228",安徽交通广播
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 station-id="awb_b6d381d44d73c2494e28" stream-id="aws_86c87f2ba4c2d55cecfa" codec="unknown" bitrate="0",安徽交通广播 高清
 http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174830326162340&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
@@ -1619,7 +1613,7 @@ https://lhttp.qtfm.cn/live/20500211/64k.mp3
 https://lhttp-hw.qtfm.cn/live/15318332/64k.mp3
 #EXTINF:-1 station-id="awb_367d5d89a7812413fb8d" stream-id="aws_137ed9ebae015cbf1c4d" codec="mp3" bitrate="0",尤溪综合广播
 https://lhttp-hw.qtfm.cn/live/5022498/64k.mp3
-#EXTINF:-1 station-id="awb_eddd0adab596fad68cd2" stream-id="aws_fb2d7d2aa8f9257edbb9" codec="unknown" bitrate="162",山东交通广播
+#EXTINF:-1 station-id="awb_eddd0adab596fad68cd2" stream-id="aws_fb2d7d2aa8f9257edbb9" codec="unknown" bitrate="163",山东交通广播
 http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
 #EXTINF:-1 station-id="awb_ed2f3fbc80b894260d31" stream-id="aws_e30f56fd6e221d320ee5" codec="unknown" bitrate="221",山东体育休闲广播（2）
 http://audiolive302.iqilu.com/sdradioTiyu/sdradio08/playlist.m3u8
@@ -1633,7 +1627,7 @@ https://lhttp.qtfm.cn/live/20236/64k.mp3
 https://lhttp-hw.qtfm.cn/live/20211680/64k.mp3
 #EXTINF:-1 station-id="awb_8edc128eeb0c4011e684" stream-id="aws_808ea19da4a99f619c4b" codec="mp3" bitrate="0",山东综合广播
 https://lhttp.qtfm.cn/live/20234/64k.mp3
-#EXTINF:-1 station-id="awb_238746b2d9efacce3ff5" stream-id="aws_045de148cab553cd9987" codec="unknown" bitrate="157",山东音乐广播
+#EXTINF:-1 station-id="awb_238746b2d9efacce3ff5" stream-id="aws_045de148cab553cd9987" codec="unknown" bitrate="173",山东音乐广播
 http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
 #EXTINF:-1 station-id="awb_1a918286e0953a1b0f05" stream-id="aws_1bf57438cfa15344cd64" codec="mp3" bitrate="0",山亭声动970
 https://lhttp-hw.qtfm.cn/live/20500047/64k.mp3
@@ -1755,7 +1749,7 @@ https://piccpndali.v.myalicdn.com/audio/guangdong_2.m3u8
 https://lhttp.qtfm.cn/live/469/64k.mp3
 #EXTINF:-1 station-id="awb_a8376d53d95a14a4de1d" stream-id="aws_4a85f47c104e17dd9ff9" codec="mp3" bitrate="0",广东文体广播
 https://lhttp.qtfm.cn/live/471/64k.mp3
-#EXTINF:-1 station-id="awb_a51dc60d2977e21fd3b9" stream-id="aws_ed5e58a8963909edb482" codec="unknown" bitrate="223",广东新闻台
+#EXTINF:-1 station-id="awb_a51dc60d2977e21fd3b9" stream-id="aws_ed5e58a8963909edb482" codec="unknown" bitrate="233",广东新闻台
 https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 #EXTINF:-1 station-id="awb_b3353d09095a2996baa6" stream-id="aws_1c1ce8041bde5fb94ee5" codec="mp3" bitrate="0",广东新闻广播
 https://lhttp.qtfm.cn/live/1254/64k.mp3
@@ -2083,7 +2077,7 @@ http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8?wsSession=5047841c34cc76
 https://live.ximalaya.com/radio-first-page-app/live/1834/64.m3u8?transcode=ts
 #EXTINF:-1 station-id="awb_80282a104daef026d8f0" stream-id="aws_9499b16fcac80a26a915" codec="mp3" bitrate="0",新疆维语文艺广播
 https://lhttp.qtfm.cn/live/20639/64k.mp3
-#EXTINF:-1 station-id="awb_f9db04bf4a09dc8ce42c" stream-id="aws_6b895a70098ae1200a77" codec="unknown" bitrate="4388",新疆维语综合广播
+#EXTINF:-1 station-id="awb_f9db04bf4a09dc8ce42c" stream-id="aws_6b895a70098ae1200a77" codec="unknown" bitrate="1173",新疆维语综合广播
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 #EXTINF:-1 station-id="awb_e1c6c4300a2dc29087a8" stream-id="aws_b679bc232598a969118d" codec="mp3" bitrate="0",新疆蒙语广播
 https://lhttp.qtfm.cn/live/1903/64k.mp3
@@ -2495,9 +2489,9 @@ https://stream.hndt.com/live/sijiache/playlist.m3u8
 http://lhttp.qingting.fm/live/20210755/64k.mp3
 #EXTINF:-1 station-id="awb_657b22e988c26c846039" stream-id="aws_aa3fad0634ad04937953" codec="aac" bitrate="64",河南经济广播
 https://stream.hndt.com/live/jingji/playlist.m3u8
-#EXTINF:-1 station-id="awb_bbbfb0821feb9d1aac91" stream-id="aws_654995a2afa532ccd1bc" codec="mp3" bitrate="128",河南网络动感音乐台
+#EXTINF:-1 station-id="awb_bbbfb0821feb9d1aac91" stream-id="aws_654995a2afa532ccd1bc" codec="mp3" bitrate="320",河南网络动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 station-id="awb_7b6430f473bfb1243cbf" stream-id="aws_05ec88618b7c17fe7e05" codec="mp3" bitrate="128",河南网络广播·安全百科网络台
+#EXTINF:-1 station-id="awb_7b6430f473bfb1243cbf" stream-id="aws_05ec88618b7c17fe7e05" codec="mp3" bitrate="320",河南网络广播·安全百科网络台
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
 #EXTINF:-1 station-id="awb_0476e9683b57874c2501" stream-id="aws_5f96b8571175cb73869e" codec="mp3" bitrate="128",河南网络广播·摇滚天空台
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
@@ -2549,7 +2543,7 @@ http://lhttp.qingting.fm/live/1225/64k.mp3
 http://lhttp.qingting.fm/live/1226/64k.mp3
 #EXTINF:-1 station-id="awb_3fb675f026a33be495d3" stream-id="aws_580b9bcb498c0c8e0a15" codec="unknown" bitrate="0",洞头广播
 http://l.cztvcloud.com/channels/lantian/SXdongtouaud/128k.m3u8
-#EXTINF:-1 station-id="awb_f6a3da9ef7ca5b279d31" stream-id="aws_747e5f120fd8ded0950b" codec="unknown" bitrate="184",津南之声
+#EXTINF:-1 station-id="awb_f6a3da9ef7ca5b279d31" stream-id="aws_747e5f120fd8ded0950b" codec="unknown" bitrate="168",津南之声
 http://play.jinnantv.top/live/JNTV2.m3u8
 #EXTINF:-1 station-id="awb_32091ac3dabe118e08d3" stream-id="aws_cc0286c64e63b62473f6" codec="unknown" bitrate="0",流水潺潺
 https://rscdn.ajmide.com/r_3141/nglive_3141.m3u8
@@ -2563,7 +2557,7 @@ https://s1-fmt2.liveatc.net/rjaa_atis?nocache=2022041005060023921
 https://s1-fmt2.liveatc.net/rjtt_atis?nocache=2022041008015119728
 #EXTINF:-1 station-id="awb_db4bc0b5d6a06afdbe9d" stream-id="aws_96c3a2f5f373c3ca48e5" codec="unknown" bitrate="828",测试16
 https://js1.amtb.cn/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
-#EXTINF:-1 station-id="awb_57050a875f35895638b8" stream-id="aws_47be895d4e5a817e16bf" codec="aac" bitrate="1714",测试22
+#EXTINF:-1 station-id="awb_57050a875f35895638b8" stream-id="aws_47be895d4e5a817e16bf" codec="aac" bitrate="1630",测试22
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 station-id="awb_3b2df514afee9829006b" stream-id="aws_174cb0d6b527fd82522c" codec="mp3" bitrate="16",测试23
 http://d.liveatc.net/rcss2
@@ -2959,8 +2953,6 @@ https://rscdn.ajmide.com/r_1246/nglive_1246.m3u8
 https://stream.zeno.fm/mplz3uhg6yovv
 #EXTINF:-1 station-id="awb_795c10cdc12f90e86e26" stream-id="aws_0154f31f4db84fd6a6c9" codec="unknown" bitrate="0",甘肃卫视伴音
 https://piccpndali.v.myalicdn.com/audio/gansu_2.m3u8
-#EXTINF:-1 station-id="awb_aa025d975e8e5e7cc28d" stream-id="aws_91fb3cd516373e50a591" codec="mp3" bitrate="0",甘肃新闻综合广播
-https://lhttp-hw.qtfm.cn/live/5022622/64k.mp3
 #EXTINF:-1 station-id="awb_aa025d975e8e5e7cc28d" stream-id="aws_de9aafb27e67b4308ab9" codec="unknown" bitrate="0",甘肃新闻综合广播
 https://rscdn.ajmide.com/r_1249/nglive_1249.m3u8
 #EXTINF:-1 station-id="awb_8802fb4a79f3ef1d9ab5" stream-id="aws_56780994bd708e3c8942" codec="mp3" bitrate="0",界首之声
@@ -3099,7 +3091,7 @@ http://lhttp.qingting.fm/live/5053/64k.mp3
 http://lhttp.qingting.fm/live/5054/64k.mp3
 #EXTINF:-1 station-id="awb_ef83dd16e3b6575c504b" stream-id="aws_05133b054c6bb8bb2023" codec="mp3" bitrate="0",绍兴综合广播
 http://lhttp.qingting.fm/live/5052/64k.mp3
-#EXTINF:-1 station-id="awb_423479be36ca4edbc334" stream-id="aws_e2ba4b5e278ab43174ee" codec="unknown" bitrate="164",经典105·山东经典音乐广播
+#EXTINF:-1 station-id="awb_423479be36ca4edbc334" stream-id="aws_e2ba4b5e278ab43174ee" codec="unknown" bitrate="162",经典105·山东经典音乐广播
 http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
 #EXTINF:-1 station-id="awb_6d474e79f1766cc20ac6" stream-id="aws_c4b2a5a4baa5325f0292" codec="unknown" bitrate="0",经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
@@ -3255,6 +3247,8 @@ http://lhttp.qingting.fm/live/20442/64k.mp3
 http://lhttp.qingting.fm/live/20444/64k.mp3
 #EXTINF:-1 station-id="awb_09a958b592ac09ffb2bc" stream-id="aws_fe813de7a6a0eef85d64" codec="unknown" bitrate="0",衢江广播
 http://l.cztvcloud.com/channels/lantian/SXqujiangaud/128k.m3u8
+#EXTINF:-1 station-id="awb_7619a83164dc06a3b4b2" stream-id="aws_c8129745099eb24de056" codec="mp3" bitrate="0",襄州综合广播 都市965汽车音乐广播
+https://lhttp-hw.qtfm.cn/live/20500108/64k.mp3
 #EXTINF:-1 station-id="awb_38f66852f259033a1db7" stream-id="aws_970e5aa4d317f69b629f" codec="unknown" bitrate="0",襄阳交通音乐广播
 http://ls.qingting.fm/live/1308.m3u8
 #EXTINF:-1 station-id="awb_0a8c3f79bd1563eac5a7" stream-id="aws_e4f97db78ac4d49bee73" codec="mp3" bitrate="0",襄阳文化教育广播
@@ -3409,8 +3403,6 @@ http://stream9.jlntv.cn/lyrmgb/playlist.m3u8
 https://lhttp.qtfm.cn/live/5022030/64k.mp3
 #EXTINF:-1 station-id="awb_b04c9cc92aa6c3007225" stream-id="aws_ecfed9b870f889bdc680" codec="mp3" bitrate="0",辽阳综合广播
 https://lhttp.qtfm.cn/live/5022447/64k.mp3
-#EXTINF:-1 station-id="awb_77eff6cf1e4c9fb31b26" stream-id="aws_6ca0f51c7eb21e46d951" codec="mp3" bitrate="0",达州交通音乐广播
-https://lhttp.qtfm.cn/live/5022395/64k.mp3
 #EXTINF:-1 station-id="awb_e5959fec31b3408c3b56" stream-id="aws_6c0e087a7984a00d2ab5" codec="mp3" bitrate="0",达州综合广播
 https://lhttp.qtfm.cn/live/5022394/64k.mp3
 #EXTINF:-1 station-id="awb_fa9fed79b9b2d7385908" stream-id="aws_aa449abfa69ac1906c55" codec="mp3" bitrate="0",运城文艺广播
@@ -3603,8 +3595,6 @@ https://rscdn.ajmide.com/r_3836/nglive_3836.m3u8
 https://stream.gxqzxw.com/aac_zhgb986/fm/live.m3u8
 #EXTINF:-1 station-id="awb_c45c1645a14c5ab2605a" stream-id="aws_d326d5c21c35eac75ad5" codec="unknown" bitrate="25",钦州音乐广播
 https://stream.gxqzxw.com/aac_audio889/playlist.m3u8
-#EXTINF:-1 station-id="awb_daf55b371dbe0c8ee527" stream-id="aws_f092209d8d6f93b0b29c" codec="unknown" bitrate="0",铁岭电视台新闻综合频道
-https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
 #EXTINF:-1 station-id="awb_c09d8d7599401253025c" stream-id="aws_38bb1d085f16c22c1e92" codec="mp3" bitrate="0",铜仁交通旅游广播
 https://lhttp.qingting.fm/live/20211615/64k.mp3
 #EXTINF:-1 station-id="awb_619fc89d5d584aba9e40" stream-id="aws_527ff93acfcb991f4a4c" codec="mp3" bitrate="0",铜山县人民广播电台FM94.2
@@ -3841,8 +3831,6 @@ http://stream9.jlntv.cn/jygb/playlist.m3u8
 https://lhttp.qtfm.cn/live/20500011/64k.mp3
 #EXTINF:-1 station-id="awb_5e94f4bda3c815083e63" stream-id="aws_cc24288228ecfe21a20b" codec="mp3" bitrate="128",韩国音乐台
 https://stream.zeno.fm/r0tbse9jnbptv
-#EXTINF:-1 station-id="awb_24f1d796960350a106d4" stream-id="aws_7aad4aa088f4798660e2" codec="mp3" bitrate="0",韩城综合广播
-https://lhttp-hw.qtfm.cn/live/15318413/64k.mp3
 #EXTINF:-1 station-id="awb_c4dbecb62c7d908c8e45" stream-id="aws_b00714d6db8ee6a8262a" codec="unknown" bitrate="0",音乐剧剧场
 https://rscdn.ajmide.com/r_3148/nglive_3148.m3u8
 #EXTINF:-1 station-id="awb_d809ebe985b475f629d6" stream-id="aws_f7fbed96db169e9b59a7" codec="unknown" bitrate="0",音乐家推荐
