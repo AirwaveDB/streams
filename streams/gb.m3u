@@ -967,6 +967,8 @@ http://media-the.musicradio.com/ClassicFM-M-Relax
 https://media-ice.musicradio.com/ClassicFMMoviesMP3
 #EXTINF:-1 station-id="awb_2dc7e20800c0ba0f0002" stream-id="aws_a33d34f61c50418f0bab" codec="aac" bitrate="48",Classic FM Music For Pets
 https://media-ssl.musicradio.com/ClassicFM-M-Pets
+#EXTINF:-1 station-id="awb_79d5eb9ad07965aa61a7" stream-id="aws_7af42a98d39370eae10c" codec="aac" bitrate="48",Classic FM Relax
+https://media-ssl.musicradio.com/ClassicFM-M-Relax
 #EXTINF:-1 station-id="awb_79d5eb9ad07965aa61a7" stream-id="aws_83435bf39f6f918127b6" codec="aac" bitrate="48",Classic FM Relax
 https://media-the.musicradio.com/ClassicFM-M-Relax
 #EXTINF:-1 station-id="awb_6ce8b1f3e21d4b2b1341" stream-id="aws_3db81c24c6b39ed5bed8" codec="mp3" bitrate="128",Classic FM UK
@@ -1221,6 +1223,8 @@ http://www.partyviberadio.com:8004/stream/1/
 http://eilo.org:8000/drum
 #EXTINF:-1 station-id="awb_eace9660efd94eb478a9" stream-id="aws_46dd4ad35e1765e3488f" codec="mp3" bitrate="128",Drystone Radio
 https://uksoutha.streaming.broadcast.radio/drystoneradio?1724596500437=
+#EXTINF:-1 station-id="awb_f7cce23f9084021a61c6" stream-id="aws_dd8f702e09d81eea57a0" codec="mp3" bitrate="128",Dub Ninja
+https://dub.ninja/live.mp3
 #EXTINF:-1 station-id="awb_ff017e1ca6d8582667f6" stream-id="aws_e156ff126e62d7ff2c45" codec="mp3" bitrate="256",Dubplate.fm Dub &Bass
 https://sc2.dubplate.fm/radio/8000/dubandbass/uhifi
 #EXTINF:-1 station-id="awb_eaf7508d2cfe90f8c1c8" stream-id="aws_56785135d7151f364000" codec="mp3" bitrate="320",Dubstep on Party Vibe Radio
@@ -1261,8 +1265,6 @@ https://easyradio-radiohosting.radioca.st/stream
 https://easylistening.out.airtime.pro/easylistening_a
 #EXTINF:-1 station-id="awb_08ed3ac83f436aaf0ed5" stream-id="aws_bca8d1f713d166e3a5e6" codec="mp3" bitrate="96",EAVA FM 102.5 FM
 https://radio.canstream.co.uk:8000/eavafm.mp3
-#EXTINF:-1 station-id="awb_0cca48e20830392d8ab8" stream-id="aws_24d460b5e27c4a094d68" codec="aac" bitrate="128",EB IT Radio
-https://s3.citrus3.com:8330/stream
 #EXTINF:-1 station-id="awb_a238ed10f016194ee60a" stream-id="aws_062abcc13a38acb27d87" codec="mp3" bitrate="320",Edge 1
 https://stream.aiir.com/8dhvgxm1kbvuv
 #EXTINF:-1 station-id="awb_3e76d0c219d2e0e3c9cc" stream-id="aws_c6bcc6eebe6bf6e67ba4" codec="mp3" bitrate="320",Edge 2
@@ -1313,7 +1315,7 @@ https://listen.openstream.co/7487/audio
 http://us4.internet-radio.com:8073/stream
 #EXTINF:-1 station-id="awb_c0a5c52f93b19bd97a36" stream-id="aws_8a1feca7160035940a18" codec="mp3" bitrate="192",Everything Soul Radio
 https://stream3.themediasite.co.uk:8440/stream?t=1785940649582
-#EXTINF:-1 station-id="awb_016101d2e1771c7e2f01" stream-id="aws_21800ccf412be2e96e68" codec="aac" bitrate="0",EWTN Great Britain & Ireland
+#EXTINF:-1 station-id="awb_016101d2e1771c7e2f01" stream-id="aws_21800ccf412be2e96e68" codec="aac+" bitrate="0",EWTN Great Britain & Ireland
 https://ewtn-ice.streamguys1.com/sky-aac
 #EXTINF:-1 station-id="awb_edffe7af9246de812668" stream-id="aws_3131103771d086283bb5" codec="mp3" bitrate="128",Exclusively AC/DC
 https://streaming.exclusive.radio/er/acdc/icecast.audio
@@ -3681,7 +3683,7 @@ https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
 https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3
 #EXTINF:-1 station-id="awb_0d25063e81aa6b98edbd" stream-id="aws_81b3fdfa78b01fdbe084" codec="mp3" bitrate="192",Totally Wired Radio
 https://totallywired.out.airtime.pro/totallywired_a
-#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="4890",Totalmusic 2000s
+#EXTINF:-1 station-id="awb_3779f0d52ea582cfa904" stream-id="aws_c4e5345d6a01b4665423" codec="aac,h.264" bitrate="4860",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 station-id="awb_1b8c2c9909a2c1604771" stream-id="aws_646f5a1ff9e2af45410f" codec="mp3" bitrate="128",TotalRock Radio
 https://s3.citrus3.com:8056/stream

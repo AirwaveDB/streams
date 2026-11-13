@@ -357,6 +357,8 @@ https://radio.d-tales.nl/listen/dtalesradio/radio-hq.aac
 http://solid1.streamupsolutions.com:8041/d2bs
 #EXTINF:-1 station-id="awb_a3e777bcf004ca1f24b5" stream-id="aws_34a37b17faee0a607aad" codec="mp3" bitrate="192",Dance FM Amsterdam
 https://streams.dancefm.net/mix
+#EXTINF:-1 station-id="awb_f9b9eb9db17902b51f31" stream-id="aws_f2645e539ec5090faee6" codec="mp3" bitrate="128",Dance Radio 1
+https://onair7.xdevel.com/proxy/xautocloud_xzyu_2675?mp=/;1/
 #EXTINF:-1 station-id="awb_8e9066ac4750acb1603f" stream-id="aws_6b7dff6c5992949a688f" codec="mp3" bitrate="185",Dance Radio Amsterdam
 https://icecast.bytesheep.net/danceradio.mp3
 #EXTINF:-1 station-id="awb_5135c4c047cbcf1edc6c" stream-id="aws_793541c31c87d1e3673a" codec="mp3" bitrate="256",DANCE.FM :: The Beat of Amsterdam ::
@@ -1813,7 +1815,7 @@ https://server-67.stream-server.nl:8762/stream
 https://c18.radioboss.fm:8403/stream
 #EXTINF:-1 station-id="awb_d130a380ce64cfcdc1bd" stream-id="aws_4c8a2a121987b97007af" codec="mp3" bitrate="192",Radio Ultiem
 http://server-21.stream-server.nl:8382/
-#EXTINF:-1 station-id="awb_c5685abccb91f6b6f0ce" stream-id="aws_34718a66898d3e2dc22e" codec="aac" bitrate="320",Radio UNDR
+#EXTINF:-1 station-id="awb_c5685abccb91f6b6f0ce" stream-id="aws_34718a66898d3e2dc22e" codec="aac" bitrate="0",Radio UNDR
 https://radioundr.com/listen/radio_undr/aac320
 #EXTINF:-1 station-id="awb_e586dd3cdebe1e981abc" stream-id="aws_661ea0fb60e882176bfd" codec="mp3" bitrate="320",Radio Uniek Rotterdam
 https://stream.hosting078.nl:8044/stream

@@ -261,6 +261,8 @@ https://cloud1.cdnseguro.com:20038/stream
 https://cast4.audiostream.com.br:2656/mp3
 #EXTINF:-1 station-id="awb_a805d1b40e95cbd49b77" stream-id="aws_dd23fb680cce3db54603" codec="mp3" bitrate="128",Capinzal FM
 https://noar.capinzalfm.com.br/capinzalfm.mp3
+#EXTINF:-1 station-id="awb_61eb456cfc02f63f8911" stream-id="aws_39073566ae08a03fbdfe" codec="mp3" bitrate="256",Capital
+https://stream.radionanet.com/radio/8000/capital
 #EXTINF:-1 station-id="awb_8d858c929889ca85ce84" stream-id="aws_05d0488f12593ae324eb" codec="aac+" bitrate="128",Capital 95 - Campo Grande
 https://stm1.srvif.com:7908/stream
 #EXTINF:-1 station-id="awb_c54ffd8e6822eb26d1e1" stream-id="aws_6cad806d7f294570fcea" codec="aac+" bitrate="64",Capitania
@@ -379,8 +381,6 @@ https://stream-287.zeno.fm/zx9h2b61u8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://servidor32-3.brlogic.com:8130/live
 #EXTINF:-1 station-id="awb_7b96362d7d41e4a1acd0" stream-id="aws_db0bf0ee650a1daeac05" codec="mp3" bitrate="192",Derlei FM
 http://168.138.140.195:9000/radio.mp3
-#EXTINF:-1 station-id="awb_295671226b2743135375" stream-id="aws_c5f2be7a4547f0b8ca8f" codec="mp3" bitrate="0",DERLEI RADIO
-http://164.152.48.227:8090/nexo-1e383864ee0b44a7b14833b76174a8e0.mp3
 #EXTINF:-1 station-id="awb_cc35978c78218b246e35" stream-id="aws_698ac9b8e36e8529b95d" codec="aac+" bitrate="128",Difusora 93,3 FM Maceió
 https://radio.saopaulo01.com.br/9348/stream
 #EXTINF:-1 station-id="awb_336c0fb149c0a8cc48a9" stream-id="aws_a285c6c453ca67f68fdc" codec="aac+" bitrate="128",Difusora Bomdespachense
@@ -923,8 +923,6 @@ http://192.99.14.210:8339/stream
 https://s25.maxcast.com.br:8108/live?1771879594681
 #EXTINF:-1 station-id="awb_d45490aaf72ec92547b0" stream-id="aws_e75fba92babc8fb37c2e" codec="mp3" bitrate="160",MultiHuman EntheoMusic
 https://libretime.multihuman.com.br:8443/main
-#EXTINF:-1 station-id="awb_0fe6aee12cddd641a381" stream-id="aws_62e70e6d4e910bfb926d" codec="mp3" bitrate="96",multisertaneja
-https://usa13.fastcast4u.com/proxy/ricardo1975?mp=/stream.mp3
 #EXTINF:-1 station-id="awb_b20f2fba433b08226eba" stream-id="aws_b896c780594223822502" codec="aac" bitrate="64",Multisom Hits Cataguases
 https://servidor28-3.brlogic.com:8124/live?source=website
 #EXTINF:-1 station-id="awb_7b9f508049289ef48719" stream-id="aws_bfdafbbf20fcf51ac63e" codec="mp3" bitrate="96",Mundial (Ijuí)
@@ -1045,6 +1043,8 @@ https://8522.brasilstream.com.br/stream
 http://v3.directradios.com:8235/stream
 #EXTINF:-1 station-id="awb_0498224be56a51a4d669" stream-id="aws_1a2c88764ffdc0f4f733" codec="mp3" bitrate="128",Pagode pra Valer
 https://stm15.xcast.com.br:12534/;
+#EXTINF:-1 station-id="awb_db94686c009076383072" stream-id="aws_9e5020a7f223151853f8" codec="mp3" bitrate="128",Painel News
+https://stream.radionanet.com/radio/8700/stream
 #EXTINF:-1 station-id="awb_c32f8c946bd05cb495ee" stream-id="aws_cdc517486b54630a67ed" codec="mp3" bitrate="128",Pajuçara FM 103,7 Maceió
 https://cast3.hoost.com.br:8679/stream
 #EXTINF:-1 station-id="awb_77b708511581766ecc62" stream-id="aws_a856f1bcd9065d540e2b" codec="mp3" bitrate="128",Pão Diário
@@ -2543,6 +2543,8 @@ https://s24.maxcast.com.br:8168/live?id=1622747293019
 https://usa14.fastcast4u.com/proxy/rainha89fm?mp=/1&nocache=1782134708873
 #EXTINF:-1 station-id="awb_b3d344ac6c156b0a609d" stream-id="aws_e9dfa00ceaba41c48035" codec="aac+" bitrate="128",RC FM 98,1
 https://player.transmissaodigital.com/proxy/7434/
+#EXTINF:-1 station-id="awb_d27b4191df463f911d98" stream-id="aws_6f6839fbf0c552f6ee31" codec="mp3" bitrate="192",RDW Rádio Web
+https://radiowebzonasulpoa.duckdns.org/listen/webradiozonasulpoa/radio.mp3
 #EXTINF:-1 station-id="awb_2aa14dba962aa1b2505f" stream-id="aws_ee65b3d7e1bcc1426cad" codec="mp3" bitrate="128",RECIFE FM
 http://zoeweb.net:8046/;
 #EXTINF:-1 station-id="awb_6899f780dfe7e2de611c" stream-id="aws_a942b00c61610c5f764e" codec="mp3" bitrate="128",Rede 3.16
@@ -2557,6 +2559,8 @@ https://c32.radioboss.fm:8254/source
 https://cast1.midiazdx.com.br:6764/stream
 #EXTINF:-1 station-id="awb_130d53670a24908c1be6" stream-id="aws_bf28cf45541e2e187f4b" codec="aac+" bitrate="48",Rede Grauna FM
 https://centova11.ipstm.net:20032/stream
+#EXTINF:-1 station-id="awb_bc0a3abdeed48003b21a" stream-id="aws_3d566b7b26b02186b753" codec="aac" bitrate="128",Rede Impacto Gospel
+https://radiosnet.site/stream/redeimpactogospel
 #EXTINF:-1 station-id="awb_e1e8d0fe8a8ebb582412" stream-id="aws_326df4d2777c0575800f" codec="aac+" bitrate="128",Rede Resgate Fm
 https://stm9.xcast.com.br:12854/
 #EXTINF:-1 station-id="awb_ea275ff6cff6a731edf6" stream-id="aws_d57a9331b15e3e9898a6" codec="mp3" bitrate="192",Rio Sul Radio
