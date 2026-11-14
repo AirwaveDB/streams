@@ -141,6 +141,8 @@ https://str0.creacast.com/oxy-meaux
 https://astromaria.fr/webradio_stream/live
 #EXTINF:-1 station-id="awb_9dde1aa23d0ee2129807" stream-id="aws_2bcdc1aaf0fde8bff11d" codec="mp3" bitrate="192",ABC Dance
 https://www.radioking.com/play/abc-dance/374263
+#EXTINF:-1 station-id="awb_8d56fc3f6aa96044d325" stream-id="aws_75c6d85f881aed37fa84" codec="mp3" bitrate="128",ABC Lounge Jazz
+http://cast1.asurahosting.com/proxy/julien/stream
 #EXTINF:-1 station-id="awb_238dc8a0604868eea263" stream-id="aws_331df7adb188fd2bbf38" codec="mp3" bitrate="192",ABC Relax
 https://listen.abcrelax.com/
 #EXTINF:-1 station-id="awb_220016a0e21b6fce1571" stream-id="aws_abf5789b86819f0dc405" codec="mp3" bitrate="128",ABC-Loungr
@@ -2557,6 +2559,8 @@ http://live1.jupinfo.fr:8000/radiodenoel
 https://stream.zeno.fm/hg9eg9q5quzuv
 #EXTINF:-1 station-id="awb_7a982d642c77974cda50" stream-id="aws_ac7aa6496b6ae7fcc265" codec="mp3" bitrate="128",La radio Plus
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
+#EXTINF:-1 station-id="awb_1b64246ca89d6f08b928" stream-id="aws_beaf5631d7fd5a8e90a8" codec="mp3" bitrate="128",La Radio Plus Club
+https://plus-wr06.ice.infomaniak.ch/plus-wr06.mp3
 #EXTINF:-1 station-id="awb_9beb420165fda76ca567" stream-id="aws_d028840fb1e5577a1cf7" codec="aac" bitrate="46",La radio sous la cerise
 https://laradio.souslacerise.fr/radio.m3u8
 #EXTINF:-1 station-id="awb_49fa50d006b247db56b7" stream-id="aws_c5e354ee41653f23803c" codec="mp3" bitrate="320",La Vilaine Radio
@@ -3025,8 +3029,6 @@ http://stream1.nihon-no-oto.com/nihonogg
 https://streaming.nrjaudio.fm/ou8v8dgk7oiu?origine=radiobox&aw_0_1st.station=NRJ-Kizomba
 #EXTINF:-1 station-id="awb_31cd9a852ac2ad97c2ec" stream-id="aws_22dc224e5f5c9ba534bd" codec="mp3" bitrate="96",NoLife-Radio
 https://listen.nolife-radio.com/
-#EXTINF:-1 station-id="awb_477502a30be33a48dc87" stream-id="aws_0143232921858160689a" codec="mp3" bitrate="320",NORMANDYTEK
-http://ecmanager2.pro-fhi.net:2650/stream
 #EXTINF:-1 station-id="awb_44855736cf2fe6fb8f19" stream-id="aws_e3b5f52e8e22adf1bf32" codec="mp3" bitrate="128",Nostalgie
 https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios
 #EXTINF:-1 station-id="awb_44855736cf2fe6fb8f19" stream-id="aws_8e983828f9fb180525cb" codec="aac+" bitrate="128",Nostalgie
@@ -3721,7 +3723,7 @@ https://ods-rock.ice.infomaniak.ch/ods-rock.mp3
 http://ecmanager.pro-fhi.net:1400/stream
 #EXTINF:-1 station-id="awb_f01094d95a8d8d276bb7" stream-id="aws_621fe7751c339aad80d3" codec="mp3" bitrate="320",Ola Radio
 https://ola-radio.radiocult.fm/stream
-#EXTINF:-1 station-id="awb_b81479c45bea22b4aeee" stream-id="aws_f8d99b86266e42364ec2" codec="aac" bitrate="98",Ondi Radio
+#EXTINF:-1 station-id="awb_b81479c45bea22b4aeee" stream-id="aws_f8d99b86266e42364ec2" codec="aac" bitrate="96",Ondi Radio
 https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617
 #EXTINF:-1 station-id="awb_f675ffc46b566097ada9" stream-id="aws_53acd4132f25320afb21" codec="mp3" bitrate="128",One Station
 https://stream.onestation.fr/128.mp3
@@ -4449,6 +4451,8 @@ http://dreamsiteradiocp2.com:8110/stream
 http://dreamsiteradiocp4.com:8056/
 #EXTINF:-1 station-id="awb_7681274fba44c467deae" stream-id="aws_b570ca1c332ea71edfd5" codec="mp3" bitrate="192",Radio Marseillette
 https://rcast.pro-fhi.net:9006/stream
+#EXTINF:-1 station-id="awb_d9c0cccab821cceba280" stream-id="aws_348751343a6c053eecb8" codec="mp3" bitrate="0",Radio Mavoix Digital
+https://radio.mavoixdigital.pro/flux/mavoix.mp3
 #EXTINF:-1 station-id="awb_7cf4b64081bff414585b" stream-id="aws_8058ac588715ea8e236d" codec="aac+" bitrate="64",Radio MBS
 https://mbs.ice.infomaniak.ch/mbs-64.aac
 #EXTINF:-1 station-id="awb_59e5e7f44db0f8ae488e" stream-id="aws_492d7538ca35b183e06f" codec="mp3" bitrate="192",Radio MDM
@@ -4619,6 +4623,8 @@ http://radiopulse.fr:8080/pulse
 https://www.radioking.com/play/radio-rbs-1
 #EXTINF:-1 station-id="awb_6d4468dc05ac75b1e451" stream-id="aws_00f737e1c924165d932c" codec="mp3" bitrate="96",RADIO RCU
 http://91.121.59.45:8169/rcu
+#EXTINF:-1 station-id="awb_4a5e4c3ca6a1665ac027" stream-id="aws_8969d43ba54ef8ae3778" codec="mp3" bitrate="320",Radio Réel
+https://stream10.vestaradio.com/RadioReel
 #EXTINF:-1 station-id="awb_1b8005206fcd58d1dec4" stream-id="aws_8f80bde716cc62b28048" codec="mp3" bitrate="256",Radio Rempart
 https://radio.pro-fhi.net:19112/;stream1
 #EXTINF:-1 station-id="awb_9f78f08cc8415c40f48b" stream-id="aws_ab319e1ba539bef5ad90" codec="mp3" bitrate="128",Radio Rencontre Dunkerque
@@ -4979,6 +4985,8 @@ https://rfm.lmn.fm/rfm-wr5.aac
 https://stream.rfm.fr/rfm-wr10.aac
 #EXTINF:-1 station-id="awb_886ebbf6cff5eeac1be8" stream-id="aws_d1511777cd6b987ff54c" codec="aac+" bitrate="128",RFM Slow
 https://stream.rfm.fr/rfm-wr13.aac
+#EXTINF:-1 station-id="awb_b7bf9b77a160e47201b0" stream-id="aws_1af71db0bc7d97a1457e" codec="mp3" bitrate="320",RG33 - Radio Génération 33
+https://stream10.vestaradio.com/rg33
 #EXTINF:-1 station-id="awb_19a9b4ac4c224f4e8d57" stream-id="aws_8baa5920160c53eb2951" codec="aac+" bitrate="64",RHT Guadeloupe (Radio Haute Tension)
 http://haute-tension.ice.infomaniak.ch/haute-tension-high.aac
 #EXTINF:-1 station-id="awb_19a9b4ac4c224f4e8d57" stream-id="aws_c3b655eae639dc39275a" codec="mp3" bitrate="128",RHT Guadeloupe (Radio Haute Tension)

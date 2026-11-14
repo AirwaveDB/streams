@@ -1273,25 +1273,6 @@
     "lastCheckedAt": "2026-11-12T07:49:57Z"
   },
   {
-    "id": "aws_1e123a86cbef6f88f0dc",
-    "stationId": "awb_0cf295274de4c2b39a97",
-    "name": "Evebase Radio",
-    "country": "BE",
-    "url": "https://stream.evebase.net/live.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "f53be8b0-f603-4a05-bc5c-4cad3ab46a9d"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
-  },
-  {
     "id": "aws_612913ba63a2df4ac031",
     "stationId": "awb_b259a62622ff5c9df58a",
     "name": "familieradio enjoy fm",
@@ -4219,6 +4200,25 @@
     "lastCheckedAt": "2026-11-12T01:59:41Z"
   },
   {
+    "id": "aws_a16fbe25c984200981f8",
+    "stationId": "awb_eb8452827d3a7902936d",
+    "name": "Radio Antigoon",
+    "country": "BE",
+    "url": "https://shoutcast2.wirelessantwerpen.be/antigoon",
+    "codec": "mp3",
+    "bitrate": 224,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8834f7d0-5460-4434-956b-56e687cacbc9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T16:49:19Z"
+  },
+  {
     "id": "aws_8a29b96700ed1e369d8c",
     "stationId": "awb_49c5aa7c721b2e9eb480",
     "name": "Radio Apollo",
@@ -4857,7 +4857,7 @@
       "908cbf34-83ea-41ce-b5af-d5878ea1a2c8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:32:00Z"
   },
   {
     "id": "aws_2676a5a635afd73f99e7",
@@ -8183,7 +8183,7 @@
       "515649cb-b397-4372-b655-e3700f8fabeb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:58Z"
   },
   {
     "id": "aws_dd36883ccf49a61fc3a0",

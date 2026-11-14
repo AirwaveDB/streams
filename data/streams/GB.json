@@ -875,7 +875,7 @@
       "d50796ae-a0e4-493f-b276-6b0a15b0c6dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:43Z"
   },
   {
     "id": "aws_6973f82988046a8d9307",
@@ -2248,7 +2248,7 @@
       "3aa237f9-9c40-4715-9e07-9dfabd60af3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:54Z"
   },
   {
     "id": "aws_896979bd3319139ab117",
@@ -8200,7 +8200,7 @@
       "dc2dada4-a74f-44e5-8a7e-8c80defababd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:45Z"
   },
   {
     "id": "aws_6207aba7cf0502c656a5",
@@ -8466,7 +8466,7 @@
       "4aaceb1e-254f-4836-bf97-b6d10b9e8145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:23Z"
   },
   {
     "id": "aws_f1b27b328471ac63a6cd",
@@ -9295,7 +9295,7 @@
       "cdcbea13-44c9-4e02-81d2-68a62cebebba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:51Z"
   },
   {
     "id": "aws_3db81c24c6b39ed5bed8",
@@ -11077,25 +11077,6 @@
     "lastCheckedAt": "2026-11-11T23:58:54Z"
   },
   {
-    "id": "aws_f35326b11d2077e409a4",
-    "stationId": "awb_7aae7f11adfadbba23ab",
-    "name": "DieselGoth1",
-    "country": "GB",
-    "url": "https://hq2.stationhq.io/radiostalingrad/stream",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b2fe839e-69fc-4158-88af-3d363f60d423"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
-  },
-  {
     "id": "aws_af4e218896e1ddaa2579",
     "stationId": "awb_8b2eddfe44fd9103437a",
     "name": "Different Drumz DnB Radio",
@@ -11570,7 +11551,7 @@
       "e3087b4d-499f-486b-93c4-1acdf1916934"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_ac35c94d9138c76ea8c0",
@@ -12400,10 +12381,10 @@
     "stationId": "awb_c9829d245ddccbab022d",
     "name": "Energy FM Old School Classics",
     "country": "GB",
-    "url": "https://radio.streemlion.com:1045/stream",
+    "url": "http://radio.streemlion.com:1680/",
     "codec": "mp3",
     "bitrate": 128,
-    "protocol": "https",
+    "protocol": "http",
     "hls": false,
     "sources": [
       "radio-browser"
@@ -12412,7 +12393,7 @@
       "e9eb0da6-55b2-4bef-93cf-62268351d8c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:27Z"
   },
   {
     "id": "aws_bbd2216f8a431bece676",
@@ -17857,6 +17838,25 @@
     "lastCheckedAt": "2026-11-12T03:54:16Z"
   },
   {
+    "id": "aws_b8bee321c94acb8aced2",
+    "stationId": "awb_9cec80804835cbc34f39",
+    "name": "Inferno FM",
+    "country": "GB",
+    "url": "https://engine.sleradiogroup.com/stream/inferno",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7a2996c6-adf0-4f1d-8eb9-225bc90e7a34"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T18:50:10Z"
+  },
+  {
     "id": "aws_67950c5f7872c6ecf797",
     "stationId": "awb_563c934c4175d50af8ee",
     "name": "Infinity Radio UK",
@@ -19040,7 +19040,7 @@
       "c8cb6b11-3c2c-4419-9767-06ddbbdf55cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:28Z"
   },
   {
     "id": "aws_6880e2374dcb2117346d",
@@ -19804,7 +19804,7 @@
       "351e4056-2f14-4695-8e60-0b0fb0404e84"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:27Z"
   },
   {
     "id": "aws_e48b8fbbb73696b786ab",
@@ -20719,7 +20719,7 @@
       "33b7fe76-366c-4fd5-bcea-f5dfd1609e97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:31Z"
   },
   {
     "id": "aws_108841d13ed80ea6915f",
@@ -23359,6 +23359,25 @@
     "lastCheckedAt": "2026-11-11T22:33:31Z"
   },
   {
+    "id": "aws_bfcb683067c0b3febe87",
+    "stationId": "awb_7d7c5dfe63fce6097123",
+    "name": "Neon Drive FM",
+    "country": "GB",
+    "url": "https://engine.sleradiogroup.com/stream/neon-drive",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5fdbbfc8-df1d-4123-9826-c6ad34f81314"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T18:50:10Z"
+  },
+  {
     "id": "aws_9cc87db91613fe5b730e",
     "stationId": "awb_6860f637d8dc201e5388",
     "name": "Neon Radio",
@@ -25169,7 +25188,7 @@
       "ea7f5486-a101-47eb-8a56-6d6f0e1ed655"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:25Z"
   },
   {
     "id": "aws_07dc1fdcc8900a35b33c",
@@ -25874,7 +25893,7 @@
       "a4c6cdff-b0bc-40ee-b548-6b99fabe0bdf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:52Z"
   },
   {
     "id": "aws_f7fec6b56f4c2c1cf290",
@@ -27569,7 +27588,7 @@
       "3a30dc02-4e14-444f-a7c5-4518fc6d0bfc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:55Z"
   },
   {
     "id": "aws_608ee49ae20660a29950",
@@ -27856,7 +27875,7 @@
       "fc4d825e-3bd9-49ab-91df-e3e5ba4f15d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:25Z"
   },
   {
     "id": "aws_856f3408b46f74f2e449",
@@ -28104,6 +28123,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T04:32:24Z"
+  },
+  {
+    "id": "aws_2b476b5a8d91c4279f5f",
+    "stationId": "awb_6d5e34dc22b7a97944a5",
+    "name": "Radio Sudd",
+    "country": "GB",
+    "url": "https://radio-sudd.radiocult.fm/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e0471bce-6fe6-45f6-a575-46ae851f3848"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T16:56:56Z"
   },
   {
     "id": "aws_eebe249157b7c629ea61",
@@ -31561,6 +31599,25 @@
     "lastCheckedAt": "2026-11-12T01:54:50Z"
   },
   {
+    "id": "aws_8fa62dc023a8d6acfe2e",
+    "stationId": "awb_e39e1943fb657da33006",
+    "name": "SLE Radio One",
+    "country": "GB",
+    "url": "https://engine.sleradiogroup.com/stream/sle-radio",
+    "codec": "mp3",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "053b56c4-794a-45ce-aa04-8fead3cce08c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T18:52:22Z"
+  },
+  {
     "id": "aws_1eb7472c6645bde1c49f",
     "stationId": "awb_e39e1943fb657da33006",
     "name": "SLE RADIO ONE",
@@ -31578,6 +31635,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T04:25:41Z"
+  },
+  {
+    "id": "aws_2eaac65fe434d132145a",
+    "stationId": "awb_992620418267c5de6192",
+    "name": "SLE Radio Rave",
+    "country": "GB",
+    "url": "https://engine.sleradiogroup.com/stream/sle-radio-rave",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bc655a2c-5b1f-4292-a132-191e4016c28e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T18:52:21Z"
   },
   {
     "id": "aws_9825e8b8e10431a2ffe3",
@@ -35127,7 +35203,7 @@
       "f1e41afa-1cc7-498e-85ea-f25fa2fa2882"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:24Z"
   },
   {
     "id": "aws_00d90aa50994c21598bd",
@@ -36809,7 +36885,7 @@
       "2fc7f8e7-cda4-4568-9c0b-311c9f2eb0f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:28Z"
   },
   {
     "id": "aws_84b0c2331bcde085093e",
@@ -37211,6 +37287,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T07:51:10Z"
+  },
+  {
+    "id": "aws_cb53accdc896c3f1abaf",
+    "stationId": "awb_22d7038fab84991d39d7",
+    "name": "Xennial FM",
+    "country": "GB",
+    "url": "https://engine.sleradiogroup.com/stream/xennial",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cdc99a84-a06f-4df7-9391-3c37b94943fa"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T18:50:10Z"
   },
   {
     "id": "aws_9c61d954b31573b912d7",

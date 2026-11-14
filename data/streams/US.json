@@ -951,7 +951,7 @@
       "e784d7bf-b039-49ff-be37-f00b1189c96c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:36Z"
   },
   {
     "id": "aws_3ddb51e04ca3212e37db",
@@ -8477,6 +8477,25 @@
     "lastCheckedAt": "2026-11-12T01:13:06Z"
   },
   {
+    "id": "aws_46b536eeab7932571d7f",
+    "stationId": "awb_255495bb5660f96ff9ae",
+    "name": "88.1 WDIY",
+    "country": "US",
+    "url": "https://war.streamguys1.com:7883/wdiy_7880",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ffae6dfd-3458-487a-a612-3fdc008b0b4e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T04:08:05Z"
+  },
+  {
     "id": "aws_951881e99fc1e85419d7",
     "stationId": "awb_f84be8a5442a11f38a68",
     "name": "88.1 WELH Providence",
@@ -9338,7 +9357,7 @@
     "country": "US",
     "url": "https://wmfe-iad.streamguys1.com/wmfe.mp3",
     "codec": "mp3",
-    "bitrate": 32,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -9348,7 +9367,7 @@
       "b0e18444-1fa8-489a-b3a7-a131388951df"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_09a65d9ab14bf03aebbc",
@@ -14217,7 +14236,7 @@
       "5309e332-c0eb-4ff1-82bd-f064f6b0b2e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:54Z"
   },
   {
     "id": "aws_a909fe5045eb630e09ee",
@@ -17107,7 +17126,7 @@
       "80c0cbef-4928-49c1-a907-62d702e0e533"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:24Z"
   },
   {
     "id": "aws_eff454041191e76ea9bc",
@@ -17279,6 +17298,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T23:35:44Z"
+  },
+  {
+    "id": "aws_76b7d86b681b9182244c",
+    "stationId": "awb_a5dd5ce54d79123f8507",
+    "name": "Aquinas Communications • KCRD-LP 98.3 Dubuque, Iowa • KGDR-LP 106.7 Dyersburg, Iowa •WPBO-LP 104.7 Platteville, Wisconsin",
+    "country": "US",
+    "url": "https://stream.kcrd-fm.org:8000/kcrd",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "809e6762-8d05-40ba-bf48-5fb0ba18538b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:36:04Z"
   },
   {
     "id": "aws_6cb9369844b6c04c02e4",
@@ -18324,6 +18362,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T09:39:16Z"
+  },
+  {
+    "id": "aws_c9a28697e50dc555fbeb",
+    "stationId": "awb_5d5adec76b0ae812b422",
+    "name": "Bachata Sensual Radio",
+    "country": "US",
+    "url": "https://s3.radio.co/sb45e5e8de/listen",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "95d0fc59-5b74-4534-8a63-5fe9d2e4c2ef"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T12:52:34Z"
   },
   {
     "id": "aws_424134262397f21e5839",
@@ -22277,7 +22334,7 @@
       "b1e4192b-1c16-49b5-9e29-b78adcc95c42"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:44Z"
   },
   {
     "id": "aws_125c007ca753dbd1579c",
@@ -26313,6 +26370,25 @@
     "lastCheckedAt": "2026-11-12T00:07:15Z"
   },
   {
+    "id": "aws_791c0aab099e1c554958",
+    "stationId": "awb_24ed5dc52b357d364652",
+    "name": "ClassX Radio - WHSS 89.5 FM Hamilton, Ohio • WMSZ-LP 99.7 FM Hartsville, South Carolina • WCXE-LP 95.5 FM, Erlanger, Kentucky • WNKU-LP 92.1 FM Covington, Kentu",
+    "country": "US",
+    "url": "https://ice23.securenetsystems.net/CLASSX",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "053f47de-5b4a-4017-acf3-caf140bc4d6d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T01:07:50Z"
+  },
+  {
     "id": "aws_7825a069d2828270b1f1",
     "stationId": "awb_cc90a407cf265133c770",
     "name": "Classy KMGR 99.1 and 102.7 FM",
@@ -26652,7 +26728,7 @@
       "a164d24e-4bd2-448f-907e-532af071778f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:46Z"
   },
   {
     "id": "aws_6711de4e3605eabdc59c",
@@ -26804,7 +26880,7 @@
       "11063a4f-cfeb-45bd-9537-4af01b69b15d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:29Z"
   },
   {
     "id": "aws_5c4498bae02032624c30",
@@ -27146,7 +27222,7 @@
       "9d11852f-319a-4aff-8471-7effdfcce03a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:13Z"
   },
   {
     "id": "aws_77dadbcf5bfdacb14c86",
@@ -29163,7 +29239,7 @@
       "32d9b810-a41d-45c9-8129-f5c5ad0be618"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:37Z"
   },
   {
     "id": "aws_db166fc4f750b00544ea",
@@ -33366,7 +33442,7 @@
       "56aa7f71-d794-4c20-aa9b-7c490aaf1df0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:22Z"
   },
   {
     "id": "aws_fe58e9efa55e636219c5",
@@ -34527,7 +34603,7 @@
       "65fb5de6-3b98-4a41-b758-2e0390c7769b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:15Z"
   },
   {
     "id": "aws_f04fd59915ddd45cbd1a",
@@ -36755,6 +36831,25 @@
     "lastCheckedAt": "2026-11-12T09:18:41Z"
   },
   {
+    "id": "aws_3674ed5903e412afdb5e",
+    "stationId": "awb_ea62c537f10df2968ed9",
+    "name": "Gospel Voice Network",
+    "country": "US",
+    "url": "https://us3.streamingpulse.com/ssl/GOSPELVOICENETWORK",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e47829d6-708f-440a-8160-aa13f6690a36"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T17:02:54Z"
+  },
+  {
     "id": "aws_1daa47bc5a9206078239",
     "stationId": "awb_cfb48cac8d110bc577d7",
     "name": "Got radio 50s",
@@ -38921,7 +39016,7 @@
       "1fe80b6b-dee4-41a3-bfcd-6fba4e70d9d5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:52Z"
   },
   {
     "id": "aws_696a3902921b6d797400",
@@ -39358,7 +39453,7 @@
       "d3f3aa60-7329-4fe3-a393-0015d24606dd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:57Z"
   },
   {
     "id": "aws_5dcbc893683df42ec218",
@@ -39548,7 +39643,7 @@
       "6c979374-c12a-475e-8e0f-a03d4e17babb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:46Z"
   },
   {
     "id": "aws_e663b7fd271f1d8c393d",
@@ -39586,7 +39681,7 @@
       "d2c68d36-3614-48ad-a210-a8b6898f9431"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:26Z"
   },
   {
     "id": "aws_a55668927990bfc5eb4c",
@@ -39947,7 +40042,7 @@
       "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:27Z"
   },
   {
     "id": "aws_9839788a49066ef65b92",
@@ -43106,6 +43201,25 @@
     "lastCheckedAt": "2026-11-12T00:52:48Z"
   },
   {
+    "id": "aws_804058d9075f821b1961",
+    "stationId": "awb_8517eb488d988b56a7d1",
+    "name": "Iree Vybz Radio",
+    "country": "US",
+    "url": "https://ec1.yesstreaming.net:3980/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "30d86afc-6c74-414c-b073-9cae1a16ac0e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:35:51Z"
+  },
+  {
     "id": "aws_e844e0a6cfb553ae0e5a",
     "stationId": "awb_320d4f7db519987626c0",
     "name": "Iriestorm Radio",
@@ -43236,7 +43350,7 @@
       "7b1384d8-93b3-497d-8f73-72be7ab28c8a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:08Z"
   },
   {
     "id": "aws_246ea798ee28d350c2c6",
@@ -44091,7 +44205,7 @@
       "08e660e0-c598-4f40-a2a6-ebe6a8c62d0e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:49Z"
   },
   {
     "id": "aws_7b95c1f323208ba4f08f",
@@ -44110,7 +44224,7 @@
       "5a4e80a0-4619-4722-956e-59ed8c0b15c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:32:00Z"
   },
   {
     "id": "aws_12522f512b0fe7c54073",
@@ -44129,7 +44243,7 @@
       "f166f4a8-0f7b-4eff-bc85-01a51aa47a8e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:47Z"
   },
   {
     "id": "aws_e0303a17ebac68db7ec3",
@@ -45766,6 +45880,25 @@
     "lastCheckedAt": "2026-11-12T05:08:26Z"
   },
   {
+    "id": "aws_45b6816ca0ea7fced9ca",
+    "stationId": "awb_347055baadbc63ec2454",
+    "name": "KAXZ-LP 100.9 \"TrueFM\" Wichita, Kansas",
+    "country": "US",
+    "url": "https://radio.shoutcheap.com/proxy/kaxzann1/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "928cd94d-e80a-49c5-8c48-4b92525d3bf2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:00:27Z"
+  },
+  {
     "id": "aws_3229cce9c1737737c344",
     "stationId": "awb_92515826db586d958273",
     "name": "KAYL 101.7",
@@ -45953,7 +46086,7 @@
       "e04e653d-f10c-407c-851f-8adfa423c87d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:15Z"
   },
   {
     "id": "aws_0f979d9762c1e1a44fce",
@@ -47948,7 +48081,7 @@
       "a693841b-4334-4e84-98a9-ceb4ce3b8442"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:33Z"
   },
   {
     "id": "aws_6d3a9ca1f739a6195802",
@@ -48257,6 +48390,25 @@
     "lastCheckedAt": "2026-11-13T00:34:08Z"
   },
   {
+    "id": "aws_a98981f57f8f8570d24d",
+    "stationId": "awb_d2c00769a80a30ad950f",
+    "name": "KDKQ-LP \"Alive 105.9\" Derby, Kansas",
+    "country": "US",
+    "url": "https://streaming.live365.com/a06280",
+    "codec": "aac+",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "dc1013e3-39c0-48f6-9ed6-78ca00b9253f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T01:55:23Z"
+  },
+  {
     "id": "aws_ef256591dd6f452c4105",
     "stationId": "awb_ec26887ef867ef67e0cd",
     "name": "KDKR Radio",
@@ -48501,7 +48653,7 @@
       "fa4399cd-75ab-402d-9fb1-6b29cbec82d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:47Z"
   },
   {
     "id": "aws_18433921db1ece54f650",
@@ -49318,7 +49470,7 @@
       "a02dce0d-4554-418e-aa6e-e7eb0bd96e7a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:56Z"
   },
   {
     "id": "aws_e192869dda1d029b889e",
@@ -50173,7 +50325,7 @@
       "4437234d-9478-4f1b-b74d-ab55c09b82cf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:30Z"
   },
   {
     "id": "aws_250939e22ea704076465",
@@ -50841,6 +50993,25 @@
     "lastCheckedAt": "2026-11-12T09:05:14Z"
   },
   {
+    "id": "aws_27c9e39023b7d93a32cc",
+    "stationId": "awb_ec963499046dfcc7eb78",
+    "name": "KICI-LP 105.3 Iowa City, Iowa",
+    "country": "US",
+    "url": "https://streaming.live365.com/a01413",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f27ad1be-1fc9-4e60-9064-ad4c6ca6348d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:12:37Z"
+  },
+  {
     "id": "aws_93a98aa3fa9d2400b77c",
     "stationId": "awb_dd622a19cfe65d5e5e54",
     "name": "Kickin Country 104.9",
@@ -50952,7 +51123,26 @@
       "38a657fa-8c60-4c2f-b11f-9fcefd85f097"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:30Z"
+  },
+  {
+    "id": "aws_6e1a6c0fdbb1596f5ec8",
+    "stationId": "awb_ca9bb7ef0b7982b2292a",
+    "name": "KIHL-LP 103.7 Hilo, Hawaii",
+    "country": "US",
+    "url": "http://streaming.live365.com/a95022",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5f50e340-1004-4132-b8dc-f72a0755e67e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T05:06:41Z"
   },
   {
     "id": "aws_8ae7bb35fc5760004dcf",
@@ -52550,7 +52740,7 @@
       "851b318e-9ac3-4446-849a-aff7d2dd735d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_427cb4c42a2c0768c1c9",
@@ -52607,7 +52797,7 @@
       "5b053462-dc22-4d20-8152-32a088d4ee1a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:10Z"
   },
   {
     "id": "aws_2dd7e84cb148ef7a355a",
@@ -53044,7 +53234,7 @@
       "f3c2741b-58a9-4728-aa41-ec2901356607"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:43Z"
   },
   {
     "id": "aws_8fd2941ba9a8ef80e705",
@@ -54830,7 +55020,7 @@
       "aaa68fec-f2d3-4f68-84c9-1474a586a4f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:28Z"
   },
   {
     "id": "aws_6d74d5dce8136ead266a",
@@ -56731,7 +56921,7 @@
       "829f7ce5-2cfe-4481-9f87-9506594a8306"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:57Z"
   },
   {
     "id": "aws_2e802c5b3b617bea0617",
@@ -56902,7 +57092,7 @@
       "a6556698-c320-49f2-8de7-b9b912ac0938"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:36Z"
   },
   {
     "id": "aws_f4a197213d8d1ed5555f",
@@ -58137,7 +58327,7 @@
       "b068d19b-6dbb-422c-9ca1-03a2c3a740f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:50Z"
   },
   {
     "id": "aws_4a4832e030025fbb6f38",
@@ -62507,7 +62697,7 @@
       "56c16d59-d0b9-4d76-affb-2f68afdea7ba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:52Z"
   },
   {
     "id": "aws_7194bd3022a66968d183",
@@ -62640,7 +62830,7 @@
       "01908911-94f9-4bec-9096-a3afa62c351a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:17Z"
   },
   {
     "id": "aws_983c51b7c168e0d95a6b",
@@ -67418,7 +67608,7 @@
       "b8912bdd-f4df-4bf9-866d-2143025ae299"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:51Z"
   },
   {
     "id": "aws_79dc7b53c40f55680570",
@@ -72818,7 +73008,7 @@
       "2c7960bb-ea5c-49b4-bae4-76d42a60c9ad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_1b53e9cffa997cbb29af",
@@ -73027,7 +73217,7 @@
       "491d7540-bbc9-4cc3-afa8-0adf8371053d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:31Z"
   },
   {
     "id": "aws_eabad5ec9e2becc6ecb9",
@@ -75085,6 +75275,25 @@
     "lastCheckedAt": "2026-11-12T08:33:16Z"
   },
   {
+    "id": "aws_8e319574db2c98142002",
+    "stationId": "awb_c3d255a270e9dd9ad6b6",
+    "name": "Power 106 (KPWR FM)",
+    "country": "US",
+    "url": "https://14943.live.streamtheworld.com/KPWRAAC.aac",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7ec15b26-a777-40c1-ae09-150c72df9a74"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-13T14:19:30Z"
+  },
+  {
     "id": "aws_7a3181639a83adf34392",
     "stationId": "awb_815ccad2022afc911ffe",
     "name": "Power 181 [E]",
@@ -76127,7 +76336,7 @@
       "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:46Z"
   },
   {
     "id": "aws_eaaa213c17b99a594b37",
@@ -77443,6 +77652,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T01:27:48Z"
+  },
+  {
+    "id": "aws_fbd21cc15eabd45438ae",
+    "stationId": "awb_a6656144bc6d428287bc",
+    "name": "Radio BBG",
+    "country": "US",
+    "url": "https://radio.bbgministries.com/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "766ee451-1998-43cb-98ee-f37d142fe1e8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T00:05:50Z"
   },
   {
     "id": "aws_6334c613f49824bcd546",
@@ -81045,7 +81273,7 @@
       "0fe6552a-4ff2-4f97-aa40-edf8ca015fc0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:26Z"
   },
   {
     "id": "aws_a9f3f55cf9806a535aed",
@@ -81065,6 +81293,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T21:56:21Z"
+  },
+  {
+    "id": "aws_a84b13ccbd388bd9514a",
+    "stationId": "awb_f54fc32da7b20513814d",
+    "name": "Radio Postores Tiempos 1610 AM/93.5 FM - Boston, Massachusetts",
+    "country": "US",
+    "url": "https://or.mysonicserver.com:8018/;",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a2b0dafe-75a7-463a-93b2-f4a2c3c4f503"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T05:57:55Z"
   },
   {
     "id": "aws_2ca19328f96e232ec011",
@@ -81235,7 +81482,7 @@
       "def3b5f1-92a8-40d7-be2c-a4c60177b528"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:34Z"
   },
   {
     "id": "aws_e4fc52ac876196fe3014",
@@ -83444,7 +83691,7 @@
       "810e3772-7efd-4463-a3f9-893d38575de2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_1f3a2a4f0a18b3714af5",
@@ -84014,7 +84261,7 @@
       "f4373688-1ec0-466e-ad4c-160dda4bd076"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:30Z"
   },
   {
     "id": "aws_96a71083494334db0b07",
@@ -85821,7 +86068,7 @@
       "c0fa413d-6e20-4118-aa85-f296d97ad138"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:56Z"
   },
   {
     "id": "aws_30e9bee8f9161e371968",
@@ -87608,7 +87855,7 @@
       "7b1325ae-fb6f-4ce8-af09-501fcdcdcbc4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:14Z"
   },
   {
     "id": "aws_f090a8828a71021deb26",
@@ -91930,7 +92177,7 @@
       "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:43Z"
   },
   {
     "id": "aws_92ee8857b4e6a704b2be",
@@ -92236,7 +92483,7 @@
       "96eb2d5b-07d1-4fec-8de5-9d8d1f50b59b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:28Z"
   },
   {
     "id": "aws_1523b3fb180c6707a85d",
@@ -93034,7 +93281,7 @@
       "307ec9a7-4928-45aa-92a6-db9a3f46a991"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:28Z"
   },
   {
     "id": "aws_09be3bdd157342b21697",
@@ -95810,7 +96057,7 @@
       "d9bda061-5d1a-498d-9f53-382362daf6ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:34Z"
   },
   {
     "id": "aws_52af953e4e96b225fee3",
@@ -96133,7 +96380,7 @@
       "ce93d13a-8de9-450a-bbb1-a955f6dd7241"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:51Z"
   },
   {
     "id": "aws_507924572154f326192f",
@@ -97014,6 +97261,25 @@
     "lastCheckedAt": "2026-11-12T10:08:42Z"
   },
   {
+    "id": "aws_415d635e4c051d2b075f",
+    "stationId": "awb_88e17700b8d75074e267",
+    "name": "The Jive, Johnstown, PA",
+    "country": "US",
+    "url": "https://cast4.my-control-panel.com/proxy/michae33/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "60cfb0f3-ce66-4508-84ca-5a7dcae01558"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T03:25:46Z"
+  },
+  {
     "id": "aws_510297271aea3d5e0495",
     "stationId": "awb_3582ad9c828c6639c22d",
     "name": "The Journey FM",
@@ -97486,7 +97752,7 @@
       "2b6805fd-9372-4cb5-b201-c4946ea8a233"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:32:00Z"
   },
   {
     "id": "aws_b6e4b106b2aa57b69fb5",
@@ -101402,7 +101668,7 @@
       "0c194bcc-47e0-46f6-a173-c0f392772976"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:45Z"
   },
   {
     "id": "aws_754f984bbadd24d53b62",
@@ -103517,7 +103783,7 @@
       "3af89cec-fa7e-46e3-9699-99d889173a02"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:44Z"
   },
   {
     "id": "aws_e2edc77222a365bb0a9e",
@@ -106046,7 +106312,7 @@
       "f6901b97-8075-4e57-9e15-79da50e1ff97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:34Z"
   },
   {
     "id": "aws_33364ad62e0a255f0dcf",
@@ -106771,6 +107037,25 @@
     "lastCheckedAt": "2026-11-12T09:51:41Z"
   },
   {
+    "id": "aws_fb7e68f7fec0398a1b1a",
+    "stationId": "awb_90c7a74da2adbf1fd466",
+    "name": "WDBF-LP 103.5 \"Brave Nation\" Decatur, Indiana",
+    "country": "US",
+    "url": "https://s30.myradiostream.com:28010/;",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f8624794-a65f-4518-8c90-3f61a29bc804"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T03:00:34Z"
+  },
+  {
     "id": "aws_7f68b6543b88a3fd03ba",
     "stationId": "awb_dd6a90c019e2f5099b57",
     "name": "WDBF.fm",
@@ -106883,6 +107168,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T00:58:20Z"
+  },
+  {
+    "id": "aws_b10b1904d173a87cd224",
+    "stationId": "awb_8f58fef504bcd7abe16d",
+    "name": "WDDB-LP \"The Killer Bee 103.5\" Bluffton, Indiana",
+    "country": "US",
+    "url": "https://s13.myradiostream.com:41702/listen.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c3b4c380-6262-48ac-8aa9-3da606031c5e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T03:12:21Z"
   },
   {
     "id": "aws_b5be380a876370c2305d",
@@ -107364,7 +107668,7 @@
     "stationId": "awb_0e5d36d84c41c555d076",
     "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
     "country": "US",
-    "url": "https://n3eb-e2.revma.ihrhls.com/zc3089",
+    "url": "https://n02b-e2.revma.ihrhls.com/zc3089",
     "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
@@ -107376,7 +107680,7 @@
       "17958225-4028-43a0-af2c-76298aab1ea7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:51Z"
   },
   {
     "id": "aws_3fe4e5ed1d12e97eac8e",
@@ -107642,7 +107946,7 @@
       "7b996f6e-9b16-4208-9d9f-4d050bbb7b28"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:30Z"
   },
   {
     "id": "aws_a996eff319f373fae4c5",
@@ -107737,7 +108041,7 @@
       "de3849f8-fa03-41af-9733-d4c12028f413"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:48Z"
   },
   {
     "id": "aws_a68f31dd75d8580785d2",
@@ -109371,7 +109675,7 @@
       "3b22be4b-e305-43de-a20f-fe1ba484b1c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:53Z"
   },
   {
     "id": "aws_faa7b6105a6f0a73af74",
@@ -110701,7 +111005,7 @@
       "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:23Z"
   },
   {
     "id": "aws_a430e1804823efd29900",
@@ -110720,7 +111024,7 @@
       "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:32Z"
   },
   {
     "id": "aws_c918807bcd9ac6b9dd4c",
@@ -111710,7 +112014,7 @@
       "bb2b7243-1a28-49cc-828b-1605766f33bf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:28Z"
   },
   {
     "id": "aws_e0da72bc63c96efa24ad",
@@ -112527,7 +112831,7 @@
       "6125430b-5dfb-4d92-ad1d-9c78f1c40fb9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:55Z"
   },
   {
     "id": "aws_8beac872c52765859e77",
@@ -112907,7 +113211,7 @@
       "1895cb6b-7017-49c3-b9cd-ecf2179aad63"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:23Z"
   },
   {
     "id": "aws_12684af652de13639799",
@@ -112927,6 +113231,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-13T03:06:25Z"
+  },
+  {
+    "id": "aws_ca7704e285b8636bdf8c",
+    "stationId": "awb_627b495f34312a19179d",
+    "name": "WJHI-LP 98.5",
+    "country": "US",
+    "url": "https://ice24.securenetsystems.net/WJHI985",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b9ef34ed-cda0-4dd8-981a-146b3ab182dc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T03:30:28Z"
   },
   {
     "id": "aws_a71173099cb11ba83837",
@@ -113458,7 +113781,7 @@
       "2fd6d63d-346a-4f8e-b6db-9f0f469ee182"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T22:07:07Z"
+    "lastCheckedAt": "2026-11-13T22:07:49Z"
   },
   {
     "id": "aws_229bcc5c8ca71dd77623",
@@ -114446,7 +114769,7 @@
       "3156c76d-0f79-4e28-abfc-6ddc388aef59"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:10Z"
   },
   {
     "id": "aws_ba50beed3c57c9040428",
@@ -114713,6 +115036,44 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T02:27:38Z"
+  },
+  {
+    "id": "aws_4d15a6013cba406fbe3c",
+    "stationId": "awb_289d4470a0f5283e1c62",
+    "name": "WLDC-LP \"La Luz de Cristo\" 105.9 Goshen, Indiana",
+    "country": "US",
+    "url": "https://stream5.305stream.com/6144/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "280f8803-2d5b-4956-8b01-023aeec2d40c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:43:06Z"
+  },
+  {
+    "id": "aws_09766b407d724e44decd",
+    "stationId": "awb_5db9f2fd2618561106bc",
+    "name": "WLEG-LP 104.3 \"Radio Horizonte\" Goshen, Indiana",
+    "country": "US",
+    "url": "https://streaming.radio.co/sdd2d36b0f/listen",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "360b8692-d77d-4d2e-ab24-6bde5115ff5f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T02:51:43Z"
   },
   {
     "id": "aws_444553954cad8821819b",
@@ -115268,6 +115629,25 @@
     "lastCheckedAt": "2026-11-12T01:22:39Z"
   },
   {
+    "id": "aws_16870b7475d6843c6cbe",
+    "stationId": "awb_3157b3c44c383fe48f17",
+    "name": "WLSX AM 900 - Grand Valley State University - Allendale, Michigan",
+    "country": "US",
+    "url": "https://ice24.securenetsystems.net/WLSX",
+    "codec": "aac+",
+    "bitrate": 32,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ba00c95-e035-46fb-85ac-6064eb14f18d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T05:26:31Z"
+  },
+  {
     "id": "aws_f6260556f030ca8ae30e",
     "stationId": "awb_0128248e67d19c6417d5",
     "name": "WLTH Gary, Indiana",
@@ -115759,7 +116139,7 @@
       "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:34Z"
   },
   {
     "id": "aws_95377b19c61050af0581",
@@ -116899,7 +117279,7 @@
       "aeb52ca8-454e-4a0a-8752-4d90a066d6a9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:24Z"
   },
   {
     "id": "aws_81ab7aeb965dc0dc38a8",
@@ -116918,7 +117298,7 @@
       "bf134fdd-2411-4bce-9b4a-5e6795e226be"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:31Z"
   },
   {
     "id": "aws_c8f789db01501fe5d1eb",
@@ -117147,6 +117527,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T23:50:40Z"
+  },
+  {
+    "id": "aws_5ae91e4fc6255486c078",
+    "stationId": "awb_e10f2db81107c2522b58",
+    "name": "WNHE-LP 101.3 New Haven, Indiana",
+    "country": "US",
+    "url": "http://12.bteradio.com:8300/WNHE",
+    "codec": "mp3",
+    "bitrate": 48,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "033c57ba-af05-4623-8a2e-ddb7b56f04db"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T03:25:12Z"
   },
   {
     "id": "aws_c76a63f4ddb27713c540",
@@ -117393,7 +117792,7 @@
       "cbbd86c2-3b57-4d8e-8271-8c76a17e5a24"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:37Z"
   },
   {
     "id": "aws_717ce1f93925d31b4e4e",
@@ -117659,7 +118058,7 @@
       "61e57b52-acb2-4339-82ee-5dc1ee1452ac"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:47Z"
   },
   {
     "id": "aws_6fe07bfb140f66ba087b",
@@ -118115,7 +118514,7 @@
       "97cab9c1-12a2-4e00-abf6-431f5814f5e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:47Z"
   },
   {
     "id": "aws_41ed7d4397985b1f6240",
@@ -119027,7 +119426,7 @@
       "16e52888-8103-4d7e-a92a-548b6df622b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:49Z"
   },
   {
     "id": "aws_b3030cd88338470b80c3",
@@ -119103,7 +119502,7 @@
       "ce5e385d-c5ce-4f23-8c70-7d111a2ec0fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:31Z"
   },
   {
     "id": "aws_d9fadd7daac4d7f9de5b",
@@ -119889,7 +120288,7 @@
     "stationId": "awb_dadf85360f52d5f05af5",
     "name": "WQEN-HD2 \"103.1 The Beat\" - Birmingham, Alabama",
     "country": "US",
-    "url": "https://n27b-e2.revma.ihrhls.com/zc4956",
+    "url": "https://n0bb-e2.revma.ihrhls.com/zc4956",
     "codec": "aac",
     "bitrate": 0,
     "protocol": "https",
@@ -119901,7 +120300,7 @@
       "7a2b91a5-f16c-4384-8778-f7ddbc166f60"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:25Z"
   },
   {
     "id": "aws_a18a29f788be12fe8cce",
@@ -121259,7 +121658,7 @@
     "country": "US",
     "url": "http://104.152.40.10:8000/live95alt2",
     "codec": "mp3",
-    "bitrate": 95,
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -121269,7 +121668,7 @@
       "4942e28d-d100-472f-ab77-59bab3584c32"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
+    "lastCheckedAt": "2026-11-13T17:06:10Z"
   },
   {
     "id": "aws_77d9eea07ec32413feca",
@@ -121858,7 +122257,7 @@
       "5a397cab-77fe-4681-b90f-21ad3b68f04d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:26Z"
   },
   {
     "id": "aws_72058ddd2f20bfd37eda",
@@ -122390,7 +122789,7 @@
       "a908ff2f-22a8-41a5-9ece-88744a3f07aa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:23Z"
   },
   {
     "id": "aws_58fa80d155147bafaa03",
@@ -123815,7 +124214,7 @@
       "7c44d325-27cc-45dd-af1a-9885df5541bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:22Z"
   },
   {
     "id": "aws_2f2a32e33f71f8e94088",
@@ -124613,7 +125012,7 @@
       "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:19:24Z"
+    "lastCheckedAt": "2026-11-13T20:20:29Z"
   },
   {
     "id": "aws_0f3317a83e7c329a7fba",
@@ -125316,7 +125715,7 @@
       "81699fa6-3151-4540-ae55-e843a638f745"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T21:31:31Z"
+    "lastCheckedAt": "2026-11-13T21:31:57Z"
   },
   {
     "id": "aws_0b96d44fb429a5420aa8",
@@ -126095,7 +126494,7 @@
       "f1408e00-10f6-4c0d-9d3a-4b6a21079561"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:43Z"
   },
   {
     "id": "aws_38e87f5f9e98e570e1d0",
@@ -126228,7 +126627,7 @@
       "193a4d50-37bb-4329-ae90-e75a92d3f125"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:45Z"
   },
   {
     "id": "aws_a360d24f0c0d79ad4efc",
@@ -126665,7 +127064,7 @@
       "6e8e9914-57bf-4290-8cf4-636c37f321c3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T01:43:49Z"
+    "lastCheckedAt": "2026-11-14T01:44:27Z"
   },
   {
     "id": "aws_a92b909d39d7ab3d104e",
@@ -127957,7 +128356,7 @@
       "dfddd165-c493-4574-b82c-afdfa2da76d5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T09:28:02Z"
+    "lastCheckedAt": "2026-11-14T09:28:50Z"
   },
   {
     "id": "aws_e1e873abf094128f1d2c",
@@ -128662,7 +129061,7 @@
       "bcab4360-5f33-4024-96ff-59e5c03ed017"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:38Z"
   },
   {
     "id": "aws_23a89d9d94b78b2f4040",
@@ -128909,7 +129308,7 @@
       "0c31765c-78c5-4406-b143-6e4d1b2ef60a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:02:13Z"
+    "lastCheckedAt": "2026-11-13T17:02:50Z"
   },
   {
     "id": "aws_e32619f09cf4db724efa",
@@ -128966,7 +129365,7 @@
       "66dbe67e-9d87-4703-8344-e45bc04d4f7f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:35Z"
   },
   {
     "id": "aws_bba2c3a982896c390c42",
@@ -130240,7 +130639,7 @@
       "5ada2658-8830-40ce-a3b4-4ecef0926ed9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T20:07:08Z"
+    "lastCheckedAt": "2026-11-13T20:07:34Z"
   },
   {
     "id": "aws_94d2832398e25e3a171d",
@@ -131727,25 +132126,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T22:55:51Z"
-  },
-  {
-    "id": "aws_c6b87a11a79bab2c1c0e",
-    "stationId": "awb_1a2b86dadd3a99f54153",
-    "name": "Zapstech Media Variety (ZTMV)",
-    "country": "US",
-    "url": "http://philipiptv.cloudns.ph:8082/ZTMV",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "7183612f-d618-4870-97e2-19a07f27623f"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-08T17:04:51Z"
   },
   {
     "id": "aws_068f0b1e7e84d8554380",

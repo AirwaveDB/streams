@@ -1157,8 +1157,6 @@ http://ec1.yesstreaming.net:1400/stream
 https://radio.dialinnstudio.com/listen/dial_inn_radio/radio.mp3
 #EXTINF:-1 station-id="awb_7840b887ccd3934430b1" stream-id="aws_694ec86313c31608e321" codec="mp3" bitrate="128",Diamond Sky Radio
 http://streaming.radio.co/s323d1589a/listen
-#EXTINF:-1 station-id="awb_7aae7f11adfadbba23ab" stream-id="aws_f35326b11d2077e409a4" codec="mp3" bitrate="0",DieselGoth1
-https://hq2.stationhq.io/radiostalingrad/stream
 #EXTINF:-1 station-id="awb_8b2eddfe44fd9103437a" stream-id="aws_af4e218896e1ddaa2579" codec="mp3" bitrate="192",Different Drumz DnB Radio
 http://andromeda.shoutca.st:8031/
 #EXTINF:-1 station-id="awb_efbbc23d9a5fe21601dc" stream-id="aws_8057f4f73f6cbf1da343" codec="mp3" bitrate="192",Different Drumz Drum & Bass Radio
@@ -1296,7 +1294,7 @@ https://s1.myradiostream.com/8838/listen.mp3
 #EXTINF:-1 station-id="awb_5146251937ae7055d3cc" stream-id="aws_7371d8e8f942d2a94aee" codec="mp3" bitrate="128",Energy FM - Dance Music Radio
 https://radio.streemlion.com:1875/stream
 #EXTINF:-1 station-id="awb_c9829d245ddccbab022d" stream-id="aws_3984fb191d307eba232e" codec="mp3" bitrate="128",Energy FM Old School Classics
-https://radio.streemlion.com:1045/stream
+http://radio.streemlion.com:1680/
 #EXTINF:-1 station-id="awb_800f4ea4f0b3232276c7" stream-id="aws_bbd2216f8a431bece676" codec="mp3" bitrate="128",England - Heart London Radio
 http://ice-the.musicradio.com/HeartLondonMP3
 #EXTINF:-1 station-id="awb_4d9254c9a97825136b17" stream-id="aws_9bd651883369463ea421" codec="mp3" bitrate="128",England Radio (MP3)
@@ -1865,6 +1863,8 @@ http://icecast.indemandradio.com:8888/2A
 http://stream.indemandradio.com/station/IDR1/index.m3u8
 #EXTINF:-1 station-id="awb_b940eca730f0bc000562" stream-id="aws_f6b05ca60a91a9f2d697" codec="aac" bitrate="128",Indie Soul Radio
 https://s2.citrus3.com:8404/stream
+#EXTINF:-1 station-id="awb_9cec80804835cbc34f39" stream-id="aws_b8bee321c94acb8aced2" codec="mp3" bitrate="128",Inferno FM
+https://engine.sleradiogroup.com/stream/inferno
 #EXTINF:-1 station-id="awb_563c934c4175d50af8ee" stream-id="aws_67950c5f7872c6ecf797" codec="mp3" bitrate="320",Infinity Radio UK
 https://stream.infinityradio.uk:8100/stream
 #EXTINF:-1 station-id="awb_de5c9e16ab83cb15a6f6" stream-id="aws_f3b9a5e5edc236524280" codec="mp3" bitrate="256",Infrared.fm
@@ -2441,6 +2441,8 @@ https://listen-nation.sharp-stream.com/nationxmas.mp3
 http://listen-nation.sharp-stream.com/breeze_soton.mp3?direct=false&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 #EXTINF:-1 station-id="awb_6b34d2c70d81dd3d315f" stream-id="aws_15a3619cd670cc6937a8" codec="aac" bitrate="0",Nazareth
 https://stream.pcradio.ru/Nazareth-hi
+#EXTINF:-1 station-id="awb_7d7c5dfe63fce6097123" stream-id="aws_bfcb683067c0b3febe87" codec="mp3" bitrate="128",Neon Drive FM
+https://engine.sleradiogroup.com/stream/neon-drive
 #EXTINF:-1 station-id="awb_6860f637d8dc201e5388" stream-id="aws_9cc87db91613fe5b730e" codec="mp3" bitrate="128",Neon Radio
 https://live.flashbackcentral.co.uk/radio/8050/radio.mp3
 #EXTINF:-1 station-id="awb_b57484a31828b3c67c28" stream-id="aws_12ba2b030cc9527e8931" codec="mp3" bitrate="128",Neon Radio - 80s & 90s Pop & Dance
@@ -2939,6 +2941,8 @@ http://www.radiosix.com/radiosix.mp3
 https://hq3.yesstreaming.net/21/stream
 #EXTINF:-1 station-id="awb_b288837efe3e54f0fee2" stream-id="aws_96178a6b26f99dc0713a" codec="mp3" bitrate="128",Radio Stitch
 http://radiostitch.nth.nhs.uk:8000/Stream.mp3
+#EXTINF:-1 station-id="awb_6d5e34dc22b7a97944a5" stream-id="aws_2b476b5a8d91c4279f5f" codec="mp3" bitrate="0",Radio Sudd
+https://radio-sudd.radiocult.fm/stream
 #EXTINF:-1 station-id="awb_7702a5a7548b770cde27" stream-id="aws_eebe249157b7c629ea61" codec="mp3" bitrate="128",Radio TV Pater
 https://play.radioking.io/radio-tv-pater
 #EXTINF:-1 station-id="awb_7cd5aa72edcaf5756427" stream-id="aws_78508d46f2e88be10a05" codec="mp3" bitrate="128",Radio Tyneside
@@ -3301,8 +3305,12 @@ http://stream.zeno.fm/gppe0uht9c0uv
 http://slavefm.duckdns.org/radio
 #EXTINF:-1 station-id="awb_8c5a544cfc790b8376fc" stream-id="aws_5c66c4535bd0a05b3a3a" codec="mp3" bitrate="128",SLAY Radio
 http://relay4.slayradio.org:8000/
+#EXTINF:-1 station-id="awb_e39e1943fb657da33006" stream-id="aws_8fa62dc023a8d6acfe2e" codec="mp3" bitrate="256",SLE Radio One
+https://engine.sleradiogroup.com/stream/sle-radio
 #EXTINF:-1 station-id="awb_e39e1943fb657da33006" stream-id="aws_1eb7472c6645bde1c49f" codec="aac" bitrate="256",SLE RADIO ONE
 https://sleradiogroup.com/listen/sle_radio_1/sleone.mp3
+#EXTINF:-1 station-id="awb_992620418267c5de6192" stream-id="aws_2eaac65fe434d132145a" codec="mp3" bitrate="128",SLE Radio Rave
+https://engine.sleradiogroup.com/stream/sle-radio-rave
 #EXTINF:-1 station-id="awb_992620418267c5de6192" stream-id="aws_9825e8b8e10431a2ffe3" codec="mp3" bitrate="256",SLE RADIO RAVE
 https://sleradiogroup.com/listen/sle_radio_rave/radio.mp3
 #EXTINF:-1 station-id="awb_c719849ae1f66a75d789" stream-id="aws_c559e8217e5d1c71aeaf" codec="mp3" bitrate="320",Slim Radio
@@ -3891,6 +3899,8 @@ https://streaming.broadcast.radio/wynneevansshow
 http://stream.aiir.com/4nrmrub7cznvv
 #EXTINF:-1 station-id="awb_c1d2c5eb083c0a3b52f0" stream-id="aws_a79bceaf70009140699a" codec="mp3" bitrate="192",XenFM
 https://radio.xenfm.com/listen/xenfm/radio.mp3
+#EXTINF:-1 station-id="awb_22d7038fab84991d39d7" stream-id="aws_cb53accdc896c3f1abaf" codec="mp3" bitrate="128",Xennial FM
+https://engine.sleradiogroup.com/stream/xennial
 #EXTINF:-1 station-id="awb_ac0bd18980a4a87dbcb6" stream-id="aws_9c61d954b31573b912d7" codec="mp3" bitrate="0",Xenon Radio
 http://uksoutha.streaming.broadcast.radio:21491/xenon-radio
 #EXTINF:-1 station-id="awb_ac0bd18980a4a87dbcb6" stream-id="aws_0450b917321fc0f28734" codec="mp3" bitrate="0",Xenon Radio
