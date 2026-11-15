@@ -198,5 +198,43 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T04:53:36Z"
+  },
+  {
+    "id": "aws_b23a26f15e3d5d30e8ab",
+    "stationId": "awb_6b6792df099e59507f2e",
+    "name": "VAYO FM",
+    "country": "KH",
+    "url": "https://radio.vayofm.com/vayofm",
+    "codec": "mp3",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "21fa5132-de2e-4065-89c1-50eaabaec4b6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T13:16:26Z"
+  },
+  {
+    "id": "aws_c6498630f022ff92e56e",
+    "stationId": "awb_785a4490918f4f9100db",
+    "name": "Women's Radio",
+    "country": "KH",
+    "url": "https://a3.asurahosting.com/listen/women-radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "da59f51b-a371-4350-b5cd-b603914e5bdc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-14T12:34:55Z"
   }
 ]

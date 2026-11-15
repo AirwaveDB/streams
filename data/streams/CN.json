@@ -1628,7 +1628,7 @@
       "f050220b-ac6d-43a7-8a0e-06e76e0cc6c6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T16:00:20Z"
+    "lastCheckedAt": "2026-11-14T16:00:40Z"
   },
   {
     "id": "aws_ccb3bb23d6e1dd13264a",
@@ -1666,7 +1666,7 @@
       "9242b993-efbb-497b-8a82-66d3cda3827c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T21:24:07Z"
+    "lastCheckedAt": "2026-11-14T21:26:01Z"
   },
   {
     "id": "aws_a688254da1c446cbae6a",
@@ -2508,7 +2508,7 @@
       "785c8593-0437-418d-b590-dc34109d5f96"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T08:44:46Z"
+    "lastCheckedAt": "2026-11-15T08:45:33Z"
   },
   {
     "id": "aws_087cc9c6503fe7b3f73e",
@@ -3012,7 +3012,7 @@
       "afc77bb3-6aa1-44d3-9284-950dd806f435"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T21:24:07Z"
+    "lastCheckedAt": "2026-11-14T21:26:07Z"
   },
   {
     "id": "aws_37f52d6b6ccaa213252f",
@@ -7881,6 +7881,25 @@
     "lastCheckedAt": "2026-11-12T10:08:36Z"
   },
   {
+    "id": "aws_674bd486edc07b12561e",
+    "stationId": "awb_c96c00bc545701ef6aa9",
+    "name": "任丘综合广播",
+    "country": "CN",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022470/64k.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a6e3fd65-1ff9-4c22-8506-a867ef29eec5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T02:26:26Z"
+  },
+  {
     "id": "aws_f81d590f4211946372a0",
     "stationId": "awb_8327e558dd5bab1360cb",
     "name": "伊春第一套广播",
@@ -10441,6 +10460,25 @@
     "lastCheckedAt": "2026-11-12T02:12:16Z"
   },
   {
+    "id": "aws_b830a5b93ec33b1c2145",
+    "stationId": "awb_9cebddbca217c4012e7a",
+    "name": "厦门交通旅游广播",
+    "country": "CN",
+    "url": "https://rscdn.ajmide.com/r_1152/nglive_1152.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "04d525ec-8aef-434d-8f5c-94594059463e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T02:53:00Z"
+  },
+  {
     "id": "aws_401b9869dc665c6e4155",
     "stationId": "awb_377144e360014352a718",
     "name": "厦门经济交通广播",
@@ -10479,6 +10517,25 @@
     "lastCheckedAt": "2026-11-12T06:51:46Z"
   },
   {
+    "id": "aws_4c7c9ba6e8132c3c5a40",
+    "stationId": "awb_2c46c4a719a47398915f",
+    "name": "厦门综合广播",
+    "country": "CN",
+    "url": "https://rscdn.ajmide.com/r_1274/nglive_1274.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6d41a9d2-247d-4fc9-a111-0995c7deb983"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T02:57:03Z"
+  },
+  {
     "id": "aws_c79159c4b47f42038507",
     "stationId": "awb_fbbfe8b9e188c9b8d557",
     "name": "厦门音乐广播",
@@ -10498,6 +10555,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T08:34:54Z"
+  },
+  {
+    "id": "aws_5ff9391c6571d734a8bc",
+    "stationId": "awb_fbbfe8b9e188c9b8d557",
+    "name": "厦门音乐广播",
+    "country": "CN",
+    "url": "https://rscdn.ajmide.com/r_1275/nglive_1275.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b8a346f6-0dcf-43f4-9b35-38d6087a786b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T02:55:02Z"
   },
   {
     "id": "aws_c0dd5b138d7ccba9e513",
@@ -12192,7 +12268,7 @@
       "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-09T19:41:04Z"
+    "lastCheckedAt": "2026-11-14T19:41:29Z"
   },
   {
     "id": "aws_4748cc5319b4fc31ea46",
