@@ -3264,7 +3264,7 @@
       "204f9ed6-5a56-4c38-a5c6-1bbf98ebf5df"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:44:59Z"
   },
   {
     "id": "aws_842d64057618f9ee3b26",
@@ -16491,7 +16491,7 @@
       "e983cac5-6838-4b9c-a611-51e342153b22"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:38Z"
   },
   {
     "id": "aws_261d1bf0c517cf285cba",
@@ -19238,7 +19238,7 @@
       "a59574bb-4a1b-41f3-9d93-8719dbdf9359"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:05Z"
   },
   {
     "id": "aws_f3a990bf452f41b5110d",
@@ -19506,7 +19506,7 @@
       "441970da-37d4-496a-8f56-d9911cd4110e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:06Z"
   },
   {
     "id": "aws_8c04a2bafe5bea50aed2",
@@ -22580,6 +22580,25 @@
     "lastCheckedAt": "2026-11-12T06:35:47Z"
   },
   {
+    "id": "aws_c03fd63033383d960d22",
+    "stationId": "awb_a12fe5b74c3712ba9acb",
+    "name": "Nest Radio 3NOW 98.9",
+    "country": "AU",
+    "url": "https://stream1.noxradio.com.au/listen/nest-radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "32ef9510-94ac-4d45-8862-cee19a70fd33"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-16T08:15:27Z"
+  },
+  {
     "id": "aws_2ebd36f9821ae5dffcb5",
     "stationId": "awb_985fbb0b158843aa09ba",
     "name": "NetFM - Sydney (MP3)",
@@ -23942,7 +23961,7 @@
       "022ee200-6337-418d-b497-530fb365191e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:03Z"
   },
   {
     "id": "aws_26ae71215403a096219f",
@@ -28992,7 +29011,7 @@
       "38e39f46-6946-4de1-b991-9316edccf9d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:41Z"
   },
   {
     "id": "aws_638c37074a4b6b1916a3",
@@ -29738,8 +29757,8 @@
     "lastCheckedAt": "2026-11-12T02:05:07Z"
   },
   {
-    "id": "aws_8b04adfc50051c2eff58",
-    "stationId": "awb_9e12f91455245d57ddfe",
+    "id": "aws_fec41018baaea41d1547",
+    "stationId": "awb_6790399ad06b76a0ad05",
     "name": "Triple J",
     "country": "AU",
     "url": "http://abc.streamguys1.com/live/triplejnsw/icecast.audio",
@@ -29751,10 +29770,11 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "06faec0e-52eb-11e8-a4d1-52543be04c81"
+      "06faec0e-52eb-11e8-a4d1-52543be04c81",
+      "2ebb0a8a-3f3e-11e8-b74d-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-11T22:43:19Z"
+    "lastCheckedAt": "2026-11-12T04:37:15Z"
   },
   {
     "id": "aws_6bec70252fb39b8d4c01",
@@ -30103,25 +30123,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T05:58:51Z"
-  },
-  {
-    "id": "aws_fec41018baaea41d1547",
-    "stationId": "awb_6790399ad06b76a0ad05",
-    "name": "Tripple J JJJ",
-    "country": "AU",
-    "url": "http://abc.streamguys1.com/live/triplejnsw/icecast.audio",
-    "codec": "aac+",
-    "bitrate": 56,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "2ebb0a8a-3f3e-11e8-b74d-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T04:37:15Z"
   },
   {
     "id": "aws_a256c8bf8ca2a7d32be9",
@@ -30625,7 +30626,7 @@
       "44220107-c921-4890-8a2c-93538b620079"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:44:59Z"
   },
   {
     "id": "aws_bfff1892f7e0786ac5c5",
@@ -30999,6 +31000,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T22:33:36Z"
+  },
+  {
+    "id": "aws_e98619ff8e5cb7ddfe69",
+    "stationId": "awb_72c8c075d487ece08be3",
+    "name": "X3 FM",
+    "country": "AU",
+    "url": "http://20.199.80.17:24671/xeno",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "413a16a3-568d-4ebf-bdde-9f4a6dc034be"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-16T03:55:20Z"
   },
   {
     "id": "aws_79124a32c0ecae31c88c",

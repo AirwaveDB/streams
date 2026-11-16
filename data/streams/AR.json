@@ -2941,6 +2941,25 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
+    "id": "aws_8fc9d8363a6e05adff11",
+    "stationId": "awb_67ab32d1a31ad3a89cf4",
+    "name": "El Destape Radio",
+    "country": "AR",
+    "url": "https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cc30da91-69ca-4fe6-b397-03382d4a692c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:10:37Z"
+  },
+  {
     "id": "aws_8fc87ce1099ee4dad78a",
     "stationId": "awb_adf019a6dff0148d2bee",
     "name": "El Faro de Cariló Radio",
@@ -4191,6 +4210,25 @@
     "lastCheckedAt": "2026-11-12T00:38:24Z"
   },
   {
+    "id": "aws_2d9589278e3da1cf3354",
+    "stationId": "awb_ef868aa887d51c1b1412",
+    "name": "FM Amistad 95.5",
+    "country": "AR",
+    "url": "https://ssl.veemesoft.com.ar/2e6f4b4334e33852ccb8",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "57997a8c-62b7-423e-b74d-f6db4cfd2a67"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T14:04:13Z"
+  },
+  {
     "id": "aws_547f59f28672bb62a7c7",
     "stationId": "awb_b2725be7b8bbb287fd21",
     "name": "FM ANGEL 94.3",
@@ -4857,6 +4895,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T08:56:56Z"
+  },
+  {
+    "id": "aws_11d9f9640b7f34c691fa",
+    "stationId": "awb_4213aec7aab5720d73e0",
+    "name": "Fm Cordillerana JDA",
+    "country": "AR",
+    "url": "http://centova.radiosnethosting.com:9696/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e452c445-302c-4406-a2a6-3bb1d3c48d7d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T19:33:01Z"
   },
   {
     "id": "aws_bb58ec803a292fde743c",
@@ -7115,7 +7172,7 @@
       "07a02a2c-47ef-4eb5-820f-0cd0ccf54870"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:40Z"
   },
   {
     "id": "aws_7d94accc66b654d148c4",
@@ -7578,6 +7635,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T23:50:37Z"
+  },
+  {
+    "id": "aws_676e5629b070b19dd45d",
+    "stationId": "awb_7fcacd3afb8a6a367ffa",
+    "name": "HoloNet",
+    "country": "AR",
+    "url": "https://stream.zeno.fm/68veqm945bhvv",
+    "codec": "mp3",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f2def555-126c-4b57-b788-2102617c0356"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-16T02:27:54Z"
   },
   {
     "id": "aws_5aa90abbc1aa24ce37f1",
@@ -11210,7 +11286,7 @@
       "7ca6a4bb-b37a-4407-a24b-136eae1160c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:14Z"
   },
   {
     "id": "aws_3973691c90462558eb03",
@@ -17137,7 +17213,7 @@
       "87811b02-851a-4470-9e0c-dce582648bc3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:06Z"
   },
   {
     "id": "aws_6a200ca5cb8d9c62e912",
@@ -17980,6 +18056,63 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T06:51:37Z"
+  },
+  {
+    "id": "aws_09b5a4d0b1ab2fa68ed6",
+    "stationId": "awb_12f8b5d655f259328fad",
+    "name": "Radio UNER FM 100.3 - Paraná",
+    "country": "AR",
+    "url": "https://fm.uner.edu.ar/parana",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "761cead6-c76f-444d-baa5-0289b60aa3b7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:23:59Z"
+  },
+  {
+    "id": "aws_6b05e8b2f6907fc5df35",
+    "stationId": "awb_a2b5dcde4dfbabd15650",
+    "name": "Radio UNER FM 91.3 - Concepción del Uruguay",
+    "country": "AR",
+    "url": "https://fm.uner.edu.ar/cedelu",
+    "codec": "aac+",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "627ba33a-763a-4a64-882f-1cc072e50d41"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:21:01Z"
+  },
+  {
+    "id": "aws_d39639ff35cf2af35fad",
+    "stationId": "awb_3cd28233eab98a1b0549",
+    "name": "Radio UNER FM 97.3 - Concordia",
+    "country": "AR",
+    "url": "https://fm.uner.edu.ar/concordia",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "fc666dc1-67ce-4634-baeb-882c0b14c550"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:25:52Z"
   },
   {
     "id": "aws_e52f1723e6bcb1641870",

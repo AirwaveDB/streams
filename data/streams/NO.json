@@ -795,6 +795,25 @@
     "lastCheckedAt": "2026-11-12T01:20:52Z"
   },
   {
+    "id": "aws_59b3d1effa38c383d355",
+    "stationId": "awb_9078565a33f7170d69d6",
+    "name": "NRK P1 Hordaland (Høy kvalitet AAC)",
+    "country": "NO",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_aac_h",
+    "codec": "aac+",
+    "bitrate": 159,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7d65ca49-6c04-452a-bb7a-80500abb394e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T10:57:12Z"
+  },
+  {
     "id": "aws_631a6fe61275c245fc7e",
     "stationId": "awb_a8343788e7c61bc73c11",
     "name": "NRK P1 Innlandet",
@@ -940,6 +959,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T23:40:44Z"
+  },
+  {
+    "id": "aws_821349272631429ec784",
+    "stationId": "awb_676145dcc289ceef8168",
+    "name": "NRK P1 Sørlandssendingen",
+    "country": "NO",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_mp3_h",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e22abf1f-838b-43d9-bdbc-cb6c10f12ff8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T10:16:35Z"
   },
   {
     "id": "aws_17ee7a3310f1787884fe",
@@ -1871,6 +1909,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T07:59:31Z"
+  },
+  {
+    "id": "aws_8b1d085765771dd3a402",
+    "stationId": "awb_78af1db885c97f1f1d4f",
+    "name": "Radio L Lillesand",
+    "country": "NO",
+    "url": "https://stream.radio-l.no/rlihq",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "58079f15-df43-41dd-af70-1814cdc658b3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T10:39:26Z"
   },
   {
     "id": "aws_1015034775d18f97c31d",

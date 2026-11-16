@@ -2982,6 +2982,25 @@
     "lastCheckedAt": "2026-11-12T09:47:03Z"
   },
   {
+    "id": "aws_92ca1ce75704bf6da214",
+    "stationId": "awb_4b61d832ea726fe95635",
+    "name": "Boracay Beach Radio",
+    "country": "PH",
+    "url": "http://s2.viastreaming.net:8390/;stream/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "22833406-957a-4ada-af2a-f178e630028f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T13:08:02Z"
+  },
+  {
     "id": "aws_3787596e5be205f507d9",
     "stationId": "awb_febe139f2642e3c59f5c",
     "name": "Bound FM",
@@ -11618,7 +11637,7 @@
       "902fd7d4-bc83-4714-81a7-5e85fe717e1d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:17Z"
   },
   {
     "id": "aws_ee2dc9d80408540608a5",
@@ -11848,7 +11867,7 @@
       "27620c88-77db-451d-a9e7-dca3e84998ae"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:44Z"
   },
   {
     "id": "aws_dfb6177778c730b79ab2",
@@ -13106,6 +13125,25 @@
     "lastCheckedAt": "2026-11-12T00:29:03Z"
   },
   {
+    "id": "aws_d7a40aae9ed75b692c21",
+    "stationId": "awb_9ed07a645d3402b5b36e",
+    "name": "Wild FM Valencia",
+    "country": "PH",
+    "url": "http://62.138.18.102:8137/stream",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "067d6a8b-7bf6-4af2-9325-8fc54249a736"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T15:39:33Z"
+  },
+  {
     "id": "aws_8dc6a8419a02805863bb",
     "stationId": "awb_0c4b69c97bb2da5a1757",
     "name": "Win Radio Cagayan de Oro",
@@ -14081,5 +14119,24 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T05:42:52Z"
+  },
+  {
+    "id": "aws_893e7dfb82c694ffd453",
+    "stationId": "awb_fa2880dcf93f4b6075bd",
+    "name": "ZEXFM",
+    "country": "PH",
+    "url": "http://listen.smilemediaph.com/listen/zexfm/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9b61508e-c54a-4321-a331-bdb2c9c5ee4c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T15:17:15Z"
   }
 ]

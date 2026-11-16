@@ -13050,7 +13050,7 @@
   {
     "id": "aws_8234e199ee55b4b85cb4",
     "stationId": "awb_a751b7b518cc9e955028",
-    "name": "Absolut 80ER",
+    "name": "Absolut 80er",
     "country": "DE",
     "url": "https://edge59.live-sm.absolutradio.de/absolut-80ER/stream/mp3",
     "codec": "mp3",
@@ -13084,6 +13084,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T00:52:43Z"
+  },
+  {
+    "id": "aws_37b9c729e45f108a3889",
+    "stationId": "awb_f59995bbe84c596ef9f7",
+    "name": "Absolut Bella",
+    "country": "DE",
+    "url": "https://absolut-bella.live-sm.absolutradio.de/absolut-bella",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b4bc9eb4-fa28-404c-b44c-f0043a33ec7a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-11T23:22:50Z"
   },
   {
     "id": "aws_3267bea4ac889d9818ad",
@@ -13202,7 +13221,7 @@
   {
     "id": "aws_76dd15c080b862cfa1a0",
     "stationId": "awb_9f287d487e4a666d2c9e",
-    "name": "Absolut christmas time",
+    "name": "Absolut Christmas Time",
     "country": "DE",
     "url": "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3",
     "codec": "mp3",
@@ -13220,7 +13239,7 @@
   },
   {
     "id": "aws_9f48ca1348fbe565f62c",
-    "stationId": "awb_f43cc451c35b04c32702",
+    "stationId": "awb_4339183b1138ec305b14",
     "name": "Absolut Classics",
     "country": "DE",
     "url": "https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics/stream/aacp?maxvbr=3&aggregator=website",
@@ -13236,6 +13255,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T08:06:30Z"
+  },
+  {
+    "id": "aws_dbee6db489b79e158a3b",
+    "stationId": "awb_4339183b1138ec305b14",
+    "name": "Absolut Classics",
+    "country": "DE",
+    "url": "https://edge59.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7bd5013-5344-4a90-91c8-a9e2238eeda3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-11T23:20:16Z"
   },
   {
     "id": "aws_21f504865143d6641841",
@@ -13353,7 +13391,7 @@
   },
   {
     "id": "aws_f1d1a7b0beb1ddab8b6d",
-    "stationId": "awb_f46d7b8eef47dbc698d9",
+    "stationId": "awb_0ef6251d6e4ad3e4dff6",
     "name": "Absolut HOT",
     "country": "DE",
     "url": "https://edge61.live-sm.absolutradio.de/absolut-hot/stream/aacp?aggregator=smk-m3u-aac",
@@ -13447,25 +13485,6 @@
     "lastCheckedAt": "2026-11-11T23:13:46Z"
   },
   {
-    "id": "aws_4b843ef1a4ac9c1a6495",
-    "stationId": "awb_21b2a65173502385f046",
-    "name": "Absolut Music XL",
-    "country": "DE",
-    "url": "https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "993dd057-d180-4a42-9126-33be84d458af"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T09:18:43Z"
-  },
-  {
     "id": "aws_120ac58f34246e723ce2",
     "stationId": "awb_28e28c95761445960076",
     "name": "Absolut musicXL",
@@ -13485,11 +13504,11 @@
     "lastCheckedAt": "2026-11-12T02:29:47Z"
   },
   {
-    "id": "aws_dbee6db489b79e158a3b",
-    "stationId": "awb_4339183b1138ec305b14",
-    "name": "Absolut Oldie Classics MP3",
+    "id": "aws_4b843ef1a4ac9c1a6495",
+    "stationId": "awb_21b2a65173502385f046",
+    "name": "Absolut musicXL",
     "country": "DE",
-    "url": "https://edge59.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3",
+    "url": "https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -13498,10 +13517,10 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "c7bd5013-5344-4a90-91c8-a9e2238eeda3"
+      "993dd057-d180-4a42-9126-33be84d458af"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-11T23:20:16Z"
+    "lastCheckedAt": "2026-11-12T09:18:43Z"
   },
   {
     "id": "aws_b9896deb92208d8696ce",
@@ -13562,7 +13581,7 @@
   },
   {
     "id": "aws_11bb8a6961d3d660a6b5",
-    "stationId": "awb_777c1728c63bfcd6b87e",
+    "stationId": "awb_8066a32cfdca8314b15b",
     "name": "Absolut Relax",
     "country": "DE",
     "url": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
@@ -13600,7 +13619,7 @@
   },
   {
     "id": "aws_20d20d6ec587362c7614",
-    "stationId": "awb_777c1728c63bfcd6b87e",
+    "stationId": "awb_8066a32cfdca8314b15b",
     "name": "Absolut Relax",
     "country": "DE",
     "url": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
@@ -13639,7 +13658,7 @@
   {
     "id": "aws_54fdc454871de03bbf24",
     "stationId": "awb_0164d025efc4aacfc16c",
-    "name": "Absolut ROCK",
+    "name": "Absolut Rock",
     "country": "DE",
     "url": "https://edge59.live-sm.absolutradio.de/absolut-rock/stream/mp3",
     "codec": "mp3",
@@ -13675,25 +13694,6 @@
     "lastCheckedAt": "2026-11-12T09:07:08Z"
   },
   {
-    "id": "aws_b9a9d09813610e15e2c4",
-    "stationId": "awb_c6862cfaecc415ee3594",
-    "name": "Absolut Top",
-    "country": "DE",
-    "url": "https://frontend.streamonkey.net/absolut-top?aggregator=radioplayer",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "32bd882d-8d12-4a97-8058-f4af8485772b"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-11T22:28:13Z"
-  },
-  {
     "id": "aws_be7d96877740f7869552",
     "stationId": "awb_b8cbbda8ba3d36266a84",
     "name": "Absolut Top 2000ER",
@@ -13711,6 +13711,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T21:54:04Z"
+  },
+  {
+    "id": "aws_b9a9d09813610e15e2c4",
+    "stationId": "awb_b8cbbda8ba3d36266a84",
+    "name": "Absolut Top 2000er",
+    "country": "DE",
+    "url": "https://frontend.streamonkey.net/absolut-top?aggregator=radioplayer",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "32bd882d-8d12-4a97-8058-f4af8485772b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-11T22:28:13Z"
   },
   {
     "id": "aws_564115a29ee382fb5b94",
@@ -13732,25 +13751,6 @@
     "lastCheckedAt": "2026-11-12T02:59:26Z"
   },
   {
-    "id": "aws_d22590f729d3f737a49c",
-    "stationId": "awb_a621cd98133da79c6d32",
-    "name": "Absolut TOP club night",
-    "country": "DE",
-    "url": "https://n0c.radiojar.com/s1gwvam92hhvv?___cb=248720992580709",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "694632be-5038-4bff-9674-6ffd8cd51d36"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T01:29:36Z"
-  },
-  {
     "id": "aws_a818da56ec69d1c75686",
     "stationId": "awb_7d97635d15832ed99849",
     "name": "Absolut Top Clubnight",
@@ -13768,6 +13768,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T21:39:58Z"
+  },
+  {
+    "id": "aws_d22590f729d3f737a49c",
+    "stationId": "awb_7d97635d15832ed99849",
+    "name": "Absolut Top Clubnight",
+    "country": "DE",
+    "url": "https://n0c.radiojar.com/s1gwvam92hhvv?___cb=248720992580709",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "694632be-5038-4bff-9674-6ffd8cd51d36"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-12T01:29:36Z"
   },
   {
     "id": "aws_33dd26faf6d74bda4699",
@@ -20066,7 +20085,7 @@
       "db410a42-4f8b-4451-91fb-5976f35391a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:13Z"
   },
   {
     "id": "aws_2c38f10e324a65417450",
@@ -20257,6 +20276,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T03:08:43Z"
+  },
+  {
+    "id": "aws_089f4e1e9e404cfe0e4c",
+    "stationId": "awb_3c293179c909ce166e02",
+    "name": "Berlin Beach House Radio",
+    "country": "DE",
+    "url": "https://channels.fluxfm.de/berlin-beach-house/externalembedflxhp/stream.aac",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b9d05e7f-bcf3-4040-9386-04597b44d2e2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T12:32:49Z"
   },
   {
     "id": "aws_eb00ceaa13b79c33eb9f",
@@ -28117,7 +28155,7 @@
       "a881b4b9-968b-4c45-80e6-1967be426a10"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T17:35:39Z"
+    "lastCheckedAt": "2026-11-15T17:36:11Z"
   },
   {
     "id": "aws_03862596ac6619caac27",
@@ -36485,6 +36523,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T04:43:28Z"
+  },
+  {
+    "id": "aws_eb55172fced65e6745bb",
+    "stationId": "awb_f7112a7c7ef0db125998",
+    "name": "Flux FM",
+    "country": "DE",
+    "url": "https://channels.fluxfm.de/FluxFM/externalembedflxhp/stream.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c022a5f9-fcfe-4278-af07-9f9e8d29bd5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:53:49Z"
   },
   {
     "id": "aws_e7b3cccda05be695b834",
@@ -55532,7 +55589,7 @@
       "03170cdd-72bd-4690-a9a1-3dff60c28c7b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:00Z"
   },
   {
     "id": "aws_94399093abdc60abb70f",
@@ -67844,25 +67901,6 @@
     "lastCheckedAt": "2026-11-12T02:45:02Z"
   },
   {
-    "id": "aws_37b9c729e45f108a3889",
-    "stationId": "awb_5a001aec9c573fb216f2",
-    "name": "Radio Absolut Bella",
-    "country": "DE",
-    "url": "https://absolut-bella.live-sm.absolutradio.de/absolut-bella",
-    "codec": "aac",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "b4bc9eb4-fa28-404c-b44c-f0043a33ec7a"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-11T23:22:50Z"
-  },
-  {
     "id": "aws_83b656c00a1fd050a28a",
     "stationId": "awb_c0033723eaccb47a8cfa",
     "name": "Radio AI",
@@ -72672,7 +72710,7 @@
       "96b5b533-2178-48d9-ae6d-1b780a6d2805"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T14:44:27Z"
+    "lastCheckedAt": "2026-11-15T14:45:06Z"
   },
   {
     "id": "aws_011a8cc94f65d4c386ae",
@@ -75107,6 +75145,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T09:29:52Z"
+  },
+  {
+    "id": "aws_2478d1ae04ca0ead5b3a",
+    "stationId": "awb_23efdc74c8bb3061dd02",
+    "name": "Radio Gong 97.1",
+    "country": "DE",
+    "url": "http://webstream.gong971.de/gong971",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cedc7749-4394-430d-96b0-11904037e769"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T10:06:34Z"
   },
   {
     "id": "aws_492114f571ac7da8060c",
@@ -93106,7 +93163,7 @@
     "stationId": "awb_2847b7fa8f4912a21b95",
     "name": "sachsen-anhalt-radio",
     "country": "DE",
-    "url": "https://sachsen-anhalt-radio.stream.laut.fm/sachsen-anhalt-radio?uuid=8f1ba0a6-2436-ff00-7e2e-25cab9caf1f6&t302=2026-11-10_19-02-14",
+    "url": "https://sachsen-anhalt-radio.stream.laut.fm/sachsen-anhalt-radio?t302=2026-11-15_19-03-49&uuid=b3223072-b970-5d03-bd5a-07866bc9e18e",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -93118,7 +93175,7 @@
       "0f60ab9d-f864-4439-9a7c-45a7ef534ff8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:14Z"
   },
   {
     "id": "aws_9a6252241321df5fd2f1",
@@ -99091,6 +99148,25 @@
     "lastCheckedAt": "2026-11-12T00:39:33Z"
   },
   {
+    "id": "aws_2e75c12858829519c818",
+    "stationId": "awb_a6a47005b472e61b888b",
+    "name": "SWR 4 Koblenz",
+    "country": "DE",
+    "url": "https://liveradio.swr.de/sw331ch/swr4ko/",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4caea128-71d3-4844-a7d7-ad09a0d6233a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-16T06:44:31Z"
+  },
+  {
     "id": "aws_e2df015d4c11d8e84e87",
     "stationId": "awb_36470fa33fb7f9dcb327",
     "name": "SWR 4 RP Mainz (128k)",
@@ -101657,7 +101733,7 @@
       "d9e3e6ca-40b1-4a4a-b89c-49a674f64ee7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T17:35:39Z"
+    "lastCheckedAt": "2026-11-15T17:36:12Z"
   },
   {
     "id": "aws_61ed171a32fb655e1ff1",
@@ -103960,7 +104036,7 @@
   },
   {
     "id": "aws_20dfdcffa9231991f3a2",
-    "stationId": "awb_a005956359e0e31d6b7d",
+    "stationId": "awb_94713611432646dca401",
     "name": "WDR 2 Bergisches Land",
     "country": "DE",
     "url": "http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
@@ -103976,6 +104052,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T03:07:30Z"
+  },
+  {
+    "id": "aws_a1025036adb738db4da3",
+    "stationId": "awb_94713611432646dca401",
+    "name": "WDR 2 Bergisches Land",
+    "country": "DE",
+    "url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "29292a02-bdac-11e9-acb2-52543be04c81"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-12T08:41:10Z"
   },
   {
     "id": "aws_542fc4591b59ecccc539",
@@ -104338,7 +104433,7 @@
       "8e5fe101-6f7f-454d-917c-4a842fa4ce63"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:12Z"
   },
   {
     "id": "aws_e9bba5792d5a344c5e9f",
@@ -104985,25 +105080,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T21:49:57Z"
-  },
-  {
-    "id": "aws_a1025036adb738db4da3",
-    "stationId": "awb_94713611432646dca401",
-    "name": "WDR-2 Bewrgisch Land",
-    "country": "DE",
-    "url": "https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "29292a02-bdac-11e9-acb2-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T08:41:10Z"
   },
   {
     "id": "aws_39f1811dc1ec248db0d9",

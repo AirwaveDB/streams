@@ -427,8 +427,6 @@ http://stm10.srvstm.com:34794/stream
 https://cast4.audiostream.com.br:2652/mp3
 #EXTINF:-1 station-id="awb_dbdcda56b2ddad052b18" stream-id="aws_5d3c53842342332ab41a" codec="aac+" bitrate="64",Eldorado FM - São Paulo
 https://24253.live.streamtheworld.com/RADIO_ELDORADOAAC/HLS/playlist.m3u8
-#EXTINF:-1 station-id="awb_4c21a37eb45b1506b208" stream-id="aws_9da98acc97098080a23a" codec="unknown" bitrate="0",Eldorado FM - São Paulo
-https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
 #EXTINF:-1 station-id="awb_084d5efcdeb3ae5e66f9" stream-id="aws_a0f17b4dd9172212c005" codec="mp3" bitrate="128",ELEKTRA RADIO
 https://cast3.hoost.com.br:8952/stream
 #EXTINF:-1 station-id="awb_1f27b3a25ac471eb77ca" stream-id="aws_1979eaf0f342ab31e51b" codec="aac" bitrate="128",Elite Studio FM
@@ -541,6 +539,8 @@ https://stream.zeno.fm/63kdg03m2uhvv
 https://stream.geracaoradios.com.br/listen/samba/radio
 #EXTINF:-1 station-id="awb_80ec0194ac7d7db4d6bd" stream-id="aws_37c3bab39e311353497c" codec="aac" bitrate="128",Geração Sertanejo Universitário | Sertanejona
 https://stream.geracaoradios.com.br/listen/sertanejouniversitario/radio
+#EXTINF:-1 station-id="awb_927b21949c8f07f580f2" stream-id="aws_cae8f1166640c88a4058" codec="aac" bitrate="48",GFM 90.1
+http://ice.fabricahost.com.br/radiogfm
 #EXTINF:-1 station-id="awb_4c850056d5bd08b24245" stream-id="aws_3635ae04ca8874cc6367" codec="aac" bitrate="48",GFM Salvador Bahia FM 90.1
 https://ice.fabricahost.com.br/radiogfm
 #EXTINF:-1 station-id="awb_58133145e589e8b62105" stream-id="aws_34902538c1e25a739c2b" codec="mp3" bitrate="192",Global Funk Radio
@@ -779,6 +779,8 @@ http://stm21.srvaudio.com.br:9358/stream
 https://c15.radioboss.fm:8152/stream
 #EXTINF:-1 station-id="awb_f80a1ede4c5fef549472" stream-id="aws_0f858c8c0c9a8e39a4b4" codec="mp3" bitrate="96",LTS
 http://uk3freenew.listen2myradio.com:39449/;streamType=mp3;
+#EXTINF:-1 station-id="awb_d4f8bbad3742395ab766" stream-id="aws_209a5d814fec589dd01e" codec="mp3" bitrate="128",LuckyFM
+https://luckyfm.duckdns.org:5000/stream
 #EXTINF:-1 station-id="awb_d65b59e62bc9c6e2cbba" stream-id="aws_26ea28ee63ef1437e6b1" codec="mp3" bitrate="128",Luis Henrique
 https://server19.srvsh.com.br:7362/stream//
 #EXTINF:-1 station-id="awb_d3fa3f1bfe23c00cbfd2" stream-id="aws_d9346eb296b0328d935a" codec="aac" bitrate="64",Luz de zambi
@@ -849,8 +851,6 @@ https://sc4s.cdn.upx.com:8080/stream
 https://player-ssl.painelstream.net:8174/live
 #EXTINF:-1 station-id="awb_dd7f3afeea47f21b084f" stream-id="aws_b57ef09acea6b4cf3ddc" codec="aac" bitrate="128",Metal Heads
 https://hts01.brascast.com:9194/live
-#EXTINF:-1 station-id="awb_ae4fefbf450bfef15049" stream-id="aws_aa2e242214f12b5ac8ad" codec="mp3" bitrate="0",Metal Zone Radio
-https://player.ipstm.net/proxy/32224
 #EXTINF:-1 station-id="awb_ae4fefbf450bfef15049" stream-id="aws_a8299aa7314385a7e4ee" codec="aac+" bitrate="128",Metal Zone Radio
 https://srv8.ipstm.net:32224/stream
 #EXTINF:-1 station-id="awb_3c5fef63d8f04f04a5b3" stream-id="aws_237fd888aef4f814011e" codec="aac+" bitrate="128",Metropolitana FM 93.7 Foz
@@ -1627,6 +1627,8 @@ https://hts02.brascast.com:9758/live
 https://s10.maxcast.com.br:8304/live
 #EXTINF:-1 station-id="awb_1afa37c0d89e7d17aa56" stream-id="aws_cca519c74a19e82caf9c" codec="aac+" bitrate="128",Rádio Eldorado 87.9 FM - Paracatu MG
 https://srv2.braudio.com.br/7174
+#EXTINF:-1 station-id="awb_4c21a37eb45b1506b208" stream-id="aws_9da98acc97098080a23a" codec="unknown" bitrate="0",Rádio Eldorado FM
+https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
 #EXTINF:-1 station-id="awb_83091f5de38f7f4c856e" stream-id="aws_02067c18d0eb6b773760" codec="aac+" bitrate="64",Rádio Elohim
 https://servidor34-5.brlogic.com:8190/live
 #EXTINF:-1 station-id="awb_fd245a0b1ca40a381c6d" stream-id="aws_d721c49ce7880d555a65" codec="aac" bitrate="128",Rádio Em Defesa da Sã Doutrina
@@ -2635,6 +2637,8 @@ http://168.138.140.195:9000/nexo_cc5cbc2382af4cf1a20f195122ede5c9.mp3
 https://radio.app019.com/live.mp3
 #EXTINF:-1 station-id="awb_b504b93fb6d7889a9147" stream-id="aws_00367b1411422c9f0604" codec="aac" bitrate="96",R�dio Barcelos na NET
 https://stream.barcelosnanet.com.br/listen/barcelos/radio.mp3
+#EXTINF:-1 station-id="awb_8c63b17484bbc490888f" stream-id="aws_3e17db83f1da5770e8a1" codec="mp3" bitrate="128",R�dio Luciano Kik�o
+https://lucianokikao.com.br/radio/kikao.mp3
 #EXTINF:-1 station-id="awb_701d5fd88b252df3d8c3" stream-id="aws_86a9c5ea39a6b14f9416" codec="mp3" bitrate="128",SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc
 http://jpdofunk3.com.br:8242/stream
 #EXTINF:-1 station-id="awb_fa84f5b73aaf640457e7" stream-id="aws_03c5893ef3b5b50a0f35" codec="aac" bitrate="128",Samba FM

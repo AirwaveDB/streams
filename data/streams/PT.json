@@ -1168,25 +1168,6 @@
     "lastCheckedAt": "2026-11-12T07:09:56Z"
   },
   {
-    "id": "aws_f9c18f35b994f3d2b4ca",
-    "stationId": "awb_54be1dabb41e9b489b7d",
-    "name": "FLUXMEDIA",
-    "country": "PT",
-    "url": "http://148.251.43.149:8181/stream",
-    "codec": "mp3",
-    "bitrate": 192,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "1e253208-7861-43fd-a9df-8fbc45d4fccf"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T05:14:08Z"
-  },
-  {
     "id": "aws_778d4e74567d5eb9eb7a",
     "stationId": "awb_46c491deda1ee07239b9",
     "name": "FOQO",
@@ -3572,6 +3553,25 @@
     "lastCheckedAt": "2026-11-12T03:45:41Z"
   },
   {
+    "id": "aws_f9c18f35b994f3d2b4ca",
+    "stationId": "awb_54be1dabb41e9b489b7d",
+    "name": "Rádio FLUX",
+    "country": "PT",
+    "url": "http://148.251.43.149:8181/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1e253208-7861-43fd-a9df-8fbc45d4fccf"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-12T05:14:08Z"
+  },
+  {
     "id": "aws_f5cdacc0e9adce1b139b",
     "stationId": "awb_02e2bbec605a1e3b7bda",
     "name": "Radio FM",
@@ -4983,7 +4983,7 @@
       "dd90d5dd-2ab8-461f-a03d-fac11006bd3c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:39Z"
   },
   {
     "id": "aws_71f5d2723e54eb2123bb",

@@ -141,6 +141,8 @@ https://str0.creacast.com/oxy-meaux
 https://astromaria.fr/webradio_stream/live
 #EXTINF:-1 station-id="awb_9dde1aa23d0ee2129807" stream-id="aws_2bcdc1aaf0fde8bff11d" codec="mp3" bitrate="192",ABC Dance
 https://www.radioking.com/play/abc-dance/374263
+#EXTINF:-1 station-id="awb_338c347cc249b16decda" stream-id="aws_e231fc77394f413787d1" codec="mp3" bitrate="128",ABC Lounge
+https://listen.openstream.co/4457/audio
 #EXTINF:-1 station-id="awb_8d56fc3f6aa96044d325" stream-id="aws_75c6d85f881aed37fa84" codec="mp3" bitrate="128",ABC Lounge Jazz
 http://cast1.asurahosting.com/proxy/julien/stream
 #EXTINF:-1 station-id="awb_238dc8a0604868eea263" stream-id="aws_331df7adb188fd2bbf38" codec="mp3" bitrate="192",ABC Relax
@@ -509,6 +511,8 @@ https://audio-edge-5r6yd.cdg.o.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
 http://radio12.pro-fhi.net/radio/9134/stream.mp3
 #EXTINF:-1 station-id="awb_15aa33f85e7cca39d013" stream-id="aws_63ba8213a476c5888ff5" codec="mp3" bitrate="192",Bissakou Web Radio
 https://bissakouwebradio.com/listen/bissakou_web_radio/radio.mp3
+#EXTINF:-1 station-id="awb_3162db70c262951b433e" stream-id="aws_abc266b3bd1f14803bd9" codec="mp3" bitrate="192",Biterroise-FM
+https://stream10.vestaradio.com/Biterroise-FM
 #EXTINF:-1 station-id="awb_f8d4ad89722b96dddb04" stream-id="aws_c24daace8af2298a8b04" codec="aac" bitrate="64",Black Corvette
 https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette
 #EXTINF:-1 station-id="awb_f8d4ad89722b96dddb04" stream-id="aws_8962d474b486a1d7e3a4" codec="mp3" bitrate="128",Black Corvette
@@ -1631,6 +1635,8 @@ https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3
 https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
 #EXTINF:-1 station-id="awb_151dbd813fc6d3f23658" stream-id="aws_935bc6822990b81960d6" codec="aac" bitrate="192",France Musique Piano Zen
 http://icecast.radiofrance.fr/francemusiquepianozen-hifi.aac
+#EXTINF:-1 station-id="awb_6577869caf81779b4711" stream-id="aws_3db6c718c61678514691" codec="aac" bitrate="192",France Musique Piano Zen
+https://icecast.radiofrance.fr/francemusiquepianozen-hifi.aac?id=radiofrance
 #EXTINF:-1 station-id="awb_7afac256c23db15c88f5" stream-id="aws_d1a2d016441008b83c60" codec="aac,h.264" bitrate="1095",France24 arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 station-id="awb_d83cd7ddd9790e2c5d75" stream-id="aws_553a31b5a50247d7105c" codec="aac" bitrate="105",France24 Español
@@ -2901,8 +2907,6 @@ https://ecmanager.pro-fhi.net:1455/stream
 https://ecmanager5.pro-fhi.net:1060/stream
 #EXTINF:-1 station-id="awb_2f4966f9b238b8b4fbfa" stream-id="aws_ecd62969fdd92ede1856" codec="mp3" bitrate="128",MixFeever
 https://listen.mixfeever.com/feevermix
-#EXTINF:-1 station-id="awb_0efd9ea513718382ad12" stream-id="aws_6339fdb79dca6ae90b09" codec="mp3" bitrate="192",MIXIA RADIO
-https://radiomixia.fr/stream/mixia.mp3
 #EXTINF:-1 station-id="awb_71b5eba281dfedd1fdce" stream-id="aws_e698e51f0f60b4134d94" codec="mp3" bitrate="0",MIXTRAL.COM
 https://live.mixtral.com/mixtral
 #EXTINF:-1 station-id="awb_71b5eba281dfedd1fdce" stream-id="aws_e8844ff269769f4564dd" codec="mp3" bitrate="0",MIXTRAL.COM
@@ -2923,10 +2927,10 @@ http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
 http://stream.ca.morow.com:8003/morow_med.mp3
 #EXTINF:-1 station-id="awb_6122dd6243bb496619a2" stream-id="aws_b7ac0c04d339727079d3" codec="aac+" bitrate="64",MOROW [AAC+ 64k]
 http://stream.fr.morow.com:8080/morow_med.aacp
+#EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_266abc9f86a7002768ba" codec="aac+" bitrate="64",Morow Prog Rock Radio
+http://stream.ca.morow.com:8080/morow_med.aacp
 #EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_e1a1dfa33697177a6bd4" codec="mp3" bitrate="128",Morow Prog Rock Radio
 http://stream.fr.morow.com:8080/morow_med.mp3
-#EXTINF:-1 station-id="awb_48e4521b9edaa1c1bddd" stream-id="aws_266abc9f86a7002768ba" codec="mp3" bitrate="128",Morow Prog Rock Radio
-http://stream.fr.morow.com:9090/
 #EXTINF:-1 station-id="awb_cf16ee7bf5b87bcff845" stream-id="aws_4cadba3c8c4bd63a23c0" codec="aac+" bitrate="128",Morow Progressive Rock Radio
 http://stream.fr.morow.com:8080/morow_hi.aacp
 #EXTINF:-1 station-id="awb_249b1991240b8c7e53f8" stream-id="aws_8f10b015086ae3d9cca3" codec="mp3" bitrate="128",Mouteyen jean-philippe
@@ -3759,6 +3763,8 @@ http://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-64.aac
 https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3
 #EXTINF:-1 station-id="awb_80eb444ca3dbb2781361" stream-id="aws_ff40f7de562e31a90f83" codec="mp3" bitrate="128",OUI FM BRING THE NOISE
 https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
+#EXTINF:-1 station-id="awb_5875bd69f9bb5a4e8d79" stream-id="aws_0c351a7798febd3f0402" codec="mp3" bitrate="128",OUÏ FM Christmas Rock
+https://ouifmnoel.ice.infomaniak.ch/ouifmnoel-128.mp3
 #EXTINF:-1 station-id="awb_63fbde6c11927709dd1e" stream-id="aws_fb448eba5cd1a41263a1" codec="mp3" bitrate="128",OUI FM CLASSIC ROCK
 https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
 #EXTINF:-1 station-id="awb_cea2b7c5ebf1063bf377" stream-id="aws_92326a018a33914be312" codec="aac+" bitrate="64",OUI FM Classic Rock [AAC]
@@ -5173,6 +5179,8 @@ https://radio.shadowfr69.eu/lossless
 https://radio.shadowfr69.eu/mp3
 #EXTINF:-1 station-id="awb_c1531ca47ffdade8b5a7" stream-id="aws_751374278d2ba10cf580" codec="ogg" bitrate="192",shadowfr69 Radio
 https://radio.shadowfr69.eu/ogg
+#EXTINF:-1 station-id="awb_0b4eccb333ba1c183e00" stream-id="aws_55b2d45757dadec23c06" codec="mp3" bitrate="192",SimpleFM
+https://radio.simplegames.fr/listen/simplefm/radio.mp3
 #EXTINF:-1 station-id="awb_27f177cc378d35086ddb" stream-id="aws_306216aadbd08d671a3f" codec="aac" bitrate="128",Sing Sing
 https://stream.sing-sing-bis.org:8443/singsingaac128
 #EXTINF:-1 station-id="awb_5dd85deeebe9aa7712ad" stream-id="aws_4bfd0057a959f4a0f717" codec="mp3" bitrate="128",Sing-Sing Bis
@@ -5229,6 +5237,8 @@ https://play.radioking.io/soovradio
 https://listen.soulradio.eu/eu
 #EXTINF:-1 station-id="awb_7ebc13775f4ec277dab5" stream-id="aws_816a653e6fc6b0adc528" codec="aac" bitrate="192",SOUL RADIO Classics
 https://listen.soulradio.eu/eu
+#EXTINF:-1 station-id="awb_c470bd670d75609ed281" stream-id="aws_d8dd60db7b9fc58e89bb" codec="mp3" bitrate="128",Soulful House
+https://radio4.vip-radios.fm:18057/stream-128kmp3-SoulfulHouse
 #EXTINF:-1 station-id="awb_cd90a4c8c0ba95bb7975" stream-id="aws_e67a27c67dc1abd77699" codec="mp3" bitrate="192",Soulmet Radio
 http://91.121.59.45:10184/stream
 #EXTINF:-1 station-id="awb_3b8a28cb73fa41cfdf44" stream-id="aws_ce95d08c06c0598e9960" codec="mp3" bitrate="192",Stars Mixx
@@ -5397,6 +5407,8 @@ https://listen.radioking.com/radio/1906/stream/6029
 https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3
 #EXTINF:-1 station-id="awb_2cab9e3d7f9929aca6e2" stream-id="aws_ede9dddef30d261ac1c4" codec="mp3" bitrate="320",TT Node
 http://stream.p-node.org/dab.mp3
+#EXTINF:-1 station-id="awb_0efd9ea513718382ad12" stream-id="aws_6339fdb79dca6ae90b09" codec="mp3" bitrate="192",TürkVox Radio
+https://radiomixia.fr/stream/mixia.mp3
 #EXTINF:-1 station-id="awb_1cfef3b6daad55befecd" stream-id="aws_c10bc0f36f86a5528a1e" codec="mp3" bitrate="96",Ulia.radio
 https://audio.opensky.radio:8082/stream96
 #EXTINF:-1 station-id="awb_d2cf4bb71e481f80a99c" stream-id="aws_9e86009978741218ce2b" codec="mp3" bitrate="192",Unfazed OnAir

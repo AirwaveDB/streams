@@ -2408,7 +2408,7 @@
   {
     "id": "aws_61f92fcc0b1bf82b3110",
     "stationId": "awb_3fce4c8f088aecaba4d8",
-    "name": "Energy Bern",
+    "name": "Energy Bern (NRJ)",
     "country": "CH",
     "url": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
     "codec": "mp3",
@@ -2425,25 +2425,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T03:16:03Z"
-  },
-  {
-    "id": "aws_ff5d4a593beec483b16f",
-    "stationId": "awb_3b909e22138cc1169f13",
-    "name": "Energy Bern (NRJ)",
-    "country": "CH",
-    "url": "http://broadcast.infomaniak.ch/energybern-high.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "http",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "961016bd-0601-11e8-ae97-52543be04c81"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T06:19:18Z"
   },
   {
     "id": "aws_5ef20ca63f098752a8c1",
@@ -2500,7 +2481,7 @@
       "4a896e54-f2b3-431f-b2a0-729c6c078ac6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T17:35:39Z"
+    "lastCheckedAt": "2026-11-15T17:36:11Z"
   },
   {
     "id": "aws_8e91fde27304be50ddef",
@@ -4944,8 +4925,8 @@
     "name": "Radio 2Go",
     "country": "CH",
     "url": "https://uksoutha.streaming.broadcast.radio/radio2go",
-    "codec": "mp3",
-    "bitrate": 128,
+    "codec": "aac",
+    "bitrate": 0,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -4955,7 +4936,7 @@
       "c53e06ca-5e20-4322-836d-f6ce427f55fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:10Z"
   },
   {
     "id": "aws_9c9d96a68fc554dc7bcf",
@@ -5347,7 +5328,7 @@
       "3819283d-62fc-4100-90cc-e09798925892"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:10Z"
   },
   {
     "id": "aws_f396a0a15a9b2d421a20",
@@ -9406,6 +9387,25 @@
     "lastCheckedAt": "2026-11-12T09:13:17Z"
   },
   {
+    "id": "aws_f10f51285f834f57b9eb",
+    "stationId": "awb_ec19ea28167134dcc37f",
+    "name": "SRF Virus",
+    "country": "CH",
+    "url": "http://stream.srg-ssr.ch/srgssr/srfvirus/aac/192",
+    "codec": "aac",
+    "bitrate": 184,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b3da1cef-e99f-4ae3-a4a7-6e96e5a39b37"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T21:51:05Z"
+  },
+  {
     "id": "aws_b9424bc63260cdcba49e",
     "stationId": "awb_2900ac055136b0fa016d",
     "name": "SRF Virus",
@@ -9735,7 +9735,7 @@
   {
     "id": "aws_7e05f7c2331c50a3b481",
     "stationId": "awb_6018184c48d7b70e90fc",
-    "name": "Symphoniya Wave",
+    "name": "Symphoniya Wave — Symphoniya.com",
     "country": "CH",
     "url": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac",
     "codec": "aac",
@@ -9750,25 +9750,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T02:05:05Z"
-  },
-  {
-    "id": "aws_02aba33f5bac22935349",
-    "stationId": "awb_a1ffd7a35c49ab6d8a68",
-    "name": "Symphoniya Wave — Symphoniya.com",
-    "country": "CH",
-    "url": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5147c803-8b8c-4a52-8d62-92f33d52021c"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T04:44:24Z"
   },
   {
     "id": "aws_2e1a91c3e49999a101dd",

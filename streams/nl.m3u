@@ -49,7 +49,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
 #EXTINF:-1 station-id="awb_f400f01daa2335f189f6" stream-id="aws_0124d757af550c81ada8" codec="aac+" bitrate="96",538 Classics AAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
-#EXTINF:-1 station-id="awb_0740b44e89ea6ce240fd" stream-id="aws_c9362c0a46fd32005fb6" codec="mp3" bitrate="128",538 Dance Departmetn
+#EXTINF:-1 station-id="awb_0740b44e89ea6ce240fd" stream-id="aws_c9362c0a46fd32005fb6" codec="mp3" bitrate="128",538 Dance Department
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
 #EXTINF:-1 station-id="awb_cc2fe7bfefd89893766a" stream-id="aws_5f838f603b9e0bcdab51" codec="mp3" bitrate="128",538 Hitzone
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
@@ -205,6 +205,8 @@ https://stream.bnr.nl/bnr_mp3_128_01
 https://stream.bollenstreekomroep.nl/live-mp3-192-stereo
 #EXTINF:-1 station-id="awb_5a0e853ea734d1d47c9e" stream-id="aws_cbb21b873d36c07430c8" codec="mp3" bitrate="256",Booty Bay Pirate Radio
 https://radio.octowow.st/listen/booty_bay_pirate_radio/radio.mp3
+#EXTINF:-1 station-id="awb_766619f7268e59875626" stream-id="aws_74244a6af4508fbb32e4" codec="mp3" bitrate="64",Booty Bay Pirate Radio - Thematic tower
+http://radio.octowow.st/listen/booty_bay_pirate_radio_thematic_tower/radio.mp3
 #EXTINF:-1 station-id="awb_cdd051f2b944f48272cf" stream-id="aws_a73494093adf33ff125c" codec="mp3" bitrate="192",boy woortman
 https://dedraaiorgel.ddohosting.nl:8000/listen.mp3
 #EXTINF:-1 station-id="awb_80cc82ba49ef2ce519f8" stream-id="aws_80db0e5eda5ae8240800" codec="mp3" bitrate="192",BR6 Radio
@@ -1849,6 +1851,8 @@ http://whsh4u-server.com:11100/transcoder2
 https://mcp-2.mm-stream.nl:8017/stream
 #EXTINF:-1 station-id="awb_79516defd4813c573854" stream-id="aws_40aad4929f5ab980ae21" codec="mp3" bitrate="320",Radio WORM
 https://origin.streamnerd.nl/worm/worm/icecast.audio
+#EXTINF:-1 station-id="awb_3d8e3319471831ba85ef" stream-id="aws_98c7350fe39f2f26744b" codec="mp3" bitrate="192",Radio Zilverdroom
+https://radio.radiozilverdroom.nl/listen/radio_zilverdroom/radio.mp3
 #EXTINF:-1 station-id="awb_567205a9a0fde2e2123a" stream-id="aws_e5d07b4f977b3ad9e2ee" codec="mp3" bitrate="0",Radio ZO-NWS
 https://nlpo.stream.vip/zonws/mp3-192/nlpo/
 #EXTINF:-1 station-id="awb_adfbf889481073bdcaca" stream-id="aws_a790cca2f41bb3373185" codec="mp3" bitrate="128",Radio Zuyd

@@ -119,8 +119,6 @@ http://centova.radio.com.pt:9430/;
 https://centova.radio.com.pt/proxy/430?mp=/stream
 #EXTINF:-1 station-id="awb_b5e7a923aaa23308f2df" stream-id="aws_4dcf484226607b95d7bd" codec="mp3" bitrate="192",Everything Is New
 http://proic1.redeaudio.com/ein
-#EXTINF:-1 station-id="awb_54be1dabb41e9b489b7d" stream-id="aws_f9c18f35b994f3d2b4ca" codec="mp3" bitrate="192",FLUXMEDIA
-http://148.251.43.149:8181/stream
 #EXTINF:-1 station-id="awb_46c491deda1ee07239b9" stream-id="aws_778d4e74567d5eb9eb7a" codec="mp3" bitrate="128",FOQO
 http://185.32.188.17:8003/stream
 #EXTINF:-1 station-id="awb_11113ed9634202762561" stream-id="aws_3bed2260ade85d606cb9" codec="mp3" bitrate="320",FUTURA - Rádio de Autor
@@ -363,6 +361,8 @@ https://nl.digitalrm.pt:8048/stream
 http://centova.radio.com.pt:8459/;
 #EXTINF:-1 station-id="awb_2a442cb7ca4b2a2b54ba" stream-id="aws_bb6ec542714ffd8e1700" codec="mp3" bitrate="192",Rádio Festival Madeira (98.4 FM)
 https://audio.serv.pt/8012/stream.mp3
+#EXTINF:-1 station-id="awb_54be1dabb41e9b489b7d" stream-id="aws_f9c18f35b994f3d2b4ca" codec="mp3" bitrate="192",Rádio FLUX
+http://148.251.43.149:8181/stream
 #EXTINF:-1 station-id="awb_02e2bbec605a1e3b7bda" stream-id="aws_f5cdacc0e9adce1b139b" codec="mp3" bitrate="64",Radio FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 #EXTINF:-1 station-id="awb_6756b06c54699d6c06d7" stream-id="aws_279d4e02114777bef6eb" codec="mp3" bitrate="128",Rádio Foz do Mondego

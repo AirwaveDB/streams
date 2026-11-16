@@ -301,6 +301,8 @@ https://streaming01.shockmedia.com.ar:10728/stream
 https://ipanel.instream.audio/8004/stream
 #EXTINF:-1 station-id="awb_67ab32d1a31ad3a89cf4" stream-id="aws_ed1a8dc24dc35b0fca83" codec="aac" bitrate="48",El Destape Radio
 https://ipanel.instream.audio/8004/stream
+#EXTINF:-1 station-id="awb_67ab32d1a31ad3a89cf4" stream-id="aws_8fc9d8363a6e05adff11" codec="unknown" bitrate="0",El Destape Radio
+https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
 #EXTINF:-1 station-id="awb_adf019a6dff0148d2bee" stream-id="aws_8fc87ce1099ee4dad78a" codec="mp3" bitrate="128",El Faro de Cariló Radio
 https://radio.elfarodecarilo.com/stream
 #EXTINF:-1 station-id="awb_79bfdb289a7fb827c9c7" stream-id="aws_afb046604ecc8d3931cf" codec="mp3" bitrate="128",El Sol Sale Para Todos
@@ -429,6 +431,8 @@ https://cdn.instream.audio/:8185/stream
 https://stream.zeno.fm/dsvp0vvm9k8uv
 #EXTINF:-1 station-id="awb_373b762a62e8cb05c13f" stream-id="aws_fcb7ce64a3ba282f362f" codec="mp3" bitrate="128",FM Amistad 93.5 Mhz
 https://server.laradio.online/proxy/raul_benitez?mp=/stream
+#EXTINF:-1 station-id="awb_ef868aa887d51c1b1412" stream-id="aws_2d9589278e3da1cf3354" codec="mp3" bitrate="0",FM Amistad 95.5
+https://ssl.veemesoft.com.ar/2e6f4b4334e33852ccb8
 #EXTINF:-1 station-id="awb_b2725be7b8bbb287fd21" stream-id="aws_547f59f28672bb62a7c7" codec="aac+" bitrate="48",FM ANGEL 94.3
 https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
 #EXTINF:-1 station-id="awb_a0580f39690b7794e115" stream-id="aws_c6e30a0b0a1b7b52a70d" codec="mp3" bitrate="64",FM Anta 96.1
@@ -497,6 +501,8 @@ https://radio.fmconcepto.com.ar/;
 https://radio.solumedia.com.ar:8384/;
 #EXTINF:-1 station-id="awb_996bda10deb34d9a38e8" stream-id="aws_6ac2b4cb8703ea82234d" codec="aac+" bitrate="36",FM Constelación 98.1
 http://streaming.radiosenlinea.com.ar:8412/;
+#EXTINF:-1 station-id="awb_4213aec7aab5720d73e0" stream-id="aws_11d9f9640b7f34c691fa" codec="mp3" bitrate="96",Fm Cordillerana JDA
+http://centova.radiosnethosting.com:9696/stream
 #EXTINF:-1 station-id="awb_36bbf3376c9a67667dd1" stream-id="aws_bb58ec803a292fde743c" codec="mp3" bitrate="0",FM Córdoba
 https://liveradio.mediainbox.net/fmcordoba.mp3
 #EXTINF:-1 station-id="awb_6db12b14c60b23207a3d" stream-id="aws_de1c47d0ddd9350924bf" codec="aac+" bitrate="32",FM Cosecha
@@ -779,6 +785,8 @@ http://mp3.ffh.de/radioffh/hqlivestream.aac
 https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
 #EXTINF:-1 station-id="awb_4e3757f6d73e7c312ed8" stream-id="aws_69e29ef495dad5872e4f" codec="mp3" bitrate="128",Hollywood FM 101.3 Rosario
 https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
+#EXTINF:-1 station-id="awb_7fcacd3afb8a6a367ffa" stream-id="aws_676e5629b070b19dd45d" codec="mp3" bitrate="160",HoloNet
+https://stream.zeno.fm/68veqm945bhvv
 #EXTINF:-1 station-id="awb_ba2687ead463cbfcb848" stream-id="aws_5aa90abbc1aa24ce37f1" codec="aac+" bitrate="96",Horizonte Radio 95.3
 https://streaming01.shockmedia.com.ar/8440/stream/;
 #EXTINF:-1 station-id="awb_d2d2aa94c84617c393f0" stream-id="aws_0df9b1a96aa412fe4e93" codec="aac" bitrate="128",Horizonte Radio Córdoba
@@ -1865,6 +1873,12 @@ https://radios.lu17.com:8400/rtn
 https://fm.uncu.edu.ar/
 #EXTINF:-1 station-id="awb_380b7603c49fb8951c6e" stream-id="aws_cea1d0f41c6101bf635b" codec="aac" bitrate="256",Radio UBA 87.9
 https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA
+#EXTINF:-1 station-id="awb_12f8b5d655f259328fad" stream-id="aws_09b5a4d0b1ab2fa68ed6" codec="mp3" bitrate="96",Radio UNER FM 100.3 - Paraná
+https://fm.uner.edu.ar/parana
+#EXTINF:-1 station-id="awb_a2b5dcde4dfbabd15650" stream-id="aws_6b05e8b2f6907fc5df35" codec="aac+" bitrate="96",Radio UNER FM 91.3 - Concepción del Uruguay
+https://fm.uner.edu.ar/cedelu
+#EXTINF:-1 station-id="awb_3cd28233eab98a1b0549" stream-id="aws_d39639ff35cf2af35fad" codec="mp3" bitrate="192",Radio UNER FM 97.3 - Concordia
+https://fm.uner.edu.ar/concordia
 #EXTINF:-1 station-id="awb_47a6aff67337bc656013" stream-id="aws_e52f1723e6bcb1641870" codec="aac+" bitrate="80",Radio Universal 95.5 FM
 https://masservidor.net:7327//;type=mp3
 #EXTINF:-1 station-id="awb_d7b71e1beef64127c243" stream-id="aws_8b6196ed7dbce843a7bb" codec="aac" bitrate="128",Radio Universidad

@@ -179,6 +179,25 @@
     "lastCheckedAt": "2026-11-12T04:04:50Z"
   },
   {
+    "id": "aws_0efc03fd20f104f30288",
+    "stationId": "awb_6de98fbdb1bed70f72b1",
+    "name": "ABC 80s Dublin - Neuer Stream",
+    "country": "IE",
+    "url": "https://cast3.torontocast.com:1750/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "123590a8-b97b-4b10-8ac0-549c9a680418"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T16:02:38Z"
+  },
+  {
     "id": "aws_d05f405768f8062c971b",
     "stationId": "awb_8a628ae1d7d4923fe51c",
     "name": "Ambient Lounge on MixLive.net",
@@ -3366,6 +3385,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T09:09:37Z"
+  },
+  {
+    "id": "aws_19e8884d3c97d9e28298",
+    "stationId": "awb_b05e47dfa0c6fcda10e9",
+    "name": "Shannon Side FM",
+    "country": "IE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SHANNONSIDE_FM.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "87f3829a-1721-4a8f-b62e-a7aa8e9e8858"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T13:10:05Z"
   },
   {
     "id": "aws_c3af15bb9bcaad04c95a",

@@ -79,6 +79,8 @@ https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h
 #EXTINF:-1 station-id="awb_3af1b5d74782229e33ac" stream-id="aws_6ea63b5b2e5ecba02428" codec="mp3" bitrate="192",Nrk p1 Hordaland
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h
+#EXTINF:-1 station-id="awb_9078565a33f7170d69d6" stream-id="aws_59b3d1effa38c383d355" codec="aac+" bitrate="159",NRK P1 Hordaland (Høy kvalitet AAC)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_aac_h
 #EXTINF:-1 station-id="awb_a8343788e7c61bc73c11" stream-id="aws_631a6fe61275c245fc7e" codec="mp3" bitrate="192",NRK P1 Innlandet
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h
 #EXTINF:-1 station-id="awb_69351236ea19f72516d5" stream-id="aws_ab6c7db5aff012884356" codec="mp3" bitrate="96",NRK P1 Møre og Romsdal
@@ -93,6 +95,8 @@ https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9
 https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7
 #EXTINF:-1 station-id="awb_462279ff00494605a2a0" stream-id="aws_86e2932b3ed7eaea9670" codec="mp3" bitrate="192",NRK P1 Sogn og Fjordane (Høy kvalitet MP3)
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7
+#EXTINF:-1 station-id="awb_676145dcc289ceef8168" stream-id="aws_821349272631429ec784" codec="mp3" bitrate="192",NRK P1 Sørlandssendingen
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_mp3_h
 #EXTINF:-1 station-id="awb_e58ae6a6b1ee32cafd3e" stream-id="aws_17ee7a3310f1787884fe" codec="mp3" bitrate="192",Nrk P1 Stor-Oslo
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h
 #EXTINF:-1 station-id="awb_bf5f4de198185a8ef9c1" stream-id="aws_bee90b9feb0ee741009c" codec="aac+" bitrate="159",NRK P1 Troms (Høy kvalitet AAC)
@@ -183,6 +187,8 @@ http://radioip.no:443/flac
 https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3
 #EXTINF:-1 station-id="awb_95595a4217940155dc8d" stream-id="aws_0b7a96cc729d1d1f297c" codec="aac" bitrate="128",Radio Kos
 https://lyd.radiokos.no/kos_lq
+#EXTINF:-1 station-id="awb_78af1db885c97f1f1d4f" stream-id="aws_8b1d085765771dd3a402" codec="mp3" bitrate="128",Radio L Lillesand
+https://stream.radio-l.no/rlihq
 #EXTINF:-1 station-id="awb_020ff39eb1ed9665c333" stream-id="aws_1015034775d18f97c31d" codec="mp3" bitrate="0",Radio Latin-Amerika
 https://stream.radiolatinamerika.no/latam_hq
 #EXTINF:-1 station-id="awb_44391b3474e0f086d78f" stream-id="aws_db99c5121c54925559ce" codec="aac+" bitrate="96",Radio Lyngdal

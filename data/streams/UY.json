@@ -1327,23 +1327,42 @@
     "lastCheckedAt": "2026-11-12T09:11:56Z"
   },
   {
-    "id": "aws_905315a03c76b797e837",
+    "id": "aws_50688bdbbc10629d35a6",
+    "stationId": "awb_0d6575c0905e77211397",
+    "name": "Indie Pop en Español",
+    "country": "UY",
+    "url": "https://indiepop.andres-samas.workers.dev/radio.m3u8?directorio=radio-browser",
+    "codec": "aac+",
+    "bitrate": 144,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5dbb667f-2cc9-40a1-9789-ab44e591adf8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T21:47:39Z"
+  },
+  {
+    "id": "aws_a87fd35fff1aa22b9b09",
     "stationId": "awb_5b94564b6dda97f8c28c",
     "name": "Indie Pop en Español",
     "country": "UY",
-    "url": "https://radio-render-ey3i.onrender.com/stream?src=radiobrowser",
-    "codec": "aac",
-    "bitrate": 64,
+    "url": "https://radioandres.mooo.com/stream",
+    "codec": "mp3",
+    "bitrate": 213,
     "protocol": "https",
     "hls": false,
     "sources": [
       "radio-browser"
     ],
     "sourceIds": [
-      "80a1e159-8f1b-4669-af78-f948dd304b9d"
+      "892427cc-ee5a-499b-98e3-145cf93d02b8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T08:39:17Z"
+    "lastCheckedAt": "2026-11-16T05:19:54Z"
   },
   {
     "id": "aws_a4a549f1faf3cb52ccba",

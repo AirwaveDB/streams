@@ -396,7 +396,7 @@
       "c2722e60-1a44-49fa-b45a-bff6f0a63cc6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T11:18:09Z"
+    "lastCheckedAt": "2026-11-15T11:18:39Z"
   },
   {
     "id": "aws_7471beeff845d516cc77",
@@ -4108,25 +4108,6 @@
     "lastCheckedAt": "2026-11-12T03:12:48Z"
   },
   {
-    "id": "aws_9da98acc97098080a23a",
-    "stationId": "awb_4c21a37eb45b1506b208",
-    "name": "Eldorado FM - São Paulo",
-    "country": "BR",
-    "url": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8",
-    "codec": "unknown",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": true,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "523fdf97-a758-4ffc-88b9-e36614e943fd"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T08:46:45Z"
-  },
-  {
     "id": "aws_a0f17b4dd9172212c005",
     "stationId": "awb_084d5efcdeb3ae5e66f9",
     "name": "ELEKTRA RADIO",
@@ -5193,6 +5174,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T07:11:00Z"
+  },
+  {
+    "id": "aws_cae8f1166640c88a4058",
+    "stationId": "awb_927b21949c8f07f580f2",
+    "name": "GFM 90.1",
+    "country": "BR",
+    "url": "http://ice.fabricahost.com.br/radiogfm",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "135abdcb-8dc1-4cbe-90c4-2f3625f701a4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T17:21:05Z"
   },
   {
     "id": "aws_3635ae04ca8874cc6367",
@@ -7171,7 +7171,7 @@
       "c5c704c1-23d1-4c4d-8017-e96246d37d2f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T17:35:39Z"
+    "lastCheckedAt": "2026-11-15T17:36:06Z"
   },
   {
     "id": "aws_3c302e7a58269207dda7",
@@ -7478,6 +7478,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-13T17:02:49Z"
+  },
+  {
+    "id": "aws_209a5d814fec589dd01e",
+    "stationId": "awb_d4f8bbad3742395ab766",
+    "name": "LuckyFM",
+    "country": "BR",
+    "url": "https://luckyfm.duckdns.org:5000/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a26f1d2f-7e33-45ac-bfe5-24dbdf89d065"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T23:36:36Z"
   },
   {
     "id": "aws_26ea28ee63ef1437e6b1",
@@ -8153,25 +8172,6 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-12T07:26:02Z"
-  },
-  {
-    "id": "aws_aa2e242214f12b5ac8ad",
-    "stationId": "awb_ae4fefbf450bfef15049",
-    "name": "Metal Zone Radio",
-    "country": "BR",
-    "url": "https://player.ipstm.net/proxy/32224",
-    "codec": "mp3",
-    "bitrate": 0,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "3e2eab95-8b83-4afb-abf3-7b0f23bb37b3"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T02:40:31Z"
   },
   {
     "id": "aws_a8299aa7314385a7e4ee",
@@ -15605,6 +15605,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-14T23:44:54Z"
+  },
+  {
+    "id": "aws_9da98acc97098080a23a",
+    "stationId": "awb_4c21a37eb45b1506b208",
+    "name": "Rádio Eldorado FM",
+    "country": "BR",
+    "url": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "523fdf97-a758-4ffc-88b9-e36614e943fd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-12T08:46:45Z"
   },
   {
     "id": "aws_02067c18d0eb6b773760",
@@ -25267,6 +25286,25 @@
     "lastCheckedAt": "2026-11-12T04:28:17Z"
   },
   {
+    "id": "aws_3e17db83f1da5770e8a1",
+    "stationId": "awb_8c63b17484bbc490888f",
+    "name": "R�dio Luciano Kik�o",
+    "country": "BR",
+    "url": "https://lucianokikao.com.br/radio/kikao.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b72d2d8-53f5-4c88-a14d-8183f2ac75cd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-16T04:12:36Z"
+  },
+  {
     "id": "aws_86a9c5ea39a6b14f9416",
     "stationId": "awb_701d5fd88b252df3d8c3",
     "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
@@ -25477,7 +25515,7 @@
       "3b6242c7-dc73-4a46-ac59-c32d77f24bad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-10T18:03:34Z"
+    "lastCheckedAt": "2026-11-15T18:04:12Z"
   },
   {
     "id": "aws_ef0b72150a51ade577bb",

@@ -247,10 +247,8 @@ https://listen.radioking.com/radio/427889/stream/481505
 http://n05.radiojar.com/fkyxx4q35k0uv
 #EXTINF:-1 station-id="awb_805bf7bb645c15902af4" stream-id="aws_ae7db01d8b1bad17b116" codec="mp3" bitrate="128",Energy Basel (NRJ)
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
-#EXTINF:-1 station-id="awb_3fce4c8f088aecaba4d8" stream-id="aws_61f92fcc0b1bf82b3110" codec="mp3" bitrate="128",Energy Bern
+#EXTINF:-1 station-id="awb_3fce4c8f088aecaba4d8" stream-id="aws_61f92fcc0b1bf82b3110" codec="mp3" bitrate="128",Energy Bern (NRJ)
 https://energybern.ice.infomaniak.ch/energybern-high.mp3
-#EXTINF:-1 station-id="awb_3b909e22138cc1169f13" stream-id="aws_ff5d4a593beec483b16f" codec="mp3" bitrate="128",Energy Bern (NRJ)
-http://broadcast.infomaniak.ch/energybern-high.mp3
 #EXTINF:-1 station-id="awb_1e90290a64481521ec73" stream-id="aws_5ef20ca63f098752a8c1" codec="mp3" bitrate="128",Energy Blick Trendz
 http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1 station-id="awb_f8552a96090d369ec80a" stream-id="aws_4244fcf2bbbe65a0e6bc" codec="mp3" bitrate="128",Energy Zürich (NRJ)
@@ -507,7 +505,7 @@ https://stream.radio1.ch/128k?utm_source=chatgpt.com
 https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_79334e580c484134d862" codec="mp3" bitrate="128",Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
-#EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_a98613cecf8a87380a72" codec="mp3" bitrate="128",Radio 2Go
+#EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_a98613cecf8a87380a72" codec="aac" bitrate="0",Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1 station-id="awb_a5bc860c4ad342462ec8" stream-id="aws_9c9d96a68fc554dc7bcf" codec="mp3" bitrate="0",Radio 32
 https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
@@ -963,6 +961,8 @@ http://stream.srg-ssr.ch/m/drs3/mp3_128
 http://stream.srg-ssr.ch/m/drs4news/mp3_128
 #EXTINF:-1 station-id="awb_08d7890d34d6e46d8b19" stream-id="aws_eb3f4a69cdf167cd167f" codec="mp3" bitrate="128",SRF Musikwelle
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
+#EXTINF:-1 station-id="awb_ec19ea28167134dcc37f" stream-id="aws_f10f51285f834f57b9eb" codec="aac" bitrate="184",SRF Virus
+http://stream.srg-ssr.ch/srgssr/srfvirus/aac/192
 #EXTINF:-1 station-id="awb_2900ac055136b0fa016d" stream-id="aws_b9424bc63260cdcba49e" codec="mp3" bitrate="128",SRF Virus
 http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
 #EXTINF:-1 station-id="awb_d66ec7579f27284418f7" stream-id="aws_ff7000da09cc288e513e" codec="aac" bitrate="96",SRF1 Radio
@@ -997,10 +997,8 @@ http://stream.srg-ssr.ch/srgssr/rsp/aac/96
 http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128
 #EXTINF:-1 station-id="awb_57ff3bc95687f2a89bae" stream-id="aws_cd4c9511b9f4fce6560a" codec="mp3" bitrate="128",SwissGroove
 http://relay2.swissgroove.ch/
-#EXTINF:-1 station-id="awb_6018184c48d7b70e90fc" stream-id="aws_7e05f7c2331c50a3b481" codec="aac" bitrate="128",Symphoniya Wave
+#EXTINF:-1 station-id="awb_6018184c48d7b70e90fc" stream-id="aws_7e05f7c2331c50a3b481" codec="aac" bitrate="128",Symphoniya Wave — Symphoniya.com
 https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
-#EXTINF:-1 station-id="awb_a1ffd7a35c49ab6d8a68" stream-id="aws_02aba33f5bac22935349" codec="mp3" bitrate="128",Symphoniya Wave — Symphoniya.com
-https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3
 #EXTINF:-1 station-id="awb_ef873570891a8cc2369e" stream-id="aws_2e1a91c3e49999a101dd" codec="aac" bitrate="96",TA RADIO
 http://stream.taradio.ch/dab
 #EXTINF:-1 station-id="awb_ef873570891a8cc2369e" stream-id="aws_4bf076450c4a5ec5dc99" codec="aac" bitrate="96",Ta Radio

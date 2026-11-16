@@ -274,6 +274,25 @@
     "lastCheckedAt": "2026-11-11T21:45:07Z"
   },
   {
+    "id": "aws_7cd23418d928b2a54e74",
+    "stationId": "awb_910c621e0dea0c87c654",
+    "name": "Balkan Radio",
+    "country": "BG",
+    "url": "https://home.radionrg.com/listen/balkanradio/radio.mp3",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "09a1090d-0973-4330-b625-b55324080123"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T12:29:42Z"
+  },
+  {
     "id": "aws_c37f250d564998b81b1a",
     "stationId": "awb_910c621e0dea0c87c654",
     "name": "Balkan Radio",
@@ -5080,6 +5099,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-11T23:44:09Z"
+  },
+  {
+    "id": "aws_62b0bc33d25711490d17",
+    "stationId": "awb_80f9995373aa0628ac8a",
+    "name": "Sweet Radio",
+    "country": "BG",
+    "url": "https://stream.sweetradio.online:8001/live",
+    "codec": "aac",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7730c70a-779e-482e-8abc-8f7dbb350a3f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-15T18:45:55Z"
   },
   {
     "id": "aws_6f7d644e291ecca61398",
