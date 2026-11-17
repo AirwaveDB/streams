@@ -43,8 +43,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_
 http://stream.metacast.eu/bgradio128
 #EXTINF:-1 station-id="awb_2db2776867c3a828814e" stream-id="aws_f744dcea9172494e8947" codec="mp3" bitrate="128",BG Radio
 http://stream.radioreklama.bg/bgradio128
-#EXTINF:-1 station-id="awb_1fb11084da65f8abf6e8" stream-id="aws_213bb2389844b0d59c5b" codec="mp3" bitrate="128",BG Voice Hit Mix
-https://stream.radio.co/s53f1b7497/listen
 #EXTINF:-1 station-id="awb_28aaa9e00860c163ec49" stream-id="aws_90de9bb65fca4a64326d" codec="aac" bitrate="41",BNR - Hristo Botev
 https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_77406ad6bac48e01dcc7" stream-id="aws_c7e353618c10df852d8b" codec="aac" bitrate="48",BNR Horizont
@@ -199,6 +197,8 @@ http://77.76.184.254:8000/tx320
 https://live.hothitsfm.com/stream
 #EXTINF:-1 station-id="awb_6b60633701ddc0078106" stream-id="aws_f4c1fef3a61bf688483e" codec="aac" bitrate="140",House Music Radio
 https://home.radionrg.com/hls/housemusic/live.m3u8
+#EXTINF:-1 station-id="awb_340f5a8f586d45fa86d9" stream-id="aws_6de8f9620dfd4cd548e0" codec="mp3" bitrate="128",Interhit
+https://play.123castbg.eu:18425/stream
 #EXTINF:-1 station-id="awb_8c96b81d04a5ca0978b6" stream-id="aws_e93962db9e31d103536a" codec="mp3" bitrate="128",Internacional 1
 https://play-radio0.jump.bg:7598/;
 #EXTINF:-1 station-id="awb_5068560f910d91f14c80" stream-id="aws_1acc5e96b1061fa1f15e" codec="mp3" bitrate="0",Jazz FM
@@ -331,7 +331,7 @@ http://87.252.182.193:8000/;
 https://online.radiobella.com/listen/radio.bella/radio.mp3
 #EXTINF:-1 station-id="awb_ea974d7232889cdf5450" stream-id="aws_eab75b60c5a88d340227" codec="mp3" bitrate="128",RADIO BGRADIO
 https://play.global.audio/bgradio128
-#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="64",Radio Big Boss
+#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="0",Radio Big Boss
 https://141.147.25.113:8000/radio.mp3
 #EXTINF:-1 station-id="awb_777fb42c28765d22a0bf" stream-id="aws_351efd59c7661827ca07" codec="mp3" bitrate="0",Radio Bizonio
 https://a13.asurahosting.com/listen/radio_bizonio_2/radio.mp3

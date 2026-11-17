@@ -55,6 +55,8 @@ http://nettradio.nearadio.no:8000/stream
 https://player.nfradio.fr/listen/nf_radio/radio.mp3
 #EXTINF:-1 station-id="awb_89e4e0b0ca336d52fb18" stream-id="aws_cb9e69e1b72695547caa" codec="mp3" bitrate="192",NKR P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h
+#EXTINF:-1 station-id="awb_11d524ebdf06fd8da359" stream-id="aws_64344af4740909c537ea" codec="mp3" bitrate="192",no name
+http://5866.cloudrad.io:8018/northernstar.mp3
 #EXTINF:-1 station-id="awb_8f1f4c23960485ad14c6" stream-id="aws_5f783ca1b4ecc38464de" codec="mp3" bitrate="320",Norsk Country Radio
 http://s6.voscast.com:10258/
 #EXTINF:-1 station-id="awb_f40768360dd7c8a3bb88" stream-id="aws_6acdace460bc56b23427" codec="mp3" bitrate="128",Norsk Pop
@@ -101,7 +103,7 @@ https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_mp3_h
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h
 #EXTINF:-1 station-id="awb_bf5f4de198185a8ef9c1" stream-id="aws_bee90b9feb0ee741009c" codec="aac+" bitrate="159",NRK P1 Troms (Høy kvalitet AAC)
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h
-#EXTINF:-1 station-id="awb_ed03affca7131828f863" stream-id="aws_f7c1fa2966554fca5723" codec="aac+" bitrate="158",NRK P1 Vestfold
+#EXTINF:-1 station-id="awb_ed03affca7131828f863" stream-id="aws_f7c1fa2966554fca5723" codec="aac+" bitrate="159",NRK P1 Vestfold
 https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12
 #EXTINF:-1 station-id="awb_defe6f9e4d2526bc22c6" stream-id="aws_1440bd717d225b8332d9" codec="aac" bitrate="64",NRK P1+
 https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac
@@ -131,7 +133,7 @@ https://p11.p4groupaudio.com/P11_AH
 https://p11.p4groupaudio.com/P11_MM
 #EXTINF:-1 station-id="awb_c90fa30ba861cc2c4da4" stream-id="aws_c4e4b1351a92e8804726" codec="mp3" bitrate="192",P11 Dance (MP3 192k)
 https://p11.p4groupaudio.com/P11_MH
-#EXTINF:-1 station-id="awb_7dce580a4cbe2651450b" stream-id="aws_2b922c5480a6fb0c12c0" codec="aac" bitrate="191",P12 Hitmix (AAC HQ)
+#EXTINF:-1 station-id="awb_7dce580a4cbe2651450b" stream-id="aws_2b922c5480a6fb0c12c0" codec="aac" bitrate="192",P12 Hitmix (AAC HQ)
 https://nrj.p4groupaudio.com/NRJ_AH
 #EXTINF:-1 station-id="awb_6519a625b0fd2fdc999f" stream-id="aws_7f9c92a43fd47e9d6954" codec="mp3" bitrate="128",P12 Hitmix (MP3 128k)
 https://nrj.p4groupaudio.com/NRJ_MM
@@ -193,16 +195,12 @@ https://stream.radio-l.no/rlihq
 https://stream.radiolatinamerika.no/latam_hq
 #EXTINF:-1 station-id="awb_44391b3474e0f086d78f" stream-id="aws_db99c5121c54925559ce" codec="aac+" bitrate="96",Radio Lyngdal
 http://live.radiolyngdal.com/rly_mq
-#EXTINF:-1 station-id="awb_58ff3451ab469fcc8f43" stream-id="aws_0ca1e7256d68d8d74282" codec="mp3" bitrate="128",Radio Med Oslo
-http://108.59.11.81:10107/stream
 #EXTINF:-1 station-id="awb_536d73d315c94c3ff4a8" stream-id="aws_ea4a11fa59175f93804b" codec="ogg" bitrate="0",Radio Nordkapp
 http://audio.visto.no/radionordkapp.ogg
 #EXTINF:-1 station-id="awb_f6952e27df0588fa0207" stream-id="aws_4ed55aff24ece26ccd10" codec="mp3" bitrate="128",Radio Norge
 https://live-bauerno.sharp-stream.com/radionorge_no_mp3
 #EXTINF:-1 station-id="awb_7444c82d6b5efb67b69d" stream-id="aws_311e48afbde0f7c695a8" codec="mp3" bitrate="128",Radio Norge
 https://live-bauerno.sharp-stream.com/radionorge_no_mp3
-#EXTINF:-1 station-id="awb_11d524ebdf06fd8da359" stream-id="aws_64344af4740909c537ea" codec="mp3" bitrate="192",Radio Northern Star
-http://5866.cloudrad.io:8018/northernstar.mp3
 #EXTINF:-1 station-id="awb_234400b719637413eb35" stream-id="aws_de8c646640c6444b6ce1" codec="mp3" bitrate="256",Radio Nova
 http://stream.radionova.no/mp3
 #EXTINF:-1 station-id="awb_ca948ef5e74719de032b" stream-id="aws_d48d9f634c971e0fb39d" codec="mp3" bitrate="192",Radio Randsfjord
@@ -229,7 +227,7 @@ https://radio.roganett.com/listen/radio_tropoli/radio.mp3
 https://stream.radiovest.no/radiovest
 #EXTINF:-1 station-id="awb_db53776c0e0ebfe7a89b" stream-id="aws_f40be786e72ebec0a478" codec="mp3" bitrate="128",Radio Vinyl Oslo
 http://live-bauerno.sharp-stream.com/vinyl_no_mp3
-#EXTINF:-1 station-id="awb_c2511652848fe7a293e1" stream-id="aws_c9c3b81a4b6dde8f4ad8" codec="aac+" bitrate="63",Radio-Topp 40
+#EXTINF:-1 station-id="awb_c2511652848fe7a293e1" stream-id="aws_c9c3b81a4b6dde8f4ad8" codec="aac+" bitrate="64",Radio-Topp 40
 http://live-bauerno.sharp-stream.com/top40_no_aac
 #EXTINF:-1 station-id="awb_303837fb3d457b158a88" stream-id="aws_f608da3f65a567d9b299" codec="mp3" bitrate="192",Radio102
 https://stream.radio102.no/radio102_hq

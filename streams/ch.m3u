@@ -239,10 +239,10 @@ https://icecast.correctiv.net/sacharow
 https://listen.radioking.com/radio/453296/stream/508976
 #EXTINF:-1 station-id="awb_bf6fbf8bc948a7171c68" stream-id="aws_a7bcc6ea23ff81e19653" codec="mp3" bitrate="0",Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
+#EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_9b1ca0d80c08c2c56006" codec="mp3" bitrate="128",Electrons Libres
+https://listen.radioking.com/radio/427889/stream/481499
 #EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_f365459e4c676b5ec178" codec="aac" bitrate="32",Electrons Libres
 https://listen.radioking.com/radio/427889/stream/481502
-#EXTINF:-1 station-id="awb_f5fb2ee8652b19dd6d5e" stream-id="aws_9b1ca0d80c08c2c56006" codec="mp3" bitrate="192",Electrons Libres
-https://listen.radioking.com/radio/427889/stream/481505
 #EXTINF:-1 station-id="awb_86b65c03f5ca93106e9e" stream-id="aws_ca56d53ec2da1ce6831c" codec="mp3" bitrate="0",electroradio.fm
 http://n05.radiojar.com/fkyxx4q35k0uv
 #EXTINF:-1 station-id="awb_805bf7bb645c15902af4" stream-id="aws_ae7db01d8b1bad17b116" codec="mp3" bitrate="128",Energy Basel (NRJ)
@@ -314,7 +314,7 @@ https://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 station-id="awb_ebf986f0d0a7d9c0e417" stream-id="aws_29c9467ccb63d6d22a30" codec="aac+" bitrate="64",Jazz Black Music
 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac
 #EXTINF:-1 station-id="awb_d48545b696c16bc17970" stream-id="aws_90255842754392aeec00" codec="mp3" bitrate="128",Jazz Radio
-http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
+http://broadcast.infomaniak.ch/jazzlounge-high.mp3
 #EXTINF:-1 station-id="awb_b0cf6247fee6dc043917" stream-id="aws_4d610a0092580360c037" codec="aac+" bitrate="64",Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac
 #EXTINF:-1 station-id="awb_2097134ef54d2b62752f" stream-id="aws_6e78e2bc24deed9fc852" codec="mp3" bitrate="320",Jukebox - Nonstop Music
@@ -349,7 +349,7 @@ https://listen.radioking.com/radio/181657/stream/223420
 http://maxxima.mine.nu/lemixx
 #EXTINF:-1 station-id="awb_d70ee600ce03a7a016b3" stream-id="aws_0b1623ef565e287e6b7f" codec="mp3" bitrate="128",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
-#EXTINF:-1 station-id="awb_d70ee600ce03a7a016b3" stream-id="aws_ab45fca17b84e2e4b210" codec="aac" bitrate="133",LFM
+#EXTINF:-1 station-id="awb_d70ee600ce03a7a016b3" stream-id="aws_ab45fca17b84e2e4b210" codec="aac" bitrate="128",LFM
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac
 #EXTINF:-1 station-id="awb_d70ee600ce03a7a016b3" stream-id="aws_fa3164bf58cffbded595" codec="mp3" bitrate="128",LFM
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
@@ -357,9 +357,9 @@ https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
 http://de1.streamhosting.ch/
 #EXTINF:-1 station-id="awb_cdbf42ca4ee3c90f85a5" stream-id="aws_2e96f6823225b6cedcba" codec="mp3" bitrate="128",lounge-radio.com
 https://fr1.streamhosting.ch/lounge128.mp3
-#EXTINF:-1 station-id="awb_9869f5f8113d89575595" stream-id="aws_f08b958c4736057e3a08" codec="ogg" bitrate="128",LOUNGE-RADIO.COM - swiss made
+#EXTINF:-1 station-id="awb_9869f5f8113d89575595" stream-id="aws_f08b958c4736057e3a08" codec="ogg" bitrate="0",LOUNGE-RADIO.COM - swiss made
 https://player.streamhosting.ch/lounge128.ogg
-#EXTINF:-1 station-id="awb_9869f5f8113d89575595" stream-id="aws_84504d24d97be5a11787" codec="aac" bitrate="64",LOUNGE-RADIO.COM - swiss made
+#EXTINF:-1 station-id="awb_9869f5f8113d89575595" stream-id="aws_84504d24d97be5a11787" codec="aac+" bitrate="64",LOUNGE-RADIO.COM - swiss made
 https://player.streamhosting.ch/lounge64.aac
 #EXTINF:-1 station-id="awb_2de5b8cf852ac8e2595c" stream-id="aws_2e79e9f898bc2fb902aa" codec="mp3" bitrate="192",Loungemain Radio Jazz-Chill-Funk
 http://185.238.128.191:8002/live
@@ -503,7 +503,7 @@ https://stream.radio1.ch/128k
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
 #EXTINF:-1 station-id="awb_21e879ba20d8ab6ba88b" stream-id="aws_ab1b702daa85c6b2cd00" codec="mp3" bitrate="0",Radio 24
 https://stream.streambase.ch/radio24/mp3-192/direct/
-#EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_79334e580c484134d862" codec="mp3" bitrate="128",Radio 2Go
+#EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_79334e580c484134d862" codec="aac" bitrate="0",Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
 #EXTINF:-1 station-id="awb_7500faa97fed6e0408dd" stream-id="aws_a98613cecf8a87380a72" codec="aac" bitrate="0",Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
@@ -636,7 +636,7 @@ https://play.radioking.io/radio-rocher/429886
 #EXTINF:-1 station-id="awb_f36c6c4bdafa55c3bd89" stream-id="aws_e093ff9c38b6ff49b6ff" codec="mp3" bitrate="320",Radio Rocket
 https://i9.streams.ovh/sc/radioroc/stream
 #EXTINF:-1 station-id="awb_bf4bb796b15de797d515" stream-id="aws_26442fe076fb5fa1a50a" codec="mp3" bitrate="128",RADIO ROTATION
-http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-11-12_04-46-19&uuid=d721ac5a-2c6c-df19-d5d6-4a3f1a2eafe7
+http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-11-17_04-47-57&uuid=15b99ee8-f84c-0b5f-f606-b1b040aaaa99
 #EXTINF:-1 station-id="awb_18e0c7121ec53aa19af3" stream-id="aws_29b0743ea712ee67d627" codec="aac" bitrate="96",Radio RTR
 http://stream.srg-ssr.ch/srgssr/rr/aac/96
 #EXTINF:-1 station-id="awb_7bb2cf76dea795fc0470" stream-id="aws_5bda61caf5afac74a6aa" codec="mp3" bitrate="128",Radio Rumantsch
@@ -1059,9 +1059,9 @@ http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 https://stream.truehouse.net:8443/chill
 #EXTINF:-1 station-id="awb_f59069eb0fe3da5e8a54" stream-id="aws_25473f6fc0f35579072b" codec="mp3" bitrate="0",True House Radio
 https://stream.truehouse.net:8443/house
-#EXTINF:-1 station-id="awb_f48302f7c558b2250f2d" stream-id="aws_db831ff2527c03fff71b" codec="aac" bitrate="3172",TVM 3 TV
+#EXTINF:-1 station-id="awb_f48302f7c558b2250f2d" stream-id="aws_db831ff2527c03fff71b" codec="aac" bitrate="3227",TVM 3 TV
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 station-id="awb_2458cf5b777df1c0bbad" stream-id="aws_95bfd55f107d8164d217" codec="aac" bitrate="3198",TVM3.TV
+#EXTINF:-1 station-id="awb_2458cf5b777df1c0bbad" stream-id="aws_95bfd55f107d8164d217" codec="aac" bitrate="3192",TVM3.TV
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 station-id="awb_4a111d029785a5c48dec" stream-id="aws_14cb21a3d8a930bea930" codec="mp3" bitrate="192",URBN Radio
 https://dr2101.ice.infomaniak.ch/dr2103.mp3
@@ -1079,8 +1079,6 @@ https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 https://listen.radioking.com/radio/265822/stream/311047
 #EXTINF:-1 station-id="awb_085aec2aed06b0ed2593" stream-id="aws_308ec6c9da2df3641ed5" codec="mp3" bitrate="0",VirginRadio
 https://stream.streambase.ch/vrock/mp3-192/direct/
-#EXTINF:-1 station-id="awb_edfedbf17dde43859185" stream-id="aws_6c2f699ee9e5246ed356" codec="mp3" bitrate="192",Volnadavida Radio
-https://transmiss.ion.ovh/listen/volnadavida/radio.mp3
 #EXTINF:-1 station-id="awb_6b79a31bb1ad975e266b" stream-id="aws_d552f36ab52f99583d67" codec="mp3" bitrate="64",WALTS WELT
 https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237
 #EXTINF:-1 station-id="awb_535657c055ef1bf9fccd" stream-id="aws_6a3ed8128042b83d45db" codec="mp3" bitrate="192",Wildmountain Radio

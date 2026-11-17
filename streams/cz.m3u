@@ -123,8 +123,6 @@ https://rozhlas.stream/wave_mp3_256.mp3
 http://amp.cesnet.cz:8000/cro3-256.ogg
 #EXTINF:-1 station-id="awb_5b0734cde5ef9c258eab" stream-id="aws_62772caa549413c81820" codec="ogg" bitrate="0",Czech Radio ČRo D-dur
 http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:-1 station-id="awb_65c04db341cba8082b34" stream-id="aws_60ccf69ff0d90a4127ce" codec="mp3" bitrate="128",Dance Club FM
-http://mp3stream4.abradio.cz/dance128.mp3
 #EXTINF:-1 station-id="awb_3affa8fe90c239b5b936" stream-id="aws_293cabc196f3c0ec3fab" codec="mp3" bitrate="128",Dance Club Radio
 https://ice4.abradio.cz/dance128.mp3
 #EXTINF:-1 station-id="awb_895e540ec477249263f2" stream-id="aws_43ecb2495d7c65488a1f" codec="mp3" bitrate="128",Dance Radio
@@ -155,8 +153,6 @@ http://icecast5.play.cz:8000/expres128mp3
 http://icecast8.play.cz/expres128mp3
 #EXTINF:-1 station-id="awb_5d2c84111722edbc9d3c" stream-id="aws_660dce7a955186e91546" codec="mp3" bitrate="128",Fajn Fresh
 http://ice.abradio.cz/fajnfresh128.mp3
-#EXTINF:-1 station-id="awb_8d74847f87d0c6ef31e7" stream-id="aws_4e2761f02640074ae3fa" codec="mp3" bitrate="64",Fajn Fresh Radio
-http://mp3stream4.abradio.cz/fajnfresh64.mp3
 #EXTINF:-1 station-id="awb_70cb5a6e7b0136404f46" stream-id="aws_94e5c62d7cbd392273a0" codec="mp3" bitrate="128",Fajn Rádio
 http://ice.abradio.cz/fajn128.mp3
 #EXTINF:-1 station-id="awb_0f3767804a0136e15090" stream-id="aws_15175c0c26933d1fb0b9" codec="mp3" bitrate="0",Fajn rock music
@@ -208,7 +204,7 @@ http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:-1 station-id="awb_6ce582784bce5f05912d" stream-id="aws_68399b1c00935f3447dc" codec="mp3" bitrate="128",Hitrádio Černá Hora 128
 http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1 station-id="awb_c97c110f711a74b34ae6" stream-id="aws_8b569f99a13c26b7c113" codec="aac+" bitrate="128",Hitrádio City 93.7 FM
-http://25503.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
+http://29083.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
 #EXTINF:-1 station-id="awb_9c649a8726ba4c18bd6e" stream-id="aws_f04d5be201481cdf8dbc" codec="mp3" bitrate="128",Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
 #EXTINF:-1 station-id="awb_1691b64504cd1754c4fa" stream-id="aws_71e209579d23dc0c0346" codec="mp3" bitrate="128",hitradio City zona Lasky
@@ -263,7 +259,7 @@ http://fr.radio-streamhosting.com:8000/metalheartradio64aac
 https://cz.radio-streamhosting.com:8443/metalheartradio128mp3
 #EXTINF:-1 station-id="awb_a312d76fdf63d0156326" stream-id="aws_88b4b4ff4d57fc2be0ea" codec="mp3" bitrate="128",Metalománie
 http://ice.abradio.cz/metalomanie128.mp3
-#EXTINF:-1 station-id="awb_54b3cd8691c0d6de1cec" stream-id="aws_21d890fd7944581e5888" codec="aac,h.264" bitrate="3474",Mňau TV
+#EXTINF:-1 station-id="awb_54b3cd8691c0d6de1cec" stream-id="aws_21d890fd7944581e5888" codec="aac,h.264" bitrate="3340",Mňau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 station-id="awb_b015a03e07989e7b0e19" stream-id="aws_c1f19d9884af533e3702" codec="unknown" bitrate="0",MUSIC BOX CLASSIC
 https://dash2.antik.sk/live/mb_classic/index.m3u8
@@ -317,8 +313,6 @@ https://stream.rcs.revma.com/stk8hrvb938uv
 http://icecast8.play.cz/radio7-128.mp3
 #EXTINF:-1 station-id="awb_79748eba492ed13066c5" stream-id="aws_cc21e229667ae4945407" codec="mp3" bitrate="32",Rádio 7 32kb
 http://icecast1.play.cz:8000/radio7cz32.mp3
-#EXTINF:-1 station-id="awb_f8db26bdfb019b846e43" stream-id="aws_c8151683efe377cbfda6" codec="mp3" bitrate="0",Rádio Applaus
-http://mp3stream3.abradio.cz/applaus128.mp3
 #EXTINF:-1 station-id="awb_f355679a90eb4b7fc45a" stream-id="aws_2bdccd2beef96da15f11" codec="mp3" bitrate="0",RADIO BEAT
 http://icecast1.play.cz/beat64.mp3
 #EXTINF:-1 station-id="awb_7fdf9e63f50d7617eef8" stream-id="aws_1bbb6e52ef490b5ad433" codec="aac" bitrate="0",Rádio Beat (128 AAC)
@@ -471,7 +465,7 @@ https://s2.radioparty.pl:8015/stream
 http://icecast1.play.cz/proglas32aac
 #EXTINF:-1 station-id="awb_d8125d56720258e5911e" stream-id="aws_0bae9cc668167758be3a" codec="mp3" bitrate="128",RELAX Radio Kladno - 92,3 FM
 http://icecast7.play.cz/relax128.mp3
-#EXTINF:-1 station-id="awb_95f046b4fe21baac121d" stream-id="aws_1282e03a85725ed73fae" codec="aac" bitrate="3104",Retro Music Television
+#EXTINF:-1 station-id="awb_95f046b4fe21baac121d" stream-id="aws_1282e03a85725ed73fae" codec="aac" bitrate="3275",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 station-id="awb_5392fb75ab4e12c82757" stream-id="aws_2424fd0d64939f518c51" codec="unknown" bitrate="0",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
