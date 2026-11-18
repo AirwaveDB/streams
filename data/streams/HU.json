@@ -2038,7 +2038,7 @@
       "dd52ea47-bf1a-40f2-affc-4caa5a5b2f8d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T02:40:24Z"
+    "lastCheckedAt": "2026-11-18T02:41:45Z"
   },
   {
     "id": "aws_a3a2748fa21fd0a04a64",
@@ -2076,7 +2076,7 @@
       "5bf2281a-878c-47ae-8db4-da119921152e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T16:08:49Z"
+    "lastCheckedAt": "2026-11-17T16:08:54Z"
   },
   {
     "id": "aws_42a27265958f441d16e8",
@@ -5490,6 +5490,101 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T08:06:55Z"
+  },
+  {
+    "id": "aws_5edb37ce8978d17c0fa4",
+    "stationId": "awb_99239d916629a20f5e35",
+    "name": "RadioOne - Arabesk",
+    "country": "HU",
+    "url": "https://stream.radioone.hu/ch3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a811d8b4-6aec-457d-875a-308050395948"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T00:03:01Z"
+  },
+  {
+    "id": "aws_f0b5085c6c8bb6fa28ab",
+    "stationId": "awb_5bba0fc2333fada7a811",
+    "name": "RadioOne - Chillout",
+    "country": "HU",
+    "url": "https://stream.radioone.hu/ch4",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5d67827f-2ad7-4181-ae0a-7ac4ff663f44"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T00:03:01Z"
+  },
+  {
+    "id": "aws_2e4771edab1dfcbdfa04",
+    "stationId": "awb_fd0a0c166045a7bffb27",
+    "name": "RadioOne - Italo Disco",
+    "country": "HU",
+    "url": "https://stream.radioone.hu/ch2",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ff9e67aa-ccc1-4397-9204-3ab86c4a38d1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T00:03:01Z"
+  },
+  {
+    "id": "aws_30e0cf64493ce30e03db",
+    "stationId": "awb_412fc38babe0d7e25b1e",
+    "name": "RadioOne - Lo-Fi Nyelvtanuló",
+    "country": "HU",
+    "url": "https://stream.radioone.hu/ch5",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bad032e0-025b-4ac5-93ec-af5529383f4f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T00:03:02Z"
+  },
+  {
+    "id": "aws_7d085b922e88d6eb134d",
+    "stationId": "awb_3c90b319ead7a681e1b8",
+    "name": "RadioOne - Trance",
+    "country": "HU",
+    "url": "https://stream.radioone.hu/ch1",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9d6f3c6e-75e9-4c16-b4e5-5b98eb4a4efc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T00:03:00Z"
   },
   {
     "id": "aws_2438d56a90be6fc8d8e8",

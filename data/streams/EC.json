@@ -577,6 +577,25 @@
     "lastCheckedAt": "2026-11-17T09:55:23Z"
   },
   {
+    "id": "aws_e6d7d1ebfbc203a67c75",
+    "stationId": "awb_4c006779f8d7ba1d8d19",
+    "name": "Joya Stereo 97.3 FM",
+    "country": "EC",
+    "url": "https://ddycmnicl95kp.cloudfront.net/live/7aqfyti3qfib/master.m3u8",
+    "codec": "aac",
+    "bitrate": 326,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ba5ff0b5-5c1b-4c59-88fe-fb213d811e9e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T01:18:53Z"
+  },
+  {
     "id": "aws_b2ef4d3ca22ef05cd18c",
     "stationId": "awb_2b49257b175648da8d7e",
     "name": "Jumbo Deep Radio",
@@ -916,6 +935,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T01:06:27Z"
+  },
+  {
+    "id": "aws_551668b4095bbd3b5f1f",
+    "stationId": "awb_d30a7256f3d6fbbae340",
+    "name": "Majestad FM 89.7 Quito",
+    "country": "EC",
+    "url": "https://revo3.discovr.now/majestadfm.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "223eb675-8d1c-4518-a049-562a3dc3cc80"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T01:16:17Z"
   },
   {
     "id": "aws_f0159a1d899261828e71",
@@ -1792,6 +1830,25 @@
     "lastCheckedAt": "2026-11-13T20:20:30Z"
   },
   {
+    "id": "aws_53a9ef1ce7d99286e26d",
+    "stationId": "awb_d40e6c23c1af7b90d39c",
+    "name": "Radio Centro Quito 97.7 FM",
+    "country": "EC",
+    "url": "https://sp.dattavolt.com:7037/stream",
+    "codec": "aac+",
+    "bitrate": 36,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "af60c35f-91f1-4ad1-98cf-3aa7cc136ae7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T01:03:27Z"
+  },
+  {
     "id": "aws_2f551ac9aadcb19515df",
     "stationId": "awb_7920274a35b6f920b11e",
     "name": "Radio Complice Fm.",
@@ -1846,7 +1903,7 @@
       "60a41d84-f352-4a83-9b97-9810f2415e99"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T02:40:26Z"
+    "lastCheckedAt": "2026-11-18T02:41:42Z"
   },
   {
     "id": "aws_39ada7fd8bad2e7284c0",
@@ -2038,7 +2095,7 @@
     "country": "EC",
     "url": "https://ddycmnicl95kp.cloudfront.net/live/5atd83cxm3is/master.m3u8",
     "codec": "aac",
-    "bitrate": 321,
+    "bitrate": 322,
     "protocol": "https",
     "hls": true,
     "sources": [
@@ -2048,7 +2105,7 @@
       "c123bef5-256a-427f-a942-570ae9836f68"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T04:25:07Z"
+    "lastCheckedAt": "2026-11-18T04:25:52Z"
   },
   {
     "id": "aws_4514c5328dcfd92df9d0",
@@ -2128,7 +2185,7 @@
       "bb676376-3e06-426e-86f0-960a33a7adf7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T03:06:34Z"
+    "lastCheckedAt": "2026-11-18T03:07:12Z"
   },
   {
     "id": "aws_f472a023dbc7768aea54",
@@ -2301,7 +2358,7 @@
       "25ef4e72-ffee-48be-b4c8-225d73d90d37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-12T14:42:08Z"
+    "lastCheckedAt": "2026-11-17T14:42:46Z"
   },
   {
     "id": "aws_87f4de1f2b25bcc9e920",
@@ -2542,6 +2599,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T10:08:15Z"
+  },
+  {
+    "id": "aws_6583baf5563b013090f1",
+    "stationId": "awb_8614222d54d46717eeb3",
+    "name": "Radio Sucesos 101.7 FM",
+    "country": "EC",
+    "url": "https://icecast.radiosucesos.fm/radiosucesos",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f4806857-965f-45d4-b247-7c9833d37e76"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T01:09:41Z"
   },
   {
     "id": "aws_f15dc238328b7260c0cf",

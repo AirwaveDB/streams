@@ -1797,6 +1797,10 @@ https://stream3.xdevel.com/audio1s975454-173/stream/icecast.audio
 http://onair18.xdevel.com:8142/
 #EXTINF:-1 station-id="awb_1be8177a674dcf7532f8" stream-id="aws_4e58731c0a98e48591df" codec="mp3" bitrate="0",Radio Marte
 https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:-1 station-id="awb_911a4d99c8760064d5cb" stream-id="aws_f7a1d525b6e1c8522763" codec="mp3" bitrate="192",Radio Master 89.6
+https://nr12.newradio.it:8702/stream
+#EXTINF:-1 station-id="awb_e313e5621065cb1500c5" stream-id="aws_bb69e5433bdd2e15ce9b" codec="mp3" bitrate="320",Radio Master 89.6 digital
+http://198.27.127.246:7394/;
 #EXTINF:-1 station-id="awb_ccae2c3f769a3faaae64" stream-id="aws_a67fec837f0f09fb5c47" codec="mp3" bitrate="32",Radio Mater
 https://s2.shoutitaly.com/listen/radiomater/radio.mp3
 #EXTINF:-1 station-id="awb_c37b1e9ed7c2ae65c82d" stream-id="aws_1d5bbe050690cf8325c5" codec="mp3" bitrate="128",Radio Max Partenope
@@ -2355,6 +2359,8 @@ http://nr5.newradio.it:8520/
 http://nr6.newradio.it:9213/;
 #EXTINF:-1 station-id="awb_2491a329f84970bbc65f" stream-id="aws_584d4146bd395ea0ff2c" codec="mp3" bitrate="128",Radio Studio Verona
 https://nr6.newradio.it/proxy/rgelmett?mp=/stream
+#EXTINF:-1 station-id="awb_e77a7d5985a88a9a5b4a" stream-id="aws_fa5b93a2c2ed22d6e438" codec="mp3" bitrate="128",Radio Studio Web Torino
+https://sp1.server89.com:7059/stream
 #EXTINF:-1 station-id="awb_8dcf69496fbc5239e3d2" stream-id="aws_84f9f260e171c79a8884" codec="mp3" bitrate="192",Radio Studio X 2
 http://45.32.238.139:8000/stream?1584656430512
 #EXTINF:-1 station-id="awb_cac2c0f4d36d38829096" stream-id="aws_9daaacd8d7f16eb84e23" codec="mp3" bitrate="128",Radio Subasio
@@ -2417,12 +2423,16 @@ https://stream-204.surfernetwork.com/ytxxawhz67zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 http://sr3.inmystream.info:8018/;stream.mp3
 #EXTINF:-1 station-id="awb_a986ef639dbea653992b" stream-id="aws_880db9e84bcf4f6c7021" codec="mp3" bitrate="256",Radio Treviso
 http://s3.mediastreaming.it:7240/;
+#EXTINF:-1 station-id="awb_d1bf3bf788664f88176a" stream-id="aws_4ca8c40de9c0788be3f8" codec="unknown" bitrate="0",Radio Trst A
+https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/friuliaudio1/hls/friuliaudio_320/chunklist.m3u8
 #EXTINF:-1 station-id="awb_4e1d84a24891e7ec25ad" stream-id="aws_3170ac425aeb851f1558" codec="mp3" bitrate="128",Radio Tua
 http://5.135.39.189:8006/stream
 #EXTINF:-1 station-id="awb_aad473af6ea7a2928fe9" stream-id="aws_193600003422dcc953a6" codec="aac+" bitrate="128",Radio Ufita
 http://onair15.xdevel.com:8516/;stream.aac
 #EXTINF:-1 station-id="awb_0248c79a27f9da1324d4" stream-id="aws_1be0b0423dd27109ce73" codec="aac+" bitrate="128",Radio Underground Italia
 https://nr14.newradio.it:8707/stream
+#EXTINF:-1 station-id="awb_d07d264f33c0affe63ac" stream-id="aws_e52bfad2392b2687fb2f" codec="mp3" bitrate="192",Radio universal International
+https://radio.rsi-tv.eu/listen/radio_universal_international/radio.mp3
 #EXTINF:-1 station-id="awb_e89892e70c66d0e33dc3" stream-id="aws_02b137d86e0c2d605014" codec="mp3" bitrate="256",Radio Utopia Firenze
 https://nr12.newradio.it:8624/stream?ext=.mp3
 #EXTINF:-1 station-id="awb_27095c87cdf747112431" stream-id="aws_a7594a2109664d68801d" codec="mp3" bitrate="128",Radio Vacanze
@@ -2687,7 +2697,7 @@ https://rdrtv.radioca.st/stream
 https://stream.rcs.revma.com/x3ab37sgn7uvv
 #EXTINF:-1 station-id="awb_b043a8a8ae07d5da2a36" stream-id="aws_d363a015e41d9709abef" codec="unknown" bitrate="0",RDS
 https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
-#EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="129",RDS - Radio Dimensione Suono
+#EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="130",RDS - Radio Dimensione Suono
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_a56d5a00a21c4e7ed2b4" stream-id="aws_b883d5353fcca60d2e8f" codec="unknown" bitrate="0",RDS 100% Grandi Successi
 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8

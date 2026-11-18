@@ -38,6 +38,25 @@
     "lastCheckedAt": "2026-11-17T08:30:06Z"
   },
   {
+    "id": "aws_53916c95ed3555a2bfa3",
+    "stationId": "awb_2c7851cb096c8140598c",
+    "name": "Brand FM Radio",
+    "country": "TZ",
+    "url": "https://eu8.fastcast4u.com/proxy/brandfmradio/stream",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bd52e87e-611d-4dc6-a35f-b490b388e130"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T08:30:26Z"
+  },
+  {
     "id": "aws_593a96856a1ff9ce75f0",
     "stationId": "awb_3f166a2ee91ec2353c9d",
     "name": "Capital Radio",
@@ -213,6 +232,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T01:44:03Z"
+  },
+  {
+    "id": "aws_1ecb59c4f8e9aeaae526",
+    "stationId": "awb_a6e84453184ab54f6f26",
+    "name": "KiZaZi Radio",
+    "country": "TZ",
+    "url": "https://a4.asurahosting.com:8430/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0fb005dc-3a1e-4e74-adba-613e780d6018"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-17T11:06:05Z"
   },
   {
     "id": "aws_769dc6869f7619807409",
