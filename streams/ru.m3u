@@ -2917,6 +2917,8 @@ http://158.69.227.214:8143/;?1690716440786
 https://seva.ru/radio/stream
 #EXTINF:-1 station-id="awb_bf91879c0ab9956de736" stream-id="aws_881dec39722dabe3e4fe" codec="mp3" bitrate="128",Sevastopol FM
 http://air6.amgradio.ru/SFM
+#EXTINF:-1 station-id="awb_9806a89521360d344fc0" stream-id="aws_22a02ab4e1e0d4f52d2b" codec="unknown" bitrate="996",Shanson TV / Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_f63920bc843bf67fdd12" stream-id="aws_0791f09bff313d5fdd19" codec="mp3" bitrate="320",shanson vintage
 http://217.168.245.147:8000/shansonvintage-320.mp3
 #EXTINF:-1 station-id="awb_6246c1ecef4db81c1e8d" stream-id="aws_e19a443cfa8dd570547c" codec="mp3" bitrate="320",Shoot`em Up Radio Station
@@ -3063,8 +3065,6 @@ https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 http://player.vfmradio.ru/stream.ogg
 #EXTINF:-1 station-id="awb_7af44c2235ff51a0fb4e" stream-id="aws_655140f5a26b1c7c5a30" codec="mp3" bitrate="320",VIBE
 https://live.lofiradio.ru/vibe_mp3_320
-#EXTINF:-1 station-id="awb_292fe4149809b6b3a110" stream-id="aws_327008924f14814c2146" codec="ogg" bitrate="1536",Vinyl drinks 33/13
-http://radio.obakiri.ru:8000/vinyl-33-13-drinks
 #EXTINF:-1 station-id="awb_3452be3e43bec183b45c" stream-id="aws_3e31b2f60ee370e4a453" codec="aac+" bitrate="320",Violin - Radio Caprice
 http://213.141.131.10:8004/violin
 #EXTINF:-1 station-id="awb_2e9df5dad2c9d15fdd1d" stream-id="aws_e251f2fba8bbad62f740" codec="mp3" bitrate="128",VIPRA
@@ -3151,6 +3151,8 @@ https://radio.azbyka.ru/znamennye-pesnopenija
 https://stream03.pcradio.app/Alla_Pugacheva-hi
 #EXTINF:-1 station-id="awb_48941251d628b055d4ad" stream-id="aws_6f04877e267c05713c4b" codec="mp3" bitrate="0",Алмазный край
 https://stream.almaz-media.tv/radio
+#EXTINF:-1 station-id="awb_cfe94ace96d7700bd4f0" stream-id="aws_d66b2534938cde21b5f3" codec="mp3" bitrate="128",Алтай ФМ Предгорье
+https://fmstream.ru/altay-fm-predgorie
 #EXTINF:-1 station-id="awb_84999ebfa9af1857fefa" stream-id="aws_b1db3b9ea3ba20e2f117" codec="aac" bitrate="0",Андрей Губин
 https://stream03.pcradio.app/andrey_gubin-hi
 #EXTINF:-1 station-id="awb_87a4d027991b95e82937" stream-id="aws_19f13b22e214efd14d8f" codec="aac" bitrate="0",Андрей Князев (КняZz)
@@ -4631,6 +4633,8 @@ https://emgregion.hostingradio.ru:8064/nnovgorod.retrofm.mp3
 http://online-2.gkvr.ru:8000/retro_rnd_64.aac
 #EXTINF:-1 station-id="awb_970401a31b5e3a2bb010" stream-id="aws_d3fae367b355a65fb646" codec="mp3" bitrate="192",Ретро ФМ Самара 98.6 FM
 http://emgregion.hostingradio.ru:8064/samara.retrofm.mp3
+#EXTINF:-1 station-id="awb_3e9fbdb69410925560f4" stream-id="aws_c9429495840a3f6f4b08" codec="mp3" bitrate="0",Ретро ФМ Сочи 107.9 FM
+http://emgregion.hostingradio.ru:8064/sochi.retrofm.mp3
 #EXTINF:-1 station-id="awb_fb023ef69240d5996afe" stream-id="aws_0a140ca881ba9a81d45d" codec="mp3" bitrate="128",Ретро ФМ Тула 100.5 FM
 http://87.244.47.90:8000/RetroFMTula
 #EXTINF:-1 station-id="awb_1349f047a3304c71e059" stream-id="aws_6d095e33c5e1ed2b4e3f" codec="mp3" bitrate="0",Ретро ФМ Ярославль 102.2 FM

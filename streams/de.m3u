@@ -1359,7 +1359,7 @@ https://ip45.ip-164-132-158.eu/radio/8020/radio.mp3
 https://afda-radio.rockrecords.net:8000/radio.mp3
 #EXTINF:-1 station-id="awb_380ee53b06ebfd14744e" stream-id="aws_5b8da6d2702ea140658d" codec="aac,h.264" bitrate="3203",a.tv Augsburg
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 station-id="awb_651c3c2c5f29074c5bbd" stream-id="aws_2e734f9c0e357dc41f61" codec="aac" bitrate="64",AAC Stream 64kbits
+#EXTINF:-1 station-id="awb_651c3c2c5f29074c5bbd" stream-id="aws_2e734f9c0e357dc41f61" codec="aac" bitrate="0",AAC Stream 64kbits
 https://stream.solid-software.net/stream-low
 #EXTINF:-1 station-id="awb_a751b7b518cc9e955028" stream-id="aws_8234e199ee55b4b85cb4" codec="aac" bitrate="0",Absolut 80er
 https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/aacp?maxvbr=3
@@ -5061,6 +5061,8 @@ https://juka-radio.stream.laut.fm/juka-radio?t302=2021-04-01_09-08-21&uuid=ecbca
 http://stream.laut.fm/jukeboxoldies
 #EXTINF:-1 station-id="awb_1535c13124ba05f57397" stream-id="aws_cc3dd664b96004240da7" codec="mp3" bitrate="128",Jump-Sun-Radio
 https://stream.jump-sun-radio.com:8000/radio.mp3
+#EXTINF:-1 station-id="awb_c8d6ad876b50dbcfc293" stream-id="aws_b0470526661f75c3c915" codec="mp3" bitrate="128",Jumpstyle Sound Radio
+https://stream.laut.fm/jumpstyle-sound-radio
 #EXTINF:-1 station-id="awb_fba2759ccf8c03733996" stream-id="aws_c90e57f6995919f28c11" codec="mp3" bitrate="128",Just 80 Maximal
 https://stream.laut.fm/just80s_maximal
 #EXTINF:-1 station-id="awb_4396a82e87d37b526880" stream-id="aws_22c6083c2e490ad47cc7" codec="mp3" bitrate="128",Just 90s
@@ -6195,6 +6197,8 @@ http://listen.radiocorax.de/corax_64.mp3
 https://stream.laut.fm/mtc-fm
 #EXTINF:-1 station-id="awb_3d7f512addd4d3ce7717" stream-id="aws_5a9261a5f7a632f4075c" codec="mp3" bitrate="128",Müggelseewelle
 https://listen.radioking.com/radio/821596/stream/890601
+#EXTINF:-1 station-id="awb_d31d91c40fe2c056f94a" stream-id="aws_610fc6a39b7ef46abcc7" codec="mp3" bitrate="192",MuhKi FM
+https://radio.muhki-fm.de/listen/muhki_fm/radio.mp3
 #EXTINF:-1 station-id="awb_c2292459eacc68da165c" stream-id="aws_eecc7a88a58c67e0af18" codec="aac,h.264" bitrate="3197",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 station-id="awb_03f254608c909002dcb0" stream-id="aws_dd4cef9c4e9a25ea5f86" codec="mp3" bitrate="256",Münchner Kirchenradio (MKR)
@@ -6783,6 +6787,8 @@ http://stream.laut.fm/poploungecafe
 https://stream.laut.fm/poploungecafe
 #EXTINF:-1 station-id="awb_8923c6edc65ddc2a264b" stream-id="aws_bb57c632c966065a219e" codec="mp3" bitrate="128",popadelica
 http://stream.laut.fm/popadelica
+#EXTINF:-1 station-id="awb_e874c3ac1785535b9f10" stream-id="aws_3ee4c6a73004f4a513e1" codec="mp3" bitrate="128",Popschlager
+https://stream.laut.fm/popschlager
 #EXTINF:-1 station-id="awb_87c5f869f1eeee729eba" stream-id="aws_082bffd1a518e69416eb" codec="mp3" bitrate="192",Post-Rock Nation Radio
 https://radio.postrocknation.com/listen/radio/radio.mp3
 #EXTINF:-1 station-id="awb_9831460c1af259d840c7" stream-id="aws_f7f7348617620ab50441" codec="mp3" bitrate="128",postpunk
@@ -6816,7 +6822,7 @@ https://stream.laut.fm/progressive-trance-mix
 #EXTINF:-1 station-id="awb_b3b8d6c28e8e2db6106e" stream-id="aws_1a6a408c6f5898fd2981" codec="mp3" bitrate="128",ProgressiveMusic
 http://stream.laut.fm/progressivemusic
 #EXTINF:-1 station-id="awb_4f830d51d8573597b92b" stream-id="aws_05e76cb08ef71a43bc85" codec="mp3" bitrate="128",Progschuppen
-https://progschuppen.stream.laut.fm/progschuppen?t302=2026-11-14_02-44-12&uuid=3a5c2fd4-342b-79b5-7861-bd36cb10039a
+https://progschuppen.stream.laut.fm/progschuppen?uuid=d9f0b664-4bbb-6af4-814c-fe8d328036f1&t302=2026-11-19_02-44-45
 #EXTINF:-1 station-id="awb_a56ec1ca61667b763a49" stream-id="aws_718eb0736e4ef6f1e8f3" codec="mp3" bitrate="0",PSR Love-Songs
 https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6nsp1o2r%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794906926
 #EXTINF:-1 station-id="awb_cd86ecac4b820cf52580" stream-id="aws_a0ad5682719ddc1a6c7e" codec="mp3" bitrate="128",psy
@@ -7766,7 +7772,7 @@ http://www.radiofaaz.com/proxy.php/stream
 #EXTINF:-1 station-id="awb_43c462858e73ee75f597" stream-id="aws_dcc80365db28c40e9f08" codec="aac" bitrate="0",Radio Fantasy Augsburg
 https://frontend.streamonkey.net/fantasy-934
 #EXTINF:-1 station-id="awb_1aad25932b5e6f63057a" stream-id="aws_da0e07b77b53693c6c16" codec="mp3" bitrate="128",Radio Fantasy Classix
-https://edge13.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
+https://edge19.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
 #EXTINF:-1 station-id="awb_5a0a18bdcf50a58b6f83" stream-id="aws_47ffb6c32e4d93a68e65" codec="ogg" bitrate="0",Radio Feierwerk 92,4 MHz
 http://live.feierwerk.de:8000/live.ogg
 #EXTINF:-1 station-id="awb_acaa766db7c44ffe081f" stream-id="aws_fe6cec315e5d5bb41fe6" codec="aac+" bitrate="48",Radio FFN

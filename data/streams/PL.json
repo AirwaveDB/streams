@@ -1435,7 +1435,7 @@
       "60a875f5-1dea-4556-a230-0581c69a40d8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T19:35:20Z"
+    "lastCheckedAt": "2026-11-18T19:38:16Z"
   },
   {
     "id": "aws_ffae6a4d91b364afb0e8",
@@ -1844,7 +1844,7 @@
       "68784a81-e9f9-453b-9f60-7dc9559d83c7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T01:44:26Z"
+    "lastCheckedAt": "2026-11-19T01:46:26Z"
   },
   {
     "id": "aws_770dc592a80cce7911cd",
@@ -2077,6 +2077,25 @@
     "lastCheckedAt": "2026-11-17T11:42:26Z"
   },
   {
+    "id": "aws_c121a53465743fdafc91",
+    "stationId": "awb_8d084b84d91c79886ced",
+    "name": "ESKA Tarnów 98.1 FM",
+    "country": "PL",
+    "url": "http://ic2.smcdn.pl/2160-1.aac",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "43b1b57d-304d-4b8e-bdd7-ed73b66a7602"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T12:30:55Z"
+  },
+  {
     "id": "aws_58bbf788b18b17743c9c",
     "stationId": "awb_58262d3ae459576a1590",
     "name": "Eska zamość 128",
@@ -2112,7 +2131,7 @@
       "e888efea-81a3-4f96-978d-a62f90f1f5d8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T01:44:20Z"
+    "lastCheckedAt": "2026-11-19T01:46:27Z"
   },
   {
     "id": "aws_c85a7d00f83d478d3bea",
@@ -3023,7 +3042,7 @@
       "125f0f3a-4833-4e2d-856a-106fba6cd6cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T21:28:31Z"
+    "lastCheckedAt": "2026-11-18T21:31:38Z"
   },
   {
     "id": "aws_60f684c125316577502e",
@@ -6595,7 +6614,7 @@
       "83f50f8a-26e6-454d-b8e8-27e02183f55c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T20:20:31Z"
+    "lastCheckedAt": "2026-11-18T20:24:13Z"
   },
   {
     "id": "aws_455edc35edaced282669",
@@ -7650,7 +7669,7 @@
       "73d9ec7e-f816-4ccf-9873-a0aed063fa9a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-13T20:20:32Z"
+    "lastCheckedAt": "2026-11-18T20:24:12Z"
   },
   {
     "id": "aws_b19d23b187670dadc248",
@@ -7708,6 +7727,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T01:39:55Z"
+  },
+  {
+    "id": "aws_37a77992f42d6b98f11e",
+    "stationId": "awb_6422b0d1a6ed197f5693",
+    "name": "Radio Kradów z Tarnowa",
+    "country": "PL",
+    "url": "http://stream3.nadaje.com:9118/radiokrakow",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "33568949-e817-45db-94a6-312f0b1a17af"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T13:50:06Z"
   },
   {
     "id": "aws_704100f3d8f81feb0bb3",
@@ -9988,7 +10026,7 @@
       "89495b4e-a7fd-4f49-85db-5448d4c560c9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T09:40:01Z"
+    "lastCheckedAt": "2026-11-19T09:42:49Z"
   },
   {
     "id": "aws_de9f6583aa2830280d9a",
@@ -10102,7 +10140,7 @@
       "c839a643-9bf3-4759-b38b-95c331dbd441"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T01:44:31Z"
+    "lastCheckedAt": "2026-11-19T01:46:32Z"
   },
   {
     "id": "aws_54e4b613fba98c7da28e",
@@ -11458,7 +11496,7 @@
       "36895bf8-5a24-4557-a958-ae0f67ebc4e3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T09:28:47Z"
+    "lastCheckedAt": "2026-11-19T09:31:39Z"
   },
   {
     "id": "aws_17aa9a49866703157acb",
@@ -12214,6 +12252,25 @@
     "lastCheckedAt": "2026-11-16T22:02:41Z"
   },
   {
+    "id": "aws_bc8ff631993ae1a867f8",
+    "stationId": "awb_bddafbcce6a368963ad6",
+    "name": "Radio Złote Przboje Tarnów",
+    "country": "PL",
+    "url": "https://radiostream.pl/tuba8932-1.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "34927413-33d7-4f0f-afcd-192629be18e8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T23:53:59Z"
+  },
+  {
     "id": "aws_30483139571f15136925",
     "stationId": "awb_d45c4c9e15eedd5573ef",
     "name": "radio złote przeboje",
@@ -12927,6 +12984,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T02:43:58Z"
+  },
+  {
+    "id": "aws_ac1e144eadc7a2ba40b9",
+    "stationId": "awb_1a4a38db74c1e8452435",
+    "name": "RDN Małopolska Tarnów",
+    "country": "PL",
+    "url": "http://stream1.dabcom.pl:8000/rdnmpl_hq.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "29249158-d91e-434a-bd78-a7db4eed6d15"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-18T12:55:36Z"
   },
   {
     "id": "aws_d66ab320e4cbcd0b9d7f",
