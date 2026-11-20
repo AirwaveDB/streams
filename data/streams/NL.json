@@ -2648,7 +2648,7 @@
       "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T23:43:33Z"
+    "lastCheckedAt": "2026-11-19T23:45:27Z"
   },
   {
     "id": "aws_96b4f6d5bc88a1a93731",
@@ -3853,7 +3853,7 @@
       "efda155e-a306-4ba6-831b-6356059950e4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T23:43:28Z"
+    "lastCheckedAt": "2026-11-19T23:45:30Z"
   },
   {
     "id": "aws_89ba271fe8c98b6be602",
@@ -3872,7 +3872,7 @@
       "5f872740-75a2-496a-8030-a1f7bfad180c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T08:45:34Z"
+    "lastCheckedAt": "2026-11-20T08:46:25Z"
   },
   {
     "id": "aws_a793b316b24208a04a97",
@@ -4102,7 +4102,7 @@
       "216f499d-50ef-4c50-a986-1fdf04977736"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T23:43:28Z"
+    "lastCheckedAt": "2026-11-19T23:45:32Z"
   },
   {
     "id": "aws_6e754c17df1bdedda57c",
@@ -4904,7 +4904,7 @@
       "ed940dc7-9b3a-413c-9171-9bbdab04536a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T17:06:18Z"
+    "lastCheckedAt": "2026-11-19T17:09:20Z"
   },
   {
     "id": "aws_1b808e59f0e755375a05",
@@ -8421,7 +8421,7 @@
       "9793e740-8c38-4bcb-998d-5baf96edced3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T21:26:06Z"
+    "lastCheckedAt": "2026-11-19T21:28:05Z"
   },
   {
     "id": "aws_e24a4dcd2c8b68a529b7",
@@ -9343,7 +9343,7 @@
       "e02acb43-e955-479e-9f4a-37bc48701ea7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T19:41:30Z"
+    "lastCheckedAt": "2026-11-19T19:44:15Z"
   },
   {
     "id": "aws_e2459555a9549b1b85d7",
@@ -10379,6 +10379,25 @@
     "lastCheckedAt": "2026-11-17T05:31:20Z"
   },
   {
+    "id": "aws_efc92919852c5045cffd",
+    "stationId": "awb_57b5d36629034749e5c7",
+    "name": "Music Pro 4u Radio",
+    "country": "NL",
+    "url": "https://stream-10.pmteurope.com:8048/stream",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f4b1c042-90b7-42aa-8f05-9b1f9da98d6b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T08:25:13Z"
+  },
+  {
     "id": "aws_450e08b8031d81e6b2c1",
     "stationId": "awb_0bd1bf98ce92e4183a56",
     "name": "Nashville FM",
@@ -10568,7 +10587,7 @@
       "8a3496d2-aeee-424e-bc02-7e39992ee493"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T19:41:33Z"
+    "lastCheckedAt": "2026-11-19T19:44:18Z"
   },
   {
     "id": "aws_c57ad8d0d624004e2785",
@@ -15765,7 +15784,7 @@
       "a8c6ab94-bfea-462d-91a5-a06bb4db6cfe"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T00:58:47Z"
+    "lastCheckedAt": "2026-11-20T00:59:44Z"
   },
   {
     "id": "aws_386cf3fab75b25d87555",
@@ -18381,7 +18400,7 @@
       "acf040ca-135f-42b6-afc9-cc6298d8226a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T17:06:22Z"
+    "lastCheckedAt": "2026-11-19T17:09:25Z"
   },
   {
     "id": "aws_b4c3cf1cc5d731c7fc9b",
@@ -18594,7 +18613,7 @@
       "767e6fd1-b42d-4e47-982e-4a010e757868"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T00:58:45Z"
+    "lastCheckedAt": "2026-11-20T00:59:52Z"
   },
   {
     "id": "aws_e077224d7bb49c849b7b",
@@ -19074,6 +19093,25 @@
     "lastCheckedAt": "2026-11-17T07:40:55Z"
   },
   {
+    "id": "aws_1ed8247a1f227fb4a497",
+    "stationId": "awb_cffa2e9f67ab8dc139c0",
+    "name": "Roslo radio",
+    "country": "NL",
+    "url": "https://mediacp.audiostreamen.nl:2000/stream/8236",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "473e22cd-4dcd-4c9c-93cc-9899ced516a4"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-19T20:26:07Z"
+  },
+  {
     "id": "aws_be24098ee861bfe3c453",
     "stationId": "awb_0b1b517e1cf8634e52cb",
     "name": "Roulette FM",
@@ -19281,6 +19319,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T07:16:33Z"
+  },
+  {
+    "id": "aws_f16aad17b4085d6a87b9",
+    "stationId": "awb_989f18083954369d2f50",
+    "name": "RTV Katwijk",
+    "country": "NL",
+    "url": "https://stream.rtvkatwijk.nl:8000/;",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "882f1885-4bd2-4074-bfb7-13fb1f479211"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-19T15:30:03Z"
   },
   {
     "id": "aws_7b85e9c0cd60201872cc",
@@ -21434,7 +21491,7 @@
     "country": "NL",
     "url": "http://live.thefinest.amsterdam:8000/mp3",
     "codec": "mp3",
-    "bitrate": 320,
+    "bitrate": 0,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -21444,7 +21501,7 @@
       "71c53fde-3d85-4d43-be01-de21725c75b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T08:45:19Z"
+    "lastCheckedAt": "2026-11-20T08:45:51Z"
   },
   {
     "id": "aws_562fe2330f01604876e6",
@@ -21463,7 +21520,7 @@
       "289089e8-b461-4baf-8fd4-17d8d7d19146"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T08:45:28Z"
+    "lastCheckedAt": "2026-11-20T08:45:52Z"
   },
   {
     "id": "aws_ea80e6888996980bc563",
@@ -21472,7 +21529,7 @@
     "country": "NL",
     "url": "https://beatstreet.thefinest.amsterdam/listen",
     "codec": "mp3",
-    "bitrate": 320,
+    "bitrate": 0,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -21482,7 +21539,7 @@
       "4a1ba2fd-e336-44f7-b024-1a9b58525b8d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T11:18:44Z"
+    "lastCheckedAt": "2026-11-20T11:19:26Z"
   },
   {
     "id": "aws_87767d26d46d64130155",
@@ -21520,7 +21577,7 @@
       "a472120e-740c-4d81-88c2-5576da8b6597"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T11:04:10Z"
+    "lastCheckedAt": "2026-11-20T11:06:12Z"
   },
   {
     "id": "aws_ad247c90c5931acfc316",
@@ -22151,7 +22208,7 @@
       "6e068ca8-192f-414e-86b1-ac37536de512"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-14T17:06:16Z"
+    "lastCheckedAt": "2026-11-19T17:09:18Z"
   },
   {
     "id": "aws_0a4d7d1a1e29226f5d21",
