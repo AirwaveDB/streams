@@ -65,7 +65,7 @@ https://corus.leanstream.co/CISNFM?args=web_01&startTime=1692203406
 http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false
 #EXTINF:-1 station-id="awb_2d033a8e417269d3985e" stream-id="aws_bb7370e11997801964b1" codec="aac+" bitrate="48",106.1 CHEZ
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_9d05ebf98d123a790600" stream-id="aws_c8855aef2b9e12051d86" codec="aac+" bitrate="128",107.3 The Edge - Calgary's Alternative
+#EXTINF:-1 station-id="awb_9d05ebf98d123a790600" stream-id="aws_c8855aef2b9e12051d86" codec="aac+" bitrate="127",107.3 The Edge - Calgary's Alternative
 https://corus.leanstream.co/CFGQFM
 #EXTINF:-1 station-id="awb_6168d9fbaaf93600394f" stream-id="aws_ba736345144d5828e171" codec="aac+" bitrate="57",107.5 Dave FM
 http://live.leanstream.co/CJDVFM
@@ -2285,6 +2285,8 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 http://26293.live.streamtheworld.com/QUB_RADIOAAC_SC
 #EXTINF:-1 station-id="awb_5e254cd4058be48706b3" stream-id="aws_7b2e435ffd05cd8e253a" codec="aac" bitrate="96",Qub Radio
 https://stream-cjpx-rr01.leclerccom.com/cjpx.aac
+#EXTINF:-1 station-id="awb_ff2b881265e080971c74" stream-id="aws_d50b65d1ca0cb3dea7da" codec="mp3" bitrate="0",r-a-d
+https://relay1.r-a-d.io/main.mp3
 #EXTINF:-1 station-id="awb_736ce470c3fbe56d30ac" stream-id="aws_4f977b075b7e1e71598b" codec="aac" bitrate="96",Radio 42° North (R42N) [AAC+ 64kbps]
 http://ice66.securenetsystems.net/R42N
 #EXTINF:-1 station-id="awb_cf382fe62cb9b653c02b" stream-id="aws_008942f9a1904e5407d2" codec="mp3" bitrate="128",Radio 854

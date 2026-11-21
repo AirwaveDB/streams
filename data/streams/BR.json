@@ -5363,7 +5363,7 @@
       "135abdcb-8dc1-4cbe-90c4-2f3625f701a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:21:05Z"
+    "lastCheckedAt": "2026-11-20T17:21:42Z"
   },
   {
     "id": "aws_3635ae04ca8874cc6367",
@@ -7454,7 +7454,7 @@
       "c5c704c1-23d1-4c4d-8017-e96246d37d2f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:06Z"
+    "lastCheckedAt": "2026-11-20T17:36:40Z"
   },
   {
     "id": "aws_3c302e7a58269207dda7",
@@ -7779,7 +7779,7 @@
       "a26f1d2f-7e33-45ac-bfe5-24dbdf89d065"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T23:36:36Z"
+    "lastCheckedAt": "2026-11-20T23:37:07Z"
   },
   {
     "id": "aws_26ea28ee63ef1437e6b1",
@@ -14379,6 +14379,25 @@
     "lastCheckedAt": "2026-11-17T01:17:40Z"
   },
   {
+    "id": "aws_956d756fa7d4fb17499e",
+    "stationId": "awb_2bdddf7ab42ad4fa1550",
+    "name": "Rádio Catedral FM 106.7",
+    "country": "BR",
+    "url": "https://hts10.brascast.com:13728/live",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ea3c45d3-6a11-4e57-86d9-7fe01f07303e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T01:35:50Z"
+  },
+  {
     "id": "aws_dac322b0fd7d0f3ccb5a",
     "stationId": "awb_1e2199331347da011aa1",
     "name": "Rádio Católica",
@@ -16802,6 +16821,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-19T21:02:11Z"
+  },
+  {
+    "id": "aws_8332cb027612d49fb381",
+    "stationId": "awb_cc93ebb4a23781dfcc7e",
+    "name": "radio eu aqui com jesus",
+    "country": "BR",
+    "url": "http://166.stm-ip.net:7212/stearm",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4eca04fa-8ee1-48d7-bf76-4da8aadf4e21"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T23:45:32Z"
   },
   {
     "id": "aws_486b5d3b1a0ed47f9858",
@@ -23603,6 +23641,25 @@
     "lastCheckedAt": "2026-11-16T22:45:00Z"
   },
   {
+    "id": "aws_ce6b48599e76ba4e65fb",
+    "stationId": "awb_df30c1033fab6a01ed00",
+    "name": "RÁDIO S.H.O",
+    "country": "BR",
+    "url": "https://sv11.hdradios.net:8092/steam",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6f57ce47-4767-462d-8b48-34517cdecdba"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T01:22:17Z"
+  },
+  {
     "id": "aws_8b48007419a65721bffc",
     "stationId": "awb_7b25109c3e79576ea7b6",
     "name": "Rádio Sabiá FM 92.1 Coité",
@@ -27656,7 +27713,26 @@
       "4b72d2d8-53f5-4c88-a14d-8183f2ac75cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-16T04:12:36Z"
+    "lastCheckedAt": "2026-11-21T04:13:00Z"
+  },
+  {
+    "id": "aws_a3fa09bae639dc0ed3e2",
+    "stationId": "awb_870f5e2d776ab7e0e505",
+    "name": "R�dio RCP",
+    "country": "BR",
+    "url": "https://paineldj5.com.br:2199/proxy/rcpfm?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "12de1659-aeaf-4f47-b0cb-f388e0438e02"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T21:57:39Z"
   },
   {
     "id": "aws_86a9c5ea39a6b14f9416",
@@ -27869,7 +27945,7 @@
       "3b6242c7-dc73-4a46-ac59-c32d77f24bad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:12Z"
+    "lastCheckedAt": "2026-11-20T18:05:03Z"
   },
   {
     "id": "aws_ef0b72150a51ade577bb",

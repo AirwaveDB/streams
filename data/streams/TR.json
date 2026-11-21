@@ -267,7 +267,7 @@
       "58e3e4bd-7496-47d1-bb9e-a210dc01ba31"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:11Z"
+    "lastCheckedAt": "2026-11-20T17:38:45Z"
   },
   {
     "id": "aws_8a62f260bd17973f8951",
@@ -362,7 +362,7 @@
       "1742eb18-db42-44b6-8abd-ee84e5c45417"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:10Z"
+    "lastCheckedAt": "2026-11-20T17:38:46Z"
   },
   {
     "id": "aws_4af129cc2dc1e7ee9db1",
@@ -381,7 +381,7 @@
       "290eaa34-a405-4844-9351-607053e6012c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:09Z"
+    "lastCheckedAt": "2026-11-20T17:36:39Z"
   },
   {
     "id": "aws_7d062c2313d1156e88c3",
@@ -10303,6 +10303,25 @@
     "lastCheckedAt": "2026-11-17T10:18:13Z"
   },
   {
+    "id": "aws_d3335444bf087e4dd614",
+    "stationId": "awb_03e6ed5fee1708b77d84",
+    "name": "Radyo Ritim",
+    "country": "TR",
+    "url": "https://sslyayin.netyayin.net/erzurumritm",
+    "codec": "aac+",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "726631ad-ab95-42ec-8561-3f2e48a7baff"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T05:39:48Z"
+  },
+  {
     "id": "aws_16bfddd385d9878b6ee7",
     "stationId": "awb_3b1627c6c0f2f0eb64bf",
     "name": "Radyo S",
@@ -12660,7 +12679,7 @@
     "stationId": "awb_19fe8e30046585bde0bc",
     "name": "Tüm Zamanların En İyileri",
     "country": "TR",
-    "url": "https://22183.live.streamtheworld.com/GHOAT_TR128AAC.aac",
+    "url": "https://25553.live.streamtheworld.com/GHOAT_TR128AAC.aac",
     "codec": "aac+",
     "bitrate": 128,
     "protocol": "https",
@@ -12672,7 +12691,7 @@
       "811d9ec1-4b69-4759-8af6-682f5161eada"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:01Z"
+    "lastCheckedAt": "2026-11-20T14:46:54Z"
   },
   {
     "id": "aws_5ae91b566553303dfee3",
@@ -12908,6 +12927,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T09:34:15Z"
+  },
+  {
+    "id": "aws_eec9e155a30503084dd7",
+    "stationId": "awb_e6e24532f99f99575443",
+    "name": "TV100 Haber",
+    "country": "TR",
+    "url": "https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/playlist.m3u8",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6d6e4682-b68a-4632-8b09-7e4485104b8f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T15:49:06Z"
   },
   {
     "id": "aws_278d65059f5a6424ca5e",

@@ -1381,7 +1381,7 @@
       "cf0140f1-6299-4841-8e2d-3acd95a93eb0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-16T09:11:59Z"
+    "lastCheckedAt": "2026-11-21T09:12:19Z"
   },
   {
     "id": "aws_75c6d85f881aed37fa84",
@@ -4924,7 +4924,7 @@
       "f96397c9-fde2-4fa5-b2d2-e156f82642e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-16T08:27:25Z"
+    "lastCheckedAt": "2026-11-21T08:27:45Z"
   },
   {
     "id": "aws_c24daace8af2298a8b04",
@@ -9681,6 +9681,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T09:53:17Z"
+  },
+  {
+    "id": "aws_eddebbc868342f70821b",
+    "stationId": "awb_b3132066bd2ec7e49587",
+    "name": "CYB.RIP RADIO",
+    "country": "FR",
+    "url": "https://cyb.rip/radio/stream",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "10a0bd47-6b79-45ca-98d5-e9ec33c903d2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T15:45:25Z"
   },
   {
     "id": "aws_5a54958f1e4bbf9f4632",
@@ -15621,7 +15640,7 @@
       "56adb70b-d105-430b-bd18-e2c4302e0c5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T13:49:45Z"
+    "lastCheckedAt": "2026-11-20T13:50:01Z"
   },
   {
     "id": "aws_d1a2d016441008b83c60",
@@ -24428,7 +24447,7 @@
       "f0208910-995e-4b8a-8c80-c978f3691a48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:11Z"
+    "lastCheckedAt": "2026-11-20T17:38:45Z"
   },
   {
     "id": "aws_d0fb58685bd373b01d0b",
@@ -27346,7 +27365,7 @@
       "e647ac86-39e5-46ae-96de-bd4ce6428871"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:11Z"
+    "lastCheckedAt": "2026-11-20T18:05:07Z"
   },
   {
     "id": "aws_e728435d4fd37708e60a",
@@ -28003,9 +28022,9 @@
     "stationId": "awb_48e4521b9edaa1c1bddd",
     "name": "Morow Prog Rock Radio",
     "country": "FR",
-    "url": "http://stream.ca.morow.com:8080/morow_med.aacp",
+    "url": "http://stream.ca.morow.com:8003/morow_hi.aacp",
     "codec": "aac+",
-    "bitrate": 64,
+    "bitrate": 128,
     "protocol": "http",
     "hls": false,
     "sources": [
@@ -28015,7 +28034,7 @@
       "87de55fe-1695-4bf4-a2f6-9155171e926f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:15Z"
+    "lastCheckedAt": "2026-11-20T18:05:07Z"
   },
   {
     "id": "aws_e1a1dfa33697177a6bd4",
@@ -28262,7 +28281,7 @@
       "b371f883-73ca-4a54-a5b8-636a22af4a61"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:11Z"
+    "lastCheckedAt": "2026-11-20T17:38:46Z"
   },
   {
     "id": "aws_f0e331ba76ad2e46a211",
@@ -28281,7 +28300,26 @@
       "78f0b16e-0a80-4c3d-b601-ee1e080c3d8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:03Z"
+    "lastCheckedAt": "2026-11-20T14:46:56Z"
+  },
+  {
+    "id": "aws_d75945faff8d08cfb46e",
+    "stationId": "awb_2067a54f9bc2c03fcbfc",
+    "name": "Music Radio Blues",
+    "country": "FR",
+    "url": "https://radio.musicradio.ai/listen/music_radio_blues/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1ec06c07-d9b2-4371-b012-67bc6db8762c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T19:17:30Z"
   },
   {
     "id": "aws_0404020fee055db7323a",
@@ -28357,7 +28395,7 @@
       "5f8e5140-d97e-4f4b-95eb-d28b1240db5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:03Z"
+    "lastCheckedAt": "2026-11-20T14:46:58Z"
   },
   {
     "id": "aws_46483e395400852b7835",
@@ -28395,7 +28433,7 @@
       "0531d2b6-d012-4f28-ab44-0f5a0b14ef18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:04Z"
+    "lastCheckedAt": "2026-11-20T14:47:25Z"
   },
   {
     "id": "aws_eee4dac7b824994477fd",
@@ -28414,7 +28452,7 @@
       "6e8dbdd0-5eca-4fa1-bdb0-fe6c3d4f0852"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:03Z"
+    "lastCheckedAt": "2026-11-20T14:46:55Z"
   },
   {
     "id": "aws_6fbb4e6228ef8469808f",
@@ -28434,6 +28472,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-20T11:06:12Z"
+  },
+  {
+    "id": "aws_c83187d1e9d768948a42",
+    "stationId": "awb_7122b88544d6877b854e",
+    "name": "Music Radio Funky House",
+    "country": "FR",
+    "url": "https://radio.musicradio.ai/listen/music_radio_funky_house/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b4ed37b6-9aa8-4bc7-965a-7a2add0b4a41"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T19:17:30Z"
   },
   {
     "id": "aws_fac65953b2f83eb8d699",
@@ -28566,7 +28623,7 @@
       "ed519cc4-2585-4249-8577-26b46b1935f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:05Z"
+    "lastCheckedAt": "2026-11-20T17:36:43Z"
   },
   {
     "id": "aws_c28a7082218619c10f94",
@@ -28718,7 +28775,7 @@
       "f5b6b351-df31-4df5-8e9d-659f11f0d9a2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:12Z"
+    "lastCheckedAt": "2026-11-20T17:38:42Z"
   },
   {
     "id": "aws_659dee93e59c1789802e",
@@ -29044,6 +29101,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T05:11:44Z"
+  },
+  {
+    "id": "aws_2363cc058b92fae6daae",
+    "stationId": "awb_ffddadcb504ba0bf2336",
+    "name": "Nostalgie 100% Francais 80s",
+    "country": "FR",
+    "url": "https://streaming.nrjaudio.fm/out2976ubafg?origine=playernostalgie&aw_0_req.userConsentV2=CQthOAAQthOAAAHABBENC4FsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSIkm4FyJvW7JwCx2ESJAyapiIKmRIAu3DBAQNlGADURUAAIIAFqSDMaESUgTNKJ6BEiEMRIyJQCExvm4FDeQCZ4kp_9kcwmB-s6dr-yNzgAgAAAUCAIAAgAIABAACIAAAgAAEAAQAAgiwACAAAAAAAAEAAAFAAAAAAAAEAAAACAAAAAAAAIJ2gAmGhUQAlgQCBAoCAECAAQVhABQIAgAASAggIASBgQ5AwAXWESAAAKAAIIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEYUBggQgAIBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAEAAAAAggQAAAAAAAAAAEAAABAAEAAAAAAAAAAAAAAAAAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSIkm4FyJvW7JwC32ESJAyapiIKmRIAu3DBAQNtGAjURUABIIAVqTDMaESUgTNKJ6BEiHMRYyJQCExvm4FDeQCZ4kp_90dwmR-s6dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAEAAQAAgiwACAAAAAAAAEAAAFAAEAAAAAEAAAACAAAAAAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-100-Francais-80",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "493d05e7-2715-44d2-81de-a328f1a134d9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T09:45:41Z"
   },
   {
     "id": "aws_d47a74a08c1dc9fbf97e",
@@ -35971,7 +36047,7 @@
       "f102ac4a-555f-44c8-a0fa-ffe1c86a46fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:07:53Z"
+    "lastCheckedAt": "2026-11-20T18:08:19Z"
   },
   {
     "id": "aws_fb448eba5cd1a41263a1",
@@ -43029,7 +43105,7 @@
       "001bc55d-c8de-44e3-b94e-204495ee396f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:13Z"
+    "lastCheckedAt": "2026-11-20T17:38:46Z"
   },
   {
     "id": "aws_310cb740bc9868ae9dde",
@@ -44270,7 +44346,7 @@
       "a7af27ed-a31b-46eb-9d6a-d7dcff16f0f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T14:45:00Z"
+    "lastCheckedAt": "2026-11-20T14:46:56Z"
   },
   {
     "id": "aws_8969d43ba54ef8ae3778",
@@ -45640,7 +45716,7 @@
       "468eb513-0007-4eda-8e12-43dcf39928f1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:10Z"
+    "lastCheckedAt": "2026-11-20T17:38:46Z"
   },
   {
     "id": "aws_0cff144a548e2e6cea73",
@@ -49536,7 +49612,7 @@
       "7844e836-8bd9-4e65-ab8c-49dc88fa1dc1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T13:49:46Z"
+    "lastCheckedAt": "2026-11-20T13:50:01Z"
   },
   {
     "id": "aws_306216aadbd08d671a3f",
@@ -50095,7 +50171,7 @@
       "5f383cde-67f9-475f-a4ab-a03529a6cee9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T12:23:55Z"
+    "lastCheckedAt": "2026-11-20T12:24:16Z"
   },
   {
     "id": "aws_e67a27c67dc1abd77699",

@@ -13,7 +13,7 @@ https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 station-id="awb_fe2a244f7e27d3255892" stream-id="aws_0b5904355456247ca482" codec="mp3" bitrate="128",4Music
 https://s1.slotex.pl/shoutcast/7102/stream
-#EXTINF:-1 station-id="awb_e48a669b171183147d5d" stream-id="aws_d0f3f3cd333f0befa874" codec="mp3" bitrate="128",4YOU.fm
+#EXTINF:-1 station-id="awb_e48a669b171183147d5d" stream-id="aws_d0f3f3cd333f0befa874" codec="mp3" bitrate="320",4YOU.fm
 https://myradio24.org/2455
 #EXTINF:-1 station-id="awb_fa1fe433d725f8111e84" stream-id="aws_6bed3ccdd673cac91ea1" codec="mp3" bitrate="192",Affi Radio
 https://affiradio.pl/listen/radio-browser/stream.mp3
@@ -95,6 +95,8 @@ http://s3.slotex.pl:7262/stream
 http://streaming.inten.pl:8022/bonton.mp3
 #EXTINF:-1 station-id="awb_4d345d0cb08ef8fb0d86" stream-id="aws_e9a5f0ed06297aadb6bd" codec="aac+" bitrate="256",bounce
 https://streaming.bounce.radio/streamhd
+#EXTINF:-1 station-id="awb_9f1059bb4d078aa3721e" stream-id="aws_fbbb5b159a6d8141895f" codec="mp3" bitrate="0",Bydgoszcz FM
+http://217.182.76.63:8000/bfmweb
 #EXTINF:-1 station-id="awb_edd224f7a38635e21120" stream-id="aws_e9aead5d774dff806e96" codec="mp3" bitrate="128",Chilli Zet
 https://ch.cdn.eurozet.pl/chi-net.mp3
 #EXTINF:-1 station-id="awb_edd224f7a38635e21120" stream-id="aws_0b90f09283e9002ca452" codec="aac" bitrate="128",Chilli ZET

@@ -1365,6 +1365,25 @@
     "lastCheckedAt": "2026-11-17T08:09:15Z"
   },
   {
+    "id": "aws_be8f728c8970e0e4dfc8",
+    "stationId": "awb_6c6973aac8a41484ae8f",
+    "name": "Advanced Academy Radio",
+    "country": "PH",
+    "url": "https://hls-stream.swifftnet.site/hls/advance-academy/index.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f7405c55-afe7-427a-97db-90e17a8275cc"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T15:24:48Z"
+  },
+  {
     "id": "aws_de005e69ca0512595880",
     "stationId": "awb_354eb647e6a876618667",
     "name": "Adventist Radio South Philippines",
@@ -3017,7 +3036,7 @@
       "22833406-957a-4ada-af2a-f178e630028f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T13:08:02Z"
+    "lastCheckedAt": "2026-11-20T13:08:41Z"
   },
   {
     "id": "aws_3787596e5be205f507d9",
@@ -6477,6 +6496,25 @@
     "lastCheckedAt": "2026-11-17T04:35:58Z"
   },
   {
+    "id": "aws_b4d18a583bb751a51d1f",
+    "stationId": "awb_a91cdb56427eba9cda6e",
+    "name": "iFM 94.3 Bacolod",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/ifmbacolod",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b813917e-ce05-422f-928f-037706738192"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T10:11:19Z"
+  },
+  {
     "id": "aws_c220c96f35935e70cea1",
     "stationId": "awb_67ac19726628e06821bd",
     "name": "iFM Baguio",
@@ -6705,6 +6743,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T05:11:38Z"
+  },
+  {
+    "id": "aws_8e8f0ca2c18d3765825f",
+    "stationId": "awb_bf6937bf196eb42825c5",
+    "name": "Jam 88.3",
+    "country": "PH",
+    "url": "http://sg-icecast.eradioportal.com:8000/jam883",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1d7df204-58a4-47aa-84e8-1f293a2acf76"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T14:56:04Z"
   },
   {
     "id": "aws_2db5687a6573847d50b0",
@@ -9521,6 +9578,25 @@
     "lastCheckedAt": "2026-11-16T23:08:15Z"
   },
   {
+    "id": "aws_c42d95ae370680709ab1",
+    "stationId": "awb_597ca556af9419252a81",
+    "name": "Radiopilipinas",
+    "country": "PH",
+    "url": "https://a12.asurahosting.com/listen/radiopilipinas/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a4012ee0-0c5d-4098-ba39-f541e8093c5a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T15:08:21Z"
+  },
+  {
     "id": "aws_1326f23e39ee2f65a282",
     "stationId": "awb_66877b6b32ae491e8855",
     "name": "Radyo 630",
@@ -11425,6 +11501,63 @@
     "lastCheckedAt": "2026-11-17T01:29:13Z"
   },
   {
+    "id": "aws_c411db0dfef7eb95958a",
+    "stationId": "awb_c47769529c53a8d205a4",
+    "name": "Radyo Pilipino Cebu",
+    "country": "PH",
+    "url": "http://uk24freenew.listen2myradio.com:28038/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "a21ee30f-ebd8-4b11-a64c-2a88a1545e6d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T10:19:45Z"
+  },
+  {
+    "id": "aws_6618e9f84ccc7baa46fa",
+    "stationId": "awb_00a049bd667b929fd435",
+    "name": "Radyo Pilipino Ozamiz",
+    "country": "PH",
+    "url": "http://uk14freenew.listen2myradio.com:33122/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3816b95b-38ef-47c0-b9a9-a1e2c7f47903"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T10:29:13Z"
+  },
+  {
+    "id": "aws_d5cd1517c088371a1498",
+    "stationId": "awb_64f49e842ed488c1d171",
+    "name": "Radyo Pilipino Tarlac",
+    "country": "PH",
+    "url": "http://uk19freenew.listen2myradio.com:3965/",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "879186d9-3b5f-4b75-9425-7ada67c29f3f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T10:14:41Z"
+  },
+  {
     "id": "aws_a0326b53a8ba2e2e69bb",
     "stationId": "awb_8dd774a223188ea29ce0",
     "name": "Radyo Primera",
@@ -11673,7 +11806,7 @@
       "902fd7d4-bc83-4714-81a7-5e85fe717e1d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:17Z"
+    "lastCheckedAt": "2026-11-20T18:05:01Z"
   },
   {
     "id": "aws_ee2dc9d80408540608a5",
@@ -11788,6 +11921,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-18T03:06:53Z"
+  },
+  {
+    "id": "aws_91af1b5ce526185f47fe",
+    "stationId": "awb_8694159cb8772c2d358a",
+    "name": "RMN DXPR 603 Pagadian",
+    "country": "PH",
+    "url": "http://livestream.rmn.ph:8000/603pagadian",
+    "codec": "mp3",
+    "bitrate": 96,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8f074c0e-6015-401d-b0b0-c217eda36413"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T10:03:50Z"
   },
   {
     "id": "aws_ea440a2eef7e9ee1c0ed",
@@ -12657,6 +12809,25 @@
     "lastCheckedAt": "2026-11-17T02:37:56Z"
   },
   {
+    "id": "aws_29a5191f98c4c7d24d7f",
+    "stationId": "awb_6806a27571970e33fb94",
+    "name": "Subic Bay Radio",
+    "country": "PH",
+    "url": "http://uk3freenew.listen2myradio.com:10128/",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f7ea6887-931c-423d-a96f-c4b26797fce5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T15:04:23Z"
+  },
+  {
     "id": "aws_8d657e8d5ec00a2c67eb",
     "stationId": "awb_507d5dc7d66826875623",
     "name": "Super Radyo DYSS Cebu",
@@ -13177,7 +13348,7 @@
       "067d6a8b-7bf6-4af2-9325-8fc54249a736"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T15:39:33Z"
+    "lastCheckedAt": "2026-11-20T15:40:23Z"
   },
   {
     "id": "aws_8dc6a8419a02805863bb",
@@ -14173,6 +14344,6 @@
       "9b61508e-c54a-4321-a331-bdb2c9c5ee4c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T15:17:15Z"
+    "lastCheckedAt": "2026-11-20T15:17:31Z"
   }
 ]

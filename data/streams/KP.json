@@ -171,6 +171,25 @@
     "lastCheckedAt": "2026-11-17T07:06:40Z"
   },
   {
+    "id": "aws_808ecbd8f871bc1d39fc",
+    "stationId": "awb_52ffa70784417596e01c",
+    "name": "조선중앙제3방송",
+    "country": "KP",
+    "url": "https://live.koryocdn.org/kcbs2/index.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "833d2024-0f2e-41f8-b0d8-16fe5849480f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T03:18:59Z"
+  },
+  {
     "id": "aws_4de078754a46ebdb7483",
     "stationId": "awb_5b8ff512beb6140bf017",
     "name": "평양FM105.2",
@@ -188,5 +207,24 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T03:54:35Z"
+  },
+  {
+    "id": "aws_6c9cbc8c307591e8ce91",
+    "stationId": "awb_600062b533f8889f8ca5",
+    "name": "평양음악방송",
+    "country": "KP",
+    "url": "https://live.koryocdn.org/pyfm/index.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b3269c2-5c2e-432e-9527-995f63a3c585"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T03:16:42Z"
   }
 ]

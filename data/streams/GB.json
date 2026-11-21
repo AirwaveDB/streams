@@ -4096,6 +4096,44 @@
     "lastCheckedAt": "2026-11-17T03:34:47Z"
   },
   {
+    "id": "aws_985981300e3bd8706cc9",
+    "stationId": "awb_a9311499e0470927c846",
+    "name": "BBC Radio 1 Dance (320kbps)",
+    "country": "GB",
+    "url": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c7b3476b-6af7-4a04-8ef7-603d6721a3d8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T07:29:01Z"
+  },
+  {
+    "id": "aws_987ff992b50feca0a876",
+    "stationId": "awb_441a38152942ecb390fb",
+    "name": "BBC Radio 1 Dance (Official HLS)",
+    "country": "GB",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one_dance.m3u8",
+    "codec": "aac+",
+    "bitrate": 101,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7bc388f0-81b4-4b22-a7b3-995a9d27d20d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-21T07:29:57Z"
+  },
+  {
     "id": "aws_2a54c840e8a0bdc8ec8f",
     "stationId": "awb_c47ccfd097f697704728",
     "name": "BBC Radio 1Xtra (128k)",
@@ -11325,6 +11363,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-17T03:54:39Z"
+  },
+  {
+    "id": "aws_4cf96dfdae0a40d689ea",
+    "stationId": "awb_9100b9aec2b944cfa9dd",
+    "name": "Dj audio",
+    "country": "GB",
+    "url": "https://stream.zeno.fm/7qfsnmc8rrhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3b1b93c3-f68d-4e44-b10c-f21a3a2eca35"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-20T23:04:48Z"
   },
   {
     "id": "aws_c5f3005e9f138c8a10a3",
@@ -23646,7 +23703,7 @@
       "c186a47a-a786-47f4-a9f5-5c817ee9d78c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:06Z"
+    "lastCheckedAt": "2026-11-20T17:36:42Z"
   },
   {
     "id": "aws_c4efd3e597fcdfe7de5b",
@@ -24942,7 +24999,7 @@
       "04aa314e-d7b1-4c4f-bd8e-f87b362adc9a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:12Z"
+    "lastCheckedAt": "2026-11-20T18:05:03Z"
   },
   {
     "id": "aws_ae76395bd246a790fa8c",
@@ -24980,7 +25037,7 @@
       "6d6253e6-f487-4d4b-8172-fba5d52e08cf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T18:04:14Z"
+    "lastCheckedAt": "2026-11-20T18:05:04Z"
   },
   {
     "id": "aws_4215efd3f627eea02578",
@@ -25018,7 +25075,7 @@
       "cb049f7f-ec14-44b2-b62b-88fb0a2fd6d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-15T17:36:10Z"
+    "lastCheckedAt": "2026-11-20T17:38:41Z"
   },
   {
     "id": "aws_4a6a4441527f31992e64",
