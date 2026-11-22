@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 station-id="awb_f603fd3fb73dbab84b6a" stream-id="aws_49ca84d2490766a874bb" codec="mp3" bitrate="192",100% Kim Larsen
 http://stream2.wlmm.dk/kimlarsenmp3
-#EXTINF:-1 station-id="awb_bc5fe5bd671a6adb92f3" stream-id="aws_3bd8a6eb71c07f21cf04" codec="mp3" bitrate="128",2town Radio
+#EXTINF:-1 station-id="awb_bc5fe5bd671a6adb92f3" stream-id="aws_3bd8a6eb71c07f21cf04" codec="mp3" bitrate="192",2town Radio
 http://streaming.radio.co/sd9d980ff0/listen
 #EXTINF:-1 station-id="awb_48978dc526703e00af21" stream-id="aws_5c3e2fb70236edab110d" codec="mp3" bitrate="192",2town Radio
 https://streaming.radio.co/sd9d980ff0/listen
@@ -387,7 +387,7 @@ https://netradio.vlr.dk/popup2
 http://netradio.radio4.dk/radio4
 #EXTINF:-1 station-id="awb_32cf3d0b573e200d3a00" stream-id="aws_897f9a6959ae71859b29" codec="mp3" bitrate="192",RadioFLR
 http://play.radioflr.dk:9000/stream
-#EXTINF:-1 station-id="awb_27712858fa166528df31" stream-id="aws_96b4d0ca0e2f45d72326" codec="aac+" bitrate="47",Rar
+#EXTINF:-1 station-id="awb_27712858fa166528df31" stream-id="aws_96b4d0ca0e2f45d72326" codec="aac+" bitrate="48",Rar
 http://techno-low.rautemusik.fm/
 #EXTINF:-1 station-id="awb_3706abc88b0ec532463d" stream-id="aws_e533b0dbb04d15e9953c" codec="mp3" bitrate="192",Retro Millennium
 https://tx-2.retro-radio.dk/TX-2
@@ -423,9 +423,9 @@ https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&
 http://listen.technobase.fm/tunein-aacplus-pls
 #EXTINF:-1 station-id="awb_6bbd55e2f01ac12c632c" stream-id="aws_7aae89b5ab71c4976ddd" codec="mp3" bitrate="192",TechnoBase.FM - MP3 192k
 http://listen.technobase.fm/tunein-mp3-pls
-#EXTINF:-1 station-id="awb_e79ec0a6030fade8b2b2" stream-id="aws_e5963bc0b49a0a8d3be8" codec="mp3" bitrate="256",The Lake Radio
+#EXTINF:-1 station-id="awb_e79ec0a6030fade8b2b2" stream-id="aws_e5963bc0b49a0a8d3be8" codec="mp3" bitrate="128",The Lake Radio
 http://hyades.shoutca.st:8627/
-#EXTINF:-1 station-id="awb_e79ec0a6030fade8b2b2" stream-id="aws_03e0b6b7a3139405b8bd" codec="mp3" bitrate="256",The Lake Radio
+#EXTINF:-1 station-id="awb_e79ec0a6030fade8b2b2" stream-id="aws_03e0b6b7a3139405b8bd" codec="mp3" bitrate="128",The Lake Radio
 http://hyades.shoutca.st:8627/stream
 #EXTINF:-1 station-id="awb_50b3132e92b10bfcd96a" stream-id="aws_cf6b36d3b83ae4bbd1c9" codec="mp3" bitrate="128",The Voice
 http://live-bauerdk.sharp-stream.com/voice128.mp3

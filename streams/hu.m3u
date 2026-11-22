@@ -7,9 +7,9 @@ http://195.56.193.129:8100/sunshine
 https://radio.adventnet.hu:8443/stream
 #EXTINF:-1 station-id="awb_ab4ddb0f87d12bcefe17" stream-id="aws_67288ad1299e7bba71a8" codec="mp3" bitrate="160",Aktív Rádió
 http://aktivradio.hu:8000/aktiv.mp3
-#EXTINF:-1 station-id="awb_0fef90c5f647a6b0eaaf" stream-id="aws_a85d1188f6f95bc3b0fa" codec="mp3" bitrate="128",All-Star Radio 70's
+#EXTINF:-1 station-id="awb_0fef90c5f647a6b0eaaf" stream-id="aws_a85d1188f6f95bc3b0fa" codec="mp3" bitrate="192",All-Star Radio 70's
 https://a2.asurahosting.com:7620/radio.mp3
-#EXTINF:-1 station-id="awb_9e172b60e8b13cca749f" stream-id="aws_0291eafe1d5503de3f06" codec="mp3" bitrate="128",All-Star Radio 80's
+#EXTINF:-1 station-id="awb_9e172b60e8b13cca749f" stream-id="aws_0291eafe1d5503de3f06" codec="mp3" bitrate="192",All-Star Radio 80's
 https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3
 #EXTINF:-1 station-id="awb_1ff2ca92ff8d1d213ca2" stream-id="aws_6e1d37b879c19082f2fe" codec="mp3" bitrate="128",Argentine Tango Radio
 https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3
@@ -341,7 +341,7 @@ http://gamershouse.hu:8000/livemega.mp3
 https://melody-trail.online/listen/melody_trail/radio.mp3
 #EXTINF:-1 station-id="awb_527911af0aff6f0f918b" stream-id="aws_e915a94ec28b16194f03" codec="mp3" bitrate="128",Mera
 https://stream.radio.co/s3fd8d173f/listen
-#EXTINF:-1 station-id="awb_23f8bd1ab8c151635a58" stream-id="aws_d1c996caab7444485c7f" codec="mp3" bitrate="128",Mercy Rádió
+#EXTINF:-1 station-id="awb_23f8bd1ab8c151635a58" stream-id="aws_d1c996caab7444485c7f" codec="mp3" bitrate="160",Mercy Rádió
 http://stream.mercyradio.eu/mercyradio.mp3
 #EXTINF:-1 station-id="awb_a47e4390640cdd22a6f6" stream-id="aws_b354d515dcfbb9c3c878" codec="mp3" bitrate="160",Mercy Rádió - Kabaré
 http://stream.mercyradio.eu/kabare.mp3
@@ -505,8 +505,6 @@ http://stream3.radio88.hu:8500/;stream
 http://stream.radioantritt.hu:8000/Antritt
 #EXTINF:-1 station-id="awb_c236ce637af9527a5d49" stream-id="aws_51c1c47abd84b4765ba4" codec="mp3" bitrate="128",Rádió Bézs
 http://195.210.29.82:8001/bezs
-#EXTINF:-1 station-id="awb_267f0a835a1ae2ee3f3f" stream-id="aws_3892f6c767a57ea1b6e9" codec="mp3" bitrate="128",Rádió Bézs 2
-http://195.210.29.82:8002/bezs2
 #EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_073180b27a63ea45efda" codec="aac" bitrate="128",Rádió Comedy
 https://a7.asurahosting.com:8430/radio.mp3
 #EXTINF:-1 station-id="awb_ea2413319a2735e93944" stream-id="aws_a37f97a20a0a196528c0" codec="mp3" bitrate="128",Rádió Comedy

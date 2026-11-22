@@ -11,7 +11,7 @@ https://online.kissfm.ua/KissFM_HD
 https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
 #EXTINF:-1 station-id="awb_b3cb0fb3587a67f20f1c" stream-id="aws_d00361f9dc9d3721c132" codec="mp3" bitrate="128",7 Rays Radio
 https://7rays.stream.laut.fm/7rays
-#EXTINF:-1 station-id="awb_7132e27566c2d1cd2893" stream-id="aws_941bcdbdc2f7d2aae114" codec="mp3" bitrate="320",ABN Radio
+#EXTINF:-1 station-id="awb_7132e27566c2d1cd2893" stream-id="aws_941bcdbdc2f7d2aae114" codec="mp3" bitrate="128",ABN Radio
 https://radio.andrew-lviv.net/abn128
 #EXTINF:-1 station-id="awb_a9daa09f99a2ab6e4b59" stream-id="aws_e015012586f3e8dd1777" codec="mp3" bitrate="128",Armija FM
 http://212.26.132.129:8000/ArmyFM
@@ -147,8 +147,6 @@ https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3
 https://mjplay.empirecraft.lv/stream
 #EXTINF:-1 station-id="awb_4228331387d7976efe4d" stream-id="aws_43fcbcb47ce0ab49dd58" codec="ogg" bitrate="0",Momingmy radio
 http://momingmy.tk:8880/music.ogg
-#EXTINF:-1 station-id="awb_6841e4e7a69dc246561b" stream-id="aws_272cef32566cbb1b49d2" codec="mp3" bitrate="320",NewDay FM (Коростень)
-http://178.93.125.230:8000/newday.mp3
 #EXTINF:-1 station-id="awb_5ce5c9b99ff4fa12fb39" stream-id="aws_27c47abfdfd0bff98578" codec="mp3" bitrate="320",NRJ RADIO
 https://cast.mediaonline.net.ua/nrj320
 #EXTINF:-1 station-id="awb_2e09df32e2d170722866" stream-id="aws_c106ae138d48a03e2bb6" codec="mp3" bitrate="320",NRJ Ukraine
@@ -179,8 +177,8 @@ https://online.radioplayer.ua/RadioItaliana
 https://online.radiojazz.ua/RadioJazz_Christmas_HD
 #EXTINF:-1 station-id="awb_b5048a71a3a02d189f7f" stream-id="aws_0d5c3653b70e064d2077" codec="mp3" bitrate="320",Radio Jazz Cover
 https://online.radiojazz.ua/RadioJazz_Cover_HD
-#EXTINF:-1 station-id="awb_2d2cced63c5e37a77a0f" stream-id="aws_b66137a04465fea807e1" codec="mp3" bitrate="128",Radio Jazz FM
-http://online.radiojazz.ua/RadioJazz_Christmas
+#EXTINF:-1 station-id="awb_2d2cced63c5e37a77a0f" stream-id="aws_b66137a04465fea807e1" codec="aac+" bitrate="32",Radio Jazz FM
+http://online.radiojazz.ua/RadioJazz_Gold_Live
 #EXTINF:-1 station-id="awb_a03b55b7d285a26c5727" stream-id="aws_2638cacf4a2e003ca8da" codec="mp3" bitrate="128",Radio Jazz FM Ukraine
 http://online.radiojazz.ua/RadioJazz
 #EXTINF:-1 station-id="awb_737c3b2f38ed469918f5" stream-id="aws_a208b031bf3a0d191adf" codec="mp3" bitrate="128",Radio Jazz Gold FM
@@ -300,7 +298,7 @@ https://laut.fm/topradio
 #EXTINF:-1 station-id="awb_6137a8e79a75ab0b72a5" stream-id="aws_7791b97680c0a7c59d7e" codec="mp3" bitrate="320",TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
 #EXTINF:-1 station-id="awb_c654597909099f2096f9" stream-id="aws_e762dfcc17fb69d942de" codec="mp3" bitrate="192",Trans World Radio Ukraine
-http://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3
+https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3
 #EXTINF:-1 station-id="awb_e30adb5644183baa8e09" stream-id="aws_1ac6f363f09e5db9104f" codec="mp3" bitrate="128",True Black Metal Radio
 http://trueblackmetalradio.com:666/radio
 #EXTINF:-1 station-id="awb_e30adb5644183baa8e09" stream-id="aws_4de8f3028f10f7038320" codec="mp3" bitrate="128",True Black Metal Radio
@@ -513,7 +511,7 @@ https://stream.mistonadbugom.com.ua/radiomistonadbugom
 https://radiostream.nakypilo.ua/full
 #EXTINF:-1 station-id="awb_6408accbd9c2c2cae5a0" stream-id="aws_38c59af767aafd23a0c6" codec="mp3" bitrate="128",Радіо НВ 96.0
 https://online-radio.nv.ua/radionv.mp3
-#EXTINF:-1 station-id="awb_d2675a6fcac4033fb80a" stream-id="aws_61dd1dc3837df995ad84" codec="aac" bitrate="248",Радіо Нікополя
+#EXTINF:-1 station-id="awb_d2675a6fcac4033fb80a" stream-id="aws_61dd1dc3837df995ad84" codec="aac" bitrate="240",Радіо Нікополя
 https://stream.nikopolnews.net/listen/radio_nikopol/high
 #EXTINF:-1 station-id="awb_d2675a6fcac4033fb80a" stream-id="aws_bf8084f0f533e52e04c4" codec="mp3" bitrate="256",Радіо Нікополя
 https://stream.nikopolnews.net/listen/radio_nikopol/nikopolnews.mp3

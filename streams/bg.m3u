@@ -132,7 +132,7 @@ https://eilo.org/streamer.php?ch=mixotic
 #EXTINF:-1 station-id="awb_70fc963c5abd9fa7ba1d" stream-id="aws_1eb13158de7adb0f7cbf" codec="mp3" bitrate="128",EILO Psychedelic Radio
 https://eilo.org/streamer.php?ch=psychedelic
 #EXTINF:-1 station-id="awb_33c34455ae0c2dc32edd" stream-id="aws_9b6ea9c886e8f2e19cb6" codec="mp3" bitrate="128",Eilo Radio - Progressive Radio
-http://eilo.org:8000/progressive
+https://eilo.org/streamer.php?ch=progressive
 #EXTINF:-1 station-id="awb_8e8452b27d9de618f6cd" stream-id="aws_fe6dbb55c5c660f021ad" codec="mp3" bitrate="128",EILO Techno Radio
 https://eilo.org/streamer.php?ch=techno
 #EXTINF:-1 station-id="awb_12bca78782fa631b4673" stream-id="aws_d2d2e788eea9e50a6f93" codec="mp3" bitrate="128",EILO Trance Radio
@@ -331,7 +331,7 @@ http://87.252.182.193:8000/;
 https://online.radiobella.com/listen/radio.bella/radio.mp3
 #EXTINF:-1 station-id="awb_ea974d7232889cdf5450" stream-id="aws_eab75b60c5a88d340227" codec="mp3" bitrate="128",RADIO BGRADIO
 https://play.global.audio/bgradio128
-#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="0",Radio Big Boss
+#EXTINF:-1 station-id="awb_74357cc8cb44ab69422d" stream-id="aws_c66732bb0fb34820caac" codec="aac" bitrate="64",Radio Big Boss
 https://141.147.25.113:8000/radio.mp3
 #EXTINF:-1 station-id="awb_777fb42c28765d22a0bf" stream-id="aws_351efd59c7661827ca07" codec="mp3" bitrate="0",Radio Bizonio
 https://a13.asurahosting.com/listen/radio_bizonio_2/radio.mp3
@@ -427,8 +427,6 @@ https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac
 https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
 #EXTINF:-1 station-id="awb_9fc0f8abb2f5ae0b3ba7" stream-id="aws_db6dc8b6ed3ed6838801" codec="ogg" bitrate="0",Radio Nova Bulgaria
 https://play.global.audio/nova.opus
-#EXTINF:-1 station-id="awb_31392e094b48baafe1cd" stream-id="aws_6dc8239172948f922b8f" codec="aac" bitrate="140",Radio NRG
-https://home.radionrg.com/hls/live/live.m3u8
 #EXTINF:-1 station-id="awb_942dfd876c8517d39c0f" stream-id="aws_5b81a301eb1f35a805bb" codec="mp3" bitrate="128",Radio ORV
 http://radio.orvmedia.com:8005/stream
 #EXTINF:-1 station-id="awb_dab92988fff697ba55c0" stream-id="aws_a09e7840c5e4f1a1df3e" codec="aac+" bitrate="128",Radio OxFM
@@ -541,7 +539,7 @@ https://nova-radio.neterra.tv/voiceofbg
 http://79.98.108.170:8115/autodj
 #EXTINF:-1 station-id="awb_7ca4ad3e1fadc9d0e5bf" stream-id="aws_fa17c863ee9a5e927da2" codec="mp3" bitrate="320",Tvoeto Radio
 https://stream.sweetradio.online:8001/tvr
-#EXTINF:-1 station-id="awb_a6748b129fd7d94f736a" stream-id="aws_a185aef10e4ce059b22d" codec="mp3" bitrate="128",Ultra Blagoevgrad
+#EXTINF:-1 station-id="awb_a6748b129fd7d94f736a" stream-id="aws_a185aef10e4ce059b22d" codec="mp3" bitrate="112",Ultra Blagoevgrad
 http://88.80.96.25:3060/
 #EXTINF:-1 station-id="awb_99594c932a5ae08e07c4" stream-id="aws_875a8e67d234e726f55b" codec="mp3" bitrate="128",Ultra Pernik
 http://88.80.96.25:8000/

@@ -273,8 +273,6 @@ https://az-de-01.worldradiobeat.com:8000/live
 https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
 #EXTINF:-1 station-id="awb_72abcf6e252b8f12cf2c" stream-id="aws_e587d6197adc6f5dcc61" codec="mp3" bitrate="128",Pannon Rádió
 http://stream2.nmih.hu:4120/live.mp3
-#EXTINF:-1 station-id="awb_ac66a8dc91ce971f8bf0" stream-id="aws_c21d944b127d5dd92c15" codec="unknown" bitrate="964",Pink Radio
-http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8
 #EXTINF:-1 station-id="awb_ac66a8dc91ce971f8bf0" stream-id="aws_cc2f95651219aaca2ee2" codec="mp3" bitrate="192",Pink Radio
 https://edge9.pink.rs/pinkstream
 #EXTINF:-1 station-id="awb_0bf9725f2a95fd695139" stream-id="aws_070ded0420a481b61ea6" codec="mp3" bitrate="192",Pink sr
@@ -366,9 +364,9 @@ http://213.239.205.210:8094/stream
 #EXTINF:-1 station-id="awb_72cb241dd3f8b854114f" stream-id="aws_a9243354a32fb60b4c26" codec="mp3" bitrate="128",Radio Caribrod
 https://as1.radioserveri.com:8220/radio.mp3
 #EXTINF:-1 station-id="awb_50a76f7c2fe7e9ff80c6" stream-id="aws_56e58abebab9f2a0a13b" codec="mp3" bitrate="128",Radio Cer
-http://stream1.contrateam.com:8040/
+http://stream1.contrateam.com:8040/;
 #EXTINF:-1 station-id="awb_f0f4c05bd7695aa764a6" stream-id="aws_3a35b6c83fd21d9c26b2" codec="mp3" bitrate="128",Radio D
-http://213.239.205.210:6010/
+http://213.239.205.210:6010/;
 #EXTINF:-1 station-id="awb_f96ea73db2dba6ef9d9a" stream-id="aws_6690d150a0c6dc77b09f" codec="mp3" bitrate="128",Radio D Lucani
 http://213.239.205.210:6010/;stream.nsv
 #EXTINF:-1 station-id="awb_4e9b69a8582423c736e5" stream-id="aws_f9fba13678793464cfc2" codec="mp3" bitrate="128",Radio Delta 31
@@ -403,14 +401,12 @@ http://82.145.41.8:37185/
 https://cast2.asurahosting.com/proxy/kissdoog/stream
 #EXTINF:-1 station-id="awb_dac59c8981ce530b677f" stream-id="aws_b5cdf3edd452350f6683" codec="aac+" bitrate="48",Radio Klas
 http://195.201.172.217:9014/;
-#EXTINF:-1 station-id="awb_77a6a203de480a7e1150" stream-id="aws_21beb3308e5c03676586" codec="aac" bitrate="128",Radio Klik Arilje
+#EXTINF:-1 station-id="awb_77a6a203de480a7e1150" stream-id="aws_21beb3308e5c03676586" codec="aac" bitrate="96",Radio Klik Arilje
 https://stream.zeno.fm/mhuilnb3yoxuv
 #EXTINF:-1 station-id="awb_c8a43539b033eeb36fe9" stream-id="aws_05cd49f3f02e3e08986a" codec="mp3" bitrate="320",Radio Kolo
 https://mars.streamerr.co/8280/stream
 #EXTINF:-1 station-id="awb_602e53a0996de6eaaa9b" stream-id="aws_ff5c0446a03ef8dda90c" codec="mp3" bitrate="128",Radio Krajina 019
 https://cmr-hosting.com:7021/;
-#EXTINF:-1 station-id="awb_4077560989662cac4ce4" stream-id="aws_a0119af62277a11596f7" codec="ogg" bitrate="128",RADIO KROV
-https://radio.dckrov.rs/listen/krov/radio.flac
 #EXTINF:-1 station-id="awb_9b1dd4bd60d1795d53e7" stream-id="aws_5b38e313d827ea8938ad" codec="mp3" bitrate="96",Radio Kruševac 93.2
 https://krusevac.ipradio.rs:9014/;stream.mp3
 #EXTINF:-1 station-id="awb_a3f4abc1c5689eb9a9ad" stream-id="aws_d601e7c75a83a0c3727b" codec="mp3" bitrate="256",Radio Kulska Komuna
@@ -638,7 +634,7 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1 station-id="awb_4547ad2124efc1ed94dc" stream-id="aws_88e2a1a0adc0eac7ea26" codec="mp3" bitrate="128",Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1 station-id="awb_6703e9402f79a042de4a" stream-id="aws_f85242912ad27d041827" codec="mp3" bitrate="0",RADIO.D59B
-http://n0f.radiojar.com/gn6dqzhf9mzuv
+http://n0e.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1 station-id="awb_ac38d2b43d4b74e65a8f" stream-id="aws_d9be3c78f879d584a355" codec="mp3" bitrate="192",Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1 station-id="awb_6bd321bece6b796e1f6f" stream-id="aws_abe0db86cb6a2f410657" codec="mp3" bitrate="128",Resavski radio

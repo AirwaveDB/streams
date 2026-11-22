@@ -39,8 +39,6 @@ https://bobfm-seanashmore.radioca.st/stream
 https://bobfm-seanashmore.radioca.st/stream
 #EXTINF:-1 station-id="awb_6df80c7aabd8a9951543" stream-id="aws_d4cfd633dcff0d2b0245" codec="mp3" bitrate="128",BRIAN DALY
 https://uksoutha.streaming.broadcast.radio:28140/lifefm
-#EXTINF:-1 station-id="awb_544f66e8393fe6823434" stream-id="aws_1e5b35b95597054e7814" codec="aac" bitrate="127",C103 North
-http://wg.cdn.tibus.net/C103
 #EXTINF:-1 station-id="awb_53d14f28b3991d856997" stream-id="aws_978336b6252e0ae37c08" codec="aac" bitrate="128",C103 West
 https://wg.cdn.tibus.net/C103West
 #EXTINF:-1 station-id="awb_746d148d2c8ee913a8f0" stream-id="aws_f169a75ead8c0e18fbb6" codec="mp3" bitrate="192",Ceol FM
@@ -109,8 +107,6 @@ https://onic.dublin.live.stream.broadcasting.news/stream-fm104
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:-1 station-id="awb_7d2a9e5478984038ab39" stream-id="aws_6611638c0f4dfb7a7465" codec="aac" bitrate="128",Dublin's Q102
 https://onic.dublin.live.stream.broadcasting.news/stream-q102
-#EXTINF:-1 station-id="awb_6709fcbd01cfa99bd500" stream-id="aws_09d767d49c092f51efea" codec="aac" bitrate="127",Dublin's Q102 80s
-http://wg.cdn.tibus.net/Q10280s
 #EXTINF:-1 station-id="awb_267c337e6d7d04ec470c" stream-id="aws_c79e2903d61ce1c6dabd" codec="mp3" bitrate="128",Dundalk FM
 http://80.249.249.245:8000/;?1485109331489
 #EXTINF:-1 station-id="awb_9361838b18640a7b058f" stream-id="aws_71a40d7aea5222dee081" codec="mp3" bitrate="128",East Coast FM
@@ -295,6 +291,8 @@ https://27743.live.streamtheworld.com/RADIO_KERRY_SC
 http://xt.stream.ie/leinster
 #EXTINF:-1 station-id="awb_600ead90b49a9cc8db78" stream-id="aws_512599010d3b575eebbc" codec="mp3" bitrate="128",Radio Maria Ireland
 http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1 station-id="awb_aed76f323cecf065f4cf" stream-id="aws_0ecd018023a177cad889" codec="mp3" bitrate="128",Radio North 846 AM Redcastle, Ireland
+https://usa6.fastcast4u.com/proxy/ljohns03?mp=/stream
 #EXTINF:-1 station-id="awb_13f8fd3f6bc3076bea81" stream-id="aws_93329c9b55a2c9872079" codec="mp3" bitrate="128",Radio Nova 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
 #EXTINF:-1 station-id="awb_7c6987f36e137f04d6ba" stream-id="aws_4ad025d8768bb810dd72" codec="mp3" bitrate="128",Radio Psychobilly
@@ -346,7 +344,7 @@ https://a1.asurahosting.com:10000/radio.mp3
 #EXTINF:-1 station-id="awb_e8430b77a8c6e9565f3e" stream-id="aws_07c00ea99fbf831bcac0" codec="mp3" bitrate="320",SOLID GOLD RADIO IRELAND
 https://az11.yesstreaming.net:8020/radio.mp3
 #EXTINF:-1 station-id="awb_6eb80855ca4ba1c7c6ef" stream-id="aws_1a0cfdc60eaaefce94d6" codec="mp3" bitrate="320",SOLID GOLD RADIO IRELAND 1
-https://az10.yesstreaming.net:8000/radio.mp3
+https://az10.yesstreaming.net:8560/radio.mp3
 #EXTINF:-1 station-id="awb_25914653aead057e262f" stream-id="aws_54b61562b812d113437a" codec="mp3" bitrate="128",South East Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 #EXTINF:-1 station-id="awb_b7daa873c495a2be1bc4" stream-id="aws_7f0beb85de70e4e61058" codec="mp3" bitrate="192",Spin 103.8
@@ -357,9 +355,9 @@ https://edge.audioxi.com/SW
 https://live-bauerie.sharp-stream.com/SW
 #EXTINF:-1 station-id="awb_7cce3e514f03f9e7aad8" stream-id="aws_2bf8104e16b232557896" codec="mp3" bitrate="192",Spin1038
 https://live-bauerie.sharp-stream.com/SP
-#EXTINF:-1 station-id="awb_ac882fbe4af54b154481" stream-id="aws_eff42ade337ed9a52e05" codec="aac+" bitrate="128",St. Ita's Hospital Radio
+#EXTINF:-1 station-id="awb_ac882fbe4af54b154481" stream-id="aws_eff42ade337ed9a52e05" codec="mp3" bitrate="320",St. Ita's Hospital Radio
 http://uk2.streamingpulse.com:8042/stream
-#EXTINF:-1 station-id="awb_ac882fbe4af54b154481" stream-id="aws_79ddacbf16a74c23f058" codec="aac+" bitrate="128",St. Ita’s Hospital Radio
+#EXTINF:-1 station-id="awb_ac882fbe4af54b154481" stream-id="aws_79ddacbf16a74c23f058" codec="mp3" bitrate="320",St. Ita’s Hospital Radio
 https://de2.streamingpulse.com/ssl/8042
 #EXTINF:-1 station-id="awb_436fafdbf60ae39506d7" stream-id="aws_93338195b8d1b357316a" codec="mp3" bitrate="128",St. Itas Hospital Radio
 http://uk1.streamingpulse.com:7022/stream
@@ -383,7 +381,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
 https://de2.streamingpulse.com/ssl/THRCL
 #EXTINF:-1 station-id="awb_eae6b3d2b4cbde1fb3a9" stream-id="aws_b7b80a7967df35846dd1" codec="mp3" bitrate="0",Tipperary Mid West Community Radio
 https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
-#EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_42eeffe0b58d08e05356" codec="aac+" bitrate="64",Today FM
+#EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_42eeffe0b58d08e05356" codec="aac+" bitrate="63",Today FM
 https://live-bauerie.sharp-stream.com/TDAAC
 #EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_7054385d3b6f65e30b91" codec="mp3" bitrate="128",Today FM
 https://stream.audioxi.com/TD
@@ -393,7 +391,7 @@ https://edge3.audioxi.com/T80
 https://live-bauerie.sharp-stream.com/T80
 #EXTINF:-1 station-id="awb_9cabb848fb4c2d23a66a" stream-id="aws_d61f0cdc6b941923df60" codec="mp3" bitrate="128",Today FM 90s
 https://live-bauerie.sharp-stream.com/T90
-#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="63",TodayFm
+#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="64",TodayFm
 https://edge.audioxi.com/TDAAC
 #EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_39de9e22d9c2b72f96e6" codec="mp3" bitrate="128",TodayFm
 https://pri.gocaster.net/td

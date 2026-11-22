@@ -37,8 +37,6 @@ http://server.laradio.online:9199/stream
 http://stm14.xcast.com.br:8248/
 #EXTINF:-1 station-id="awb_9978257ad1e59f25051d" stream-id="aws_a39319e4db2cd6b7c974" codec="mp3" bitrate="135",Aire de Santa Fe
 https://mdstrm.com/audio/68c2de25a9416a333d960bb5/live.m3u8
-#EXTINF:-1 station-id="awb_058236db052735292de6" stream-id="aws_06b9bb2cb7925919cafd" codec="mp3" bitrate="128",Aire Libre FM 96.3
-https://cdn.instream.audio:9037/stream
 #EXTINF:-1 station-id="awb_00ebec7816991d6b2935" stream-id="aws_7bf176ada7d44e9ec6a2" codec="aac" bitrate="32",Al Toque Radio FM 101.9
 https://streaming.gostreaming.com.ar:10938/;
 #EXTINF:-1 station-id="awb_950242e5e192cc72eb8b" stream-id="aws_dc96afb33f18fa033728" codec="mp3" bitrate="128",Alegría FM 99.7
@@ -69,8 +67,6 @@ https://streaming2.locucionar.com/proxy/radiowall1?mp=/stream
 https://01.solumedia.com.ar:8420/stream/1/
 #EXTINF:-1 station-id="awb_c755f1c1dd66673932e0" stream-id="aws_2b6210ab89663bccef7a" codec="aac+" bitrate="64",AM Con Vos 1420. AM 1420
 https://us9.maindigitalstream.com/ssl/7192
-#EXTINF:-1 station-id="awb_7af6f5cf4dc40645eb29" stream-id="aws_acaf90a78a98c23ce8e9" codec="aac" bitrate="56",AM CUMBRE 1400
-https://cdn.instream.audio/:9366/stream
 #EXTINF:-1 station-id="awb_d871a18bd0dd4da6091d" stream-id="aws_de2468a94595b52a3283" codec="mp3" bitrate="96",AM750
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM750.mp3
 #EXTINF:-1 station-id="awb_6459f75ebee872616a61" stream-id="aws_6179e768e04d74d3414b" codec="aac" bitrate="256",Americana FM
@@ -85,8 +81,6 @@ https://s3.netradiofm.com/p/9008/stream
 https://streaming.escuchanosonline.com/8268/stream
 #EXTINF:-1 station-id="awb_117715c471637865683c" stream-id="aws_ee896353a1fdf56e293a" codec="aac" bitrate="32",Antena 98.9
 http://server1.veemesoft.com.ar:8064/live
-#EXTINF:-1 station-id="awb_d4a9ff86f6d16a65e784" stream-id="aws_7d7494525f554bf73567" codec="aac" bitrate="48",antena libre 89.1 argentina universidad conahue
-http://cdn.instream.audio:9140/stream
 #EXTINF:-1 station-id="awb_996e543111ada9a397ab" stream-id="aws_99bd3538811f3e909cf2" codec="aac" bitrate="64",Antena Libre 89.1 FM
 https://cdn.instream.audio/:9140/stream
 #EXTINF:-1 station-id="awb_990e45ce40edb9300da9" stream-id="aws_2484057bd95af54201b1" codec="aac+" bitrate="32",Antena Nueve 94.3 FM
@@ -213,8 +207,6 @@ https://radio13.servidorderadio.net:7034/stream
 https://streaming.radiosenlinea.com.ar:10585/stream
 #EXTINF:-1 station-id="awb_628da8d65298099c4bea" stream-id="aws_1cc4b191d1ccfc875fc2" codec="aac+" bitrate="128",Coctel online
 https://streaming01.shockmedia.com.ar:8452/stream
-#EXTINF:-1 station-id="awb_c61cae1e9040b4e5c357" stream-id="aws_14888b39ea365a3e6913" codec="aac+" bitrate="48",Comunidad Fan
-https://cdn.instream.audio/:9083/stream
 #EXTINF:-1 station-id="awb_01920d36525878b365fd" stream-id="aws_61cec49c91a33926c029" codec="mp3" bitrate="128",Comunidad Fan FM 105.1 Rosario
 https://radio02.ferozo.com/proxy/ra02001326?mp=/stream
 #EXTINF:-1 station-id="awb_f4bddde5d6faf287a739" stream-id="aws_fa1b5110692691f57c7e" codec="mp3" bitrate="64",Concepto FM 95.5
@@ -223,7 +215,7 @@ https://radios.solumedia.com:6002/;
 http://radios.solumedia.com:6002/stream
 #EXTINF:-1 station-id="awb_77db5a8d6ba78f65c253" stream-id="aws_d5aaa2773f54cc34e6a7" codec="aac+" bitrate="16",Concierto FM 90.5
 http://radio01.ferozo.com:8928/stream
-#EXTINF:-1 station-id="awb_4d5c90a3966f85b46e9f" stream-id="aws_8fdc4119749f4d6d77c7" codec="aac+" bitrate="32",Concierto FM 94.7
+#EXTINF:-1 station-id="awb_4d5c90a3966f85b46e9f" stream-id="aws_8fdc4119749f4d6d77c7" codec="aac" bitrate="32",Concierto FM 94.7
 https://01.solumedia.com.ar:8112/stream
 #EXTINF:-1 station-id="awb_7cf4f6c11c94b6b5e5ea" stream-id="aws_d084dae0805e79625733" codec="mp3" bitrate="128",Condor FM 107.5
 https://emisora.zonasinergia.com:7087/stream
@@ -244,7 +236,7 @@ https://radio02.ferozo.com/proxy/ra02001324?mp=/stream
 #EXTINF:-1 station-id="awb_388a7bb6fa563c24a892" stream-id="aws_ee5b9631770ddb5ba43d" codec="ogg" bitrate="0",CVC La Voz Urbano
 https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg
 #EXTINF:-1 station-id="awb_fad4a8cf69827036d474" stream-id="aws_01667b88d1a23740bdb8" codec="mp3" bitrate="96",D Sports Radio
-http://27383.live.streamtheworld.com/DSPORTSRADIO_SC
+http://26483.live.streamtheworld.com:3690/DSPORTSRADIO_SC
 #EXTINF:-1 station-id="awb_fad4a8cf69827036d474" stream-id="aws_261dd51e8f894ab7b184" codec="aac+" bitrate="64",d-Sports radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
 #EXTINF:-1 station-id="awb_770efbe65878593ee15c" stream-id="aws_529aef1c7cadbcc92f38" codec="aac+" bitrate="80",Dale FM 93.1
@@ -257,10 +249,6 @@ http://01.solumedia.com.ar:8176/stream
 https://radios.solumedia.com/6136/stream
 #EXTINF:-1 station-id="awb_4e840774b871be70c0de" stream-id="aws_e74ea6b1d04291b39caf" codec="mp3" bitrate="96",Del Siglo 99.5
 https://stream.lt8.com.ar:8443/delsiglo995.mp3
-#EXTINF:-1 station-id="awb_b1a6f5480f6fef06c11b" stream-id="aws_54885ba42d6ea7be185c" codec="aac" bitrate="48",Delta 90.3
-https://cdn.instream.audio/:9069/stream
-#EXTINF:-1 station-id="awb_b1a6f5480f6fef06c11b" stream-id="aws_e764e0e0e3ab5d22ae58" codec="aac" bitrate="48",Delta 90.3
-https://cdn.instream.audio/:9069/stream?in_device_id=wp-0bd8ae0e-61bb-4c85-8d42-818ab95f0da2
 #EXTINF:-1 station-id="awb_b1a6f5480f6fef06c11b" stream-id="aws_776a3302a806fbc32935" codec="aac" bitrate="96",Delta 90.3
 https://cdn.instream.audio//:9069//stream
 #EXTINF:-1 station-id="awb_b93bc33da8ce45b5dc30" stream-id="aws_458ae03c04da9c99d1fe" codec="aac" bitrate="96",Delta 90.3 Buenos Aires
@@ -289,7 +277,7 @@ https://stream.zeno.fm/uyd6h9w162quv
 https://node-23.zeno.fm/uyd6h9w162quv?
 #EXTINF:-1 station-id="awb_ea863f39479e43766932" stream-id="aws_75b581c4275741ce61cf" codec="mp3" bitrate="128",Eco Radio 92.3 FM
 https://https.nvradios.com/radio/9392/radio.mp3
-#EXTINF:-1 station-id="awb_28a5aa1c8d58c01fa80f" stream-id="aws_2e508e4413e53c5e6d02" codec="mp3" bitrate="128",Ecos de mis Cerros
+#EXTINF:-1 station-id="awb_28a5aa1c8d58c01fa80f" stream-id="aws_2e508e4413e53c5e6d02" codec="aac+" bitrate="128",Ecos de mis Cerros
 https://masservidor.net:7163/;
 #EXTINF:-1 station-id="awb_418687891d47628af174" stream-id="aws_392799a54b65c91acc44" codec="aac" bitrate="96",EDI RADIO
 https://radio.forensedigital.gt:8090/stream
@@ -321,11 +309,9 @@ https://streaming.radiosenlinea.com.ar/8008/;
 https://sonicpanel.hostradios.com:7167/
 #EXTINF:-1 station-id="awb_8cd663979c12069d429b" stream-id="aws_830cccd5d8be09eaf736" codec="mp3" bitrate="32",En Vivo Radio 70
 https://stream.zeno.fm/th2othplrestv
-#EXTINF:-1 station-id="awb_3a3c962b700e78fa9951" stream-id="aws_d1684db010d368881d1e" codec="mp3" bitrate="128",Enjoy Radio
-http://argentina.republicahosting.com:8261/stream
 #EXTINF:-1 station-id="awb_9a9c20dec10480ee657e" stream-id="aws_0d5043136a22fc4eadf1" codec="aac+" bitrate="96",ESPACIAL 105.1 FM
 https://chino.republicahosting.com:2282/live
-#EXTINF:-1 station-id="awb_f16bb4ceea8e4df086b9" stream-id="aws_2322f152f43beb5fb5ed" codec="aac+" bitrate="72",Estacion 21 103.9 FM
+#EXTINF:-1 station-id="awb_f16bb4ceea8e4df086b9" stream-id="aws_2322f152f43beb5fb5ed" codec="aac+" bitrate="64",Estacion 21 103.9 FM
 https://streaming01.shockmedia.com.ar:10557/stream?icy=http
 #EXTINF:-1 station-id="awb_db4b0bb72e9744d2400a" stream-id="aws_cc28a21cdf27843b8295" codec="aac" bitrate="32",Estacion 95 91.5 FM
 https://streaming2.locucionar.com/proxy/estacion95?mp=/stream
@@ -393,7 +379,7 @@ https://emisora.zonasinergia.com/8068/stream
 https://vps-c0159cbc.vps.ovh.ca/9682/;
 #EXTINF:-1 station-id="awb_d03fbc0aec1c7d265091" stream-id="aws_f8f5e69b6c93de9db2a0" codec="aac" bitrate="32",FM 90.9 Rosario
 https://streaming2.locucionar.com/proxy/radiobt?mp=/stream
-#EXTINF:-1 station-id="awb_a09e9fbf419b5993310d" stream-id="aws_0ac25ce34280e0884fc7" codec="mp3" bitrate="64",Fm 94.1 Onda Horizonte
+#EXTINF:-1 station-id="awb_a09e9fbf419b5993310d" stream-id="aws_0ac25ce34280e0884fc7" codec="mp3" bitrate="128",Fm 94.1 Onda Horizonte
 http://s1.radiosnethosting.com:9816/;
 #EXTINF:-1 station-id="awb_4ebcd9c60c3bfd7ac3ae" stream-id="aws_ba1e105943b75ec51fbe" codec="aac" bitrate="40",FM 95.5 RADIO REPUBLICA
 https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3
@@ -413,10 +399,6 @@ https://streaming.hotmixradio.fr/hotmixradio-dance-128.mp3
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
 #EXTINF:-1 station-id="awb_3c7dce8b276ce65dc0e4" stream-id="aws_3e854192e2309ff95b86" codec="mp3" bitrate="0",FM Ahijuna 94.7
 http://stream.ahijuna.fm/aire.mp3
-#EXTINF:-1 station-id="awb_8a3e2d3aa9ce97c4f23c" stream-id="aws_fbea092ea5f7d15f5fc1" codec="aac" bitrate="112",FM ALAS - Correa (Sta Fe)
-http://stream.zeno.fm/7bs1rw5zw8quv
-#EXTINF:-1 station-id="awb_e70211e94b7ebe2f44b0" stream-id="aws_65d85a616018f7f08151" codec="aac" bitrate="128",FM Alas 106.9
-https://stream.zeno.fm/7bs1rw5zw8quv
 #EXTINF:-1 station-id="awb_d2efa52feead2fb2ecba" stream-id="aws_d64292e76b00d91d337d" codec="mp3" bitrate="192",FM Alas 93.9
 http://149.50.144.162/listen/fm_alas_93.9/radio.mp3
 #EXTINF:-1 station-id="awb_49be131a95c6aa6c8475" stream-id="aws_00d9d0b6058a90e6ca2c" codec="mp3" bitrate="192",FM Alas 93.9 (Correa, SF)
@@ -425,8 +407,6 @@ https://radio.fmalas93.com/listen/fm_alas_93.9/radio.mp3
 https://streaming.radiosenlinea.com.ar/8856/stream/1/
 #EXTINF:-1 station-id="awb_5d6cbd8679c25512589a" stream-id="aws_aab5ed0360f5a74056a4" codec="aac+" bitrate="32",Fm alpha 91.5
 http://radio.solumedia.com.ar:8984/stream
-#EXTINF:-1 station-id="awb_77fcd40c9cdcd3f102a6" stream-id="aws_88e39775b415dd2844af" codec="aac" bitrate="96",Fm Always 92.7
-https://cdn.instream.audio/:8185/stream
 #EXTINF:-1 station-id="awb_1c59ba4aad5febeabff4" stream-id="aws_f749e88e8882cb77ffa0" codec="mp3" bitrate="128",FM América 99.7
 https://stream.zeno.fm/dsvp0vvm9k8uv
 #EXTINF:-1 station-id="awb_373b762a62e8cb05c13f" stream-id="aws_fcb7ce64a3ba282f362f" codec="mp3" bitrate="128",FM Amistad 93.5 Mhz
@@ -485,7 +465,7 @@ http://66.128.32.105:8006/;
 https://server6.hostradios.com:7108/stream
 #EXTINF:-1 station-id="awb_9cad3d274c2015970c22" stream-id="aws_fc0a5d572f4c8397cd15" codec="aac+" bitrate="32",FM Cielo 93.1
 https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream
-#EXTINF:-1 station-id="awb_ebaae8359699ee7ab378" stream-id="aws_2ad55fd2dd932c83a64d" codec="aac" bitrate="48",Fm ciudad
+#EXTINF:-1 station-id="awb_ebaae8359699ee7ab378" stream-id="aws_2ad55fd2dd932c83a64d" codec="aac+" bitrate="48",Fm ciudad
 https://streaming6.locucionar.com:24028/stream
 #EXTINF:-1 station-id="awb_3220e5500a98da72e600" stream-id="aws_4808dc8799704d492955" codec="aac+" bitrate="32",FM Ciudad 88.3
 https://genexservicios.com:2000/stream/ciudadtotoras
@@ -519,8 +499,6 @@ https://radio.solumedia.com.ar:7119/;
 http://01.solumedia.com.ar:8238/
 #EXTINF:-1 station-id="awb_0bf83bb5b56576846901" stream-id="aws_107b5873af1b32700377" codec="aac" bitrate="64",FM De La Bahía 91.5
 https://icecast.hostingbahia.com.ar:8010/live
-#EXTINF:-1 station-id="awb_5cfaa009035192d5d092" stream-id="aws_f6608d41cd22b05f31b4" codec="aac" bitrate="48",FM De La Calle 87.9
-https://cdn.instream.audio/stream/delacalle
 #EXTINF:-1 station-id="awb_d1cf8848cdd20870ccc7" stream-id="aws_c9725b907462be489b78" codec="aac+" bitrate="32",FM de la Costa 90.5
 https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
 #EXTINF:-1 station-id="awb_8384240fed48c9153372" stream-id="aws_65efe4d1dff5c8685b81" codec="aac" bitrate="32",FM de la Costa 99.9
@@ -539,9 +517,9 @@ http://radio.fmdelestechajari.com.ar:8008/;
 https://radio01.ferozo.com/proxy/ra01000956?mp=/stream
 #EXTINF:-1 station-id="awb_b52092a26c4486c2bd28" stream-id="aws_98c790a52056a548117d" codec="mp3" bitrate="96",FM del Lago 92.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
-#EXTINF:-1 station-id="awb_bda9dfdf212a58f591bd" stream-id="aws_df45e644a2a9ec98d10a" codec="aac+" bitrate="128",FM Del Mar 100.1
+#EXTINF:-1 station-id="awb_bda9dfdf212a58f591bd" stream-id="aws_df45e644a2a9ec98d10a" codec="aac+" bitrate="112",FM Del Mar 100.1
 https://streaming.escuchanosonline.com:7257/stream
-#EXTINF:-1 station-id="awb_5353cf105b86fae7a2a0" stream-id="aws_16de154545dc0bb1b02d" codec="aac+" bitrate="128",FM del Mar 100.1
+#EXTINF:-1 station-id="awb_5353cf105b86fae7a2a0" stream-id="aws_16de154545dc0bb1b02d" codec="aac+" bitrate="112",FM del Mar 100.1
 https://streaming.escuchanosonline.com/8514/;
 #EXTINF:-1 station-id="awb_80767d548d5c58d3694f" stream-id="aws_389be6ec985c17d3442c" codec="mp3" bitrate="256",FM DEL MAR 94.7
 https://icecast.gesatel.com.ar:8443/vivo
@@ -555,16 +533,10 @@ https://streaming.radiosenlinea.com.ar/9026/stream
 http://streaming.radiosenlinea.com.ar:8450/;
 #EXTINF:-1 station-id="awb_b0ceed2bc0e22435761d" stream-id="aws_6460d7e6a37ed428cf7f" codec="aac" bitrate="32",FM DEL VALLE 99.9
 https://01.solumedia.com.ar:8764/stream
-#EXTINF:-1 station-id="awb_90b7409517df775d5961" stream-id="aws_4dcd50ab823dea080903" codec="mp3" bitrate="96",FM del Viento 104.9
-https://cdn.instream.audio/:9125/stream
-#EXTINF:-1 station-id="awb_865f4c0ede5d3bcf8040" stream-id="aws_42489782ac0a59897b8b" codec="mp3" bitrate="96",FM del Viento 97.7
-https://cdn.instream.audio:9125/stream
 #EXTINF:-1 station-id="awb_654858421e13a55b6b4f" stream-id="aws_467eab9d1010d0ab4d0d" codec="aac+" bitrate="48",FM Digital 100.1
 https://streaming01.radiosenlinea.com.ar:10346/stream
 #EXTINF:-1 station-id="awb_eb9c0ea41aec3f5a3753" stream-id="aws_0d7e0bda788ba5f8f170" codec="aac" bitrate="32",FM Dimension 100.3
 https://streaming2.locucionar.com/proxy/fmdimension1003?mp=/stream
-#EXTINF:-1 station-id="awb_ddd1bcc8793d95ebbf84" stream-id="aws_76ba3dcd9ccf49dfda74" codec="mp3" bitrate="128",FM Directa 98.3
-https://audio.questreaming.com:29308/;
 #EXTINF:-1 station-id="awb_85eb1842a8e6d6964f0b" stream-id="aws_ef3896c556050feabf86" codec="aac" bitrate="32",FM Eclipse 90.5
 https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
 #EXTINF:-1 station-id="awb_7cf96924b3cb6a4ecf9a" stream-id="aws_b5ba0bf2c344cabbdd30" codec="aac+" bitrate="64",FM EL CHUBUT
@@ -575,8 +547,6 @@ https://streaming2.locucionar.com/proxy/fmelportal965?mp=/stream
 https://streaming3.locucionar.com/proxy/fmelpuente?mp=/stream
 #EXTINF:-1 station-id="awb_dd2a3d0b5741eeeda974" stream-id="aws_e714fce1a61e9566bf6d" codec="mp3" bitrate="112",FM Emoción 98.1
 https://streaming.escuchanosonline.com:7229/;
-#EXTINF:-1 station-id="awb_47593b8d1003d9713b8c" stream-id="aws_09110033ba592028732f" codec="aac" bitrate="128",FM en Transito
-https://cdn.instream.audio/:9110/stream
 #EXTINF:-1 station-id="awb_a43e0fa998bef84b8f17" stream-id="aws_64a459ca82f414b00ef5" codec="mp3" bitrate="128",FM ESPERANZA 107.1 MHZ
 https://streaming01.shockmedia.com.ar:10404/stream?icy=http
 #EXTINF:-1 station-id="awb_dd5cc22fac1325dd9f78" stream-id="aws_febf33d3a92d0c417be1" codec="mp3" bitrate="128",FM Estación Popular 101.1
@@ -589,8 +559,6 @@ https://01.solumedia.com.ar:8178/;
 https://streaming.escuchanosonline.com:7381/stream
 #EXTINF:-1 station-id="awb_51c5709385cdecdc8307" stream-id="aws_dbf6f8fe00c77e16e4f4" codec="aac+" bitrate="96",FM Federal 99.5
 https://sonic.host-live.com/8176/stream
-#EXTINF:-1 station-id="awb_e10d870066e5a3de5d88" stream-id="aws_9ab2409a0723fc464774" codec="mp3" bitrate="48",FM Fribuay 90.7
-https://cdn.instream.audio:9117/stream
 #EXTINF:-1 station-id="awb_7cd9787d0001cf99b42b" stream-id="aws_eaebf2559eb8582685da" codec="aac" bitrate="32",FM Futuro - 93.1 Campana
 https://streaming2.locucionar.com/proxy/fmfuturo931?mp=/stream
 #EXTINF:-1 station-id="awb_c0c4c3f9db27055120b2" stream-id="aws_762c63caba242e860a70" codec="mp3" bitrate="128",FM Galaxia 88.7
@@ -621,7 +589,7 @@ https://streamall.alsolnet.com/fmklimax
 https://s24.myradiostream.com/:14984/listen.mp3?nocache=1674464727
 #EXTINF:-1 station-id="awb_7cc236c4c4158e282dc2" stream-id="aws_0c393209972edf57e75a" codec="aac+" bitrate="48",Fm La Boca 90.1 FM
 https://s24.myradiostream.com/14984/listen.mp3
-#EXTINF:-1 station-id="awb_84f180adb05c5b05cba7" stream-id="aws_917854e1bfd6e7508f79" codec="aac+" bitrate="36",FM LA CIMA 94.5
+#EXTINF:-1 station-id="awb_84f180adb05c5b05cba7" stream-id="aws_917854e1bfd6e7508f79" codec="aac+" bitrate="32",FM LA CIMA 94.5
 http://server9.veemesoft.com.ar:11010/;
 #EXTINF:-1 station-id="awb_fd4a3c5cb5d8ac30ee2f" stream-id="aws_be6ead89e1ffe49248d0" codec="mp3" bitrate="128",FM La Patriada
 https://server.laradio.online/proxy/fm_la_patriada?mp=/stream
@@ -631,8 +599,6 @@ https://01.solumedia.com.ar:8290/stream?icy=http
 https://server4.hostradios.com:7085/live
 #EXTINF:-1 station-id="awb_08453f6b2d54e53ad1c2" stream-id="aws_1c6cafc88d681935a430" codec="mp3" bitrate="96",FM La Tribu 88.7
 https://icecast.zeclogiccloud.com.de/fmlatribu
-#EXTINF:-1 station-id="awb_1ca45a8241231c0bae7b" stream-id="aws_bd02d8a37142a74bcfdd" codec="aac" bitrate="128",FM La Uni 91.7
-http://cdn.instream.audio:9275/stream
 #EXTINF:-1 station-id="awb_2fc62d1cd51267bbb9df" stream-id="aws_fa9d65f1ed472e18f074" codec="mp3" bitrate="48",FM Laser
 https://streamconex.com:8076/stream/
 #EXTINF:-1 station-id="awb_56dd555e7df86453038d" stream-id="aws_53501d2d8c31ad665588" codec="mp3" bitrate="128",FM Latidos 95.1 - General Pico
@@ -683,11 +649,9 @@ https://radiosar.com:10982/stream
 https://ssl.radiosnethosting.com/index.php?port=9122/;stream.mp3
 #EXTINF:-1 station-id="awb_8a68ac13c85a3b56b2a7" stream-id="aws_e0b24e17dff3e4999b9d" codec="aac" bitrate="16",FM Sensaciones 95.1
 https://chino.republicahosting.com:2318/live
-#EXTINF:-1 station-id="awb_9b09ea6632a9b6f6b73a" stream-id="aws_41cc78afc27114928977" codec="mp3" bitrate="56",Fm Sierras 107.9
-http://giss.tv:8000/fmsierras.mp3
 #EXTINF:-1 station-id="awb_06ef690cdd91242095ad" stream-id="aws_c1ae42724a9f956a09e7" codec="aac+" bitrate="32",FM Soldados 87.5
 https://radio02.ferozo.com/proxy/ra01000409?mp=/stream
-#EXTINF:-1 station-id="awb_5db1d73ce978b500c923" stream-id="aws_0ba53ee4107ef04df22c" codec="mp3" bitrate="96",FM Somos 94.9
+#EXTINF:-1 station-id="awb_5db1d73ce978b500c923" stream-id="aws_0ba53ee4107ef04df22c" codec="aac+" bitrate="32",FM Somos 94.9
 https://stm2.livecastradio.com:26289/
 #EXTINF:-1 station-id="awb_b5b64435da244ea0a378" stream-id="aws_319796060b366d329b60" codec="mp3" bitrate="128",FM Street 101.5
 https://ipanel.instream.audio:7006/stream
@@ -719,8 +683,6 @@ https://srv10.streamingradio.ar/8062/stream
 http://streaming6.locucionar.com:24420/stream
 #EXTINF:-1 station-id="awb_02493473a86964f06ff2" stream-id="aws_fbdf161f5e22ee7656b9" codec="mp3" bitrate="192",FM UTN Mendoza
 http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3
-#EXTINF:-1 station-id="awb_241fd8e9e8ea3adf5ace" stream-id="aws_3fbb8fe6df9c7dba17e2" codec="aac" bitrate="128",FM Vida Fortin Olmos 92.5
-http://centova1.veemesoft.com.ar:8170/live
 #EXTINF:-1 station-id="awb_c5e1b7eb9e3c2519d87a" stream-id="aws_878ec860fd2de9ac1569" codec="aac+" bitrate="64",FM Vida Santa Fe 107.9
 https://stm6.xcast.com.br:8818/stream
 #EXTINF:-1 station-id="awb_c02c787f4cefb38abf5e" stream-id="aws_54fa859fc6146b85d753" codec="aac+" bitrate="32",Fm Visión 101.9 FM
@@ -749,13 +711,11 @@ http://server.laradio.online:9188/live
 https://streaming01.shockmedia.com.ar:10948/stream?icy=http
 #EXTINF:-1 station-id="awb_a61c50092e29c3096b60" stream-id="aws_a3a22ff4d28e614d7738" codec="aac+" bitrate="64",Frecuencia Z
 https://radios.streamingdha.com.ar:8102/
-#EXTINF:-1 station-id="awb_607cb0bc00c3dbe07137" stream-id="aws_d8389cad79fcf0019990" codec="aac+" bitrate="48",Frecuencia Zero 92.5 FM
-https://cdn.instream.audio/stream/9508
 #EXTINF:-1 station-id="awb_a275ebb946e1eb609ba3" stream-id="aws_7c1d8117c04be4b85aae" codec="mp3" bitrate="128",Fresh Radio FM 102.9FM
 https://streaming.escuchanosonline.com:7011/stream
 #EXTINF:-1 station-id="awb_f3e063463b10436d3bcc" stream-id="aws_e73292875379ac4b45a8" codec="mp3" bitrate="128",Full FM 94.9
 https://https.nvradios.com/radio/9396//radio.mp3
-#EXTINF:-1 station-id="awb_fd19e96a186262ad398a" stream-id="aws_c9dc3042fdcf53777a67" codec="aac" bitrate="147",FutuRock
+#EXTINF:-1 station-id="awb_fd19e96a186262ad398a" stream-id="aws_c9dc3042fdcf53777a67" codec="aac" bitrate="151",FutuRock
 https://mdstrm.com/audio/5d9d019112cbbb45d6a50960/live.m3u8
 #EXTINF:-1 station-id="awb_b6b92110a2d575c756c5" stream-id="aws_e056b067fffb6d1209fe" codec="unknown" bitrate="0",Futurock FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio/5942a3a05fa68cca2efb4264/5d9d019112cbbb45d6a50960/chunks.m3u8
@@ -787,14 +747,14 @@ https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
 https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
 #EXTINF:-1 station-id="awb_7fcacd3afb8a6a367ffa" stream-id="aws_676e5629b070b19dd45d" codec="mp3" bitrate="160",HoloNet
 https://stream.zeno.fm/68veqm945bhvv
-#EXTINF:-1 station-id="awb_ba2687ead463cbfcb848" stream-id="aws_5aa90abbc1aa24ce37f1" codec="aac+" bitrate="112",Horizonte Radio 95.3
+#EXTINF:-1 station-id="awb_ba2687ead463cbfcb848" stream-id="aws_5aa90abbc1aa24ce37f1" codec="aac+" bitrate="104",Horizonte Radio 95.3
 https://streaming01.shockmedia.com.ar/8440/stream/;
 #EXTINF:-1 station-id="awb_d2d2aa94c84617c393f0" stream-id="aws_0df9b1a96aa412fe4e93" codec="aac" bitrate="128",Horizonte Radio Córdoba
-https://stream-179.surfernetwork.com/uotnxsvqdjnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3RueHN2cWRqbnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InkxQXRLd0dpUlEyb1JDVE95MVo0WmciLCJpYXQiOjE3OTQ5MDg4ODMsImV4cCI6MTc5NDkwODk0M30.ZVdwQgdZUXEyyw_TBjrwFo0IR9sF9KDz8-F3pyItz8Y
+https://stream-179.surfernetwork.com/uotnxsvqdjnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3RueHN2cWRqbnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldqUUVFcVRtUk9HT0FJaGFRc3NjaHciLCJpYXQiOjE3OTUzNDIzOTQsImV4cCI6MTc5NTM0MjQ1NH0.lSirq4k-zukY-DsfpOeGsQF_1e3YdSQdZhEcJ8RW6HY
 #EXTINF:-1 station-id="awb_77f768d5d041cbcc3682" stream-id="aws_0dccaf7379dd2bfd81c3" codec="aac" bitrate="128",HORIZONTE RADIO CORDOBA
-https://stream-179.surfernetwork.com/xl8dtwzk7zetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bDhkdHd6azd6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjE0d1hWVTBtUkZxRGQySjQyblJBN1EiLCJpYXQiOjE3OTQ4NzM4OTMsImV4cCI6MTc5NDg3Mzk1M30.Y1M0vCPpz2IZfjhC4psUWlsRNoddezrty_mm8DgJgVU
+https://stream-179.surfernetwork.com/xl8dtwzk7zetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bDhkdHd6azd6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRDTy1uTWw2UWlLUEVQU0R0anVtS0EiLCJpYXQiOjE3OTUzMDU5ODUsImV4cCI6MTc5NTMwNjA0NX0.CPQjNjF0TmOzlNO4_0SpNPgySy1QjXkilcWUvIBDre0
 #EXTINF:-1 station-id="awb_0e0444bd46b24b63bb60" stream-id="aws_70d1ff31d5d87ecf0ab8" codec="mp3" bitrate="128",in.radio
-https://stream-204.surfernetwork.com/n1f4vputgqbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMWY0dnB1dGdxYnV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1EMUpHSDlaUnVhYVFELXlsMlFKT2ciLCJpYXQiOjE3OTQ4Njg2NzMsImV4cCI6MTc5NDg2ODczM30.Yt5EJpEKn-92s0yYzwOFDWu7ZtxeJa8gBGPCZXiCeag
+https://stream-177.surfernetwork.com/n1f4vputgqbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMWY0dnB1dGdxYnV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii1kek4tMGdlUWZHY2dfMHlkYnVSa2ciLCJpYXQiOjE3OTUzMDEzNzMsImV4cCI6MTc5NTMwMTQzM30.eXVPDyH4u3Xa5L1fROVJXlV0zWeNbpx7MoAWeXSdJYA
 #EXTINF:-1 station-id="awb_89344c88f10e9b4ef0b1" stream-id="aws_6dfbbbabe6eef5dceffc" codec="mp3" bitrate="64",InfoPico Radio 99.9
 https://streaming3.locucionar.com/proxy/infopico999?mp=/stream
 #EXTINF:-1 station-id="awb_75752a5a4679a2c9bbca" stream-id="aws_af6542d549ed50fb76e1" codec="mp3" bitrate="64",InfoPico Radio 99.9 - General Pico
@@ -836,7 +796,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FLATINOS_56AAC
 #EXTINF:-1 station-id="awb_e107a53a12c894f9a853" stream-id="aws_a3577b894b30f74831ad" codec="aac+" bitrate="32",La 100 Nogoyá
 https://01.solumedia.com.ar:8712/stream
 #EXTINF:-1 station-id="awb_f1a9ca943a0509a5b034" stream-id="aws_6c95e9126b55b2fa418a" codec="aac+" bitrate="64",La 100 Nuevos Clásicos
-https://27583.live.streamtheworld.com/FNCLASICOS_56AAC.aac
+https://24503.live.streamtheworld.com/FNCLASICOS_56AAC.aac
 #EXTINF:-1 station-id="awb_fe26c4493869c4b68648" stream-id="aws_c21a37887dd877ebde80" codec="aac+" bitrate="64",La 100 Rock Nacional
 https://playerservices.streamtheworld.com/api/livestream-redirect/FROCKNAC_56AAC.aac
 #EXTINF:-1 station-id="awb_d0a4cda0c62f484c8d69" stream-id="aws_d4f67a12e318327d1c8c" codec="mp3" bitrate="24",La 100 San Justo 99.9 FM
@@ -893,8 +853,6 @@ https://masservidor.net:7180/;
 https://sa.mp3.icecast.magma.edge-access.net/LOA_LaOpinionAustral
 #EXTINF:-1 station-id="awb_6e65541d97cff0c6c59e" stream-id="aws_f12d8d4a72cce1740e91" codec="aac" bitrate="32",La Radio De Los Lentos
 https://01.solumedia.com.ar:7828/stream
-#EXTINF:-1 station-id="awb_ee9e38ab8a7b4efe20f3" stream-id="aws_33dc620d46291fb18062" codec="mp3" bitrate="128",La Ranchada 103.9 FM
-https://server.laradio.online/proxy/javier_diaz01?mp=/stream
 #EXTINF:-1 station-id="awb_808a1544d7e9feb7f3e1" stream-id="aws_221ae25799b6f5f15f6e" codec="mp3" bitrate="128",La Red Pampeana
 http://server.laradio.online:9033/live
 #EXTINF:-1 station-id="awb_9982384eb832bb7633d2" stream-id="aws_b02c03644efea5499494" codec="mp3" bitrate="128",La Red San Luis 88.3 FM
@@ -921,20 +879,18 @@ https://streamlky.alsolnet.com/larz
 https://streaming3.locucionar.com/proxy/lasermerlo?mp=/stream
 #EXTINF:-1 station-id="awb_7907f518a4175aea270f" stream-id="aws_8d815362e956d1416ad9" codec="mp3" bitrate="64",Lentos de Todos Los Tiempos
 https://s3.conectarmedia.com:8016/stream
-#EXTINF:-1 station-id="awb_68af21751239972dedd9" stream-id="aws_4ca3d2af008ddd605ea7" codec="aac+" bitrate="26",Level Rock FM
+#EXTINF:-1 station-id="awb_68af21751239972dedd9" stream-id="aws_4ca3d2af008ddd605ea7" codec="aac+" bitrate="24",Level Rock FM
 https://streaming2.locucionar.com/proxy/levelrock?mp=/stream
-#EXTINF:-1 station-id="awb_bf0f99abe22ff5a34647" stream-id="aws_5ba72b868aacaecf9dfb" codec="aac+" bitrate="64",Libertad Digital 99.1 FM
-https://cdn.instream.audio:9570/stream
-#EXTINF:-1 station-id="awb_8fedfec460a1a5b097dc" stream-id="aws_cb278607c3e7605b055f" codec="aac" bitrate="192",Lider 104.3
+#EXTINF:-1 station-id="awb_8fedfec460a1a5b097dc" stream-id="aws_cb278607c3e7605b055f" codec="aac" bitrate="193",Lider 104.3
 https://stream.arcast.tv:8443/lidersanjuan/lidersanjuan.stream/playlist.m3u8
-#EXTINF:-1 station-id="awb_2b1546ebd7380ac5be7d" stream-id="aws_9b33af24ec210212a041" codec="mp3" bitrate="128",Lider 93.7 Bella Vista ctes
+#EXTINF:-1 station-id="awb_2b1546ebd7380ac5be7d" stream-id="aws_9b33af24ec210212a041" codec="mp3" bitrate="96",Lider 93.7 Bella Vista ctes
 https://radiosar.com:8016/stream
 #EXTINF:-1 station-id="awb_f0776757c81ed5240e35" stream-id="aws_03272d102891b3f29e39" codec="mp3" bitrate="128",Life FM 99.5
 https://https.nvradios.com/radio/9496//radio.mp3
 #EXTINF:-1 station-id="awb_8f74a2fff07438410146" stream-id="aws_ac4c1d3360306d2202d1" codec="aac+" bitrate="96",Light FM 97.3 San Juan
 https://host.serviceinfinito.com.ar:7000/;stream
 #EXTINF:-1 station-id="awb_f545137dc82451ad4803" stream-id="aws_993edb5e454287e3e54c" codec="mp3" bitrate="128",LN+ musica
-https://das-edge63-live365-dal03.cdnstream.com/a98981
+https://das-edge13-live365-dal02.cdnstream.com/a98981
 #EXTINF:-1 station-id="awb_cd4de82a68274090f29d" stream-id="aws_333dab3105d2492f8876" codec="aac+" bitrate="32",LOS 40 SANTA FE 97.7
 https://radios.solumedia.com:6158/stream?icy=http
 #EXTINF:-1 station-id="awb_c12831f51d5bb74ab307" stream-id="aws_293b0c0e2874f29acaf6" codec="mp3" bitrate="131",LOS40 Argentina
@@ -1051,7 +1007,7 @@ https://radios.lu17.com:8401/lu17
 https://sonic.host-live.com:10967/stream
 #EXTINF:-1 station-id="awb_2ec859e91fc53530c561" stream-id="aws_7436a070d13ea93b3c98" codec="mp3" bitrate="128",LU18 AM 640 Radio del Valle (Rio Negro)
 https://streamingraddios.online/proxy/valle?mp=/stream
-#EXTINF:-1 station-id="awb_b9c734fc0094e56b2853" stream-id="aws_350064977bed98e30b2f" codec="aac" bitrate="64",LU2 Radio Bahía Blanca
+#EXTINF:-1 station-id="awb_b9c734fc0094e56b2853" stream-id="aws_350064977bed98e30b2f" codec="aac+" bitrate="48",LU2 Radio Bahía Blanca
 https://streaming6.locucionar.com:24228/stream?ver=492502
 #EXTINF:-1 station-id="awb_133f14631169aa6204ef" stream-id="aws_acf3a8f10e7ac34253be" codec="aac+" bitrate="32",LU20 Radio Chubut
 https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream
@@ -1091,8 +1047,6 @@ http://23.111.184.195:8030/m90.mp3
 http://23.111.184.195:8020/mileniumrosario.mp3
 #EXTINF:-1 station-id="awb_28afd61c77c7e6857c35" stream-id="aws_d193a30e35be15b289fe" codec="aac+" bitrate="24",Magic Kids FM
 http://argentina.republicahosting.com:8197/stream
-#EXTINF:-1 station-id="awb_6e3f2b7b6b8d5de141b1" stream-id="aws_12d482bc0f444d893a4b" codec="aac" bitrate="48",Malva FM - General Pico
-https://cdn.instream.audio/:9310/stream
 #EXTINF:-1 station-id="awb_44a3243669be84f56803" stream-id="aws_1d8cd982d1e8972fff6e" codec="mp3" bitrate="128",Mañana Intensa
 https://server.streamcasthd.com/8272/stream
 #EXTINF:-1 station-id="awb_d741d52c573c69452838" stream-id="aws_7379570bb53a27099510" codec="aac+" bitrate="56",MARAGATA FM 97.5
@@ -1158,19 +1112,15 @@ https://server.laradio.online/proxy/marco_aravena02?mp=/stream
 #EXTINF:-1 station-id="awb_672ac2806e24265df098" stream-id="aws_a9755356e78f7c83ac97" codec="mp3" bitrate="128",neverland
 https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY
 #EXTINF:-1 station-id="awb_0c89b4e9c87f180a33a3" stream-id="aws_6833555bc7fef8478eaf" codec="mp3" bitrate="128",Nex Live Radio On line
-https://stream-176.surfernetwork.com/ldgvdewb5metv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsZGd2ZGV3YjVtZXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImE4STIwQUhMUkZPREQyTlFGcl8yblEiLCJpYXQiOjE3OTQ4NjcwMDksImV4cCI6MTc5NDg2NzA2OX0.F14nlAVynw_5jU8ZJzlXIwrhVR5dRhKYC4_4O_OYw2A
+https://stream-176.surfernetwork.com/ldgvdewb5metv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsZGd2ZGV3YjVtZXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkphT2hNQzJYU0MyUGhVRlhocUcxa1EiLCJpYXQiOjE3OTUyOTkxMjQsImV4cCI6MTc5NTI5OTE4NH0.IWpJtokOuVcQ5QKoVY9sGFaUapUtSFzk0_7OHwjKg5o
 #EXTINF:-1 station-id="awb_8ad1c951fb70448421e1" stream-id="aws_38b21db875f9bc4aa778" codec="mp3" bitrate="128",NJOY FM
 https://radio02.ferozo.com/proxy/ra02001598?mp=/stream
 #EXTINF:-1 station-id="awb_5df506e412433a0ac7d8" stream-id="aws_ea493b60efb11b692ea7" codec="mp3" bitrate="128",Nova Disco Radio
 https://streaming01.shockmedia.com.ar/9716/stream
 #EXTINF:-1 station-id="awb_7863cd56ee94a3c1bbf8" stream-id="aws_3973691c90462558eb03" codec="mp3" bitrate="128",NOW 97.9
 https://ipanel.instream.audio:7002/stream
-#EXTINF:-1 station-id="awb_a0aa776121bfa3926458" stream-id="aws_7c3c68b5fd9af84047bd" codec="aac" bitrate="48",NQP Radio
-http://cdn.instream.audio:8111/stream
 #EXTINF:-1 station-id="awb_31b13cd755c61b4ea7a8" stream-id="aws_5772f322bf5e707311dd" codec="mp3" bitrate="64",Nuestra FM La Adela FM 107.5
 http://server1.veemesoft.com.ar:10147/;
-#EXTINF:-1 station-id="awb_8694896eda3c97160cd4" stream-id="aws_d16f7a22a925f966a888" codec="aac+" bitrate="12",OK FM Arroyito
-http://audio.questreaming.com:27156/
 #EXTINF:-1 station-id="awb_7d71d8c75a942b00718b" stream-id="aws_31375fdba3622f498a1a" codec="aac+" bitrate="32",OK FM Radio
 https://radio01.ferozo.com/proxy/ra01000756?mp=/stream
 #EXTINF:-1 station-id="awb_ba21dd22a4b715fcce2e" stream-id="aws_7828eda4e4a6de34fd30" codec="mp3" bitrate="96",Oktubre FM 89.1
@@ -1201,8 +1151,6 @@ https://streaming.radiosenlinea.com.ar:10763/live
 https://stream.zeno.fm/60pqgs97f2zuv
 #EXTINF:-1 station-id="awb_5a6cfe2fec1d003005b6" stream-id="aws_62eb4a9079fe836ebb6a" codec="mp3" bitrate="128",PLAY 94.3
 https://sonic.host-live.com/8026/stream
-#EXTINF:-1 station-id="awb_47457be58ee878107d37" stream-id="aws_8ec293ecd8ed4033d825" codec="aac" bitrate="96",Play FM 103.3
-http://cdn.instream.audio:9170/stream
 #EXTINF:-1 station-id="awb_6e76cde83e0bfba638bf" stream-id="aws_1cfa7897537d39a80c9e" codec="mp3" bitrate="128",Play Fm 93.9
 https://01.solumedia.com.ar:8096/stream
 #EXTINF:-1 station-id="awb_0cd2d9a4c64ccbf0096b" stream-id="aws_3c4095704425dfe88bc6" codec="aac+" bitrate="64",Plus 93.1 FM
@@ -1233,7 +1181,7 @@ https://srv591.grupomultimedios.com.ar:9902/listen/radio_zeta/radio.mp3
 https://pungasradio.rebel.ar/pungasradio
 #EXTINF:-1 station-id="awb_bf16bc6df41404e8b227" stream-id="aws_0fa5b1da5bdc23ce6999" codec="aac" bitrate="32",Punto 11 105.7 FM
 https://streaming3.locucionar.com/proxy/punto11?mp=/stream
-#EXTINF:-1 station-id="awb_83696ab8cb3c3d9b40a1" stream-id="aws_0be046a8b501cf50972a" codec="aac+" bitrate="52",Punto a Punto radio
+#EXTINF:-1 station-id="awb_83696ab8cb3c3d9b40a1" stream-id="aws_0be046a8b501cf50972a" codec="aac+" bitrate="48",Punto a Punto radio
 https://streaming01.shockmedia.com.ar:10714/stream?icy=http
 #EXTINF:-1 station-id="awb_f196102f5bf03e49a660" stream-id="aws_0c67caf24e975d0980eb" codec="aac+" bitrate="32",Q103 Radio
 http://01.solumedia.com.ar:7139/;
@@ -1263,8 +1211,6 @@ https://radio.arcast.cloud:1060/stream
 https://cdn.instream.audio/:9056/stream?_=1680ada412b
 #EXTINF:-1 station-id="awb_21d45b456809a36d863a" stream-id="aws_a36f1b36c4fb770d8cf6" codec="unknown" bitrate="0",Radio 2
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b24baf8c7e00145e64e1_240p/index.m3u8
-#EXTINF:-1 station-id="awb_352810ede920250b05fe" stream-id="aws_b944b82f2adb1448cec1" codec="mp3" bitrate="128",Radio 2 107.1 FM
-https://cdn.instream.audio/:9056/stream
 #EXTINF:-1 station-id="awb_97bf5a5cdcf430f36464" stream-id="aws_7feaa23ab360196c785c" codec="aac+" bitrate="64",Radio 2 1230 AM
 http://radio2.radio.rosario3.com:8000/prueba2
 #EXTINF:-1 station-id="awb_b1c8887439379b5a170a" stream-id="aws_8e6e1cf1b1705caebc7c" codec="aac+" bitrate="64",Radio 2 AM 1230
@@ -1303,7 +1249,7 @@ http://streaming01.shockmedia.com.ar:9332/stream
 https://stream.zeno.fm/fh68vgu6echvv
 #EXTINF:-1 station-id="awb_72345c514e02f0191550" stream-id="aws_5de1273da529d12c2df8" codec="aac" bitrate="64",Radio Alas 101.7
 http://server.laradio.online:8741/live
-#EXTINF:-1 station-id="awb_50bd8ff4c3526556b878" stream-id="aws_9a141b6480c23a98d4d0" codec="aac+" bitrate="104",Radio Alto Alegre 105.5 FM
+#EXTINF:-1 station-id="awb_50bd8ff4c3526556b878" stream-id="aws_9a141b6480c23a98d4d0" codec="aac+" bitrate="96",Radio Alto Alegre 105.5 FM
 http://sonicpanel.hostradios.com:8174/;
 #EXTINF:-1 station-id="awb_13cea48ba28e0529038a" stream-id="aws_686f7da14406de6db1f6" codec="aac+" bitrate="64",Radio AM 750
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC.aac
@@ -1327,8 +1273,6 @@ https://s11.myradiostream.com/24752/listen.mp3
 https://streaming.radiosenlinea.com.ar:10672/
 #EXTINF:-1 station-id="awb_14da4752df241347ca80" stream-id="aws_898b40ff26688788a313" codec="aac+" bitrate="64",Radio Bar 96.9 FM
 https://streaming01.shockmedia.com.ar/9420/stream
-#EXTINF:-1 station-id="awb_73364e67845b3f1068a6" stream-id="aws_8905a4a0b76259722b2a" codec="aac+" bitrate="32",RADIO BEAT 97.5 FM
-http://audio.questreaming.com:27902/;
 #EXTINF:-1 station-id="awb_d8b5661f3b1208aa0328" stream-id="aws_aaa814ab921c29362af5" codec="aac+" bitrate="32",Radio Beat FM 97.5
 https://stm2.livecastradio.com:27902/stream//
 #EXTINF:-1 station-id="awb_266ee55166c6b4f37f6a" stream-id="aws_09c2536a270b2106939b" codec="mp3" bitrate="128",Radio Belgrano - AM 650
@@ -1380,8 +1324,8 @@ http://streamall.alsolnet.com:443/radiocielo
 #EXTINF:-1 station-id="awb_4fa26b761bb055013620" stream-id="aws_5b787b721eb72faa9340" codec="aac+" bitrate="56",Radio City Campana - FM 91.7
 https://proxy.turadioinfo.com/5842/stream
 #EXTINF:-1 station-id="awb_af34130a75d50e0ff4fe" stream-id="aws_9b386a8b025632a571b4" codec="aac" bitrate="128",RADIO CITY CORDOBA
-https://stream-175.surfernetwork.com/bic7uvmhagruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiaWM3dXZtaGFncnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJOTVVjSjhDU2Z1MzBvTFNwR3o4NmciLCJpYXQiOjE3OTQ4NzkyNTUsImV4cCI6MTc5NDg3OTMxNX0.qLFPtSxwLv7Ls-BhXcMAV2AqAR4hKO2o7o1igCn-adY
-#EXTINF:-1 station-id="awb_2aeaeb5898e770c7ead2" stream-id="aws_22e721c4bc1c39f08860" codec="aac" bitrate="165",Radio City FM 107.1
+https://stream-175.surfernetwork.com/bic7uvmhagruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiaWM3dXZtaGFncnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IndOSHRUazA1UzZTT0FNM2UtYmlrUHciLCJpYXQiOjE3OTUzMTE3MTIsImV4cCI6MTc5NTMxMTc3Mn0.4orgrUW_Tves36hctxxrCrkCmG7Zoe_4mZlQCZ10PaM
+#EXTINF:-1 station-id="awb_2aeaeb5898e770c7ead2" stream-id="aws_22e721c4bc1c39f08860" codec="aac" bitrate="164",Radio City FM 107.1
 https://5cd577a3dd8ec.streamlock.net/radiocity/live_1/playlist.m3u8
 #EXTINF:-1 station-id="awb_a256e8e028d97c3114f8" stream-id="aws_3ec9c69402c42224350a" codec="unknown" bitrate="0",Radio City juy
 https://5cd577a3dd8ec.streamlock.net/radiocity/live_1/chunklist_w1831978817.m3u8
@@ -1393,8 +1337,6 @@ https://radios.solumedia.com:6624/;type=mp3
 http://181.177.20.20:8000/radiociudad
 #EXTINF:-1 station-id="awb_70314b90e86a0949e66c" stream-id="aws_b78cb6ea694b59fa35f0" codec="unknown" bitrate="0",Radio Ciudad 91.1 FM
 https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
-#EXTINF:-1 station-id="awb_be8e3f097e003dd1e8dc" stream-id="aws_102449f7c1d416f45168" codec="aac+" bitrate="96",Radio Ciudad 99.5 FM
-https://cdn.instream.audio/stream/9526/stream
 #EXTINF:-1 station-id="awb_63b9fc4af3b567c742fc" stream-id="aws_11ba7d799f5840dfe5b9" codec="aac+" bitrate="128",Radio Ciudad AM 1110
 https://media.radios.ar:1110/
 #EXTINF:-1 station-id="awb_097fd0b23e2335cf111c" stream-id="aws_1da96989cb76bc417fde" codec="aac" bitrate="32",Radio Ciudad de Zarate - FM 93.9
@@ -1405,15 +1347,13 @@ https://irrati.radio105.ar/1069.opus
 https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIAAAC.aac
 #EXTINF:-1 station-id="awb_322eade829712e1f207d" stream-id="aws_0c772e8397b711754d87" codec="aac+" bitrate="96",Radio Compartir
 https://sonicpanel.hostradios.com:7018/
-#EXTINF:-1 station-id="awb_d7a401db572cec4f2484" stream-id="aws_87f2a08686f0f53d1e65" codec="mp3" bitrate="128",Radio Comunitaria Cuyum
-https://radios.liberaturadio.org/Cuyum
 #EXTINF:-1 station-id="awb_6ced388eb7b96d90bd05" stream-id="aws_bee6e2283c63504a2bbf" codec="mp3" bitrate="128",Radio Con Aguante
 https://streaming01.shockmedia.com.ar:10585/;
 #EXTINF:-1 station-id="awb_de24935282223119c869" stream-id="aws_b779c12aacdd316d8ae6" codec="mp3" bitrate="128",Radio Con Aguante - Piezas de Realidad
 https://streaming01.shockmedia.com.ar/9536/;?1718973618118
-#EXTINF:-1 station-id="awb_bca21ff230d7548972ad" stream-id="aws_be4dae2478a9377fc2e3" codec="aac" bitrate="66",Radio Con Vos 89.9
+#EXTINF:-1 station-id="awb_bca21ff230d7548972ad" stream-id="aws_be4dae2478a9377fc2e3" codec="aac" bitrate="67",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
-#EXTINF:-1 station-id="awb_c04eab0282092b97ebef" stream-id="aws_adf2e52db498b44a89aa" codec="aac" bitrate="65",Radio Con Vos 89.9 FM
+#EXTINF:-1 station-id="awb_c04eab0282092b97ebef" stream-id="aws_adf2e52db498b44a89aa" codec="aac" bitrate="66",Radio Con Vos 89.9 FM
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_b98c61bf7dbc55222e0f" stream-id="aws_4cf2446e6a7a337dea70" codec="mp3" bitrate="64",Radio Concepto FM 95.5
 https://radios.solumedia.com:6002/stream
@@ -1447,8 +1387,6 @@ https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream
 http://streaming.radiosenlinea.com.ar:9640/
 #EXTINF:-1 station-id="awb_32aa5ff3c104c15b27ac" stream-id="aws_c11ccad892fe7df902dc" codec="mp3" bitrate="96",Radio Deejay 92.5
 https://streaming.radiosenlinea.com.ar:10648/stream
-#EXTINF:-1 station-id="awb_9dfd709a6532f6ba8ff1" stream-id="aws_eb4d158cbee8df69097b" codec="mp3" bitrate="320",Radio del Mar 98.7
-https://cdn.instream.audio/:9051/stream
 #EXTINF:-1 station-id="awb_e7ccba0da0285875ebac" stream-id="aws_10efe827497168f53f10" codec="aac+" bitrate="192",RADIO DEL PARANA RAMALLO 99.3
 https://streaming.radiosenlinea.com.ar:10934/
 #EXTINF:-1 station-id="awb_a1667b17ada6efaa7d25" stream-id="aws_821112aec153dcaf7410" codec="mp3" bitrate="40",Radio del Plata
@@ -1461,8 +1399,6 @@ https://streaming.escuchanosonline.com:7106/stream
 https://stream.hego.com.ar/listen/radio_del_sol/radio.mp3
 #EXTINF:-1 station-id="awb_ce1280afba8d138936d0" stream-id="aws_f457c39bf05880cfec95" codec="unknown" bitrate="0",Radio Del Sol Formosa
 https://stmvideo7.livecastv.com/rds959/rds959/playlist.m3u8
-#EXTINF:-1 station-id="awb_5339f7d872f5b559716c" stream-id="aws_1a718f36ab513538e705" codec="aac" bitrate="320",Radio Del Sur 97.1
-https://cdn.instream.audio:9552/stream
 #EXTINF:-1 station-id="awb_d905ed92cdc92fa609a8" stream-id="aws_282a64c7199aac340ed6" codec="mp3" bitrate="128",Radio Diario El Litoral Corrientes
 https://radios.solumedia.com/6446/stream
 #EXTINF:-1 station-id="awb_45f5c3a6edbd915884a6" stream-id="aws_386b7b83bc5ad6020df2" codec="mp3" bitrate="96",Radio Digital San Luis
@@ -1476,7 +1412,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAA
 #EXTINF:-1 station-id="awb_f53c4984371709e9dccc" stream-id="aws_9164ef08b9c316bdc16a" codec="aac" bitrate="128",Radio Disney 94.3 - Buenos Aires, Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
 #EXTINF:-1 station-id="awb_2fae2db973b0c868cef0" stream-id="aws_97ca2c0aae378587e8ba" codec="aac+" bitrate="128",Radio Disney Argentina 94.3
-http://26453.live.streamtheworld.com/DISNEY_ARG_BA_ADP_SC
+http://27613.live.streamtheworld.com/DISNEY_ARG_BA_ADP_SC
 #EXTINF:-1 station-id="awb_9c9f09a5445130876a36" stream-id="aws_00274b8af32caf4a71e7" codec="mp3" bitrate="128",Radio Disney Argentina 94.3. Ciudad de Buenos Aires
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3
 #EXTINF:-1 station-id="awb_6ad138eb08841cce8f93" stream-id="aws_222518678584b5f047cf" codec="aac+" bitrate="128",Radio Disney Costa Rica
@@ -1531,7 +1467,7 @@ http://streaming5.locucionar.com:23184/stream
 http://radio2.dev54.com:8500/radiofederal.mp3
 #EXTINF:-1 station-id="awb_d66edbb1c8acf8133502" stream-id="aws_4c8e9d9adfbd33e59872" codec="aac" bitrate="64",Radio Fenix
 https://stream.zeno.fm/g8qrp8ammxhvv
-#EXTINF:-1 station-id="awb_0cdabfe9df34b784fcd7" stream-id="aws_73b79d9a0165c82a4a2a" codec="unknown" bitrate="250",Radio Fiesta 97.1 Jujuy
+#EXTINF:-1 station-id="awb_0cdabfe9df34b784fcd7" stream-id="aws_73b79d9a0165c82a4a2a" codec="aac" bitrate="165",Radio Fiesta 97.1 Jujuy
 https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8
 #EXTINF:-1 station-id="awb_b61f650bcacde724e8d1" stream-id="aws_984bef1ee5b105039d01" codec="aac+" bitrate="32",Radio Fiesta Bragado 92.5
 https://01.solumedia.com.ar:8242/stream?icy=http
@@ -1579,8 +1515,6 @@ https://server.streamcasthd.com/8022/stream
 http://sonic.cloudstreaming.eu:9992/;
 #EXTINF:-1 station-id="awb_8e17b72b8443099c0c9e" stream-id="aws_017cbacc431983153ec8" codec="aac+" bitrate="32",Radio Impacto Realicó 91.1
 https://streaming01.shockmedia.com.ar:10829/stream?icy=http
-#EXTINF:-1 station-id="awb_91b1672ac55e7ce1beee" stream-id="aws_4b2187eb281a1416f48d" codec="aac+" bitrate="32",Radio Infinita Mendoza 98.5 FM
-https://cdn.instream.audio/:8225/stream
 #EXTINF:-1 station-id="awb_f40dc54742ec4f2ff540" stream-id="aws_50e239a9b09faeec39fe" codec="aac+" bitrate="56",Radio Infinito
 https://radiosar.com/8088/stream
 #EXTINF:-1 station-id="awb_88d2658426f022d21a7d" stream-id="aws_6f94117fe10ec7c801c0" codec="aac" bitrate="64",Radio Infinity Classic
@@ -1589,12 +1523,10 @@ https://sonic.host-live.com/8192/stream
 http://genexservicios.com:8134/;?1713795357814
 #EXTINF:-1 station-id="awb_a0a797121e5ddff4650e" stream-id="aws_70e0da9d98ca74637c97" codec="aac+" bitrate="32",Radio Ingenieria Online
 https://genexservicios.com:2000/stream/radioingenieria?1791143753645
-#EXTINF:-1 station-id="awb_34109ba436c53809f2a4" stream-id="aws_4170de4c8989aa19f961" codec="aac" bitrate="32",Radio Isla del Cerrito FM 106.3
-https://cdn.instream.audio/:9045/stream
 #EXTINF:-1 station-id="awb_7667b1ac7f21cca41d52" stream-id="aws_cacbeb32a715873b940f" codec="unknown" bitrate="0",Radio Jai 96.3
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 #EXTINF:-1 station-id="awb_bf640a049097dfeaffa6" stream-id="aws_f23e26692064afa22699" codec="aac" bitrate="192",Radio Jazz Cafè FM-Smooth & Jazzy
-https://stream-289.surfernetwork.com/qktzze7sb18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3R6emU3c2IxOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InJBRkF3T2c0VGdXbVN3emNLVHJ6aWciLCJpYXQiOjE3OTQ4ODMxODgsImV4cCI6MTc5NDg4MzI0OH0.rzYNyeWSDxnNUi9UysIvGRqQNnSPy_u-w_4ym-Tswso
+https://stream-289.surfernetwork.com/qktzze7sb18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3R6emU3c2IxOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFvRDAwTHpMUnRXcE9vai1KUC1UYlEiLCJpYXQiOjE3OTUzMTU2MTgsImV4cCI6MTc5NTMxNTY3OH0.QVaSNG8tppeWaXHr_p54ntM29SZQ935TuB8zi1c4YaM
 #EXTINF:-1 station-id="awb_4a679f19d6e0b3ead62e" stream-id="aws_e24e32a516cb7b36ec0e" codec="aac+" bitrate="64",Radio Jujuy 104.5 - San Pedro
 https://stream.djroquesalazar.com.ar/8938/stream
 #EXTINF:-1 station-id="awb_69b89d7948fdddb6fc61" stream-id="aws_cb6c3dc821a2ecf27ca2" codec="mp3" bitrate="128",Radio Kermes
@@ -1615,16 +1547,14 @@ https://tolkien.republicahosting.net:2361/live
 https://stream.zeno.fm/7zb5ppzk0mruv.aac
 #EXTINF:-1 station-id="awb_710645adc2c8fd312906" stream-id="aws_d76c33e17c4e5d462a1f" codec="mp3" bitrate="128",Radio La Plata 90.9
 https://radios.solumedia.com/6348/stream
-#EXTINF:-1 station-id="awb_ec5d459073edce482f2e" stream-id="aws_09ca6d5e06f0e88341b8" codec="mp3" bitrate="128",Radio La PLaza 94.7
+#EXTINF:-1 station-id="awb_ec5d459073edce482f2e" stream-id="aws_09ca6d5e06f0e88341b8" codec="aac" bitrate="160",Radio La PLaza 94.7
 https://radio.arcast.net:1045/stream
-#EXTINF:-1 station-id="awb_40102db39d505e581edf" stream-id="aws_8dbf2895d53ffc1d3061" codec="aac" bitrate="129",Radio La Popu San Juan
+#EXTINF:-1 station-id="awb_40102db39d505e581edf" stream-id="aws_8dbf2895d53ffc1d3061" codec="aac" bitrate="128",Radio La Popu San Juan
 https://stream.arcast.tv:8443/popusanjuan/popusanjuan.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_90788e07a938a2f3695d" stream-id="aws_74461c3d757c70e45c74" codec="mp3" bitrate="128",Radio La Punta 97.3 FM
 https://streaming01.shockmedia.com.ar:10923/stream?icy=http
-#EXTINF:-1 station-id="awb_0a3b3103a4d2460a2a04" stream-id="aws_13fee9f76db91e93066e" codec="mp3" bitrate="112",Radio La Récord 87.9 FM Tandil
+#EXTINF:-1 station-id="awb_0a3b3103a4d2460a2a04" stream-id="aws_13fee9f76db91e93066e" codec="aac+" bitrate="96",Radio La Récord 87.9 FM Tandil
 https://tolkien.republicahosting.net:2432/live
-#EXTINF:-1 station-id="awb_a43652f4af0896fc8c24" stream-id="aws_12685cc4e328ab56f390" codec="aac" bitrate="48",Radio La Red 90.5 FM Necochea
-https://cdn.instream.audio:9566/stream
 #EXTINF:-1 station-id="awb_745447bc3f7052722f1e" stream-id="aws_13ebeb1ad24355c5aa2f" codec="aac+" bitrate="64",Radio La Red AM 910. Ciudad de Buenos Aires
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 #EXTINF:-1 station-id="awb_1cb02a0bd0e279e24c1c" stream-id="aws_9e538c8064d91fc68e11" codec="mp3" bitrate="128",Radio La Red La Rioja 88.3 FM
@@ -1707,7 +1637,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FM993_56AAC.aa
 https://sonic.streamingchilenos.com:8138/
 #EXTINF:-1 station-id="awb_5d66d1400608c7244248" stream-id="aws_c9965cfab6aaab7ab60d" codec="aac+" bitrate="96",Radio Monk
 http://streaming01.shockmedia.com.ar:9858/;
-#EXTINF:-1 station-id="awb_f0554d6a9dff01bfa2ff" stream-id="aws_a387e686dd562eeb7d28" codec="mp3" bitrate="128",Radio Municipal
+#EXTINF:-1 station-id="awb_f0554d6a9dff01bfa2ff" stream-id="aws_a387e686dd562eeb7d28" codec="mp3" bitrate="112",Radio Municipal
 https://argentina.republicahosting.com:2100/live
 #EXTINF:-1 station-id="awb_4dd135b21fd520f7ef37" stream-id="aws_b87e0bbfd415cbfbfa18" codec="aac+" bitrate="32",Radio Municipal 88.5 Pehuajó
 https://radios.solumedia.com:6324/stream
@@ -1750,7 +1680,7 @@ http://149.202.235.235:8011/live
 #EXTINF:-1 station-id="awb_bd2c39efed9fdfd5a317" stream-id="aws_252dc6ab7e7551e1a0f5" codec="aac" bitrate="160",Radio Panorama
 https://stream.arcast.com.ar/radio/sgodelestero.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_df35e0df65c86ea17c30" stream-id="aws_6774ab4f5c1e352c80a9" codec="mp3" bitrate="128",Radio Pasión y Deporte
-https://stream-178.surfernetwork.com/md7f0a118vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZDdmMGExMTh2enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IklfVlVJdU1ZUTBPQ1NaaExyQTlvcHciLCJpYXQiOjE3OTQ4NzU4OTIsImV4cCI6MTc5NDg3NTk1Mn0.i8oGh4PWeXFmGuE5IO_msF1dXXcuUhPHfyHzy-qTDZU
+https://stream-178.surfernetwork.com/md7f0a118vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZDdmMGExMTh2enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxIMHdoLVJxUWxxY3ZkOGUyV3BlSmciLCJpYXQiOjE3OTUzMDgwNTgsImV4cCI6MTc5NTMwODExOH0.iBlU2CZjKTq2kWoLpgbergeuHeApBVCLQy6KmHwe-JQ
 #EXTINF:-1 station-id="awb_02d242c2a0906c6c06f8" stream-id="aws_9eb71f8ed8701204fc8d" codec="aac" bitrate="32",Radio Patagonia Carmen De Patagones
 https://radiosar.com/8162/stream
 #EXTINF:-1 station-id="awb_ac6cd900f48c5dc57a1f" stream-id="aws_f9da1397d1308f43b6f9" codec="aac+" bitrate="64",Radio Patagonia Puerto Madryn FM 105.5
@@ -1835,8 +1765,6 @@ https://sslstream.online:7091/;
 https://stream4.suenas.net/shoppingclassics
 #EXTINF:-1 station-id="awb_9d8712fcbc077f02d34f" stream-id="aws_c2f9c121b8c04bfce510" codec="aac+" bitrate="56",Radio Show FM 98.5
 https://radiosar.com:8074/stream
-#EXTINF:-1 station-id="awb_67b7e300c78e253f11ba" stream-id="aws_6a798eeab9a4e9b474d4" codec="aac" bitrate="48",Radio Simphony 91.3
-https://cdn.instream.audio/:8129/stream?_=1733d994fdc
 #EXTINF:-1 station-id="awb_3b065e2dcb23c75d8ff7" stream-id="aws_101de24b2d1893e11ad3" codec="mp3" bitrate="128",Radio SOL FM 89.5 Rufino
 https://stream.zeno.fm/2kbhtdxgzhhvv
 #EXTINF:-1 station-id="awb_3978c2967cc57be59b59" stream-id="aws_1235f752145fd63af7b9" codec="mp3" bitrate="0",Radio Solaria
@@ -1849,11 +1777,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC.aac
 #EXTINF:-1 station-id="awb_e6ee193d7ff6d402263b" stream-id="aws_699dfb5705ca57353c04" codec="mp3" bitrate="80",Radio Studio UTN - FM 107.7 Campana
 https://streamingradiolinks.xyz/8218/;
-#EXTINF:-1 station-id="awb_be0e30f90d540529df29" stream-id="aws_6671fc34bbe757ef6346" codec="aac" bitrate="48",Radio Stylo 101.1
-https://cdn.instream.audio/stream/stylojor
 #EXTINF:-1 station-id="awb_54c4e1c81e161af53f4d" stream-id="aws_9120b65cdffb1ae0dad3" codec="aac+" bitrate="48",Radio Sudamericana 100.5 - Corrientes Capital
 http://turadioenvivo.com:8530/stream?1562165478826
-#EXTINF:-1 station-id="awb_187520a54e78c4cc060f" stream-id="aws_5e127839a2f51f0f7b53" codec="aac+" bitrate="48",Radio Suquia
+#EXTINF:-1 station-id="awb_187520a54e78c4cc060f" stream-id="aws_5e127839a2f51f0f7b53" codec="aac+" bitrate="40",Radio Suquia
 https://streaming01.shockmedia.com.ar:10945/
 #EXTINF:-1 station-id="awb_4e825483481eca1535a3" stream-id="aws_f73bf4033daf6ba76bc4" codec="aac+" bitrate="64",Radio Sur FM 90.1
 https://streaming.dainusradio.com:9848/;
@@ -1863,8 +1789,6 @@ https://streaming01.shockmedia.com.ar/8170/live
 https://server7.hostradios.com:8142/stream
 #EXTINF:-1 station-id="awb_f65735e338353c1d24a3" stream-id="aws_4f0eb52b6fe32b986560" codec="aac" bitrate="64",Radio Tiempo Villa Mercedes
 https://stream-152.zeno.fm/6v6wmf2sivevv?zs=n7o6R7wmQQmLfi8nD1ADNA
-#EXTINF:-1 station-id="awb_cd1a51fb3c18e5bb94d3" stream-id="aws_e36f0c154c5adc3b766c" codec="aac+" bitrate="128",Radio Top 105.9
-https://cdn.instream.audio:9818/stream
 #EXTINF:-1 station-id="awb_9b10ce46b346942bbd37" stream-id="aws_749d0b9989a794a15b79" codec="unknown" bitrate="0",Radio Top Resistencia
 https://live-ar1.cdnrad.com/hls/radio-2075/live.m3u8
 #EXTINF:-1 station-id="awb_bd7188eddc01376f1873" stream-id="aws_7bc986c448ef3c0b8ba7" codec="mp3" bitrate="64",Radio Trelew Noticias 96.9 FM
@@ -1903,8 +1827,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/UNOAAC.aac
 https://radios.solumedia.com:6380/stream?icy=http
 #EXTINF:-1 station-id="awb_440128b579aebeddc5db" stream-id="aws_32129a24aaf01a76c917" codec="mp3" bitrate="0",Radio Uno Fm 101.3
 https://ssl.radiosnethosting.com/centova2_puerto4numeros.php?port=9888/;stream.mp3
-#EXTINF:-1 station-id="awb_23860308528688ec6ac2" stream-id="aws_05736c671f2c31de3568" codec="aac" bitrate="320",Radio UNR
-https://cdn.instream.audio/:9202/stream
 #EXTINF:-1 station-id="awb_ed8312067f954f3f2be3" stream-id="aws_203cb9450f0399a22ea9" codec="aac" bitrate="192",Radio UPCP
 https://stream.zeno.fm/sdehum3c3v8uv
 #EXTINF:-1 station-id="awb_706e945a62b034b56386" stream-id="aws_abe306f03db285a1c98d" codec="aac+" bitrate="48",Radio Urbana
@@ -1951,14 +1873,6 @@ https://stream.codigosur.org/radionauta.mp3
 https://one.stweb.tv/one/live/playlist.m3u8
 #EXTINF:-1 station-id="awb_af3368e3533b8a460702" stream-id="aws_393e051351734539909a" codec="aac" bitrate="96",Radiostar 101.3
 https://stream.zeno.fm/63rxppwqpc9uv/;type=mp3
-#EXTINF:-1 station-id="awb_b529e571e98d8f0d67df" stream-id="aws_7782a740151f3232b295" codec="aac" bitrate="64",RadioTV AN24
-https://cdn.instream.audio:9307/stream
-#EXTINF:-1 station-id="awb_6ba79d17a98212de82c5" stream-id="aws_17ea2e04e63d70fb6ff7" codec="mp3" bitrate="320",Radiovision 99.5 FM
-https://cdn.instream.audio/:9061/stream
-#EXTINF:-1 station-id="awb_ce2649aaa0a62bf50d5a" stream-id="aws_9b47c17c6562d83845ff" codec="mp3" bitrate="320",Radiovision 99.5 fm
-https://cdn.instream.audio/:9061/stream?in_device_id=wp-e80516ae-250e-4455-ac11-14ce5f370cc8
-#EXTINF:-1 station-id="awb_510de5d433109482e7c5" stream-id="aws_a42cfe7fbeda7ba851db" codec="mp3" bitrate="320",Radiovision Comodoro Rivadavia FM 99.5
-https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988
 #EXTINF:-1 station-id="awb_72b5dedc43b1c6be8289" stream-id="aws_d73800203f158de02c63" codec="aac+" bitrate="48",Ranquel FM
 https://server6.hostradios.com/8556/stream/;type=mp3
 #EXTINF:-1 station-id="awb_736d1addb41af3fc847c" stream-id="aws_b0655d19938dc8a42319" codec="mp3" bitrate="128",RBD Radio Multimedia
@@ -1975,8 +1889,6 @@ https://stream.zeno.fm/vxqg94xspc9uv
 https://stream.zeno.fm/g1q0dpeco8wvv
 #EXTINF:-1 station-id="awb_4d7ff5c89e32ef0c3b61" stream-id="aws_aa0da247482c48880590" codec="mp3" bitrate="96",RetroMusic San Justo
 http://178.32.146.184:5938/;
-#EXTINF:-1 station-id="awb_d2830fbb28fd6289cf3f" stream-id="aws_c2ee2996daf052cb3661" codec="aac+" bitrate="48",Revuelto Radio
-https://cdn.instream.audio:9097/stream
 #EXTINF:-1 station-id="awb_5df9e0103efa1cc0a6e0" stream-id="aws_dad5bcbb774a3b30aea7" codec="aac+" bitrate="48",Rincón Gaucho
 https://dj91.hostingnuclear.com/9952/stream
 #EXTINF:-1 station-id="awb_e0b7f6454b0ab847d8fb" stream-id="aws_72b13cefa360b53f474c" codec="aac+" bitrate="32",Rio FM 104.3 General Belgrano
@@ -2013,7 +1925,7 @@ http://stream.zeno.fm/mbketaeaqhguv
 https://stream.zeno.fm/mbketaeaqhguv
 #EXTINF:-1 station-id="awb_35580128515d05a10d09" stream-id="aws_b125d1e1852b7e6654f4" codec="aac+" bitrate="128",ROLDÁN FM 92 92.3
 https://server.laradio.online/proxy/delcia_karamoschon?mp=/stream&1692351094586
-#EXTINF:-1 station-id="awb_ea4c1d7d5a13fa27e20e" stream-id="aws_f696c4fad38d6c8b97c1" codec="aac" bitrate="112",Romanticas Del Recuerdo
+#EXTINF:-1 station-id="awb_ea4c1d7d5a13fa27e20e" stream-id="aws_f696c4fad38d6c8b97c1" codec="aac" bitrate="128",Romanticas Del Recuerdo
 https://node-33.zeno.fm/urmfkad2em0uv
 #EXTINF:-1 station-id="awb_f442d867ebe156508163" stream-id="aws_f14f25de677baf808b59" codec="aac+" bitrate="48",RPM Oldies & Retro Hits
 https://radios.solumedia.com/6118/stream
@@ -2025,18 +1937,14 @@ http://radio01.ferozo.com:8976/;stream.nsv
 https://streaming.gostreaming.com.ar:10929/stream
 #EXTINF:-1 station-id="awb_4ae7aeb4a55ac287c531" stream-id="aws_02a76a57f3a8d27142cd" codec="aac+" bitrate="64",Signos FM Allen
 https://radios.streamingdha.com.ar/8046/;/stream
-#EXTINF:-1 station-id="awb_dee9c7dd8edbb852a513" stream-id="aws_d2a13d1fe7199bef24a1" codec="aac" bitrate="48",Simphony San Isidro FM 91.3 Mhz
-http://cdn.instream.audio:8129/stream
 #EXTINF:-1 station-id="awb_cb389e963e556a5099c2" stream-id="aws_526e160b28aff5f58aab" codec="aac+" bitrate="56",Sol FM 106.7 Bella Vista Ctes
 https://radiosar.com:8126/stream
-#EXTINF:-1 station-id="awb_4c0a098e43a6a8b5e689" stream-id="aws_36c9274c5d8ee83f277d" codec="aac" bitrate="65",Sol Play 91.5 FM
+#EXTINF:-1 station-id="awb_4c0a098e43a6a8b5e689" stream-id="aws_36c9274c5d8ee83f277d" codec="aac" bitrate="64",Sol Play 91.5 FM
 https://stream.arcast.tv:8443/fmsol/fmsol.stream/playlist.m3u8
 #EXTINF:-1 station-id="awb_03d8b1e44298def97276" stream-id="aws_d68bcd0785a64a3cc5be" codec="mp3" bitrate="128",Solo Rock Nacional
 https://stream.zeno.fm/g9purm3158quv
 #EXTINF:-1 station-id="awb_7ff1875c7f05d770773e" stream-id="aws_95a3c22754912fa8d777" codec="mp3" bitrate="128",Somos Radio
 https://ipanel.instream.audio:7000/stream
-#EXTINF:-1 station-id="awb_b22f724cd02c271fc7a8" stream-id="aws_940237eaa4de817c58d0" codec="aac+" bitrate="48",Somos Radio AM530
-https://cdn.instream.audio:9288/stream
 #EXTINF:-1 station-id="awb_b9995349159147440b97" stream-id="aws_d6cc72f5f478ae173dbf" codec="mp3" bitrate="128",Sonic FM
 https://streams.cloudcast.media/radio/8000/listen.mp3
 #EXTINF:-1 station-id="awb_757b67a6e88d1088eebd" stream-id="aws_cd9fc221401167e424af" codec="aac+" bitrate="64",Sonifo FM 103.5 - El clásico sonido de Buenos Aires
@@ -2047,7 +1955,7 @@ https://s2.servicioderadio.com/8664/stream
 https://streaming1.locucionar.com/proxy/soyunclasico?mp=/stream
 #EXTINF:-1 station-id="awb_2d299cc576668dfb678d" stream-id="aws_04338661da97f37d87d5" codec="mp3" bitrate="128",Steady State Radio
 https://radio.steadystateradio.com/listen/steady_state/radio.mp3
-#EXTINF:-1 station-id="awb_648d1094d3c2adc6bdb2" stream-id="aws_998cb6508b15c77787b6" codec="aac+" bitrate="56",Stop FM 89.1
+#EXTINF:-1 station-id="awb_648d1094d3c2adc6bdb2" stream-id="aws_998cb6508b15c77787b6" codec="aac+" bitrate="48",Stop FM 89.1
 https://streaming.escuchanosonline.com:7003/
 #EXTINF:-1 station-id="awb_9cc856d2fe2d97043e45" stream-id="aws_51058204cfc8680c0863" codec="aac" bitrate="32",Studio 90.5
 https://streaming3.locucionar.com/proxy/fmstudio905?mp=/stream
@@ -2069,7 +1977,7 @@ https://stream.zeno.fm/b29cslbyte1vv
 https://stream.radios.red/unaradio.ogg
 #EXTINF:-1 station-id="awb_e3e0d6233a0d565fd367" stream-id="aws_dabc92245f5be2699eb3" codec="mp3" bitrate="128",unas voz en el aire
 https://stream.zeno.fm/rlddkm6b5lktv
-#EXTINF:-1 station-id="awb_7dcd3f380c9ceb3e123c" stream-id="aws_3e9c0432c722a77938c2" codec="aac" bitrate="48",UnDinamo
+#EXTINF:-1 station-id="awb_7dcd3f380c9ceb3e123c" stream-id="aws_3e9c0432c722a77938c2" codec="aac" bitrate="48",Undinamo
 https://cdn.instream.audio/:9339/stream?in_device_id=WPU32ffbfaa3cd8ebaaa8f64ec868bf4b88XY177fdfd79a7
 #EXTINF:-1 station-id="awb_4ae556c1ad576d51196b" stream-id="aws_25111d066bf69062ac00" codec="mp3" bitrate="128",Universal FM 95.3
 https://stream-178.zeno.fm/sr9w97cgeg8uv
@@ -2089,7 +1997,7 @@ http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 https://vale.stweb.tv/vale/live/chunks.m3u8
 #EXTINF:-1 station-id="awb_14a7cbb423707247ab9f" stream-id="aws_391d4d0585f9e7ecbb32" codec="aac" bitrate="64",Vinilo Mix
 https://audiopanel.com.ar:8010/radio.aac
-#EXTINF:-1 station-id="awb_8706cd19ad199f12d762" stream-id="aws_47b6109ecaed9dc1f7fc" codec="aac+" bitrate="32",VIP Radio
+#EXTINF:-1 station-id="awb_8706cd19ad199f12d762" stream-id="aws_47b6109ecaed9dc1f7fc" codec="aac+" bitrate="36",VIP Radio
 https://server6.hostradios.com:7232/;?
 #EXTINF:-1 station-id="awb_8706cd19ad199f12d762" stream-id="aws_2d28f4b986ec86ad2c84" codec="aac+" bitrate="36",VIP Radio
 https://server6.hostradios.com:7232/;?1741613055764

@@ -19,7 +19,7 @@ http://emisiones.com.uy:8118/america
 http://emisiones.com.uy:8085/arapey
 #EXTINF:-1 station-id="awb_14a86c7e1efeeda36ed4" stream-id="aws_b61bd26286c716bf02ec" codec="mp3" bitrate="96",Armonía FM 92.5
 http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM
-#EXTINF:-1 station-id="awb_2075fd18541c1460979d" stream-id="aws_8d76bb5b9c748cccf506" codec="aac+" bitrate="72",Atlantida FM 89.9
+#EXTINF:-1 station-id="awb_2075fd18541c1460979d" stream-id="aws_8d76bb5b9c748cccf506" codec="aac+" bitrate="64",Atlantida FM 89.9
 http://server-uk1.radioseninternet.net:8034/;
 #EXTINF:-1 station-id="awb_2cd01016fb8c79668237" stream-id="aws_af8ddac54a1df8cce3e0" codec="mp3" bitrate="128",Azul FM 101.9
 https://azul-1.nty.uy/
@@ -113,6 +113,8 @@ https://streaming1.locucionar.com/proxy/fmciudadela887?mp=/stream
 https://cordialidad-zikoxweb2.radioca.st/stream
 #EXTINF:-1 station-id="awb_da292c88d33ff349c071" stream-id="aws_2a52873317c1d4c17bc7" codec="mp3" bitrate="64",FM del Carmen 105.3
 http://radios-online.info:2930/;
+#EXTINF:-1 station-id="awb_3cc2ae382ee851861e71" stream-id="aws_ad9109e163bce16e8d86" codec="mp3" bitrate="96",FM Del Plata 95.5
+https://radiolatina.live:10850/stream
 #EXTINF:-1 station-id="awb_0daa7800c8b2c94abcfb" stream-id="aws_bedc5d45a749da178919" codec="mp3" bitrate="128",FM Días de Gloria 101.9
 http://server.laradio.online:9114/;
 #EXTINF:-1 station-id="awb_ddde5089b82f07b9df6a" stream-id="aws_b9cca86c5ed3c97cb812" codec="aac" bitrate="128",FM Digital 100.1
@@ -125,6 +127,8 @@ https://inolvidable-2.nty.uy/
 https://streaming3.hostingmontevideo.com:8074/stream
 #EXTINF:-1 station-id="awb_ef9a5f484596c257ad05" stream-id="aws_b8aef40bb586bde692bf" codec="aac+" bitrate="32",FM La Ley
 https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream
+#EXTINF:-1 station-id="awb_8179d0d24fea801e62c9" stream-id="aws_5ca08b0a06653014502f" codec="mp3" bitrate="96",FM Like 91.9
+https://radiolatina.live:10848/stream
 #EXTINF:-1 station-id="awb_86a7f34845dfec0c5f8c" stream-id="aws_d659a3d64ac0ba70f7a9" codec="aac+" bitrate="48",FM Naturaleza 88.1
 http://stm.gmpro.top:7006/
 #EXTINF:-1 station-id="awb_9c1a8482b9069a15af80" stream-id="aws_5a184bc0ef25e55febf0" codec="ogg" bitrate="192",FM Sueños 106.7
@@ -193,11 +197,15 @@ https://streaming1.hostingmontevideo.com:7014/;
 https://onlineradiobox.com/json/uy/acuarela/play?platform=web
 #EXTINF:-1 station-id="awb_6458f1de17df4717f381" stream-id="aws_adfb32ba82c9034e275c" codec="aac+" bitrate="48",Radio Carmelo
 https://server.laradio.online/proxy/martin_barragan05?mp=/stream
+#EXTINF:-1 station-id="awb_ac18f26154f4207d9826" stream-id="aws_897b9e743aaa902808af" codec="mp3" bitrate="128",Radio carve
+https://icecast21.innovanexo.com:9000/radiocarve850.mp3
+#EXTINF:-1 station-id="awb_7742f5450c4248b8c17a" stream-id="aws_5492197d011b6dd525bb" codec="aac" bitrate="32",Radio Centenario
+https://streamusa.netgate.com.uy/listen/centenario/centenario
 #EXTINF:-1 station-id="awb_e773c9b342f82ddf1b5b" stream-id="aws_8884375e65cacecb78e9" codec="mp3" bitrate="128",Radio Chiveo
 https://comodin.uy/listen/chiveo/128.mp3
 #EXTINF:-1 station-id="awb_e773c9b342f82ddf1b5b" stream-id="aws_1e41c0c11cbba41dfc9f" codec="mp3" bitrate="320",Radio Chiveo
 https://comodin.uy/listen/chiveo/320.mp3
-#EXTINF:-1 station-id="awb_72d36a01bd57e7640a65" stream-id="aws_e74d2025faebe28872fd" codec="aac+" bitrate="96",Radio Clarin
+#EXTINF:-1 station-id="awb_72d36a01bd57e7640a65" stream-id="aws_e74d2025faebe28872fd" codec="mp3" bitrate="128",Radio Clarin
 https://radioclarin-zikoxweb.radioca.st/stream
 #EXTINF:-1 station-id="awb_988e0d62b5ef910c6598" stream-id="aws_d1fed3bd849cd2cfce72" codec="aac+" bitrate="64",Radio Continental 1600 AM Pando
 https://server-usa2.radioseninternet.net/9316/stream
@@ -239,7 +247,7 @@ https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
 https://medios.ciudaddigital.com.uy:18164/RioBranco
 #EXTINF:-1 station-id="awb_3fd9fa2b7d97c6d5333d" stream-id="aws_f4a22565da44c2600a25" codec="aac+" bitrate="112",Radio Rivera CX144 AM 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
-#EXTINF:-1 station-id="awb_32c776034d231181b918" stream-id="aws_da4e41e83f6c6549f67d" codec="aac+" bitrate="32",Radio San Carlos
+#EXTINF:-1 station-id="awb_32c776034d231181b918" stream-id="aws_da4e41e83f6c6549f67d" codec="aac+" bitrate="36",Radio San Carlos
 http://198.49.65.43:10396/;
 #EXTINF:-1 station-id="awb_566c5a91c71e025bb940" stream-id="aws_1d67c17411000f5074ea" codec="aac" bitrate="192",Radio Señales
 https://s1.radiosenialesfm.com:8030/radio.mp3
@@ -253,6 +261,8 @@ http://streamingcasazorrilla.innovanexo.com:9000/radiocero.mp3
 https://stream1.enperspectiva.net:8443/radio.mp4
 #EXTINF:-1 station-id="awb_12a06652d8121fa67046" stream-id="aws_430690153eb7676cc364" codec="aac" bitrate="64",Sarandi 690
 https://radiolatina.live:10977/sarandi
+#EXTINF:-1 station-id="awb_74ff46ec3ccf9ad49f5e" stream-id="aws_28504d53e1cef08eef11" codec="aac" bitrate="64",Sport 890
+https://radiolatina.live:10976/sport
 #EXTINF:-1 station-id="awb_54c454d48e92af652e7a" stream-id="aws_afa8b4674d57f2d52f63" codec="mp3" bitrate="128",Uni Radio 107.7 FM - Montevideo
 http://uniradio.edu.uy:8008/uniradio
 #EXTINF:-1 station-id="awb_1e4f608228573ea2eb21" stream-id="aws_a75260204b2adf4f5330" codec="aac+" bitrate="32",Zorrilla de San Martin
