@@ -735,6 +735,10 @@ https://radio.celodex.com/stream/ossido.mp3
 http://klasse1.fluidstream.eu/rete8fm.mp3?FLID=1&type=.mp3
 #EXTINF:-1 station-id="awb_bfdc9b87091df0934a95" stream-id="aws_ce6f9ebce012e44cf5be" codec="aac+" bitrate="64",Otto FM
 https://klasse1.fluidstream.eu/rete8fm.aac
+#EXTINF:-1 station-id="awb_b3193fe2e3726207df31" stream-id="aws_c03499ac30d096714552" codec="mp3" bitrate="128",Papoz56
+http://iw3qtf.sytes.net:8000/papofly
+#EXTINF:-1 station-id="awb_b3193fe2e3726207df31" stream-id="aws_b6bc97e3d60866c71b69" codec="mp3" bitrate="128",Papoz56
+https://iw3qtf.sytes.net:8043/papofly
 #EXTINF:-1 station-id="awb_e08f436b6c1e24855812" stream-id="aws_c199bb57b98fa4a46e5c" codec="mp3" bitrate="128",Party Radio
 https://stream12.top-ix.org/partygroove2
 #EXTINF:-1 station-id="awb_39063b4bb63152cdb4de" stream-id="aws_57a249bb1c0d15fa3b76" codec="mp3" bitrate="100",Penny FM
@@ -913,6 +917,8 @@ http://onair15.xdevel.com:8342/;
 https://streamsrv2.nets-sr.com:8004/stream
 #EXTINF:-1 station-id="awb_82fb46b1c7d85ac91347" stream-id="aws_2c34ebfc9c70df55af12" codec="mp3" bitrate="0",Radio 906
 https://stream.rcs.revma.com/e580f9f39yuvv
+#EXTINF:-1 station-id="awb_ee010ef68b2ba73e2c9f" stream-id="aws_f10b15b816b4489f7a21" codec="mp3" bitrate="0",Radio A - Lunigiana e Golfo dei Poeti
+https://nr14.newradio.it/proxy/associa8/stream
 #EXTINF:-1 station-id="awb_5f8d29f3750210ed0599" stream-id="aws_2ac644d132eaa5c28732" codec="mp3" bitrate="192",Radio A.R.C.
 https://arclibrary.grausof.it/stream
 #EXTINF:-1 station-id="awb_a3bdca48feaa50bd0f1a" stream-id="aws_386ba219d1ee2c2ca51f" codec="mp3" bitrate="192",Radio Activity
@@ -1987,6 +1993,8 @@ http://onair20.xdevel.com:8098/;stream.mp3
 http://s3.voscast.com:8598/stream
 #EXTINF:-1 station-id="awb_c92f811bf0070e0145ac" stream-id="aws_2ebc5cd8a004629216a6" codec="ogg" bitrate="0",Radio Onda Rossa
 https://s.streampunk.cc/ondarossa.ogg
+#EXTINF:-1 station-id="awb_e2d2a92d542ded399d7b" stream-id="aws_250facd83cca75a42110" codec="mp3" bitrate="128",Radio Onda Sarda
+https://dreamsiteradiocp3.com/proxy/radiosardegna?mp=/stream?ver=199651
 #EXTINF:-1 station-id="awb_4141f6ccf7e73c3cf75e" stream-id="aws_69d4f5b87480ca723466" codec="mp3" bitrate="128",Radio Onda Verde
 http://dreamsiteradiocp3.com:8050/stream
 #EXTINF:-1 station-id="awb_03f4dfa914290ab961cf" stream-id="aws_6ad3d3c3ee1f0f776f42" codec="ogg" bitrate="0",radio ondarossa
@@ -2707,7 +2715,7 @@ https://rdrtv.radioca.st/stream
 https://stream.rcs.revma.com/x3ab37sgn7uvv
 #EXTINF:-1 station-id="awb_b043a8a8ae07d5da2a36" stream-id="aws_d363a015e41d9709abef" codec="unknown" bitrate="0",RDS
 https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
-#EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="130",RDS - Radio Dimensione Suono
+#EXTINF:-1 station-id="awb_0dea551db9772f2ae6f5" stream-id="aws_35481d82852ad54b7f7d" codec="aac" bitrate="131",RDS - Radio Dimensione Suono
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTINF:-1 station-id="awb_a56d5a00a21c4e7ed2b4" stream-id="aws_b883d5353fcca60d2e8f" codec="unknown" bitrate="0",RDS 100% Grandi Successi
 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8

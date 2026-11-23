@@ -565,6 +565,8 @@ http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bb
 http://as-hls-ww-live.akamaized.net/pool_50082558/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
 #EXTINF:-1 station-id="awb_bec17d4814bd74af5ed2" stream-id="aws_82a061c74b303f2f310b" codec="aac+" bitrate="101",BBC Radio Orkney (96k)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8
+#EXTINF:-1 station-id="awb_9594272f0286668d6b70" stream-id="aws_ea3c54303d586e233562" codec="unknown" bitrate="0",BBC Radio Oxford
+http://as-hls-ww-live.akamaized.net/pool_19212690/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 #EXTINF:-1 station-id="awb_b66788b03668a25085a0" stream-id="aws_289ac5c2bbbbe85683a0" codec="aac+" bitrate="101",BBC Radio Scotland Extra (96k)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_scotland_mw.m3u8
 #EXTINF:-1 station-id="awb_89093b8239de8dc01a08" stream-id="aws_65dc3c9b1d0b64de14fe" codec="aac+" bitrate="101",BBC Radio Shetland (96k)
@@ -1267,6 +1269,8 @@ https://easyradio-radiohosting.radioca.st/stream
 https://easylistening.out.airtime.pro/easylistening_a
 #EXTINF:-1 station-id="awb_08ed3ac83f436aaf0ed5" stream-id="aws_bca8d1f713d166e3a5e6" codec="mp3" bitrate="96",EAVA FM 102.5 FM
 https://radio.canstream.co.uk:8000/eavafm.mp3
+#EXTINF:-1 station-id="awb_3094029f20a6c6160116" stream-id="aws_563e031325f23cb50e31" codec="mp3" bitrate="192",Echo Radio
+http://185.195.238.30/listen/echo/radio.mp3
 #EXTINF:-1 station-id="awb_a238ed10f016194ee60a" stream-id="aws_062abcc13a38acb27d87" codec="mp3" bitrate="320",Edge 1
 https://stream.aiir.com/8dhvgxm1kbvuv
 #EXTINF:-1 station-id="awb_3e76d0c219d2e0e3c9cc" stream-id="aws_c6bcc6eebe6bf6e67ba4" codec="mp3" bitrate="320",Edge 2
@@ -2539,6 +2543,8 @@ http://bitsmitter.com:8000/
 http://bitsmitter.com:8000/omr%20;stream.mp3
 #EXTINF:-1 station-id="awb_b7702344c3e86284a8ba" stream-id="aws_d49963dc0849a280bcde" codec="mp3" bitrate="96",Offshore Radio Sounds
 http://88.159.227.206:5380/;
+#EXTINF:-1 station-id="awb_27740c235c4ef846e75b" stream-id="aws_b03901f853c821c58297" codec="mp3" bitrate="192",Old Gold Radio
+https://oldgoldradio.com:10443/listen/oldgoldradio/radio.mp3
 #EXTINF:-1 station-id="awb_46d233beed7296781913" stream-id="aws_ef79a9044e55adc8860f" codec="mp3" bitrate="128",Old Skool Anthems
 http://138.201.198.218:8101/stream
 #EXTINF:-1 station-id="awb_fe724cef5b6735408d08" stream-id="aws_cbe9de2214678f87bdbe" codec="aac" bitrate="0",Old Skool Rave Tapes

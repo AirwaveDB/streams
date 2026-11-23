@@ -491,6 +491,8 @@ https://audio.bfmtv.com/rmcradio_128.mp3
 http://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web
 #EXTINF:-1 station-id="awb_af0effeb1a0eec709a98" stream-id="aws_e1307baf68abab911824" codec="mp3" bitrate="256",BFM Business
 https://audio.bfmtv.com/bfmbusiness_128.mp3
+#EXTINF:-1 station-id="awb_c272ee56869185197c50" stream-id="aws_9113b011c6bb390ae460" codec="mp3" bitrate="256",BFM Radio
+http://audio.bfmtv.com/bfmradio_128.mp3?aw_0_1st.playerId=BFMRadio_audio_web&aggregator=BFMRadio_audio_web
 #EXTINF:-1 station-id="awb_59727b4f73c84dbc1764" stream-id="aws_a6a4c9aa0d813e6d7218" codec="mp3" bitrate="256",BFM radio
 https://audio.bfmtv.com/bfmradio_128.mp3
 #EXTINF:-1 station-id="awb_2683215c3dad4682b31c" stream-id="aws_667c74c3875052c67858" codec="mp3" bitrate="256",BFM Radio (128.mp3)
@@ -1063,6 +1065,8 @@ http://ildnb1.dnbradio.com:8000/dnbradio_main.mp3
 http://radio.dogmazic.net:8000/stream.mp3
 #EXTINF:-1 station-id="awb_bb380bff697f1ea79782" stream-id="aws_e19db33df66aa0d5b033" codec="aac+" bitrate="96",Douce France
 https://stream.chantefrance.com/Chante_France.aac
+#EXTINF:-1 station-id="awb_7a759f061b3ca9cd75d0" stream-id="aws_14bffbc3913783849cd9" codec="mp3" bitrate="128",DRAGOSTE
+http://37.59.37.23:8000/;stream.mp3
 #EXTINF:-1 station-id="awb_c18b6ac2fe931a10e113" stream-id="aws_e36a264a2c98b3065574" codec="mp3" bitrate="128",Droogies
 http://www.droogies.org:8000/stream
 #EXTINF:-1 station-id="awb_050790c4ecda000d5cb7" stream-id="aws_22da9a688da7df51cf8d" codec="mp3" bitrate="96",dub🌴'issimo
@@ -1537,6 +1541,8 @@ http://direct.franceinfo.fr/live/franceinfo-midfi.aac
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_95f372ffd26322f9d75f" codec="aac" bitrate="192",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
+#EXTINF:-1 station-id="awb_1dc8ef586f413c40f241" stream-id="aws_fc86171b34c0c26df0a0" codec="mp3" bitrate="128",France Info
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
 #EXTINF:-1 station-id="awb_1dc8ef586f413c40f241" stream-id="aws_febbd41e3c988fe73553" codec="unknown" bitrate="0",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 #EXTINF:-1 station-id="awb_952ed15cf86fa2139f25" stream-id="aws_040ae1a9463bba93b10d" codec="unknown" bitrate="0",France Info
@@ -3755,6 +3761,8 @@ https://audio.opensky.radio:8082/stream
 https://audio.opensky.radio:8082/stream128
 #EXTINF:-1 station-id="awb_857fb929d9a237d0efa0" stream-id="aws_d1f1d8b4e8e4db25f5e6" codec="ogg" bitrate="0",Opensky (flac)868kb
 https://audio.opensky.radio:8082/flac?_res_tag_=audio
+#EXTINF:-1 station-id="awb_daf478c62fde46ac2439" stream-id="aws_e2f5e742529482b8039d" codec="mp3" bitrate="160",Otoradio
+https://stunnel1.cyber-streaming.com:9160/stream
 #EXTINF:-1 station-id="awb_8d5d1a182d3dc06f8f5f" stream-id="aws_5b5dfa09978af98da7a5" codec="mp3" bitrate="128",Ouest FM Guyane
 http://srv2.streaming-ingenierie.fr:8162/;
 #EXTINF:-1 station-id="awb_8d085c738471b6d8edd6" stream-id="aws_d6d00607fb57b49e4110" codec="aac" bitrate="96",Ouest Track Radio
@@ -4013,6 +4021,8 @@ https://icecast.pulsradio.com/relaxHD.mp3
 http://213.251.190.165/pulstranceHD.mp3
 #EXTINF:-1 station-id="awb_2e7072db6f2ccb13855a" stream-id="aws_1f9c66a46139527a8aee" codec="mp3" bitrate="192",PulsRadio Trance
 https://sc4.gergosnet.com/pulstranceHD.mp3
+#EXTINF:-1 station-id="awb_8784198f2c794b8c80eb" stream-id="aws_88873a23ea464882f91e" codec="mp3" bitrate="320",Punch-Radio
+https://ecmanager5.pro-fhi.net:1910/
 #EXTINF:-1 station-id="awb_571e23323797537785b3" stream-id="aws_f3cc1b4622850b2f25fa" codec="mp3" bitrate="192",Pyrénées FM
 http://antenne.pyreneesfm.com/direct.mp3
 #EXTINF:-1 station-id="awb_78fc254ac54fc9c287bf" stream-id="aws_111dc2694602e512943d" codec="mp3" bitrate="320",R D’Autan

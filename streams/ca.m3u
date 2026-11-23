@@ -671,6 +671,8 @@ https://stream.jpbgdigital.com/CHBW/HEAAC/48k/playlist.m3u8
 https://stream.jpbgdigital.com/CHBZ.m3u8
 #EXTINF:-1 station-id="awb_ca9f8b3145ac75c650f6" stream-id="aws_ad7f8f1aaa1c31f2508e" codec="aac+" bitrate="98",CHCQ-FM 100.1 'Cool 100' Belleville, ON
 https://torres-media.streamb.live/SB00159
+#EXTINF:-1 station-id="awb_69f4918544a561c7932c" stream-id="aws_029f2743905aaf7d9c16" codec="mp3" bitrate="128",CHCR 102.9 / 104.5 FM 'Canadian Homegrown Community Radio' Killaloe, Ontario
+https://canada1.reliastream.com/proxy/canadian?mp=/stream
 #EXTINF:-1 station-id="awb_042133b8e369fd5fb8e5" stream-id="aws_58a51b377fddf62f44db" codec="aac+" bitrate="48",CHDI 'Sonic 102.9' Edmonton, AB
 http://rogers-hls.leanstream.co:8000/rogers/edm1029.stream/48k/playlist.m3u8
 #EXTINF:-1 station-id="awb_28551acbd1a5edd3b3aa" stream-id="aws_caa6af9bfce493d4ba16" codec="aac+" bitrate="48",CHDR-FM '102.9 Rewind Radio' Cranbrook, BC
@@ -1265,6 +1267,8 @@ http://live.leanstream.co/CJOTFM-MP3
 http://live.leanstream.co/CJOYAM
 #EXTINF:-1 station-id="awb_f978851df7fc4debdeb6" stream-id="aws_988ad6a99a75aea3e100" codec="mp3" bitrate="128",CJPB-FM 90.7 'La Voix de St-Lo' Saint-Laurent, QC
 https://listen.radioking.com/radio/11310/stream/22574
+#EXTINF:-1 station-id="awb_62b28d689e1483321729" stream-id="aws_185f83bff3e1f241e409" codec="aac" bitrate="128",CJPE 99.3 'County FM' Picton, Ontario
+https://streaming.county.fm:8000/radio.acc
 #EXTINF:-1 station-id="awb_70bd7d1141c7f330f7c9" stream-id="aws_7b4a069b04c6075fb533" codec="aac+" bitrate="64",CJPG-FM 'Mix 96.5' Portage la Prairie, MB
 https://goldenwest.leanstream.co/CJPGFM
 #EXTINF:-1 station-id="awb_1d9f17cf0a5580138312" stream-id="aws_9f1329b2e3065e645094" codec="aac" bitrate="129",CJPR 94.9 'Real Country Southwest' Blairmore, AB
@@ -2485,7 +2489,7 @@ https://maggie.torontocast.com:2020/stream/reggaechillcafe
 https://radio.relay-radio.com/listen/relay-radio/mobile
 #EXTINF:-1 station-id="awb_36ef370127b1c291b1eb" stream-id="aws_b78972a64ad77ddd4aa4" codec="aac" bitrate="128",Rétro beat web radio Montréal
 https://s6.citrus3.com:2020/8954/stream
-#EXTINF:-1 station-id="awb_76b699936f517f0968ec" stream-id="aws_ee46278001e45d0d8e41" codec="mp3" bitrate="128",Retro Hits 70s 80s 90s
+#EXTINF:-1 station-id="awb_76b699936f517f0968ec" stream-id="aws_ee46278001e45d0d8e41" codec="mp3" bitrate="0",Retro Hits 70s 80s 90s
 https://live.streamthe.world/retropophits
 #EXTINF:-1 station-id="awb_efab39917bf737c0c5c5" stream-id="aws_c24668d607191e56bd62" codec="mp3" bitrate="256",RetroHits
 https://s1.nexuscast.com:8038/;stream.mp3
@@ -2529,6 +2533,8 @@ https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo
 http://stream.rpgamers.net:8000/rpgn
 #EXTINF:-1 station-id="awb_dc82395a7842bac4a755" stream-id="aws_0b8b699334a01c8645a7" codec="mp3" bitrate="0",RPGN Radio
 http://listen.rpgamers.net/rpgn
+#EXTINF:-1 station-id="awb_16c9904bc4466d0bf617" stream-id="aws_5abdfb7e4e57f67bbcba" codec="mp3" bitrate="128",RTR 92 — Rocktown Radio
+https://azuracast-canada.myautodj.com/listen/station_918_1795309137/radio.mp3
 #EXTINF:-1 station-id="awb_4a3a5452aa65d5dca87b" stream-id="aws_2606531e5480fbccf03d" codec="mp3" bitrate="80",Rumsey Retro Radio
 https://jenny.torontocast.com:8042/stream
 #EXTINF:-1 station-id="awb_c90b701925e769df2d9b" stream-id="aws_8d3f3e9aecfefbf48f61" codec="mp3" bitrate="128",Sandblast Channel
@@ -2557,7 +2563,7 @@ https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD
 #EXTINF:-1 station-id="awb_4d2fdb7f26e5b7c60733" stream-id="aws_7266ba826b67ce083aa8" codec="aac+" bitrate="104",SFM
 http://eagle.streemlion.com:4313/1
-#EXTINF:-1 station-id="awb_4d2fdb7f26e5b7c60733" stream-id="aws_f2aa2508f2e8d74d2d3b" codec="aac+" bitrate="104",SFM
+#EXTINF:-1 station-id="awb_4d2fdb7f26e5b7c60733" stream-id="aws_f2aa2508f2e8d74d2d3b" codec="mp3" bitrate="320",SFM
 http://eagle.streemlion.com:4313/stream
 #EXTINF:-1 station-id="awb_4d2fdb7f26e5b7c60733" stream-id="aws_5974fbeae32ddda17a92" codec="aac" bitrate="96",SFM
 https://stream.rcast.net/68024
@@ -2695,9 +2701,7 @@ https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream
 https://london-dedicated.myautodj.com:3199/proxy/trance/stream
 #EXTINF:-1 station-id="awb_7e418787a1a8ae6c351f" stream-id="aws_11317f0b184d3b055873" codec="mp3" bitrate="128",Trik Trak Radio
 https://cast3.my-control-panel.com/proxy/triktrak/stream
-#EXTINF:-1 station-id="awb_ca896f4e586bc4f866cc" stream-id="aws_68826dd22d2b2ed5d262" codec="mp3" bitrate="128",TripHop - Downtempo.Radio
-https://streaming.coolmusicradio.com/listen/cool_music/radio.mp3
-#EXTINF:-1 station-id="awb_d528b557db61792c13ea" stream-id="aws_43f04dfc4a4d0a5bfd37" codec="mp3" bitrate="128",TripHop Beats - Downtempo.Radio
+#EXTINF:-1 station-id="awb_ca896f4e586bc4f866cc" stream-id="aws_68826dd22d2b2ed5d262" codec="mp3" bitrate="128",TripHop Beats - Downtempo.Radio
 https://streaming.coolmusicradio.com/listen/cool_music/radio.mp3
 #EXTINF:-1 station-id="awb_b554d958452af6027c5c" stream-id="aws_699cc2797fd58ab7c826" codec="mp3" bitrate="0",Triple C Radio
 https://stream.triplec.fm/stream.mp3

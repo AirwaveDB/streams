@@ -1418,7 +1418,7 @@
       "4db37a19-cb58-4910-a0d6-25388ec8ee3b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T14:01:19Z"
+    "lastCheckedAt": "2026-11-22T14:01:49Z"
   },
   {
     "id": "aws_258308c351fc6b56feab",
@@ -1437,7 +1437,7 @@
       "4cdafa11-96ae-41f9-a7b3-19d9b48c3d98"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T13:59:04Z"
+    "lastCheckedAt": "2026-11-22T13:59:23Z"
   },
   {
     "id": "aws_310d8fd6659a7c1aa72e",
@@ -3269,7 +3269,7 @@
       "d3301a24-1cae-452c-9b9e-61b97564a02f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T19:29:01Z"
+    "lastCheckedAt": "2026-11-22T19:29:31Z"
   },
   {
     "id": "aws_5be83e937e7be9198123",
@@ -4438,7 +4438,7 @@
       "7ec365b0-7b3c-11ea-8a3b-52543be04c81"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T16:14:25Z"
+    "lastCheckedAt": "2026-11-22T16:15:11Z"
   },
   {
     "id": "aws_58311d38320899a388eb",
@@ -4820,7 +4820,7 @@
       "8a9ee1aa-334a-4dc1-9134-4a7fca8fcd3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T10:31:17Z"
+    "lastCheckedAt": "2026-11-23T10:31:39Z"
   },
   {
     "id": "aws_cd15905dc5bafae4c101",
@@ -5683,7 +5683,7 @@
       "32d76eb2-3774-4064-aa9d-0d4fafedb753"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T02:41:46Z"
+    "lastCheckedAt": "2026-11-23T02:43:16Z"
   },
   {
     "id": "aws_cc44081c16dfe99baaca",
@@ -7806,7 +7806,7 @@
       "bccd6828-0b78-4865-8ee0-93e4ba2143b6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T04:25:48Z"
+    "lastCheckedAt": "2026-11-23T04:26:26Z"
   },
   {
     "id": "aws_5d505d7339c76e33903e",
@@ -8000,7 +8000,7 @@
       "92a387ec-bd93-4fb6-b344-47fa7d91370a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T19:48:30Z"
+    "lastCheckedAt": "2026-11-22T19:48:56Z"
   },
   {
     "id": "aws_157da63e629b48f78862",
@@ -9542,7 +9542,7 @@
     "stationId": "awb_84a6a28d711620884d12",
     "name": "Jeremías Sebastián Roco",
     "country": "ES",
-    "url": "https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1794975931",
+    "url": "https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1795407969",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -9554,7 +9554,7 @@
       "837bd657-c7ef-4f18-a038-026884fd6cab"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T04:25:50Z"
+    "lastCheckedAt": "2026-11-23T04:26:24Z"
   },
   {
     "id": "aws_5fa7cbfb1a5cc05f8a5a",
@@ -10932,7 +10932,7 @@
       "ES:locafm-90-s"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T16:14:27Z"
+    "lastCheckedAt": "2026-11-22T16:15:09Z"
   },
   {
     "id": "aws_0eba24aab92af5b4bbdd",
@@ -14538,7 +14538,7 @@
       "fcdab1c9-467a-4245-8394-73c986ec6c33"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T00:34:36Z"
+    "lastCheckedAt": "2026-11-23T00:35:26Z"
   },
   {
     "id": "aws_cbf10c935456b4214eb6",
@@ -15538,7 +15538,7 @@
       "ad6cc4ac-9ffa-428f-81ed-cc68d2425743"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T13:56:14Z"
+    "lastCheckedAt": "2026-11-22T13:56:37Z"
   },
   {
     "id": "aws_6c04f435e516d8d732ee",
@@ -15792,6 +15792,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T09:39:53Z"
+  },
+  {
+    "id": "aws_88491cb715fea6b604fd",
+    "stationId": "awb_dc742eb0e7678e3d0cd9",
+    "name": "Radio Can Casahl",
+    "country": "ES",
+    "url": "https://rcc.iberdahl.com/stream",
+    "codec": "aac",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8870bf2d-dbb7-4988-a06d-b56663c7f9a8"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-22T10:07:12Z"
   },
   {
     "id": "aws_25cb93271b7aadd73ac1",
@@ -18157,6 +18176,25 @@
     "lastCheckedAt": "2026-11-22T03:02:33Z"
   },
   {
+    "id": "aws_411aabc8b5431f6570b6",
+    "stationId": "awb_d335e554eb287ced372c",
+    "name": "Radio Maricel",
+    "country": "ES",
+    "url": "https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0265daab-2521-433d-8fbd-606c113ec331"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-22T11:12:40Z"
+  },
+  {
     "id": "aws_277406a2130b574f6298",
     "stationId": "awb_cac3b753b21766841c09",
     "name": "Ràdio Marina",
@@ -18405,7 +18443,7 @@
       "9359ebc2-a2fe-42e6-9806-78b0430100a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T22:56:51Z"
+    "lastCheckedAt": "2026-11-22T22:59:16Z"
   },
   {
     "id": "aws_87fbffa769f90e9ce45b",
@@ -18521,7 +18559,7 @@
       "4ea2c349-f05d-48fe-ac92-36e2af00230b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T22:56:45Z"
+    "lastCheckedAt": "2026-11-22T22:59:15Z"
   },
   {
     "id": "aws_6f0514b6a2b2ba92a7be",
@@ -20541,7 +20579,7 @@
       "98db4ec6-109f-4ac9-bfcc-227380c5a936"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-17T14:04:19Z"
+    "lastCheckedAt": "2026-11-22T14:04:40Z"
   },
   {
     "id": "aws_bc7f1fc8e694a4fb33d5",
@@ -22806,6 +22844,25 @@
     "lastCheckedAt": "2026-11-22T00:52:20Z"
   },
   {
+    "id": "aws_d0cd8c17e8184f92c26a",
+    "stationId": "awb_e2f630dcab03ad956e40",
+    "name": "Sub Sub Ibiza",
+    "country": "ES",
+    "url": "https://subsub.fm/subsub/stream",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "69440b4a-03d4-4078-9410-18a9d21ca9a1"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-22T23:29:53Z"
+  },
+  {
     "id": "aws_5ec7c11486c2ede57fdd",
     "stationId": "awb_96e4f7615df2e336d33c",
     "name": "Sufi Soul Radio",
@@ -23645,7 +23702,7 @@
       "b173db3b-9d59-476d-b19e-6c3c9978141f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T04:25:52Z"
+    "lastCheckedAt": "2026-11-23T04:26:26Z"
   },
   {
     "id": "aws_a6ebece4cecb4a376be0",

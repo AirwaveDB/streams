@@ -678,6 +678,25 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
+    "id": "aws_012e0e45ead7fab11342",
+    "stationId": "awb_d190e5013949b7c786b1",
+    "name": "Radio Columbia 98.7 FM",
+    "country": "CR",
+    "url": "https://s2.radio.co/s83b86382e/listen",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cf937383-5585-42fe-896f-6f317b97a7d5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-22T15:01:19Z"
+  },
+  {
     "id": "aws_855aa5424e786b1a0ac3",
     "stationId": "awb_cfc217d498a7b782dbc4",
     "name": "Radio Costa",
@@ -906,6 +925,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
+  },
+  {
+    "id": "aws_656581499c735c70e5c9",
+    "stationId": "awb_06c44205a288ab97f99b",
+    "name": "Radio Monumental 93.5 FM",
+    "country": "CR",
+    "url": "https://ddycmnicl95kp.cloudfront.net/live/zbzsy31mnb4q/master.m3u8",
+    "codec": "aac",
+    "bitrate": 325,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5cead9e1-ffe5-4a29-9378-cc28fb90e390"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-22T15:01:19Z"
   },
   {
     "id": "aws_e7c40e1564dfc526620d",
