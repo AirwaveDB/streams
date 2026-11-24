@@ -875,7 +875,7 @@
       "d50796ae-a0e4-493f-b276-6b0a15b0c6dc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T09:31:37Z"
+    "lastCheckedAt": "2026-11-24T09:32:12Z"
   },
   {
     "id": "aws_6973f82988046a8d9307",
@@ -2229,7 +2229,7 @@
       "3aa237f9-9c40-4715-9e07-9dfabd60af3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T17:06:09Z"
+    "lastCheckedAt": "2026-11-23T17:08:13Z"
   },
   {
     "id": "aws_896979bd3319139ab117",
@@ -3371,7 +3371,7 @@
       "3878a29d-cda5-497b-9966-ec22873218cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T14:14:28Z"
+    "lastCheckedAt": "2026-11-23T14:14:48Z"
   },
   {
     "id": "aws_c4dbf60bd1c770eff891",
@@ -3961,6 +3961,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-23T04:26:25Z"
+  },
+  {
+    "id": "aws_c8fc5628266e308cb98d",
+    "stationId": "awb_be1d086cc1e0d9dfa55d",
+    "name": "BBC Radio 1",
+    "country": "GB",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c11a1301-4450-4d3c-b258-e530cc8c1fad"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-24T02:30:55Z"
   },
   {
     "id": "aws_df54bd29d4955201ff4c",
@@ -8238,7 +8257,7 @@
       "dc2dada4-a74f-44e5-8a7e-8c80defababd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T17:06:08Z"
+    "lastCheckedAt": "2026-11-23T17:08:13Z"
   },
   {
     "id": "aws_6207aba7cf0502c656a5",
@@ -8504,7 +8523,7 @@
       "4aaceb1e-254f-4836-bf97-b6d10b9e8145"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T01:46:28Z"
+    "lastCheckedAt": "2026-11-24T01:46:57Z"
   },
   {
     "id": "aws_f1b27b328471ac63a6cd",
@@ -9095,7 +9114,7 @@
       "874807c0-bf06-4a0e-9a00-9607176016c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T15:26:22Z"
+    "lastCheckedAt": "2026-11-23T15:26:41Z"
   },
   {
     "id": "aws_ad5aa436e7d040aeb55b",
@@ -9352,7 +9371,7 @@
       "cdcbea13-44c9-4e02-81d2-68a62cebebba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T09:31:29Z"
+    "lastCheckedAt": "2026-11-24T09:32:17Z"
   },
   {
     "id": "aws_3db81c24c6b39ed5bed8",
@@ -9587,6 +9606,25 @@
     "lastCheckedAt": "2026-11-22T04:37:41Z"
   },
   {
+    "id": "aws_172c3e55e488b897e488",
+    "stationId": "awb_33c10d224a101005ef3e",
+    "name": "Coast Internet Radio",
+    "country": "GB",
+    "url": "https://cast5.my-control-panel.com/proxy/james112/stream",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2e9b3234-71c4-4c21-9f81-36ef72ac911a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-23T22:37:09Z"
+  },
+  {
     "id": "aws_5d9fbc4012c4aac21fd4",
     "stationId": "awb_9bee7c9259f63e09b5d8",
     "name": "Coffee Morning",
@@ -9661,6 +9699,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T09:47:51Z"
+  },
+  {
+    "id": "aws_850089d24fc89d50dce8",
+    "stationId": "awb_24d47cc88b4b485d4ad0",
+    "name": "Copper Box Radio",
+    "country": "GB",
+    "url": "https://radiocp.co.uk/8026/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b442143d-32fe-4354-b77e-6e49ea1f1bb7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-23T19:26:45Z"
   },
   {
     "id": "aws_21b2cf4b36144ffe890e",
@@ -11608,7 +11665,7 @@
       "e3087b4d-499f-486b-93c4-1acdf1916934"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:10:23Z"
+    "lastCheckedAt": "2026-11-23T20:12:26Z"
   },
   {
     "id": "aws_ac35c94d9138c76ea8c0",
@@ -12469,7 +12526,7 @@
       "e9eb0da6-55b2-4bef-93cf-62268351d8c5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:24:08Z"
+    "lastCheckedAt": "2026-11-23T20:24:37Z"
   },
   {
     "id": "aws_bbd2216f8a431bece676",
@@ -17968,7 +18025,7 @@
       "7a2996c6-adf0-4f1d-8eb9-225bc90e7a34"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T18:52:29Z"
+    "lastCheckedAt": "2026-11-23T18:52:58Z"
   },
   {
     "id": "aws_67950c5f7872c6ecf797",
@@ -19135,7 +19192,7 @@
       "c8cb6b11-3c2c-4419-9767-06ddbbdf55cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:24:16Z"
+    "lastCheckedAt": "2026-11-23T20:25:10Z"
   },
   {
     "id": "aws_6880e2374dcb2117346d",
@@ -19479,7 +19536,7 @@
       "860820f6-ef80-4c98-88b5-de7b5c4f591e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T11:56:35Z"
+    "lastCheckedAt": "2026-11-24T11:56:41Z"
   },
   {
     "id": "aws_8f2d2ad2388d4dfd59c6",
@@ -19899,7 +19956,7 @@
       "351e4056-2f14-4695-8e60-0b0fb0404e84"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:24:11Z"
+    "lastCheckedAt": "2026-11-23T20:24:37Z"
   },
   {
     "id": "aws_e48b8fbbb73696b786ab",
@@ -20814,7 +20871,7 @@
       "33b7fe76-366c-4fd5-bcea-f5dfd1609e97"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:24:10Z"
+    "lastCheckedAt": "2026-11-23T20:24:36Z"
   },
   {
     "id": "aws_108841d13ed80ea6915f",
@@ -21597,7 +21654,7 @@
       "c3c197cd-4aef-41b4-a987-cb251259a7a5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T05:22:45Z"
+    "lastCheckedAt": "2026-11-24T05:23:06Z"
   },
   {
     "id": "aws_c8f0b7e97b1088353bef",
@@ -21694,7 +21751,7 @@
       "4032c479-4f9b-4efc-94b1-b9dbcbc8193a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:38:06Z"
+    "lastCheckedAt": "2026-11-23T20:38:35Z"
   },
   {
     "id": "aws_dace0497bd96ec3e97e0",
@@ -21713,7 +21770,7 @@
       "905fff5b-f797-4f46-b714-823de05a732e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:38:06Z"
+    "lastCheckedAt": "2026-11-23T20:38:35Z"
   },
   {
     "id": "aws_19e49b81b10e2a813431",
@@ -22328,6 +22385,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T01:43:30Z"
+  },
+  {
+    "id": "aws_fb61fac80ac93356d419",
+    "stationId": "awb_705e55776eb2da7fcdc0",
+    "name": "Midnight Madness Metal eradio",
+    "country": "GB",
+    "url": "https://azuracast.eradioweb.com:9000/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f8b1341f-2c88-4c86-bcb5-a820fa890221"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-23T14:12:05Z"
   },
   {
     "id": "aws_af197ce799eada9d9d06",
@@ -23508,7 +23584,7 @@
       "5fdbbfc8-df1d-4123-9826-c6ad34f81314"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T18:52:29Z"
+    "lastCheckedAt": "2026-11-23T18:52:58Z"
   },
   {
     "id": "aws_9cc87db91613fe5b730e",
@@ -25340,7 +25416,7 @@
       "ea7f5486-a101-47eb-8a56-6d6f0e1ed655"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T01:46:30Z"
+    "lastCheckedAt": "2026-11-24T01:46:59Z"
   },
   {
     "id": "aws_07dc1fdcc8900a35b33c",
@@ -26007,7 +26083,7 @@
       "a4c6cdff-b0bc-40ee-b548-6b99fabe0bdf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T17:06:06Z"
+    "lastCheckedAt": "2026-11-23T17:08:18Z"
   },
   {
     "id": "aws_f7fec6b56f4c2c1cf290",
@@ -27721,7 +27797,7 @@
       "3a30dc02-4e14-444f-a7c5-4518fc6d0bfc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T21:35:35Z"
+    "lastCheckedAt": "2026-11-23T21:36:22Z"
   },
   {
     "id": "aws_608ee49ae20660a29950",
@@ -27989,7 +28065,7 @@
       "fc4d825e-3bd9-49ab-91df-e3e5ba4f15d4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T01:46:31Z"
+    "lastCheckedAt": "2026-11-24T01:47:00Z"
   },
   {
     "id": "aws_856f3408b46f74f2e449",
@@ -28274,7 +28350,7 @@
       "e0471bce-6fe6-45f6-a575-46ae851f3848"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T17:00:15Z"
+    "lastCheckedAt": "2026-11-23T17:00:29Z"
   },
   {
     "id": "aws_eebe249157b7c629ea61",
@@ -30509,7 +30585,7 @@
       "148ad688-b1eb-4c1c-a87b-910eb4d0d638"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T15:49:05Z"
+    "lastCheckedAt": "2026-11-23T15:49:18Z"
   },
   {
     "id": "aws_7c2cec460b341c43cdfc",
@@ -31767,7 +31843,7 @@
       "053b56c4-794a-45ce-aa04-8fead3cce08c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T18:54:22Z"
+    "lastCheckedAt": "2026-11-23T18:54:43Z"
   },
   {
     "id": "aws_1eb7472c6645bde1c49f",
@@ -31805,7 +31881,7 @@
       "bc655a2c-5b1f-4292-a132-191e4016c28e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T18:54:22Z"
+    "lastCheckedAt": "2026-11-23T18:54:43Z"
   },
   {
     "id": "aws_9825e8b8e10431a2ffe3",
@@ -35043,7 +35119,7 @@
       "da81d1eb-d239-4dd9-984d-b27688c5ca3d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T11:29:47Z"
+    "lastCheckedAt": "2026-11-24T11:29:59Z"
   },
   {
     "id": "aws_f2db2129d30679d3e688",
@@ -35374,7 +35450,7 @@
       "f1e41afa-1cc7-498e-85ea-f25fa2fa2882"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T01:46:36Z"
+    "lastCheckedAt": "2026-11-24T01:47:30Z"
   },
   {
     "id": "aws_00d90aa50994c21598bd",
@@ -36598,7 +36674,7 @@
       "e7939732-07e9-495c-abb2-83499a320d37"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T12:50:46Z"
+    "lastCheckedAt": "2026-11-24T12:51:01Z"
   },
   {
     "id": "aws_d0370ba8267be0ed1b23",
@@ -37075,7 +37151,7 @@
       "2fc7f8e7-cda4-4568-9c0b-311c9f2eb0f8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T20:24:15Z"
+    "lastCheckedAt": "2026-11-23T20:25:11Z"
   },
   {
     "id": "aws_84b0c2331bcde085093e",
@@ -37360,7 +37436,7 @@
       "85497ff2-91f8-462c-bf71-9012fd692dda"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T11:18:38Z"
+    "lastCheckedAt": "2026-11-24T11:18:46Z"
   },
   {
     "id": "aws_b3c991660c2fe180e14e",
@@ -37514,7 +37590,7 @@
       "cdc99a84-a06f-4df7-9391-3c37b94943fa"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-18T18:52:29Z"
+    "lastCheckedAt": "2026-11-23T18:52:58Z"
   },
   {
     "id": "aws_9c61d954b31573b912d7",

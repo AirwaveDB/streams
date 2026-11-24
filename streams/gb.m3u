@@ -413,6 +413,8 @@ http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_so
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 station-id="awb_be1d086cc1e0d9dfa55d" stream-id="aws_5f0d8a337580083cfb7f" codec="aac+" bitrate="101",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+#EXTINF:-1 station-id="awb_be1d086cc1e0d9dfa55d" stream-id="aws_c8fc5628266e308cb98d" codec="unknown" bitrate="0",BBC Radio 1
+https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8
 #EXTINF:-1 station-id="awb_5f020a72b10def67bb01" stream-id="aws_df54bd29d4955201ff4c" codec="unknown" bitrate="0",BBC Radio 1 (128k)
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
 #EXTINF:-1 station-id="awb_ce1dcb783b8a91651022" stream-id="aws_cfa5c75e10647ae3643b" codec="unknown" bitrate="0",BBC Radio 1 (320kbps)
@@ -1001,6 +1003,8 @@ https://s5.radio.co/scaab7719a/listen
 https://uksoutha.streaming.broadcast.radio/cpr
 #EXTINF:-1 station-id="awb_96d53140ae6027ed1776" stream-id="aws_1187952f962244e1f89f" codec="mp3" bitrate="192",Coast and County Radio
 https://stream1.superstreaming.co.uk/proxy/coastcounty1/stream?rp_source=1&=&&___cb=412278927906985
+#EXTINF:-1 station-id="awb_33c10d224a101005ef3e" stream-id="aws_172c3e55e488b897e488" codec="aac" bitrate="96",Coast Internet Radio
+https://cast5.my-control-panel.com/proxy/james112/stream
 #EXTINF:-1 station-id="awb_9bee7c9259f63e09b5d8" stream-id="aws_5d9fbc4012c4aac21fd4" codec="aac" bitrate="48",Coffee Morning
 https://media-the.musicradio.com/Global-M-CoffeeMorning
 #EXTINF:-1 station-id="awb_6d8af263ea61047342da" stream-id="aws_fd4d5d78c85336603eb7" codec="mp3" bitrate="128",COG Grand Radio
@@ -1009,6 +1013,8 @@ http://cressida.shoutca.st:8118/stream
 https://listen-colourful.sharp-stream.com/colourfulmid.mp3
 #EXTINF:-1 station-id="awb_6d4a20cf4aa3cb3e7485" stream-id="aws_358f1f5033f017c1e8ac" codec="mp3" bitrate="0",ComedyUK
 https://stream.rcs.revma.com/cp7w38a8hxnwv
+#EXTINF:-1 station-id="awb_24d47cc88b4b485d4ad0" stream-id="aws_850089d24fc89d50dce8" codec="mp3" bitrate="192",Copper Box Radio
+https://radiocp.co.uk/8026/stream
 #EXTINF:-1 station-id="awb_bea96d89b4f5d6147b99" stream-id="aws_21b2cf4b36144ffe890e" codec="aac+" bitrate="64",COSMIC FUZZ FM
 https://15113.live.streamtheworld.com/SAM04AAC335_SC
 #EXTINF:-1 station-id="awb_bea96d89b4f5d6147b99" stream-id="aws_0f4923de34ec1020d9d5" codec="aac+" bitrate="64",COSMIC FUZZ FM
@@ -2333,6 +2339,8 @@ https://listen-mdr.sharp-stream.com/mdr.mp3
 https://stream-153.zeno.fm/2mn7tdzkug0uv
 #EXTINF:-1 station-id="awb_d5020010b94f2d8006fd" stream-id="aws_b201e6e1298e3d8db589" codec="mp3" bitrate="128",Midlands Radio Christmas (MP3)
 http://stream.zeno.fm/b0ykm1bpb78uv
+#EXTINF:-1 station-id="awb_705e55776eb2da7fcdc0" stream-id="aws_fb61fac80ac93356d419" codec="mp3" bitrate="128",Midnight Madness Metal eradio
+https://azuracast.eradioweb.com:9000/radio.mp3
 #EXTINF:-1 station-id="awb_5d8d791b7ccfeb6f1310" stream-id="aws_af197ce799eada9d9d06" codec="mp3" bitrate="128",Mighty Radio Southport
 http://streaming04.liveboxstream.uk:8014/;stream.mp3
 #EXTINF:-1 station-id="awb_42cad0731aaa72ae832c" stream-id="aws_68beb35141b759fe37c2" codec="mp3" bitrate="320",Mile Zero

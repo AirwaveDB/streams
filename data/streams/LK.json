@@ -971,6 +971,44 @@
     "lastCheckedAt": "2026-11-22T02:03:00Z"
   },
   {
+    "id": "aws_b0029424c17987c55478",
+    "stationId": "awb_198d1615cc20c9ebdd74",
+    "name": "SLBC Asia Service",
+    "country": "LK",
+    "url": "http://220.247.227.6:8000/Asiastream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "6e3ced56-a215-43da-855e-0256b12b32a5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-23T11:36:54Z"
+  },
+  {
+    "id": "aws_2a2f662d7192100951b7",
+    "stationId": "awb_615c1911b125df92fbc4",
+    "name": "SLBC Pirai FM",
+    "country": "LK",
+    "url": "http://220.247.234.207:8000/piraistream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "1e2871c3-6797-48d0-b2e3-4729c1310996"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-23T11:44:57Z"
+  },
+  {
     "id": "aws_dfdc8ffa00cf96e93cf7",
     "stationId": "awb_9e517039e4bc7337bcec",
     "name": "SLBC Tamil National Service",
@@ -1297,7 +1335,7 @@
       "b376776c-fc46-40e9-9124-2643bb6f596b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-19T11:35:45Z"
+    "lastCheckedAt": "2026-11-24T11:35:48Z"
   },
   {
     "id": "aws_45aca0d77e1df7287e33",

@@ -269,6 +269,8 @@ http://143.225.201.2:8000/RadioUnina
 https://pantano.ovh:8444/pantano
 #EXTINF:-1 station-id="awb_a4f59c381442b110c95a" stream-id="aws_64a589d3378d6e683812" codec="aac+" bitrate="256",Febea Radio
 http://nr6.newradio.it:9249/stream
+#EXTINF:-1 station-id="awb_ca396af558b7243482bc" stream-id="aws_cd9fc3c19d7c3ce99200" codec="mp3" bitrate="0",FF Radio Live
+https://stream.rmstudio.app/ffradio.mp3
 #EXTINF:-1 station-id="awb_3206264aeb918aea41fc" stream-id="aws_4592d7bc5977ce9f5bf3" codec="mp3" bitrate="128",Flash Mania Abruzzo
 https://stream.zeno.fm/d4v6zngvxzftv
 #EXTINF:-1 station-id="awb_1fe4bc3830658f6260f6" stream-id="aws_f4bc4febdcf9b1d05b8d" codec="mp3" bitrate="0",FM Classic
@@ -739,6 +741,8 @@ https://klasse1.fluidstream.eu/rete8fm.aac
 http://iw3qtf.sytes.net:8000/papofly
 #EXTINF:-1 station-id="awb_b3193fe2e3726207df31" stream-id="aws_b6bc97e3d60866c71b69" codec="mp3" bitrate="128",Papoz56
 https://iw3qtf.sytes.net:8043/papofly
+#EXTINF:-1 station-id="awb_b3193fe2e3726207df31" stream-id="aws_853ae53b2d275e9654a0" codec="mp3" bitrate="128",Papoz56
+https://papofly.iw3qtf.freemyip.com/papofly
 #EXTINF:-1 station-id="awb_e08f436b6c1e24855812" stream-id="aws_c199bb57b98fa4a46e5c" codec="mp3" bitrate="128",Party Radio
 https://stream12.top-ix.org/partygroove2
 #EXTINF:-1 station-id="awb_39063b4bb63152cdb4de" stream-id="aws_57a249bb1c0d15fa3b76" codec="mp3" bitrate="100",Penny FM
@@ -1065,6 +1069,8 @@ https://radio.uiclecce.it/listen/radiobarocco/radio.mp3
 http://stream.radio-base.it:8184/;
 #EXTINF:-1 station-id="awb_691af699262922c631fb" stream-id="aws_d091b4494bf64afcc085" codec="mp3" bitrate="128",Radio Base Venezia
 https://sr11.inmystream.it/proxy/radiobase?mp=/stream
+#EXTINF:-1 station-id="awb_8aa2873b58e5ea9e935f" stream-id="aws_1a1cb73f431b63561caa" codec="aac+" bitrate="64",Radio Battikuore
+http://nr6.newradio.it:9124/;
 #EXTINF:-1 station-id="awb_eaaf50d06da50c1103da" stream-id="aws_664a2ce1bb487b782b2b" codec="mp3" bitrate="128",Radio Bau & Co.
 http://icy.unitedradio.it/RadioBAU.mp3
 #EXTINF:-1 station-id="awb_b9014ac9e0c99c6510bf" stream-id="aws_37839aab054c9b459cdc" codec="mp3" bitrate="0",Radio Beckwith - RBE
@@ -1775,6 +1781,8 @@ http://nr8.newradio.it:9095/;
 https://nrf1.newradio.it:10334/stream
 #EXTINF:-1 station-id="awb_020c94b96b714aac0488" stream-id="aws_30d9a869b1e12d32fb45" codec="aac+" bitrate="122",Radio m2o - Dance
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
+#EXTINF:-1 station-id="awb_474a2f25f281b247c824" stream-id="aws_d3055c8646f8356bb8ec" codec="unknown" bitrate="0",Radio m2o - On Air
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 station-id="awb_f9affd3aa1b3318ff552" stream-id="aws_a1831b45c8dea52dc768" codec="mp3" bitrate="96",Radio Mach 5
 http://94.23.6.107:8183/stream
 #EXTINF:-1 station-id="awb_a0ac7f098d173658530b" stream-id="aws_c8ade963faad1dd330c4" codec="aac+" bitrate="96",Radio Macomer Centrale
@@ -1833,6 +1841,8 @@ https://stream.laut.fm/meteomeano
 https://stream.radiomediterranea.com:8160/lounge.mp3
 #EXTINF:-1 station-id="awb_87f1cb4e595482e9c529" stream-id="aws_2c4149c7993e77c28286" codec="mp3" bitrate="192",Radio Medua
 https://ssl1.azotosolutions.com:1030/1
+#EXTINF:-1 station-id="awb_4a2d93a12bfc010aa8a2" stream-id="aws_f3366d9fc8b8134b32c9" codec="mp3" bitrate="192",Radio Megamix | Your life, your beat
+https://icecast.megamix80.com/stream4
 #EXTINF:-1 station-id="awb_0ce00301ace2339d461b" stream-id="aws_0007be7b5d8870cd3945" codec="mp3" bitrate="192",Radio Megamix 80
 http://centova.ipstream.it/proxy/megamix80/stream
 #EXTINF:-1 station-id="awb_278e07737eec3a393af0" stream-id="aws_be25ee48676f912c7ed7" codec="mp3" bitrate="128",Radio Mela
