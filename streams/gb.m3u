@@ -205,7 +205,7 @@ https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac?aw_0_1st.skey=16026768
 http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s
 #EXTINF:-1 station-id="awb_6e93ca9e31dc66823c9c" stream-id="aws_03dad402ef4176f48f67" codec="aac+" bitrate="48",Absolute Radio
 https://stream-ar.hellorayo.co.uk/absoluteradio.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
-#EXTINF:-1 station-id="awb_eb998569ff147ab2f89b" stream-id="aws_6d32ae09fe87fa46dc81" codec="aac" bitrate="128",Absolute Radio 00s
+#EXTINF:-1 station-id="awb_eb998569ff147ab2f89b" stream-id="aws_6d32ae09fe87fa46dc81" codec="aac" bitrate="127",Absolute Radio 00s
 https://stream-ar.hellorayo.co.uk/absolute00shigh.aac
 #EXTINF:-1 station-id="awb_08383f279b79bb579001" stream-id="aws_1e1526a5665f3f39382a" codec="aac+" bitrate="48",Absolute Radio 10s
 https://stream-ar.hellorayo.co.uk/absolute10s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~&=&&___cb=850509090209086
@@ -1275,6 +1275,8 @@ https://easyradio-radiohosting.radioca.st/stream
 https://easylistening.out.airtime.pro/easylistening_a
 #EXTINF:-1 station-id="awb_08ed3ac83f436aaf0ed5" stream-id="aws_bca8d1f713d166e3a5e6" codec="mp3" bitrate="96",EAVA FM 102.5 FM
 https://radio.canstream.co.uk:8000/eavafm.mp3
+#EXTINF:-1 station-id="awb_75b48783c9b529d53c8c" stream-id="aws_8f80ca63e60da157dd07" codec="mp3" bitrate="128",EB IT Radio Story Time
+https://radio.eb-it.uk/story
 #EXTINF:-1 station-id="awb_3094029f20a6c6160116" stream-id="aws_563e031325f23cb50e31" codec="mp3" bitrate="192",Echo Radio
 http://185.195.238.30/listen/echo/radio.mp3
 #EXTINF:-1 station-id="awb_a238ed10f016194ee60a" stream-id="aws_062abcc13a38acb27d87" codec="mp3" bitrate="320",Edge 1
@@ -1325,6 +1327,8 @@ http://streaming04.liveboxstream.uk:8116/stream
 http://us4.internet-radio.com:8073/stream
 #EXTINF:-1 station-id="awb_c0a5c52f93b19bd97a36" stream-id="aws_8a1feca7160035940a18" codec="mp3" bitrate="192",Everything Soul Radio
 https://stream3.themediasite.co.uk:8440/stream?t=1785940649582
+#EXTINF:-1 station-id="awb_281f97f2eeabd4aa5091" stream-id="aws_df9a143b8e882164d866" codec="mp3" bitrate="192",Evolvian Radio
+https://radio.evolvianradio.co.uk/listen/evolvianradio/radio.mp3
 #EXTINF:-1 station-id="awb_016101d2e1771c7e2f01" stream-id="aws_21800ccf412be2e96e68" codec="aac" bitrate="0",EWTN Great Britain & Ireland
 https://ewtn-ice.streamguys1.com/sky-aac
 #EXTINF:-1 station-id="awb_edffe7af9246de812668" stream-id="aws_3131103771d086283bb5" codec="mp3" bitrate="128",Exclusively AC/DC
@@ -2841,9 +2845,9 @@ https://radiodance.streamingmedia.it/uk.aac
 http://quasar.shoutca.st:8015/stream
 #EXTINF:-1 station-id="awb_2b186288fb0c1e4acf5d" stream-id="aws_22822d55f72f703d76cb" codec="mp3" bitrate="128",Radio Dream
 http://ec5.yesstreaming.net:3590/stream
-#EXTINF:-1 station-id="awb_86467b3d57102d77401b" stream-id="aws_9ac03006fa43ee38afc9" codec="aac" bitrate="0",Radio Elton John
+#EXTINF:-1 station-id="awb_86467b3d57102d77401b" stream-id="aws_9ac03006fa43ee38afc9" codec="aac" bitrate="128",Radio Elton John
 https://hq3.yesstreaming.net/5/stream
-#EXTINF:-1 station-id="awb_126749e01b3efd26b445" stream-id="aws_45a0f8687e36ed6e1adc" codec="aac" bitrate="0",Radio Elton John • REJ.World
+#EXTINF:-1 station-id="awb_126749e01b3efd26b445" stream-id="aws_45a0f8687e36ed6e1adc" codec="aac" bitrate="128",Radio Elton John • REJ.World
 https://radio.rej.world/57018431
 #EXTINF:-1 station-id="awb_a589db6d2c583a3e7862" stream-id="aws_3d63e1bdc09286d5feec" codec="mp3" bitrate="128",Radio England - Pumpkin FM
 https://cast2.asurahosting.com/proxy/radioengland/stream
@@ -3235,6 +3239,8 @@ https://r4.rominimal.club/listen/rominimal.club/radio2.m4a
 https://listen.rookwoodsound.com:8132/;
 #EXTINF:-1 station-id="awb_d9da79a7846527268bfd" stream-id="aws_2f6ce7cf282a27ade17a" codec="mp3" bitrate="128",Rother Radio (Rotherham & Sheffield)
 https://streaming06.liveboxstream.uk/proxy/hitmusic?mp=/stream
+#EXTINF:-1 station-id="awb_bc597d7335a179647924" stream-id="aws_5b83f526ec01112f7f59" codec="aac" bitrate="320",Rovr
+https://hls-prod.rovr.live/prod/stream_plus00/llhls.m3u8
 #EXTINF:-1 station-id="awb_2693284f8760eda677d0" stream-id="aws_920124b1ff8840c21c19" codec="aac" bitrate="128",Royal Harbour Radio
 http://s9.citrus3.com:8402/stream
 #EXTINF:-1 station-id="awb_14cf721fa92affad419c" stream-id="aws_e575f2873fd8c01ca151" codec="mp3" bitrate="64",RS3
@@ -3745,6 +3751,8 @@ https://radio.trucksim.fm:8010/radio.mp3
 https://oreo.truckstopradio.co.uk/listen/truckstopradio/radio.mp3
 #EXTINF:-1 station-id="awb_96de5f54004363276c8c" stream-id="aws_245468bfc9625063b878" codec="mp3" bitrate="128",TruckStopRadio
 https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3
+#EXTINF:-1 station-id="awb_88ddce8a02dccbad504c" stream-id="aws_be0a87cf1c8817d7425d" codec="mp3" bitrate="192",True Flavas
+https://s34.myradiostream.com:4986/listen.mp3
 #EXTINF:-1 station-id="awb_7aa171239707a1f1286a" stream-id="aws_a0acaa62e4c71e3bdad2" codec="mp3" bitrate="128",Trust AM Hospital Radio
 https://streaming.galaxywebsolutions.com:9034/stream
 #EXTINF:-1 station-id="awb_29ada21bc793b547caed" stream-id="aws_061c009154b72ad73047" codec="mp3" bitrate="128",Truth FM UK
@@ -3803,6 +3811,8 @@ https://audio.ury.org.uk/live-high
 https://audio.ury.org.uk/live-mobile?rp_source=1&=&&___cb=1809942474326
 #EXTINF:-1 station-id="awb_8c4130a2b34c5d12717e" stream-id="aws_9ca6b3f9535b0a0dd9d0" codec="mp3" bitrate="24",UP Santa Barbara - This stream provided by RailroadRadio.net
 http://railaudio2.railroadradio.net:7144/
+#EXTINF:-1 station-id="awb_1082b3b43d2212a327bb" stream-id="aws_cffa3198b37e2278ebfc" codec="mp3" bitrate="128",Upfront Dance
+https://s4.ssl-stream.com/listen/upfront_dance_fm/radio.mp3
 #EXTINF:-1 station-id="awb_7ec2a726f1075539c1ca" stream-id="aws_e3e6ed8346b0eb7e203b" codec="mp3" bitrate="320",UPFront Radio
 http://uk1.streamingpulse.com:7091/;
 #EXTINF:-1 station-id="awb_7041dc2518183a75b394" stream-id="aws_58b08a4cecd8d027c6ff" codec="mp3" bitrate="0",Urban Vybez
