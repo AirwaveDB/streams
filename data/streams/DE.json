@@ -4662,7 +4662,7 @@
     "country": "DE",
     "url": "https://stream.solid-software.net/opus",
     "codec": "ogg",
-    "bitrate": 1411,
+    "bitrate": 96,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -4672,7 +4672,7 @@
       "507e53e3-20c0-4714-97d5-5bb0b20ebd80"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:56:21Z"
+    "lastCheckedAt": "2026-11-25T17:56:46Z"
   },
   {
     "id": "aws_017ab13e9e5ba4c082ca",
@@ -20237,7 +20237,7 @@
       "db410a42-4f8b-4451-91fb-5976f35391a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:10Z"
+    "lastCheckedAt": "2026-11-25T18:06:06Z"
   },
   {
     "id": "aws_2c38f10e324a65417450",
@@ -24025,6 +24025,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T08:54:16Z"
+  },
+  {
+    "id": "aws_f95d4d15d2cf55f8a6f6",
+    "stationId": "awb_4afa352a33c84e556830",
+    "name": "Bremen Eins Weihnachtsradio",
+    "country": "DE",
+    "url": "http://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "502e8279-f29f-434b-bf63-f681a2927c3d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T23:46:03Z"
   },
   {
     "id": "aws_9a47d24776434ce479d3",
@@ -28307,7 +28326,7 @@
       "a881b4b9-968b-4c45-80e6-1967be426a10"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:41Z"
+    "lastCheckedAt": "2026-11-25T17:39:40Z"
   },
   {
     "id": "aws_03862596ac6619caac27",
@@ -36693,7 +36712,7 @@
       "c022a5f9-fcfe-4278-af07-9f9e8d29bd5a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T23:56:19Z"
+    "lastCheckedAt": "2026-11-25T23:56:34Z"
   },
   {
     "id": "aws_e7b3cccda05be695b834",
@@ -49907,6 +49926,25 @@
     "lastCheckedAt": "2026-11-22T09:05:02Z"
   },
   {
+    "id": "aws_55afbf3d19f3e174fbbe",
+    "stationId": "awb_8ccfe924c9414fe8528d",
+    "name": "Klassik Radio Feel Good Klassik",
+    "country": "DE",
+    "url": "https://stream.klassikradio.de/feelgoodklassik/mp3-192/",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b78fa5ce-1f65-4840-a398-75debaa99968"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T14:25:05Z"
+  },
+  {
     "id": "aws_f92ee43eb1a2810afe1d",
     "stationId": "awb_44cca183c8d5049f27ac",
     "name": "Klassik Radio Games",
@@ -55741,7 +55779,7 @@
       "03170cdd-72bd-4690-a9a1-3dff60c28c7b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:56Z"
+    "lastCheckedAt": "2026-11-25T14:48:53Z"
   },
   {
     "id": "aws_94399093abdc60abb70f",
@@ -72976,7 +73014,7 @@
       "96b5b533-2178-48d9-ae6d-1b780a6d2805"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:47:23Z"
+    "lastCheckedAt": "2026-11-25T14:49:23Z"
   },
   {
     "id": "aws_011a8cc94f65d4c386ae",
@@ -76284,7 +76322,7 @@
       "5b45edfd-577e-4bcc-9800-34b7bb02ddbd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T10:03:12Z"
+    "lastCheckedAt": "2026-11-26T10:03:38Z"
   },
   {
     "id": "aws_5493e09b6bec2e35ec73",
@@ -84877,7 +84915,7 @@
       "df43f8d9-025c-4baf-95c2-a836cd1fc150"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T09:29:13Z"
+    "lastCheckedAt": "2026-11-26T09:29:55Z"
   },
   {
     "id": "aws_078315edf87a13d00e58",
@@ -93543,7 +93581,7 @@
     "stationId": "awb_2847b7fa8f4912a21b95",
     "name": "sachsen-anhalt-radio",
     "country": "DE",
-    "url": "https://sachsen-anhalt-radio.stream.laut.fm/sachsen-anhalt-radio?uuid=893a00f0-89a9-0fce-1f86-77c0da0d6b90&t302=2026-11-20_19-04-40",
+    "url": "https://sachsen-anhalt-radio.stream.laut.fm/sachsen-anhalt-radio?uuid=ade172c7-fe1e-3caa-4a96-80dbeb7dbbee&t302=2026-11-25_19-05-11",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "https",
@@ -93555,7 +93593,7 @@
       "0f60ab9d-f864-4439-9a7c-45a7ef534ff8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:01Z"
+    "lastCheckedAt": "2026-11-25T18:05:35Z"
   },
   {
     "id": "aws_9a6252241321df5fd2f1",
@@ -99544,7 +99582,7 @@
       "4caea128-71d3-4844-a7d7-ad09a0d6233a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T06:45:00Z"
+    "lastCheckedAt": "2026-11-26T06:45:25Z"
   },
   {
     "id": "aws_e2df015d4c11d8e84e87",
@@ -99851,6 +99889,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T00:58:12Z"
+  },
+  {
+    "id": "aws_df08029de194b64f6b04",
+    "stationId": "awb_0088b88774d93509fa57",
+    "name": "SWR1 Webradio: X-Mas",
+    "country": "DE",
+    "url": "https://liveradio.swr.de/sw331ch/raka17/play.aac",
+    "codec": "aac",
+    "bitrate": 96,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "223a44a4-3265-4b22-afbb-97c2bd3815fe"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T23:24:12Z"
   },
   {
     "id": "aws_bdb757e53bf6fec785ce",
@@ -102132,7 +102189,7 @@
       "d9e3e6ca-40b1-4a4a-b89c-49a674f64ee7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:45Z"
+    "lastCheckedAt": "2026-11-25T17:39:40Z"
   },
   {
     "id": "aws_61ed171a32fb655e1ff1",
@@ -104813,7 +104870,7 @@
       "8e5fe101-6f7f-454d-917c-4a842fa4ce63"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:06Z"
+    "lastCheckedAt": "2026-11-25T18:06:05Z"
   },
   {
     "id": "aws_e9bba5792d5a344c5e9f",

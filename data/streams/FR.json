@@ -1381,7 +1381,7 @@
       "cf0140f1-6299-4841-8e2d-3acd95a93eb0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T09:12:19Z"
+    "lastCheckedAt": "2026-11-26T09:12:45Z"
   },
   {
     "id": "aws_75c6d85f881aed37fa84",
@@ -4962,7 +4962,7 @@
       "f96397c9-fde2-4fa5-b2d2-e156f82642e0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T08:27:45Z"
+    "lastCheckedAt": "2026-11-26T08:27:57Z"
   },
   {
     "id": "aws_c24daace8af2298a8b04",
@@ -9756,7 +9756,7 @@
       "10a0bd47-6b79-45ca-98d5-e9ec33c903d2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T15:45:25Z"
+    "lastCheckedAt": "2026-11-25T15:47:10Z"
   },
   {
     "id": "aws_5a54958f1e4bbf9f4632",
@@ -15485,6 +15485,25 @@
     "lastCheckedAt": "2026-11-22T05:37:33Z"
   },
   {
+    "id": "aws_fcff5b160ac38d557840",
+    "stationId": "awb_c605342a507184400791",
+    "name": "France musique B.O. films",
+    "country": "FR",
+    "url": "https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3c0fdc59-7acc-4235-8a2e-7301b78a9805"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T11:19:26Z"
+  },
+  {
     "id": "aws_656d9d2d7eb87659e404",
     "stationId": "awb_f4a52fd2ef87544e6e3a",
     "name": "France Musique Classique Easy",
@@ -15660,6 +15679,25 @@
     "lastCheckedAt": "2026-11-22T02:09:13Z"
   },
   {
+    "id": "aws_55764b72d471f84f7984",
+    "stationId": "awb_b34fbea2c7cd4da3011b",
+    "name": "France musique La Jazz hifi sans pub",
+    "country": "FR",
+    "url": "https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9ad85c51-079e-4f3f-a074-ee6820f8c299"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T11:47:51Z"
+  },
+  {
     "id": "aws_9f8c7c5f8bd56b256613",
     "stationId": "awb_7f9edfa266e5b6239b0a",
     "name": "France Musique OCORA",
@@ -15754,7 +15792,7 @@
       "56adb70b-d105-430b-bd18-e2c4302e0c5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T13:50:01Z"
+    "lastCheckedAt": "2026-11-25T13:50:15Z"
   },
   {
     "id": "aws_d1a2d016441008b83c60",
@@ -24107,6 +24145,25 @@
     "lastCheckedAt": "2026-11-22T08:43:30Z"
   },
   {
+    "id": "aws_bdc53033d240e2d4be5f",
+    "stationId": "awb_56d0fa025004a1b19bde",
+    "name": "La Baroque-sans pub",
+    "country": "FR",
+    "url": "https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8",
+    "codec": "unknown",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bc92991a-69f4-4c04-a60d-00a484f35c05"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T11:29:45Z"
+  },
+  {
     "id": "aws_ac3c774de7c3bae52a05",
     "stationId": "awb_5d47d92b96cfd8dc5d7b",
     "name": "La grande évasion",
@@ -24580,7 +24637,7 @@
       "f0208910-995e-4b8a-8c80-c978f3691a48"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:45Z"
+    "lastCheckedAt": "2026-11-25T17:39:40Z"
   },
   {
     "id": "aws_d0fb58685bd373b01d0b",
@@ -25720,6 +25777,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T09:45:34Z"
+  },
+  {
+    "id": "aws_d34ad2f659616e6afe07",
+    "stationId": "awb_29de0e3d456f7a79c61b",
+    "name": "Long Tracks Radio",
+    "country": "FR",
+    "url": "https://n0d.radiojar.com/z21997mep5nwv?rj-ttl=5&rj-tok=AAABohO2E8cAKU1JAHW_J9G9HQ",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bee55fe5-930a-4914-a8c8-573625112522"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T17:11:44Z"
   },
   {
     "id": "aws_18507744dfea48450743",
@@ -27498,7 +27574,7 @@
       "e647ac86-39e5-46ae-96de-bd4ce6428871"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:07Z"
+    "lastCheckedAt": "2026-11-25T18:06:06Z"
   },
   {
     "id": "aws_e728435d4fd37708e60a",
@@ -28186,7 +28262,7 @@
       "87de55fe-1695-4bf4-a2f6-9155171e926f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:07Z"
+    "lastCheckedAt": "2026-11-25T18:06:07Z"
   },
   {
     "id": "aws_e1a1dfa33697177a6bd4",
@@ -28433,7 +28509,7 @@
       "b371f883-73ca-4a54-a5b8-636a22af4a61"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:46Z"
+    "lastCheckedAt": "2026-11-25T17:39:44Z"
   },
   {
     "id": "aws_f0e331ba76ad2e46a211",
@@ -28452,7 +28528,7 @@
       "78f0b16e-0a80-4c3d-b601-ee1e080c3d8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:56Z"
+    "lastCheckedAt": "2026-11-25T14:48:49Z"
   },
   {
     "id": "aws_d75945faff8d08cfb46e",
@@ -28471,7 +28547,7 @@
       "1ec06c07-d9b2-4371-b012-67bc6db8762c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:17:30Z"
+    "lastCheckedAt": "2026-11-25T19:17:38Z"
   },
   {
     "id": "aws_0404020fee055db7323a",
@@ -28547,7 +28623,7 @@
       "5f8e5140-d97e-4f4b-95eb-d28b1240db5f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:58Z"
+    "lastCheckedAt": "2026-11-25T14:48:51Z"
   },
   {
     "id": "aws_46483e395400852b7835",
@@ -28585,7 +28661,7 @@
       "0531d2b6-d012-4f28-ab44-0f5a0b14ef18"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:47:25Z"
+    "lastCheckedAt": "2026-11-25T14:49:24Z"
   },
   {
     "id": "aws_eee4dac7b824994477fd",
@@ -28604,7 +28680,7 @@
       "6e8dbdd0-5eca-4fa1-bdb0-fe6c3d4f0852"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:55Z"
+    "lastCheckedAt": "2026-11-25T14:48:53Z"
   },
   {
     "id": "aws_6fbb4e6228ef8469808f",
@@ -28642,7 +28718,7 @@
       "b4ed37b6-9aa8-4bc7-965a-7a2add0b4a41"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:17:30Z"
+    "lastCheckedAt": "2026-11-25T19:17:37Z"
   },
   {
     "id": "aws_fac65953b2f83eb8d699",
@@ -28775,7 +28851,7 @@
       "ed519cc4-2585-4249-8577-26b46b1935f5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:43Z"
+    "lastCheckedAt": "2026-11-25T17:39:12Z"
   },
   {
     "id": "aws_c28a7082218619c10f94",
@@ -28927,7 +29003,7 @@
       "f5b6b351-df31-4df5-8e9d-659f11f0d9a2"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:42Z"
+    "lastCheckedAt": "2026-11-25T17:39:42Z"
   },
   {
     "id": "aws_659dee93e59c1789802e",
@@ -29271,7 +29347,7 @@
       "493d05e7-2715-44d2-81de-a328f1a134d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T09:45:41Z"
+    "lastCheckedAt": "2026-11-26T09:46:02Z"
   },
   {
     "id": "aws_d47a74a08c1dc9fbf97e",
@@ -36218,7 +36294,7 @@
       "f102ac4a-555f-44c8-a0fa-ffe1c86a46fc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:08:19Z"
+    "lastCheckedAt": "2026-11-25T18:08:29Z"
   },
   {
     "id": "aws_fb448eba5cd1a41263a1",
@@ -39575,7 +39651,7 @@
       "2b857654-d789-446a-a03f-421b8beaff15"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T12:30:12Z"
+    "lastCheckedAt": "2026-11-26T12:30:39Z"
   },
   {
     "id": "aws_283e9b8026551e3697ea",
@@ -43314,7 +43390,7 @@
       "001bc55d-c8de-44e3-b94e-204495ee396f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:46Z"
+    "lastCheckedAt": "2026-11-25T17:39:41Z"
   },
   {
     "id": "aws_310cb740bc9868ae9dde",
@@ -44555,7 +44631,7 @@
       "a7af27ed-a31b-46eb-9d6a-d7dcff16f0f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:56Z"
+    "lastCheckedAt": "2026-11-25T14:48:50Z"
   },
   {
     "id": "aws_8969d43ba54ef8ae3778",
@@ -45963,7 +46039,7 @@
       "468eb513-0007-4eda-8e12-43dcf39928f1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:46Z"
+    "lastCheckedAt": "2026-11-25T17:39:41Z"
   },
   {
     "id": "aws_0cff144a548e2e6cea73",
@@ -49897,7 +49973,7 @@
       "7844e836-8bd9-4e65-ab8c-49dc88fa1dc1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T13:50:01Z"
+    "lastCheckedAt": "2026-11-25T13:50:15Z"
   },
   {
     "id": "aws_306216aadbd08d671a3f",

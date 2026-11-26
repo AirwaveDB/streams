@@ -2036,7 +2036,7 @@
     "country": "CO",
     "url": "https://stream.zeno.fm/kkertu70mm5tv",
     "codec": "mp3",
-    "bitrate": 192,
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -2046,7 +2046,7 @@
       "d226ec6c-08be-47d7-81f9-9b8dac54f190"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:21:44Z"
+    "lastCheckedAt": "2026-11-25T19:21:51Z"
   },
   {
     "id": "aws_e90dd4af3d8a159d52e7",
@@ -5290,7 +5290,7 @@
       "412fc161-5f2c-4100-ba21-9ab75a78848a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T03:29:22Z"
+    "lastCheckedAt": "2026-11-26T03:29:34Z"
   },
   {
     "id": "aws_eea6c4a4751b4ef68489",
@@ -12119,6 +12119,25 @@
     "lastCheckedAt": "2026-11-22T03:31:28Z"
   },
   {
+    "id": "aws_5beea8d922e8e68340d1",
+    "stationId": "awb_57ddbc83dbd6d6ec56d2",
+    "name": "TripMind Radio",
+    "country": "CO",
+    "url": "https://panel.tripmindradio.com/listen/tripmind_radio/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9aa44fff-b62d-40ae-9022-50e15a44f30a"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T10:26:28Z"
+  },
+  {
     "id": "aws_503787dec62bc79ac763",
     "stationId": "awb_44d359c8e0ea90d4ffdb",
     "name": "Tropicalisima FM Tunja",
@@ -12680,6 +12699,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
+  },
+  {
+    "id": "aws_cc27559bf1f140de9790",
+    "stationId": "awb_9702bd123726ee9a5591",
+    "name": "Veracruz Stereo Digital",
+    "country": "CO",
+    "url": "https://radio.veracruzstereo.com:8000/live",
+    "codec": "aac",
+    "bitrate": 256,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "8eb5a897-2dde-465d-b04e-3cc0f7fdb9d6"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T20:39:49Z"
   },
   {
     "id": "aws_b8c6b2914ae53b965003",

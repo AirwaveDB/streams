@@ -388,6 +388,63 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
+    "id": "aws_1457592ed6f0e00430dd",
+    "stationId": "awb_c2bda6d0c0aeff9da856",
+    "name": "Day.Az Radio",
+    "country": "AZ",
+    "url": "https://radio.day.az:9443/aac128",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5af13347-376f-425c-81ac-26796aa18147"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T11:21:02Z"
+  },
+  {
+    "id": "aws_000473afaf14c9eeab05",
+    "stationId": "awb_fba3efef0035f721c32b",
+    "name": "Day.Az Radio (192 kbps)",
+    "country": "AZ",
+    "url": "https://radio.day.az:9443/aac192",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "41bb3665-e39b-4d24-981c-678f613a3802"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T12:00:59Z"
+  },
+  {
+    "id": "aws_3e7b7c541ba31eb6cdb0",
+    "stationId": "awb_898954089bf01f831a15",
+    "name": "Day.Az Radio (48 kbps)",
+    "country": "AZ",
+    "url": "https://radio.day.az:9443/aac48",
+    "codec": "aac",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "cbd83072-cdae-4824-bcd2-894427f6c706"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T12:00:59Z"
+  },
+  {
     "id": "aws_1f724e85ecd1931c4b39",
     "stationId": "awb_9a5caa4863a4415c8b09",
     "name": "İctimai Radio – 90 FM",

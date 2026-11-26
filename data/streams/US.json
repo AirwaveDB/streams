@@ -341,7 +341,7 @@
       "51be338f-3e72-484e-8c67-948f63302dcc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T22:24:30Z"
+    "lastCheckedAt": "2026-11-25T22:24:35Z"
   },
   {
     "id": "aws_182628f42e40e2e44f27",
@@ -7436,7 +7436,7 @@
       "9d4a9635-20d4-4671-aa1d-3f515f3f6bcf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:45Z"
+    "lastCheckedAt": "2026-11-25T17:39:41Z"
   },
   {
     "id": "aws_89ad00e5544281c72a3c",
@@ -8751,6 +8751,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T00:52:18Z"
+  },
+  {
+    "id": "aws_2c11026fd49b7e1e0454",
+    "stationId": "awb_d519f9cf0ff3601ff89b",
+    "name": "88.1 - WELH",
+    "country": "US",
+    "url": "http://uk6freenew.listen2myradio.com:31553/",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4b0f4cbe-9dd1-4dd7-afc7-689673f90c7f"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T18:32:48Z"
   },
   {
     "id": "aws_bcb309c6e793f009e28e",
@@ -14762,25 +14781,6 @@
     "lastCheckedAt": "2026-11-22T10:06:59Z"
   },
   {
-    "id": "aws_03917cdf29715ae44a36",
-    "stationId": "awb_44cfc7c37193e3878143",
-    "name": "Abiding Radio - Instrumental",
-    "country": "US",
-    "url": "https://streams.abidingradio.com:7800/1",
-    "codec": "mp3",
-    "bitrate": 128,
-    "protocol": "https",
-    "hls": false,
-    "sources": [
-      "radio-browser"
-    ],
-    "sourceIds": [
-      "5f6d83bf-940d-4380-8180-5ef76a943830"
-    ],
-    "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-24T15:12:11Z"
-  },
-  {
     "id": "aws_f8ceb54d2faacfd12380",
     "stationId": "awb_19e56ce41fac1feba4c3",
     "name": "Abiding Radio - Kids",
@@ -14800,11 +14800,11 @@
     "lastCheckedAt": "2026-11-21T22:30:12Z"
   },
   {
-    "id": "aws_09e68cde10fe398b421f",
-    "stationId": "awb_549d6d9f7801464f314f",
-    "name": "Abiding Radio - Sacred",
+    "id": "aws_33d36325db801182b329",
+    "stationId": "awb_d87bb27615eeaa242f31",
+    "name": "Abiding Radio - Quiet Meditations",
     "country": "US",
-    "url": "https://streams.abidingradio.com/sacred",
+    "url": "https://streams.abidingradio.com/quiet",
     "codec": "aac",
     "bitrate": 128,
     "protocol": "https",
@@ -14813,10 +14813,29 @@
       "radio-browser"
     ],
     "sourceIds": [
-      "7491b836-0d1a-4f95-9b2f-2bdd96789779"
+      "ccdd1869-a1f8-492a-9455-297b17f986c6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-22T06:24:29Z"
+    "lastCheckedAt": "2026-11-25T13:53:26Z"
+  },
+  {
+    "id": "aws_dff4eaf27fd31c75f55e",
+    "stationId": "awb_549d6d9f7801464f314f",
+    "name": "Abiding Radio - Sacred",
+    "country": "US",
+    "url": "https://streams.abidingradio.com:7820/sacred",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "932f76c1-d65a-4f33-90be-c9be2b6495c9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T13:55:43Z"
   },
   {
     "id": "aws_ce69669a049c7d7d6cd7",
@@ -15064,6 +15083,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T03:44:14Z"
+  },
+  {
+    "id": "aws_62897f87b7ea7c7e5e5f",
+    "stationId": "awb_5812719b9ad76f8753d0",
+    "name": "Access Voice Radio",
+    "country": "US",
+    "url": "https://stream.accessvoiceradio.com/listen/access_voice/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "bfcf2f27-5c05-44fa-bef4-5ccc961604f5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T22:55:06Z"
   },
   {
     "id": "aws_0eb6f8f86c3f215857d2",
@@ -15747,7 +15785,7 @@
       "c22f97d4-26b6-46ac-a415-54b1bdd85f0d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:07Z"
+    "lastCheckedAt": "2026-11-25T18:06:08Z"
   },
   {
     "id": "aws_848a8e9e6f70defcc087",
@@ -19150,7 +19188,7 @@
       "0343b72a-be6b-4654-82f0-1f4a2db9f3f6"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T20:39:35Z"
+    "lastCheckedAt": "2026-11-25T20:40:04Z"
   },
   {
     "id": "aws_424134262397f21e5839",
@@ -20161,6 +20199,25 @@
     "lastCheckedAt": "2026-11-22T04:37:45Z"
   },
   {
+    "id": "aws_6c24949b3405c777bb79",
+    "stationId": "awb_f3bc5691e276b4691901",
+    "name": "Beautiful Music Radio",
+    "country": "US",
+    "url": "https://s4.voscast.com:9283/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "287eebef-7b5e-413a-b5fd-2bd4df739431"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T12:24:39Z"
+  },
+  {
     "id": "aws_76e88631cc089a710739",
     "stationId": "awb_cce0b758a6fa584858a1",
     "name": "Begoodradio.com 80s metal",
@@ -21015,7 +21072,7 @@
       "d4b4e5ae-7aa5-47f2-a3f5-7c4b8876330a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T08:36:04Z"
+    "lastCheckedAt": "2026-11-26T08:36:30Z"
   },
   {
     "id": "aws_ed54eda6ac2ac4d30baf",
@@ -26294,7 +26351,7 @@
       "fe71bfce-0eee-4cf0-aa0d-fb973c117716"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T10:40:40Z"
+    "lastCheckedAt": "2026-11-26T10:41:06Z"
   },
   {
     "id": "aws_518b931b4fde1efef790",
@@ -27765,7 +27822,7 @@
       "23876777-ac93-4159-8caa-7eea22d9eb5a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T23:38:00Z"
+    "lastCheckedAt": "2026-11-25T23:38:19Z"
   },
   {
     "id": "aws_a3ef28356895fdd167cc",
@@ -28221,7 +28278,7 @@
       "321688a3-d2c9-4878-964a-336b482d6d76"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T09:52:16Z"
+    "lastCheckedAt": "2026-11-26T09:52:36Z"
   },
   {
     "id": "aws_f6f2c4baa2ff0f1fdcd5",
@@ -28525,7 +28582,7 @@
       "047c493c-5dc0-4ef9-8c7c-c7834e3325eb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:44Z"
+    "lastCheckedAt": "2026-11-25T17:39:41Z"
   },
   {
     "id": "aws_77f7780053eaed29b439",
@@ -31482,7 +31539,7 @@
     "stationId": "awb_e5b681a8e7441387d5c2",
     "name": "Discover Trance Radio",
     "country": "US",
-    "url": "http://paris.discovertrance.com:8008/",
+    "url": "http://node-2.promo-cloud.com:8008/",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "http",
@@ -31494,7 +31551,7 @@
       "d947154e-08d9-4b67-819a-a45c2152b882"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T11:10:34Z"
+    "lastCheckedAt": "2026-11-26T11:10:41Z"
   },
   {
     "id": "aws_36a24e4f784f27accffd",
@@ -32712,7 +32769,7 @@
       "753baeb5-738d-4d80-b7f0-f7488577f3b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:37Z"
+    "lastCheckedAt": "2026-11-25T17:39:12Z"
   },
   {
     "id": "aws_1a3f90b8221ff00f0a67",
@@ -33092,7 +33149,7 @@
       "98bbc44b-28bf-4b69-849a-7a300353cf3a"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T06:15:51Z"
+    "lastCheckedAt": "2026-11-26T06:16:09Z"
   },
   {
     "id": "aws_c2e7c7262d39d908f59e",
@@ -33130,7 +33187,7 @@
       "bde0838d-4a03-4be1-97c6-2bc3015d40f4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T03:44:28Z"
+    "lastCheckedAt": "2026-11-26T03:44:44Z"
   },
   {
     "id": "aws_676dd58a9f88547a11f0",
@@ -33149,7 +33206,7 @@
       "8c0a40fd-cc82-4381-bc81-61662479d7a7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T03:52:39Z"
+    "lastCheckedAt": "2026-11-26T03:52:51Z"
   },
   {
     "id": "aws_7624420b135325e50fd1",
@@ -34005,6 +34062,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T06:32:25Z"
+  },
+  {
+    "id": "aws_cde32adf9a92ee95f16d",
+    "stationId": "awb_5f482ddd11f4dcce098f",
+    "name": "Erick christian station",
+    "country": "US",
+    "url": "https://listen.nobexradio.com/station_erickcarpiojr405radio?ref=radiobrowser",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e8f4cdd8-2d8a-4856-8674-0e306f077911"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T23:55:53Z"
   },
   {
     "id": "aws_c57f487a3d0bb81bac9c",
@@ -37010,7 +37086,7 @@
       "4e38ad9f-7c54-4b84-a372-84a4f5383e02"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:37Z"
+    "lastCheckedAt": "2026-11-25T17:39:07Z"
   },
   {
     "id": "aws_da91ebcc4f542e43f38d",
@@ -39176,7 +39252,7 @@
       "b0e190f2-3e6b-4f9e-b3e5-ebefc7858873"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T22:25:33Z"
+    "lastCheckedAt": "2026-11-25T22:25:45Z"
   },
   {
     "id": "aws_a729620e3cb2b7aa9e85",
@@ -39425,7 +39501,7 @@
       "2ecd570f-ab2b-4c40-8275-c1355df760b7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:52:54Z"
+    "lastCheckedAt": "2026-11-25T18:53:02Z"
   },
   {
     "id": "aws_591c9fda8861900526b1",
@@ -39539,7 +39615,7 @@
       "b1a3968e-a4af-4e9b-8a4d-635f761e97e5"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:21:34Z"
+    "lastCheckedAt": "2026-11-26T04:21:42Z"
   },
   {
     "id": "aws_78eaef1edf7dc69adf7f",
@@ -41269,7 +41345,7 @@
       "c6865e88-e609-4167-95be-79eee3e1d5d8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:08:13Z"
+    "lastCheckedAt": "2026-11-25T17:11:32Z"
   },
   {
     "id": "aws_a578b88dfb7666b35e2c",
@@ -44808,6 +44884,25 @@
     "lastCheckedAt": "2026-11-22T00:30:32Z"
   },
   {
+    "id": "aws_b8e387a134c35c2ea9d1",
+    "stationId": "awb_db9d4a598776cc75bed1",
+    "name": "Israeli Jewish Radio Florida - 107.1 FM Miami",
+    "country": "US",
+    "url": "https://w296dk.online:8443/WEBAPP",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c6d7f258-06b2-4137-810b-f334361b10ce"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T02:03:47Z"
+  },
+  {
     "id": "aws_6a0cc1db87ab37800db3",
     "stationId": "awb_0015fbfdb1f9f6204fa0",
     "name": "J947 - America's #1 National Hit Music Station",
@@ -47484,7 +47579,7 @@
       "ca559ada-802e-40fc-90b1-9c4491a0e618"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:04:59Z"
+    "lastCheckedAt": "2026-11-25T18:05:32Z"
   },
   {
     "id": "aws_eda384ee8a7e3b5db00c",
@@ -49555,7 +49650,7 @@
       "7b1ee15e-f02a-4bcd-8f56-6ab70085de03"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:01Z"
+    "lastCheckedAt": "2026-11-25T18:05:37Z"
   },
   {
     "id": "aws_2e889d2e2858352ab2ee",
@@ -52918,7 +53013,7 @@
       "9638d3b0-62bc-4c41-b7ad-88237773b58f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:57:55Z"
+    "lastCheckedAt": "2026-11-26T04:58:08Z"
   },
   {
     "id": "aws_5f0f78d3d8450721f1ea",
@@ -54383,7 +54478,7 @@
       "4d14737e-c977-42eb-96ce-f9fe3fdc5795"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:58Z"
+    "lastCheckedAt": "2026-11-25T14:48:54Z"
   },
   {
     "id": "aws_659fc3af94d5dc9d484b",
@@ -55656,7 +55751,7 @@
       "b012477a-1f78-4b30-9e08-bbfef47a7e01"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:52:51Z"
+    "lastCheckedAt": "2026-11-25T14:53:14Z"
   },
   {
     "id": "aws_36cd70b200ced0539ae6",
@@ -56872,7 +56967,7 @@
       "78237974-fc26-4169-b4ec-2d5841895459"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:05Z"
+    "lastCheckedAt": "2026-11-25T18:05:33Z"
   },
   {
     "id": "aws_de2510f078f6bf34c4a3",
@@ -59647,7 +59742,7 @@
       "7e5a5b49-3117-43b5-87cb-137f3b85b65d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:47:25Z"
+    "lastCheckedAt": "2026-11-25T14:49:24Z"
   },
   {
     "id": "aws_d9df397870b11fc4c7fc",
@@ -60350,7 +60445,7 @@
       "ca82f63d-ba8f-4cd1-bd73-46097a0cc7b3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:01Z"
+    "lastCheckedAt": "2026-11-25T18:05:36Z"
   },
   {
     "id": "aws_30784699cadcd2d51460",
@@ -61718,7 +61813,7 @@
       "c6319977-4d59-4cc3-9c7c-b0a93a45bfee"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:50:08Z"
+    "lastCheckedAt": "2026-11-26T04:50:19Z"
   },
   {
     "id": "aws_6e236b74c6cd3c117e02",
@@ -63466,7 +63561,7 @@
       "047fcd05-775a-462f-97ba-37b21d170964"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:10Z"
+    "lastCheckedAt": "2026-11-25T18:06:09Z"
   },
   {
     "id": "aws_a71addee04dc56cfcd7c",
@@ -66490,6 +66585,63 @@
     "lastCheckedAt": "2026-11-25T01:00:14Z"
   },
   {
+    "id": "aws_3b1254431de71b4bce81",
+    "stationId": "awb_1cb385554ee17aecf1f6",
+    "name": "Lavarox Lite",
+    "country": "US",
+    "url": "http://stream.lava-rox.net:5150/Lavarox-lite.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "d244b234-439a-4e2c-a038-98b24c41073c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T02:37:05Z"
+  },
+  {
+    "id": "aws_fd053c1ec86697ecad52",
+    "stationId": "awb_f31a3d595d7959edab4b",
+    "name": "Lavarox Main",
+    "country": "US",
+    "url": "http://stream.lava-rox.net:5150/Lavarox.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "341376c9-ce9e-4377-aaf8-a791d42cf567"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T02:33:09Z"
+  },
+  {
+    "id": "aws_513875d6ef297734bce0",
+    "stationId": "awb_738f90d308d678d05e3b",
+    "name": "Lavarox Prog",
+    "country": "US",
+    "url": "http://stream.lava-rox.net:5150/Lavarox-prog.mp3",
+    "codec": "mp3",
+    "bitrate": 320,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "5ed7813f-d0aa-4359-a189-69cc1d8d5ff9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T02:35:42Z"
+  },
+  {
     "id": "aws_27c3b7b9837f7706d888",
     "stationId": "awb_f3e23353c4e4951aaf4a",
     "name": "Lazer 103.3",
@@ -66962,7 +67114,7 @@
       "59858532-30ca-4375-b899-507cba2f40a7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:45Z"
+    "lastCheckedAt": "2026-11-25T17:39:45Z"
   },
   {
     "id": "aws_c3106902ec500163b57c",
@@ -66981,7 +67133,7 @@
       "48d62942-ec68-4833-a188-eb0b3252a421"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:00Z"
+    "lastCheckedAt": "2026-11-25T18:05:37Z"
   },
   {
     "id": "aws_a358ef211a996e2ce851",
@@ -67019,7 +67171,7 @@
       "f69437fc-ef2f-431b-a8a6-681093d2aec8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:58Z"
+    "lastCheckedAt": "2026-11-25T14:48:49Z"
   },
   {
     "id": "aws_f8f7cdefa114306c3d39",
@@ -67950,7 +68102,7 @@
       "452e79b2-d54e-484c-9f15-74341a9c1a2f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T21:31:45Z"
+    "lastCheckedAt": "2026-11-25T21:31:55Z"
   },
   {
     "id": "aws_3e8b99a7551baffbf7c6",
@@ -71590,7 +71742,7 @@
       "c96740b9-d612-4a6e-ae93-83215edb81a0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T12:41:12Z"
+    "lastCheckedAt": "2026-11-26T12:41:43Z"
   },
   {
     "id": "aws_bf9a58f486d78417beb9",
@@ -72616,7 +72768,7 @@
       "d887a5c3-46a4-4428-ab68-14319a6e6a58"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:02Z"
+    "lastCheckedAt": "2026-11-25T18:05:36Z"
   },
   {
     "id": "aws_b3a00f82a1ada3d20e0f",
@@ -73756,7 +73908,7 @@
       "f746a940-5968-480b-8b95-ec1229354a5d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:08Z"
+    "lastCheckedAt": "2026-11-25T18:06:08Z"
   },
   {
     "id": "aws_f934e995ba0d44aa2bcd",
@@ -74136,7 +74288,7 @@
       "4dd52a17-9a9b-4941-8348-49cf373829a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:08:02Z"
+    "lastCheckedAt": "2026-11-25T17:11:32Z"
   },
   {
     "id": "aws_48f23da98e68f6dc8d8b",
@@ -74649,7 +74801,7 @@
       "67b9d15a-e8d2-47ff-964c-f7fdc05a1a83"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:57Z"
+    "lastCheckedAt": "2026-11-25T14:48:51Z"
   },
   {
     "id": "aws_c51793f42ed752040827",
@@ -76514,7 +76666,7 @@
       "b7547531-b5fb-429c-8155-56b0cf4b5d76"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T03:15:54Z"
+    "lastCheckedAt": "2026-11-26T03:16:03Z"
   },
   {
     "id": "aws_f4f6b993459925414424",
@@ -77997,7 +78149,7 @@
       "b147ddc0-4b02-4279-b2c1-8f28891c36df"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:35:07Z"
+    "lastCheckedAt": "2026-11-25T14:35:30Z"
   },
   {
     "id": "aws_7711f4e2efda9bf833a9",
@@ -79881,6 +80033,25 @@
     "lastCheckedAt": "2026-11-22T03:57:55Z"
   },
   {
+    "id": "aws_999ae66eef7ad07baf0b",
+    "stationId": "awb_48ac1ba91d0169985a58",
+    "name": "Radio Alléluia Ministries",
+    "country": "US",
+    "url": "https://radioalleluia.radioca.st/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "368e57f6-b967-43b8-bad4-e07e98f20bf5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T03:58:51Z"
+  },
+  {
     "id": "aws_534aba9fa74a6efc8c60",
     "stationId": "awb_847dc28f09d5be4554ac",
     "name": "Radio America 1",
@@ -81670,7 +81841,7 @@
       "b45dbf6b-268b-4ddb-8b5d-c8d84a9e8554"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T02:16:47Z"
+    "lastCheckedAt": "2026-11-26T02:17:05Z"
   },
   {
     "id": "aws_343a47bbd1083bcebc65",
@@ -87917,7 +88088,7 @@
       "5c8f8628-58bd-433b-b3a2-9bdd63e64cef"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T22:40:04Z"
+    "lastCheckedAt": "2026-11-25T22:40:11Z"
   },
   {
     "id": "aws_1a708324961e7ac07588",
@@ -89479,6 +89650,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-24T20:49:29Z"
+  },
+  {
+    "id": "aws_a52f15061b0cc7d169db",
+    "stationId": "awb_dc9d6e626e1543fd7bb2",
+    "name": "Section 8 Recordings - 24/7 Dark DnB via @section8recs",
+    "country": "US",
+    "url": "https://azura.drmnbss.org/listen/section8recs/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "ee1de82a-18df-4381-97c2-d71097bd19b3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T14:14:07Z"
   },
   {
     "id": "aws_206a6df3ce9653242492",
@@ -95380,7 +95570,7 @@
       "a800d5b0-b4d4-4aad-8602-cc416afbe339"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:42Z"
+    "lastCheckedAt": "2026-11-25T17:39:42Z"
   },
   {
     "id": "aws_5c0df197e4d12768921c",
@@ -95760,7 +95950,7 @@
       "210764ae-7252-47b6-9851-57a40e29ab1b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_d488cadd0496fdd62571",
@@ -95779,7 +95969,7 @@
       "28ac25af-9977-4972-b30c-2b66a145edaf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:42Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_ce1e5ef176319c213c45",
@@ -95798,7 +95988,7 @@
       "a97dacbb-f08b-4d0e-8e54-b00dca675efd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_5d4468bc39eecd8a55ed",
@@ -95817,7 +96007,7 @@
       "01707580-90b4-47cd-9a46-2954e457ea8f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_d56b7755b2f71570b1b4",
@@ -95836,7 +96026,7 @@
       "bf4adc0c-f416-413d-9e15-f0e76e2d0a0c"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:42Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_1e0e3190301b53765f02",
@@ -95855,7 +96045,7 @@
       "dc0f1140-e92f-4e7d-a5d1-c20264322425"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_2773d3de3b75f1038845",
@@ -95874,7 +96064,7 @@
       "5e018af3-007c-4ea6-a974-51e7cc39c7b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_48db53dd1b285a7f40a4",
@@ -95893,7 +96083,7 @@
       "2e4c5cb8-007e-4d33-b2b5-e3e04fe4526f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:56:43Z"
+    "lastCheckedAt": "2026-11-25T19:56:55Z"
   },
   {
     "id": "aws_219eb5ec45cf1f85cd63",
@@ -97244,7 +97434,7 @@
       "baec52fa-ea20-4c27-bff7-d91f60670c01"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:03Z"
+    "lastCheckedAt": "2026-11-25T18:05:35Z"
   },
   {
     "id": "aws_5c86aca5cb5dd4e652b5",
@@ -98745,7 +98935,7 @@
       "2f9662e9-c079-41c3-b0e4-08840b6da7b0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T10:42:59Z"
+    "lastCheckedAt": "2026-11-26T10:45:04Z"
   },
   {
     "id": "aws_b18ad6fc703d392da441",
@@ -103197,7 +103387,7 @@
       "dc80ee23-9d41-45ba-a5e4-bbfc3446a3b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T22:14:38Z"
+    "lastCheckedAt": "2026-11-25T22:14:50Z"
   },
   {
     "id": "aws_ff06d687b4a7158c065e",
@@ -103539,7 +103729,7 @@
       "82ce5e29-3c54-418b-85d7-564d1c420291"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:08Z"
+    "lastCheckedAt": "2026-11-25T18:06:09Z"
   },
   {
     "id": "aws_7eff7d758d066727c46b",
@@ -104470,7 +104660,7 @@
       "9dbeb4a8-55a1-4759-b453-a42201793005"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T10:51:06Z"
+    "lastCheckedAt": "2026-11-26T10:51:25Z"
   },
   {
     "id": "aws_115ab287e0d07e712a1a",
@@ -107557,6 +107747,25 @@
     "lastCheckedAt": "2026-11-22T01:26:34Z"
   },
   {
+    "id": "aws_9f98f28eec3fe06dfac0",
+    "stationId": "awb_375b5d7772d1ffbe0d1f",
+    "name": "WBAI Pacifica (Verizon stream)",
+    "country": "US",
+    "url": "https://streaming.wbai.org/wbai_verizon",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "0f426ae3-96fd-4ccc-b43c-d8e3a44f9bb7"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T01:20:59Z"
+  },
+  {
     "id": "aws_c1ff534be873f8897950",
     "stationId": "awb_a72a9f5b9d51294a2b69",
     "name": "WBAJ 890 AM / 101.7 FM Columbia, South Carolina",
@@ -109266,7 +109475,7 @@
       "38a3142f-a0d6-45b4-9f6e-7b94be0b59a1"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:37Z"
+    "lastCheckedAt": "2026-11-25T17:39:11Z"
   },
   {
     "id": "aws_5ed8cb167c0ce40239a1",
@@ -113902,7 +114111,7 @@
       "0bb58c4e-ec9e-4000-9468-524421ca2e03"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:55Z"
+    "lastCheckedAt": "2026-11-25T14:48:53Z"
   },
   {
     "id": "aws_a7d98324a3a868da2093",
@@ -115177,7 +115386,7 @@
       "981237b0-253c-4be9-81ce-6fcb86006733"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:29:32Z"
+    "lastCheckedAt": "2026-11-26T04:29:49Z"
   },
   {
     "id": "aws_5fc59bd03b378945cdd7",
@@ -115614,7 +115823,7 @@
       "42565d34-4183-42e5-9ef7-90ca79c74363"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:46Z"
+    "lastCheckedAt": "2026-11-25T17:39:43Z"
   },
   {
     "id": "aws_1aa17ea5ea860d3f3b91",
@@ -116013,7 +116222,7 @@
       "d2f03a4e-a4a0-42b6-b444-bdffaf13a825"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T05:34:14Z"
+    "lastCheckedAt": "2026-11-26T05:34:22Z"
   },
   {
     "id": "aws_5549bbba48477d6a5163",
@@ -116108,7 +116317,7 @@
       "abb2543b-0cc4-4727-b21f-b72a85797504"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:16:59Z"
+    "lastCheckedAt": "2026-11-25T14:17:25Z"
   },
   {
     "id": "aws_11bd3f5a5ffc4af9d80e",
@@ -116830,7 +117039,7 @@
       "a7fa54bc-270a-420d-b77f-37818c677fe7"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T03:53:01Z"
+    "lastCheckedAt": "2026-11-26T03:53:19Z"
   },
   {
     "id": "aws_706b941fb1477c20ed1d",
@@ -116944,7 +117153,7 @@
       "6f8f2e31-5ca3-42a3-a232-4d277c1aac9f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:03:05Z"
+    "lastCheckedAt": "2026-11-25T14:03:32Z"
   },
   {
     "id": "aws_082d3ebe99aff2134b97",
@@ -117305,7 +117514,7 @@
       "9df596b2-3e1e-4160-a536-a84896e2b6f0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:58Z"
+    "lastCheckedAt": "2026-11-25T14:48:52Z"
   },
   {
     "id": "aws_b4d8fb9f01d153d9c5a1",
@@ -117837,7 +118046,7 @@
       "54ce5ff3-80e7-4843-a1d1-68fdd702e8bb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:04Z"
+    "lastCheckedAt": "2026-11-25T18:05:33Z"
   },
   {
     "id": "aws_8948bf372ad20e8bc416",
@@ -120309,7 +120518,7 @@
       "f777021c-ad88-4f0d-aa72-976202c08cfc"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:10Z"
+    "lastCheckedAt": "2026-11-25T18:06:07Z"
   },
   {
     "id": "aws_1f61cd38cd3556d4dcd4",
@@ -121202,7 +121411,7 @@
       "99284e4c-f6a0-4b05-bf67-3f2fca379ec0"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:54Z"
+    "lastCheckedAt": "2026-11-25T14:48:53Z"
   },
   {
     "id": "aws_d4165a5ebf0a93ead4ac",
@@ -121734,7 +121943,7 @@
       "befa6d1f-d9c0-435e-9d3a-29adea031c56"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:36:14Z"
+    "lastCheckedAt": "2026-11-26T04:36:20Z"
   },
   {
     "id": "aws_a5ccf930ce5d056644fc",
@@ -121887,6 +122096,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T08:45:35Z"
+  },
+  {
+    "id": "aws_aaea49f9ee051c4d8a79",
+    "stationId": "awb_d5d2b4206b6de14c5ae7",
+    "name": "WNZN Power 89.1 FM",
+    "country": "US",
+    "url": "https://ais-sa1.streamon.fm/7761_96k.mp3",
+    "codec": "mp3",
+    "bitrate": 100,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "30255112-04e8-4e1c-b653-68294a1b6b5c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T15:34:06Z"
   },
   {
     "id": "aws_ad232a3fb5aa42afd488",
@@ -122323,7 +122551,7 @@
       "e1775bcc-9c68-4f4f-8bd8-ae08489d0627"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:30:57Z"
+    "lastCheckedAt": "2026-11-26T04:31:12Z"
   },
   {
     "id": "aws_efeec2093bb8135c55dd",
@@ -122438,6 +122666,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T00:11:41Z"
+  },
+  {
+    "id": "aws_f7f02c49511b70198b76",
+    "stationId": "awb_ce2675cce5539954ea21",
+    "name": "WordOnAir",
+    "country": "US",
+    "url": "http://129.151.153.168:8000/wordonair.mp3",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "78ad1dcb-e371-47c8-b9d2-51c9911fe8c0"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T08:28:10Z"
   },
   {
     "id": "aws_d09759917db1a58a0655",
@@ -126807,7 +127054,7 @@
       "5d935bee-c2cb-4446-a510-8604a0ffc785"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:54Z"
+    "lastCheckedAt": "2026-11-25T14:48:53Z"
   },
   {
     "id": "aws_914922ec2eafbaa8c04c",
@@ -128159,6 +128406,25 @@
     "lastCheckedAt": "2026-11-22T00:11:45Z"
   },
   {
+    "id": "aws_aadb5eacfd22eceb6835",
+    "stationId": "awb_c69f7d0a0712b4902440",
+    "name": "WTMC 1380 AM / W253CQ 98.5 FM Wilmington, Delaware",
+    "country": "US",
+    "url": "https://video.deldot.gov/live/WTMC1380.stream/playlist.m3u8",
+    "codec": "mp3",
+    "bitrate": 82,
+    "protocol": "https",
+    "hls": true,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "7940f26a-6673-4e93-af5e-d67a6b1c630e"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T02:39:38Z"
+  },
+  {
     "id": "aws_0712b9429ed54fc00bd0",
     "stationId": "awb_2c3d3be8b13c52af03fd",
     "name": "WTMD",
@@ -129265,7 +129531,7 @@
     "stationId": "awb_4be6d1ce0742448820b9",
     "name": "WUMO 94.5 - Montgomery, Alabama",
     "country": "US",
-    "url": "http://13683.live.streamtheworld.com/SP_R2129464_SC",
+    "url": "http://14833.live.streamtheworld.com/SP_R2129464_SC",
     "codec": "mp3",
     "bitrate": 128,
     "protocol": "http",
@@ -129277,7 +129543,7 @@
       "4b9af597-7683-4756-9856-d5eb76990edf"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:54Z"
+    "lastCheckedAt": "2026-11-25T14:48:49Z"
   },
   {
     "id": "aws_192585721b49fd13ae36",
@@ -130341,7 +130607,7 @@
       "ee33ea93-c8ca-49f6-934c-a6ccefae41a3"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T23:49:44Z"
+    "lastCheckedAt": "2026-11-25T23:49:59Z"
   },
   {
     "id": "aws_38e87f5f9e98e570e1d0",
@@ -131918,7 +132184,7 @@
       "6bc80205-f8a1-4823-8087-29b2d2c45285"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T14:46:57Z"
+    "lastCheckedAt": "2026-11-25T14:48:54Z"
   },
   {
     "id": "aws_90426d117ca19c90cb77",
@@ -132393,7 +132659,7 @@
       "5b217557-f61c-492f-a4d0-38c2e19456eb"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:02Z"
+    "lastCheckedAt": "2026-11-25T18:05:32Z"
   },
   {
     "id": "aws_f96b7791e0a113303ca6",
@@ -133003,7 +133269,7 @@
       "62cf9586-b444-4837-bac6-f541550669d9"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T01:21:23Z"
+    "lastCheckedAt": "2026-11-26T01:21:42Z"
   },
   {
     "id": "aws_c7e88a8f40ffd2fd15fe",
@@ -135649,6 +135915,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-24"
+  },
+  {
+    "id": "aws_af4a0edcee4c45bc13b6",
+    "stationId": "awb_10cdf84c8593044718c4",
+    "name": "Z100 The Beat",
+    "country": "US",
+    "url": "https://s20.reliastream.com:8014/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "437e3355-f30f-4524-b49d-b1eaedde68dd"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T19:41:53Z"
   },
   {
     "id": "aws_ae05ee5dff1879557c39",

@@ -1435,6 +1435,25 @@
     "lastCheckedAt": "2026-11-22T02:03:54Z"
   },
   {
+    "id": "aws_7271f6faa904e8bca98f",
+    "stationId": "awb_d5ec61f2df9dab33e847",
+    "name": "Antena A FM",
+    "country": "BR",
+    "url": "https://sonicpanel.oficialserver.com:7029/stream",
+    "codec": "aac+",
+    "bitrate": 48,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "db752700-5e6e-45b2-8022-4641c151fff2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-26T04:00:28Z"
+  },
+  {
     "id": "aws_1c3d1d59c101d4731e7f",
     "stationId": "awb_ec58f1e35fb22c5b2e00",
     "name": "Antena Sul FM 102.7",
@@ -5382,7 +5401,7 @@
       "135abdcb-8dc1-4cbe-90c4-2f3625f701a4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:21:42Z"
+    "lastCheckedAt": "2026-11-25T17:24:45Z"
   },
   {
     "id": "aws_3635ae04ca8874cc6367",
@@ -7473,7 +7492,7 @@
       "c5c704c1-23d1-4c4d-8017-e96246d37d2f"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:40Z"
+    "lastCheckedAt": "2026-11-25T17:39:13Z"
   },
   {
     "id": "aws_3c302e7a58269207dda7",
@@ -7798,7 +7817,7 @@
       "a26f1d2f-7e33-45ac-bfe5-24dbdf89d065"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T23:37:07Z"
+    "lastCheckedAt": "2026-11-25T23:37:21Z"
   },
   {
     "id": "aws_26ea28ee63ef1437e6b1",
@@ -10334,6 +10353,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-21T23:51:16Z"
+  },
+  {
+    "id": "aws_d79abf2aa6250e1ff212",
+    "stationId": "awb_70bfc9215784f54a0b36",
+    "name": "Oceano FM - Rio Grande",
+    "country": "BR",
+    "url": "https://superaudio.radio.br/radio/8380/stream",
+    "codec": "aac",
+    "bitrate": 160,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "4c1c7492-126e-4d78-acb0-be0f050fa069"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T13:02:09Z"
   },
   {
     "id": "aws_a60155bef73e399c6871",
@@ -14397,7 +14435,7 @@
       "ea3c45d3-6a11-4e57-86d9-7fe01f07303e"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T01:35:50Z"
+    "lastCheckedAt": "2026-11-26T01:35:59Z"
   },
   {
     "id": "aws_dac322b0fd7d0f3ccb5a",
@@ -16879,7 +16917,7 @@
       "4eca04fa-8ee1-48d7-bf76-4da8aadf4e21"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T23:45:32Z"
+    "lastCheckedAt": "2026-11-25T23:45:38Z"
   },
   {
     "id": "aws_486b5d3b1a0ed47f9858",
@@ -17070,6 +17108,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-24T21:15:21Z"
+  },
+  {
+    "id": "aws_68c6c5916172477d77d4",
+    "stationId": "awb_28e7b667919baf14afd2",
+    "name": "Radio Flash Back Mix",
+    "country": "BR",
+    "url": "https://mc01.streammaximum.com:7005/stream",
+    "codec": "aac",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3bd6f962-8068-49f4-ab1c-ee4e0bbf9e8c"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T20:46:25Z"
   },
   {
     "id": "aws_1d8bcb2f5a27674aff55",
@@ -22208,6 +22265,25 @@
     "lastCheckedAt": "2026-11-22T00:02:01Z"
   },
   {
+    "id": "aws_746e7165d2a6743c2b10",
+    "stationId": "awb_961274fba43da1865ac3",
+    "name": "Rádio ONCB",
+    "country": "BR",
+    "url": "http://rvn01.painelstream.net:8450/live",
+    "codec": "aac+",
+    "bitrate": 64,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b60604d8-8cfd-429a-8fc6-f4db55a48ad9"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T19:47:26Z"
+  },
+  {
     "id": "aws_13a398c1c7e3193f0119",
     "stationId": "awb_564c96867456a72721ba",
     "name": "Rádio Opa 91.3 FM",
@@ -23648,8 +23724,8 @@
     "name": "RÁDIO S.H.O",
     "country": "BR",
     "url": "https://sv11.hdradios.net:8092/steam",
-    "codec": "aac+",
-    "bitrate": 64,
+    "codec": "mp3",
+    "bitrate": 128,
     "protocol": "https",
     "hls": false,
     "sources": [
@@ -23659,7 +23735,7 @@
       "6f57ce47-4767-462d-8b48-34517cdecdba"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T01:22:17Z"
+    "lastCheckedAt": "2026-11-26T01:22:25Z"
   },
   {
     "id": "aws_8b48007419a65721bffc",
@@ -24561,6 +24637,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T06:49:54Z"
+  },
+  {
+    "id": "aws_28c4bbd9b05ae23b6571",
+    "stationId": "awb_eb8fc6e6666769d2e8e4",
+    "name": "Rádio Spiral",
+    "country": "BR",
+    "url": "https://radio-spiral-stream.onrender.com/radio.mp3",
+    "codec": "mp3",
+    "bitrate": 0,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "25383496-071b-487e-a5d3-12a1678a0db3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T19:55:44Z"
   },
   {
     "id": "aws_4002eaed9b5364fe244f",
@@ -27753,7 +27848,7 @@
       "4b72d2d8-53f5-4c88-a14d-8183f2ac75cd"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T04:13:00Z"
+    "lastCheckedAt": "2026-11-26T04:13:09Z"
   },
   {
     "id": "aws_a3fa09bae639dc0ed3e2",
@@ -27772,7 +27867,7 @@
       "12de1659-aeaf-4f47-b0cb-f388e0438e02"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T21:57:39Z"
+    "lastCheckedAt": "2026-11-25T21:57:47Z"
   },
   {
     "id": "aws_86a9c5ea39a6b14f9416",
@@ -27966,7 +28061,7 @@
       "3b6242c7-dc73-4a46-ac59-c32d77f24bad"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:03Z"
+    "lastCheckedAt": "2026-11-25T18:05:36Z"
   },
   {
     "id": "aws_ef0b72150a51ade577bb",
@@ -28023,7 +28118,7 @@
       "04cc02f0-9ecf-4be9-b295-f3e87c519749"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-21T12:43:09Z"
+    "lastCheckedAt": "2026-11-26T12:44:45Z"
   },
   {
     "id": "aws_d8a4a9a0a303b3e65b4f",

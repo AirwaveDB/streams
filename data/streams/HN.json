@@ -76,6 +76,25 @@
     "lastCheckedAt": "2026-08-23"
   },
   {
+    "id": "aws_49009c5594928da0e554",
+    "stationId": "awb_bdb3d206cd767f88b668",
+    "name": "BBN en vivo",
+    "country": "HN",
+    "url": "https://audio-edge-ey5nr.ams.s.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
+    "codec": "aac",
+    "bitrate": 64,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "64773d33-6c94-4661-a7e4-699eee5dbef2"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T22:00:59Z"
+  },
+  {
     "id": "aws_347a2dd10943eaa0e7be",
     "stationId": "awb_d79d448ff9105f165947",
     "name": "Cadena Radial del Centro 89.7 FM",
@@ -114,6 +133,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T08:16:35Z"
+  },
+  {
+    "id": "aws_2fb7e7e3e1d8a9077436",
+    "stationId": "awb_3ce67300e6e6528a40ce",
+    "name": "Cristianos Radios en vivo",
+    "country": "HN",
+    "url": "https://stream.zeno.fm/m7xdghv3dfytv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "e79f0298-1171-4c79-8087-f2e8c44eaa73"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T22:48:55Z"
   },
   {
     "id": "aws_1241e48d47742e11c8ba",
@@ -512,6 +550,44 @@
     "lastCheckedAt": "2026-11-22T01:15:40Z"
   },
   {
+    "id": "aws_6f1906b36059e92ce10f",
+    "stationId": "awb_0e059f29d5e4728d4bfe",
+    "name": "Planes Radio Getsemani",
+    "country": "HN",
+    "url": "https://panel.yupistream.com/proxy/ysplanes/stream",
+    "codec": "aac+",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "640db8e2-9e70-4f0f-835e-3b6750b371d3"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T22:14:01Z"
+  },
+  {
+    "id": "aws_abbfc5a1cbe16874616a",
+    "stationId": "awb_b86304ce4f497789e00c",
+    "name": "Power FM",
+    "country": "HN",
+    "url": "https://stream-04.surfernetwork.com/q2bkey2937zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxMmJrZXkyOTM3enV2IiwiaG9zdCI6InN0cmVhbS0wNC5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Ijd3Q0JSdW1sUzZTck1TcEdaWFY2ZUEiLCJpYXQiOjE3OTU2NDExNDAsImV4cCI6MTc5NTY0MTIwMH0.v2fNEAP2YLgIWT3Lng0bfOPaXeHmEEnqLhJK5rtSkMc",
+    "codec": "aac",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "b99f19f2-749a-472b-9e98-57afa3202164"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T21:15:32Z"
+  },
+  {
     "id": "aws_21c65a3d36c5470ff525",
     "stationId": "awb_69c0d48e30b0da81ca12",
     "name": "Radio America 94.7 Tegucigalpa",
@@ -529,6 +605,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-21T23:29:34Z"
+  },
+  {
+    "id": "aws_17c43e22d98d46bcd47c",
+    "stationId": "awb_70c70cf5757f8928ed8d",
+    "name": "Radio Cristiana Honduras",
+    "country": "HN",
+    "url": "https://stream-148.zeno.fm/cbcfptwxcfhvv",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "f99cdaf7-10cc-472c-b22a-e9e009c8774b"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T22:20:39Z"
   },
   {
     "id": "aws_4099300dedd36a040c2c",
@@ -879,6 +974,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-08-23"
+  },
+  {
+    "id": "aws_2dba1cff6dd7ce9023c5",
+    "stationId": "awb_5a36a3bfba5dafcb4993",
+    "name": "W 103.7 FM",
+    "country": "HN",
+    "url": "https://sonicpanel.us/8138/stream",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "921acec9-3b85-487d-b13c-3e2a5de27be5"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T21:43:33Z"
   },
   {
     "id": "aws_2993c37a00e7aa094a80",

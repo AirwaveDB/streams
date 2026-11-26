@@ -1912,7 +1912,7 @@
       "49559e48-3e70-40b8-80c3-506ddee1cae8"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T21:21:16Z"
+    "lastCheckedAt": "2026-11-25T21:21:22Z"
   },
   {
     "id": "aws_d9e5f428eb7576e95388",
@@ -2465,7 +2465,7 @@
       "2d9c91b8-a060-4d34-9c4a-108ca9947a7d"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T13:08:21Z"
+    "lastCheckedAt": "2026-11-25T13:10:08Z"
   },
   {
     "id": "aws_8f1a96d1fb4dbbb36b7f",
@@ -11102,7 +11102,7 @@
       "cac49797-13b1-46f7-a08c-29158cb5b432"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:36:40Z"
+    "lastCheckedAt": "2026-11-25T17:39:08Z"
   },
   {
     "id": "aws_0e4fa75f477aadde31f7",
@@ -25751,7 +25751,7 @@
       "9fd976c5-87fd-408d-bb6d-2bd47fc588b4"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:06:33Z"
+    "lastCheckedAt": "2026-11-25T18:06:39Z"
   },
   {
     "id": "aws_092ce9f78a3b50450031",
@@ -25846,7 +25846,7 @@
       "b3f36e48-5533-4684-aceb-3ddcbcde0c06"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:15:37Z"
+    "lastCheckedAt": "2026-11-25T18:15:46Z"
   },
   {
     "id": "aws_841d27c30595451486f3",
@@ -26055,7 +26055,7 @@
       "f99e952c-9653-4f17-9d47-7d0961fda953"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:32:42Z"
+    "lastCheckedAt": "2026-11-25T18:33:03Z"
   },
   {
     "id": "aws_e16eaceb11a5d3ae7c8d",
@@ -26131,7 +26131,7 @@
       "787299a4-5427-4005-831e-82ba40766341"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:50:07Z"
+    "lastCheckedAt": "2026-11-25T18:50:13Z"
   },
   {
     "id": "aws_e70543aef374ea330d70",
@@ -26188,7 +26188,7 @@
       "225564c2-dc33-4297-a402-187b51dfc016"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T19:30:41Z"
+    "lastCheckedAt": "2026-11-25T19:31:00Z"
   },
   {
     "id": "aws_c814559cac4e8c06f869",
@@ -28190,6 +28190,25 @@
     "lastCheckedAt": "2026-11-22T06:48:28Z"
   },
   {
+    "id": "aws_ebaabb769d31d7fe177c",
+    "stationId": "awb_b989b7c7d8b07a6e79ba",
+    "name": "Xristos 1000",
+    "country": "GR",
+    "url": "https://s2.e-resellers.gr/proxy/a1000/stream",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "2b582ebd-5c0e-4aa4-a22f-67df1c7c0150"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T19:56:24Z"
+  },
+  {
     "id": "aws_d887442b5d717a323a14",
     "stationId": "awb_6d77de4144e1a3190774",
     "name": "XROMA 105.8",
@@ -28422,6 +28441,44 @@
     "lastCheckedAt": "2026-08-24"
   },
   {
+    "id": "aws_48eb56999d2177cce7bf",
+    "stationId": "awb_ec8b092287fccf539bf8",
+    "name": "Zizanio",
+    "country": "GR",
+    "url": "https://stream-177.surfernetwork.com/4u8a8luv5rfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dThhOGx1djVyZnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJlTk1WZkNsMFJ4Q3UwVXJIQW45NGVnIiwiaWF0IjoxNzk1NjM3NDAxLCJleHAiOjE3OTU2Mzc0NjF9.OQ4A19YeT5zK2s8yePO2ROShPxb6BwvMP4TYohcS1Ek",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "3686a405-0345-4d13-9ef2-7ad8aacdad7d"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T20:13:30Z"
+  },
+  {
+    "id": "aws_c3a435ec09da1bcef8dc",
+    "stationId": "awb_a61c5df27e5f6aa027ff",
+    "name": "Zografou",
+    "country": "GR",
+    "url": "http://i3.streams.ovh:12162/live",
+    "codec": "mp3",
+    "bitrate": 192,
+    "protocol": "http",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "c0d2c529-33e8-4e71-b315-f0904ea4d856"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T20:18:21Z"
+  },
+  {
     "id": "aws_77b15ea9f0a161bb5359",
     "stationId": "awb_46b963ee2c8391ab336f",
     "name": "Zoo 90.8",
@@ -28496,6 +28553,25 @@
     ],
     "lastCheckOk": true,
     "lastCheckedAt": "2026-11-22T01:27:48Z"
+  },
+  {
+    "id": "aws_a7509a57014e09561db5",
+    "stationId": "awb_fd0c5e8b4a262be35beb",
+    "name": "Zoom 98.4",
+    "country": "GR",
+    "url": "https://radio.escape-media.gr:8062/stream/?1741596783481",
+    "codec": "mp3",
+    "bitrate": 128,
+    "protocol": "https",
+    "hls": false,
+    "sources": [
+      "radio-browser"
+    ],
+    "sourceIds": [
+      "9a3e5b95-9b36-4636-a693-07206e753d33"
+    ],
+    "lastCheckOk": true,
+    "lastCheckedAt": "2026-11-25T20:26:29Z"
   },
   {
     "id": "aws_9ddc509dbaf6903808a4",
@@ -30074,7 +30150,7 @@
       "b75efab1-4778-4025-b6f8-9c1d991b6e2b"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T17:38:47Z"
+    "lastCheckedAt": "2026-11-25T17:39:41Z"
   },
   {
     "id": "aws_138fe403ef249e962786",
@@ -31843,7 +31919,7 @@
       "d9ade689-c8d0-44a6-9592-b5e4366ae146"
     ],
     "lastCheckOk": true,
-    "lastCheckedAt": "2026-11-20T18:05:08Z"
+    "lastCheckedAt": "2026-11-25T18:06:07Z"
   },
   {
     "id": "aws_3469d9851579456f0896",
