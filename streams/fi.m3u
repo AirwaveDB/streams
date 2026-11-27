@@ -87,7 +87,7 @@ https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=fal
 http://stream.nsp.se:8000/pop
 #EXTINF:-1 station-id="awb_3eb45acd20f26d887ae8" stream-id="aws_6b390ca5761e5f18b3aa" codec="aac" bitrate="96",POPfm
 https://stream.madmenmedia.se/popfm
-#EXTINF:-1 station-id="awb_ec352c393c856f6e8a75" stream-id="aws_67d048b75767a8ef1d87" codec="aac" bitrate="68",Pride Radio
+#EXTINF:-1 station-id="awb_ec352c393c856f6e8a75" stream-id="aws_67d048b75767a8ef1d87" codec="mp3" bitrate="128",Pride Radio
 https://streaming.radioplay.fi/fi_pride_128.mp3
 #EXTINF:-1 station-id="awb_fbaea53bdc7653d22608" stream-id="aws_77fd8e0098bf07e900b6" codec="mp3" bitrate="128",Radio 957
 https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
@@ -129,10 +129,10 @@ http://isojako.radiodei.fi:8000/turkueurajoki
 http://hear.fi:8000/hear.mp3
 #EXTINF:-1 station-id="awb_bc31ea5e45a3cb629577" stream-id="aws_f9177d2c5d9699d41d1f" codec="mp3" bitrate="256",Radio Helsinki
 https://stream.radiohelsinki.fi/stream
-#EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_e51bbe7e3223de98c05a" codec="mp3" bitrate="256",Radio Helsinki 98,5 Mhz
-https://stream.radiohelsinki.fi/stream
 #EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_7974c8dcdcdee3217353" codec="mp3" bitrate="0",Radio Helsinki 98,5 Mhz
 https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1787325930&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
+#EXTINF:-1 station-id="awb_77ec40fb04396e91571c" stream-id="aws_e51bbe7e3223de98c05a" codec="mp3" bitrate="0",Radio Helsinki 98,5 Mhz
+https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1795744905&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
 #EXTINF:-1 station-id="awb_99198bf888d345efa9f5" stream-id="aws_869a2df5cf479f839200" codec="aac" bitrate="192",Radio Hiekka
 https://radiohiekka.ovh:8443/stream
 #EXTINF:-1 station-id="awb_1b5d3fda7aee78e4becb" stream-id="aws_18a649b0211e41b7c377" codec="aac" bitrate="96",Radio KAAKKO
@@ -153,7 +153,7 @@ http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690
 #EXTINF:-1 station-id="awb_9b6b0b46bb53d10e7951" stream-id="aws_21911b96f1124ce57cfd" codec="aac" bitrate="67",Radio Nova
 http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true
-#EXTINF:-1 station-id="awb_d3e8af6d931a43c1e418" stream-id="aws_87325cf99ea20b02c13f" codec="aac" bitrate="63",Radio Nova
+#EXTINF:-1 station-id="awb_d3e8af6d931a43c1e418" stream-id="aws_87325cf99ea20b02c13f" codec="aac" bitrate="64",Radio Nova
 https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1 station-id="awb_2a76bc070d38ad45a9c8" stream-id="aws_90859be7e2529a91dd0f" codec="mp3" bitrate="128",Radio Patmos
 http://s3.yesstreaming.net:7011/radio
@@ -221,7 +221,7 @@ https://s3.myradiostream.com/4976/listen.mp3
 http://s3.myradiostream.com:4976/;
 #EXTINF:-1 station-id="awb_799c541e529db23d562e" stream-id="aws_31c4c964efad87dd37ba" codec="mp3" bitrate="128",SuomiRap
 https://streaming.radioplay.fi/fi_suomirap_128.mp3
-#EXTINF:-1 station-id="awb_799c541e529db23d562e" stream-id="aws_7b5f1e50dba372944d80" codec="aac" bitrate="64",SuomiRap
+#EXTINF:-1 station-id="awb_799c541e529db23d562e" stream-id="aws_7b5f1e50dba372944d80" codec="aac" bitrate="63",SuomiRap
 https://suomirap-redirect.vercel.app/api/suomirap
 #EXTINF:-1 station-id="awb_7bb7226bd35aa46ed880" stream-id="aws_2a4cf0cc772df184ea89" codec="aac" bitrate="312",Sveriges Radio - SR Sisuradio
 https://live1.sr.se/finska-aac-320

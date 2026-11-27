@@ -15,15 +15,13 @@ https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02
 https://edge.audioxi.com/98DANCE
 #EXTINF:-1 station-id="awb_cfee8b1cda5c7dd0327c" stream-id="aws_a987c351582135ff82f9" codec="mp3" bitrate="192",98FM Throwback
 https://live-bauerie.sharp-stream.com/98
-#EXTINF:-1 station-id="awb_8a4a04081b1814358153" stream-id="aws_20c1609ee7cf68bd1526" codec="mp3" bitrate="96",ABC 80s (Dublin)
-https://canada1.reliastream.com/proxy/brendan3?mp=/stream
 #EXTINF:-1 station-id="awb_6de98fbdb1bed70f72b1" stream-id="aws_0efc03fd20f104f30288" codec="mp3" bitrate="128",ABC 80s Dublin - Neuer Stream
 https://cast3.torontocast.com:1750/stream
 #EXTINF:-1 station-id="awb_8a628ae1d7d4923fe51c" stream-id="aws_d05f405768f8062c971b" codec="mp3" bitrate="192",Ambient Lounge on MixLive.net
 https://free.rcast.net/200707
 #EXTINF:-1 station-id="awb_1de70909f93144e14f1c" stream-id="aws_e3ce1ff17eb8f8d22c89" codec="mp3" bitrate="128",Beat 102 103
 https://stream.audioxi.com/BEAT
-#EXTINF:-1 station-id="awb_1de70909f93144e14f1c" stream-id="aws_4765d7a8766991a3cac8" codec="aac" bitrate="96",Beat 102-103
+#EXTINF:-1 station-id="awb_1de70909f93144e14f1c" stream-id="aws_4765d7a8766991a3cac8" codec="aac" bitrate="95",Beat 102-103
 http://stream.audioxi.com/BEATAAC
 #EXTINF:-1 station-id="awb_1de70909f93144e14f1c" stream-id="aws_9dcb6f26f6174ccaeeec" codec="mp3" bitrate="128",Beat 102-103
 https://live-bauerie.sharp-stream.com/BEAT
@@ -131,6 +129,8 @@ https://rocafmadrid.radioca.st/stream
 https://edge3.audioxi.com/FREEDOMFM
 #EXTINF:-1 station-id="awb_40cffd90dc5a10f35895" stream-id="aws_dffe7793b1ce69941fd3" codec="mp3" bitrate="128",Funky Ass Tunes
 https://ams1.reliastream.com/proxy/john12/stream
+#EXTINF:-1 station-id="awb_69bc462da377bf2700b8" stream-id="aws_95aa7e8031e611fe1e9c" codec="aac" bitrate="64",Galway Bay FM
+https://gbfm.tibus.stream/stream1-aac
 #EXTINF:-1 station-id="awb_92bf8c11e1b3fd6ef7b9" stream-id="aws_8342d2d5a3029dbb3ae6" codec="mp3" bitrate="128",GEM New Wave Radio
 http://95.217.34.48:8928/stream
 #EXTINF:-1 station-id="awb_66cd8c9de48e9a770430" stream-id="aws_e73e5909fb5cb726ea03" codec="mp3" bitrate="128",Gem New Wave Radio
@@ -181,7 +181,7 @@ https://live.onic.ie/stream-live95
 https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
 #EXTINF:-1 station-id="awb_07bed20c42ce6d1dfe39" stream-id="aws_774e27b689bbb81aa22d" codec="mp3" bitrate="128",LiveIreland
 http://lynx.prostreaming.net:8058/;
-#EXTINF:-1 station-id="awb_dae7f7dd694c1c54625f" stream-id="aws_1f8b8ce6ada994191d6d" codec="aac" bitrate="128",LMFM
+#EXTINF:-1 station-id="awb_dae7f7dd694c1c54625f" stream-id="aws_1f8b8ce6ada994191d6d" codec="aac" bitrate="127",LMFM
 https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
 #EXTINF:-1 station-id="awb_50c28f2b33862e8f0e2f" stream-id="aws_377ad85bf072dcfb889d" codec="aac" bitrate="128",Loughrea Community Radio
 http://stream1.hippynet.co.uk/stream/loughrea
@@ -346,7 +346,7 @@ https://a1.asurahosting.com:10000/radio.mp3
 #EXTINF:-1 station-id="awb_e8430b77a8c6e9565f3e" stream-id="aws_07c00ea99fbf831bcac0" codec="mp3" bitrate="320",SOLID GOLD RADIO IRELAND
 https://az11.yesstreaming.net:8020/radio.mp3
 #EXTINF:-1 station-id="awb_6eb80855ca4ba1c7c6ef" stream-id="aws_1a0cfdc60eaaefce94d6" codec="mp3" bitrate="320",SOLID GOLD RADIO IRELAND 1
-https://az10.yesstreaming.net:8560/radio.mp3
+https://az10.yesstreaming.net:8620/radio.mp3
 #EXTINF:-1 station-id="awb_25914653aead057e262f" stream-id="aws_54b61562b812d113437a" codec="mp3" bitrate="128",South East Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 #EXTINF:-1 station-id="awb_b7daa873c495a2be1bc4" stream-id="aws_7f0beb85de70e4e61058" codec="mp3" bitrate="192",Spin 103.8
@@ -383,7 +383,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
 https://de2.streamingpulse.com/ssl/THRCL
 #EXTINF:-1 station-id="awb_eae6b3d2b4cbde1fb3a9" stream-id="aws_b7b80a7967df35846dd1" codec="mp3" bitrate="0",Tipperary Mid West Community Radio
 https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
-#EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_42eeffe0b58d08e05356" codec="aac+" bitrate="63",Today FM
+#EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_42eeffe0b58d08e05356" codec="aac+" bitrate="64",Today FM
 https://live-bauerie.sharp-stream.com/TDAAC
 #EXTINF:-1 station-id="awb_937725138f025209e840" stream-id="aws_7054385d3b6f65e30b91" codec="mp3" bitrate="128",Today FM
 https://stream.audioxi.com/TD
@@ -393,7 +393,7 @@ https://edge3.audioxi.com/T80
 https://live-bauerie.sharp-stream.com/T80
 #EXTINF:-1 station-id="awb_9cabb848fb4c2d23a66a" stream-id="aws_d61f0cdc6b941923df60" codec="mp3" bitrate="128",Today FM 90s
 https://live-bauerie.sharp-stream.com/T90
-#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="64",TodayFm
+#EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_29ef470f3d7750fe361a" codec="aac+" bitrate="63",TodayFm
 https://edge.audioxi.com/TDAAC
 #EXTINF:-1 station-id="awb_6022d7baddf8f6552b77" stream-id="aws_39de9e22d9c2b72f96e6" codec="mp3" bitrate="128",TodayFm
 https://pri.gocaster.net/td
